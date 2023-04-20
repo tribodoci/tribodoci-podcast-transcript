@@ -1,0 +1,1472 @@
+1
+00:00:00,000 --> 00:00:15,000
+Você está ouvindo o Tribo do C.I. Podcast!
+
+2
+00:00:15,000 --> 00:00:19,360
+Tribo do C.I. Podcast, episódio 11, entrevista com o Loiane Groner.
+
+3
+00:00:19,360 --> 00:00:23,280
+Aqui é Sebastião Nelson e é a primeira vez que eu estou gravando sozinho.
+
+4
+00:00:31,000 --> 00:00:37,000
+A ideia de fazer uma entrevista com o Loiane surgiu com o podcast com as meninas do grupo WMNT.
+
+5
+00:00:37,000 --> 00:00:41,000
+A gente queria colocar a entrevista junto com o podcast.
+
+6
+00:00:41,000 --> 00:00:47,000
+No entanto, ficou um pouco grande. A gente achou melhor colocar em um episódio separado.
+
+7
+00:00:47,000 --> 00:00:49,000
+Vamos lá para a entrevista?
+
+8
+00:00:54,000 --> 00:00:57,000
+Eu convidei a Márcia para fazer essa entrevista com a Eliana aqui.
+
+9
+00:00:57,000 --> 00:01:02,000
+Então, Nelson, mas explica aí, como é que a gente vai entrevistar a Loiane se ela não está aqui?
+
+10
+00:01:02,000 --> 00:01:10,000
+Então, principalmente, eu tento até fazer por Skype, mas a gente tinha que ter disponibilidade do horário dela e meu também.
+
+11
+00:01:10,000 --> 00:01:16,000
+Então ficou complicado. Eu acabei mandando as perguntas por e-mail e ela me respondeu no áudio.
+
+12
+00:01:16,000 --> 00:01:20,000
+Aí a gente vai gravar as perguntas para vocês saberem que a gente perguntou, não é?
+
+13
+00:01:20,000 --> 00:01:22,000
+Ah, entendi. Então vamos começar então.
+
+14
+00:01:27,000 --> 00:01:40,000
+O Loiane fala para a gente da sua formação. Do que você está trabalhando atualmente? No que você já trabalhou?
+
+15
+00:01:40,000 --> 00:01:47,000
+Olá, eu sou a Loiane. Sou baixa e ansiante da computação. Já trabalho na área de TI há mais ou menos cinco anos.
+
+16
+00:01:47,000 --> 00:01:55,000
+Atualmente estou trabalhando em um projeto internacional no IBM com foco em desenvolvimento web na plataforma Java.
+
+17
+00:01:55,000 --> 00:02:03,000
+E também trabalho com alguns frameworks JavaScript, como jQuery e XJS, além de liderar uma pequena equipe nesse projeto.
+
+18
+00:02:03,000 --> 00:02:13,000
+Então, ainda conhecendo sobre você, a gente gostaria de saber quando veio o interesse sobre informática até chegar à decisão de cursar uma faculdade na área.
+
+19
+00:02:13,000 --> 00:02:23,000
+Ah, bem, na verdade, eu sempre quis fazer curso de direito. Na metade do terceiro ano, eu decidi mudar de curso, mudar de uma nas para exatas,
+
+20
+00:02:23,000 --> 00:02:28,000
+porque eu não odiava ficar decorando todos aqueles fatos históricos que caiam no vestibular.
+
+21
+00:02:28,000 --> 00:02:34,000
+E sempre gostei também muito de física e matemática. Foi aí então que eu decidi fazer um curso de exatas.
+
+22
+00:02:34,000 --> 00:02:40,000
+Mas aí veio a dúvida. Qual curso fazer? Tinha as opções de engenharia, que eu não gostava muito.
+
+23
+00:02:40,000 --> 00:02:46,000
+E engenharia da computação e ciência da computação. E aí eu decidi fazer ciência da computação porque eu sempre gostei muito de computador.
+
+24
+00:02:46,000 --> 00:02:51,000
+E pensava que quando eu entrasse na faculdade, eu ia aprender a consertar computador.
+
+25
+00:02:51,000 --> 00:02:56,000
+Lógica de programação era uma coisa que nunca tinha... não sabia o que que era isso, né?
+
+26
+00:02:56,000 --> 00:03:04,000
+E aí quando comecei a faculdade, eu levei um baita-shock, porque os professores vieram com aquela ideia de algoritmos, né?
+
+27
+00:03:04,000 --> 00:03:10,000
+Não sabia nada daquilo. Então eu tive um pouquinho de dificuldade no início, mas aí eu decidi estudar bastante.
+
+28
+00:03:10,000 --> 00:03:16,000
+No final do primeiro semestre, eu estava continuado pela área. Foi assim que surgiu minha paixão por TI.
+
+29
+00:03:22,000 --> 00:03:27,000
+Moiane, explica pra gente como é que você trabalha com o seu marketing pessoal.
+
+30
+00:03:27,000 --> 00:03:36,000
+Começou na faculdade, no seu blog, ou já veio lá do ensino médio. Fala um pouco como é que nasceu essa cultura em você.
+
+31
+00:03:36,000 --> 00:03:40,000
+Sim, essa questão de marketing pessoal começou na faculdade mesmo.
+
+32
+00:03:40,000 --> 00:03:48,000
+No primeiro semestre, eu tive uma disciplina chamada Sociologia, onde o professor sempre estava de assunto diferente em cada aula.
+
+33
+00:03:48,000 --> 00:03:57,000
+Como por exemplo, autoestima com os comportar numa entrevista, como falar em público, como se vestir apropriadamente numa empresa, esse tipo de coisa.
+
+34
+00:03:57,000 --> 00:04:01,000
+Era uma disciplina que não tinha nada a ver com o curso, que era da área de humanas, né?
+
+35
+00:04:01,000 --> 00:04:05,000
+Mas acabou ajudando em outros aspectos da carreira.
+
+36
+00:04:05,000 --> 00:04:10,000
+No final, acabou sendo muito útil. Em uma dessas aulas, o professor comentou sobre marketing pessoal.
+
+37
+00:04:10,000 --> 00:04:14,000
+Falava sempre que a ideia é que você é um produto no mercado de trabalho, né?
+
+38
+00:04:14,000 --> 00:04:21,000
+Afinal, você está oferecendo um serviço e você precisa trabalhar essa sua imagem para ter algum tipo de valorização, né?
+
+39
+00:04:21,000 --> 00:04:27,000
+Para ter um poder de barganha. Como você vai oferecer uns serviços, você precisa mostrar as pessoas o que você sabe fazer.
+
+40
+00:04:27,000 --> 00:04:35,000
+Então, você precisa construir um nome. Na faculdade, então, comecei a tentar seguir todas essas dicas do professor e fazer um nome.
+
+41
+00:04:35,000 --> 00:04:39,000
+Tentar mostrar que eu conseguia trabalhar na hora de ter, que era bom que eu fazia.
+
+42
+00:04:42,000 --> 00:04:47,000
+Então, surgiu a oportunidade de participar da maratona de programação.
+
+43
+00:04:47,000 --> 00:04:55,000
+Foi a fase estadual no Espírito Sul. A nossa equipe ficou em primeiro lugar no estado e fomos qualificados para a fase final brasileira.
+
+44
+00:04:55,000 --> 00:05:02,000
+Na época, foi muito grande, porque a gente foi a primeira equipe do Espírito Sul para uma final brasileira maratona de programação.
+
+45
+00:05:02,000 --> 00:05:08,000
+E aí, começaram as notícias em jornais até porque terem a questão também de marketing da faculdade.
+
+46
+00:05:08,000 --> 00:05:13,000
+E aí, surgiu a oportunidade de ir fazendo matérias em jornais no decorrer da faculdade.
+
+47
+00:05:13,000 --> 00:05:16,000
+Foi convidado algumas vezes para fazer algumas entrevistas, algumas matérias.
+
+48
+00:05:16,000 --> 00:05:19,000
+E quando eu terminei a faculdade, eu decidi fazer o blog.
+
+49
+00:05:19,000 --> 00:05:24,000
+Eu estava perdendo muito tempo jogando videogame e eu queria aproveitar esse tempo para fazer alguma coisa útil.
+
+50
+00:05:24,000 --> 00:05:26,000
+Uma coisa que fosse boa para a minha carreira.
+
+51
+00:05:26,000 --> 00:05:28,000
+Em TI, você sempre precisa ficar atualizado.
+
+52
+00:05:28,000 --> 00:05:31,000
+Sempre precisa saber de tudo que tem de novo no mercado.
+
+53
+00:05:31,000 --> 00:05:37,000
+Então, eu decidi usar esse tempo que eu ficava jogando para estudar essas coisas e fazer um log.
+
+54
+00:05:37,000 --> 00:05:40,000
+Fazer um diário de tudo que eu estava aprendendo e publicado no blog.
+
+55
+00:05:40,000 --> 00:05:43,000
+Só que depois de um tempo, agora o blog tem dois anos, não é?
+
+56
+00:05:43,000 --> 00:05:45,000
+Eu acho que fez dois anos.
+
+57
+00:05:45,000 --> 00:05:47,000
+Tomou uma proporção que eu realmente não esperava.
+
+58
+00:05:47,000 --> 00:05:49,000
+O blog fica um pouquinho conhecido.
+
+59
+00:05:49,000 --> 00:05:52,000
+Então, eu tente transformar isso a favor.
+
+60
+00:05:52,000 --> 00:05:56,000
+Algo que seja bom para a imagem e para o currículo também.
+
+61
+00:06:06,000 --> 00:06:09,000
+E agora, vendo mais um outro lado profissional.
+
+62
+00:06:09,000 --> 00:06:12,000
+Como que é gerenciar equipes, você sendo mulher?
+
+63
+00:06:12,000 --> 00:06:14,000
+Ou assim, na verdade, você nem faz diferença ou faz?
+
+64
+00:06:14,000 --> 00:06:18,000
+Eu acho que tem uma diferença assim entre uma mulher gerenciando equipe
+
+65
+00:06:18,000 --> 00:06:20,000
+e um homem gerenciando equipe.
+
+66
+00:06:20,000 --> 00:06:23,000
+Acho que isso acontece com a maioria das mulheres.
+
+67
+00:06:23,000 --> 00:06:25,000
+Pelo menos isso acontece comigo.
+
+68
+00:06:25,000 --> 00:06:29,000
+Mesmo não sendo mãe, enrola aquele filho maternal.
+
+69
+00:06:29,000 --> 00:06:31,000
+Você sempre quer cuidar da sua equipe.
+
+70
+00:06:31,000 --> 00:06:34,000
+Você quer que ela se saia bem, se destaque.
+
+71
+00:06:34,000 --> 00:06:36,000
+Mas você também puxa a orelha quando precisa.
+
+72
+00:06:36,000 --> 00:06:41,000
+Acho que mulher trata com um carinho um pouco mais especial em relação a isso.
+
+73
+00:06:41,000 --> 00:06:46,000
+Tem também a questão de respeito por parte de outros homens, membros da equipe.
+
+74
+00:06:46,000 --> 00:06:50,000
+Primeiramente, porque você é mulher, acho que existe um respeito maior
+
+75
+00:06:50,000 --> 00:06:52,000
+quando essa diferença de sexo.
+
+76
+00:06:52,000 --> 00:06:57,000
+Quando você tem uma equipe só de homens, rola muito aquela questão da camarada.
+
+77
+00:06:57,000 --> 00:06:59,000
+A gente diz de um ser brother do outro.
+
+78
+00:06:59,000 --> 00:07:03,000
+E a mulher tem que manter um pouco mais de distância também.
+
+79
+00:07:03,000 --> 00:07:05,000
+Então, fica essa diferença.
+
+80
+00:07:05,000 --> 00:07:09,000
+Pode ser também que tenha essa questão de mulher ser o sexo frágil entre aspas.
+
+81
+00:07:09,000 --> 00:07:13,000
+Por isso, às vezes, alguns tratam com diferença.
+
+82
+00:07:13,000 --> 00:07:18,000
+Depois que você já tem certa intimidade com o equipe, já está trabalhando um bom tempo com isso,
+
+83
+00:07:18,000 --> 00:07:20,000
+essas coisas vão diminuindo.
+
+84
+00:07:20,000 --> 00:07:24,000
+Os homens passam de tratar mais como homem, não como mulher.
+
+85
+00:07:24,000 --> 00:07:27,000
+Pelo menos foi isso que eu tenho notado nessa minha experiência.
+
+86
+00:07:27,000 --> 00:07:29,000
+Como você está vendo a gente é bastante curioso.
+
+87
+00:07:29,000 --> 00:07:31,000
+Eu quero saber a seguinte sobre a sua rotina de trabalho.
+
+88
+00:07:31,000 --> 00:07:32,000
+Como é que é?
+
+89
+00:07:32,000 --> 00:07:36,000
+Você errou meu office, é com work, bate ponto todo dia com a gente.
+
+90
+00:07:36,000 --> 00:07:38,000
+Simples, mortais.
+
+91
+00:07:38,000 --> 00:07:41,000
+Minha rotina de trabalho, atualmente,
+
+92
+00:07:41,000 --> 00:07:43,000
+eu vou para a empresa todos os dias,
+
+93
+00:07:43,000 --> 00:07:46,000
+pego o fretado, na minha casa tem empresa,
+
+94
+00:07:46,000 --> 00:07:50,000
+eu moro em Campinas, mais um de eu trabalho em Autolântia,
+
+95
+00:07:50,000 --> 00:07:52,000
+mais ou menos 10 km de Campinas.
+
+96
+00:07:52,000 --> 00:07:53,000
+Um pouquinho afastado.
+
+97
+00:07:53,000 --> 00:07:56,000
+No meu projeto, não tem essa opção de fazer home office atualmente.
+
+98
+00:07:56,000 --> 00:08:01,000
+O cliente com que lido hoje é da área de saúde nos Estados Unidos
+
+99
+00:08:01,000 --> 00:08:05,000
+e a gente acaba processando muitas informações que são confidenciais.
+
+100
+00:08:05,000 --> 00:08:09,000
+Por isso, a gente precisa trabalhar numa área restrita no próprio site da empresa
+
+101
+00:08:09,000 --> 00:08:13,000
+para que não ocorra nenhum tipo de vazamento de informação.
+
+102
+00:08:13,000 --> 00:08:15,000
+O lado bom de você estar na empresa todos os dias
+
+103
+00:08:15,000 --> 00:08:20,000
+é que você pode ver seus colegas que aos poucos vão se tornando seus amigos.
+
+104
+00:08:20,000 --> 00:08:22,000
+Tem a questão de networking também.
+
+105
+00:08:22,000 --> 00:08:25,000
+Você conhece pessoas de outros projetos, de outras áreas,
+
+106
+00:08:25,000 --> 00:08:27,000
+assim, aumentando o seu networking.
+
+107
+00:08:27,000 --> 00:08:29,000
+O lado ruim a gente não pode fazer home office,
+
+108
+00:08:29,000 --> 00:08:32,000
+quando eu preciso fazer fora esse no fim de semana,
+
+109
+00:08:32,000 --> 00:08:34,000
+por exemplo, eu tenho que se deslocar de Campinas,
+
+110
+00:08:34,000 --> 00:08:37,000
+atar até Autolântia para ficar uns 2, 3 horas.
+
+111
+00:08:37,000 --> 00:08:41,000
+Mas facilitaria muito se pudesse ficar em casa para fazer essa hora extra.
+
+112
+00:08:41,000 --> 00:08:43,000
+Além de outros com modidades,
+
+113
+00:08:43,000 --> 00:08:46,000
+tem que você trabalhar em casa, como não ficar perdendo hora no trânsito,
+
+114
+00:08:46,000 --> 00:08:48,000
+esse tipo de coisa.
+
+115
+00:09:08,000 --> 00:09:10,000
+Sobre a importância de uma nova língua.
+
+116
+00:09:10,000 --> 00:09:14,000
+Ela te ajudou na seleção, ainda para trabalhar na empresa que trabalha hoje,
+
+117
+00:09:14,000 --> 00:09:17,000
+como que o inglês ajuda a trabalhar numa equipe multinacional,
+
+118
+00:09:17,000 --> 00:09:21,000
+como que evoluiu seu inglês antes de trabalhar numa empresa multinacional,
+
+119
+00:09:21,000 --> 00:09:24,000
+conviver com uma equipe mista de pessoas de vários países,
+
+120
+00:09:24,000 --> 00:09:28,000
+e como que manter também um blog com duas línguas?
+
+121
+00:09:28,000 --> 00:09:32,000
+Para quem trabalha com TI, saber inglês é tão importante
+
+122
+00:09:32,000 --> 00:09:34,000
+como saber o que é um computador.
+
+123
+00:09:34,000 --> 00:09:38,000
+A maioria das informações, dos livros que saem aí no mercado,
+
+124
+00:09:38,000 --> 00:09:39,000
+estão sempre em inglês.
+
+125
+00:09:39,000 --> 00:09:43,000
+E como as coisas estão mudando sempre e toda hora, sempre está saindo uma coisa nova,
+
+126
+00:09:43,000 --> 00:09:46,000
+se você for ficar esperando a tradução, às vezes você já está atrasado.
+
+127
+00:09:46,000 --> 00:09:49,000
+Então, acho que isso é um ponto fraco de não saber inglês.
+
+128
+00:09:49,000 --> 00:09:53,000
+No meu trabalho, por exemplo, tenho reuniões diárias com a equipe dos Estados Unidos.
+
+129
+00:09:53,000 --> 00:09:56,000
+Todas essas reuniões são feitas em inglês.
+
+130
+00:09:56,000 --> 00:10:01,000
+Então, saber falar inglês para o papel que eu desempeio tem extrema importância.
+
+131
+00:10:01,000 --> 00:10:05,000
+E às vezes a gente também precisa fazer a apresentação de produto
+
+132
+00:10:05,000 --> 00:10:08,000
+para o pessoal de negócios dos Estados Unidos.
+
+133
+00:10:08,000 --> 00:10:11,000
+Então, a gente tem que saber, além de vocabulário técnico,
+
+134
+00:10:11,000 --> 00:10:15,000
+o vocabulário do dia a dia de inglês, que sempre acaba
+
+135
+00:10:15,000 --> 00:10:17,000
+tendo perguntas como usar o clima aí no Brasil,
+
+136
+00:10:17,000 --> 00:10:19,000
+ou época de copa, né?
+
+137
+00:10:19,000 --> 00:10:23,000
+Ah, só o time perdeu, o time ganhou esse tipo de coisa.
+
+138
+00:10:23,000 --> 00:10:26,000
+Existem, existem várias empresas, especialmente quem São Paulo,
+
+139
+00:10:26,000 --> 00:10:30,000
+que tem bastante multinacional, que contratam uma pessoa só porque ela sabe inglês.
+
+140
+00:10:30,000 --> 00:10:34,000
+Tem alguns amigos que estavam começando a carreira,
+
+141
+00:10:34,000 --> 00:10:36,000
+mas sabiam inglês e conseguiram um bom emprego.
+
+142
+00:10:36,000 --> 00:10:41,000
+E hoje estão ganhando resolvvelmente bem, porque sabiam uma segunda língua.
+
+143
+00:10:41,000 --> 00:10:43,000
+Você não precisa nem ser tão bom tecnicamente,
+
+144
+00:10:43,000 --> 00:10:45,000
+né? Só o fato de você saber falar inglês,
+
+145
+00:10:45,000 --> 00:10:47,000
+já garei de uma forma muito boa.
+
+146
+00:10:48,000 --> 00:10:50,000
+Você não precisa nem ser tão bom tecnicamente, né?
+
+147
+00:10:50,000 --> 00:10:53,000
+Só o fato de você saber falar inglês, já garei de uma vaga.
+
+148
+00:10:53,000 --> 00:10:57,000
+É mais, é mais barato e é mais fácil para uma empresa
+
+149
+00:10:57,000 --> 00:11:00,000
+da treinamento de uma tecnologia, um funcionário,
+
+150
+00:11:00,000 --> 00:11:03,000
+que vai gastar aí um máximo uns dois, três meses,
+
+151
+00:11:03,000 --> 00:11:05,000
+do que ensinar inglês.
+
+152
+00:11:05,000 --> 00:11:08,000
+A curva de aprendizagem de qualquer idioma, ela é muito longa.
+
+153
+00:11:08,000 --> 00:11:11,000
+Ninguém faz aí um ano de curso de línguas
+
+154
+00:11:11,000 --> 00:11:13,000
+e sabe falar fluente a língua.
+
+155
+00:11:13,000 --> 00:11:15,000
+É um processo bem namorado.
+
+156
+00:11:15,000 --> 00:11:18,000
+Antes de começar a trabalhar na empresa que eu trabalho hoje,
+
+157
+00:11:18,000 --> 00:11:21,000
+eu já tinha um pouco de inglês, né?
+
+158
+00:11:21,000 --> 00:11:24,000
+Já sabia conversar, sabia ler, escrever e tal,
+
+159
+00:11:24,000 --> 00:11:26,000
+mas é aquela coisa, né?
+
+160
+00:11:26,000 --> 00:11:29,000
+Se você não não pratica, você acaba esquecendo muitas coisas.
+
+161
+00:11:29,000 --> 00:11:31,000
+Você consegue conversar pela minha CN, né?
+
+162
+00:11:31,000 --> 00:11:34,000
+Mas quando você precisa realmente praticar, falar ao vivo,
+
+163
+00:11:34,000 --> 00:11:37,000
+você tem uma certa dificuldade para fazer isso.
+
+164
+00:11:37,000 --> 00:11:40,000
+E hoje, tendo contato com o americano diariamente,
+
+165
+00:11:40,000 --> 00:11:42,000
+consegui melhorar bastante pronúncia,
+
+166
+00:11:42,000 --> 00:11:44,000
+aumentei o vocabularo,
+
+167
+00:11:44,000 --> 00:11:47,000
+existem certas palavras que você vê que eles usam sempre,
+
+168
+00:11:47,000 --> 00:11:50,000
+então você consegue notar essas diferenças e acaba
+
+169
+00:11:50,000 --> 00:11:52,000
+incluindo também na sua lista de palavras.
+
+170
+00:11:52,000 --> 00:11:55,000
+Além também de, com prática diária,
+
+171
+00:11:55,000 --> 00:11:58,000
+você também melhora a velocidade de conversação.
+
+172
+00:11:58,000 --> 00:12:00,000
+No início, quando você está aprendendo inglês,
+
+173
+00:12:00,000 --> 00:12:02,000
+você pensa antes de falar, né?
+
+174
+00:12:02,000 --> 00:12:04,000
+Você pensa em português, traduz para inglês e aí fala.
+
+175
+00:12:04,000 --> 00:12:07,000
+Com o tempo, você começa a pensar em inglês, né?
+
+176
+00:12:07,000 --> 00:12:11,000
+E isso te dá mais velocidade na hora de usar a segunda língua.
+
+177
+00:12:11,000 --> 00:12:14,000
+Outra coisa também que é bem legal,
+
+178
+00:12:14,000 --> 00:12:17,000
+é que na minha equipe, por exemplo, tem gente que é americano,
+
+179
+00:12:17,000 --> 00:12:18,000
+nativo, né?
+
+180
+00:12:18,000 --> 00:12:20,000
+Tem russo e tem indiano.
+
+181
+00:12:20,000 --> 00:12:22,000
+Cada um fala de uma maneira diferente,
+
+182
+00:12:22,000 --> 00:12:24,000
+cada um fala com um sotaque diferente.
+
+183
+00:12:24,000 --> 00:12:26,000
+O inglês, assim como o português, tem vários sotaques.
+
+184
+00:12:26,000 --> 00:12:29,000
+E convivendo com pessoas de sotaque diferentes,
+
+185
+00:12:29,000 --> 00:12:31,000
+você também consegue treinar melhor o seu ouvido.
+
+186
+00:12:31,000 --> 00:12:32,000
+Há uma palavra, às vezes,
+
+187
+00:12:32,000 --> 00:12:35,000
+pode ser dita de três maneiras diferentes,
+
+188
+00:12:35,000 --> 00:12:37,000
+então você começa a acostumar um pouco mais com a pronúncia
+
+189
+00:12:37,000 --> 00:12:40,000
+e com as maneiras que essa palavra é falada.
+
+190
+00:12:40,000 --> 00:12:43,000
+E isso pode deixar a aprendizagem mais fácil, né?
+
+191
+00:12:43,000 --> 00:12:46,000
+Treinar o ouvido é parte mais importante na hora que você está aprendendo
+
+192
+00:12:46,000 --> 00:12:47,000
+uma segunda língua, né?
+
+193
+00:12:47,000 --> 00:12:51,000
+Ela te ajuda e facilita muito quando você for aprender a escrever
+
+194
+00:12:51,000 --> 00:12:54,000
+e aprender a ler, além de aprender a falar também.
+
+195
+00:12:54,000 --> 00:12:56,000
+E depois que eu comecei a praticar inglês juramente,
+
+196
+00:12:56,000 --> 00:12:59,000
+eu senti essa necessidade de escrever melhor,
+
+197
+00:12:59,000 --> 00:13:00,000
+saber escrever melhor, né?
+
+198
+00:13:00,000 --> 00:13:03,000
+Você fala, você escreve e-mails mais técnicos,
+
+199
+00:13:03,000 --> 00:13:05,000
+mas quando eu preciso escrever um texto mais longo,
+
+200
+00:13:05,000 --> 00:13:06,000
+estava sentindo essa dificuldade.
+
+201
+00:13:06,000 --> 00:13:09,000
+Foi aí, então, que eu tive essa ideia de fazer o blog inglês também, né?
+
+202
+00:13:09,000 --> 00:13:12,000
+O legal é que no início as pessoas estavam corrigindo
+
+203
+00:13:12,000 --> 00:13:15,000
+quando o inglês estava errado, olha, o correto não é assim
+
+204
+00:13:15,000 --> 00:13:17,000
+e errando que você também aprende.
+
+205
+00:13:17,000 --> 00:13:18,000
+Além disso tudo, né?
+
+206
+00:13:18,000 --> 00:13:22,000
+Ter um blog inglês também ajuda bastante no currículo, né?
+
+207
+00:13:22,000 --> 00:13:24,000
+Ajuda a deixar o currículo melhor.
+
+208
+00:13:24,000 --> 00:13:26,000
+Às vezes você coloca que tem inglês no currículo,
+
+209
+00:13:26,000 --> 00:13:28,000
+mas não sabe como provar isso, né?
+
+210
+00:13:28,000 --> 00:13:29,000
+Só se você conversar com a pessoa
+
+211
+00:13:29,000 --> 00:13:31,000
+ou fazer um teste de inglês que você vai conseguir provar.
+
+212
+00:13:31,000 --> 00:13:34,000
+E já tem, às vezes, uma prova que fica até mais fácil,
+
+213
+00:13:34,000 --> 00:13:36,000
+também na hora de conseguir uma vaga de emprego.
+
+214
+00:13:40,000 --> 00:13:42,000
+E indo mais à fundo agora.
+
+215
+00:13:42,000 --> 00:13:45,000
+Como é que você concilia a sua vida pessoal e o seu trabalho?
+
+216
+00:13:45,000 --> 00:13:49,000
+Para você, blog é um trabalho, é um hobby,
+
+217
+00:13:49,000 --> 00:13:50,000
+ou são as duas coisas?
+
+218
+00:13:50,000 --> 00:13:52,000
+Você tem estudado desenvolvimento para o iPhone.
+
+219
+00:13:52,000 --> 00:13:54,000
+Fala para a gente o que mais estuda
+
+220
+00:13:54,000 --> 00:13:56,000
+e no que você aposta para o futuro.
+
+221
+00:13:56,000 --> 00:13:59,000
+Quando você arruma coisas essas para fazer,
+
+222
+00:13:59,000 --> 00:14:02,000
+na sua vida pessoal, fica mais complicado
+
+223
+00:14:02,000 --> 00:14:05,000
+de conciliar vida pessoal com vida profissional.
+
+224
+00:14:05,000 --> 00:14:08,000
+A minha sorte é que o memoria do trabalho
+
+225
+00:14:08,000 --> 00:14:10,000
+e no horário deslocado,
+
+226
+00:14:10,000 --> 00:14:12,000
+então não é todos os dias que ele fica em casa.
+
+227
+00:14:12,000 --> 00:14:14,000
+Então aproveita esse período que eu fico sozinha
+
+228
+00:14:14,000 --> 00:14:16,000
+para poder escrever e estudar,
+
+229
+00:14:16,000 --> 00:14:18,000
+e isso acaba não atrapalhando o relacionamento.
+
+230
+00:14:18,000 --> 00:14:19,000
+E no dia que ele está de folga,
+
+231
+00:14:19,000 --> 00:14:21,000
+a gente pode passar um tempo juntos,
+
+232
+00:14:21,000 --> 00:14:23,000
+como qualquer outro casal normal.
+
+233
+00:14:23,000 --> 00:14:25,000
+Também tem aquele dia que você quer fazer as suas coisas,
+
+234
+00:14:25,000 --> 00:14:26,000
+quer ficar um pouco sozinha,
+
+235
+00:14:26,000 --> 00:14:27,000
+mas aí é só pedir para o marido
+
+236
+00:14:27,000 --> 00:14:29,000
+que quer jogar um pouco de videogame,
+
+237
+00:14:29,000 --> 00:14:30,000
+e aí você tem o seu tempo.
+
+238
+00:14:30,000 --> 00:14:32,000
+Os blogs são trabalho e hobby.
+
+239
+00:14:32,000 --> 00:14:35,000
+É um trabalho porque acaba ajudando a minha vida profissional.
+
+240
+00:14:35,000 --> 00:14:36,000
+Eu preciso estudar um assunto
+
+241
+00:14:36,000 --> 00:14:38,000
+onde poder publicar e escrever algo,
+
+242
+00:14:38,000 --> 00:14:41,000
+isso acaba indo depois de como um conhecimento no currículo.
+
+243
+00:14:41,000 --> 00:14:43,000
+Acaba jogando mais uma palavrinha
+
+244
+00:14:43,000 --> 00:14:45,000
+daquela sopa de letrinhas do jogo no currículo.
+
+245
+00:14:45,000 --> 00:14:46,000
+E a hobby também porque é uma coisa
+
+246
+00:14:46,000 --> 00:14:48,000
+que com tempo passei a gostar de fazer.
+
+247
+00:14:48,000 --> 00:14:51,000
+Então hoje se passar uma semana sem escrever,
+
+248
+00:14:51,000 --> 00:14:52,000
+já começa a sentir falta.
+
+249
+00:14:52,000 --> 00:14:54,000
+Outras coisas aí além do blog,
+
+250
+00:14:54,000 --> 00:14:56,000
+que eu comecei a estudar por fora,
+
+251
+00:14:56,000 --> 00:14:59,000
+iPhone, comecei a estudar o Cocoa,
+
+252
+00:14:59,000 --> 00:15:01,000
+o native C, que é a linguagem,
+
+253
+00:15:01,000 --> 00:15:02,000
+para exemplo, é para iPhone,
+
+254
+00:15:02,000 --> 00:15:04,000
+mas eu estou apanhando bastante.
+
+255
+00:15:04,000 --> 00:15:06,000
+Você fica muito tempo acostumado com uma linguagem,
+
+256
+00:15:06,000 --> 00:15:08,000
+como eu estou acostumado com Java,
+
+257
+00:15:08,000 --> 00:15:10,000
+e às vezes sendo um pouco de dificuldade
+
+258
+00:15:10,000 --> 00:15:12,000
+para se acostumar com outra linguagem,
+
+259
+00:15:12,000 --> 00:15:13,000
+que é bem diferente.
+
+260
+00:15:13,000 --> 00:15:15,000
+Outras coisas que eu gostaria ter bastante
+
+261
+00:15:15,000 --> 00:15:17,000
+tem mais tempo para estudar,
+
+262
+00:15:17,000 --> 00:15:19,000
+é Ruby e Scala, que são duas linguagens
+
+263
+00:15:19,000 --> 00:15:21,000
+que estão bastante na boca do pessoal,
+
+264
+00:15:21,000 --> 00:15:23,000
+estão fazendo bastante sucesso,
+
+265
+00:15:23,000 --> 00:15:25,000
+você vê Twitter usando,
+
+266
+00:15:25,000 --> 00:15:27,000
+você vê vários projetos legais
+
+267
+00:15:27,000 --> 00:15:28,000
+que estão usando.
+
+268
+00:15:28,000 --> 00:15:29,000
+Outra coisa que eu gostaria também
+
+269
+00:15:29,000 --> 00:15:30,000
+de ter mais tempo para estudar
+
+270
+00:15:30,000 --> 00:15:32,000
+são alguns framework JavaScript,
+
+271
+00:15:32,000 --> 00:15:34,000
+como existe o XJS e jQuery,
+
+272
+00:15:34,000 --> 00:15:36,000
+e recentemente foram lançadas
+
+273
+00:15:36,000 --> 00:15:38,000
+versões desses frameworks para a plataforma mobile,
+
+274
+00:15:38,000 --> 00:15:41,000
+como a Cent lançou Cent Attach,
+
+275
+00:15:41,000 --> 00:15:44,000
+e o jQuery lançou o jQuery mobile.
+
+276
+00:15:44,000 --> 00:15:46,000
+A busca por profissionais que sabem
+
+277
+00:15:46,000 --> 00:15:48,000
+linguagens para dispositivos móveis
+
+278
+00:15:48,000 --> 00:15:50,000
+aumentou muito recentemente,
+
+279
+00:15:50,000 --> 00:15:52,000
+tanto para iPhone quanto para Android,
+
+280
+00:15:52,000 --> 00:15:54,000
+mas esse tipo de framework,
+
+281
+00:15:54,000 --> 00:15:56,000
+eles permitem que você escreva
+
+282
+00:15:56,000 --> 00:15:58,000
+o seu sistema uma vez,
+
+283
+00:15:58,000 --> 00:16:00,000
+e rode com qualquer plataforma.
+
+284
+00:16:00,000 --> 00:16:02,000
+Hoje, se você quer desenvolver
+
+285
+00:16:02,000 --> 00:16:04,000
+um produto que rode em iPhone, iPad,
+
+286
+00:16:04,000 --> 00:16:06,000
+Android, Blackberry,
+
+287
+00:16:06,000 --> 00:16:08,000
+tem que fazer três sistemas diferentes,
+
+288
+00:16:08,000 --> 00:16:10,000
+e esses frameworks JavaScript mobile
+
+289
+00:16:10,000 --> 00:16:12,000
+permitem que você desenvolva um sistema web
+
+290
+00:16:12,000 --> 00:16:14,000
+feito em HTML5 e CSS3,
+
+291
+00:16:14,000 --> 00:16:16,000
+que rode em qualquer aparelho.
+
+292
+00:16:19,000 --> 00:16:21,000
+E agora, fora do ambiente de trabalho,
+
+293
+00:16:21,000 --> 00:16:23,000
+quais são os seus hobbies assim,
+
+294
+00:16:23,000 --> 00:16:25,000
+música, livros, gerry gerry,
+
+295
+00:16:25,000 --> 00:16:27,000
+gerry...
+
+296
+00:16:29,000 --> 00:16:31,000
+Bem, no meu tempo livre,
+
+297
+00:16:31,000 --> 00:16:33,000
+eu escrevi por blog, mas eu também gosto
+
+298
+00:16:33,000 --> 00:16:35,000
+de fazer outras coisas, né?
+
+299
+00:16:35,000 --> 00:16:37,000
+Eu amo música, não consigo passar um dia
+
+300
+00:16:37,000 --> 00:16:39,000
+sem pelo menos escutar uma música.
+
+301
+00:16:39,000 --> 00:16:41,000
+Sempre que posso, eu vou achar
+
+302
+00:16:41,000 --> 00:16:43,000
+das minhas bandas favoritas,
+
+303
+00:16:43,000 --> 00:16:45,000
+e música mesmo, eu gosto bastante
+
+304
+00:16:45,000 --> 00:16:47,000
+de escutar metal. Eu gosto de ler
+
+305
+00:16:47,000 --> 00:16:49,000
+também coisas não técnicas,
+
+306
+00:16:49,000 --> 00:16:51,000
+livros não técnicos, e como meta,
+
+307
+00:16:51,000 --> 00:16:53,000
+agora só estou lendo livros
+
+308
+00:16:53,000 --> 00:16:55,000
+em inglês. Assim, eu posso
+
+309
+00:16:55,000 --> 00:16:57,000
+aprender inglês, para aumentar meu vocabularo
+
+310
+00:16:57,000 --> 00:16:59,000
+e também me divertir ao mesmo tempo.
+
+311
+00:16:59,000 --> 00:17:01,000
+Os três últimos livros que eu li
+
+312
+00:17:01,000 --> 00:17:03,000
+é o primeiro livro da série do
+
+313
+00:17:03,000 --> 00:17:05,000
+Percy Jackson, o Halo,
+
+314
+00:17:05,000 --> 00:17:07,000
+que é um livro de uma escritora australiana
+
+315
+00:17:07,000 --> 00:17:09,000
+bem novinha, acho que eu tenho 18 anos,
+
+316
+00:17:09,000 --> 00:17:11,000
+livro bem legal, assim, bem
+
+317
+00:17:11,000 --> 00:17:13,000
+adolescente, Awakened, que é da série
+
+318
+00:17:13,000 --> 00:17:15,000
+House of Night, é uma dessas séries aí
+
+319
+00:17:15,000 --> 00:17:17,000
+que provavelmente deve virar
+
+320
+00:17:17,000 --> 00:17:19,000
+um moldinho depois de noção filme, e eu gosto
+
+321
+00:17:19,000 --> 00:17:21,000
+de ler esses livros em foto juvenil, como
+
+322
+00:17:21,000 --> 00:17:23,000
+eu estou lendo em inglês, a linguagem é
+
+323
+00:17:23,000 --> 00:17:25,000
+mais fácil de você ler, do que você
+
+324
+00:17:25,000 --> 00:17:27,000
+pegar, por exemplo, um Tolkien,
+
+325
+00:17:27,000 --> 00:17:29,000
+e tentar ler Tolkien inglês
+
+326
+00:17:29,000 --> 00:17:31,000
+é bem mais complicado do que você pegar
+
+327
+00:17:31,000 --> 00:17:33,000
+esses livros modinhas.
+
+328
+00:17:33,000 --> 00:17:35,000
+A linguagem é bem mais fácil, porque eu vou
+
+329
+00:17:35,000 --> 00:17:37,000
+voltar para um público mais jovem.
+
+330
+00:17:37,000 --> 00:17:39,000
+Eu também gosto de jogar videogame,
+
+331
+00:17:39,000 --> 00:17:41,000
+afinal, todo mundo precisa de um tempo,
+
+332
+00:17:41,000 --> 00:17:43,000
+os últimos jogos que
+
+333
+00:17:43,000 --> 00:17:45,000
+joguei são The Sims 3,
+
+334
+00:17:45,000 --> 00:17:47,000
+e algumas expansões, e Sacred 2.
+
+335
+00:17:47,000 --> 00:17:49,000
+O Sacred é um jogo
+
+336
+00:17:49,000 --> 00:17:51,000
+desses RPG.
+
+337
+00:18:07,000 --> 00:18:09,000
+Loian, se a gente quiser saber mais
+
+338
+00:18:09,000 --> 00:18:11,000
+e mais sobre você, onde é que a gente
+
+339
+00:18:11,000 --> 00:18:13,000
+te encontra? Deixa para a gente seu blog,
+
+340
+00:18:13,000 --> 00:18:15,000
+seu Twitter, Facebook.
+
+341
+00:18:15,000 --> 00:18:17,000
+Vocês podem me encontrar nos meus
+
+342
+00:18:17,000 --> 00:18:19,000
+dois blogs, que é o
+
+343
+00:18:19,000 --> 00:18:21,000
+loianne.com em português
+
+344
+00:18:21,000 --> 00:18:23,000
+e o loiannegroner.com em inglês.
+
+345
+00:18:23,000 --> 00:18:25,000
+No Twitter, eu sou
+
+346
+00:18:25,000 --> 00:18:27,000
+loianne, ok? No Facebook,
+
+347
+00:18:27,000 --> 00:18:29,000
+também é
+
+348
+00:18:29,000 --> 00:18:31,000
+facebook.com-loianne. E o blog
+
+349
+00:18:31,000 --> 00:18:33,000
+agora também tem uma página no Facebook,
+
+350
+00:18:33,000 --> 00:18:35,000
+que é o facebook.com-loiannegroner.
+
+351
+00:18:35,000 --> 00:18:37,000
+Então, quem quiser
+
+352
+00:18:37,000 --> 00:18:39,000
+ir lá dar um like, um gostar,
+
+353
+00:18:39,000 --> 00:18:41,000
+vou ficar muito agradecida. E falando
+
+354
+00:18:41,000 --> 00:18:43,000
+em agradecimentos, gostaria
+
+355
+00:18:43,000 --> 00:18:45,000
+muito de agradecer, ou convite
+
+356
+00:18:45,000 --> 00:18:47,000
+para poder participar desse podcast.
+
+357
+00:18:47,000 --> 00:18:49,000
+Fiquei muito honrada, então
+
+358
+00:18:49,000 --> 00:18:51,000
+muito obrigada mesmo.
+
+359
+00:18:57,000 --> 00:18:59,000
+Então, essa foi a entrevista com o loianne.
+
+360
+00:18:59,000 --> 00:19:01,000
+Eu não sei nem como agradecer,
+
+361
+00:19:01,000 --> 00:19:03,000
+porque esse tempo que ela disponibilizou
+
+362
+00:19:03,000 --> 00:19:05,000
+para a gente, essa entrevista, essa atenção
+
+363
+00:19:05,000 --> 00:19:07,000
+que ela deu para a gente. E,
+
+364
+00:19:07,000 --> 00:19:09,000
+um brigadão mesmo.
+
+365
+00:19:09,000 --> 00:19:11,000
+Valeu loianne, valeu.
+
+366
+00:19:11,000 --> 00:19:13,000
+Mano, um bocadinho de flores com bombons
+
+367
+00:19:13,000 --> 00:19:15,000
+de vermelho.
+
+368
+00:19:15,000 --> 00:19:17,000
+Eis, pessoal.
+

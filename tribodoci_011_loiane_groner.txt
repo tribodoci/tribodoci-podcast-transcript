@@ -1,0 +1,368 @@
+Você está ouvindo o Tribo do C.I. Podcast!
+Tribo do C.I. Podcast, episódio 11, entrevista com o Loiane Groner.
+Aqui é Sebastião Nelson e é a primeira vez que eu estou gravando sozinho.
+A ideia de fazer uma entrevista com o Loiane surgiu com o podcast com as meninas do grupo WMNT.
+A gente queria colocar a entrevista junto com o podcast.
+No entanto, ficou um pouco grande. A gente achou melhor colocar em um episódio separado.
+Vamos lá para a entrevista?
+Eu convidei a Márcia para fazer essa entrevista com a Eliana aqui.
+Então, Nelson, mas explica aí, como é que a gente vai entrevistar a Loiane se ela não está aqui?
+Então, principalmente, eu tento até fazer por Skype, mas a gente tinha que ter disponibilidade do horário dela e meu também.
+Então ficou complicado. Eu acabei mandando as perguntas por e-mail e ela me respondeu no áudio.
+Aí a gente vai gravar as perguntas para vocês saberem que a gente perguntou, não é?
+Ah, entendi. Então vamos começar então.
+O Loiane fala para a gente da sua formação. Do que você está trabalhando atualmente? No que você já trabalhou?
+Olá, eu sou a Loiane. Sou baixa e ansiante da computação. Já trabalho na área de TI há mais ou menos cinco anos.
+Atualmente estou trabalhando em um projeto internacional no IBM com foco em desenvolvimento web na plataforma Java.
+E também trabalho com alguns frameworks JavaScript, como jQuery e XJS, além de liderar uma pequena equipe nesse projeto.
+Então, ainda conhecendo sobre você, a gente gostaria de saber quando veio o interesse sobre informática até chegar à decisão de cursar uma faculdade na área.
+Ah, bem, na verdade, eu sempre quis fazer curso de direito. Na metade do terceiro ano, eu decidi mudar de curso, mudar de uma nas para exatas,
+porque eu não odiava ficar decorando todos aqueles fatos históricos que caiam no vestibular.
+E sempre gostei também muito de física e matemática. Foi aí então que eu decidi fazer um curso de exatas.
+Mas aí veio a dúvida. Qual curso fazer? Tinha as opções de engenharia, que eu não gostava muito.
+E engenharia da computação e ciência da computação. E aí eu decidi fazer ciência da computação porque eu sempre gostei muito de computador.
+E pensava que quando eu entrasse na faculdade, eu ia aprender a consertar computador.
+Lógica de programação era uma coisa que nunca tinha... não sabia o que que era isso, né?
+E aí quando comecei a faculdade, eu levei um baita-shock, porque os professores vieram com aquela ideia de algoritmos, né?
+Não sabia nada daquilo. Então eu tive um pouquinho de dificuldade no início, mas aí eu decidi estudar bastante.
+No final do primeiro semestre, eu estava continuado pela área. Foi assim que surgiu minha paixão por TI.
+Moiane, explica pra gente como é que você trabalha com o seu marketing pessoal.
+Começou na faculdade, no seu blog, ou já veio lá do ensino médio. Fala um pouco como é que nasceu essa cultura em você.
+Sim, essa questão de marketing pessoal começou na faculdade mesmo.
+No primeiro semestre, eu tive uma disciplina chamada Sociologia, onde o professor sempre estava de assunto diferente em cada aula.
+Como por exemplo, autoestima com os comportar numa entrevista, como falar em público, como se vestir apropriadamente numa empresa, esse tipo de coisa.
+Era uma disciplina que não tinha nada a ver com o curso, que era da área de humanas, né?
+Mas acabou ajudando em outros aspectos da carreira.
+No final, acabou sendo muito útil. Em uma dessas aulas, o professor comentou sobre marketing pessoal.
+Falava sempre que a ideia é que você é um produto no mercado de trabalho, né?
+Afinal, você está oferecendo um serviço e você precisa trabalhar essa sua imagem para ter algum tipo de valorização, né?
+Para ter um poder de barganha. Como você vai oferecer uns serviços, você precisa mostrar as pessoas o que você sabe fazer.
+Então, você precisa construir um nome. Na faculdade, então, comecei a tentar seguir todas essas dicas do professor e fazer um nome.
+Tentar mostrar que eu conseguia trabalhar na hora de ter, que era bom que eu fazia.
+Então, surgiu a oportunidade de participar da maratona de programação.
+Foi a fase estadual no Espírito Sul. A nossa equipe ficou em primeiro lugar no estado e fomos qualificados para a fase final brasileira.
+Na época, foi muito grande, porque a gente foi a primeira equipe do Espírito Sul para uma final brasileira maratona de programação.
+E aí, começaram as notícias em jornais até porque terem a questão também de marketing da faculdade.
+E aí, surgiu a oportunidade de ir fazendo matérias em jornais no decorrer da faculdade.
+Foi convidado algumas vezes para fazer algumas entrevistas, algumas matérias.
+E quando eu terminei a faculdade, eu decidi fazer o blog.
+Eu estava perdendo muito tempo jogando videogame e eu queria aproveitar esse tempo para fazer alguma coisa útil.
+Uma coisa que fosse boa para a minha carreira.
+Em TI, você sempre precisa ficar atualizado.
+Sempre precisa saber de tudo que tem de novo no mercado.
+Então, eu decidi usar esse tempo que eu ficava jogando para estudar essas coisas e fazer um log.
+Fazer um diário de tudo que eu estava aprendendo e publicado no blog.
+Só que depois de um tempo, agora o blog tem dois anos, não é?
+Eu acho que fez dois anos.
+Tomou uma proporção que eu realmente não esperava.
+O blog fica um pouquinho conhecido.
+Então, eu tente transformar isso a favor.
+Algo que seja bom para a imagem e para o currículo também.
+E agora, vendo mais um outro lado profissional.
+Como que é gerenciar equipes, você sendo mulher?
+Ou assim, na verdade, você nem faz diferença ou faz?
+Eu acho que tem uma diferença assim entre uma mulher gerenciando equipe
+e um homem gerenciando equipe.
+Acho que isso acontece com a maioria das mulheres.
+Pelo menos isso acontece comigo.
+Mesmo não sendo mãe, enrola aquele filho maternal.
+Você sempre quer cuidar da sua equipe.
+Você quer que ela se saia bem, se destaque.
+Mas você também puxa a orelha quando precisa.
+Acho que mulher trata com um carinho um pouco mais especial em relação a isso.
+Tem também a questão de respeito por parte de outros homens, membros da equipe.
+Primeiramente, porque você é mulher, acho que existe um respeito maior
+quando essa diferença de sexo.
+Quando você tem uma equipe só de homens, rola muito aquela questão da camarada.
+A gente diz de um ser brother do outro.
+E a mulher tem que manter um pouco mais de distância também.
+Então, fica essa diferença.
+Pode ser também que tenha essa questão de mulher ser o sexo frágil entre aspas.
+Por isso, às vezes, alguns tratam com diferença.
+Depois que você já tem certa intimidade com o equipe, já está trabalhando um bom tempo com isso,
+essas coisas vão diminuindo.
+Os homens passam de tratar mais como homem, não como mulher.
+Pelo menos foi isso que eu tenho notado nessa minha experiência.
+Como você está vendo a gente é bastante curioso.
+Eu quero saber a seguinte sobre a sua rotina de trabalho.
+Como é que é?
+Você errou meu office, é com work, bate ponto todo dia com a gente.
+Simples, mortais.
+Minha rotina de trabalho, atualmente,
+eu vou para a empresa todos os dias,
+pego o fretado, na minha casa tem empresa,
+eu moro em Campinas, mais um de eu trabalho em Autolântia,
+mais ou menos 10 km de Campinas.
+Um pouquinho afastado.
+No meu projeto, não tem essa opção de fazer home office atualmente.
+O cliente com que lido hoje é da área de saúde nos Estados Unidos
+e a gente acaba processando muitas informações que são confidenciais.
+Por isso, a gente precisa trabalhar numa área restrita no próprio site da empresa
+para que não ocorra nenhum tipo de vazamento de informação.
+O lado bom de você estar na empresa todos os dias
+é que você pode ver seus colegas que aos poucos vão se tornando seus amigos.
+Tem a questão de networking também.
+Você conhece pessoas de outros projetos, de outras áreas,
+assim, aumentando o seu networking.
+O lado ruim a gente não pode fazer home office,
+quando eu preciso fazer fora esse no fim de semana,
+por exemplo, eu tenho que se deslocar de Campinas,
+atar até Autolântia para ficar uns 2, 3 horas.
+Mas facilitaria muito se pudesse ficar em casa para fazer essa hora extra.
+Além de outros com modidades,
+tem que você trabalhar em casa, como não ficar perdendo hora no trânsito,
+esse tipo de coisa.
+Sobre a importância de uma nova língua.
+Ela te ajudou na seleção, ainda para trabalhar na empresa que trabalha hoje,
+como que o inglês ajuda a trabalhar numa equipe multinacional,
+como que evoluiu seu inglês antes de trabalhar numa empresa multinacional,
+conviver com uma equipe mista de pessoas de vários países,
+e como que manter também um blog com duas línguas?
+Para quem trabalha com TI, saber inglês é tão importante
+como saber o que é um computador.
+A maioria das informações, dos livros que saem aí no mercado,
+estão sempre em inglês.
+E como as coisas estão mudando sempre e toda hora, sempre está saindo uma coisa nova,
+se você for ficar esperando a tradução, às vezes você já está atrasado.
+Então, acho que isso é um ponto fraco de não saber inglês.
+No meu trabalho, por exemplo, tenho reuniões diárias com a equipe dos Estados Unidos.
+Todas essas reuniões são feitas em inglês.
+Então, saber falar inglês para o papel que eu desempeio tem extrema importância.
+E às vezes a gente também precisa fazer a apresentação de produto
+para o pessoal de negócios dos Estados Unidos.
+Então, a gente tem que saber, além de vocabulário técnico,
+o vocabulário do dia a dia de inglês, que sempre acaba
+tendo perguntas como usar o clima aí no Brasil,
+ou época de copa, né?
+Ah, só o time perdeu, o time ganhou esse tipo de coisa.
+Existem, existem várias empresas, especialmente quem São Paulo,
+que tem bastante multinacional, que contratam uma pessoa só porque ela sabe inglês.
+Tem alguns amigos que estavam começando a carreira,
+mas sabiam inglês e conseguiram um bom emprego.
+E hoje estão ganhando resolvvelmente bem, porque sabiam uma segunda língua.
+Você não precisa nem ser tão bom tecnicamente,
+né? Só o fato de você saber falar inglês,
+já garei de uma forma muito boa.
+Você não precisa nem ser tão bom tecnicamente, né?
+Só o fato de você saber falar inglês, já garei de uma vaga.
+É mais, é mais barato e é mais fácil para uma empresa
+da treinamento de uma tecnologia, um funcionário,
+que vai gastar aí um máximo uns dois, três meses,
+do que ensinar inglês.
+A curva de aprendizagem de qualquer idioma, ela é muito longa.
+Ninguém faz aí um ano de curso de línguas
+e sabe falar fluente a língua.
+É um processo bem namorado.
+Antes de começar a trabalhar na empresa que eu trabalho hoje,
+eu já tinha um pouco de inglês, né?
+Já sabia conversar, sabia ler, escrever e tal,
+mas é aquela coisa, né?
+Se você não não pratica, você acaba esquecendo muitas coisas.
+Você consegue conversar pela minha CN, né?
+Mas quando você precisa realmente praticar, falar ao vivo,
+você tem uma certa dificuldade para fazer isso.
+E hoje, tendo contato com o americano diariamente,
+consegui melhorar bastante pronúncia,
+aumentei o vocabularo,
+existem certas palavras que você vê que eles usam sempre,
+então você consegue notar essas diferenças e acaba
+incluindo também na sua lista de palavras.
+Além também de, com prática diária,
+você também melhora a velocidade de conversação.
+No início, quando você está aprendendo inglês,
+você pensa antes de falar, né?
+Você pensa em português, traduz para inglês e aí fala.
+Com o tempo, você começa a pensar em inglês, né?
+E isso te dá mais velocidade na hora de usar a segunda língua.
+Outra coisa também que é bem legal,
+é que na minha equipe, por exemplo, tem gente que é americano,
+nativo, né?
+Tem russo e tem indiano.
+Cada um fala de uma maneira diferente,
+cada um fala com um sotaque diferente.
+O inglês, assim como o português, tem vários sotaques.
+E convivendo com pessoas de sotaque diferentes,
+você também consegue treinar melhor o seu ouvido.
+Há uma palavra, às vezes,
+pode ser dita de três maneiras diferentes,
+então você começa a acostumar um pouco mais com a pronúncia
+e com as maneiras que essa palavra é falada.
+E isso pode deixar a aprendizagem mais fácil, né?
+Treinar o ouvido é parte mais importante na hora que você está aprendendo
+uma segunda língua, né?
+Ela te ajuda e facilita muito quando você for aprender a escrever
+e aprender a ler, além de aprender a falar também.
+E depois que eu comecei a praticar inglês juramente,
+eu senti essa necessidade de escrever melhor,
+saber escrever melhor, né?
+Você fala, você escreve e-mails mais técnicos,
+mas quando eu preciso escrever um texto mais longo,
+estava sentindo essa dificuldade.
+Foi aí, então, que eu tive essa ideia de fazer o blog inglês também, né?
+O legal é que no início as pessoas estavam corrigindo
+quando o inglês estava errado, olha, o correto não é assim
+e errando que você também aprende.
+Além disso tudo, né?
+Ter um blog inglês também ajuda bastante no currículo, né?
+Ajuda a deixar o currículo melhor.
+Às vezes você coloca que tem inglês no currículo,
+mas não sabe como provar isso, né?
+Só se você conversar com a pessoa
+ou fazer um teste de inglês que você vai conseguir provar.
+E já tem, às vezes, uma prova que fica até mais fácil,
+também na hora de conseguir uma vaga de emprego.
+E indo mais à fundo agora.
+Como é que você concilia a sua vida pessoal e o seu trabalho?
+Para você, blog é um trabalho, é um hobby,
+ou são as duas coisas?
+Você tem estudado desenvolvimento para o iPhone.
+Fala para a gente o que mais estuda
+e no que você aposta para o futuro.
+Quando você arruma coisas essas para fazer,
+na sua vida pessoal, fica mais complicado
+de conciliar vida pessoal com vida profissional.
+A minha sorte é que o memoria do trabalho
+e no horário deslocado,
+então não é todos os dias que ele fica em casa.
+Então aproveita esse período que eu fico sozinha
+para poder escrever e estudar,
+e isso acaba não atrapalhando o relacionamento.
+E no dia que ele está de folga,
+a gente pode passar um tempo juntos,
+como qualquer outro casal normal.
+Também tem aquele dia que você quer fazer as suas coisas,
+quer ficar um pouco sozinha,
+mas aí é só pedir para o marido
+que quer jogar um pouco de videogame,
+e aí você tem o seu tempo.
+Os blogs são trabalho e hobby.
+É um trabalho porque acaba ajudando a minha vida profissional.
+Eu preciso estudar um assunto
+onde poder publicar e escrever algo,
+isso acaba indo depois de como um conhecimento no currículo.
+Acaba jogando mais uma palavrinha
+daquela sopa de letrinhas do jogo no currículo.
+E a hobby também porque é uma coisa
+que com tempo passei a gostar de fazer.
+Então hoje se passar uma semana sem escrever,
+já começa a sentir falta.
+Outras coisas aí além do blog,
+que eu comecei a estudar por fora,
+iPhone, comecei a estudar o Cocoa,
+o native C, que é a linguagem,
+para exemplo, é para iPhone,
+mas eu estou apanhando bastante.
+Você fica muito tempo acostumado com uma linguagem,
+como eu estou acostumado com Java,
+e às vezes sendo um pouco de dificuldade
+para se acostumar com outra linguagem,
+que é bem diferente.
+Outras coisas que eu gostaria ter bastante
+tem mais tempo para estudar,
+é Ruby e Scala, que são duas linguagens
+que estão bastante na boca do pessoal,
+estão fazendo bastante sucesso,
+você vê Twitter usando,
+você vê vários projetos legais
+que estão usando.
+Outra coisa que eu gostaria também
+de ter mais tempo para estudar
+são alguns framework JavaScript,
+como existe o XJS e jQuery,
+e recentemente foram lançadas
+versões desses frameworks para a plataforma mobile,
+como a Cent lançou Cent Attach,
+e o jQuery lançou o jQuery mobile.
+A busca por profissionais que sabem
+linguagens para dispositivos móveis
+aumentou muito recentemente,
+tanto para iPhone quanto para Android,
+mas esse tipo de framework,
+eles permitem que você escreva
+o seu sistema uma vez,
+e rode com qualquer plataforma.
+Hoje, se você quer desenvolver
+um produto que rode em iPhone, iPad,
+Android, Blackberry,
+tem que fazer três sistemas diferentes,
+e esses frameworks JavaScript mobile
+permitem que você desenvolva um sistema web
+feito em HTML5 e CSS3,
+que rode em qualquer aparelho.
+E agora, fora do ambiente de trabalho,
+quais são os seus hobbies assim,
+música, livros, gerry gerry,
+gerry...
+Bem, no meu tempo livre,
+eu escrevi por blog, mas eu também gosto
+de fazer outras coisas, né?
+Eu amo música, não consigo passar um dia
+sem pelo menos escutar uma música.
+Sempre que posso, eu vou achar
+das minhas bandas favoritas,
+e música mesmo, eu gosto bastante
+de escutar metal. Eu gosto de ler
+também coisas não técnicas,
+livros não técnicos, e como meta,
+agora só estou lendo livros
+em inglês. Assim, eu posso
+aprender inglês, para aumentar meu vocabularo
+e também me divertir ao mesmo tempo.
+Os três últimos livros que eu li
+é o primeiro livro da série do
+Percy Jackson, o Halo,
+que é um livro de uma escritora australiana
+bem novinha, acho que eu tenho 18 anos,
+livro bem legal, assim, bem
+adolescente, Awakened, que é da série
+House of Night, é uma dessas séries aí
+que provavelmente deve virar
+um moldinho depois de noção filme, e eu gosto
+de ler esses livros em foto juvenil, como
+eu estou lendo em inglês, a linguagem é
+mais fácil de você ler, do que você
+pegar, por exemplo, um Tolkien,
+e tentar ler Tolkien inglês
+é bem mais complicado do que você pegar
+esses livros modinhas.
+A linguagem é bem mais fácil, porque eu vou
+voltar para um público mais jovem.
+Eu também gosto de jogar videogame,
+afinal, todo mundo precisa de um tempo,
+os últimos jogos que
+joguei são The Sims 3,
+e algumas expansões, e Sacred 2.
+O Sacred é um jogo
+desses RPG.
+Loian, se a gente quiser saber mais
+e mais sobre você, onde é que a gente
+te encontra? Deixa para a gente seu blog,
+seu Twitter, Facebook.
+Vocês podem me encontrar nos meus
+dois blogs, que é o
+loianne.com em português
+e o loiannegroner.com em inglês.
+No Twitter, eu sou
+loianne, ok? No Facebook,
+também é
+facebook.com-loianne. E o blog
+agora também tem uma página no Facebook,
+que é o facebook.com-loiannegroner.
+Então, quem quiser
+ir lá dar um like, um gostar,
+vou ficar muito agradecida. E falando
+em agradecimentos, gostaria
+muito de agradecer, ou convite
+para poder participar desse podcast.
+Fiquei muito honrada, então
+muito obrigada mesmo.
+Então, essa foi a entrevista com o loianne.
+Eu não sei nem como agradecer,
+porque esse tempo que ela disponibilizou
+para a gente, essa entrevista, essa atenção
+que ela deu para a gente. E,
+um brigadão mesmo.
+Valeu loianne, valeu.
+Mano, um bocadinho de flores com bombons
+de vermelho.
+Eis, pessoal.
