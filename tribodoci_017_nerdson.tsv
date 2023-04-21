@@ -1,0 +1,846 @@
+start	end	text
+0	7760	Lá em casa tinha uma pilha de quadrinhos da Disney, então eu ficava alendo antes de aprender a ler, folhando, na verdade.
+7760	9680	E aí, quando eu prendi a ler, cara...
+9680	13920	Tem que ser palavras exclusivas, vocês já ouviram o outro podcast já.
+14800	17120	RedeCAD, depoimentos exclusivos?
+17120	18880	Mas eu falei pela verdade.
+18880	20880	Agora você pode romanciar essa parte, então.
+30320	33760	Episódio 17, entrevista com o Carlisson Bizé.
+34800	38320	Olá a todos, eu sou o Carlisson do Hecton.com.
+38320	40720	Aqui é a Sebastião Reus, o meu quadrinho de U.S.T.
+40720	41600	Tinha só um leitor.
+41600	44960	Hoje eu estou sem inspiraça, eu acho que não vai ter introdução.
+44960	47920	Aqui é a Lemônia, eu estou esperando o Fidivéc do Fábio.
+60720	67120	Assim, a gente queria focar essa entrevista mais relacionada ao software livre.
+67120	70640	Pode começar falando como foi introduzido pelo software livre?
+70640	77920	Basicamente, quando eu entrei na faculdade e o laboratório lá o pessoal usava Linux, na época era conectiva.
+77920	82880	Então, a gente era praticamente passado a usar os Linux lá.
+82880	90480	Daí eu fui começando a experimentar em casa com outras distribuições como o Slackware e o Mandriva.
+90480	92080	Na época na verdade era o Mandrake.
+92080	96160	E aí, quando saiu o Ubuntu, foi que eu mergulhei de vez lá no Linux.
+96160	100960	Então, teve alguns eventos de software livre aqui em Natal, um encontro Portugal de software livre.
+100960	108560	E aí, o pessoal de fora falando sobre a coisa, eu ainda não tinha nenhuma noção do conceito, da comunidade e nada.
+108560	113920	Teve o Aurelio Rekard, o cara da Bahia que falou sobre o Inkscape, eu fiquei fascinado pelo programa.
+113920	119360	A possibilidade de fazer dezenas, fazer coisas que eu já fazia no Windows com CorelDraw e Flash.
+119360	122880	Poder fazer essas mesmas coisas de uma certa forma no Linux.
+122880	127760	Então, comecei a usar esses programas e pronto, foi que eu mergulhei de vez no software livre.
+127760	132880	E depois desse evento, eu comecei a participar dos outros, dando palestras e na organização também.
+132880	138480	E foi quando eu fui me envolvendo ainda mais, conhecendo essas pessoas, os caras ganhando software livre.
+138480	141840	Algum tempo, mais tarde, eu comecei a desenvolver software livre também.
+141840	148720	Comecei a ajudar no Inkscape com extensões e criando meus próprios softwares também, resumidamente isso.
+148720	150400	E isso foi mais ou menos em que ano, hein?
+150400	153440	2005, 2006, por aí.
+153440	161840	Essas extensões eram oficiais para ajudar o projeto diretamente, o projeto oficial você desenvolvia pra você mesmo?
+161840	166640	Não, para o projeto. Já tenho uma extensão minha lá no repositório oficial do Inkscape.
+166640	174160	É bem simples, mas os caras gostaram, os caras resolveram incluindo o projeto porque era um recurso que o Inkscape não tinha.
+174160	174880	Qual que é?
+174880	179440	Saiba o elemento de texto e quebra em outros elementos de texto, ela separa.
+179440	184400	Você pode escolher quebrar esse elemento por linhas ou por palavras ou por caracteres.
+184400	188800	Coisa bem simples, mas o Inkscape não tinha ainda, eu fiz com Python.
+188800	192800	É bastante interessante. E você ainda continua ativo no projeto?
+192800	207280	Não, nessa extensão eu já finalizei. Ela poderia ter algumas melhorias, mas eu deixei de lado um pouco e comecei outra extensão que é pra converter os desenhos do Inkscape que usam SVG pra canvas no HTML5.
+207280	211120	Nossa, isso aí é bastante interessante, hein? Deve estar dando trabalhão, hein?
+211120	212320	Dá lá, dá um trabalhão.
+212320	215600	E esse é legal porque peguei uma ajuda do pessoal da USP.
+215600	222880	Eu tenho um amigo meu lá na USP, Paulo Meirelles, que inclusive foi um dos caras que começaram os eventos aqui no Natal.
+222880	231440	E aí ele pegou um pessoal lá da USP de graduação, se não me engano, e formou uma força-tarefa pra colaborar com esse projeto da extensão, de conversão.
+231440	236080	E aí os caras fizeram várias alterações de acordo com a minha orientação.
+236080	241920	Eles já conseguiram implementar várias coisas que eu tinha em planos, só que eu ainda não tinha tempo pra programar.
+245600	248960	É louco! Meu prazer é abarroco!
+261360	262880	Qual foi a faculdade que você fez?
+262880	268560	Eu comecei na UFRN e desisti, aí foi pro surfete, na época era o surfete.
+268560	270160	Hoje aí ia a FRN.
+270160	271280	Eu desisti desse também.
+271280	272160	Qual curso que é?
+272160	273760	Era a ciência da computação.
+273760	274400	Ah, legal.
+274400	279120	Desisti desse e fui pra uma particular e me informei lá. Pronto, tô tranquilíssimo.
+279120	285600	É, mas voltando ao projeto, esse projeto ele ainda tá em fase de desenvolvimento, certo?
+285600	286160	Sim.
+286160	289440	Tem como baixar pra testar ou não?
+289440	292160	Sim, todos esses projetos mesmos estão no GitHub.
+292160	297920	Só pra gente não passar, eu também fiz ciência da computação e eu vou receber o difloma quase quatro anos depois, né?
+299600	302800	Eu demorei apenas dois anos pra apresentar meu TCC.
+302800	311280	Quando eu entrei nessa terceira faculdade na última tentativa, eu já tava dizendo a mim mesmo não, essa é a última chance, agora ou nunca?
+311280	316320	Porque eu comecei o curso em 2003 e vim me formar ano passado, em 2011.
+316320	320240	Então foram oito anos de tentativa aí, de muita paciência também.
+320240	321040	Quase uma década.
+321040	329440	Nessa última, eu fiz tudo dentro do prazo, tentei atrasar o mínimo possível pra ficar o menos tempo possível lá dentro, porque eu já tava de saco cheio.
+329440	333920	Então não demorei tanto apresentar o TCC, como você já fiz tudo na hora mesmo.
+333920	337520	Você sempre trabalhou com design e depois foi pra programação ou já mistiu?
+337520	346400	Como eu comecei bem antes de entrar na faculdade, eu já brincava com Coraldral, eu tinha começado já bem cedo nisso com desenho e fazendo quadrinhos na época.
+346400	351040	No podcast o pessoal do Castalho, eu vi você fez uns desenhos, né?
+351040	355280	A mão, você também já tem um amor pela arte desde pequeno, né?
+355280	357920	Essa coisa de criar histórias e tal.
+357920	366560	É, naturalmente eu enveredei pela carreira artística, só que como na época também, eu tanto gostava de fazer desenhos e quadrinhos,
+366560	372480	como eu também gostava de jogos e ficar brincando com o computador, decidi entrar em ciência da computação.
+372480	375680	Então o caminho mais natural seria de webdesign.
+375680	376320	Exatamente.
+376320	383840	Aí passei alguns, vários, alguns anos estudando e trabalhando com web, webdesign, e também fui enchendo o saco disso.
+383920	390960	Hoje eu evolui, eu digivolui para o web developer e eu estou tentando fazer uma evolução forçada para a ciência de mim.
+390960	399200	Para mudar um pouco de ação de novo, parece que você não está publicando as suas tirinhas ultimamente, o que está acontecendo?
+399200	409040	Eu parei por causa do TCC e depois que eu me formei, eu decidi dar uma parada para reformular toda a ideia do blog.
+409040	413920	Na verdade, não é mais blog, vai ser um site, deixou de ser um blog e faz muito tempo.
+413920	416560	Antes eu era Nerd, só agora é o Hectone.
+416560	421600	Quando eu coloquei esse site novo no ar, foi meio que um aborto, entendeu?
+421600	431360	Não foram todas as ideias que eu tinha planejado colocar no ar, então foi só a mudança de endereço e algumas coisas, mas ainda estou trabalhando nessa reforma.
+431360	434320	Eu também desenhava quadrinhos, acho que eu nunca revelei isso, né?
+434320	442720	Não, então com exclusividade para o meu próprio TCC, eu desenhava quadrinhos e era quadrinho de Western e eu tinha um leitor.
+442720	445040	Ah, você já me disse, já uma vez.
+445040	446560	O nome dele é Wagle.
+446560	448480	Meus leitores eram minha família.
+448480	449920	Conta como é que foi isso para a gente?
+449920	453840	É porque tem um background antes de começar a mexer com informática, né?
+453840	454960	Sim, sim.
+454960	462720	Lá em casa tinha uma pilha de quadrinhos da Disney, então eu ficava olhando antes de aprender a ler, folhando na verdade.
+462800	464720	E aí, quando eu aprendi a ler, cara...
+464720	468880	Tem que ser palavras exclusivas, vocês já ouviram no outro podcast, já.
+468880	472000	Redcat de apoiamentos exclusivos?
+472000	474000	Mas eu falei que ela é verdade.
+474000	476000	Agora você pode romanciar essa parte, então.
+493680	504160	Então apareceu uma deusa de cabelos compridos, segurando uma espada, e falou para mim, faça quadrinhos, você não precisa arrepender.
+504160	507600	Então, ela me falou para começar a fazer meus próprios quadrinhos.
+507600	514560	Ela falou que no começo eu deveria copiar as ideias dos quadrinhos que eu lia, e depois eu tive essas minhas próprias ideias.
+514560	516240	E foi exatamente o que aconteceu.
+516240	527200	E aí, quando eu descobri o mundo maravilhoso dos jogos de computadores, eu deixei de fazer quadrinhos e só voltei a fazer agora com o Nerdsum, em 2006.
+527200	534720	Esse tempo todo lá que eu, da minha adolescência, o final da infância, eu deixei de fazer quadrinhos e ficava só jogando no computador.
+534720	537200	E daí foi despertar interesse pela computação.
+537200	550320	Que na verdade é uma ilusão, né? O cara entra na faculdade de ciência da computação achando que vai fazer jogos e tal, mas o cara passa uns três semestres só fazendo cálculo e contas de física, mecânica clássica e tudo mais.
+550320	561840	E esse ondes perde isso, né? Dizem que o jogo é bom para desenvolver questão de percepção e tal, mas em excesso é bastante canseiro, igual você perdeu muito o tempo da sua vida jogando, certo?
+561840	562560	Não.
+562560	564560	Eu tinha que perder tempo também, né?
+564560	566960	Não, eu não diria que foi uma perda de tempo.
+566960	574320	Depende, como alguns momentos eu exagerava, tipo, passava 10 horas jogando direto, aí realmente é uma perda de tempo, mas...
+574320	581120	Não, isso era um teste de resistência, Rafael, não pode pensar como perda de tempo, quantas vezes no trabalho você teve que ficar mais de 8 horas?
+581120	582080	Ah, várias.
+582080	584960	Olha aí, viu? Se não fosse o background do cara com os jogos.
+584960	588800	Mas a vantagem disso é que eu aprendi inglês, cara.
+588800	590320	É, eu ia falar isso agora.
+590320	592880	Então essa parte da entrevista de respeito é todo inglês, tá?
+592880	595280	Não, não, não. Leia uma coisa a falar e outra.
+595280	599920	É engraçado isso, cara. Eu recebia muitas críticas assim, por causa que meu... Eu tenho um irmão pequeno.
+599920	604080	Assim que ele veio morar comigo aqui em Goiânia, eu comprei Diablo 2 para eles, né?
+604080	605680	A desculpa era que era para ele, viu?
+605680	613200	E, cara, ele jogava pra caramba, eu recebia muita crítica assim, ah, mas eles não faz nada, eu podia ensinar ele programar, não sei o quê e tal.
+613200	615760	O inglês que ele aprendeu também foi bem prático, sabe?
+615760	621280	Eu acho que se ele fosse para uma escola, dificilmente ele iria desistir ali na primeira semana.
+621280	626160	E ele tem uma produção inglês até interessante, só basicamente julgando.
+626160	629760	Ele jogava o batonete e a maioria da galera que entrava lá era americano.
+629760	633760	Então acho que dá pra se tirar coisas boas dessa fase da vida, né?
+633760	638400	Depois que eu aprendi os jogos e conto aí praticando na informática, né?
+638400	644240	Eu prefiro tutoriais em inglês, livros em inglês, porque algumas tradições em português são péssimas.
+644240	649680	Então eu inventei de fazer um curso de inglês, achando que ia ganhar alguma coisa, mas não.
+649680	657120	Isso sim, pra mim, foi uma perda de tempo, cara, porque eu não melhorei nada lá, então eu já tava numa onda de ser autodidata, né?
+657120	665920	Pô, eu posso aprender tudo sozinho, então foi mais um motivo pra eu ter saído do lado do curso, prometido a mim que nunca ia fazer outro curso de inglês na vida.
+665920	667200	Tu é autodidata em que mais?
+667200	670800	Em várias coisas da computação, por exemplo.
+670800	675120	Paiton aprendi sozinho, JavaScript aprendi sozinho, praticamente, também.
+675120	680720	Flash, quase tudo aprendi sozinho, ó. Tirando as coisas de faculdade, né? As coisas teóricas de faculdade.
+680720	681600	HTML?
+681600	686720	Ah, HTML, não, isso já foi num curso de web que eu fiz paralelo com a faculdade.
+686720	688880	CSS, entre outras coisas.
+688880	698320	Todas as outras tecnologias que eu trabalho atualmente, como por exemplo, Python, PHP, JavaScript e avançado, eu fui estudando e praticando até trabalho também, né?
+698320	702960	Porque a maioria das coisas que a gente aprende é no trabalho, fazendo, colocando a mão na massa.
+702960	704880	É o tru do autodidata.
+704880	709040	Você nunca vai tocar tru total, porque só quem toca bem é autodidato.
+709040	712160	Então se conforme que nunca você vai chegar nem perto do que eu toco, tá?
+713120	716320	Hum...
+728320	733120	Além de levar um tiro, tem que aguentar um solo lixo e amador desse, hein?
+733120	734320	Nossa, ame!
+734320	735840	É...
+735840	737360	Não é mole, não.
+737360	740960	Tanto rapaz aí, esbanjando saúde,
+741040	745040	trocando uma noite de amor pra noite de Playstation,
+745040	747120	rodízio com os amigos,
+747120	751440	e a mulherada aí, largada em segundo plano,
+751440	753440	pensando na racinha desunida,
+753440	755440	vumbas em fúria.
+760480	764560	Mas eu brinco assim, mas eu acho interessante também aprender com alguém ensinando.
+764560	768320	Eu pensava isso também, só que hoje em dia eu já não tenho mais paciência pra isso,
+768320	772160	por isso não me vejo novamente entrando na sala de aula,
+772160	775680	a não ser pra tirar carteira de habilitação, né?
+775680	779040	Tirando isso aí, eu não me vejo voltando à sala de aula mais, não.
+779040	783280	Porque, pô, praticamente dá pra estudar tudo em casa mesmo, então.
+783280	786160	Eu não tenho paciência pra seguir aquele ritmo lento,
+786160	788960	não é que todas as aulas seguem, né?
+788960	792400	Pra poder reduzir por baixo o nível da galera.
+792400	795840	Cada um estuda no nível que for adequado à sua necessidade,
+795840	797840	é como o cara consegue estudar.
+797840	799520	Então tem esse lance também.
+799520	803200	Mas aí tu acha que seria, caso que tu, sei lá, perdeu a paciência,
+803200	807200	tu acha que deveria, a galera que ministra esse tipo de curso deveria se reinventar?
+807200	808800	Eu acho que um pouco dos dois.
+808800	813840	Depois de 8 anos de faculdade, cara, você acha que eu tenho paciência pra sentar na sala
+813840	815360	e ficar ouvindo o cara falando,
+815360	817840	também pela questão do cara que tá dando a aula,
+817840	821520	ao invés de ser aquele velho modelo, o cara falando e o pessoal escutando,
+821520	824320	eu acho que tem que ser uma participação total do pessoal.
+824320	829360	E exercícios, um cara tem que chegar lá pra resolver problemas, né?
+829360	831920	Simulando uma empresa, né?
+831920	834400	Você tá lá trabalhando e tem que resolver um problema.
+834400	839360	Então eu acho que esse tipo de modelo é o mais adequado pra uma sala de aula, né?
+839360	840640	Você resolver problemas.
+840640	844160	Eu fiz curso técnico antes de entrar na faculdade,
+844160	846400	e seis meses depois eu já inicia a faculdade.
+846400	849440	E quando a faculdade acabou eu fiquei meio sem chão, sabe?
+849440	851680	E agora não tem nada pra estudar e tal.
+851760	854480	Eu tirei minha sentificação lina, que são nas férias da minha faculdade.
+854480	855600	Fiz uma cursão e tal.
+855600	857360	Eu era o aluno mais chato do mundo, sabe?
+857360	860160	Não chato de ficar cobrando essas paradas e tal.
+860160	863200	Mas chato no sentido de estar sempre querendo fazer uma adenda,
+863200	864720	participar da aula e tal.
+864720	867120	Porque eu vejo assim, tem muita gente que...
+867120	868560	Ah, isso daí eu já sei.
+868560	870560	E quando ia ter uma aula lá, né?
+870560	872640	O cara não dava muita atenção na aula e sei lá.
+872640	875920	E quando assim, quando era uma coisa que eu já sabia, já tinha uma introdução,
+875920	877760	era pra mim era a melhor aula do mundo, sabe?
+877760	881200	Porque eu ficava toda hora fazendo uma adenda e indo sei o quê e tal.
+881200	885040	Querendo contribuir, eu acho que esse tipo de aula com bastante interatividade,
+885040	886480	pra mim é uma experiência legal, né?
+886480	888800	Aí você era o aluno chato da torna, né?
+888800	890400	É, eu era chato pra caralho também.
+890400	895040	Que quando tá faltando um minuto pra acabar a aula, você vai,
+895040	898800	faz uma pergunta que o professor responde durante cinco minutos
+898800	900960	e todo mundo olha pra você com cara de raiva.
+900960	903360	É, geralmente quando acabava a aula, a galera saía,
+903360	905360	ficava tocando ideia com o professor.
+912000	918160	Onde muita boca bonita,
+918160	923120	canta na língua Tupi, cante aqui, cante agora, cante lá, que eu canto aqui,
+923120	927600	Piauiti Terezina, Pannaiva, Floriano, Piripiri, Piracuruca, canto maior,
+927600	935920	Autos Esperantina, Praia do Copeiro, Pela do Sao e Atalá.
+935920	938560	Você publicou as suas tirinhas na língua do magazine,
+938560	944160	você é bem ativo na parte de códigos e softwares no software livre,
+944160	950000	você já publicou algum artigo sobre Linux, anuncia as tirinhas na revista?
+950000	955520	Não, eu cheguei a fazer alguns trabalhos lá com eles na tradução de artigos e
+955520	960400	desenvolvimento de software de sistemas internos na língua do magazine.
+960400	963200	Foi um breve tempo que eu trabalhei com eles,
+963200	967600	o lance de as tirinhas ainda está rolando lá, algumas tirinhas ainda estão sendo publicadas lá,
+967600	973360	eu acho que como já vai fazer um ano que eu não atualizo o site, não faço mais nada,
+973360	976400	então acho que eles vão ficar sem tirinhas pra publicar.
+976400	983360	Tá aí a indicação aí pra mim, com eles que te chamaram pra publicar lá?
+983360	985520	É, convidaram.
+985520	991280	Foi nepotismo porque tava trabalhando lá dentro.
+991280	997120	Foi antes, antes de eu trabalhar lá, eu trabalhava distância na verdade, nunca sai daqui.
+997120	1000480	Você já viu a publicar em alguma que não seja a mídia digital?
+1000480	1008640	Não de revistas, coisas perigoticas não, mas em jornais, notícias soltas já saiu várias vezes,
+1008640	1013840	só que eu não lembro, eu não fico guardando, então não dá pra eu citar aqui todas.
+1013840	1018640	Aqui eu lembro, saiu lá no jornal Zero Hora, seu nome é Jani, que é no lado Porto Alegre,
+1018640	1023440	na época que eu fui no Fizzle, acho que foi o Fizzle 10, saiu uma tirinha lá minha,
+1023760	1030800	também depois da Campos Part, em 2009, eu fui lá, dei um admitido e tirou uma foto com Tim Berners-Lee,
+1030800	1037040	e aí os caras fizeram uma matéria, pessoal daqui de Natal mesmo, teve uma matéria sobre
+1037040	1042800	o Campos Part me entrevistando e acho que não lembro exatamente, eu acho que não colocaram
+1042800	1048640	a tirinha não, mas colocaram uma foto lá também, de impresso mesmo, a Linux Magazine.
+1048640	1051200	Ah é, Linux Magazine, é impresso, é só...
+1051200	1055600	Eu te mostrei a tirinha dela, você não lembra não?
+1055600	1058960	É verdade, com a Alemão ele publica na Espírito Livre, né?
+1058960	1060960	Eu já saí na Espírito Livre também.
+1060960	1063120	Você estuviu, a gente entrevistou o Moza Esticoto?
+1063120	1065440	Sim, eu estuvi, eu vi na lista lá.
+1065440	1069440	É porque ele falou exatamente desse começo dos quadrinhos lá.
+1069440	1074000	Ele é quadrimista, ele usa software livre, e se não me engano, ele mora aqui no Natal também.
+1074000	1076480	Não, ele mora em Minas Gerais.
+1076480	1079120	Você falou que quer virar CISA de Min, né?
+1079120	1086000	Você está cansado de ser programador 24x7, quer mexer mais com a área de CISA de Min?
+1086000	1093920	Eu não sei no que vocês trabalham, mas se vocês trabalham com frameworks, web, e têm
+1093920	1099760	de resolver problemas de compatibilidade ali dos navegadores, então vocês sabem como
+1099760	1104960	é doloreio fazer esse tipo de trabalho, porque você tem vários frameworks na internet,
+1104960	1109600	que você pode baixar, usar, só que todos os trabalhos que você vai fazer, cara, você
+1109600	1115440	tem que ir atrás, fuçar o framework, porque ele não oferece todas as coisas que você
+1115440	1116440	precisa.
+1116440	1121280	Noventa por cento dos casos, você tem que criar coisas novas em cima desse framework,
+1121280	1126320	então este trabalho é chato, são, como eu falei certa vez, são falsas promessas, né,
+1126320	1127320	desses frameworks.
+1127320	1131520	E tem também a questão, como eu falei, dos navegadores, e isso enche o saco.
+1131520	1136160	São também falsas promessas, você todo dia acompanha as notícias de desenvolvedores
+1136160	1142600	web e atualizações de navegadores, todo dia tem alguma coisa, algum feature novo, bonitinha,
+1142600	1149800	de HTML5, do CSS3, próxima versão do JavaScript, que vai ter classes embutido, lá por padrão,
+1149800	1154960	e não sei mais o que, só que eu já escuto essas promessas, cara, desde 2004, foi quando
+1154960	1160240	eu comecei a trabalhar com web, e até hoje, muita pouca coisa mudou, então isso acabou
+1160240	1166360	frustrando, e isso pelo menos está me frustrando, e talvez eu saia disso futuramente, é por
+1166360	1170880	enquanto não dá pra sair, talvez lá na frente eu ter essa mais unível na computação e
+1170880	1173280	possa trabalhar com ainda conservadores e...
+1173280	1174280	Pé com curtir o formato?
+1174280	1175280	Não, esse aí não.
+1175280	1179160	E seja de mim, programação baixa o nível, não sei.
+1179160	1182560	E nesse negócio de desenvolvimento pra web, existe dois mundos, né, existe o internet
+1182560	1184240	Xplore e o resto do mundo.
+1184240	1187280	Pois é, eu ainda tenho problemas com internet Xplore R9.
+1187280	1193600	Hoje eu tô trabalhando com o framework web, JavaScript, é o Xt, é Xt, dá pra ver falar?
+1193600	1199920	Já, é, por enquanto eu tô trabalhando com o Zend framework, PHP, e é ele que tá me
+1199920	1205520	dando essas vontades de largar essa área, vez eu vou ter o brinco com o Django, o Python,
+1205520	1210440	quando eu troco do Zend pro Django, é quando aparece a Deusa lá de cabelos longos, e só
+1210440	1215440	pra uma brisa fresca no meu rostro, é exatamente essa sensação quando você sai do Zend pra
+1215440	1220040	ir pro Django, porque é outro mundo, o Django é bem mais fácil de fazer as coisas, só
+1220040	1223120	que ainda assim eu tenho problemas, como todos os outros frameworks.
+1223120	1224960	Tudo começou com Rails, né, cara?
+1224960	1230280	É, o Rails eu cheguei a testar uma vez, mas não estudei, então também o Rubb eu cheguei
+1230280	1233440	a estudar uma vez e parei, então já esqueci quase tudo.
+1233440	1238120	Falando assim, no sentido de inspiração da forma de trabalhar, né, metaprogramação,
+1238120	1239120	que isso?
+1239120	1240120	Keep it simple, estúpido.
+1240120	1243760	Don't repeat yourself, em um monte desses termos em inglês maneiro.
+1243760	1249840	Já trabalhei com três frameworks PHP, o Zend agora, antes foi o Cake, e antes do Cake
+1249840	1250840	o Code Igniter.
+1250840	1255680	O Code Igniter é o que me parece o melhor até hoje, só que infelizmente eu não pude
+1255680	1260040	me aprofundar tanto nele, eu cheguei a fazer algumas coisas, mas pelo que eu vi comparando
+1260040	1263720	os três, o Code Igniter é o mais fácil de você trabalhar, né, a documentação dele
+1263720	1265320	inclusive é melhor que existe.
+1265320	1267720	E o pior é o Cake, que é o Cake é um terror.
+1267720	1270520	Me desculpe quem usa o Cake, mas o Cake é uma droga.
+1270520	1275480	Eu cheguei a fazer um sistema interno no Cake, e o negócio é tão ruim de manter,
+1275480	1279840	de fazer, que convenci o meu chefe a converter todo o código pra Zend.
+1279840	1283600	É, hoje lá na empresa a gente tá passando com um processo parecido, né, mas antes
+1283600	1290280	a gente desenvolvia tudo usando basicamente de jQuery e PHP todo escrito daquele jeito.
+1290280	1296240	O processo atualmente que eu estou na minha empresa é mudar pra Django, todos os sistemas
+1296240	1298640	novos vão ser feitos em Django agora e ponto final.
+1298640	1303280	Só que ainda vai ter os sistemas em PHP pra ficar mantendo, né, então eu vou ter que
+1303280	1305280	lidar com PHP ainda por um bom tempo.
+1305280	1311240	Mas isso não quer dizer que eu odeio PHP, na verdade eu odeio algumas particularidades
+1311240	1316400	dos frameworks, como por exemplo, no Django eu posso fazer o crud lá automaticamente,
+1316400	1320960	né, no Zend eu tenho que fazer na mão, e isso usando o framework por nene plugin.
+1320960	1323120	O Zend tool, você não que usou, né?
+1323120	1328120	O Zend tool eu uso sim, só que ele não faz o código pra mim, ele só gera um boilerplate,
+1328400	1334480	entendi, mas aí a parte do DBA já tá pronto, daí sempre tem que mapear ou é o contrário?
+1334480	1340040	Na verdade a gente usa uma outra estratégia, a gente não coloca coisas muito específicas
+1340040	1347440	de banco, de dados, no framework, e sim em procedures, foi meio que uma ideia pra fugir
+1347440	1353440	do ORM e do Zend, que a gente viu em testes que era bem lento pra o que a gente queria,
+1353440	1360440	então a gente migrou boa parte das funções de model, de dados pra procedures do Postgres,
+1360840	1366200	então fica bem mais rápido a execução do sistema apesar de dependente do Postgres.
+1366200	1371440	Pelo que a gente vê das boas práticas, o pessoal sempre defende a desenvolver independente
+1371440	1372440	de banco de dados?
+1372440	1377160	Sim, isso é como eu falei antes, isso é uma das falsas promessas, você não pode confiar
+1377160	1385080	100% no ORM, como um hibernate da vida, um Doctrine do PHP, porque o ORM não resolve
+1385080	1389000	todos os problemas, eu não posso dizer a maioria dos casos porque eu não sei, mas em alguns
+1389000	1395920	casos eles geram queries ineficientes, então não dá pra confiar neles, no caso do sistema
+1395920	1400640	que eu tô lá trabalhando, a gente achou melhor colocar tudo na responsabilidade do banco.
+1400640	1402040	Que fica rápido pra caramba, né?
+1402040	1403040	Fica, bem rápido.
+1403040	1407120	É engraçado isso, porque eu também passei por uns problemas assim, a gente começa
+1407120	1413200	a construir uma coisa, daí a gente vai construir em volta e esquece de fazer soluções simples,
+1413200	1417120	e tem coisas que a gente conseguiu, fazendo uma triga e a gente deixa a solução um milhão
+1417120	1420240	de vezes mais simples do que a gente tava fazendo.
+1420240	1424600	É, fica bem mais simples, reduz o código, o código da aplicação fica uma linha só
+1424600	1431360	e você faz uma procedure, uma triga e pronto, tá resolvido o problema e você consegue manter
+1431360	1437320	a atomicidade das operações, porque isso seria bem difícil manter no código da aplicação.
+1437320	1440520	Eu sei que isso não foca da entrevista, mas eu queria fazer mais um comentário a respeito
+1440520	1441520	disso.
+1441520	1444880	Mas aqui é todo nerd, cara, então não tem problema falar nisso.
+1444880	1449280	É porque assim, cara, eu já trabalhei em empresas que a gente fazia assim, não pode
+1449280	1453720	desenvolver queries que sejam muito específicas do Postgre, porque se a gente quiser mudar
+1453720	1457200	pra outro banco vai ser fácil, e nessa época ele só tinha um cliente, né?
+1457200	1460600	É, por exemplo, se o cliente fosse impor, não, a gente quer usar a Oroco, mas todos os
+1460600	1463440	clientes que vieram depois a gente impor e a gente ia usar Postgre.
+1463440	1467800	Aí, assim, a gente deixou de usar recursos do Postgre e deixando o desenvolvimento mais
+1467800	1468800	custoso, né?
+1468800	1471760	E em função disso, na prática, o seu nome é totalmente diferente, né?
+1471760	1475120	Era só esse o comentário que a gente fazia.
+1475120	1478120	A gente pode voltar pra falar de quadrinhos, o Valimogão.
+1478120	1479120	De quadrinhos.
+1479120	1483120	5 minutos, 5 minutos pra falar de quadrinhos, 5 minutos.
+1487200	1505200	Mas eu vejo que você usa o Skype também, né, pra fazer essas quadrinhas?
+1505200	1509400	É, eu uso o Skype mesmo, eu uso mais as partes de vetores, né?
+1509400	1515280	Questão de texto, eu sempre uso mais o editor de texto normal, nunca usei a sua aplicação.
+1515280	1518480	No meu caso, eu uso o Inkscape pra fazer tudo mesmo.
+1518480	1523360	Eu coloco o texto mesmo lá dentro, escrevo o texto lá, eu geralmente não escrevo roteiro
+1523360	1527200	completo no bloco de nota, eu escrevo toda a história lá mesmo, ao mesmo tempo que
+1527200	1528200	eu desenho.
+1528200	1529840	Pego a ideia, abstrata, né?
+1529840	1533200	E a árvore Inkscape começa a desenhar e escrever lá mesmo o texto.
+1533200	1538240	Geralmente é assim, mas quando eu tenho alguma ideia mais complexa, eu escrevo um roteiro
+1538240	1542480	bem básico inicial no arquivo de texto, depois eu adapto.
+1542480	1547200	Igual aquela história que você escreveu sobre o guia do programador das galáxias,
+1547200	1551400	você não vai me dizer que você abriu o Inkscape e começou a desenhar que lá, né?
+1551400	1555600	Não, com certeza não, só que pra aquela história ali, eu também não cheguei a
+1555600	1560880	escrever um roteiro completo, eu só tenho assim, rabiscos e ideias, tipo assim, nessa
+1560880	1564160	parte da história vai acontecer isso aqui, pronto, nada além disso.
+1564160	1569040	Então quando eu tenho essa ideia lamentada, eu abro lá o Inkscape, começo a desenhar,
+1569040	1573720	pego o livro, vejo lá o que os personagens estão falando e faço alteração lá mesmo
+1573720	1574720	na hora.
+1574720	1577360	Então, isso aí eu não muda muita coisa não, meu processo.
+1577360	1579520	Só que você não usa o Inkscape não, né?
+1579520	1580520	Não, eu uso o GIMP.
+1580520	1585600	Como Inkscape exporta pra PNG, eu uso o GIMP pra reduzir o tamanho da imagem, você salvando
+1585600	1591280	naturalmente pelo GIMP, ele reduz alguns k-bytes, isso não é muito útil, então eu faço a
+1591280	1593040	indexação por cores.
+1593040	1597960	Eu faço todos os quadrinhos sem usar gradientes, sem usar blurs, esses filtros aí, eu posso
+1598000	1603880	depois abrir a imagem no GIMP, alterar a imagem pra 256 cores, né, indexação, e aí
+1603880	1606320	reduz bastante o tamanho do quadrinho no final.
+1606320	1607320	Ah, tá certo.
+1607320	1610120	Acho que só isso mesmo, né?
+1610120	1615040	Queria falar um pouco de 40 e tem tempo aí.
+1615040	1617320	Já tá deslação já, né?
+1617320	1620880	Tipo, eu te mandei um e-mail, você não viu não?
+1620880	1623920	A gente perguntando sobre um feedback das mistirinhas?
+1623920	1624920	Sim.
+1624920	1630720	Não, é sério mesmo, cara, acho muito importante, vim de você, um feedback das mistirinhas,
+1630720	1631720	é muito bom.
+1631720	1634960	Eu só digo uma coisa, quanto em noio fazendo o que você gosta de fazer?
+1634960	1635960	Tá certo.
+1635960	1641520	Ele não tem esse negócio de escrever roteiro, porque ele é um quadrinho de saturno, não?
+1641520	1647480	Não, não, não sou, cara, tipo assim, eu to sem fazer muitas coisas, mas não sou mestre
+1647480	1648480	em nenhuma delas.
+1648480	1649480	Mas é autodidato.
+1650000	1655240	Não me ideia, assim, o que eu sei fazer com quadrinhos hoje foi olhando para os quadrinhos
+1655240	1659360	da Disney e praticando, fazendo a mão, mas hoje em dia eu não faço nada a mão, mas
+1659360	1662320	eu só faço no mouse, então não pratique mais desenho.
+1662320	1667080	Aqueles desenhos lá que eu faço, eu já foro desenhados uma vez, então eu não faço mais
+1667080	1672640	nada, eu só faço mover o mouse e alterar um olho, uma boca, um braço, e pronto, é
+1672640	1673640	isso.
+1673640	1677760	No caso do quadrinho histórias maiores, como do Guido e Programador, é sim que eu desenho
+1677760	1678760	coisas novas.
+1678760	1680480	Só que isso demora bem mais.
+1680480	1684600	Engraçado isso, porque você falou que olha o quadrinho das Disney, né, na minha infância
+1684600	1686120	e adolescência eu tinha um problema.
+1686120	1692880	Eu basicamente desenhava assim mais na pegada Disney, só que 110% dos meus amigos só curtiam
+1692880	1693880	manga, sabe?
+1693880	1695840	Aí eu ficava meio deslocado com isso.
+1695840	1701360	É, manga também nunca foi uma coisa que eu gostei, nem lia muito, não.
+1701360	1706640	Porque na época, na minha infância, eu só fui exposto mesmo da Disney e da turma da
+1706640	1713680	Mônica, como a maioria dos brasileiros na época, então o meu estilo foi criado, inspirado
+1713680	1715080	nesse cartuno.
+1715080	1716080	Mangasso a rentar mesmo.
+1716080	1733280	As vezes eu não gosto do meu próprio quadrinho, sabe?
+1733280	1739040	Eu só faço porque dá aquela vontade de querer falar alguma coisa, de querer sacanear
+1739040	1741960	com a história da informática, alguma pessoa, sei lá.
+1741960	1745040	Assim, a maior parte do tempo eu não gosto do que eu faço, sabe?
+1745040	1749640	Acho que é a questão do perfeccionismo, porque eu tenho e isso me atrapalha às vezes,
+1749640	1754280	porque eu faço com que eu demore muito tempo para gostar do produto final.
+1754280	1759520	Então, por exemplo, se eu não tivesse isso, o site novo já estaria no ar, na verdade
+1759520	1764200	eu nem teria parado de fazer, porque eu tô mudando, fazendo uma mudança radical na
+1764200	1768880	forma como eu tô fazendo o site, então ainda não tá do meu agrado, ainda vai demorar
+1768880	1772080	um pouco para poder gostar do produto final, do resultado.
+1772080	1777600	Isso é interessante, cara, porque eu tava vendo um documentário na GNT sobre uma mulher
+1777600	1781480	que canta funk no Rio de Janeiro e ela tava na Alemanha, chuparina.
+1781480	1786440	Eu achei interessante uma coisa que ela falou, a chuparina, que a arte que ela faz, o personagem
+1786440	1790160	que ela faz, a criação, na verdade, ela é maior que o criador, né?
+1790160	1794960	Linkando com o software livre, eu tava pensando que isso realmente é uma coisa que se torna
+1794960	1798960	bastante real no software livre, cara, no software como uma obra de arte.
+1798960	1804480	E as outras pessoas contribuem com esse software e a pessoa que começou esse software inicialmente,
+1804480	1810760	ela pode até deixar de contribuir ativamente no projeto, mas a criação continua viva,
+1810760	1816200	a criação, ela se torna, nesse caso em específico, ela se torna maior do que o próprio criador,
+1816200	1817200	né?
+1817200	1818200	A arte é longa, a vida é breve.
+1818200	1819200	Olha aí, Eva, que bonito.
+1819200	1820200	Lide um livro.
+1820200	1825480	A gente não falou das suas inspirações, falou?
+1825480	1831960	Falo não, mano, mas eu posso falar, basicamente minhas inspirações, até hoje faço referências
+1831960	1836400	e tal, a maioria das referências escondidas, a maioria das pessoas não acham.
+1836400	1837400	Easter eggs?
+1837400	1838400	É, quase isso.
+1838400	1842560	Algunas são tão escondidas que só eu conheço, por exemplo, história de Disney, que eu
+1842560	1845880	li há muitos anos e até hoje eu lembro, então...
+1845880	1847480	São mensagens subliminares, né?
+1847480	1852760	É, basicamente minhas referências são minhas inspirações, são o Douglas Adams, o Guilmo
+1852760	1857520	Chileiro, aqueles quadrinhos bem antigos de Disney, que até hoje eu sou fascinado por
+1857520	1859960	eles, até hoje eu leio, na verdade.
+1859960	1860960	Tio Patinhos, né?
+1860960	1865720	É, tio Patinhos principalmente, o próprio Terry Pratchett, né, do Discworld.
+1865840	1869240	Pode citar algum desses referências escondidas aí pra...
+1869240	1872280	Eu não lembro, cara, são tão escondidas que eu esqueço.
+1872280	1876880	Aí, galera, que curte o Nelson, procurando referências escondidas, não tem nenhuma
+1876880	1881160	daquelas mensagens subliminares que aparecem direto na internet, aí o pastor eles falam
+1881160	1882160	não, né?
+1882160	1884160	Não, não, tem isso aí.
+1884160	1888240	Inclusive, se você pegar o código fonte do site e inverter, também não vai aparecer
+1888240	1889240	nada.
+1889240	1892040	Mas daí o de compilazão só é pronto, né?
+1892040	1893040	É, super...
+1893800	1896800	Mas aqui já tentou e ficou frustrado aí, foi mal.
+1897800	1902200	Inclusive, se a gente escutar essa entrevista ao contrário, você vai entender nada, né,
+1902200	1903200	na verdade.
+1903200	1907880	Então, acho que tu poderia falar pra gente dos novos projetos aí, do que a gente pode
+1907880	1911560	esperar do Carlson Bezier, primeiro de cinco maiores chamar de Carlson Bezier, como é
+1911560	1912560	que a gente chama?
+1912560	1914800	Não sei, vocês quiserem a gente chamar de...
+1914800	1915800	É de cacau.
+1915800	1919600	Cara, se a gente chamar de Nelson, tá longe mais já.
+1919680	1923840	Beleza, a gente vai trocar tudo o que a gente chamou de Carlson Bezier, né, edição.
+1923840	1928240	Pronto, isso aí também é uma questão do meu perfeccionismo, eu não gosto mais
+1928240	1929600	desse nome, né, Nelson?
+1929600	1932840	Quando eu criei ele, eu não tinha esses planos que eu tenho agora, então, como você
+1932840	1938880	mesmo falou, o negócio cresceu mais do que eu imaginava, acaba que esse nome já não
+1938880	1941760	tá mais refletindo a ideia que eu tenho da coisa.
+1941760	1948160	Já que você falou dos projetos, eu já continuo dizendo que o projeto é exatamente isso.
+1948160	1953240	Eu vou criar um universo único para todos os personagens, até então, todos os personagens
+1953240	1957920	tinham o seu próprio universo, eu vou colocar todos esses personagens em um só universo.
+1957920	1962400	Estou reescrevendo muita coisa, eu vou ter que alterar muitos quadrinhos, também vou
+1962400	1968920	fazer a versão em inglês do site, eu registrei o rectum.com.br para colocar em português
+1968920	1973440	lá e o .com vai ser só em inglês, pelo menos esse é o projeto principal.
+1973440	1978400	Aqui o layout da estrutura do site vai refletir exatamente essa ideia de um universo único
+1978400	1984520	para todos os personagens, e além disso, por baixo do site, o sistema, é um geradorzinho
+1984520	1988840	de páginas estáticas que eu tô desenvolvendo e que tá lá no GitHub também.
+1988840	1993920	Eu não sei se vocês já ouviram falar desses tipos, esses sistemas que é bastante usado
+1993920	2000200	no GitHub, que é o Octopress, é um sisteminho que você escreve o seu conteúdo, um arquivo
+2000200	2005200	de texto, opcionalmente você pode colocar em uma formatação como Markdown, MediaWik,
+2005200	2006200	etc.
+2006200	2009120	É que nem o esquema do ritmo e ponto md, né?
+2009120	2010120	Exatamente isso.
+2010120	2011840	Ah, é md de Markdown, é só.
+2011840	2012840	É.
+2012840	2013840	Tivesse hiponia agora.
+2013840	2014840	Exatamente.
+2014840	2021120	Então, o sistema pega esse arquivo do conteúdo e gera um HTML baseado nessa formatação.
+2021120	2025720	Quando o cara entra no site, ele não vai fazer um trabalho imenso que, por exemplo, um
+2025720	2031400	zende da vida faz que é ler todas as variáveis de configuração, acessar o banco de dados,
+2031400	2037920	trazer o template, popular o template com os dados do banco, filtrar do tudo, segurança
+2037920	2038920	e tal, tal, tal.
+2038920	2043760	Não, isso aí não acontece no sistema de geração de páginas estáticas, porque
+2043760	2047240	eles já geram o HTML prontinho lá para o cara acessar e pronto.
+2047240	2051760	Então é extremamente rápido e é extremamente seguro também, porque não tem banco de dados
+2051760	2052760	e não tem nada.
+2052760	2053760	Só apenas arquivos.
+2053760	2058960	E se o cara quiser usar comentários, o cara pode colocar um desses serviços de comentários
+2058960	2062920	terceiros, como os discos ou o intenso debate.
+2062920	2064400	Até o próprio Facebook, né?
+2064400	2065400	É, também.
+2065400	2071240	Até então, está usando Wordpress, obviamente ali é a melhor indicação, só que para
+2071240	2078280	mim que sou apenas um editando um site inteiro, de acordo com essa ideia de um universo único
+2078280	2083160	para todos os personagens, Wordpress virou uma amareta para matar a formiga.
+2083160	2087080	Então dispensei ele e também tem a caixão das atualizações de segurança, que é um
+2087080	2089880	saco fazer e plug-ins e tudo mais.
+2089880	2094800	Então comecei a fazer esse sistema na versão atual lá que está no GitHub, ele já servem
+2094800	2098960	para mim as necessidades, mas eu ainda tenho algumas coisinhas para fazer antes de poder
+2098960	2101920	colocar no site de uma vez por todas.
+2101920	2107160	Por exemplo, ele atualmente ainda não está gerando o feed RSS, então inclusive até
+2107160	2108960	hoje eu comecei a fazer isso aqui.
+2108960	2114400	Ele também não está gerando a listagem de páginas, últimas páginas cadastradas,
+2114400	2117600	trechos nos templitos para evitar repetição de código.
+2117600	2122160	Eu acho que acabando essas três fitros aí eu já posso colocar o meu site no A, só
+2122160	2126880	que ainda vai ter todo um trabalhão ainda de traduzir quadrinhos e redesenhar algumas
+2126880	2131680	coisas, então vai demorar bastante ainda para poder colocar o site no A novamente.
+2131680	2135640	Vai ser tipo Tolkien que ele deu uma revisada no Hobbit quando ele lançou os seus desenés?
+2135640	2140680	É, é exatamente isso, só que eu não vou ter a história dos quadrinhos, eu só vou
+2140680	2144840	redesenhar algumas coisas para se adequar ao roteiro único que eu estou desenvolvendo.
+2144840	2147800	Então a gente pode esperar uma tirinha assim marilho?
+2147800	2149400	É, é basicamente isso aí.
+2149400	2155040	O que eu vou explicar é o mundo em que os personagens vivem, a relação entre cada
+2155040	2160440	um deles e por aí vai, e criar novas séries e novas personagens também para se adequar
+2160440	2161440	nesse novo mundo.
+2161440	2164840	Aí vai ter uns quadrinhos inacabados que vai ser publicado lá também?
+2164840	2170640	Eu estou pretendendo que não seja, por exemplo, o seu formato do alemão é tirinhas, eu
+2170640	2172200	quero forger desse formato.
+2172200	2177280	Eu já aceitei que eu não consigo ter ideias tão rápidas assim, o meu lance é fazer
+2177280	2181920	mais histórias, contar histórias, nem que sejam de quatro, cinco quadrinhos, mas contar
+2181920	2186720	histórias e não tirinhas assim, piadinhas rápidas, porque raramente eu tenho a ideia
+2186720	2191680	para tirinhas, então fica aquela coisa chata de você ter um site de tirinhas e não conseguir
+2191680	2193600	atualizar ele com frequência.
+2193600	2197400	Então, aceitei essa realidade e vou fazer agora histórias longas mesmo.
+2197400	2202800	Não seja tão frequentes, mas que tenha um conteúdo, exige alguma pesquisa prévia minha
+2202800	2209000	para poder fazer uma história melhor assim, e que cada poste, cada página, seja um fragmento
+2209000	2211720	da história desse mundo que eu vou criar, que eu estou criando.
+2211720	2216320	Pô, mas você já fazia isso com aquelas tirinhas rápidas suas?
+2216320	2221640	É, que tinha que ler as outras, mas eram bem poucas na verdade, e eram só os quadrinhos
+2221640	2226520	com os personagens principais, a Leonerson, a Beta, a Vitz, a história contínua mesmo
+2226520	2227520	era só com eles.
+2227520	2232080	Outras séries que eu fazia já não tinham essa continuidade, eram independentes.
+2232080	2237000	Aí o que eu vou fazer agora é exatamente o contrário, todas as quadrinhas vão contar
+2237000	2239000	um pouco da história desse mundo.
+2239000	2244560	Guido Pernumadão, nas galáxias, você demora quanto tempo para produzir aquele tipo de
+2244560	2245560	quadrinho?
+2245560	2251720	Eu comecei a fazer a ideia lá, que eu estava bem empolgado, eu fiz três em três dias.
+2251720	2257480	Chegava o trabalho e virava madrugada fazendo e só ia dormir quando acabava, dava aí umas
+2257480	2263640	quatro, cinco horas por página, só que aí teve uma desmotivada lá nos últimos, nas
+2263640	2268160	últimas páginas dele, então eu estava demorando bem mais para atualizar.
+2268160	2272920	Hoje em dia, como para atualizar o blog, a série parou também, só que eu não pretendo
+2272920	2275160	voltar, eu tenho que voltar, né?
+2275160	2281520	Eu só não sei se eu vou voltar a atualizar antes ou depois nesses novos planos que eu
+2281520	2282520	tenho.
+2282520	2284360	Igual o Guzmoraes, você conhece o Guzmoraes?
+2284360	2288960	Sim, já vou falar dele, na verdade eu até vi algumas tirinhas dele.
+2288960	2291960	Você vai fazer tipo as tirinhas, tipo a dele, né?
+2291960	2298200	Ele, eu acho que ele publica a cada um mês, se eu não me engano, e são assim, historinhas,
+2298200	2299800	só que não tão grandes, né?
+2299800	2302480	Eu acho que no máximo, uns 20, tantos quadros.
+2302960	2305240	Eu gosto das ideias dele, né?
+2305240	2308920	Teve uma sobre nostalgia negue, fantástica, né?
+2308920	2312280	E ele publica sobre tecnologia, espirito livre.
+2312280	2313280	Não.
+2314640	2315800	Ali nos magazines?
+2315800	2319240	Não, é uma revista, eu acho que é na Info.
+2319240	2320760	Ah, Info, isso mesmo.
+2320760	2326880	Eu acho que é parecido nesse novo formato que você está pensando, de histórias não
+2326880	2328480	muito grandes, mas...
+2328480	2330280	As que contam alguma coisa, né?
+2330280	2331280	É isso.
+2331280	2335200	Não, só que eu acho que ele não tem um universo.
+2335200	2337000	É, não tem continuidade, né?
+2337000	2339960	Você já ouviu falar do Terry Pratchett, do Disc Road?
+2339960	2340960	Sim.
+2340960	2341960	Pronto.
+2341960	2345760	O cara criou o mundo dele, e todos os livros dele são baseados nesse mundo, né?
+2345760	2350520	Que é a Tartaroga, que carrega quatro alafantes, que em cima desses alafantes tem um mundo
+2350520	2351840	parecido com a Pete.
+2351840	2356640	A minha ideia é exatamente essa, criar um mundo onde eu possa criar todas as histórias.
+2356640	2357960	Tipo o Dragon Ball?
+2357960	2358960	É, também.
+2358960	2359960	O Tolkien.
+2360040	2365680	É, você está pensando assim, de acrescentar mais alguns personagens?
+2365680	2367720	Já criei vários personagens novos.
+2367720	2371760	Por enquanto, eu só criei o nome e a ideia geral, então eu preciso me aprofundar mais
+2371760	2376240	ainda sobre o que é que cada um vai ser, o que é que eles vão fazer, personalidade,
+2376240	2377240	essas coisas.
+2377240	2382560	Alguns personagens igual o Barrabim e o Barrabecho, o Marquia e a Azrid?
+2382560	2383560	Esses vão continuar.
+2383560	2387560	Sim, o Barrabim e o Barrabecho, inclusive, é o que o pessoal mais gosta.
+2387560	2388560	É, isso é verdade.
+2388560	2392920	Eu só adiantando aqui, o Barrabim e o Barrabecho vai ser o meu tom bombadil, vai ser aquele
+2392920	2396560	personagem enigmático que ninguém sabe de onde veio para onde vai.
+2396560	2397560	Ah, séio.
+2397560	2398560	Bastante interessante.
+2398560	2399560	Que bom, né?
+2399560	2400560	Que bom.
+2400560	2408640	Mas aquelas tirinhas do Barrabim e o Barrabecho é as melhores mesmo, se você parar de publicar
+2408640	2414080	as suas tirinhas, todas elas e publicar só o Barrabim e o Barrabecho, já ganha, já
+2414080	2415080	o...
+2415080	2416080	Como é essa?
+2416080	2420640	Por mim eu não faria isso, porque eu gosto de fazer também as outras séries.
+2420640	2427160	Uma das coisas também que eu mudei meu pensamento nesse projeto é não dar tanta atenção à
+2427160	2430280	opinião dos outros, ensinem ao que eu gosto de fazer.
+2430280	2434200	Por isso que eu falei para o alemão para ele que faça o que você gosta de fazer, ao
+2434200	2436800	invés de pedir opinião dos outros.
+2436800	2440800	Então você tem que se divertir fazendo o que você quer fazer e o que você gosta de fazer.
+2440800	2446600	Então nesse projeto novo eu vou me desligar totalmente dessa coisa e fazer o que eu gosto
+2446600	2451440	porque eu vou querer criar histórias que eu gostaria que acontecessem comigo, por exemplo.
+2451440	2456960	E eu vou descrever lugares que eu gostaria de visitar, lugares que eu gostaria de existir.
+2456960	2463920	Ah, então as historinhas realmente já baseiam um pouco a sua vida, ou o que você quer fazer.
+2463920	2467440	Igual o personagem principal tem uma namorada, né?
+2467440	2470280	Uma das coisas que você queria fazer, certo?
+2470280	2478200	Não, o personagem principal não tem uma namorada, não.
+2478200	2483160	Tem aquela amiguinha dele?
+2483160	2484160	Brincadeira.
+2484160	2490440	Mas não, cara, essas histórias que tem atualmente não são coisas que eu gostaria de acontecer
+2490560	2491560	comigo.
+2491560	2494760	Eu estou mudando isso agora, estou tendo essa ideia agora, agora que eu vou implementar
+2494760	2495760	isso.
+2495760	2500640	Inclusive eu até pensei não habilitar comentários no site para não criar aquela vontade de
+2500640	2501640	ter feedback.
+2501640	2503640	Se vocês tem blog, vocês sabem o que é isso.
+2503640	2505640	Igual o xkcd, né?
+2505640	2508960	Sem comentários, simples daquele jeito e faz o meu sucesso, né?
+2508960	2511080	O que importa eu acho que é a ideia, né?
+2511080	2512080	Exatamente, é o...
+2512080	2517400	Porque comentários atraem trovos, né cara, então eu não tô a fim de ficar deletando
+2517400	2521640	comentários e apagando espans e esse tipo de coisa.
+2521640	2526400	Então vai ficar uma coisa bem de uma certa forma fechada, assim, mas eu pretendo fazer
+2526400	2528320	coisas que não substituísse.
+2528320	2532800	Final, o email sempre vai estar lá disponível para qualquer pessoa, quiser conversar comigo,
+2532800	2535680	mas eu vou implementar uma outra forma de interação.
+2535680	2537600	E além disso, Twitter está aí para isso, né?
+2537600	2539360	O Twitter eu vou continuar lá, então...
+2539360	2542000	A página no Facebook você não tem, né?
+2542000	2543560	Não, não tem o Facebook.
+2543560	2544560	NeuroCourt.
+2545560	2548800	Eu tinha o Facebook, NeuroCourt, eu apaguei os dois.
+2548800	2552000	Eu só não apago o Twitter porque o Twitter pelo menos é útil.
+2552000	2554960	Tô vendo que você não gosta de interação social, né?
+2554960	2555960	Paul, né?
+2555960	2558480	Mas o Twitter é a interação social, cara.
+2558480	2563840	Bom, mas você é por isso que ele chama de rede social, né?
+2563840	2570400	O Barrabim Barrabeste, ele refletiria mais a sua personalidade hoje do que o Netson
+2570400	2572200	foi algum dia no passado?
+2572200	2577280	Não, na verdade não, porque o Barrabim Barrabeste estava tentando ter uma ideia para
+2577280	2578280	um quadrinho, né?
+2578280	2581920	O que falasse sobre o Shell Script, então eu pensei na frase.
+2581920	2585520	Shell Script é mágica, daí veio a ideia do Barrabim Barrabeste.
+2585520	2589120	O pessoal gostou bastante, só que não tem nada a ver com a personalidade, né?
+2589120	2590560	Só foi a ideia do momento.
+2590560	2593160	Como o pessoal gostou, então eu continuei com o personagem.
+2593160	2597840	Teve também a questão da facilidade de desenhar ele, que é compor-se apenas de retos, né?
+2597840	2599000	Então, tranquilo, desenhar.
+2599120	2603240	Só é difícil ter ideias pra ele, porque Shell Script tem uma das linguagens que eu não
+2603240	2608240	conheço muito, então às vezes fica difícil pensar em alguma coisa, alguma ideia pra poste
+2608240	2609240	novo.
+2609240	2612000	Faz um Barrabim Barrabeste, mano.
+2612000	2615120	Esse endereço aí tá incorreto, né?
+2615120	2617120	Faz uma cobrinha de pronto.
+2617120	2619880	Aí faz um Envy Python.
+2619880	2627320	Pois que a gente conversou uma hora com você, dá pra ver que é um pouco associável.
+2627320	2630080	Mas esse é de praxe, de programador, né?
+2630080	2634000	O realço mesmo, pra me conversar com ele, eu tenho que...
+2634000	2636200	Eu sigo fielmente o estereótipo.
+2636200	2638360	Pronto, isso é um detalhe interessante.
+2638360	2641160	Eu não tenho o Facebook, mas eu tenho o GitHub.
+2641160	2643760	Se você quiser me conhecer, tá lá no GitHub.
+2643760	2648640	Se quiser conhecer mais a fundo, o Carlson, via a fonte das suas ideias.
+2648640	2650840	Você vai lá no código fonte.
+2650840	2655040	É, eu não coloquei o meu DNA lá, como o cara fez, mas...
+2655040	2656040	E você viu isso?
+2656040	2657040	Não.
+2657040	2660200	É um código genético que publicou no GitHub, não?
+2660200	2661200	Você vai saber, não?
+2661200	2662200	Tá escrito em colo em gosto.
+2662200	2663200	Tá escrito em Godescript.
+2663200	2664200	Perdi.
+2664200	2673200	É um código de venda, mesmo.
+2673200	2674200	Copilador Celestial.
+2674200	2676200	Podia estar fazendo seu CMS aí, né?
+2676200	2678200	Ele tá dando entrevista aqui pra gente.
+2678200	2679200	Calma, calma lá.
+2679200	2680200	Não é a CMS.
+2680200	2681200	Ah, é?
+2681200	2682720	Porque ele é um gerador de...
+2682720	2683720	E páginas estáticas.
+2683720	2686040	É um gerador dinâmico de conteúdo estático.
+2686040	2687040	Não é dinâmico.
+2687040	2688040	Não.
+2688040	2689040	É tudo estático.
+2689040	2690040	Não, mas não.
+2690040	2691040	O gerador é dinâmico?
+2691040	2692040	Foi assim.
+2692040	2693040	Tudo é dinâmico.
+2693040	2694040	Ele explicou.
+2694040	2695040	Coisas dinâmicas que fazem coisas estáticas.
+2695040	2700040	É, desse ponto de vista você está certo.
+2700040	2701540	Feito em Python, aliás.
+2701540	2706040	Fala aí da tecnologia, além de ser feito em Python, front-end e mais alguma coisa?
+2706040	2707040	Não, é tudo terminal.
+2707040	2708040	É só um comando.
+2708040	2713760	O objetivo é fazê-lo mais simples possível, é um comando pra gerar um template de conteúdo
+2713760	2715760	e outro comando pra gerar HTML.
+2715760	2716760	Pronto.
+2716760	2717760	Só isso.
+2717760	2719760	A primeira versão das minhas tirinhas eu fiz no HTML.
+2719760	2723260	Tem um editor HTML do Linux que o inscrição nome agora.
+2723260	2724260	Começo com um carro.
+2724260	2725260	Kate?
+2725260	2726260	Não, Kate não.
+2726260	2727260	Ele é mais bonitinho.
+2727260	2728260	Comodo?
+2728260	2729260	Não, também não.
+2729260	2730260	Então, é...
+2730260	2731260	Acho que é com o quê, né?
+2731260	2732260	O quanto é?
+2732260	2733260	É, acho que é esse mesmo.
+2733260	2734260	É com o quê, pô, né?
+2734260	2735260	É.
+2735260	2743260	Então, eu fazia a tirinha e, tipo, eu pegava a página e tinha aquelas...
+2743260	2749760	Aquelas setinhas, né, feitas com o teclado, com os caracteres do teclado, de maior e menor.
+2749760	2751760	E eu fazia tudo no HTML.
+2751760	2759760	Pegava a página, duplicava, trocava só os links e postava lá e trocava a imagem também.
+2759760	2761760	Só o HTML puro.
+2761760	2763760	O alemão, ele fazia...
+2763760	2769760	Em vez de ele fazer um index, ele criava um redirecionamento de DNS.
+2770260	2776260	Quando o cara acessasse o root do site, ele ia para a última tirinha.
+2776260	2778260	O alemão é root, né?
+2778260	2779260	É, isso é...
+2781260	2787260	Aí, tipo, quando eu mudava de tirinha, aí eu ia lá no DNS e mudava para a última tirinha, entendeu?
+2787260	2789260	Aí eu come que...
+2789260	2792260	Aí eu come que preza hoje em dia, não preciso mais fazer isso, né?
+2792260	2799260	O sistema que eu tô criando, ele gera páginas HTML pôrso, então ele cria como se fosse aquelas páginas...
+2799260	2802260	Páginas da Web 1.0 Alpha, sabe?
+2802260	2805260	Só HTML, links puros e tudo só isso.
+2805260	2813260	É um sistema para o cara que quer mexer apenas com HTML e nada mais e quer basear toda a estrutura do seu site em pastas, né?
+2813260	2814260	Para simular páginas.
+2814260	2820260	Você coloca um index HTML dentro de uma pasta e essa pasta vai ter o nome da URL que você quer lá.
+2820260	2823760	Então, simples assim, baseado em eraquias literatórias.
+2823760	2825260	É tipo aquele KML, né?
+2825260	2833760	É, e além disso, como eu estou dispensando o uso de Wordpress e do interface bonitinha, que eu coloco lá publicar e eles já inserem no banco de dados,
+2833760	2842260	para substituir esse processo aí que é bem fácil, eu crio um repositório Git lá no servidor e na minha máquina eu faço a cópia desse repositório,
+2842260	2845260	e então eu coloco todo o site para ser adicionado.
+2845260	2850260	Então, qualquer alteração que eu faço no site, eu dou um Gitpush e ele já vai lá para o site.
+2850260	2853260	Então, essa é a forma de publicação que eu tô planejando.
+2853260	2860260	Você tá tendo problemas nessa questão de feed, né? De acompanhamento do conteúdo, certo?
+2860260	2862260	O sistema ainda não implementa feeds.
+2862260	2863260	Ah, sim.
+2863260	2867260	Só que eu tô imaginando que vai ser um pouco difícil isso aí, pela forma como o sistema trabalha.
+2867260	2872260	Eu também tive esse problema no HTML. Eu só mudei, eu ia continuar, sabe?
+2872260	2876260	O modelo HTML, porque eu queria simplesmente mostrar as tirinhas também.
+2876260	2880260	Eu só mudei, mas na verdade, por causa dessa questão do feed.
+2880260	2882260	Fica muito melhor para as pessoas acompanharem.
+2882260	2887260	Tendo uma ideia de projeto, ele consegue gerar o feed do projeto, né?
+2887260	2889260	Isso faz uma atualização no projeto.
+2889260	2892260	Eu já tive a ideia, só falta implementar.
+2892260	2893260	Ah, tá. Desculpe.
+2895260	2896260	Esses caras são foda, né?
+2896260	2900260	Estudei Python, mas foi só com relação à inteligência coletiva.
+2900260	2901260	Só tô compartilhando.
+2901260	2904260	Pode dar a sua opinião, cara. Fala-me mais sobre você.
+2904260	2906260	A entrevista ao contrário, né?
+2906260	2909260	É só para a inteligência coletiva, né?
+2909260	2910260	É interessante isso aí.
+2910260	2912260	Vou mexer com o Python mais disso.
+2912260	2914260	Mas assim, a linguagem eu achei muito interessante, cara.
+2914260	2918260	Tem coisas lá que se fosse fazer em PHP, Java e alguma outra coisa,
+2918260	2921260	eu ia gastar 100 linhas e eu faço em duas em Python.
+2921260	2923260	Interessante a linguagem. Desculpa aí o clima.
+2926260	2928260	A gente tá aqui pensando na amostra do Bezier.
+2928260	2929260	O Bezier.
+2939260	2940260	Ele curtiu.
+2941260	2943260	A gente tava com medo de fazer essa piada, né?
+2943260	2945260	A gente ficou com isso aí.
+2948260	2950260	Bom, vai despedir, né?
+2950260	2952260	Senão a gente fica aqui o dia todo conversando.
+2952260	2957260	É, tranquilo. Eu também tenho que cuidar dos problemas.
+2957260	2959260	Fizia compartilhar seus problemas com ele?
+2959260	2960260	Pode.
+2960260	2962260	O Skype tá aberto aí, só.
+2962260	2966260	Os problemas, não. Mas os programas estão lá no GitHub.
+2966260	2967260	Bela frase.
+2968260	2970260	Não, tranquilo.
+2970260	2971260	Beleza.
+2971260	2974260	Não sou muito de entrar no Skype, mas baixa marcar o encontro.
+2974260	2975260	Ui.
+2975260	2979260	Pensando no caso de a pessoa não conheceu o Nelson.
+2979260	2981260	E agora o hackton.com.
+2981260	2985260	E futuramente hackton.com.br.
+2985260	2987260	E passa aí o GitHub.
+2987260	2989260	GitHub é o barra Carlisson.
+2989260	2991260	K e 2s.
+2991260	2992260	É, Twitter.
+2992260	2994260	Twitter é barra hackton também.
+2994260	2997260	E eu também tenho o Twitter pessoal que é o Carlisson.
+2997260	2999260	E você ainda acha que eu não sou social.
+2999260	3001260	Eu tenho dois Twitter.
+3002260	3005260	E cara, você chegou a ver a tirinha do Nuts com o alemão, faz?
+3005260	3006260	Sim, sim. Eu vi.
+3006260	3007260	Mas tá inspirado aí no Nets.
+3007260	3008260	Não que...
+3008260	3010260	Parece alguma coisa, né?
+3010260	3012260	Não, não que é uma cópia, mano.
+3012260	3015260	Pois é, o que você achou das misturinhas?
+3015260	3016260	Só legal e pronto?
+3016260	3017260	É, legal e pronto.
+3017260	3020260	Cara, é brigadão aí, cara, pela entrevista.
+3020260	3021260	Beleza.
+3021260	3026260	Sempre que possível, posso dar minha opinião pra vocês aí.
+3026260	3028260	Agora não quer mais não.
+3028260	3032260	Eu também quero agradecer a minha pessoa, o do atributo CI,
+3032260	3033260	por ter me convidado.
+3033260	3036260	É sempre um prazer participar as podcasts e poder interagir com a galera.
+3036260	3037260	Valeu.
+3042260	3049260	Chegamos aos créditos.
+3049260	3054260	De mais um episódio da Trivo do CI Podcast.
+3054260	3058260	E agora, finalizando a trilogia de quatro episódios.
+3058260	3062260	Na verdade, é trilogia porque são três artistas, três convidados.
+3062260	3064260	E foram quatro episódios, né?
+3064260	3067260	Porque o episódio do Moza gente ficou em dois.
+3067260	3071260	E como é de prazo que eu queria finalizar com alguns recadinhos e agradecimentos do episódio?
+3071260	3073260	Começando pelo rolê podossférico.
+3073260	3076260	Sim, esse episódio tem uns rolê podossférico.
+3076260	3083260	Eu participei do Databasecast, lá falando sobre banco de dados para desenvolvimento móvel.
+3083260	3084260	Dá uma conferida lá.
+3084260	3087260	Teve a Maria do canal Maria quer viajar.
+3087260	3091260	Participou do E-Doublingcast e do podcast Criança Viála.
+3091260	3095260	E a Maria, que é a digníssima esposa do nosso Shadowland.
+3095260	3099260	Tenta bem o professor Wendell, que tem o Radim Podcast.
+3099260	3100260	Um abraço, professor Wendell.
+3100260	3103260	Tem o Rafael Ct também, que está lá no Liga E-Dou.
+3103260	3110260	E por último, e não menos importante, tem o Piscicocast, o podcast do Piscicowap.
+3110260	3114260	Que tem a Cleivinha aí, que já participou de vários episódios com a gente.
+3114260	3115260	Que ela é CTO.
+3115260	3118260	Dá uma conferida lá, o Piscicocast.
+3118260	3121260	Todos os links vão estar lá no post desse episódio.
+3121260	3125260	Você pode procurar nas plataformas e nos seus agregadores de podcast.
+3125260	3128260	O Piscicowap, Liga E-Dou.
+3128260	3132260	Radim Podcast, E-Doublingcast, podcast Criança Viála.
+3132260	3133260	E o Databasecast.
+3133260	3137260	Um abraço para todo mundo que mencionou a gente lá no Twitter.
+3137260	3138260	No Facebook.
+3138260	3141260	Agora a gente também tem conta no Instagram.
+3141260	3143260	Você segue lá a gente.
+3143260	3145260	Todos os links vão estar aí no post.
+3145260	3146260	Um abraço, Ulias.
+3146260	3148260	E até o próximo episódio.
+3158260	3159260	Um abraço.

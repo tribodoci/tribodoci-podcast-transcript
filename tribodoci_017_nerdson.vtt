@@ -1,0 +1,2537 @@
+WEBVTT
+
+00:00.000 --> 00:07.760
+Lá em casa tinha uma pilha de quadrinhos da Disney, então eu ficava alendo antes de aprender a ler, folhando, na verdade.
+
+00:07.760 --> 00:09.680
+E aí, quando eu prendi a ler, cara...
+
+00:09.680 --> 00:13.920
+Tem que ser palavras exclusivas, vocês já ouviram o outro podcast já.
+
+00:14.800 --> 00:17.120
+RedeCAD, depoimentos exclusivos?
+
+00:17.120 --> 00:18.880
+Mas eu falei pela verdade.
+
+00:18.880 --> 00:20.880
+Agora você pode romanciar essa parte, então.
+
+00:30.320 --> 00:33.760
+Episódio 17, entrevista com o Carlisson Bizé.
+
+00:34.800 --> 00:38.320
+Olá a todos, eu sou o Carlisson do Hecton.com.
+
+00:38.320 --> 00:40.720
+Aqui é a Sebastião Reus, o meu quadrinho de U.S.T.
+
+00:40.720 --> 00:41.600
+Tinha só um leitor.
+
+00:41.600 --> 00:44.960
+Hoje eu estou sem inspiraça, eu acho que não vai ter introdução.
+
+00:44.960 --> 00:47.920
+Aqui é a Lemônia, eu estou esperando o Fidivéc do Fábio.
+
+01:00.720 --> 01:07.120
+Assim, a gente queria focar essa entrevista mais relacionada ao software livre.
+
+01:07.120 --> 01:10.640
+Pode começar falando como foi introduzido pelo software livre?
+
+01:10.640 --> 01:17.920
+Basicamente, quando eu entrei na faculdade e o laboratório lá o pessoal usava Linux, na época era conectiva.
+
+01:17.920 --> 01:22.880
+Então, a gente era praticamente passado a usar os Linux lá.
+
+01:22.880 --> 01:30.480
+Daí eu fui começando a experimentar em casa com outras distribuições como o Slackware e o Mandriva.
+
+01:30.480 --> 01:32.080
+Na época na verdade era o Mandrake.
+
+01:32.080 --> 01:36.160
+E aí, quando saiu o Ubuntu, foi que eu mergulhei de vez lá no Linux.
+
+01:36.160 --> 01:40.960
+Então, teve alguns eventos de software livre aqui em Natal, um encontro Portugal de software livre.
+
+01:40.960 --> 01:48.560
+E aí, o pessoal de fora falando sobre a coisa, eu ainda não tinha nenhuma noção do conceito, da comunidade e nada.
+
+01:48.560 --> 01:53.920
+Teve o Aurelio Rekard, o cara da Bahia que falou sobre o Inkscape, eu fiquei fascinado pelo programa.
+
+01:53.920 --> 01:59.360
+A possibilidade de fazer dezenas, fazer coisas que eu já fazia no Windows com CorelDraw e Flash.
+
+01:59.360 --> 02:02.880
+Poder fazer essas mesmas coisas de uma certa forma no Linux.
+
+02:02.880 --> 02:07.760
+Então, comecei a usar esses programas e pronto, foi que eu mergulhei de vez no software livre.
+
+02:07.760 --> 02:12.880
+E depois desse evento, eu comecei a participar dos outros, dando palestras e na organização também.
+
+02:12.880 --> 02:18.480
+E foi quando eu fui me envolvendo ainda mais, conhecendo essas pessoas, os caras ganhando software livre.
+
+02:18.480 --> 02:21.840
+Algum tempo, mais tarde, eu comecei a desenvolver software livre também.
+
+02:21.840 --> 02:28.720
+Comecei a ajudar no Inkscape com extensões e criando meus próprios softwares também, resumidamente isso.
+
+02:28.720 --> 02:30.400
+E isso foi mais ou menos em que ano, hein?
+
+02:30.400 --> 02:33.440
+2005, 2006, por aí.
+
+02:33.440 --> 02:41.840
+Essas extensões eram oficiais para ajudar o projeto diretamente, o projeto oficial você desenvolvia pra você mesmo?
+
+02:41.840 --> 02:46.640
+Não, para o projeto. Já tenho uma extensão minha lá no repositório oficial do Inkscape.
+
+02:46.640 --> 02:54.160
+É bem simples, mas os caras gostaram, os caras resolveram incluindo o projeto porque era um recurso que o Inkscape não tinha.
+
+02:54.160 --> 02:54.880
+Qual que é?
+
+02:54.880 --> 02:59.440
+Saiba o elemento de texto e quebra em outros elementos de texto, ela separa.
+
+02:59.440 --> 03:04.400
+Você pode escolher quebrar esse elemento por linhas ou por palavras ou por caracteres.
+
+03:04.400 --> 03:08.800
+Coisa bem simples, mas o Inkscape não tinha ainda, eu fiz com Python.
+
+03:08.800 --> 03:12.800
+É bastante interessante. E você ainda continua ativo no projeto?
+
+03:12.800 --> 03:27.280
+Não, nessa extensão eu já finalizei. Ela poderia ter algumas melhorias, mas eu deixei de lado um pouco e comecei outra extensão que é pra converter os desenhos do Inkscape que usam SVG pra canvas no HTML5.
+
+03:27.280 --> 03:31.120
+Nossa, isso aí é bastante interessante, hein? Deve estar dando trabalhão, hein?
+
+03:31.120 --> 03:32.320
+Dá lá, dá um trabalhão.
+
+03:32.320 --> 03:35.600
+E esse é legal porque peguei uma ajuda do pessoal da USP.
+
+03:35.600 --> 03:42.880
+Eu tenho um amigo meu lá na USP, Paulo Meirelles, que inclusive foi um dos caras que começaram os eventos aqui no Natal.
+
+03:42.880 --> 03:51.440
+E aí ele pegou um pessoal lá da USP de graduação, se não me engano, e formou uma força-tarefa pra colaborar com esse projeto da extensão, de conversão.
+
+03:51.440 --> 03:56.080
+E aí os caras fizeram várias alterações de acordo com a minha orientação.
+
+03:56.080 --> 04:01.920
+Eles já conseguiram implementar várias coisas que eu tinha em planos, só que eu ainda não tinha tempo pra programar.
+
+04:05.600 --> 04:08.960
+É louco! Meu prazer é abarroco!
+
+04:21.360 --> 04:22.880
+Qual foi a faculdade que você fez?
+
+04:22.880 --> 04:28.560
+Eu comecei na UFRN e desisti, aí foi pro surfete, na época era o surfete.
+
+04:28.560 --> 04:30.160
+Hoje aí ia a FRN.
+
+04:30.160 --> 04:31.280
+Eu desisti desse também.
+
+04:31.280 --> 04:32.160
+Qual curso que é?
+
+04:32.160 --> 04:33.760
+Era a ciência da computação.
+
+04:33.760 --> 04:34.400
+Ah, legal.
+
+04:34.400 --> 04:39.120
+Desisti desse e fui pra uma particular e me informei lá. Pronto, tô tranquilíssimo.
+
+04:39.120 --> 04:45.600
+É, mas voltando ao projeto, esse projeto ele ainda tá em fase de desenvolvimento, certo?
+
+04:45.600 --> 04:46.160
+Sim.
+
+04:46.160 --> 04:49.440
+Tem como baixar pra testar ou não?
+
+04:49.440 --> 04:52.160
+Sim, todos esses projetos mesmos estão no GitHub.
+
+04:52.160 --> 04:57.920
+Só pra gente não passar, eu também fiz ciência da computação e eu vou receber o difloma quase quatro anos depois, né?
+
+04:59.600 --> 05:02.800
+Eu demorei apenas dois anos pra apresentar meu TCC.
+
+05:02.800 --> 05:11.280
+Quando eu entrei nessa terceira faculdade na última tentativa, eu já tava dizendo a mim mesmo não, essa é a última chance, agora ou nunca?
+
+05:11.280 --> 05:16.320
+Porque eu comecei o curso em 2003 e vim me formar ano passado, em 2011.
+
+05:16.320 --> 05:20.240
+Então foram oito anos de tentativa aí, de muita paciência também.
+
+05:20.240 --> 05:21.040
+Quase uma década.
+
+05:21.040 --> 05:29.440
+Nessa última, eu fiz tudo dentro do prazo, tentei atrasar o mínimo possível pra ficar o menos tempo possível lá dentro, porque eu já tava de saco cheio.
+
+05:29.440 --> 05:33.920
+Então não demorei tanto apresentar o TCC, como você já fiz tudo na hora mesmo.
+
+05:33.920 --> 05:37.520
+Você sempre trabalhou com design e depois foi pra programação ou já mistiu?
+
+05:37.520 --> 05:46.400
+Como eu comecei bem antes de entrar na faculdade, eu já brincava com Coraldral, eu tinha começado já bem cedo nisso com desenho e fazendo quadrinhos na época.
+
+05:46.400 --> 05:51.040
+No podcast o pessoal do Castalho, eu vi você fez uns desenhos, né?
+
+05:51.040 --> 05:55.280
+A mão, você também já tem um amor pela arte desde pequeno, né?
+
+05:55.280 --> 05:57.920
+Essa coisa de criar histórias e tal.
+
+05:57.920 --> 06:06.560
+É, naturalmente eu enveredei pela carreira artística, só que como na época também, eu tanto gostava de fazer desenhos e quadrinhos,
+
+06:06.560 --> 06:12.480
+como eu também gostava de jogos e ficar brincando com o computador, decidi entrar em ciência da computação.
+
+06:12.480 --> 06:15.680
+Então o caminho mais natural seria de webdesign.
+
+06:15.680 --> 06:16.320
+Exatamente.
+
+06:16.320 --> 06:23.840
+Aí passei alguns, vários, alguns anos estudando e trabalhando com web, webdesign, e também fui enchendo o saco disso.
+
+06:23.920 --> 06:30.960
+Hoje eu evolui, eu digivolui para o web developer e eu estou tentando fazer uma evolução forçada para a ciência de mim.
+
+06:30.960 --> 06:39.200
+Para mudar um pouco de ação de novo, parece que você não está publicando as suas tirinhas ultimamente, o que está acontecendo?
+
+06:39.200 --> 06:49.040
+Eu parei por causa do TCC e depois que eu me formei, eu decidi dar uma parada para reformular toda a ideia do blog.
+
+06:49.040 --> 06:53.920
+Na verdade, não é mais blog, vai ser um site, deixou de ser um blog e faz muito tempo.
+
+06:53.920 --> 06:56.560
+Antes eu era Nerd, só agora é o Hectone.
+
+06:56.560 --> 07:01.600
+Quando eu coloquei esse site novo no ar, foi meio que um aborto, entendeu?
+
+07:01.600 --> 07:11.360
+Não foram todas as ideias que eu tinha planejado colocar no ar, então foi só a mudança de endereço e algumas coisas, mas ainda estou trabalhando nessa reforma.
+
+07:11.360 --> 07:14.320
+Eu também desenhava quadrinhos, acho que eu nunca revelei isso, né?
+
+07:14.320 --> 07:22.720
+Não, então com exclusividade para o meu próprio TCC, eu desenhava quadrinhos e era quadrinho de Western e eu tinha um leitor.
+
+07:22.720 --> 07:25.040
+Ah, você já me disse, já uma vez.
+
+07:25.040 --> 07:26.560
+O nome dele é Wagle.
+
+07:26.560 --> 07:28.480
+Meus leitores eram minha família.
+
+07:28.480 --> 07:29.920
+Conta como é que foi isso para a gente?
+
+07:29.920 --> 07:33.840
+É porque tem um background antes de começar a mexer com informática, né?
+
+07:33.840 --> 07:34.960
+Sim, sim.
+
+07:34.960 --> 07:42.720
+Lá em casa tinha uma pilha de quadrinhos da Disney, então eu ficava olhando antes de aprender a ler, folhando na verdade.
+
+07:42.800 --> 07:44.720
+E aí, quando eu aprendi a ler, cara...
+
+07:44.720 --> 07:48.880
+Tem que ser palavras exclusivas, vocês já ouviram no outro podcast, já.
+
+07:48.880 --> 07:52.000
+Redcat de apoiamentos exclusivos?
+
+07:52.000 --> 07:54.000
+Mas eu falei que ela é verdade.
+
+07:54.000 --> 07:56.000
+Agora você pode romanciar essa parte, então.
+
+08:13.680 --> 08:24.160
+Então apareceu uma deusa de cabelos compridos, segurando uma espada, e falou para mim, faça quadrinhos, você não precisa arrepender.
+
+08:24.160 --> 08:27.600
+Então, ela me falou para começar a fazer meus próprios quadrinhos.
+
+08:27.600 --> 08:34.560
+Ela falou que no começo eu deveria copiar as ideias dos quadrinhos que eu lia, e depois eu tive essas minhas próprias ideias.
+
+08:34.560 --> 08:36.240
+E foi exatamente o que aconteceu.
+
+08:36.240 --> 08:47.200
+E aí, quando eu descobri o mundo maravilhoso dos jogos de computadores, eu deixei de fazer quadrinhos e só voltei a fazer agora com o Nerdsum, em 2006.
+
+08:47.200 --> 08:54.720
+Esse tempo todo lá que eu, da minha adolescência, o final da infância, eu deixei de fazer quadrinhos e ficava só jogando no computador.
+
+08:54.720 --> 08:57.200
+E daí foi despertar interesse pela computação.
+
+08:57.200 --> 09:10.320
+Que na verdade é uma ilusão, né? O cara entra na faculdade de ciência da computação achando que vai fazer jogos e tal, mas o cara passa uns três semestres só fazendo cálculo e contas de física, mecânica clássica e tudo mais.
+
+09:10.320 --> 09:21.840
+E esse ondes perde isso, né? Dizem que o jogo é bom para desenvolver questão de percepção e tal, mas em excesso é bastante canseiro, igual você perdeu muito o tempo da sua vida jogando, certo?
+
+09:21.840 --> 09:22.560
+Não.
+
+09:22.560 --> 09:24.560
+Eu tinha que perder tempo também, né?
+
+09:24.560 --> 09:26.960
+Não, eu não diria que foi uma perda de tempo.
+
+09:26.960 --> 09:34.320
+Depende, como alguns momentos eu exagerava, tipo, passava 10 horas jogando direto, aí realmente é uma perda de tempo, mas...
+
+09:34.320 --> 09:41.120
+Não, isso era um teste de resistência, Rafael, não pode pensar como perda de tempo, quantas vezes no trabalho você teve que ficar mais de 8 horas?
+
+09:41.120 --> 09:42.080
+Ah, várias.
+
+09:42.080 --> 09:44.960
+Olha aí, viu? Se não fosse o background do cara com os jogos.
+
+09:44.960 --> 09:48.800
+Mas a vantagem disso é que eu aprendi inglês, cara.
+
+09:48.800 --> 09:50.320
+É, eu ia falar isso agora.
+
+09:50.320 --> 09:52.880
+Então essa parte da entrevista de respeito é todo inglês, tá?
+
+09:52.880 --> 09:55.280
+Não, não, não. Leia uma coisa a falar e outra.
+
+09:55.280 --> 09:59.920
+É engraçado isso, cara. Eu recebia muitas críticas assim, por causa que meu... Eu tenho um irmão pequeno.
+
+09:59.920 --> 10:04.080
+Assim que ele veio morar comigo aqui em Goiânia, eu comprei Diablo 2 para eles, né?
+
+10:04.080 --> 10:05.680
+A desculpa era que era para ele, viu?
+
+10:05.680 --> 10:13.200
+E, cara, ele jogava pra caramba, eu recebia muita crítica assim, ah, mas eles não faz nada, eu podia ensinar ele programar, não sei o quê e tal.
+
+10:13.200 --> 10:15.760
+O inglês que ele aprendeu também foi bem prático, sabe?
+
+10:15.760 --> 10:21.280
+Eu acho que se ele fosse para uma escola, dificilmente ele iria desistir ali na primeira semana.
+
+10:21.280 --> 10:26.160
+E ele tem uma produção inglês até interessante, só basicamente julgando.
+
+10:26.160 --> 10:29.760
+Ele jogava o batonete e a maioria da galera que entrava lá era americano.
+
+10:29.760 --> 10:33.760
+Então acho que dá pra se tirar coisas boas dessa fase da vida, né?
+
+10:33.760 --> 10:38.400
+Depois que eu aprendi os jogos e conto aí praticando na informática, né?
+
+10:38.400 --> 10:44.240
+Eu prefiro tutoriais em inglês, livros em inglês, porque algumas tradições em português são péssimas.
+
+10:44.240 --> 10:49.680
+Então eu inventei de fazer um curso de inglês, achando que ia ganhar alguma coisa, mas não.
+
+10:49.680 --> 10:57.120
+Isso sim, pra mim, foi uma perda de tempo, cara, porque eu não melhorei nada lá, então eu já tava numa onda de ser autodidata, né?
+
+10:57.120 --> 11:05.920
+Pô, eu posso aprender tudo sozinho, então foi mais um motivo pra eu ter saído do lado do curso, prometido a mim que nunca ia fazer outro curso de inglês na vida.
+
+11:05.920 --> 11:07.200
+Tu é autodidata em que mais?
+
+11:07.200 --> 11:10.800
+Em várias coisas da computação, por exemplo.
+
+11:10.800 --> 11:15.120
+Paiton aprendi sozinho, JavaScript aprendi sozinho, praticamente, também.
+
+11:15.120 --> 11:20.720
+Flash, quase tudo aprendi sozinho, ó. Tirando as coisas de faculdade, né? As coisas teóricas de faculdade.
+
+11:20.720 --> 11:21.600
+HTML?
+
+11:21.600 --> 11:26.720
+Ah, HTML, não, isso já foi num curso de web que eu fiz paralelo com a faculdade.
+
+11:26.720 --> 11:28.880
+CSS, entre outras coisas.
+
+11:28.880 --> 11:38.320
+Todas as outras tecnologias que eu trabalho atualmente, como por exemplo, Python, PHP, JavaScript e avançado, eu fui estudando e praticando até trabalho também, né?
+
+11:38.320 --> 11:42.960
+Porque a maioria das coisas que a gente aprende é no trabalho, fazendo, colocando a mão na massa.
+
+11:42.960 --> 11:44.880
+É o tru do autodidata.
+
+11:44.880 --> 11:49.040
+Você nunca vai tocar tru total, porque só quem toca bem é autodidato.
+
+11:49.040 --> 11:52.160
+Então se conforme que nunca você vai chegar nem perto do que eu toco, tá?
+
+11:53.120 --> 11:56.320
+Hum...
+
+12:08.320 --> 12:13.120
+Além de levar um tiro, tem que aguentar um solo lixo e amador desse, hein?
+
+12:13.120 --> 12:14.320
+Nossa, ame!
+
+12:14.320 --> 12:15.840
+É...
+
+12:15.840 --> 12:17.360
+Não é mole, não.
+
+12:17.360 --> 12:20.960
+Tanto rapaz aí, esbanjando saúde,
+
+12:21.040 --> 12:25.040
+trocando uma noite de amor pra noite de Playstation,
+
+12:25.040 --> 12:27.120
+rodízio com os amigos,
+
+12:27.120 --> 12:31.440
+e a mulherada aí, largada em segundo plano,
+
+12:31.440 --> 12:33.440
+pensando na racinha desunida,
+
+12:33.440 --> 12:35.440
+vumbas em fúria.
+
+12:40.480 --> 12:44.560
+Mas eu brinco assim, mas eu acho interessante também aprender com alguém ensinando.
+
+12:44.560 --> 12:48.320
+Eu pensava isso também, só que hoje em dia eu já não tenho mais paciência pra isso,
+
+12:48.320 --> 12:52.160
+por isso não me vejo novamente entrando na sala de aula,
+
+12:52.160 --> 12:55.680
+a não ser pra tirar carteira de habilitação, né?
+
+12:55.680 --> 12:59.040
+Tirando isso aí, eu não me vejo voltando à sala de aula mais, não.
+
+12:59.040 --> 13:03.280
+Porque, pô, praticamente dá pra estudar tudo em casa mesmo, então.
+
+13:03.280 --> 13:06.160
+Eu não tenho paciência pra seguir aquele ritmo lento,
+
+13:06.160 --> 13:08.960
+não é que todas as aulas seguem, né?
+
+13:08.960 --> 13:12.400
+Pra poder reduzir por baixo o nível da galera.
+
+13:12.400 --> 13:15.840
+Cada um estuda no nível que for adequado à sua necessidade,
+
+13:15.840 --> 13:17.840
+é como o cara consegue estudar.
+
+13:17.840 --> 13:19.520
+Então tem esse lance também.
+
+13:19.520 --> 13:23.200
+Mas aí tu acha que seria, caso que tu, sei lá, perdeu a paciência,
+
+13:23.200 --> 13:27.200
+tu acha que deveria, a galera que ministra esse tipo de curso deveria se reinventar?
+
+13:27.200 --> 13:28.800
+Eu acho que um pouco dos dois.
+
+13:28.800 --> 13:33.840
+Depois de 8 anos de faculdade, cara, você acha que eu tenho paciência pra sentar na sala
+
+13:33.840 --> 13:35.360
+e ficar ouvindo o cara falando,
+
+13:35.360 --> 13:37.840
+também pela questão do cara que tá dando a aula,
+
+13:37.840 --> 13:41.520
+ao invés de ser aquele velho modelo, o cara falando e o pessoal escutando,
+
+13:41.520 --> 13:44.320
+eu acho que tem que ser uma participação total do pessoal.
+
+13:44.320 --> 13:49.360
+E exercícios, um cara tem que chegar lá pra resolver problemas, né?
+
+13:49.360 --> 13:51.920
+Simulando uma empresa, né?
+
+13:51.920 --> 13:54.400
+Você tá lá trabalhando e tem que resolver um problema.
+
+13:54.400 --> 13:59.360
+Então eu acho que esse tipo de modelo é o mais adequado pra uma sala de aula, né?
+
+13:59.360 --> 14:00.640
+Você resolver problemas.
+
+14:00.640 --> 14:04.160
+Eu fiz curso técnico antes de entrar na faculdade,
+
+14:04.160 --> 14:06.400
+e seis meses depois eu já inicia a faculdade.
+
+14:06.400 --> 14:09.440
+E quando a faculdade acabou eu fiquei meio sem chão, sabe?
+
+14:09.440 --> 14:11.680
+E agora não tem nada pra estudar e tal.
+
+14:11.760 --> 14:14.480
+Eu tirei minha sentificação lina, que são nas férias da minha faculdade.
+
+14:14.480 --> 14:15.600
+Fiz uma cursão e tal.
+
+14:15.600 --> 14:17.360
+Eu era o aluno mais chato do mundo, sabe?
+
+14:17.360 --> 14:20.160
+Não chato de ficar cobrando essas paradas e tal.
+
+14:20.160 --> 14:23.200
+Mas chato no sentido de estar sempre querendo fazer uma adenda,
+
+14:23.200 --> 14:24.720
+participar da aula e tal.
+
+14:24.720 --> 14:27.120
+Porque eu vejo assim, tem muita gente que...
+
+14:27.120 --> 14:28.560
+Ah, isso daí eu já sei.
+
+14:28.560 --> 14:30.560
+E quando ia ter uma aula lá, né?
+
+14:30.560 --> 14:32.640
+O cara não dava muita atenção na aula e sei lá.
+
+14:32.640 --> 14:35.920
+E quando assim, quando era uma coisa que eu já sabia, já tinha uma introdução,
+
+14:35.920 --> 14:37.760
+era pra mim era a melhor aula do mundo, sabe?
+
+14:37.760 --> 14:41.200
+Porque eu ficava toda hora fazendo uma adenda e indo sei o quê e tal.
+
+14:41.200 --> 14:45.040
+Querendo contribuir, eu acho que esse tipo de aula com bastante interatividade,
+
+14:45.040 --> 14:46.480
+pra mim é uma experiência legal, né?
+
+14:46.480 --> 14:48.800
+Aí você era o aluno chato da torna, né?
+
+14:48.800 --> 14:50.400
+É, eu era chato pra caralho também.
+
+14:50.400 --> 14:55.040
+Que quando tá faltando um minuto pra acabar a aula, você vai,
+
+14:55.040 --> 14:58.800
+faz uma pergunta que o professor responde durante cinco minutos
+
+14:58.800 --> 15:00.960
+e todo mundo olha pra você com cara de raiva.
+
+15:00.960 --> 15:03.360
+É, geralmente quando acabava a aula, a galera saía,
+
+15:03.360 --> 15:05.360
+ficava tocando ideia com o professor.
+
+15:12.000 --> 15:18.160
+Onde muita boca bonita,
+
+15:18.160 --> 15:23.120
+canta na língua Tupi, cante aqui, cante agora, cante lá, que eu canto aqui,
+
+15:23.120 --> 15:27.600
+Piauiti Terezina, Pannaiva, Floriano, Piripiri, Piracuruca, canto maior,
+
+15:27.600 --> 15:35.920
+Autos Esperantina, Praia do Copeiro, Pela do Sao e Atalá.
+
+15:35.920 --> 15:38.560
+Você publicou as suas tirinhas na língua do magazine,
+
+15:38.560 --> 15:44.160
+você é bem ativo na parte de códigos e softwares no software livre,
+
+15:44.160 --> 15:50.000
+você já publicou algum artigo sobre Linux, anuncia as tirinhas na revista?
+
+15:50.000 --> 15:55.520
+Não, eu cheguei a fazer alguns trabalhos lá com eles na tradução de artigos e
+
+15:55.520 --> 16:00.400
+desenvolvimento de software de sistemas internos na língua do magazine.
+
+16:00.400 --> 16:03.200
+Foi um breve tempo que eu trabalhei com eles,
+
+16:03.200 --> 16:07.600
+o lance de as tirinhas ainda está rolando lá, algumas tirinhas ainda estão sendo publicadas lá,
+
+16:07.600 --> 16:13.360
+eu acho que como já vai fazer um ano que eu não atualizo o site, não faço mais nada,
+
+16:13.360 --> 16:16.400
+então acho que eles vão ficar sem tirinhas pra publicar.
+
+16:16.400 --> 16:23.360
+Tá aí a indicação aí pra mim, com eles que te chamaram pra publicar lá?
+
+16:23.360 --> 16:25.520
+É, convidaram.
+
+16:25.520 --> 16:31.280
+Foi nepotismo porque tava trabalhando lá dentro.
+
+16:31.280 --> 16:37.120
+Foi antes, antes de eu trabalhar lá, eu trabalhava distância na verdade, nunca sai daqui.
+
+16:37.120 --> 16:40.480
+Você já viu a publicar em alguma que não seja a mídia digital?
+
+16:40.480 --> 16:48.640
+Não de revistas, coisas perigoticas não, mas em jornais, notícias soltas já saiu várias vezes,
+
+16:48.640 --> 16:53.840
+só que eu não lembro, eu não fico guardando, então não dá pra eu citar aqui todas.
+
+16:53.840 --> 16:58.640
+Aqui eu lembro, saiu lá no jornal Zero Hora, seu nome é Jani, que é no lado Porto Alegre,
+
+16:58.640 --> 17:03.440
+na época que eu fui no Fizzle, acho que foi o Fizzle 10, saiu uma tirinha lá minha,
+
+17:03.760 --> 17:10.800
+também depois da Campos Part, em 2009, eu fui lá, dei um admitido e tirou uma foto com Tim Berners-Lee,
+
+17:10.800 --> 17:17.040
+e aí os caras fizeram uma matéria, pessoal daqui de Natal mesmo, teve uma matéria sobre
+
+17:17.040 --> 17:22.800
+o Campos Part me entrevistando e acho que não lembro exatamente, eu acho que não colocaram
+
+17:22.800 --> 17:28.640
+a tirinha não, mas colocaram uma foto lá também, de impresso mesmo, a Linux Magazine.
+
+17:28.640 --> 17:31.200
+Ah é, Linux Magazine, é impresso, é só...
+
+17:31.200 --> 17:35.600
+Eu te mostrei a tirinha dela, você não lembra não?
+
+17:35.600 --> 17:38.960
+É verdade, com a Alemão ele publica na Espírito Livre, né?
+
+17:38.960 --> 17:40.960
+Eu já saí na Espírito Livre também.
+
+17:40.960 --> 17:43.120
+Você estuviu, a gente entrevistou o Moza Esticoto?
+
+17:43.120 --> 17:45.440
+Sim, eu estuvi, eu vi na lista lá.
+
+17:45.440 --> 17:49.440
+É porque ele falou exatamente desse começo dos quadrinhos lá.
+
+17:49.440 --> 17:54.000
+Ele é quadrimista, ele usa software livre, e se não me engano, ele mora aqui no Natal também.
+
+17:54.000 --> 17:56.480
+Não, ele mora em Minas Gerais.
+
+17:56.480 --> 17:59.120
+Você falou que quer virar CISA de Min, né?
+
+17:59.120 --> 18:06.000
+Você está cansado de ser programador 24x7, quer mexer mais com a área de CISA de Min?
+
+18:06.000 --> 18:13.920
+Eu não sei no que vocês trabalham, mas se vocês trabalham com frameworks, web, e têm
+
+18:13.920 --> 18:19.760
+de resolver problemas de compatibilidade ali dos navegadores, então vocês sabem como
+
+18:19.760 --> 18:24.960
+é doloreio fazer esse tipo de trabalho, porque você tem vários frameworks na internet,
+
+18:24.960 --> 18:29.600
+que você pode baixar, usar, só que todos os trabalhos que você vai fazer, cara, você
+
+18:29.600 --> 18:35.440
+tem que ir atrás, fuçar o framework, porque ele não oferece todas as coisas que você
+
+18:35.440 --> 18:36.440
+precisa.
+
+18:36.440 --> 18:41.280
+Noventa por cento dos casos, você tem que criar coisas novas em cima desse framework,
+
+18:41.280 --> 18:46.320
+então este trabalho é chato, são, como eu falei certa vez, são falsas promessas, né,
+
+18:46.320 --> 18:47.320
+desses frameworks.
+
+18:47.320 --> 18:51.520
+E tem também a questão, como eu falei, dos navegadores, e isso enche o saco.
+
+18:51.520 --> 18:56.160
+São também falsas promessas, você todo dia acompanha as notícias de desenvolvedores
+
+18:56.160 --> 19:02.600
+web e atualizações de navegadores, todo dia tem alguma coisa, algum feature novo, bonitinha,
+
+19:02.600 --> 19:09.800
+de HTML5, do CSS3, próxima versão do JavaScript, que vai ter classes embutido, lá por padrão,
+
+19:09.800 --> 19:14.960
+e não sei mais o que, só que eu já escuto essas promessas, cara, desde 2004, foi quando
+
+19:14.960 --> 19:20.240
+eu comecei a trabalhar com web, e até hoje, muita pouca coisa mudou, então isso acabou
+
+19:20.240 --> 19:26.360
+frustrando, e isso pelo menos está me frustrando, e talvez eu saia disso futuramente, é por
+
+19:26.360 --> 19:30.880
+enquanto não dá pra sair, talvez lá na frente eu ter essa mais unível na computação e
+
+19:30.880 --> 19:33.280
+possa trabalhar com ainda conservadores e...
+
+19:33.280 --> 19:34.280
+Pé com curtir o formato?
+
+19:34.280 --> 19:35.280
+Não, esse aí não.
+
+19:35.280 --> 19:39.160
+E seja de mim, programação baixa o nível, não sei.
+
+19:39.160 --> 19:42.560
+E nesse negócio de desenvolvimento pra web, existe dois mundos, né, existe o internet
+
+19:42.560 --> 19:44.240
+Xplore e o resto do mundo.
+
+19:44.240 --> 19:47.280
+Pois é, eu ainda tenho problemas com internet Xplore R9.
+
+19:47.280 --> 19:53.600
+Hoje eu tô trabalhando com o framework web, JavaScript, é o Xt, é Xt, dá pra ver falar?
+
+19:53.600 --> 19:59.920
+Já, é, por enquanto eu tô trabalhando com o Zend framework, PHP, e é ele que tá me
+
+19:59.920 --> 20:05.520
+dando essas vontades de largar essa área, vez eu vou ter o brinco com o Django, o Python,
+
+20:05.520 --> 20:10.440
+quando eu troco do Zend pro Django, é quando aparece a Deusa lá de cabelos longos, e só
+
+20:10.440 --> 20:15.440
+pra uma brisa fresca no meu rostro, é exatamente essa sensação quando você sai do Zend pra
+
+20:15.440 --> 20:20.040
+ir pro Django, porque é outro mundo, o Django é bem mais fácil de fazer as coisas, só
+
+20:20.040 --> 20:23.120
+que ainda assim eu tenho problemas, como todos os outros frameworks.
+
+20:23.120 --> 20:24.960
+Tudo começou com Rails, né, cara?
+
+20:24.960 --> 20:30.280
+É, o Rails eu cheguei a testar uma vez, mas não estudei, então também o Rubb eu cheguei
+
+20:30.280 --> 20:33.440
+a estudar uma vez e parei, então já esqueci quase tudo.
+
+20:33.440 --> 20:38.120
+Falando assim, no sentido de inspiração da forma de trabalhar, né, metaprogramação,
+
+20:38.120 --> 20:39.120
+que isso?
+
+20:39.120 --> 20:40.120
+Keep it simple, estúpido.
+
+20:40.120 --> 20:43.760
+Don't repeat yourself, em um monte desses termos em inglês maneiro.
+
+20:43.760 --> 20:49.840
+Já trabalhei com três frameworks PHP, o Zend agora, antes foi o Cake, e antes do Cake
+
+20:49.840 --> 20:50.840
+o Code Igniter.
+
+20:50.840 --> 20:55.680
+O Code Igniter é o que me parece o melhor até hoje, só que infelizmente eu não pude
+
+20:55.680 --> 21:00.040
+me aprofundar tanto nele, eu cheguei a fazer algumas coisas, mas pelo que eu vi comparando
+
+21:00.040 --> 21:03.720
+os três, o Code Igniter é o mais fácil de você trabalhar, né, a documentação dele
+
+21:03.720 --> 21:05.320
+inclusive é melhor que existe.
+
+21:05.320 --> 21:07.720
+E o pior é o Cake, que é o Cake é um terror.
+
+21:07.720 --> 21:10.520
+Me desculpe quem usa o Cake, mas o Cake é uma droga.
+
+21:10.520 --> 21:15.480
+Eu cheguei a fazer um sistema interno no Cake, e o negócio é tão ruim de manter,
+
+21:15.480 --> 21:19.840
+de fazer, que convenci o meu chefe a converter todo o código pra Zend.
+
+21:19.840 --> 21:23.600
+É, hoje lá na empresa a gente tá passando com um processo parecido, né, mas antes
+
+21:23.600 --> 21:30.280
+a gente desenvolvia tudo usando basicamente de jQuery e PHP todo escrito daquele jeito.
+
+21:30.280 --> 21:36.240
+O processo atualmente que eu estou na minha empresa é mudar pra Django, todos os sistemas
+
+21:36.240 --> 21:38.640
+novos vão ser feitos em Django agora e ponto final.
+
+21:38.640 --> 21:43.280
+Só que ainda vai ter os sistemas em PHP pra ficar mantendo, né, então eu vou ter que
+
+21:43.280 --> 21:45.280
+lidar com PHP ainda por um bom tempo.
+
+21:45.280 --> 21:51.240
+Mas isso não quer dizer que eu odeio PHP, na verdade eu odeio algumas particularidades
+
+21:51.240 --> 21:56.400
+dos frameworks, como por exemplo, no Django eu posso fazer o crud lá automaticamente,
+
+21:56.400 --> 22:00.960
+né, no Zend eu tenho que fazer na mão, e isso usando o framework por nene plugin.
+
+22:00.960 --> 22:03.120
+O Zend tool, você não que usou, né?
+
+22:03.120 --> 22:08.120
+O Zend tool eu uso sim, só que ele não faz o código pra mim, ele só gera um boilerplate,
+
+22:08.400 --> 22:14.480
+entendi, mas aí a parte do DBA já tá pronto, daí sempre tem que mapear ou é o contrário?
+
+22:14.480 --> 22:20.040
+Na verdade a gente usa uma outra estratégia, a gente não coloca coisas muito específicas
+
+22:20.040 --> 22:27.440
+de banco, de dados, no framework, e sim em procedures, foi meio que uma ideia pra fugir
+
+22:27.440 --> 22:33.440
+do ORM e do Zend, que a gente viu em testes que era bem lento pra o que a gente queria,
+
+22:33.440 --> 22:40.440
+então a gente migrou boa parte das funções de model, de dados pra procedures do Postgres,
+
+22:40.840 --> 22:46.200
+então fica bem mais rápido a execução do sistema apesar de dependente do Postgres.
+
+22:46.200 --> 22:51.440
+Pelo que a gente vê das boas práticas, o pessoal sempre defende a desenvolver independente
+
+22:51.440 --> 22:52.440
+de banco de dados?
+
+22:52.440 --> 22:57.160
+Sim, isso é como eu falei antes, isso é uma das falsas promessas, você não pode confiar
+
+22:57.160 --> 23:05.080
+100% no ORM, como um hibernate da vida, um Doctrine do PHP, porque o ORM não resolve
+
+23:05.080 --> 23:09.000
+todos os problemas, eu não posso dizer a maioria dos casos porque eu não sei, mas em alguns
+
+23:09.000 --> 23:15.920
+casos eles geram queries ineficientes, então não dá pra confiar neles, no caso do sistema
+
+23:15.920 --> 23:20.640
+que eu tô lá trabalhando, a gente achou melhor colocar tudo na responsabilidade do banco.
+
+23:20.640 --> 23:22.040
+Que fica rápido pra caramba, né?
+
+23:22.040 --> 23:23.040
+Fica, bem rápido.
+
+23:23.040 --> 23:27.120
+É engraçado isso, porque eu também passei por uns problemas assim, a gente começa
+
+23:27.120 --> 23:33.200
+a construir uma coisa, daí a gente vai construir em volta e esquece de fazer soluções simples,
+
+23:33.200 --> 23:37.120
+e tem coisas que a gente conseguiu, fazendo uma triga e a gente deixa a solução um milhão
+
+23:37.120 --> 23:40.240
+de vezes mais simples do que a gente tava fazendo.
+
+23:40.240 --> 23:44.600
+É, fica bem mais simples, reduz o código, o código da aplicação fica uma linha só
+
+23:44.600 --> 23:51.360
+e você faz uma procedure, uma triga e pronto, tá resolvido o problema e você consegue manter
+
+23:51.360 --> 23:57.320
+a atomicidade das operações, porque isso seria bem difícil manter no código da aplicação.
+
+23:57.320 --> 24:00.520
+Eu sei que isso não foca da entrevista, mas eu queria fazer mais um comentário a respeito
+
+24:00.520 --> 24:01.520
+disso.
+
+24:01.520 --> 24:04.880
+Mas aqui é todo nerd, cara, então não tem problema falar nisso.
+
+24:04.880 --> 24:09.280
+É porque assim, cara, eu já trabalhei em empresas que a gente fazia assim, não pode
+
+24:09.280 --> 24:13.720
+desenvolver queries que sejam muito específicas do Postgre, porque se a gente quiser mudar
+
+24:13.720 --> 24:17.200
+pra outro banco vai ser fácil, e nessa época ele só tinha um cliente, né?
+
+24:17.200 --> 24:20.600
+É, por exemplo, se o cliente fosse impor, não, a gente quer usar a Oroco, mas todos os
+
+24:20.600 --> 24:23.440
+clientes que vieram depois a gente impor e a gente ia usar Postgre.
+
+24:23.440 --> 24:27.800
+Aí, assim, a gente deixou de usar recursos do Postgre e deixando o desenvolvimento mais
+
+24:27.800 --> 24:28.800
+custoso, né?
+
+24:28.800 --> 24:31.760
+E em função disso, na prática, o seu nome é totalmente diferente, né?
+
+24:31.760 --> 24:35.120
+Era só esse o comentário que a gente fazia.
+
+24:35.120 --> 24:38.120
+A gente pode voltar pra falar de quadrinhos, o Valimogão.
+
+24:38.120 --> 24:39.120
+De quadrinhos.
+
+24:39.120 --> 24:43.120
+5 minutos, 5 minutos pra falar de quadrinhos, 5 minutos.
+
+24:47.200 --> 25:05.200
+Mas eu vejo que você usa o Skype também, né, pra fazer essas quadrinhas?
+
+25:05.200 --> 25:09.400
+É, eu uso o Skype mesmo, eu uso mais as partes de vetores, né?
+
+25:09.400 --> 25:15.280
+Questão de texto, eu sempre uso mais o editor de texto normal, nunca usei a sua aplicação.
+
+25:15.280 --> 25:18.480
+No meu caso, eu uso o Inkscape pra fazer tudo mesmo.
+
+25:18.480 --> 25:23.360
+Eu coloco o texto mesmo lá dentro, escrevo o texto lá, eu geralmente não escrevo roteiro
+
+25:23.360 --> 25:27.200
+completo no bloco de nota, eu escrevo toda a história lá mesmo, ao mesmo tempo que
+
+25:27.200 --> 25:28.200
+eu desenho.
+
+25:28.200 --> 25:29.840
+Pego a ideia, abstrata, né?
+
+25:29.840 --> 25:33.200
+E a árvore Inkscape começa a desenhar e escrever lá mesmo o texto.
+
+25:33.200 --> 25:38.240
+Geralmente é assim, mas quando eu tenho alguma ideia mais complexa, eu escrevo um roteiro
+
+25:38.240 --> 25:42.480
+bem básico inicial no arquivo de texto, depois eu adapto.
+
+25:42.480 --> 25:47.200
+Igual aquela história que você escreveu sobre o guia do programador das galáxias,
+
+25:47.200 --> 25:51.400
+você não vai me dizer que você abriu o Inkscape e começou a desenhar que lá, né?
+
+25:51.400 --> 25:55.600
+Não, com certeza não, só que pra aquela história ali, eu também não cheguei a
+
+25:55.600 --> 26:00.880
+escrever um roteiro completo, eu só tenho assim, rabiscos e ideias, tipo assim, nessa
+
+26:00.880 --> 26:04.160
+parte da história vai acontecer isso aqui, pronto, nada além disso.
+
+26:04.160 --> 26:09.040
+Então quando eu tenho essa ideia lamentada, eu abro lá o Inkscape, começo a desenhar,
+
+26:09.040 --> 26:13.720
+pego o livro, vejo lá o que os personagens estão falando e faço alteração lá mesmo
+
+26:13.720 --> 26:14.720
+na hora.
+
+26:14.720 --> 26:17.360
+Então, isso aí eu não muda muita coisa não, meu processo.
+
+26:17.360 --> 26:19.520
+Só que você não usa o Inkscape não, né?
+
+26:19.520 --> 26:20.520
+Não, eu uso o GIMP.
+
+26:20.520 --> 26:25.600
+Como Inkscape exporta pra PNG, eu uso o GIMP pra reduzir o tamanho da imagem, você salvando
+
+26:25.600 --> 26:31.280
+naturalmente pelo GIMP, ele reduz alguns k-bytes, isso não é muito útil, então eu faço a
+
+26:31.280 --> 26:33.040
+indexação por cores.
+
+26:33.040 --> 26:37.960
+Eu faço todos os quadrinhos sem usar gradientes, sem usar blurs, esses filtros aí, eu posso
+
+26:38.000 --> 26:43.880
+depois abrir a imagem no GIMP, alterar a imagem pra 256 cores, né, indexação, e aí
+
+26:43.880 --> 26:46.320
+reduz bastante o tamanho do quadrinho no final.
+
+26:46.320 --> 26:47.320
+Ah, tá certo.
+
+26:47.320 --> 26:50.120
+Acho que só isso mesmo, né?
+
+26:50.120 --> 26:55.040
+Queria falar um pouco de 40 e tem tempo aí.
+
+26:55.040 --> 26:57.320
+Já tá deslação já, né?
+
+26:57.320 --> 27:00.880
+Tipo, eu te mandei um e-mail, você não viu não?
+
+27:00.880 --> 27:03.920
+A gente perguntando sobre um feedback das mistirinhas?
+
+27:03.920 --> 27:04.920
+Sim.
+
+27:04.920 --> 27:10.720
+Não, é sério mesmo, cara, acho muito importante, vim de você, um feedback das mistirinhas,
+
+27:10.720 --> 27:11.720
+é muito bom.
+
+27:11.720 --> 27:14.960
+Eu só digo uma coisa, quanto em noio fazendo o que você gosta de fazer?
+
+27:14.960 --> 27:15.960
+Tá certo.
+
+27:15.960 --> 27:21.520
+Ele não tem esse negócio de escrever roteiro, porque ele é um quadrinho de saturno, não?
+
+27:21.520 --> 27:27.480
+Não, não, não sou, cara, tipo assim, eu to sem fazer muitas coisas, mas não sou mestre
+
+27:27.480 --> 27:28.480
+em nenhuma delas.
+
+27:28.480 --> 27:29.480
+Mas é autodidato.
+
+27:30.000 --> 27:35.240
+Não me ideia, assim, o que eu sei fazer com quadrinhos hoje foi olhando para os quadrinhos
+
+27:35.240 --> 27:39.360
+da Disney e praticando, fazendo a mão, mas hoje em dia eu não faço nada a mão, mas
+
+27:39.360 --> 27:42.320
+eu só faço no mouse, então não pratique mais desenho.
+
+27:42.320 --> 27:47.080
+Aqueles desenhos lá que eu faço, eu já foro desenhados uma vez, então eu não faço mais
+
+27:47.080 --> 27:52.640
+nada, eu só faço mover o mouse e alterar um olho, uma boca, um braço, e pronto, é
+
+27:52.640 --> 27:53.640
+isso.
+
+27:53.640 --> 27:57.760
+No caso do quadrinho histórias maiores, como do Guido e Programador, é sim que eu desenho
+
+27:57.760 --> 27:58.760
+coisas novas.
+
+27:58.760 --> 28:00.480
+Só que isso demora bem mais.
+
+28:00.480 --> 28:04.600
+Engraçado isso, porque você falou que olha o quadrinho das Disney, né, na minha infância
+
+28:04.600 --> 28:06.120
+e adolescência eu tinha um problema.
+
+28:06.120 --> 28:12.880
+Eu basicamente desenhava assim mais na pegada Disney, só que 110% dos meus amigos só curtiam
+
+28:12.880 --> 28:13.880
+manga, sabe?
+
+28:13.880 --> 28:15.840
+Aí eu ficava meio deslocado com isso.
+
+28:15.840 --> 28:21.360
+É, manga também nunca foi uma coisa que eu gostei, nem lia muito, não.
+
+28:21.360 --> 28:26.640
+Porque na época, na minha infância, eu só fui exposto mesmo da Disney e da turma da
+
+28:26.640 --> 28:33.680
+Mônica, como a maioria dos brasileiros na época, então o meu estilo foi criado, inspirado
+
+28:33.680 --> 28:35.080
+nesse cartuno.
+
+28:35.080 --> 28:36.080
+Mangasso a rentar mesmo.
+
+28:36.080 --> 28:53.280
+As vezes eu não gosto do meu próprio quadrinho, sabe?
+
+28:53.280 --> 28:59.040
+Eu só faço porque dá aquela vontade de querer falar alguma coisa, de querer sacanear
+
+28:59.040 --> 29:01.960
+com a história da informática, alguma pessoa, sei lá.
+
+29:01.960 --> 29:05.040
+Assim, a maior parte do tempo eu não gosto do que eu faço, sabe?
+
+29:05.040 --> 29:09.640
+Acho que é a questão do perfeccionismo, porque eu tenho e isso me atrapalha às vezes,
+
+29:09.640 --> 29:14.280
+porque eu faço com que eu demore muito tempo para gostar do produto final.
+
+29:14.280 --> 29:19.520
+Então, por exemplo, se eu não tivesse isso, o site novo já estaria no ar, na verdade
+
+29:19.520 --> 29:24.200
+eu nem teria parado de fazer, porque eu tô mudando, fazendo uma mudança radical na
+
+29:24.200 --> 29:28.880
+forma como eu tô fazendo o site, então ainda não tá do meu agrado, ainda vai demorar
+
+29:28.880 --> 29:32.080
+um pouco para poder gostar do produto final, do resultado.
+
+29:32.080 --> 29:37.600
+Isso é interessante, cara, porque eu tava vendo um documentário na GNT sobre uma mulher
+
+29:37.600 --> 29:41.480
+que canta funk no Rio de Janeiro e ela tava na Alemanha, chuparina.
+
+29:41.480 --> 29:46.440
+Eu achei interessante uma coisa que ela falou, a chuparina, que a arte que ela faz, o personagem
+
+29:46.440 --> 29:50.160
+que ela faz, a criação, na verdade, ela é maior que o criador, né?
+
+29:50.160 --> 29:54.960
+Linkando com o software livre, eu tava pensando que isso realmente é uma coisa que se torna
+
+29:54.960 --> 29:58.960
+bastante real no software livre, cara, no software como uma obra de arte.
+
+29:58.960 --> 30:04.480
+E as outras pessoas contribuem com esse software e a pessoa que começou esse software inicialmente,
+
+30:04.480 --> 30:10.760
+ela pode até deixar de contribuir ativamente no projeto, mas a criação continua viva,
+
+30:10.760 --> 30:16.200
+a criação, ela se torna, nesse caso em específico, ela se torna maior do que o próprio criador,
+
+30:16.200 --> 30:17.200
+né?
+
+30:17.200 --> 30:18.200
+A arte é longa, a vida é breve.
+
+30:18.200 --> 30:19.200
+Olha aí, Eva, que bonito.
+
+30:19.200 --> 30:20.200
+Lide um livro.
+
+30:20.200 --> 30:25.480
+A gente não falou das suas inspirações, falou?
+
+30:25.480 --> 30:31.960
+Falo não, mano, mas eu posso falar, basicamente minhas inspirações, até hoje faço referências
+
+30:31.960 --> 30:36.400
+e tal, a maioria das referências escondidas, a maioria das pessoas não acham.
+
+30:36.400 --> 30:37.400
+Easter eggs?
+
+30:37.400 --> 30:38.400
+É, quase isso.
+
+30:38.400 --> 30:42.560
+Algunas são tão escondidas que só eu conheço, por exemplo, história de Disney, que eu
+
+30:42.560 --> 30:45.880
+li há muitos anos e até hoje eu lembro, então...
+
+30:45.880 --> 30:47.480
+São mensagens subliminares, né?
+
+30:47.480 --> 30:52.760
+É, basicamente minhas referências são minhas inspirações, são o Douglas Adams, o Guilmo
+
+30:52.760 --> 30:57.520
+Chileiro, aqueles quadrinhos bem antigos de Disney, que até hoje eu sou fascinado por
+
+30:57.520 --> 30:59.960
+eles, até hoje eu leio, na verdade.
+
+30:59.960 --> 31:00.960
+Tio Patinhos, né?
+
+31:00.960 --> 31:05.720
+É, tio Patinhos principalmente, o próprio Terry Pratchett, né, do Discworld.
+
+31:05.840 --> 31:09.240
+Pode citar algum desses referências escondidas aí pra...
+
+31:09.240 --> 31:12.280
+Eu não lembro, cara, são tão escondidas que eu esqueço.
+
+31:12.280 --> 31:16.880
+Aí, galera, que curte o Nelson, procurando referências escondidas, não tem nenhuma
+
+31:16.880 --> 31:21.160
+daquelas mensagens subliminares que aparecem direto na internet, aí o pastor eles falam
+
+31:21.160 --> 31:22.160
+não, né?
+
+31:22.160 --> 31:24.160
+Não, não, tem isso aí.
+
+31:24.160 --> 31:28.240
+Inclusive, se você pegar o código fonte do site e inverter, também não vai aparecer
+
+31:28.240 --> 31:29.240
+nada.
+
+31:29.240 --> 31:32.040
+Mas daí o de compilazão só é pronto, né?
+
+31:32.040 --> 31:33.040
+É, super...
+
+31:33.800 --> 31:36.800
+Mas aqui já tentou e ficou frustrado aí, foi mal.
+
+31:37.800 --> 31:42.200
+Inclusive, se a gente escutar essa entrevista ao contrário, você vai entender nada, né,
+
+31:42.200 --> 31:43.200
+na verdade.
+
+31:43.200 --> 31:47.880
+Então, acho que tu poderia falar pra gente dos novos projetos aí, do que a gente pode
+
+31:47.880 --> 31:51.560
+esperar do Carlson Bezier, primeiro de cinco maiores chamar de Carlson Bezier, como é
+
+31:51.560 --> 31:52.560
+que a gente chama?
+
+31:52.560 --> 31:54.800
+Não sei, vocês quiserem a gente chamar de...
+
+31:54.800 --> 31:55.800
+É de cacau.
+
+31:55.800 --> 31:59.600
+Cara, se a gente chamar de Nelson, tá longe mais já.
+
+31:59.680 --> 32:03.840
+Beleza, a gente vai trocar tudo o que a gente chamou de Carlson Bezier, né, edição.
+
+32:03.840 --> 32:08.240
+Pronto, isso aí também é uma questão do meu perfeccionismo, eu não gosto mais
+
+32:08.240 --> 32:09.600
+desse nome, né, Nelson?
+
+32:09.600 --> 32:12.840
+Quando eu criei ele, eu não tinha esses planos que eu tenho agora, então, como você
+
+32:12.840 --> 32:18.880
+mesmo falou, o negócio cresceu mais do que eu imaginava, acaba que esse nome já não
+
+32:18.880 --> 32:21.760
+tá mais refletindo a ideia que eu tenho da coisa.
+
+32:21.760 --> 32:28.160
+Já que você falou dos projetos, eu já continuo dizendo que o projeto é exatamente isso.
+
+32:28.160 --> 32:33.240
+Eu vou criar um universo único para todos os personagens, até então, todos os personagens
+
+32:33.240 --> 32:37.920
+tinham o seu próprio universo, eu vou colocar todos esses personagens em um só universo.
+
+32:37.920 --> 32:42.400
+Estou reescrevendo muita coisa, eu vou ter que alterar muitos quadrinhos, também vou
+
+32:42.400 --> 32:48.920
+fazer a versão em inglês do site, eu registrei o rectum.com.br para colocar em português
+
+32:48.920 --> 32:53.440
+lá e o .com vai ser só em inglês, pelo menos esse é o projeto principal.
+
+32:53.440 --> 32:58.400
+Aqui o layout da estrutura do site vai refletir exatamente essa ideia de um universo único
+
+32:58.400 --> 33:04.520
+para todos os personagens, e além disso, por baixo do site, o sistema, é um geradorzinho
+
+33:04.520 --> 33:08.840
+de páginas estáticas que eu tô desenvolvendo e que tá lá no GitHub também.
+
+33:08.840 --> 33:13.920
+Eu não sei se vocês já ouviram falar desses tipos, esses sistemas que é bastante usado
+
+33:13.920 --> 33:20.200
+no GitHub, que é o Octopress, é um sisteminho que você escreve o seu conteúdo, um arquivo
+
+33:20.200 --> 33:25.200
+de texto, opcionalmente você pode colocar em uma formatação como Markdown, MediaWik,
+
+33:25.200 --> 33:26.200
+etc.
+
+33:26.200 --> 33:29.120
+É que nem o esquema do ritmo e ponto md, né?
+
+33:29.120 --> 33:30.120
+Exatamente isso.
+
+33:30.120 --> 33:31.840
+Ah, é md de Markdown, é só.
+
+33:31.840 --> 33:32.840
+É.
+
+33:32.840 --> 33:33.840
+Tivesse hiponia agora.
+
+33:33.840 --> 33:34.840
+Exatamente.
+
+33:34.840 --> 33:41.120
+Então, o sistema pega esse arquivo do conteúdo e gera um HTML baseado nessa formatação.
+
+33:41.120 --> 33:45.720
+Quando o cara entra no site, ele não vai fazer um trabalho imenso que, por exemplo, um
+
+33:45.720 --> 33:51.400
+zende da vida faz que é ler todas as variáveis de configuração, acessar o banco de dados,
+
+33:51.400 --> 33:57.920
+trazer o template, popular o template com os dados do banco, filtrar do tudo, segurança
+
+33:57.920 --> 33:58.920
+e tal, tal, tal.
+
+33:58.920 --> 34:03.760
+Não, isso aí não acontece no sistema de geração de páginas estáticas, porque
+
+34:03.760 --> 34:07.240
+eles já geram o HTML prontinho lá para o cara acessar e pronto.
+
+34:07.240 --> 34:11.760
+Então é extremamente rápido e é extremamente seguro também, porque não tem banco de dados
+
+34:11.760 --> 34:12.760
+e não tem nada.
+
+34:12.760 --> 34:13.760
+Só apenas arquivos.
+
+34:13.760 --> 34:18.960
+E se o cara quiser usar comentários, o cara pode colocar um desses serviços de comentários
+
+34:18.960 --> 34:22.920
+terceiros, como os discos ou o intenso debate.
+
+34:22.920 --> 34:24.400
+Até o próprio Facebook, né?
+
+34:24.400 --> 34:25.400
+É, também.
+
+34:25.400 --> 34:31.240
+Até então, está usando Wordpress, obviamente ali é a melhor indicação, só que para
+
+34:31.240 --> 34:38.280
+mim que sou apenas um editando um site inteiro, de acordo com essa ideia de um universo único
+
+34:38.280 --> 34:43.160
+para todos os personagens, Wordpress virou uma amareta para matar a formiga.
+
+34:43.160 --> 34:47.080
+Então dispensei ele e também tem a caixão das atualizações de segurança, que é um
+
+34:47.080 --> 34:49.880
+saco fazer e plug-ins e tudo mais.
+
+34:49.880 --> 34:54.800
+Então comecei a fazer esse sistema na versão atual lá que está no GitHub, ele já servem
+
+34:54.800 --> 34:58.960
+para mim as necessidades, mas eu ainda tenho algumas coisinhas para fazer antes de poder
+
+34:58.960 --> 35:01.920
+colocar no site de uma vez por todas.
+
+35:01.920 --> 35:07.160
+Por exemplo, ele atualmente ainda não está gerando o feed RSS, então inclusive até
+
+35:07.160 --> 35:08.960
+hoje eu comecei a fazer isso aqui.
+
+35:08.960 --> 35:14.400
+Ele também não está gerando a listagem de páginas, últimas páginas cadastradas,
+
+35:14.400 --> 35:17.600
+trechos nos templitos para evitar repetição de código.
+
+35:17.600 --> 35:22.160
+Eu acho que acabando essas três fitros aí eu já posso colocar o meu site no A, só
+
+35:22.160 --> 35:26.880
+que ainda vai ter todo um trabalhão ainda de traduzir quadrinhos e redesenhar algumas
+
+35:26.880 --> 35:31.680
+coisas, então vai demorar bastante ainda para poder colocar o site no A novamente.
+
+35:31.680 --> 35:35.640
+Vai ser tipo Tolkien que ele deu uma revisada no Hobbit quando ele lançou os seus desenés?
+
+35:35.640 --> 35:40.680
+É, é exatamente isso, só que eu não vou ter a história dos quadrinhos, eu só vou
+
+35:40.680 --> 35:44.840
+redesenhar algumas coisas para se adequar ao roteiro único que eu estou desenvolvendo.
+
+35:44.840 --> 35:47.800
+Então a gente pode esperar uma tirinha assim marilho?
+
+35:47.800 --> 35:49.400
+É, é basicamente isso aí.
+
+35:49.400 --> 35:55.040
+O que eu vou explicar é o mundo em que os personagens vivem, a relação entre cada
+
+35:55.040 --> 36:00.440
+um deles e por aí vai, e criar novas séries e novas personagens também para se adequar
+
+36:00.440 --> 36:01.440
+nesse novo mundo.
+
+36:01.440 --> 36:04.840
+Aí vai ter uns quadrinhos inacabados que vai ser publicado lá também?
+
+36:04.840 --> 36:10.640
+Eu estou pretendendo que não seja, por exemplo, o seu formato do alemão é tirinhas, eu
+
+36:10.640 --> 36:12.200
+quero forger desse formato.
+
+36:12.200 --> 36:17.280
+Eu já aceitei que eu não consigo ter ideias tão rápidas assim, o meu lance é fazer
+
+36:17.280 --> 36:21.920
+mais histórias, contar histórias, nem que sejam de quatro, cinco quadrinhos, mas contar
+
+36:21.920 --> 36:26.720
+histórias e não tirinhas assim, piadinhas rápidas, porque raramente eu tenho a ideia
+
+36:26.720 --> 36:31.680
+para tirinhas, então fica aquela coisa chata de você ter um site de tirinhas e não conseguir
+
+36:31.680 --> 36:33.600
+atualizar ele com frequência.
+
+36:33.600 --> 36:37.400
+Então, aceitei essa realidade e vou fazer agora histórias longas mesmo.
+
+36:37.400 --> 36:42.800
+Não seja tão frequentes, mas que tenha um conteúdo, exige alguma pesquisa prévia minha
+
+36:42.800 --> 36:49.000
+para poder fazer uma história melhor assim, e que cada poste, cada página, seja um fragmento
+
+36:49.000 --> 36:51.720
+da história desse mundo que eu vou criar, que eu estou criando.
+
+36:51.720 --> 36:56.320
+Pô, mas você já fazia isso com aquelas tirinhas rápidas suas?
+
+36:56.320 --> 37:01.640
+É, que tinha que ler as outras, mas eram bem poucas na verdade, e eram só os quadrinhos
+
+37:01.640 --> 37:06.520
+com os personagens principais, a Leonerson, a Beta, a Vitz, a história contínua mesmo
+
+37:06.520 --> 37:07.520
+era só com eles.
+
+37:07.520 --> 37:12.080
+Outras séries que eu fazia já não tinham essa continuidade, eram independentes.
+
+37:12.080 --> 37:17.000
+Aí o que eu vou fazer agora é exatamente o contrário, todas as quadrinhas vão contar
+
+37:17.000 --> 37:19.000
+um pouco da história desse mundo.
+
+37:19.000 --> 37:24.560
+Guido Pernumadão, nas galáxias, você demora quanto tempo para produzir aquele tipo de
+
+37:24.560 --> 37:25.560
+quadrinho?
+
+37:25.560 --> 37:31.720
+Eu comecei a fazer a ideia lá, que eu estava bem empolgado, eu fiz três em três dias.
+
+37:31.720 --> 37:37.480
+Chegava o trabalho e virava madrugada fazendo e só ia dormir quando acabava, dava aí umas
+
+37:37.480 --> 37:43.640
+quatro, cinco horas por página, só que aí teve uma desmotivada lá nos últimos, nas
+
+37:43.640 --> 37:48.160
+últimas páginas dele, então eu estava demorando bem mais para atualizar.
+
+37:48.160 --> 37:52.920
+Hoje em dia, como para atualizar o blog, a série parou também, só que eu não pretendo
+
+37:52.920 --> 37:55.160
+voltar, eu tenho que voltar, né?
+
+37:55.160 --> 38:01.520
+Eu só não sei se eu vou voltar a atualizar antes ou depois nesses novos planos que eu
+
+38:01.520 --> 38:02.520
+tenho.
+
+38:02.520 --> 38:04.360
+Igual o Guzmoraes, você conhece o Guzmoraes?
+
+38:04.360 --> 38:08.960
+Sim, já vou falar dele, na verdade eu até vi algumas tirinhas dele.
+
+38:08.960 --> 38:11.960
+Você vai fazer tipo as tirinhas, tipo a dele, né?
+
+38:11.960 --> 38:18.200
+Ele, eu acho que ele publica a cada um mês, se eu não me engano, e são assim, historinhas,
+
+38:18.200 --> 38:19.800
+só que não tão grandes, né?
+
+38:19.800 --> 38:22.480
+Eu acho que no máximo, uns 20, tantos quadros.
+
+38:22.960 --> 38:25.240
+Eu gosto das ideias dele, né?
+
+38:25.240 --> 38:28.920
+Teve uma sobre nostalgia negue, fantástica, né?
+
+38:28.920 --> 38:32.280
+E ele publica sobre tecnologia, espirito livre.
+
+38:32.280 --> 38:33.280
+Não.
+
+38:34.640 --> 38:35.800
+Ali nos magazines?
+
+38:35.800 --> 38:39.240
+Não, é uma revista, eu acho que é na Info.
+
+38:39.240 --> 38:40.760
+Ah, Info, isso mesmo.
+
+38:40.760 --> 38:46.880
+Eu acho que é parecido nesse novo formato que você está pensando, de histórias não
+
+38:46.880 --> 38:48.480
+muito grandes, mas...
+
+38:48.480 --> 38:50.280
+As que contam alguma coisa, né?
+
+38:50.280 --> 38:51.280
+É isso.
+
+38:51.280 --> 38:55.200
+Não, só que eu acho que ele não tem um universo.
+
+38:55.200 --> 38:57.000
+É, não tem continuidade, né?
+
+38:57.000 --> 38:59.960
+Você já ouviu falar do Terry Pratchett, do Disc Road?
+
+38:59.960 --> 39:00.960
+Sim.
+
+39:00.960 --> 39:01.960
+Pronto.
+
+39:01.960 --> 39:05.760
+O cara criou o mundo dele, e todos os livros dele são baseados nesse mundo, né?
+
+39:05.760 --> 39:10.520
+Que é a Tartaroga, que carrega quatro alafantes, que em cima desses alafantes tem um mundo
+
+39:10.520 --> 39:11.840
+parecido com a Pete.
+
+39:11.840 --> 39:16.640
+A minha ideia é exatamente essa, criar um mundo onde eu possa criar todas as histórias.
+
+39:16.640 --> 39:17.960
+Tipo o Dragon Ball?
+
+39:17.960 --> 39:18.960
+É, também.
+
+39:18.960 --> 39:19.960
+O Tolkien.
+
+39:20.040 --> 39:25.680
+É, você está pensando assim, de acrescentar mais alguns personagens?
+
+39:25.680 --> 39:27.720
+Já criei vários personagens novos.
+
+39:27.720 --> 39:31.760
+Por enquanto, eu só criei o nome e a ideia geral, então eu preciso me aprofundar mais
+
+39:31.760 --> 39:36.240
+ainda sobre o que é que cada um vai ser, o que é que eles vão fazer, personalidade,
+
+39:36.240 --> 39:37.240
+essas coisas.
+
+39:37.240 --> 39:42.560
+Alguns personagens igual o Barrabim e o Barrabecho, o Marquia e a Azrid?
+
+39:42.560 --> 39:43.560
+Esses vão continuar.
+
+39:43.560 --> 39:47.560
+Sim, o Barrabim e o Barrabecho, inclusive, é o que o pessoal mais gosta.
+
+39:47.560 --> 39:48.560
+É, isso é verdade.
+
+39:48.560 --> 39:52.920
+Eu só adiantando aqui, o Barrabim e o Barrabecho vai ser o meu tom bombadil, vai ser aquele
+
+39:52.920 --> 39:56.560
+personagem enigmático que ninguém sabe de onde veio para onde vai.
+
+39:56.560 --> 39:57.560
+Ah, séio.
+
+39:57.560 --> 39:58.560
+Bastante interessante.
+
+39:58.560 --> 39:59.560
+Que bom, né?
+
+39:59.560 --> 40:00.560
+Que bom.
+
+40:00.560 --> 40:08.640
+Mas aquelas tirinhas do Barrabim e o Barrabecho é as melhores mesmo, se você parar de publicar
+
+40:08.640 --> 40:14.080
+as suas tirinhas, todas elas e publicar só o Barrabim e o Barrabecho, já ganha, já
+
+40:14.080 --> 40:15.080
+o...
+
+40:15.080 --> 40:16.080
+Como é essa?
+
+40:16.080 --> 40:20.640
+Por mim eu não faria isso, porque eu gosto de fazer também as outras séries.
+
+40:20.640 --> 40:27.160
+Uma das coisas também que eu mudei meu pensamento nesse projeto é não dar tanta atenção à
+
+40:27.160 --> 40:30.280
+opinião dos outros, ensinem ao que eu gosto de fazer.
+
+40:30.280 --> 40:34.200
+Por isso que eu falei para o alemão para ele que faça o que você gosta de fazer, ao
+
+40:34.200 --> 40:36.800
+invés de pedir opinião dos outros.
+
+40:36.800 --> 40:40.800
+Então você tem que se divertir fazendo o que você quer fazer e o que você gosta de fazer.
+
+40:40.800 --> 40:46.600
+Então nesse projeto novo eu vou me desligar totalmente dessa coisa e fazer o que eu gosto
+
+40:46.600 --> 40:51.440
+porque eu vou querer criar histórias que eu gostaria que acontecessem comigo, por exemplo.
+
+40:51.440 --> 40:56.960
+E eu vou descrever lugares que eu gostaria de visitar, lugares que eu gostaria de existir.
+
+40:56.960 --> 41:03.920
+Ah, então as historinhas realmente já baseiam um pouco a sua vida, ou o que você quer fazer.
+
+41:03.920 --> 41:07.440
+Igual o personagem principal tem uma namorada, né?
+
+41:07.440 --> 41:10.280
+Uma das coisas que você queria fazer, certo?
+
+41:10.280 --> 41:18.200
+Não, o personagem principal não tem uma namorada, não.
+
+41:18.200 --> 41:23.160
+Tem aquela amiguinha dele?
+
+41:23.160 --> 41:24.160
+Brincadeira.
+
+41:24.160 --> 41:30.440
+Mas não, cara, essas histórias que tem atualmente não são coisas que eu gostaria de acontecer
+
+41:30.560 --> 41:31.560
+comigo.
+
+41:31.560 --> 41:34.760
+Eu estou mudando isso agora, estou tendo essa ideia agora, agora que eu vou implementar
+
+41:34.760 --> 41:35.760
+isso.
+
+41:35.760 --> 41:40.640
+Inclusive eu até pensei não habilitar comentários no site para não criar aquela vontade de
+
+41:40.640 --> 41:41.640
+ter feedback.
+
+41:41.640 --> 41:43.640
+Se vocês tem blog, vocês sabem o que é isso.
+
+41:43.640 --> 41:45.640
+Igual o xkcd, né?
+
+41:45.640 --> 41:48.960
+Sem comentários, simples daquele jeito e faz o meu sucesso, né?
+
+41:48.960 --> 41:51.080
+O que importa eu acho que é a ideia, né?
+
+41:51.080 --> 41:52.080
+Exatamente, é o...
+
+41:52.080 --> 41:57.400
+Porque comentários atraem trovos, né cara, então eu não tô a fim de ficar deletando
+
+41:57.400 --> 42:01.640
+comentários e apagando espans e esse tipo de coisa.
+
+42:01.640 --> 42:06.400
+Então vai ficar uma coisa bem de uma certa forma fechada, assim, mas eu pretendo fazer
+
+42:06.400 --> 42:08.320
+coisas que não substituísse.
+
+42:08.320 --> 42:12.800
+Final, o email sempre vai estar lá disponível para qualquer pessoa, quiser conversar comigo,
+
+42:12.800 --> 42:15.680
+mas eu vou implementar uma outra forma de interação.
+
+42:15.680 --> 42:17.600
+E além disso, Twitter está aí para isso, né?
+
+42:17.600 --> 42:19.360
+O Twitter eu vou continuar lá, então...
+
+42:19.360 --> 42:22.000
+A página no Facebook você não tem, né?
+
+42:22.000 --> 42:23.560
+Não, não tem o Facebook.
+
+42:23.560 --> 42:24.560
+NeuroCourt.
+
+42:25.560 --> 42:28.800
+Eu tinha o Facebook, NeuroCourt, eu apaguei os dois.
+
+42:28.800 --> 42:32.000
+Eu só não apago o Twitter porque o Twitter pelo menos é útil.
+
+42:32.000 --> 42:34.960
+Tô vendo que você não gosta de interação social, né?
+
+42:34.960 --> 42:35.960
+Paul, né?
+
+42:35.960 --> 42:38.480
+Mas o Twitter é a interação social, cara.
+
+42:38.480 --> 42:43.840
+Bom, mas você é por isso que ele chama de rede social, né?
+
+42:43.840 --> 42:50.400
+O Barrabim Barrabeste, ele refletiria mais a sua personalidade hoje do que o Netson
+
+42:50.400 --> 42:52.200
+foi algum dia no passado?
+
+42:52.200 --> 42:57.280
+Não, na verdade não, porque o Barrabim Barrabeste estava tentando ter uma ideia para
+
+42:57.280 --> 42:58.280
+um quadrinho, né?
+
+42:58.280 --> 43:01.920
+O que falasse sobre o Shell Script, então eu pensei na frase.
+
+43:01.920 --> 43:05.520
+Shell Script é mágica, daí veio a ideia do Barrabim Barrabeste.
+
+43:05.520 --> 43:09.120
+O pessoal gostou bastante, só que não tem nada a ver com a personalidade, né?
+
+43:09.120 --> 43:10.560
+Só foi a ideia do momento.
+
+43:10.560 --> 43:13.160
+Como o pessoal gostou, então eu continuei com o personagem.
+
+43:13.160 --> 43:17.840
+Teve também a questão da facilidade de desenhar ele, que é compor-se apenas de retos, né?
+
+43:17.840 --> 43:19.000
+Então, tranquilo, desenhar.
+
+43:19.120 --> 43:23.240
+Só é difícil ter ideias pra ele, porque Shell Script tem uma das linguagens que eu não
+
+43:23.240 --> 43:28.240
+conheço muito, então às vezes fica difícil pensar em alguma coisa, alguma ideia pra poste
+
+43:28.240 --> 43:29.240
+novo.
+
+43:29.240 --> 43:32.000
+Faz um Barrabim Barrabeste, mano.
+
+43:32.000 --> 43:35.120
+Esse endereço aí tá incorreto, né?
+
+43:35.120 --> 43:37.120
+Faz uma cobrinha de pronto.
+
+43:37.120 --> 43:39.880
+Aí faz um Envy Python.
+
+43:39.880 --> 43:47.320
+Pois que a gente conversou uma hora com você, dá pra ver que é um pouco associável.
+
+43:47.320 --> 43:50.080
+Mas esse é de praxe, de programador, né?
+
+43:50.080 --> 43:54.000
+O realço mesmo, pra me conversar com ele, eu tenho que...
+
+43:54.000 --> 43:56.200
+Eu sigo fielmente o estereótipo.
+
+43:56.200 --> 43:58.360
+Pronto, isso é um detalhe interessante.
+
+43:58.360 --> 44:01.160
+Eu não tenho o Facebook, mas eu tenho o GitHub.
+
+44:01.160 --> 44:03.760
+Se você quiser me conhecer, tá lá no GitHub.
+
+44:03.760 --> 44:08.640
+Se quiser conhecer mais a fundo, o Carlson, via a fonte das suas ideias.
+
+44:08.640 --> 44:10.840
+Você vai lá no código fonte.
+
+44:10.840 --> 44:15.040
+É, eu não coloquei o meu DNA lá, como o cara fez, mas...
+
+44:15.040 --> 44:16.040
+E você viu isso?
+
+44:16.040 --> 44:17.040
+Não.
+
+44:17.040 --> 44:20.200
+É um código genético que publicou no GitHub, não?
+
+44:20.200 --> 44:21.200
+Você vai saber, não?
+
+44:21.200 --> 44:22.200
+Tá escrito em colo em gosto.
+
+44:22.200 --> 44:23.200
+Tá escrito em Godescript.
+
+44:23.200 --> 44:24.200
+Perdi.
+
+44:24.200 --> 44:33.200
+É um código de venda, mesmo.
+
+44:33.200 --> 44:34.200
+Copilador Celestial.
+
+44:34.200 --> 44:36.200
+Podia estar fazendo seu CMS aí, né?
+
+44:36.200 --> 44:38.200
+Ele tá dando entrevista aqui pra gente.
+
+44:38.200 --> 44:39.200
+Calma, calma lá.
+
+44:39.200 --> 44:40.200
+Não é a CMS.
+
+44:40.200 --> 44:41.200
+Ah, é?
+
+44:41.200 --> 44:42.720
+Porque ele é um gerador de...
+
+44:42.720 --> 44:43.720
+E páginas estáticas.
+
+44:43.720 --> 44:46.040
+É um gerador dinâmico de conteúdo estático.
+
+44:46.040 --> 44:47.040
+Não é dinâmico.
+
+44:47.040 --> 44:48.040
+Não.
+
+44:48.040 --> 44:49.040
+É tudo estático.
+
+44:49.040 --> 44:50.040
+Não, mas não.
+
+44:50.040 --> 44:51.040
+O gerador é dinâmico?
+
+44:51.040 --> 44:52.040
+Foi assim.
+
+44:52.040 --> 44:53.040
+Tudo é dinâmico.
+
+44:53.040 --> 44:54.040
+Ele explicou.
+
+44:54.040 --> 44:55.040
+Coisas dinâmicas que fazem coisas estáticas.
+
+44:55.040 --> 45:00.040
+É, desse ponto de vista você está certo.
+
+45:00.040 --> 45:01.540
+Feito em Python, aliás.
+
+45:01.540 --> 45:06.040
+Fala aí da tecnologia, além de ser feito em Python, front-end e mais alguma coisa?
+
+45:06.040 --> 45:07.040
+Não, é tudo terminal.
+
+45:07.040 --> 45:08.040
+É só um comando.
+
+45:08.040 --> 45:13.760
+O objetivo é fazê-lo mais simples possível, é um comando pra gerar um template de conteúdo
+
+45:13.760 --> 45:15.760
+e outro comando pra gerar HTML.
+
+45:15.760 --> 45:16.760
+Pronto.
+
+45:16.760 --> 45:17.760
+Só isso.
+
+45:17.760 --> 45:19.760
+A primeira versão das minhas tirinhas eu fiz no HTML.
+
+45:19.760 --> 45:23.260
+Tem um editor HTML do Linux que o inscrição nome agora.
+
+45:23.260 --> 45:24.260
+Começo com um carro.
+
+45:24.260 --> 45:25.260
+Kate?
+
+45:25.260 --> 45:26.260
+Não, Kate não.
+
+45:26.260 --> 45:27.260
+Ele é mais bonitinho.
+
+45:27.260 --> 45:28.260
+Comodo?
+
+45:28.260 --> 45:29.260
+Não, também não.
+
+45:29.260 --> 45:30.260
+Então, é...
+
+45:30.260 --> 45:31.260
+Acho que é com o quê, né?
+
+45:31.260 --> 45:32.260
+O quanto é?
+
+45:32.260 --> 45:33.260
+É, acho que é esse mesmo.
+
+45:33.260 --> 45:34.260
+É com o quê, pô, né?
+
+45:34.260 --> 45:35.260
+É.
+
+45:35.260 --> 45:43.260
+Então, eu fazia a tirinha e, tipo, eu pegava a página e tinha aquelas...
+
+45:43.260 --> 45:49.760
+Aquelas setinhas, né, feitas com o teclado, com os caracteres do teclado, de maior e menor.
+
+45:49.760 --> 45:51.760
+E eu fazia tudo no HTML.
+
+45:51.760 --> 45:59.760
+Pegava a página, duplicava, trocava só os links e postava lá e trocava a imagem também.
+
+45:59.760 --> 46:01.760
+Só o HTML puro.
+
+46:01.760 --> 46:03.760
+O alemão, ele fazia...
+
+46:03.760 --> 46:09.760
+Em vez de ele fazer um index, ele criava um redirecionamento de DNS.
+
+46:10.260 --> 46:16.260
+Quando o cara acessasse o root do site, ele ia para a última tirinha.
+
+46:16.260 --> 46:18.260
+O alemão é root, né?
+
+46:18.260 --> 46:19.260
+É, isso é...
+
+46:21.260 --> 46:27.260
+Aí, tipo, quando eu mudava de tirinha, aí eu ia lá no DNS e mudava para a última tirinha, entendeu?
+
+46:27.260 --> 46:29.260
+Aí eu come que...
+
+46:29.260 --> 46:32.260
+Aí eu come que preza hoje em dia, não preciso mais fazer isso, né?
+
+46:32.260 --> 46:39.260
+O sistema que eu tô criando, ele gera páginas HTML pôrso, então ele cria como se fosse aquelas páginas...
+
+46:39.260 --> 46:42.260
+Páginas da Web 1.0 Alpha, sabe?
+
+46:42.260 --> 46:45.260
+Só HTML, links puros e tudo só isso.
+
+46:45.260 --> 46:53.260
+É um sistema para o cara que quer mexer apenas com HTML e nada mais e quer basear toda a estrutura do seu site em pastas, né?
+
+46:53.260 --> 46:54.260
+Para simular páginas.
+
+46:54.260 --> 47:00.260
+Você coloca um index HTML dentro de uma pasta e essa pasta vai ter o nome da URL que você quer lá.
+
+47:00.260 --> 47:03.760
+Então, simples assim, baseado em eraquias literatórias.
+
+47:03.760 --> 47:05.260
+É tipo aquele KML, né?
+
+47:05.260 --> 47:13.760
+É, e além disso, como eu estou dispensando o uso de Wordpress e do interface bonitinha, que eu coloco lá publicar e eles já inserem no banco de dados,
+
+47:13.760 --> 47:22.260
+para substituir esse processo aí que é bem fácil, eu crio um repositório Git lá no servidor e na minha máquina eu faço a cópia desse repositório,
+
+47:22.260 --> 47:25.260
+e então eu coloco todo o site para ser adicionado.
+
+47:25.260 --> 47:30.260
+Então, qualquer alteração que eu faço no site, eu dou um Gitpush e ele já vai lá para o site.
+
+47:30.260 --> 47:33.260
+Então, essa é a forma de publicação que eu tô planejando.
+
+47:33.260 --> 47:40.260
+Você tá tendo problemas nessa questão de feed, né? De acompanhamento do conteúdo, certo?
+
+47:40.260 --> 47:42.260
+O sistema ainda não implementa feeds.
+
+47:42.260 --> 47:43.260
+Ah, sim.
+
+47:43.260 --> 47:47.260
+Só que eu tô imaginando que vai ser um pouco difícil isso aí, pela forma como o sistema trabalha.
+
+47:47.260 --> 47:52.260
+Eu também tive esse problema no HTML. Eu só mudei, eu ia continuar, sabe?
+
+47:52.260 --> 47:56.260
+O modelo HTML, porque eu queria simplesmente mostrar as tirinhas também.
+
+47:56.260 --> 48:00.260
+Eu só mudei, mas na verdade, por causa dessa questão do feed.
+
+48:00.260 --> 48:02.260
+Fica muito melhor para as pessoas acompanharem.
+
+48:02.260 --> 48:07.260
+Tendo uma ideia de projeto, ele consegue gerar o feed do projeto, né?
+
+48:07.260 --> 48:09.260
+Isso faz uma atualização no projeto.
+
+48:09.260 --> 48:12.260
+Eu já tive a ideia, só falta implementar.
+
+48:12.260 --> 48:13.260
+Ah, tá. Desculpe.
+
+48:15.260 --> 48:16.260
+Esses caras são foda, né?
+
+48:16.260 --> 48:20.260
+Estudei Python, mas foi só com relação à inteligência coletiva.
+
+48:20.260 --> 48:21.260
+Só tô compartilhando.
+
+48:21.260 --> 48:24.260
+Pode dar a sua opinião, cara. Fala-me mais sobre você.
+
+48:24.260 --> 48:26.260
+A entrevista ao contrário, né?
+
+48:26.260 --> 48:29.260
+É só para a inteligência coletiva, né?
+
+48:29.260 --> 48:30.260
+É interessante isso aí.
+
+48:30.260 --> 48:32.260
+Vou mexer com o Python mais disso.
+
+48:32.260 --> 48:34.260
+Mas assim, a linguagem eu achei muito interessante, cara.
+
+48:34.260 --> 48:38.260
+Tem coisas lá que se fosse fazer em PHP, Java e alguma outra coisa,
+
+48:38.260 --> 48:41.260
+eu ia gastar 100 linhas e eu faço em duas em Python.
+
+48:41.260 --> 48:43.260
+Interessante a linguagem. Desculpa aí o clima.
+
+48:46.260 --> 48:48.260
+A gente tá aqui pensando na amostra do Bezier.
+
+48:48.260 --> 48:49.260
+O Bezier.
+
+48:59.260 --> 49:00.260
+Ele curtiu.
+
+49:01.260 --> 49:03.260
+A gente tava com medo de fazer essa piada, né?
+
+49:03.260 --> 49:05.260
+A gente ficou com isso aí.
+
+49:08.260 --> 49:10.260
+Bom, vai despedir, né?
+
+49:10.260 --> 49:12.260
+Senão a gente fica aqui o dia todo conversando.
+
+49:12.260 --> 49:17.260
+É, tranquilo. Eu também tenho que cuidar dos problemas.
+
+49:17.260 --> 49:19.260
+Fizia compartilhar seus problemas com ele?
+
+49:19.260 --> 49:20.260
+Pode.
+
+49:20.260 --> 49:22.260
+O Skype tá aberto aí, só.
+
+49:22.260 --> 49:26.260
+Os problemas, não. Mas os programas estão lá no GitHub.
+
+49:26.260 --> 49:27.260
+Bela frase.
+
+49:28.260 --> 49:30.260
+Não, tranquilo.
+
+49:30.260 --> 49:31.260
+Beleza.
+
+49:31.260 --> 49:34.260
+Não sou muito de entrar no Skype, mas baixa marcar o encontro.
+
+49:34.260 --> 49:35.260
+Ui.
+
+49:35.260 --> 49:39.260
+Pensando no caso de a pessoa não conheceu o Nelson.
+
+49:39.260 --> 49:41.260
+E agora o hackton.com.
+
+49:41.260 --> 49:45.260
+E futuramente hackton.com.br.
+
+49:45.260 --> 49:47.260
+E passa aí o GitHub.
+
+49:47.260 --> 49:49.260
+GitHub é o barra Carlisson.
+
+49:49.260 --> 49:51.260
+K e 2s.
+
+49:51.260 --> 49:52.260
+É, Twitter.
+
+49:52.260 --> 49:54.260
+Twitter é barra hackton também.
+
+49:54.260 --> 49:57.260
+E eu também tenho o Twitter pessoal que é o Carlisson.
+
+49:57.260 --> 49:59.260
+E você ainda acha que eu não sou social.
+
+49:59.260 --> 50:01.260
+Eu tenho dois Twitter.
+
+50:02.260 --> 50:05.260
+E cara, você chegou a ver a tirinha do Nuts com o alemão, faz?
+
+50:05.260 --> 50:06.260
+Sim, sim. Eu vi.
+
+50:06.260 --> 50:07.260
+Mas tá inspirado aí no Nets.
+
+50:07.260 --> 50:08.260
+Não que...
+
+50:08.260 --> 50:10.260
+Parece alguma coisa, né?
+
+50:10.260 --> 50:12.260
+Não, não que é uma cópia, mano.
+
+50:12.260 --> 50:15.260
+Pois é, o que você achou das misturinhas?
+
+50:15.260 --> 50:16.260
+Só legal e pronto?
+
+50:16.260 --> 50:17.260
+É, legal e pronto.
+
+50:17.260 --> 50:20.260
+Cara, é brigadão aí, cara, pela entrevista.
+
+50:20.260 --> 50:21.260
+Beleza.
+
+50:21.260 --> 50:26.260
+Sempre que possível, posso dar minha opinião pra vocês aí.
+
+50:26.260 --> 50:28.260
+Agora não quer mais não.
+
+50:28.260 --> 50:32.260
+Eu também quero agradecer a minha pessoa, o do atributo CI,
+
+50:32.260 --> 50:33.260
+por ter me convidado.
+
+50:33.260 --> 50:36.260
+É sempre um prazer participar as podcasts e poder interagir com a galera.
+
+50:36.260 --> 50:37.260
+Valeu.
+
+50:42.260 --> 50:49.260
+Chegamos aos créditos.
+
+50:49.260 --> 50:54.260
+De mais um episódio da Trivo do CI Podcast.
+
+50:54.260 --> 50:58.260
+E agora, finalizando a trilogia de quatro episódios.
+
+50:58.260 --> 51:02.260
+Na verdade, é trilogia porque são três artistas, três convidados.
+
+51:02.260 --> 51:04.260
+E foram quatro episódios, né?
+
+51:04.260 --> 51:07.260
+Porque o episódio do Moza gente ficou em dois.
+
+51:07.260 --> 51:11.260
+E como é de prazo que eu queria finalizar com alguns recadinhos e agradecimentos do episódio?
+
+51:11.260 --> 51:13.260
+Começando pelo rolê podossférico.
+
+51:13.260 --> 51:16.260
+Sim, esse episódio tem uns rolê podossférico.
+
+51:16.260 --> 51:23.260
+Eu participei do Databasecast, lá falando sobre banco de dados para desenvolvimento móvel.
+
+51:23.260 --> 51:24.260
+Dá uma conferida lá.
+
+51:24.260 --> 51:27.260
+Teve a Maria do canal Maria quer viajar.
+
+51:27.260 --> 51:31.260
+Participou do E-Doublingcast e do podcast Criança Viála.
+
+51:31.260 --> 51:35.260
+E a Maria, que é a digníssima esposa do nosso Shadowland.
+
+51:35.260 --> 51:39.260
+Tenta bem o professor Wendell, que tem o Radim Podcast.
+
+51:39.260 --> 51:40.260
+Um abraço, professor Wendell.
+
+51:40.260 --> 51:43.260
+Tem o Rafael Ct também, que está lá no Liga E-Dou.
+
+51:43.260 --> 51:50.260
+E por último, e não menos importante, tem o Piscicocast, o podcast do Piscicowap.
+
+51:50.260 --> 51:54.260
+Que tem a Cleivinha aí, que já participou de vários episódios com a gente.
+
+51:54.260 --> 51:55.260
+Que ela é CTO.
+
+51:55.260 --> 51:58.260
+Dá uma conferida lá, o Piscicocast.
+
+51:58.260 --> 52:01.260
+Todos os links vão estar lá no post desse episódio.
+
+52:01.260 --> 52:05.260
+Você pode procurar nas plataformas e nos seus agregadores de podcast.
+
+52:05.260 --> 52:08.260
+O Piscicowap, Liga E-Dou.
+
+52:08.260 --> 52:12.260
+Radim Podcast, E-Doublingcast, podcast Criança Viála.
+
+52:12.260 --> 52:13.260
+E o Databasecast.
+
+52:13.260 --> 52:17.260
+Um abraço para todo mundo que mencionou a gente lá no Twitter.
+
+52:17.260 --> 52:18.260
+No Facebook.
+
+52:18.260 --> 52:21.260
+Agora a gente também tem conta no Instagram.
+
+52:21.260 --> 52:23.260
+Você segue lá a gente.
+
+52:23.260 --> 52:25.260
+Todos os links vão estar aí no post.
+
+52:25.260 --> 52:26.260
+Um abraço, Ulias.
+
+52:26.260 --> 52:28.260
+E até o próximo episódio.
+
+52:38.260 --> 52:39.260
+Um abraço.
+

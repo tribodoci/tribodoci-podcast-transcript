@@ -1,0 +1,845 @@
+Lá em casa tinha uma pilha de quadrinhos da Disney, então eu ficava alendo antes de aprender a ler, folhando, na verdade.
+E aí, quando eu prendi a ler, cara...
+Tem que ser palavras exclusivas, vocês já ouviram o outro podcast já.
+RedeCAD, depoimentos exclusivos?
+Mas eu falei pela verdade.
+Agora você pode romanciar essa parte, então.
+Episódio 17, entrevista com o Carlisson Bizé.
+Olá a todos, eu sou o Carlisson do Hecton.com.
+Aqui é a Sebastião Reus, o meu quadrinho de U.S.T.
+Tinha só um leitor.
+Hoje eu estou sem inspiraça, eu acho que não vai ter introdução.
+Aqui é a Lemônia, eu estou esperando o Fidivéc do Fábio.
+Assim, a gente queria focar essa entrevista mais relacionada ao software livre.
+Pode começar falando como foi introduzido pelo software livre?
+Basicamente, quando eu entrei na faculdade e o laboratório lá o pessoal usava Linux, na época era conectiva.
+Então, a gente era praticamente passado a usar os Linux lá.
+Daí eu fui começando a experimentar em casa com outras distribuições como o Slackware e o Mandriva.
+Na época na verdade era o Mandrake.
+E aí, quando saiu o Ubuntu, foi que eu mergulhei de vez lá no Linux.
+Então, teve alguns eventos de software livre aqui em Natal, um encontro Portugal de software livre.
+E aí, o pessoal de fora falando sobre a coisa, eu ainda não tinha nenhuma noção do conceito, da comunidade e nada.
+Teve o Aurelio Rekard, o cara da Bahia que falou sobre o Inkscape, eu fiquei fascinado pelo programa.
+A possibilidade de fazer dezenas, fazer coisas que eu já fazia no Windows com CorelDraw e Flash.
+Poder fazer essas mesmas coisas de uma certa forma no Linux.
+Então, comecei a usar esses programas e pronto, foi que eu mergulhei de vez no software livre.
+E depois desse evento, eu comecei a participar dos outros, dando palestras e na organização também.
+E foi quando eu fui me envolvendo ainda mais, conhecendo essas pessoas, os caras ganhando software livre.
+Algum tempo, mais tarde, eu comecei a desenvolver software livre também.
+Comecei a ajudar no Inkscape com extensões e criando meus próprios softwares também, resumidamente isso.
+E isso foi mais ou menos em que ano, hein?
+2005, 2006, por aí.
+Essas extensões eram oficiais para ajudar o projeto diretamente, o projeto oficial você desenvolvia pra você mesmo?
+Não, para o projeto. Já tenho uma extensão minha lá no repositório oficial do Inkscape.
+É bem simples, mas os caras gostaram, os caras resolveram incluindo o projeto porque era um recurso que o Inkscape não tinha.
+Qual que é?
+Saiba o elemento de texto e quebra em outros elementos de texto, ela separa.
+Você pode escolher quebrar esse elemento por linhas ou por palavras ou por caracteres.
+Coisa bem simples, mas o Inkscape não tinha ainda, eu fiz com Python.
+É bastante interessante. E você ainda continua ativo no projeto?
+Não, nessa extensão eu já finalizei. Ela poderia ter algumas melhorias, mas eu deixei de lado um pouco e comecei outra extensão que é pra converter os desenhos do Inkscape que usam SVG pra canvas no HTML5.
+Nossa, isso aí é bastante interessante, hein? Deve estar dando trabalhão, hein?
+Dá lá, dá um trabalhão.
+E esse é legal porque peguei uma ajuda do pessoal da USP.
+Eu tenho um amigo meu lá na USP, Paulo Meirelles, que inclusive foi um dos caras que começaram os eventos aqui no Natal.
+E aí ele pegou um pessoal lá da USP de graduação, se não me engano, e formou uma força-tarefa pra colaborar com esse projeto da extensão, de conversão.
+E aí os caras fizeram várias alterações de acordo com a minha orientação.
+Eles já conseguiram implementar várias coisas que eu tinha em planos, só que eu ainda não tinha tempo pra programar.
+É louco! Meu prazer é abarroco!
+Qual foi a faculdade que você fez?
+Eu comecei na UFRN e desisti, aí foi pro surfete, na época era o surfete.
+Hoje aí ia a FRN.
+Eu desisti desse também.
+Qual curso que é?
+Era a ciência da computação.
+Ah, legal.
+Desisti desse e fui pra uma particular e me informei lá. Pronto, tô tranquilíssimo.
+É, mas voltando ao projeto, esse projeto ele ainda tá em fase de desenvolvimento, certo?
+Sim.
+Tem como baixar pra testar ou não?
+Sim, todos esses projetos mesmos estão no GitHub.
+Só pra gente não passar, eu também fiz ciência da computação e eu vou receber o difloma quase quatro anos depois, né?
+Eu demorei apenas dois anos pra apresentar meu TCC.
+Quando eu entrei nessa terceira faculdade na última tentativa, eu já tava dizendo a mim mesmo não, essa é a última chance, agora ou nunca?
+Porque eu comecei o curso em 2003 e vim me formar ano passado, em 2011.
+Então foram oito anos de tentativa aí, de muita paciência também.
+Quase uma década.
+Nessa última, eu fiz tudo dentro do prazo, tentei atrasar o mínimo possível pra ficar o menos tempo possível lá dentro, porque eu já tava de saco cheio.
+Então não demorei tanto apresentar o TCC, como você já fiz tudo na hora mesmo.
+Você sempre trabalhou com design e depois foi pra programação ou já mistiu?
+Como eu comecei bem antes de entrar na faculdade, eu já brincava com Coraldral, eu tinha começado já bem cedo nisso com desenho e fazendo quadrinhos na época.
+No podcast o pessoal do Castalho, eu vi você fez uns desenhos, né?
+A mão, você também já tem um amor pela arte desde pequeno, né?
+Essa coisa de criar histórias e tal.
+É, naturalmente eu enveredei pela carreira artística, só que como na época também, eu tanto gostava de fazer desenhos e quadrinhos,
+como eu também gostava de jogos e ficar brincando com o computador, decidi entrar em ciência da computação.
+Então o caminho mais natural seria de webdesign.
+Exatamente.
+Aí passei alguns, vários, alguns anos estudando e trabalhando com web, webdesign, e também fui enchendo o saco disso.
+Hoje eu evolui, eu digivolui para o web developer e eu estou tentando fazer uma evolução forçada para a ciência de mim.
+Para mudar um pouco de ação de novo, parece que você não está publicando as suas tirinhas ultimamente, o que está acontecendo?
+Eu parei por causa do TCC e depois que eu me formei, eu decidi dar uma parada para reformular toda a ideia do blog.
+Na verdade, não é mais blog, vai ser um site, deixou de ser um blog e faz muito tempo.
+Antes eu era Nerd, só agora é o Hectone.
+Quando eu coloquei esse site novo no ar, foi meio que um aborto, entendeu?
+Não foram todas as ideias que eu tinha planejado colocar no ar, então foi só a mudança de endereço e algumas coisas, mas ainda estou trabalhando nessa reforma.
+Eu também desenhava quadrinhos, acho que eu nunca revelei isso, né?
+Não, então com exclusividade para o meu próprio TCC, eu desenhava quadrinhos e era quadrinho de Western e eu tinha um leitor.
+Ah, você já me disse, já uma vez.
+O nome dele é Wagle.
+Meus leitores eram minha família.
+Conta como é que foi isso para a gente?
+É porque tem um background antes de começar a mexer com informática, né?
+Sim, sim.
+Lá em casa tinha uma pilha de quadrinhos da Disney, então eu ficava olhando antes de aprender a ler, folhando na verdade.
+E aí, quando eu aprendi a ler, cara...
+Tem que ser palavras exclusivas, vocês já ouviram no outro podcast, já.
+Redcat de apoiamentos exclusivos?
+Mas eu falei que ela é verdade.
+Agora você pode romanciar essa parte, então.
+Então apareceu uma deusa de cabelos compridos, segurando uma espada, e falou para mim, faça quadrinhos, você não precisa arrepender.
+Então, ela me falou para começar a fazer meus próprios quadrinhos.
+Ela falou que no começo eu deveria copiar as ideias dos quadrinhos que eu lia, e depois eu tive essas minhas próprias ideias.
+E foi exatamente o que aconteceu.
+E aí, quando eu descobri o mundo maravilhoso dos jogos de computadores, eu deixei de fazer quadrinhos e só voltei a fazer agora com o Nerdsum, em 2006.
+Esse tempo todo lá que eu, da minha adolescência, o final da infância, eu deixei de fazer quadrinhos e ficava só jogando no computador.
+E daí foi despertar interesse pela computação.
+Que na verdade é uma ilusão, né? O cara entra na faculdade de ciência da computação achando que vai fazer jogos e tal, mas o cara passa uns três semestres só fazendo cálculo e contas de física, mecânica clássica e tudo mais.
+E esse ondes perde isso, né? Dizem que o jogo é bom para desenvolver questão de percepção e tal, mas em excesso é bastante canseiro, igual você perdeu muito o tempo da sua vida jogando, certo?
+Não.
+Eu tinha que perder tempo também, né?
+Não, eu não diria que foi uma perda de tempo.
+Depende, como alguns momentos eu exagerava, tipo, passava 10 horas jogando direto, aí realmente é uma perda de tempo, mas...
+Não, isso era um teste de resistência, Rafael, não pode pensar como perda de tempo, quantas vezes no trabalho você teve que ficar mais de 8 horas?
+Ah, várias.
+Olha aí, viu? Se não fosse o background do cara com os jogos.
+Mas a vantagem disso é que eu aprendi inglês, cara.
+É, eu ia falar isso agora.
+Então essa parte da entrevista de respeito é todo inglês, tá?
+Não, não, não. Leia uma coisa a falar e outra.
+É engraçado isso, cara. Eu recebia muitas críticas assim, por causa que meu... Eu tenho um irmão pequeno.
+Assim que ele veio morar comigo aqui em Goiânia, eu comprei Diablo 2 para eles, né?
+A desculpa era que era para ele, viu?
+E, cara, ele jogava pra caramba, eu recebia muita crítica assim, ah, mas eles não faz nada, eu podia ensinar ele programar, não sei o quê e tal.
+O inglês que ele aprendeu também foi bem prático, sabe?
+Eu acho que se ele fosse para uma escola, dificilmente ele iria desistir ali na primeira semana.
+E ele tem uma produção inglês até interessante, só basicamente julgando.
+Ele jogava o batonete e a maioria da galera que entrava lá era americano.
+Então acho que dá pra se tirar coisas boas dessa fase da vida, né?
+Depois que eu aprendi os jogos e conto aí praticando na informática, né?
+Eu prefiro tutoriais em inglês, livros em inglês, porque algumas tradições em português são péssimas.
+Então eu inventei de fazer um curso de inglês, achando que ia ganhar alguma coisa, mas não.
+Isso sim, pra mim, foi uma perda de tempo, cara, porque eu não melhorei nada lá, então eu já tava numa onda de ser autodidata, né?
+Pô, eu posso aprender tudo sozinho, então foi mais um motivo pra eu ter saído do lado do curso, prometido a mim que nunca ia fazer outro curso de inglês na vida.
+Tu é autodidata em que mais?
+Em várias coisas da computação, por exemplo.
+Paiton aprendi sozinho, JavaScript aprendi sozinho, praticamente, também.
+Flash, quase tudo aprendi sozinho, ó. Tirando as coisas de faculdade, né? As coisas teóricas de faculdade.
+HTML?
+Ah, HTML, não, isso já foi num curso de web que eu fiz paralelo com a faculdade.
+CSS, entre outras coisas.
+Todas as outras tecnologias que eu trabalho atualmente, como por exemplo, Python, PHP, JavaScript e avançado, eu fui estudando e praticando até trabalho também, né?
+Porque a maioria das coisas que a gente aprende é no trabalho, fazendo, colocando a mão na massa.
+É o tru do autodidata.
+Você nunca vai tocar tru total, porque só quem toca bem é autodidato.
+Então se conforme que nunca você vai chegar nem perto do que eu toco, tá?
+Hum...
+Além de levar um tiro, tem que aguentar um solo lixo e amador desse, hein?
+Nossa, ame!
+É...
+Não é mole, não.
+Tanto rapaz aí, esbanjando saúde,
+trocando uma noite de amor pra noite de Playstation,
+rodízio com os amigos,
+e a mulherada aí, largada em segundo plano,
+pensando na racinha desunida,
+vumbas em fúria.
+Mas eu brinco assim, mas eu acho interessante também aprender com alguém ensinando.
+Eu pensava isso também, só que hoje em dia eu já não tenho mais paciência pra isso,
+por isso não me vejo novamente entrando na sala de aula,
+a não ser pra tirar carteira de habilitação, né?
+Tirando isso aí, eu não me vejo voltando à sala de aula mais, não.
+Porque, pô, praticamente dá pra estudar tudo em casa mesmo, então.
+Eu não tenho paciência pra seguir aquele ritmo lento,
+não é que todas as aulas seguem, né?
+Pra poder reduzir por baixo o nível da galera.
+Cada um estuda no nível que for adequado à sua necessidade,
+é como o cara consegue estudar.
+Então tem esse lance também.
+Mas aí tu acha que seria, caso que tu, sei lá, perdeu a paciência,
+tu acha que deveria, a galera que ministra esse tipo de curso deveria se reinventar?
+Eu acho que um pouco dos dois.
+Depois de 8 anos de faculdade, cara, você acha que eu tenho paciência pra sentar na sala
+e ficar ouvindo o cara falando,
+também pela questão do cara que tá dando a aula,
+ao invés de ser aquele velho modelo, o cara falando e o pessoal escutando,
+eu acho que tem que ser uma participação total do pessoal.
+E exercícios, um cara tem que chegar lá pra resolver problemas, né?
+Simulando uma empresa, né?
+Você tá lá trabalhando e tem que resolver um problema.
+Então eu acho que esse tipo de modelo é o mais adequado pra uma sala de aula, né?
+Você resolver problemas.
+Eu fiz curso técnico antes de entrar na faculdade,
+e seis meses depois eu já inicia a faculdade.
+E quando a faculdade acabou eu fiquei meio sem chão, sabe?
+E agora não tem nada pra estudar e tal.
+Eu tirei minha sentificação lina, que são nas férias da minha faculdade.
+Fiz uma cursão e tal.
+Eu era o aluno mais chato do mundo, sabe?
+Não chato de ficar cobrando essas paradas e tal.
+Mas chato no sentido de estar sempre querendo fazer uma adenda,
+participar da aula e tal.
+Porque eu vejo assim, tem muita gente que...
+Ah, isso daí eu já sei.
+E quando ia ter uma aula lá, né?
+O cara não dava muita atenção na aula e sei lá.
+E quando assim, quando era uma coisa que eu já sabia, já tinha uma introdução,
+era pra mim era a melhor aula do mundo, sabe?
+Porque eu ficava toda hora fazendo uma adenda e indo sei o quê e tal.
+Querendo contribuir, eu acho que esse tipo de aula com bastante interatividade,
+pra mim é uma experiência legal, né?
+Aí você era o aluno chato da torna, né?
+É, eu era chato pra caralho também.
+Que quando tá faltando um minuto pra acabar a aula, você vai,
+faz uma pergunta que o professor responde durante cinco minutos
+e todo mundo olha pra você com cara de raiva.
+É, geralmente quando acabava a aula, a galera saía,
+ficava tocando ideia com o professor.
+Onde muita boca bonita,
+canta na língua Tupi, cante aqui, cante agora, cante lá, que eu canto aqui,
+Piauiti Terezina, Pannaiva, Floriano, Piripiri, Piracuruca, canto maior,
+Autos Esperantina, Praia do Copeiro, Pela do Sao e Atalá.
+Você publicou as suas tirinhas na língua do magazine,
+você é bem ativo na parte de códigos e softwares no software livre,
+você já publicou algum artigo sobre Linux, anuncia as tirinhas na revista?
+Não, eu cheguei a fazer alguns trabalhos lá com eles na tradução de artigos e
+desenvolvimento de software de sistemas internos na língua do magazine.
+Foi um breve tempo que eu trabalhei com eles,
+o lance de as tirinhas ainda está rolando lá, algumas tirinhas ainda estão sendo publicadas lá,
+eu acho que como já vai fazer um ano que eu não atualizo o site, não faço mais nada,
+então acho que eles vão ficar sem tirinhas pra publicar.
+Tá aí a indicação aí pra mim, com eles que te chamaram pra publicar lá?
+É, convidaram.
+Foi nepotismo porque tava trabalhando lá dentro.
+Foi antes, antes de eu trabalhar lá, eu trabalhava distância na verdade, nunca sai daqui.
+Você já viu a publicar em alguma que não seja a mídia digital?
+Não de revistas, coisas perigoticas não, mas em jornais, notícias soltas já saiu várias vezes,
+só que eu não lembro, eu não fico guardando, então não dá pra eu citar aqui todas.
+Aqui eu lembro, saiu lá no jornal Zero Hora, seu nome é Jani, que é no lado Porto Alegre,
+na época que eu fui no Fizzle, acho que foi o Fizzle 10, saiu uma tirinha lá minha,
+também depois da Campos Part, em 2009, eu fui lá, dei um admitido e tirou uma foto com Tim Berners-Lee,
+e aí os caras fizeram uma matéria, pessoal daqui de Natal mesmo, teve uma matéria sobre
+o Campos Part me entrevistando e acho que não lembro exatamente, eu acho que não colocaram
+a tirinha não, mas colocaram uma foto lá também, de impresso mesmo, a Linux Magazine.
+Ah é, Linux Magazine, é impresso, é só...
+Eu te mostrei a tirinha dela, você não lembra não?
+É verdade, com a Alemão ele publica na Espírito Livre, né?
+Eu já saí na Espírito Livre também.
+Você estuviu, a gente entrevistou o Moza Esticoto?
+Sim, eu estuvi, eu vi na lista lá.
+É porque ele falou exatamente desse começo dos quadrinhos lá.
+Ele é quadrimista, ele usa software livre, e se não me engano, ele mora aqui no Natal também.
+Não, ele mora em Minas Gerais.
+Você falou que quer virar CISA de Min, né?
+Você está cansado de ser programador 24x7, quer mexer mais com a área de CISA de Min?
+Eu não sei no que vocês trabalham, mas se vocês trabalham com frameworks, web, e têm
+de resolver problemas de compatibilidade ali dos navegadores, então vocês sabem como
+é doloreio fazer esse tipo de trabalho, porque você tem vários frameworks na internet,
+que você pode baixar, usar, só que todos os trabalhos que você vai fazer, cara, você
+tem que ir atrás, fuçar o framework, porque ele não oferece todas as coisas que você
+precisa.
+Noventa por cento dos casos, você tem que criar coisas novas em cima desse framework,
+então este trabalho é chato, são, como eu falei certa vez, são falsas promessas, né,
+desses frameworks.
+E tem também a questão, como eu falei, dos navegadores, e isso enche o saco.
+São também falsas promessas, você todo dia acompanha as notícias de desenvolvedores
+web e atualizações de navegadores, todo dia tem alguma coisa, algum feature novo, bonitinha,
+de HTML5, do CSS3, próxima versão do JavaScript, que vai ter classes embutido, lá por padrão,
+e não sei mais o que, só que eu já escuto essas promessas, cara, desde 2004, foi quando
+eu comecei a trabalhar com web, e até hoje, muita pouca coisa mudou, então isso acabou
+frustrando, e isso pelo menos está me frustrando, e talvez eu saia disso futuramente, é por
+enquanto não dá pra sair, talvez lá na frente eu ter essa mais unível na computação e
+possa trabalhar com ainda conservadores e...
+Pé com curtir o formato?
+Não, esse aí não.
+E seja de mim, programação baixa o nível, não sei.
+E nesse negócio de desenvolvimento pra web, existe dois mundos, né, existe o internet
+Xplore e o resto do mundo.
+Pois é, eu ainda tenho problemas com internet Xplore R9.
+Hoje eu tô trabalhando com o framework web, JavaScript, é o Xt, é Xt, dá pra ver falar?
+Já, é, por enquanto eu tô trabalhando com o Zend framework, PHP, e é ele que tá me
+dando essas vontades de largar essa área, vez eu vou ter o brinco com o Django, o Python,
+quando eu troco do Zend pro Django, é quando aparece a Deusa lá de cabelos longos, e só
+pra uma brisa fresca no meu rostro, é exatamente essa sensação quando você sai do Zend pra
+ir pro Django, porque é outro mundo, o Django é bem mais fácil de fazer as coisas, só
+que ainda assim eu tenho problemas, como todos os outros frameworks.
+Tudo começou com Rails, né, cara?
+É, o Rails eu cheguei a testar uma vez, mas não estudei, então também o Rubb eu cheguei
+a estudar uma vez e parei, então já esqueci quase tudo.
+Falando assim, no sentido de inspiração da forma de trabalhar, né, metaprogramação,
+que isso?
+Keep it simple, estúpido.
+Don't repeat yourself, em um monte desses termos em inglês maneiro.
+Já trabalhei com três frameworks PHP, o Zend agora, antes foi o Cake, e antes do Cake
+o Code Igniter.
+O Code Igniter é o que me parece o melhor até hoje, só que infelizmente eu não pude
+me aprofundar tanto nele, eu cheguei a fazer algumas coisas, mas pelo que eu vi comparando
+os três, o Code Igniter é o mais fácil de você trabalhar, né, a documentação dele
+inclusive é melhor que existe.
+E o pior é o Cake, que é o Cake é um terror.
+Me desculpe quem usa o Cake, mas o Cake é uma droga.
+Eu cheguei a fazer um sistema interno no Cake, e o negócio é tão ruim de manter,
+de fazer, que convenci o meu chefe a converter todo o código pra Zend.
+É, hoje lá na empresa a gente tá passando com um processo parecido, né, mas antes
+a gente desenvolvia tudo usando basicamente de jQuery e PHP todo escrito daquele jeito.
+O processo atualmente que eu estou na minha empresa é mudar pra Django, todos os sistemas
+novos vão ser feitos em Django agora e ponto final.
+Só que ainda vai ter os sistemas em PHP pra ficar mantendo, né, então eu vou ter que
+lidar com PHP ainda por um bom tempo.
+Mas isso não quer dizer que eu odeio PHP, na verdade eu odeio algumas particularidades
+dos frameworks, como por exemplo, no Django eu posso fazer o crud lá automaticamente,
+né, no Zend eu tenho que fazer na mão, e isso usando o framework por nene plugin.
+O Zend tool, você não que usou, né?
+O Zend tool eu uso sim, só que ele não faz o código pra mim, ele só gera um boilerplate,
+entendi, mas aí a parte do DBA já tá pronto, daí sempre tem que mapear ou é o contrário?
+Na verdade a gente usa uma outra estratégia, a gente não coloca coisas muito específicas
+de banco, de dados, no framework, e sim em procedures, foi meio que uma ideia pra fugir
+do ORM e do Zend, que a gente viu em testes que era bem lento pra o que a gente queria,
+então a gente migrou boa parte das funções de model, de dados pra procedures do Postgres,
+então fica bem mais rápido a execução do sistema apesar de dependente do Postgres.
+Pelo que a gente vê das boas práticas, o pessoal sempre defende a desenvolver independente
+de banco de dados?
+Sim, isso é como eu falei antes, isso é uma das falsas promessas, você não pode confiar
+100% no ORM, como um hibernate da vida, um Doctrine do PHP, porque o ORM não resolve
+todos os problemas, eu não posso dizer a maioria dos casos porque eu não sei, mas em alguns
+casos eles geram queries ineficientes, então não dá pra confiar neles, no caso do sistema
+que eu tô lá trabalhando, a gente achou melhor colocar tudo na responsabilidade do banco.
+Que fica rápido pra caramba, né?
+Fica, bem rápido.
+É engraçado isso, porque eu também passei por uns problemas assim, a gente começa
+a construir uma coisa, daí a gente vai construir em volta e esquece de fazer soluções simples,
+e tem coisas que a gente conseguiu, fazendo uma triga e a gente deixa a solução um milhão
+de vezes mais simples do que a gente tava fazendo.
+É, fica bem mais simples, reduz o código, o código da aplicação fica uma linha só
+e você faz uma procedure, uma triga e pronto, tá resolvido o problema e você consegue manter
+a atomicidade das operações, porque isso seria bem difícil manter no código da aplicação.
+Eu sei que isso não foca da entrevista, mas eu queria fazer mais um comentário a respeito
+disso.
+Mas aqui é todo nerd, cara, então não tem problema falar nisso.
+É porque assim, cara, eu já trabalhei em empresas que a gente fazia assim, não pode
+desenvolver queries que sejam muito específicas do Postgre, porque se a gente quiser mudar
+pra outro banco vai ser fácil, e nessa época ele só tinha um cliente, né?
+É, por exemplo, se o cliente fosse impor, não, a gente quer usar a Oroco, mas todos os
+clientes que vieram depois a gente impor e a gente ia usar Postgre.
+Aí, assim, a gente deixou de usar recursos do Postgre e deixando o desenvolvimento mais
+custoso, né?
+E em função disso, na prática, o seu nome é totalmente diferente, né?
+Era só esse o comentário que a gente fazia.
+A gente pode voltar pra falar de quadrinhos, o Valimogão.
+De quadrinhos.
+5 minutos, 5 minutos pra falar de quadrinhos, 5 minutos.
+Mas eu vejo que você usa o Skype também, né, pra fazer essas quadrinhas?
+É, eu uso o Skype mesmo, eu uso mais as partes de vetores, né?
+Questão de texto, eu sempre uso mais o editor de texto normal, nunca usei a sua aplicação.
+No meu caso, eu uso o Inkscape pra fazer tudo mesmo.
+Eu coloco o texto mesmo lá dentro, escrevo o texto lá, eu geralmente não escrevo roteiro
+completo no bloco de nota, eu escrevo toda a história lá mesmo, ao mesmo tempo que
+eu desenho.
+Pego a ideia, abstrata, né?
+E a árvore Inkscape começa a desenhar e escrever lá mesmo o texto.
+Geralmente é assim, mas quando eu tenho alguma ideia mais complexa, eu escrevo um roteiro
+bem básico inicial no arquivo de texto, depois eu adapto.
+Igual aquela história que você escreveu sobre o guia do programador das galáxias,
+você não vai me dizer que você abriu o Inkscape e começou a desenhar que lá, né?
+Não, com certeza não, só que pra aquela história ali, eu também não cheguei a
+escrever um roteiro completo, eu só tenho assim, rabiscos e ideias, tipo assim, nessa
+parte da história vai acontecer isso aqui, pronto, nada além disso.
+Então quando eu tenho essa ideia lamentada, eu abro lá o Inkscape, começo a desenhar,
+pego o livro, vejo lá o que os personagens estão falando e faço alteração lá mesmo
+na hora.
+Então, isso aí eu não muda muita coisa não, meu processo.
+Só que você não usa o Inkscape não, né?
+Não, eu uso o GIMP.
+Como Inkscape exporta pra PNG, eu uso o GIMP pra reduzir o tamanho da imagem, você salvando
+naturalmente pelo GIMP, ele reduz alguns k-bytes, isso não é muito útil, então eu faço a
+indexação por cores.
+Eu faço todos os quadrinhos sem usar gradientes, sem usar blurs, esses filtros aí, eu posso
+depois abrir a imagem no GIMP, alterar a imagem pra 256 cores, né, indexação, e aí
+reduz bastante o tamanho do quadrinho no final.
+Ah, tá certo.
+Acho que só isso mesmo, né?
+Queria falar um pouco de 40 e tem tempo aí.
+Já tá deslação já, né?
+Tipo, eu te mandei um e-mail, você não viu não?
+A gente perguntando sobre um feedback das mistirinhas?
+Sim.
+Não, é sério mesmo, cara, acho muito importante, vim de você, um feedback das mistirinhas,
+é muito bom.
+Eu só digo uma coisa, quanto em noio fazendo o que você gosta de fazer?
+Tá certo.
+Ele não tem esse negócio de escrever roteiro, porque ele é um quadrinho de saturno, não?
+Não, não, não sou, cara, tipo assim, eu to sem fazer muitas coisas, mas não sou mestre
+em nenhuma delas.
+Mas é autodidato.
+Não me ideia, assim, o que eu sei fazer com quadrinhos hoje foi olhando para os quadrinhos
+da Disney e praticando, fazendo a mão, mas hoje em dia eu não faço nada a mão, mas
+eu só faço no mouse, então não pratique mais desenho.
+Aqueles desenhos lá que eu faço, eu já foro desenhados uma vez, então eu não faço mais
+nada, eu só faço mover o mouse e alterar um olho, uma boca, um braço, e pronto, é
+isso.
+No caso do quadrinho histórias maiores, como do Guido e Programador, é sim que eu desenho
+coisas novas.
+Só que isso demora bem mais.
+Engraçado isso, porque você falou que olha o quadrinho das Disney, né, na minha infância
+e adolescência eu tinha um problema.
+Eu basicamente desenhava assim mais na pegada Disney, só que 110% dos meus amigos só curtiam
+manga, sabe?
+Aí eu ficava meio deslocado com isso.
+É, manga também nunca foi uma coisa que eu gostei, nem lia muito, não.
+Porque na época, na minha infância, eu só fui exposto mesmo da Disney e da turma da
+Mônica, como a maioria dos brasileiros na época, então o meu estilo foi criado, inspirado
+nesse cartuno.
+Mangasso a rentar mesmo.
+As vezes eu não gosto do meu próprio quadrinho, sabe?
+Eu só faço porque dá aquela vontade de querer falar alguma coisa, de querer sacanear
+com a história da informática, alguma pessoa, sei lá.
+Assim, a maior parte do tempo eu não gosto do que eu faço, sabe?
+Acho que é a questão do perfeccionismo, porque eu tenho e isso me atrapalha às vezes,
+porque eu faço com que eu demore muito tempo para gostar do produto final.
+Então, por exemplo, se eu não tivesse isso, o site novo já estaria no ar, na verdade
+eu nem teria parado de fazer, porque eu tô mudando, fazendo uma mudança radical na
+forma como eu tô fazendo o site, então ainda não tá do meu agrado, ainda vai demorar
+um pouco para poder gostar do produto final, do resultado.
+Isso é interessante, cara, porque eu tava vendo um documentário na GNT sobre uma mulher
+que canta funk no Rio de Janeiro e ela tava na Alemanha, chuparina.
+Eu achei interessante uma coisa que ela falou, a chuparina, que a arte que ela faz, o personagem
+que ela faz, a criação, na verdade, ela é maior que o criador, né?
+Linkando com o software livre, eu tava pensando que isso realmente é uma coisa que se torna
+bastante real no software livre, cara, no software como uma obra de arte.
+E as outras pessoas contribuem com esse software e a pessoa que começou esse software inicialmente,
+ela pode até deixar de contribuir ativamente no projeto, mas a criação continua viva,
+a criação, ela se torna, nesse caso em específico, ela se torna maior do que o próprio criador,
+né?
+A arte é longa, a vida é breve.
+Olha aí, Eva, que bonito.
+Lide um livro.
+A gente não falou das suas inspirações, falou?
+Falo não, mano, mas eu posso falar, basicamente minhas inspirações, até hoje faço referências
+e tal, a maioria das referências escondidas, a maioria das pessoas não acham.
+Easter eggs?
+É, quase isso.
+Algunas são tão escondidas que só eu conheço, por exemplo, história de Disney, que eu
+li há muitos anos e até hoje eu lembro, então...
+São mensagens subliminares, né?
+É, basicamente minhas referências são minhas inspirações, são o Douglas Adams, o Guilmo
+Chileiro, aqueles quadrinhos bem antigos de Disney, que até hoje eu sou fascinado por
+eles, até hoje eu leio, na verdade.
+Tio Patinhos, né?
+É, tio Patinhos principalmente, o próprio Terry Pratchett, né, do Discworld.
+Pode citar algum desses referências escondidas aí pra...
+Eu não lembro, cara, são tão escondidas que eu esqueço.
+Aí, galera, que curte o Nelson, procurando referências escondidas, não tem nenhuma
+daquelas mensagens subliminares que aparecem direto na internet, aí o pastor eles falam
+não, né?
+Não, não, tem isso aí.
+Inclusive, se você pegar o código fonte do site e inverter, também não vai aparecer
+nada.
+Mas daí o de compilazão só é pronto, né?
+É, super...
+Mas aqui já tentou e ficou frustrado aí, foi mal.
+Inclusive, se a gente escutar essa entrevista ao contrário, você vai entender nada, né,
+na verdade.
+Então, acho que tu poderia falar pra gente dos novos projetos aí, do que a gente pode
+esperar do Carlson Bezier, primeiro de cinco maiores chamar de Carlson Bezier, como é
+que a gente chama?
+Não sei, vocês quiserem a gente chamar de...
+É de cacau.
+Cara, se a gente chamar de Nelson, tá longe mais já.
+Beleza, a gente vai trocar tudo o que a gente chamou de Carlson Bezier, né, edição.
+Pronto, isso aí também é uma questão do meu perfeccionismo, eu não gosto mais
+desse nome, né, Nelson?
+Quando eu criei ele, eu não tinha esses planos que eu tenho agora, então, como você
+mesmo falou, o negócio cresceu mais do que eu imaginava, acaba que esse nome já não
+tá mais refletindo a ideia que eu tenho da coisa.
+Já que você falou dos projetos, eu já continuo dizendo que o projeto é exatamente isso.
+Eu vou criar um universo único para todos os personagens, até então, todos os personagens
+tinham o seu próprio universo, eu vou colocar todos esses personagens em um só universo.
+Estou reescrevendo muita coisa, eu vou ter que alterar muitos quadrinhos, também vou
+fazer a versão em inglês do site, eu registrei o rectum.com.br para colocar em português
+lá e o .com vai ser só em inglês, pelo menos esse é o projeto principal.
+Aqui o layout da estrutura do site vai refletir exatamente essa ideia de um universo único
+para todos os personagens, e além disso, por baixo do site, o sistema, é um geradorzinho
+de páginas estáticas que eu tô desenvolvendo e que tá lá no GitHub também.
+Eu não sei se vocês já ouviram falar desses tipos, esses sistemas que é bastante usado
+no GitHub, que é o Octopress, é um sisteminho que você escreve o seu conteúdo, um arquivo
+de texto, opcionalmente você pode colocar em uma formatação como Markdown, MediaWik,
+etc.
+É que nem o esquema do ritmo e ponto md, né?
+Exatamente isso.
+Ah, é md de Markdown, é só.
+É.
+Tivesse hiponia agora.
+Exatamente.
+Então, o sistema pega esse arquivo do conteúdo e gera um HTML baseado nessa formatação.
+Quando o cara entra no site, ele não vai fazer um trabalho imenso que, por exemplo, um
+zende da vida faz que é ler todas as variáveis de configuração, acessar o banco de dados,
+trazer o template, popular o template com os dados do banco, filtrar do tudo, segurança
+e tal, tal, tal.
+Não, isso aí não acontece no sistema de geração de páginas estáticas, porque
+eles já geram o HTML prontinho lá para o cara acessar e pronto.
+Então é extremamente rápido e é extremamente seguro também, porque não tem banco de dados
+e não tem nada.
+Só apenas arquivos.
+E se o cara quiser usar comentários, o cara pode colocar um desses serviços de comentários
+terceiros, como os discos ou o intenso debate.
+Até o próprio Facebook, né?
+É, também.
+Até então, está usando Wordpress, obviamente ali é a melhor indicação, só que para
+mim que sou apenas um editando um site inteiro, de acordo com essa ideia de um universo único
+para todos os personagens, Wordpress virou uma amareta para matar a formiga.
+Então dispensei ele e também tem a caixão das atualizações de segurança, que é um
+saco fazer e plug-ins e tudo mais.
+Então comecei a fazer esse sistema na versão atual lá que está no GitHub, ele já servem
+para mim as necessidades, mas eu ainda tenho algumas coisinhas para fazer antes de poder
+colocar no site de uma vez por todas.
+Por exemplo, ele atualmente ainda não está gerando o feed RSS, então inclusive até
+hoje eu comecei a fazer isso aqui.
+Ele também não está gerando a listagem de páginas, últimas páginas cadastradas,
+trechos nos templitos para evitar repetição de código.
+Eu acho que acabando essas três fitros aí eu já posso colocar o meu site no A, só
+que ainda vai ter todo um trabalhão ainda de traduzir quadrinhos e redesenhar algumas
+coisas, então vai demorar bastante ainda para poder colocar o site no A novamente.
+Vai ser tipo Tolkien que ele deu uma revisada no Hobbit quando ele lançou os seus desenés?
+É, é exatamente isso, só que eu não vou ter a história dos quadrinhos, eu só vou
+redesenhar algumas coisas para se adequar ao roteiro único que eu estou desenvolvendo.
+Então a gente pode esperar uma tirinha assim marilho?
+É, é basicamente isso aí.
+O que eu vou explicar é o mundo em que os personagens vivem, a relação entre cada
+um deles e por aí vai, e criar novas séries e novas personagens também para se adequar
+nesse novo mundo.
+Aí vai ter uns quadrinhos inacabados que vai ser publicado lá também?
+Eu estou pretendendo que não seja, por exemplo, o seu formato do alemão é tirinhas, eu
+quero forger desse formato.
+Eu já aceitei que eu não consigo ter ideias tão rápidas assim, o meu lance é fazer
+mais histórias, contar histórias, nem que sejam de quatro, cinco quadrinhos, mas contar
+histórias e não tirinhas assim, piadinhas rápidas, porque raramente eu tenho a ideia
+para tirinhas, então fica aquela coisa chata de você ter um site de tirinhas e não conseguir
+atualizar ele com frequência.
+Então, aceitei essa realidade e vou fazer agora histórias longas mesmo.
+Não seja tão frequentes, mas que tenha um conteúdo, exige alguma pesquisa prévia minha
+para poder fazer uma história melhor assim, e que cada poste, cada página, seja um fragmento
+da história desse mundo que eu vou criar, que eu estou criando.
+Pô, mas você já fazia isso com aquelas tirinhas rápidas suas?
+É, que tinha que ler as outras, mas eram bem poucas na verdade, e eram só os quadrinhos
+com os personagens principais, a Leonerson, a Beta, a Vitz, a história contínua mesmo
+era só com eles.
+Outras séries que eu fazia já não tinham essa continuidade, eram independentes.
+Aí o que eu vou fazer agora é exatamente o contrário, todas as quadrinhas vão contar
+um pouco da história desse mundo.
+Guido Pernumadão, nas galáxias, você demora quanto tempo para produzir aquele tipo de
+quadrinho?
+Eu comecei a fazer a ideia lá, que eu estava bem empolgado, eu fiz três em três dias.
+Chegava o trabalho e virava madrugada fazendo e só ia dormir quando acabava, dava aí umas
+quatro, cinco horas por página, só que aí teve uma desmotivada lá nos últimos, nas
+últimas páginas dele, então eu estava demorando bem mais para atualizar.
+Hoje em dia, como para atualizar o blog, a série parou também, só que eu não pretendo
+voltar, eu tenho que voltar, né?
+Eu só não sei se eu vou voltar a atualizar antes ou depois nesses novos planos que eu
+tenho.
+Igual o Guzmoraes, você conhece o Guzmoraes?
+Sim, já vou falar dele, na verdade eu até vi algumas tirinhas dele.
+Você vai fazer tipo as tirinhas, tipo a dele, né?
+Ele, eu acho que ele publica a cada um mês, se eu não me engano, e são assim, historinhas,
+só que não tão grandes, né?
+Eu acho que no máximo, uns 20, tantos quadros.
+Eu gosto das ideias dele, né?
+Teve uma sobre nostalgia negue, fantástica, né?
+E ele publica sobre tecnologia, espirito livre.
+Não.
+Ali nos magazines?
+Não, é uma revista, eu acho que é na Info.
+Ah, Info, isso mesmo.
+Eu acho que é parecido nesse novo formato que você está pensando, de histórias não
+muito grandes, mas...
+As que contam alguma coisa, né?
+É isso.
+Não, só que eu acho que ele não tem um universo.
+É, não tem continuidade, né?
+Você já ouviu falar do Terry Pratchett, do Disc Road?
+Sim.
+Pronto.
+O cara criou o mundo dele, e todos os livros dele são baseados nesse mundo, né?
+Que é a Tartaroga, que carrega quatro alafantes, que em cima desses alafantes tem um mundo
+parecido com a Pete.
+A minha ideia é exatamente essa, criar um mundo onde eu possa criar todas as histórias.
+Tipo o Dragon Ball?
+É, também.
+O Tolkien.
+É, você está pensando assim, de acrescentar mais alguns personagens?
+Já criei vários personagens novos.
+Por enquanto, eu só criei o nome e a ideia geral, então eu preciso me aprofundar mais
+ainda sobre o que é que cada um vai ser, o que é que eles vão fazer, personalidade,
+essas coisas.
+Alguns personagens igual o Barrabim e o Barrabecho, o Marquia e a Azrid?
+Esses vão continuar.
+Sim, o Barrabim e o Barrabecho, inclusive, é o que o pessoal mais gosta.
+É, isso é verdade.
+Eu só adiantando aqui, o Barrabim e o Barrabecho vai ser o meu tom bombadil, vai ser aquele
+personagem enigmático que ninguém sabe de onde veio para onde vai.
+Ah, séio.
+Bastante interessante.
+Que bom, né?
+Que bom.
+Mas aquelas tirinhas do Barrabim e o Barrabecho é as melhores mesmo, se você parar de publicar
+as suas tirinhas, todas elas e publicar só o Barrabim e o Barrabecho, já ganha, já
+o...
+Como é essa?
+Por mim eu não faria isso, porque eu gosto de fazer também as outras séries.
+Uma das coisas também que eu mudei meu pensamento nesse projeto é não dar tanta atenção à
+opinião dos outros, ensinem ao que eu gosto de fazer.
+Por isso que eu falei para o alemão para ele que faça o que você gosta de fazer, ao
+invés de pedir opinião dos outros.
+Então você tem que se divertir fazendo o que você quer fazer e o que você gosta de fazer.
+Então nesse projeto novo eu vou me desligar totalmente dessa coisa e fazer o que eu gosto
+porque eu vou querer criar histórias que eu gostaria que acontecessem comigo, por exemplo.
+E eu vou descrever lugares que eu gostaria de visitar, lugares que eu gostaria de existir.
+Ah, então as historinhas realmente já baseiam um pouco a sua vida, ou o que você quer fazer.
+Igual o personagem principal tem uma namorada, né?
+Uma das coisas que você queria fazer, certo?
+Não, o personagem principal não tem uma namorada, não.
+Tem aquela amiguinha dele?
+Brincadeira.
+Mas não, cara, essas histórias que tem atualmente não são coisas que eu gostaria de acontecer
+comigo.
+Eu estou mudando isso agora, estou tendo essa ideia agora, agora que eu vou implementar
+isso.
+Inclusive eu até pensei não habilitar comentários no site para não criar aquela vontade de
+ter feedback.
+Se vocês tem blog, vocês sabem o que é isso.
+Igual o xkcd, né?
+Sem comentários, simples daquele jeito e faz o meu sucesso, né?
+O que importa eu acho que é a ideia, né?
+Exatamente, é o...
+Porque comentários atraem trovos, né cara, então eu não tô a fim de ficar deletando
+comentários e apagando espans e esse tipo de coisa.
+Então vai ficar uma coisa bem de uma certa forma fechada, assim, mas eu pretendo fazer
+coisas que não substituísse.
+Final, o email sempre vai estar lá disponível para qualquer pessoa, quiser conversar comigo,
+mas eu vou implementar uma outra forma de interação.
+E além disso, Twitter está aí para isso, né?
+O Twitter eu vou continuar lá, então...
+A página no Facebook você não tem, né?
+Não, não tem o Facebook.
+NeuroCourt.
+Eu tinha o Facebook, NeuroCourt, eu apaguei os dois.
+Eu só não apago o Twitter porque o Twitter pelo menos é útil.
+Tô vendo que você não gosta de interação social, né?
+Paul, né?
+Mas o Twitter é a interação social, cara.
+Bom, mas você é por isso que ele chama de rede social, né?
+O Barrabim Barrabeste, ele refletiria mais a sua personalidade hoje do que o Netson
+foi algum dia no passado?
+Não, na verdade não, porque o Barrabim Barrabeste estava tentando ter uma ideia para
+um quadrinho, né?
+O que falasse sobre o Shell Script, então eu pensei na frase.
+Shell Script é mágica, daí veio a ideia do Barrabim Barrabeste.
+O pessoal gostou bastante, só que não tem nada a ver com a personalidade, né?
+Só foi a ideia do momento.
+Como o pessoal gostou, então eu continuei com o personagem.
+Teve também a questão da facilidade de desenhar ele, que é compor-se apenas de retos, né?
+Então, tranquilo, desenhar.
+Só é difícil ter ideias pra ele, porque Shell Script tem uma das linguagens que eu não
+conheço muito, então às vezes fica difícil pensar em alguma coisa, alguma ideia pra poste
+novo.
+Faz um Barrabim Barrabeste, mano.
+Esse endereço aí tá incorreto, né?
+Faz uma cobrinha de pronto.
+Aí faz um Envy Python.
+Pois que a gente conversou uma hora com você, dá pra ver que é um pouco associável.
+Mas esse é de praxe, de programador, né?
+O realço mesmo, pra me conversar com ele, eu tenho que...
+Eu sigo fielmente o estereótipo.
+Pronto, isso é um detalhe interessante.
+Eu não tenho o Facebook, mas eu tenho o GitHub.
+Se você quiser me conhecer, tá lá no GitHub.
+Se quiser conhecer mais a fundo, o Carlson, via a fonte das suas ideias.
+Você vai lá no código fonte.
+É, eu não coloquei o meu DNA lá, como o cara fez, mas...
+E você viu isso?
+Não.
+É um código genético que publicou no GitHub, não?
+Você vai saber, não?
+Tá escrito em colo em gosto.
+Tá escrito em Godescript.
+Perdi.
+É um código de venda, mesmo.
+Copilador Celestial.
+Podia estar fazendo seu CMS aí, né?
+Ele tá dando entrevista aqui pra gente.
+Calma, calma lá.
+Não é a CMS.
+Ah, é?
+Porque ele é um gerador de...
+E páginas estáticas.
+É um gerador dinâmico de conteúdo estático.
+Não é dinâmico.
+Não.
+É tudo estático.
+Não, mas não.
+O gerador é dinâmico?
+Foi assim.
+Tudo é dinâmico.
+Ele explicou.
+Coisas dinâmicas que fazem coisas estáticas.
+É, desse ponto de vista você está certo.
+Feito em Python, aliás.
+Fala aí da tecnologia, além de ser feito em Python, front-end e mais alguma coisa?
+Não, é tudo terminal.
+É só um comando.
+O objetivo é fazê-lo mais simples possível, é um comando pra gerar um template de conteúdo
+e outro comando pra gerar HTML.
+Pronto.
+Só isso.
+A primeira versão das minhas tirinhas eu fiz no HTML.
+Tem um editor HTML do Linux que o inscrição nome agora.
+Começo com um carro.
+Kate?
+Não, Kate não.
+Ele é mais bonitinho.
+Comodo?
+Não, também não.
+Então, é...
+Acho que é com o quê, né?
+O quanto é?
+É, acho que é esse mesmo.
+É com o quê, pô, né?
+É.
+Então, eu fazia a tirinha e, tipo, eu pegava a página e tinha aquelas...
+Aquelas setinhas, né, feitas com o teclado, com os caracteres do teclado, de maior e menor.
+E eu fazia tudo no HTML.
+Pegava a página, duplicava, trocava só os links e postava lá e trocava a imagem também.
+Só o HTML puro.
+O alemão, ele fazia...
+Em vez de ele fazer um index, ele criava um redirecionamento de DNS.
+Quando o cara acessasse o root do site, ele ia para a última tirinha.
+O alemão é root, né?
+É, isso é...
+Aí, tipo, quando eu mudava de tirinha, aí eu ia lá no DNS e mudava para a última tirinha, entendeu?
+Aí eu come que...
+Aí eu come que preza hoje em dia, não preciso mais fazer isso, né?
+O sistema que eu tô criando, ele gera páginas HTML pôrso, então ele cria como se fosse aquelas páginas...
+Páginas da Web 1.0 Alpha, sabe?
+Só HTML, links puros e tudo só isso.
+É um sistema para o cara que quer mexer apenas com HTML e nada mais e quer basear toda a estrutura do seu site em pastas, né?
+Para simular páginas.
+Você coloca um index HTML dentro de uma pasta e essa pasta vai ter o nome da URL que você quer lá.
+Então, simples assim, baseado em eraquias literatórias.
+É tipo aquele KML, né?
+É, e além disso, como eu estou dispensando o uso de Wordpress e do interface bonitinha, que eu coloco lá publicar e eles já inserem no banco de dados,
+para substituir esse processo aí que é bem fácil, eu crio um repositório Git lá no servidor e na minha máquina eu faço a cópia desse repositório,
+e então eu coloco todo o site para ser adicionado.
+Então, qualquer alteração que eu faço no site, eu dou um Gitpush e ele já vai lá para o site.
+Então, essa é a forma de publicação que eu tô planejando.
+Você tá tendo problemas nessa questão de feed, né? De acompanhamento do conteúdo, certo?
+O sistema ainda não implementa feeds.
+Ah, sim.
+Só que eu tô imaginando que vai ser um pouco difícil isso aí, pela forma como o sistema trabalha.
+Eu também tive esse problema no HTML. Eu só mudei, eu ia continuar, sabe?
+O modelo HTML, porque eu queria simplesmente mostrar as tirinhas também.
+Eu só mudei, mas na verdade, por causa dessa questão do feed.
+Fica muito melhor para as pessoas acompanharem.
+Tendo uma ideia de projeto, ele consegue gerar o feed do projeto, né?
+Isso faz uma atualização no projeto.
+Eu já tive a ideia, só falta implementar.
+Ah, tá. Desculpe.
+Esses caras são foda, né?
+Estudei Python, mas foi só com relação à inteligência coletiva.
+Só tô compartilhando.
+Pode dar a sua opinião, cara. Fala-me mais sobre você.
+A entrevista ao contrário, né?
+É só para a inteligência coletiva, né?
+É interessante isso aí.
+Vou mexer com o Python mais disso.
+Mas assim, a linguagem eu achei muito interessante, cara.
+Tem coisas lá que se fosse fazer em PHP, Java e alguma outra coisa,
+eu ia gastar 100 linhas e eu faço em duas em Python.
+Interessante a linguagem. Desculpa aí o clima.
+A gente tá aqui pensando na amostra do Bezier.
+O Bezier.
+Ele curtiu.
+A gente tava com medo de fazer essa piada, né?
+A gente ficou com isso aí.
+Bom, vai despedir, né?
+Senão a gente fica aqui o dia todo conversando.
+É, tranquilo. Eu também tenho que cuidar dos problemas.
+Fizia compartilhar seus problemas com ele?
+Pode.
+O Skype tá aberto aí, só.
+Os problemas, não. Mas os programas estão lá no GitHub.
+Bela frase.
+Não, tranquilo.
+Beleza.
+Não sou muito de entrar no Skype, mas baixa marcar o encontro.
+Ui.
+Pensando no caso de a pessoa não conheceu o Nelson.
+E agora o hackton.com.
+E futuramente hackton.com.br.
+E passa aí o GitHub.
+GitHub é o barra Carlisson.
+K e 2s.
+É, Twitter.
+Twitter é barra hackton também.
+E eu também tenho o Twitter pessoal que é o Carlisson.
+E você ainda acha que eu não sou social.
+Eu tenho dois Twitter.
+E cara, você chegou a ver a tirinha do Nuts com o alemão, faz?
+Sim, sim. Eu vi.
+Mas tá inspirado aí no Nets.
+Não que...
+Parece alguma coisa, né?
+Não, não que é uma cópia, mano.
+Pois é, o que você achou das misturinhas?
+Só legal e pronto?
+É, legal e pronto.
+Cara, é brigadão aí, cara, pela entrevista.
+Beleza.
+Sempre que possível, posso dar minha opinião pra vocês aí.
+Agora não quer mais não.
+Eu também quero agradecer a minha pessoa, o do atributo CI,
+por ter me convidado.
+É sempre um prazer participar as podcasts e poder interagir com a galera.
+Valeu.
+Chegamos aos créditos.
+De mais um episódio da Trivo do CI Podcast.
+E agora, finalizando a trilogia de quatro episódios.
+Na verdade, é trilogia porque são três artistas, três convidados.
+E foram quatro episódios, né?
+Porque o episódio do Moza gente ficou em dois.
+E como é de prazo que eu queria finalizar com alguns recadinhos e agradecimentos do episódio?
+Começando pelo rolê podossférico.
+Sim, esse episódio tem uns rolê podossférico.
+Eu participei do Databasecast, lá falando sobre banco de dados para desenvolvimento móvel.
+Dá uma conferida lá.
+Teve a Maria do canal Maria quer viajar.
+Participou do E-Doublingcast e do podcast Criança Viála.
+E a Maria, que é a digníssima esposa do nosso Shadowland.
+Tenta bem o professor Wendell, que tem o Radim Podcast.
+Um abraço, professor Wendell.
+Tem o Rafael Ct também, que está lá no Liga E-Dou.
+E por último, e não menos importante, tem o Piscicocast, o podcast do Piscicowap.
+Que tem a Cleivinha aí, que já participou de vários episódios com a gente.
+Que ela é CTO.
+Dá uma conferida lá, o Piscicocast.
+Todos os links vão estar lá no post desse episódio.
+Você pode procurar nas plataformas e nos seus agregadores de podcast.
+O Piscicowap, Liga E-Dou.
+Radim Podcast, E-Doublingcast, podcast Criança Viála.
+E o Databasecast.
+Um abraço para todo mundo que mencionou a gente lá no Twitter.
+No Facebook.
+Agora a gente também tem conta no Instagram.
+Você segue lá a gente.
+Todos os links vão estar aí no post.
+Um abraço, Ulias.
+E até o próximo episódio.
+Um abraço.
