@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tribo do C.I. - Podcast - Simple HTML5 Player</title>
+    <style>
+        ::cue {
+          background: transparent;
+        }
+       
+        ::cue(.prompt) {
+          color: #d81159;
+          background: transparent;
+          text-shadow: 2px 2px 2px #ffbc42;
+          font-family: Menlo, Sans, Monospace;
+          font-size: 36px;
+          display: block;
+          width: 100px;
+        }
+       
+        ::cue(b) {
+          display: block;
+          width: 100px;
+        }
+        </style>
+</head>
+<body>
+    <h1>Tribo do C.I - Podcast</h1>
+    <p></p>
+    <h2>Episódio 11 - Loiane Groner</h2>
+        <video id="ep11" preload="none" style="width: 28em; background-position: center; background-repeat: no-repeat; background-image: url(http://tribodoci.net/wp-content/uploads/2011/04/tribodoci_011_loiane_vitrine.png);" controls="controls" poster="http://tribodoci.net/wp-content/uploads/2011/04/tribodoci_011_loiane_vitrine.png" >
+            <source type="audio/mpeg" src="https://media.blubrry.com/tribo_do_ci/tribodoci.net/podcast_upload/tribodoci_011_loiane_groner.mp3?_=1" />    
+            <track default kind="captions" title="Closed Caption em Português do Brasil (Original)" src="tribodoci_011_loiane_groner.vtt"  srclang="pt-BR">
+                O seu navegador não tem suporte
+            </tack>        
+        </audio>
+    <p></p>
+</body>
+</html>
