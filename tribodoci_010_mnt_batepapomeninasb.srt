@@ -1,0 +1,6948 @@
+1
+00:00:00,000 --> 00:00:02,000
+Susego, qual é?
+
+2
+00:00:02,000 --> 00:00:05,000
+Tô na hoje da fome, em briga de cachorro grande!
+
+3
+00:00:05,000 --> 00:00:06,000
+E rotas na boa!
+
+4
+00:00:06,000 --> 00:00:08,000
+Deixar o mundo ser salto pelos homens?
+
+5
+00:00:08,000 --> 00:00:10,000
+Claro que não!
+
+6
+00:00:11,000 --> 00:00:12,000
+Claro que não!
+
+7
+00:00:12,000 --> 00:00:16,000
+Você está ouvindo o Ributo CEI Podcast!
+
+8
+00:00:26,000 --> 00:00:28,000
+Ributo CEI Podcast, episódio 10.
+
+9
+00:00:28,000 --> 00:00:30,000
+Bate o papo, menina, segunda parte.
+
+10
+00:00:30,000 --> 00:00:33,000
+Porque se você bater o réu, eu quero música do Hulk já no começo.
+
+11
+00:00:33,000 --> 00:00:34,000
+Aqui é a Marcia!
+
+12
+00:00:34,000 --> 00:00:36,000
+E por que você quer música do Hulk no começo?
+
+13
+00:00:37,000 --> 00:00:41,000
+Em episódio passado, a gente...
+
+14
+00:00:41,000 --> 00:00:44,000
+Era um episódio já de...
+
+15
+00:00:44,000 --> 00:00:47,000
+De palavras de cuidar de gênero, tal.
+
+16
+00:00:47,000 --> 00:00:50,000
+E a gente tava um papo muito denso.
+
+17
+00:00:51,000 --> 00:00:52,000
+Tava muito denso.
+
+18
+00:00:52,000 --> 00:00:53,000
+Como assim? Como assim?
+
+19
+00:00:53,000 --> 00:00:55,000
+Papo muito sério.
+
+20
+00:00:55,000 --> 00:00:58,000
+Daí, a gente fez uma introdução tanto quanto...
+
+21
+00:00:58,000 --> 00:00:59,000
+João Cosas.
+
+22
+00:00:59,000 --> 00:01:00,000
+Eu não entendi.
+
+23
+00:01:00,000 --> 00:01:02,000
+Como assim? Pode explicar um pouco melhor?
+
+24
+00:01:03,000 --> 00:01:05,000
+Então, aí, tipo, foi engraçadinho, né?
+
+25
+00:01:06,000 --> 00:01:07,000
+Ah, é verdade.
+
+26
+00:01:07,000 --> 00:01:09,000
+Gente, o pessoal aqui radicalizou.
+
+27
+00:01:09,000 --> 00:01:10,000
+Como assim?
+
+28
+00:01:10,000 --> 00:01:12,000
+Sistema de informação por uma menina?
+
+29
+00:01:12,000 --> 00:01:13,000
+Então, tudo bem.
+
+30
+00:01:13,000 --> 00:01:14,000
+Eu fiz sistema de informação.
+
+31
+00:01:14,000 --> 00:01:16,000
+Mas tinha um monte de homem lá.
+
+32
+00:01:16,000 --> 00:01:19,000
+E eu acho assim, vocês foram um pouco preconceitosos.
+
+33
+00:01:19,000 --> 00:01:20,000
+Fala a verdade.
+
+34
+00:01:20,000 --> 00:01:23,000
+A gente falou que era brincadeira, mas...
+
+35
+00:01:23,000 --> 00:01:25,000
+A gente teve gente...
+
+36
+00:01:26,000 --> 00:01:27,000
+Teve uma galera que ficou irada aí.
+
+37
+00:01:27,000 --> 00:01:28,000
+Quer dizer, é uma galera nova.
+
+38
+00:01:28,000 --> 00:01:29,000
+Uma pessoa que falou, né?
+
+39
+00:01:29,000 --> 00:01:31,000
+Mas pode ter mais gente que ficou assim.
+
+40
+00:01:31,000 --> 00:01:33,000
+Então, a gente fica muito triste.
+
+41
+00:01:33,000 --> 00:01:35,000
+Não, mas no final eu achei cômico.
+
+42
+00:01:35,000 --> 00:01:37,000
+É, teve uma galera que riu pra caramba, mas...
+
+43
+00:01:37,000 --> 00:01:38,000
+Nem todo mundo.
+
+44
+00:01:38,000 --> 00:01:39,000
+Eu, por exemplo, adoro piadinha.
+
+45
+00:01:39,000 --> 00:01:41,000
+Então, assim, eu achei legal.
+
+46
+00:01:41,000 --> 00:01:42,000
+Voltamos pro podcast.
+
+47
+00:01:42,000 --> 00:01:44,000
+Nesse podcast, vamos continuar o bate-papo
+
+48
+00:01:44,000 --> 00:01:46,000
+que aconteceu na R3TI.
+
+49
+00:01:46,000 --> 00:01:48,000
+Goiânia, no dia 12 de fevereiro de 2011,
+
+50
+00:01:48,000 --> 00:01:51,000
+com a Aira Sandyer e o grupo MNT.
+
+51
+00:01:51,000 --> 00:01:53,000
+Era um evento simultâneo,
+
+52
+00:01:53,000 --> 00:01:54,000
+o Arduino Hack Day.
+
+53
+00:01:54,000 --> 00:01:57,000
+E lá nesse bate-papo, tava a Aira Sandyer,
+
+54
+00:01:57,000 --> 00:01:58,000
+da Global Curde.
+
+55
+00:01:58,000 --> 00:01:59,000
+Ela é evangelista de Chava.
+
+56
+00:01:59,000 --> 00:02:00,000
+Tava grupo MNT.
+
+57
+00:02:00,000 --> 00:02:01,000
+Eu!
+
+58
+00:02:01,000 --> 00:02:02,000
+A Marcia.
+
+59
+00:02:02,000 --> 00:02:03,000
+A Mariane.
+
+60
+00:02:03,000 --> 00:02:04,000
+Da porta 22.
+
+61
+00:02:04,000 --> 00:02:06,000
+Cleviane, que ficou griladaça aqui.
+
+62
+00:02:06,000 --> 00:02:07,000
+Beijo, Cleviane.
+
+63
+00:02:07,000 --> 00:02:08,000
+Querida.
+
+64
+00:02:08,000 --> 00:02:10,000
+Ficou griladaça com a nossa introdução.
+
+65
+00:02:10,000 --> 00:02:11,000
+Teve a Flávia Soares,
+
+66
+00:02:11,000 --> 00:02:13,000
+que ela só se apresentou,
+
+67
+00:02:13,000 --> 00:02:15,000
+mas ela não falou...
+
+68
+00:02:15,000 --> 00:02:17,000
+A Flávia gosta de fazer, não de falar.
+
+69
+00:02:17,000 --> 00:02:19,000
+Ah, bom, tá certo.
+
+70
+00:02:20,000 --> 00:02:22,000
+Mas assim, a Flávia tem um lugar cativo
+
+71
+00:02:22,000 --> 00:02:23,000
+no Tributo 6, sabia?
+
+72
+00:02:23,000 --> 00:02:24,000
+Por quê?
+
+73
+00:02:24,000 --> 00:02:25,000
+Ela foi a primeira pessoa
+
+74
+00:02:25,000 --> 00:02:26,000
+que comentou a respeito do podcast.
+
+75
+00:02:26,000 --> 00:02:28,000
+Comentou o post do primeiro episódio.
+
+76
+00:02:28,000 --> 00:02:29,000
+Ah, que gracinha, Flávia.
+
+77
+00:02:29,000 --> 00:02:30,000
+Que legal.
+
+78
+00:02:30,000 --> 00:02:31,000
+Eu fui qual?
+
+79
+00:02:31,000 --> 00:02:32,000
+Acho que foi a partir de segundo episódio.
+
+80
+00:02:32,000 --> 00:02:34,000
+Voltando aqui das pessoas que estavam lá,
+
+81
+00:02:34,000 --> 00:02:36,000
+teve a Ingrid, o Lucas Fragomen,
+
+82
+00:02:36,000 --> 00:02:37,000
+que a esposa dele trabalha
+
+83
+00:02:37,000 --> 00:02:40,000
+com equidade de gênero na Caixa Econômica.
+
+84
+00:02:40,000 --> 00:02:41,000
+E o Lucas Emmanuel.
+
+85
+00:02:41,000 --> 00:02:42,000
+Qual ele?
+
+86
+00:02:42,000 --> 00:02:43,000
+Você esquecia alguém?
+
+87
+00:02:43,000 --> 00:02:44,000
+Foi um Rafael que ajudou a gente
+
+88
+00:02:44,000 --> 00:02:45,000
+na organização desse bate-papo.
+
+89
+00:02:45,000 --> 00:02:46,000
+Ele sugeriu a ideia.
+
+90
+00:02:46,000 --> 00:02:48,000
+Rafael, obrigado, tá?
+
+91
+00:02:48,000 --> 00:02:49,000
+Depois da 3TI.
+
+92
+00:02:49,000 --> 00:02:52,000
+Que também é uma nova parceira do grupo Anil.
+
+93
+00:02:52,000 --> 00:02:53,000
+Então a gente no episódio passado
+
+94
+00:02:53,000 --> 00:02:55,000
+a gente tinha prometido a segunda parte
+
+95
+00:02:55,000 --> 00:02:56,000
+para o mesmo mês.
+
+96
+00:02:56,000 --> 00:02:57,000
+A gente não conseguiu.
+
+97
+00:02:57,000 --> 00:02:59,000
+Vamos continuar o combate-papo, então.
+
+98
+00:02:59,000 --> 00:03:01,000
+Tá mega-vindos.
+
+99
+00:03:18,000 --> 00:03:23,000
+Tem uma coisa que eu acho que é importante,
+
+100
+00:03:23,000 --> 00:03:25,000
+que eu vejo muitas vezes
+
+101
+00:03:25,000 --> 00:03:27,000
+uma capacidade organizacional feminina.
+
+102
+00:03:27,000 --> 00:03:29,000
+De falar, olha, vamos organizar,
+
+103
+00:03:29,000 --> 00:03:32,000
+vamos planejar e ter, de alguma maneira,
+
+104
+00:03:32,000 --> 00:03:33,000
+isso daí.
+
+105
+00:03:33,000 --> 00:03:35,000
+E acaba refletindo em várias situações.
+
+106
+00:03:35,000 --> 00:03:36,000
+Eu conheço várias pessoas que falam
+
+107
+00:03:36,000 --> 00:03:38,000
+que há 5 anos eu vou casar,
+
+108
+00:03:38,000 --> 00:03:40,000
+depois de 2 eu vou ter filho.
+
+109
+00:03:40,000 --> 00:03:42,000
+Depois, engraçado essa capacidade,
+
+110
+00:03:42,000 --> 00:03:43,000
+eu conversei com a Ingrid.
+
+111
+00:03:43,000 --> 00:03:44,000
+Ela falou para mim, não.
+
+112
+00:03:44,000 --> 00:03:46,000
+Quando eu entrei na faculdade,
+
+113
+00:03:46,000 --> 00:03:49,000
+eu sabia que iria prestar concurso, etc.
+
+114
+00:03:49,000 --> 00:03:51,000
+E ter uma meta, um planejamento,
+
+115
+00:03:51,000 --> 00:03:53,000
+acho que a metade do fator é o sucesso.
+
+116
+00:03:53,000 --> 00:03:55,000
+Se você sabe onde você quer chegar,
+
+117
+00:03:55,000 --> 00:03:58,000
+é uma boa forma de você começar o caminho.
+
+118
+00:03:58,000 --> 00:04:00,000
+Se você não tem a menor ideia
+
+119
+00:04:00,000 --> 00:04:01,000
+onde você quer chegar,
+
+120
+00:04:01,000 --> 00:04:05,000
+é uma maneira mais difícil de você encontrar um caminho.
+
+121
+00:04:05,000 --> 00:04:07,000
+Então, eu acho hoje que para a mulher,
+
+122
+00:04:07,000 --> 00:04:09,000
+tem uma coisa que é importante,
+
+123
+00:04:09,000 --> 00:04:11,000
+que é falar, olha, de alguma maneira,
+
+124
+00:04:11,000 --> 00:04:13,000
+eu sinto que tem alguma dificuldade
+
+125
+00:04:13,000 --> 00:04:14,000
+no mercado de trabalho,
+
+126
+00:04:14,000 --> 00:04:16,000
+eu estou tendo um empecilho,
+
+127
+00:04:16,000 --> 00:04:18,000
+e olhar isso bem racionalmente.
+
+128
+00:04:18,000 --> 00:04:20,000
+E olhar e falar o que eu preciso
+
+129
+00:04:20,000 --> 00:04:22,000
+para entrar na área, por exemplo, de programação.
+
+130
+00:04:22,000 --> 00:04:24,000
+Eu quero trabalhar com java.
+
+131
+00:04:24,000 --> 00:04:25,000
+Eu quero trabalhar com java,
+
+132
+00:04:25,000 --> 00:04:27,000
+então preciso saber java,
+
+133
+00:04:27,000 --> 00:04:30,000
+preciso de um tempo de planejamento na minha vida particular,
+
+134
+00:04:30,000 --> 00:04:31,000
+para aprender java,
+
+135
+00:04:31,000 --> 00:04:33,000
+para tirar uma certificação java e enfim,
+
+136
+00:04:33,000 --> 00:04:34,000
+coisas desse tipo.
+
+137
+00:04:34,000 --> 00:04:38,000
+Mas só isso ainda não é um fator suficiente
+
+138
+00:04:38,000 --> 00:04:40,000
+para a gente ter sucesso.
+
+139
+00:04:45,000 --> 00:04:46,000
+A segunda parte de sucesso
+
+140
+00:04:46,000 --> 00:04:48,000
+é a habilidade de comunicação,
+
+141
+00:04:48,000 --> 00:04:50,000
+de como a gente consegue se comunicar
+
+142
+00:04:50,000 --> 00:04:52,000
+e como a gente consegue valorizar o nosso próprio trabalho.
+
+143
+00:04:52,000 --> 00:04:53,000
+Hoje, na hora que ela foi me falar,
+
+144
+00:04:53,000 --> 00:04:55,000
+ela falou, ah, aloyane, né?
+
+145
+00:04:55,000 --> 00:04:58,000
+Aloyane é um outro exemplo de umas poucas mulheres
+
+146
+00:04:58,000 --> 00:05:01,000
+que conseguem fazer uma auto promoção saudável.
+
+147
+00:05:01,000 --> 00:05:02,000
+Isso é muito raro.
+
+148
+00:05:02,000 --> 00:05:04,000
+Quando eu decidi mostrar aquele vídeo para vocês,
+
+149
+00:05:04,000 --> 00:05:07,000
+uma das coisas que mais me chocou nesse vídeo é isso.
+
+150
+00:05:07,000 --> 00:05:10,000
+É a baixa capacidade de auto promoção que a mulher tem.
+
+151
+00:05:10,000 --> 00:05:12,000
+A mulher, ela consegue subir no salto,
+
+152
+00:05:12,000 --> 00:05:14,000
+colocar uma maquiagem, chegar em um lugar
+
+153
+00:05:14,000 --> 00:05:16,000
+e falar, eu sou fantástica.
+
+154
+00:05:16,000 --> 00:05:18,000
+Mas ela não consegue normalmente
+
+155
+00:05:18,000 --> 00:05:20,000
+fazer a mesma coisa profissionalmente.
+
+156
+00:05:20,000 --> 00:05:23,000
+Existe aí uma dificuldade na mulher, sabe?
+
+157
+00:05:23,000 --> 00:05:25,000
+Falar, ir lá para o Twitter
+
+158
+00:05:25,000 --> 00:05:26,000
+ou para a rede social
+
+159
+00:05:26,000 --> 00:05:29,000
+e fazer uma auto promoção do seu conhecimento.
+
+160
+00:05:29,000 --> 00:05:31,000
+Quantas mulheres têm blog, por exemplo?
+
+161
+00:05:31,000 --> 00:05:33,000
+Quantos homens têm blog?
+
+162
+00:05:33,000 --> 00:05:34,000
+O que é um blog?
+
+163
+00:05:34,000 --> 00:05:36,000
+A não ser uma auto divulgação.
+
+164
+00:05:36,000 --> 00:05:38,000
+É claro que essa auto divulgação,
+
+165
+00:05:38,000 --> 00:05:40,000
+ela sempre tem uma propagação de conhecimento
+
+166
+00:05:40,000 --> 00:05:42,000
+e outras coisas boas.
+
+167
+00:05:42,000 --> 00:05:44,000
+Mas é uma maneira de fazer a auto promoção,
+
+168
+00:05:44,000 --> 00:05:46,000
+de mostrar para o mundo o que você sabe.
+
+169
+00:05:46,000 --> 00:05:48,000
+Então, acho que hoje uma das coisas
+
+170
+00:05:48,000 --> 00:05:50,000
+que no universo feminino,
+
+171
+00:05:50,000 --> 00:05:52,000
+como o estímulo que pode ser dado em casa
+
+172
+00:05:52,000 --> 00:05:53,000
+e tudo isso,
+
+173
+00:05:53,000 --> 00:05:55,000
+é o entendimento
+
+174
+00:05:55,000 --> 00:05:57,000
+desse fator comunicação.
+
+175
+00:05:57,000 --> 00:05:59,000
+Conseguir se comunicar hierarquicamente,
+
+176
+00:05:59,000 --> 00:06:01,000
+conseguir pedir um aumento,
+
+177
+00:06:01,000 --> 00:06:03,000
+conseguir demonstrar uma insatisfação.
+
+178
+00:06:03,000 --> 00:06:05,000
+Eu vejo hoje um dos fatores positivos
+
+179
+00:06:05,000 --> 00:06:07,000
+de se contratar uma mulher,
+
+180
+00:06:07,000 --> 00:06:08,000
+é que pegue uma mulher
+
+181
+00:06:08,000 --> 00:06:10,000
+e coloca ela para trabalhar com struts.
+
+182
+00:06:10,000 --> 00:06:11,000
+Ela não vai falar,
+
+183
+00:06:11,000 --> 00:06:13,000
+não quero trabalhar com essa porcaria.
+
+184
+00:06:13,000 --> 00:06:14,000
+Você pega um homem,
+
+185
+00:06:14,000 --> 00:06:15,000
+põe ele para trabalhar com struts,
+
+186
+00:06:15,000 --> 00:06:17,000
+ele fala, não quero trabalhar com essa porcaria.
+
+187
+00:06:17,000 --> 00:06:18,000
+Ele tem uma voz ativa
+
+188
+00:06:18,000 --> 00:06:20,000
+de falar o que ele quer, o que ele não quer.
+
+189
+00:06:20,000 --> 00:06:21,000
+E a mulher, muitas vezes,
+
+190
+00:06:21,000 --> 00:06:23,000
+conta como um ponto favorável
+
+191
+00:06:23,000 --> 00:06:24,000
+para a contratação.
+
+192
+00:06:24,000 --> 00:06:26,000
+Você põe ela para trabalhar com um negócio lá,
+
+193
+00:06:26,000 --> 00:06:27,000
+é difícil a mulher reclamar.
+
+194
+00:06:27,000 --> 00:06:29,000
+Normalmente, ela fica naquele cantinho ali,
+
+195
+00:06:29,000 --> 00:06:31,000
+ela não vai pedir aumento.
+
+196
+00:06:31,000 --> 00:06:33,000
+Então, acho que a capacidade de se comunicar,
+
+197
+00:06:33,000 --> 00:06:35,000
+tanto para o marketing pessoal,
+
+198
+00:06:35,000 --> 00:06:37,000
+quanto para comunicar os seus desejos
+
+199
+00:06:37,000 --> 00:06:39,000
+ou o que ela está se afastando ou não na sua meta,
+
+200
+00:06:39,000 --> 00:06:41,000
+é um fator importante de sucesso
+
+201
+00:06:41,000 --> 00:06:43,000
+que a gente pode contribuir
+
+202
+00:06:43,000 --> 00:06:44,000
+no Mulheres na TI,
+
+203
+00:06:44,000 --> 00:06:47,000
+propagando isso, valorizando as mulheres,
+
+204
+00:06:47,000 --> 00:06:49,000
+conversando com nossas amigas,
+
+205
+00:06:49,000 --> 00:06:51,000
+encontrando formas de fazer isso.
+
+206
+00:07:02,000 --> 00:07:04,000
+Ela ganha maquiagem.
+
+207
+00:07:04,000 --> 00:07:06,000
+É engraçado isso,
+
+208
+00:07:06,000 --> 00:07:08,000
+porque na hora que chega na minha casa,
+
+209
+00:07:08,000 --> 00:07:10,000
+a Maria é mais velha e o Rafael é mais novo.
+
+210
+00:07:10,000 --> 00:07:12,000
+A hora que chega a maquiagem,
+
+211
+00:07:12,000 --> 00:07:14,000
+chegou um brinquedinho de maquiagem,
+
+212
+00:07:14,000 --> 00:07:15,000
+você fala, o que é?
+
+213
+00:07:15,000 --> 00:07:17,000
+Vamos abstrair a maquiagem.
+
+214
+00:07:17,000 --> 00:07:20,000
+A maquiagem, ela é um conjunto de tintas
+
+215
+00:07:20,000 --> 00:07:21,000
+que estão ali,
+
+216
+00:07:21,000 --> 00:07:23,000
+que melhor do que pintar o papel,
+
+217
+00:07:23,000 --> 00:07:25,000
+você pode pintar você mesmo.
+
+218
+00:07:25,000 --> 00:07:26,000
+Olha a coisa maravilhosa,
+
+219
+00:07:26,000 --> 00:07:28,000
+é uma tinta que você passa em você mesmo.
+
+220
+00:07:28,000 --> 00:07:31,000
+E aí, aquilo chega e a Maria pinta aí,
+
+221
+00:07:31,000 --> 00:07:32,000
+brinca com essa tinta,
+
+222
+00:07:32,000 --> 00:07:34,000
+está em fio, dedo, estraga,
+
+223
+00:07:34,000 --> 00:07:36,000
+faça o que você quer com essa tinta.
+
+224
+00:07:36,000 --> 00:07:37,000
+E ao mesmo tempo, para o Rafael,
+
+225
+00:07:37,000 --> 00:07:38,000
+você fala, desculpa,
+
+226
+00:07:38,000 --> 00:07:40,000
+essa tinta aqui você não pode brincar, não.
+
+227
+00:07:40,000 --> 00:07:42,000
+Pega aquelas outras tintas chatas
+
+228
+00:07:42,000 --> 00:07:44,000
+que você só pinta no papel.
+
+229
+00:07:44,000 --> 00:07:46,000
+Essa tinta aqui que pode pintar em você,
+
+230
+00:07:46,000 --> 00:07:48,000
+não.
+
+231
+00:07:48,000 --> 00:07:50,000
+Então, é muito engraçado que essa cultura
+
+232
+00:07:50,000 --> 00:07:52,000
+vai para os dois lados,
+
+233
+00:07:52,000 --> 00:07:53,000
+tem dos dois filhos,
+
+234
+00:07:53,000 --> 00:07:55,000
+eu até vejo o Rafael mais prejudicado,
+
+235
+00:07:55,000 --> 00:07:57,000
+porque eu falo, por que ele não pode brincar de boneca?
+
+236
+00:07:57,000 --> 00:07:59,000
+Por que ele não vai colocar o filho dele
+
+237
+00:07:59,000 --> 00:08:01,000
+para dormir, quando o filho dele crescer?
+
+238
+00:08:01,000 --> 00:08:03,000
+Por que ele não vai aprender
+
+239
+00:08:03,000 --> 00:08:04,000
+que vai cozinhar?
+
+240
+00:08:04,000 --> 00:08:06,000
+Então, nesse caso, é engraçado que
+
+241
+00:08:06,000 --> 00:08:08,000
+para poder ter esse estímulo,
+
+242
+00:08:08,000 --> 00:08:09,000
+você precisa ter um marido
+
+243
+00:08:09,000 --> 00:08:11,000
+que vai contribuir nesse estímulo.
+
+244
+00:08:11,000 --> 00:08:13,000
+Eu jamais poderia fazer o que eu faço
+
+245
+00:08:13,000 --> 00:08:15,000
+se o Vinícius não cuidasse das crianças,
+
+246
+00:08:15,000 --> 00:08:16,000
+eu não cuidasse do jantar,
+
+247
+00:08:16,000 --> 00:08:18,000
+eu não fizesse do mercado.
+
+248
+00:08:18,000 --> 00:08:20,000
+Eu consigo fazer as coisas que eu faço
+
+249
+00:08:20,000 --> 00:08:23,000
+no Twitter, no blog, na Global Code,
+
+250
+00:08:23,000 --> 00:08:26,000
+porque também eu não estou com a carga toda
+
+251
+00:08:26,000 --> 00:08:27,000
+em cima de mim.
+
+252
+00:08:27,000 --> 00:08:30,000
+Tem uma pessoa que está não só fazendo,
+
+253
+00:08:30,000 --> 00:08:33,000
+mas mostrando uma nova realidade
+
+254
+00:08:33,000 --> 00:08:37,000
+para as crianças que estão em desenvolvimento,
+
+255
+00:08:37,000 --> 00:08:39,000
+aquilo ali está mostrando para o Rafael.
+
+256
+00:08:39,000 --> 00:08:40,000
+Olha, o homem também cozinha
+
+257
+00:08:40,000 --> 00:08:42,000
+e está mostrando para a Maria.
+
+258
+00:08:42,000 --> 00:08:43,000
+Olha que legal!
+
+259
+00:08:43,000 --> 00:08:45,000
+O marido também não é uma coisa
+
+260
+00:08:45,000 --> 00:08:46,000
+que eu também estou fazendo.
+
+261
+00:08:54,000 --> 00:08:56,000
+Engaçado você me trouxe a mente agora
+
+262
+00:08:56,000 --> 00:08:58,000
+do outro lado da moeda também,
+
+263
+00:08:58,000 --> 00:09:00,000
+de qual existimos que você não quer dar
+
+264
+00:09:00,000 --> 00:09:01,000
+para o seu filho, homem.
+
+265
+00:09:01,000 --> 00:09:02,000
+Isso é uma coisa assim,
+
+266
+00:09:02,000 --> 00:09:04,000
+para o homem talvez seja mais difícil
+
+267
+00:09:04,000 --> 00:09:05,000
+lidar com isso.
+
+268
+00:09:05,000 --> 00:09:07,000
+A imagem de eu dando um carrinho
+
+269
+00:09:07,000 --> 00:09:08,000
+para a minha filha brincar
+
+270
+00:09:08,000 --> 00:09:10,000
+é um milhão de vezes menos séria
+
+271
+00:09:10,000 --> 00:09:13,000
+do que dar maquiagem para o meu filho brincar.
+
+272
+00:09:13,000 --> 00:09:14,000
+Mas você vê hoje
+
+273
+00:09:14,000 --> 00:09:15,000
+talvez essa mesma discussão
+
+274
+00:09:15,000 --> 00:09:16,000
+que a gente está tendo aqui agora,
+
+275
+00:09:16,000 --> 00:09:18,000
+talvez homens, cabeleireiros,
+
+276
+00:09:18,000 --> 00:09:20,000
+seja um tendo alto também,
+
+277
+00:09:20,000 --> 00:09:21,000
+e essa questão do preconceito também
+
+278
+00:09:21,000 --> 00:09:22,000
+na área da moda.
+
+279
+00:09:22,000 --> 00:09:24,000
+Eu, assim, na academia
+
+280
+00:09:24,000 --> 00:09:25,000
+que a minha esposa faz,
+
+281
+00:09:25,000 --> 00:09:26,000
+onde ela está começando com cara,
+
+282
+00:09:26,000 --> 00:09:27,000
+eu falo, quem é esse cara?
+
+283
+00:09:27,000 --> 00:09:28,000
+Da lá é meu cabeleireiro.
+
+284
+00:09:28,000 --> 00:09:30,000
+Eu já era meio torto assim,
+
+285
+00:09:30,000 --> 00:09:31,000
+eu falei assim, ah não,
+
+286
+00:09:31,000 --> 00:09:32,000
+pode conversar à vontade com ele.
+
+287
+00:09:32,000 --> 00:09:33,000
+Mas nada a ver,
+
+288
+00:09:33,000 --> 00:09:34,000
+o cara é macho pra caramba,
+
+289
+00:09:34,000 --> 00:09:36,000
+já vi na rua com mulher.
+
+290
+00:09:36,000 --> 00:09:37,000
+A gente falou assim,
+
+291
+00:09:37,000 --> 00:09:38,000
+é de fato um preconceito.
+
+292
+00:09:38,000 --> 00:09:39,000
+Entrei em muita questão
+
+293
+00:09:39,000 --> 00:09:40,000
+que talvez a gente
+
+294
+00:09:40,000 --> 00:09:41,000
+não tem mais que lidar
+
+295
+00:09:41,000 --> 00:09:42,000
+com os estímulos,
+
+296
+00:09:42,000 --> 00:09:43,000
+agora em diante,
+
+297
+00:09:43,000 --> 00:09:44,000
+mas a gente já tem que lidar
+
+298
+00:09:44,000 --> 00:09:45,000
+com os preconceitos,
+
+299
+00:09:45,000 --> 00:09:46,000
+os nossos,
+
+300
+00:09:46,000 --> 00:09:47,000
+os anteriores.
+
+301
+00:09:47,000 --> 00:09:48,000
+Ainda vão persistir
+
+302
+00:09:48,000 --> 00:09:49,000
+durante 50 anos.
+
+303
+00:09:49,000 --> 00:09:50,000
+Certamente, né?
+
+304
+00:09:50,000 --> 00:09:51,000
+Se os dias eu falei que meu sonho
+
+305
+00:09:51,000 --> 00:09:52,000
+que eu queria,
+
+306
+00:09:52,000 --> 00:09:54,000
+que eu tenho um anel de noivado,
+
+307
+00:09:54,000 --> 00:09:56,000
+acho que faz mais sentido
+
+308
+00:09:56,000 --> 00:09:57,000
+botar no dedo o anelar.
+
+309
+00:09:57,000 --> 00:09:58,000
+Quero botar no dedão.
+
+310
+00:09:58,000 --> 00:09:59,000
+Meu sogro é pra pensar
+
+311
+00:09:59,000 --> 00:10:00,000
+que coisa de viada é essa.
+
+312
+00:10:00,000 --> 00:10:02,000
+Tem de dar o botão o anel no dedão,
+
+313
+00:10:02,000 --> 00:10:03,000
+bicho.
+
+314
+00:10:03,000 --> 00:10:04,000
+Mas tipo assim,
+
+315
+00:10:04,000 --> 00:10:05,000
+são preconceitos,
+
+316
+00:10:05,000 --> 00:10:06,000
+esses preconceitos existem
+
+317
+00:10:06,000 --> 00:10:07,000
+na nossa sociedade
+
+318
+00:10:07,000 --> 00:10:08,000
+em várias áreas,
+
+319
+00:10:08,000 --> 00:10:09,000
+e ele existe sim
+
+320
+00:10:09,000 --> 00:10:10,000
+com um preconceito
+
+321
+00:10:10,000 --> 00:10:11,000
+contra-gênero também.
+
+322
+00:10:11,000 --> 00:10:12,000
+A gente não vê isso
+
+323
+00:10:12,000 --> 00:10:13,000
+porque ele é velado,
+
+324
+00:10:13,000 --> 00:10:14,000
+que ele é um preconceito
+
+325
+00:10:14,000 --> 00:10:15,000
+que é politicamente incorreto,
+
+326
+00:10:15,000 --> 00:10:16,000
+que nem preconceito racial também.
+
+327
+00:10:16,000 --> 00:10:17,000
+Ele existe,
+
+328
+00:10:17,000 --> 00:10:18,000
+você não vê mulheres,
+
+329
+00:10:18,000 --> 00:10:19,000
+mas também não vê negros
+
+330
+00:10:19,000 --> 00:10:20,000
+em cargos de poder.
+
+331
+00:10:20,000 --> 00:10:21,000
+Então,
+
+332
+00:10:21,000 --> 00:10:22,000
+que são sérias
+
+333
+00:10:22,000 --> 00:10:23,000
+que não mudaram.
+
+334
+00:10:23,000 --> 00:10:24,000
+Já mudaram.
+
+335
+00:10:39,000 --> 00:10:40,000
+Mas é muito interessante,
+
+336
+00:10:40,000 --> 00:10:41,000
+ela falou da avó
+
+337
+00:10:41,000 --> 00:10:42,000
+e da avó,
+
+338
+00:10:42,000 --> 00:10:43,000
+e a minha bisavó,
+
+339
+00:10:43,000 --> 00:10:45,000
+ela teve uma iluminação
+
+340
+00:10:45,000 --> 00:10:46,000
+naquele momento,
+
+341
+00:10:46,000 --> 00:10:50,000
+acho que ela era de 1908, 1910,
+
+342
+00:10:50,000 --> 00:10:51,000
+e ela teve três filhas mulheres,
+
+343
+00:10:51,000 --> 00:10:53,000
+e quando as filhas nasceram,
+
+344
+00:10:53,000 --> 00:10:55,000
+ela decidiu que as três filhas
+
+345
+00:10:55,000 --> 00:10:56,000
+tinham que ir para a universidade,
+
+346
+00:10:56,000 --> 00:10:57,000
+imagina que loucura,
+
+347
+00:10:57,000 --> 00:10:59,000
+as filhas indo para a universidade.
+
+348
+00:10:59,000 --> 00:11:00,000
+E ela fez o que fez,
+
+349
+00:11:00,000 --> 00:11:01,000
+eles não tinham muito dinheiro,
+
+350
+00:11:01,000 --> 00:11:02,000
+todas aprenderam a costurar,
+
+351
+00:11:02,000 --> 00:11:03,000
+a bordar,
+
+352
+00:11:03,000 --> 00:11:04,000
+e todas aquelas coisas,
+
+353
+00:11:04,000 --> 00:11:05,000
+mas ela falou,
+
+354
+00:11:05,000 --> 00:11:06,000
+vai para as três para a universidade.
+
+355
+00:11:06,000 --> 00:11:07,000
+E aí elas acabaram entrando,
+
+356
+00:11:07,000 --> 00:11:09,000
+as três no custo de física e química.
+
+357
+00:11:09,000 --> 00:11:10,000
+Não são três emãs,
+
+358
+00:11:10,000 --> 00:11:12,000
+as três são firmadas em física,
+
+359
+00:11:12,000 --> 00:11:14,000
+as três seguiram carreira acadêmica,
+
+360
+00:11:14,000 --> 00:11:16,000
+as três casaram com físicos,
+
+361
+00:11:16,000 --> 00:11:17,000
+e a minha avó trabalha até hoje,
+
+362
+00:11:17,000 --> 00:11:18,000
+ela é diretora do Instituto,
+
+363
+00:11:18,000 --> 00:11:20,000
+fundou a Universidade Federal de São Carlos,
+
+364
+00:11:20,000 --> 00:11:22,000
+e um monte de outras coisas.
+
+365
+00:11:22,000 --> 00:11:24,000
+Então, eu acho que é muito engraçado,
+
+366
+00:11:24,000 --> 00:11:25,000
+tudo de volta,
+
+367
+00:11:25,000 --> 00:11:29,000
+a gente volta para coisa de mais do que a sociedade,
+
+368
+00:11:29,000 --> 00:11:31,000
+o que a sociedade permite,
+
+369
+00:11:31,000 --> 00:11:33,000
+o que a sociedade não permite,
+
+370
+00:11:33,000 --> 00:11:35,000
+tem o que a gente pode fazer na nossa vida
+
+371
+00:11:35,000 --> 00:11:36,000
+e na vida das pessoas
+
+372
+00:11:36,000 --> 00:11:38,000
+que estão diretamente envolvidas com a gente.
+
+373
+00:11:38,000 --> 00:11:39,000
+Então, eventualmente,
+
+374
+00:11:39,000 --> 00:11:42,000
+a gente não consegue mudar o Brasil,
+
+375
+00:11:42,000 --> 00:11:44,000
+mas a gente consegue mudar a nossa família,
+
+376
+00:11:44,000 --> 00:11:46,000
+a gente consegue mudar a caixa econômica,
+
+377
+00:11:46,000 --> 00:11:48,000
+a gente consegue mudar a R3,
+
+378
+00:11:48,000 --> 00:11:52,000
+a gente consegue mudar o escopo menor.
+
+379
+00:11:52,000 --> 00:11:54,000
+Eu acho que é fundamental que a gente acredite
+
+380
+00:11:54,000 --> 00:11:56,000
+naquela mudança de escopo,
+
+381
+00:11:56,000 --> 00:11:58,000
+mesmo que seja mudar a maneira
+
+382
+00:11:58,000 --> 00:12:00,000
+como seu filho e sua filha vão pensar
+
+383
+00:12:00,000 --> 00:12:04,000
+e propagar isso daí de outras maneiras.
+
+384
+00:12:04,000 --> 00:12:05,000
+Então, você vê hoje,
+
+385
+00:12:05,000 --> 00:12:08,000
+ela falou lá, olha, dos 190 países
+
+386
+00:12:08,000 --> 00:12:11,000
+tinham 9 mulheres na presidência.
+
+387
+00:12:11,000 --> 00:12:13,000
+Não sei se aquele vídeo deve ter sido no antes do Brasil,
+
+388
+00:12:13,000 --> 00:12:16,000
+capaz que hoje nós já tenhamos 10 mulheres na presidência.
+
+389
+00:12:16,000 --> 00:12:19,000
+Não quero falar bem de PT, mal de PT, etc.,
+
+390
+00:12:19,000 --> 00:12:22,000
+mas pensando exclusivamente no papel da mulher,
+
+391
+00:12:22,000 --> 00:12:24,000
+nós chegamos no momento hoje no Brasil
+
+392
+00:12:24,000 --> 00:12:26,000
+que a gente tem a primeira presidente mulher
+
+393
+00:12:26,000 --> 00:12:28,000
+e que é um negócio muito legal.
+
+394
+00:12:28,000 --> 00:12:29,000
+Então, acho que a mudança
+
+395
+00:12:29,000 --> 00:12:30,000
+ela está acontecendo mesmo
+
+396
+00:12:30,000 --> 00:12:32,000
+e cada um desses exemplos
+
+397
+00:12:32,000 --> 00:12:35,000
+eles são capazes de propagar mais um layer aí.
+
+398
+00:12:35,000 --> 00:12:37,000
+A gente consegue expandir,
+
+399
+00:12:37,000 --> 00:12:40,000
+não gosto muito da coisa de levantar uma bandeira também,
+
+400
+00:12:40,000 --> 00:12:41,000
+ser aquela minoria e falar,
+
+401
+00:12:41,000 --> 00:12:42,000
+então tá bom,
+
+402
+00:12:42,000 --> 00:12:44,000
+então agora só vou contratar mulheres.
+
+403
+00:12:44,000 --> 00:12:46,000
+Não intencionalmente,
+
+404
+00:12:46,000 --> 00:12:47,000
+mas hoje, por exemplo,
+
+405
+00:12:47,000 --> 00:12:48,000
+a pessoa que é responsável
+
+406
+00:12:48,000 --> 00:12:50,000
+com todos os sistemas da Global Code
+
+407
+00:12:50,000 --> 00:12:51,000
+é uma mulher.
+
+408
+00:12:51,000 --> 00:12:53,000
+A Ana Brantes, que cuida de tudo aquilo,
+
+409
+00:12:53,000 --> 00:12:54,000
+quando eu cheguei no JustJab,
+
+410
+00:12:54,000 --> 00:12:56,000
+eu falei, olha, quantas pessoas
+
+411
+00:12:56,000 --> 00:12:57,000
+acham que tem por trás
+
+412
+00:12:57,000 --> 00:12:58,000
+o sistema da Global Code?
+
+413
+00:12:58,000 --> 00:12:59,000
+As pessoas começaram a falar,
+
+414
+00:12:59,000 --> 00:13:00,000
+um falou 15,
+
+415
+00:13:00,000 --> 00:13:01,000
+o outro falou 50,
+
+416
+00:13:01,000 --> 00:13:02,000
+eu falei, olha, são duas,
+
+417
+00:13:02,000 --> 00:13:04,000
+a Elaine e a Ana Brantes.
+
+418
+00:13:04,000 --> 00:13:06,000
+Hoje, tem muito mais instrutores homologados,
+
+419
+00:13:06,000 --> 00:13:08,000
+mas no meio de 12 instrutores ativos,
+
+420
+00:13:08,000 --> 00:13:10,000
+tem duas mulheres.
+
+421
+00:13:10,000 --> 00:13:12,000
+Eu não sou mais uma instrutorativa,
+
+422
+00:13:12,000 --> 00:13:14,000
+mas tem outras duas mulheres
+
+423
+00:13:14,000 --> 00:13:15,000
+que estão fazendo,
+
+424
+00:13:15,000 --> 00:13:17,000
+que estão em sala de aula e tudo isso.
+
+425
+00:13:17,000 --> 00:13:19,000
+Então, assim, apesar de ver essa minoria,
+
+426
+00:13:19,000 --> 00:13:21,000
+acreditar nesses números,
+
+427
+00:13:21,000 --> 00:13:23,000
+eu acredito que tá muito mais dentro da gente
+
+428
+00:13:23,000 --> 00:13:25,000
+do que exclusivamente,
+
+429
+00:13:25,000 --> 00:13:27,000
+acho que às vezes a gente deixa
+
+430
+00:13:27,000 --> 00:13:28,000
+de procurar as oportunidades,
+
+431
+00:13:28,000 --> 00:13:29,000
+deixa de ter coragem
+
+432
+00:13:29,000 --> 00:13:30,000
+para lutar por essas coisas,
+
+433
+00:13:30,000 --> 00:13:32,000
+mas por uma coisa que tá em nós,
+
+434
+00:13:32,000 --> 00:13:34,000
+ou pertinho da onde a gente vive,
+
+435
+00:13:34,000 --> 00:13:37,000
+do que numa impossibilidade real mesmo.
+
+436
+00:13:37,000 --> 00:13:38,000
+Acho que não existe impossibilidade.
+
+437
+00:13:38,000 --> 00:13:40,000
+Qualquer mulher que quiser
+
+438
+00:13:40,000 --> 00:13:42,000
+vai ser bem sucedida na área de TI.
+
+439
+00:13:42,000 --> 00:13:43,000
+Não posso falar nas outras áreas,
+
+440
+00:13:43,000 --> 00:13:44,000
+porque as outras áreas
+
+441
+00:13:44,000 --> 00:13:46,000
+podem estar mais saturadas,
+
+442
+00:13:46,000 --> 00:13:48,000
+tem uma competitividade diferente,
+
+443
+00:13:48,000 --> 00:13:50,000
+mas em TI, a mulher exerce da bem,
+
+444
+00:13:50,000 --> 00:13:51,000
+colocar a mesma energia
+
+445
+00:13:51,000 --> 00:13:53,000
+que os homens que estão se dando bem,
+
+446
+00:13:53,000 --> 00:13:54,000
+elas vão conseguir.
+
+447
+00:13:54,000 --> 00:13:56,000
+Agora, tem uma frase que eu gosto muito,
+
+448
+00:13:56,000 --> 00:13:58,000
+que é, o sucesso se faz à noite,
+
+449
+00:13:58,000 --> 00:13:59,000
+porque durante o dia,
+
+450
+00:13:59,000 --> 00:14:01,000
+você tá trabalhando 8 horas
+
+451
+00:14:01,000 --> 00:14:03,000
+e as outras pessoas do mundo todo
+
+452
+00:14:03,000 --> 00:14:04,000
+estão trabalhando 8 horas.
+
+453
+00:14:04,000 --> 00:14:06,000
+Então, essas 8 horas do seu trabalho,
+
+454
+00:14:06,000 --> 00:14:07,000
+elas não são diferenciais nenhum.
+
+455
+00:14:07,000 --> 00:14:08,000
+Eu tô trabalhando,
+
+456
+00:14:08,000 --> 00:14:09,000
+Lucas tá trabalhando,
+
+457
+00:14:09,000 --> 00:14:10,000
+todo mundo tá trabalhando.
+
+458
+00:14:10,000 --> 00:14:12,000
+Essas 8 horas não vão fazer a diferença.
+
+459
+00:14:12,000 --> 00:14:14,000
+A diferença são nas outras 4 horas
+
+460
+00:14:14,000 --> 00:14:16,000
+que as pessoas estão fazendo outras coisas
+
+461
+00:14:16,000 --> 00:14:18,000
+e você tá investindo em você,
+
+462
+00:14:18,000 --> 00:14:20,000
+investindo no seu potencial,
+
+463
+00:14:20,000 --> 00:14:21,000
+investindo no seu conhecimento.
+
+464
+00:14:21,000 --> 00:14:23,000
+A mulher que se dedicar
+
+465
+00:14:23,000 --> 00:14:24,000
+outras 4, 2,
+
+466
+00:14:24,000 --> 00:14:26,000
+não sei quantas horas exatamente,
+
+467
+00:14:26,000 --> 00:14:28,000
+essa mulher vai se dar tão bem
+
+468
+00:14:28,000 --> 00:14:29,000
+quanto as outras pessoas
+
+469
+00:14:29,000 --> 00:14:30,000
+que estão se dando bem.
+
+470
+00:14:30,000 --> 00:14:31,000
+Os homens que estão se dando bem,
+
+471
+00:14:31,000 --> 00:14:33,000
+eles também, né,
+
+472
+00:14:33,000 --> 00:14:35,000
+é claro que tem um QI e outro QI,
+
+473
+00:14:35,000 --> 00:14:36,000
+que tudo bem, a gente descarta
+
+474
+00:14:36,000 --> 00:14:38,000
+essas pessoas aí de QI,
+
+475
+00:14:38,000 --> 00:14:40,000
+mas as pessoas que estão se dando bem,
+
+476
+00:14:40,000 --> 00:14:42,000
+em geral, por sua própria competência,
+
+477
+00:14:42,000 --> 00:14:44,000
+elas têm uma dedicação fora da curva.
+
+478
+00:14:44,000 --> 00:14:45,000
+E é isso, tá?
+
+479
+00:14:45,000 --> 00:14:46,000
+É fora da curva,
+
+480
+00:14:46,000 --> 00:14:48,000
+que leva pra um outro,
+
+481
+00:14:48,000 --> 00:14:49,000
+que passa lá.
+
+482
+00:15:01,000 --> 00:15:02,000
+Não sei se alguém aqui
+
+483
+00:15:02,000 --> 00:15:04,000
+viu o Jornal da Globo,
+
+484
+00:15:04,000 --> 00:15:06,000
+que passou acho 3, 4 dias atrás,
+
+485
+00:15:06,000 --> 00:15:08,000
+sob mercado de trabalho.
+
+486
+00:15:08,000 --> 00:15:09,000
+Passa uma série, né,
+
+487
+00:15:09,000 --> 00:15:10,000
+tava falando as áreas
+
+488
+00:15:10,000 --> 00:15:12,000
+que mais tem demanda hoje no Brasil
+
+489
+00:15:12,000 --> 00:15:13,000
+e que mais vão ter demanda.
+
+490
+00:15:13,000 --> 00:15:15,000
+A área que mais tem demanda no Brasil
+
+491
+00:15:15,000 --> 00:15:16,000
+é TI, desenvolvimento software.
+
+492
+00:15:16,000 --> 00:15:19,000
+Tem 570 mil vagas necessárias,
+
+493
+00:15:19,000 --> 00:15:21,000
+só tem 500 mil pessoas pra ocupar.
+
+494
+00:15:21,000 --> 00:15:23,000
+E isso vai aumentar.
+
+495
+00:15:23,000 --> 00:15:24,000
+A segunda área,
+
+496
+00:15:24,000 --> 00:15:26,000
+são todas as engenharias também.
+
+497
+00:15:26,000 --> 00:15:27,000
+Então tá, e a chance
+
+498
+00:15:27,000 --> 00:15:28,000
+pra mulherada correr atrás
+
+499
+00:15:28,000 --> 00:15:30,000
+e ocupar essas vagas também.
+
+500
+00:15:30,000 --> 00:15:31,000
+E eu acho assim,
+
+501
+00:15:31,000 --> 00:15:32,000
+que hoje o mercado de tem,
+
+502
+00:15:32,000 --> 00:15:33,000
+tem uma tendência tão forte
+
+503
+00:15:33,000 --> 00:15:34,000
+ao crescimento,
+
+504
+00:15:34,000 --> 00:15:36,000
+porque há uns 15 anos atrás,
+
+505
+00:15:36,000 --> 00:15:37,000
+20 anos atrás,
+
+506
+00:15:37,000 --> 00:15:39,000
+ninguém sabia o que era direito,
+
+507
+00:15:39,000 --> 00:15:41,000
+tecnologia em si.
+
+508
+00:15:41,000 --> 00:15:42,000
+Era uma coisa assim,
+
+509
+00:15:42,000 --> 00:15:43,000
+totalmente abstrata.
+
+510
+00:15:43,000 --> 00:15:45,000
+E hoje, as crianças e a gente
+
+511
+00:15:45,000 --> 00:15:46,000
+temos um contato tão grande
+
+512
+00:15:46,000 --> 00:15:47,000
+com tudo isso,
+
+513
+00:15:47,000 --> 00:15:49,000
+que vai despertar uma curiosidade,
+
+514
+00:15:49,000 --> 00:15:50,000
+um interesse em saber
+
+515
+00:15:50,000 --> 00:15:51,000
+como é que funciona.
+
+516
+00:15:51,000 --> 00:15:53,000
+Então, eu acho que na minha
+
+517
+00:15:53,000 --> 00:15:55,000
+humilde opinião,
+
+518
+00:15:55,000 --> 00:15:56,000
+o curso de TI,
+
+519
+00:15:56,000 --> 00:15:57,000
+e exatas em geral,
+
+520
+00:15:57,000 --> 00:15:59,000
+tende até um crescimento assim,
+
+521
+00:15:59,000 --> 00:16:00,000
+gigantesco,
+
+522
+00:16:00,000 --> 00:16:02,000
+ainda mais com as próximas gerações
+
+523
+00:16:02,000 --> 00:16:04,000
+que já estão crescendo
+
+524
+00:16:04,000 --> 00:16:05,000
+com um notebook,
+
+525
+00:16:05,000 --> 00:16:06,000
+com o iPhone,
+
+526
+00:16:06,000 --> 00:16:08,000
+com alguma outra coisa assim,
+
+527
+00:16:08,000 --> 00:16:09,000
+tudo digital,
+
+528
+00:16:09,000 --> 00:16:10,000
+tudo tecnológico,
+
+529
+00:16:10,000 --> 00:16:12,000
+e até as outras áreas
+
+530
+00:16:12,000 --> 00:16:14,000
+tão aderindo a tecnologia,
+
+531
+00:16:14,000 --> 00:16:16,000
+uma das áreas mais conservadoras
+
+532
+00:16:16,000 --> 00:16:18,000
+que eu acho que é a minha,
+
+533
+00:16:18,000 --> 00:16:19,000
+que é o direito,
+
+534
+00:16:19,000 --> 00:16:21,000
+já não se vive mais
+
+535
+00:16:21,000 --> 00:16:22,000
+sem a tecnologia.
+
+536
+00:16:22,000 --> 00:16:23,000
+Tanto é que
+
+537
+00:16:23,000 --> 00:16:24,000
+uma coisa que aconteceu
+
+538
+00:16:24,000 --> 00:16:25,000
+aqui em Goiás,
+
+539
+00:16:25,000 --> 00:16:26,000
+eu acho que está acontecendo
+
+540
+00:16:26,000 --> 00:16:27,000
+o Brasil inteiro,
+
+541
+00:16:27,000 --> 00:16:28,000
+que estão digitalizando
+
+542
+00:16:28,000 --> 00:16:29,000
+todos os processos,
+
+543
+00:16:29,000 --> 00:16:31,000
+até por uma questão de sustentabilidade,
+
+544
+00:16:31,000 --> 00:16:33,000
+é, espaço,
+
+545
+00:16:33,000 --> 00:16:34,000
+e os desembargadores,
+
+546
+00:16:34,000 --> 00:16:36,000
+que são os juízes mais antigos,
+
+547
+00:16:36,000 --> 00:16:37,000
+que estão no tribunal,
+
+548
+00:16:37,000 --> 00:16:40,000
+estão tendo que pegar a aula particular
+
+549
+00:16:40,000 --> 00:16:41,000
+de informática,
+
+550
+00:16:41,000 --> 00:16:43,000
+porque eles não sabem lidar
+
+551
+00:16:43,000 --> 00:16:45,000
+com o computador,
+
+552
+00:16:45,000 --> 00:16:47,000
+não sabem abrir o ordem assim.
+
+553
+00:16:47,000 --> 00:16:50,000
+Então, o mercado tem que se preparar,
+
+554
+00:16:50,000 --> 00:16:52,000
+todo mundo tem que se especializar,
+
+555
+00:16:52,000 --> 00:16:53,000
+porque não tem jeito.
+
+556
+00:16:53,000 --> 00:16:54,000
+Hoje em dia,
+
+557
+00:16:54,000 --> 00:16:55,000
+não tem mais jeito de viver
+
+558
+00:16:55,000 --> 00:16:56,000
+sem tecnologia,
+
+559
+00:16:56,000 --> 00:16:58,000
+que saa daqui 20 anos
+
+560
+00:16:58,000 --> 00:17:00,000
+que nossos filhos vão estar
+
+561
+00:17:00,000 --> 00:17:02,000
+entrando nas outras áreas.
+
+562
+00:17:07,000 --> 00:17:08,000
+O que é que é T?
+
+563
+00:17:08,000 --> 00:17:09,000
+O que é que é informática?
+
+564
+00:17:09,000 --> 00:17:10,000
+T é uma área
+
+565
+00:17:10,000 --> 00:17:11,000
+que você não estuda só informática,
+
+566
+00:17:11,000 --> 00:17:13,000
+você estuda só a área dos outros,
+
+567
+00:17:13,000 --> 00:17:14,000
+porque você achar soluções,
+
+568
+00:17:14,000 --> 00:17:15,000
+você não estuda formática,
+
+569
+00:17:15,000 --> 00:17:16,000
+e vai falar,
+
+570
+00:17:16,000 --> 00:17:17,000
+vou resolver um problema de direito,
+
+571
+00:17:17,000 --> 00:17:18,000
+como é que eu vou resolver isso aqui?
+
+572
+00:17:18,000 --> 00:17:19,000
+Não, eu tenho que estudar direito,
+
+573
+00:17:19,000 --> 00:17:20,000
+eu vou poder saber o que
+
+574
+00:17:20,000 --> 00:17:21,000
+que eu tenho que resolver.
+
+575
+00:17:21,000 --> 00:17:22,000
+Ou seja, é uma área
+
+576
+00:17:22,000 --> 00:17:23,000
+que abrange todas as outras áreas,
+
+577
+00:17:23,000 --> 00:17:25,000
+e por ela está crescendo bastante,
+
+578
+00:17:25,000 --> 00:17:26,000
+ela é interessante
+
+579
+00:17:26,000 --> 00:17:27,000
+para as mulheres
+
+580
+00:17:27,000 --> 00:17:28,000
+ficar atenta mesmo,
+
+581
+00:17:28,000 --> 00:17:30,000
+porque está faltando gente mesmo,
+
+582
+00:17:30,000 --> 00:17:32,000
+não tem para onde correr.
+
+583
+00:17:32,000 --> 00:17:33,000
+O pessoal está vendo isso aí,
+
+584
+00:17:33,000 --> 00:17:34,000
+porque é uma área que dá retorno,
+
+585
+00:17:34,000 --> 00:17:36,000
+o retorno financeiro de TI
+
+586
+00:17:36,000 --> 00:17:37,000
+é comprovado,
+
+587
+00:17:37,000 --> 00:17:38,000
+porque é médio,
+
+588
+00:17:38,000 --> 00:17:39,000
+não é prazer,
+
+589
+00:17:39,000 --> 00:17:40,000
+não é, botei o dinheiro hoje,
+
+590
+00:17:40,000 --> 00:17:41,000
+amanhã já estou com dinheiro aqui,
+
+591
+00:17:41,000 --> 00:17:42,000
+de volta devolvido,
+
+592
+00:17:42,000 --> 00:17:43,000
+estou com dinheiro tendo lucrado
+
+593
+00:17:43,000 --> 00:17:45,000
+ainda aqui uns 3 anos, por exemplo.
+
+594
+00:17:45,000 --> 00:17:46,000
+É o que?
+
+595
+00:17:46,000 --> 00:17:47,000
+É o parado de gastar papel,
+
+596
+00:17:47,000 --> 00:17:48,000
+é o parado de gastar
+
+597
+00:17:48,000 --> 00:17:49,000
+com comunicação,
+
+598
+00:17:49,000 --> 00:17:50,000
+com telefonica,
+
+599
+00:17:50,000 --> 00:17:52,000
+com a parte de redes,
+
+600
+00:17:52,000 --> 00:17:53,000
+por exemplo,
+
+601
+00:17:53,000 --> 00:17:54,000
+não é médio mesmo,
+
+602
+00:17:54,000 --> 00:17:55,000
+quando eu trabalhava lá.
+
+603
+00:17:55,000 --> 00:17:56,000
+Comunicação deles toda,
+
+604
+00:17:56,000 --> 00:17:58,000
+é feito uma nuvem gigantesca
+
+605
+00:17:58,000 --> 00:17:59,000
+de redes,
+
+606
+00:17:59,000 --> 00:18:00,000
+onde ficam utilizados com outras.
+
+607
+00:18:00,000 --> 00:18:01,000
+Foi isso o que?
+
+608
+00:18:01,000 --> 00:18:03,000
+Foi isso para o pessoal de informática,
+
+609
+00:18:03,000 --> 00:18:04,000
+não tem que ficar deslocando
+
+610
+00:18:04,000 --> 00:18:05,000
+de um ponto para o outro
+
+611
+00:18:05,000 --> 00:18:06,000
+para arrumar computador,
+
+612
+00:18:06,000 --> 00:18:08,000
+arruma direto para um outro INC, por exemplo.
+
+613
+00:18:08,000 --> 00:18:10,000
+Acessa a máquina, arruma, resolve o problema,
+
+614
+00:18:10,000 --> 00:18:11,000
+acabou.
+
+615
+00:18:11,000 --> 00:18:12,000
+Ou seja,
+
+616
+00:18:12,000 --> 00:18:13,000
+essa evolução tecnológica
+
+617
+00:18:13,000 --> 00:18:14,000
+está passando também
+
+618
+00:18:14,000 --> 00:18:15,000
+até mesmo uma geração
+
+619
+00:18:15,000 --> 00:18:16,000
+de novos empregos,
+
+620
+00:18:16,000 --> 00:18:17,000
+novos nomes.
+
+621
+00:18:17,000 --> 00:18:18,000
+Antigamente era de TI,
+
+622
+00:18:18,000 --> 00:18:19,000
+era o cara que desenvolvia,
+
+623
+00:18:19,000 --> 00:18:20,000
+o cara que arrumava,
+
+624
+00:18:20,000 --> 00:18:21,000
+só.
+
+625
+00:18:21,000 --> 00:18:22,000
+Hoje já tem um cara que analisa,
+
+626
+00:18:22,000 --> 00:18:23,000
+o cara que testa,
+
+627
+00:18:23,000 --> 00:18:24,000
+o cara anantes,
+
+628
+00:18:24,000 --> 00:18:25,000
+por expressão.
+
+629
+00:18:25,000 --> 00:18:26,000
+A pessoa.
+
+630
+00:18:27,000 --> 00:18:28,000
+Legal.
+
+631
+00:18:28,000 --> 00:18:29,000
+Sabe o exil, mano.
+
+632
+00:18:29,000 --> 00:18:30,000
+É.
+
+633
+00:18:30,000 --> 00:18:31,000
+Porque era um cara,
+
+634
+00:18:31,000 --> 00:18:32,000
+era uma pessoa.
+
+635
+00:18:32,000 --> 00:18:33,000
+Por que isso?
+
+636
+00:18:33,000 --> 00:18:34,000
+Se você não já se falou,
+
+637
+00:18:34,000 --> 00:18:35,000
+nem a gente já...
+
+638
+00:18:35,000 --> 00:18:36,000
+É.
+
+639
+00:18:38,000 --> 00:18:40,000
+Então, o problema é,
+
+640
+00:18:40,000 --> 00:18:42,000
+a pessoa que testa,
+
+641
+00:18:42,000 --> 00:18:43,000
+a pessoa que faz tudo,
+
+642
+00:18:43,000 --> 00:18:45,000
+não é somente a manupensão
+
+643
+00:18:45,000 --> 00:18:47,000
+e o programa.
+
+644
+00:18:47,000 --> 00:18:48,000
+Em todo...
+
+645
+00:18:48,000 --> 00:18:49,000
+Foi todo isso visto,
+
+646
+00:18:49,000 --> 00:18:50,000
+uma questão por trás.
+
+647
+00:18:50,000 --> 00:18:51,000
+A gente até gastamos de tempo,
+
+648
+00:18:51,000 --> 00:18:53,000
+nem uma área exata mais.
+
+649
+00:18:53,000 --> 00:18:54,000
+É uma área humana,
+
+650
+00:18:54,000 --> 00:18:55,000
+a onde a pessoa
+
+651
+00:18:55,000 --> 00:18:56,000
+não faz tudo que é exato,
+
+652
+00:18:56,000 --> 00:18:57,000
+para tudo que é humana,
+
+653
+00:18:57,000 --> 00:18:58,000
+para a gestão de TI,
+
+654
+00:18:58,000 --> 00:19:00,000
+a audiência é revestida.
+
+655
+00:19:10,000 --> 00:19:11,000
+Acho que a Iara comentou
+
+656
+00:19:11,000 --> 00:19:12,000
+sobre a questão da burguesia,
+
+657
+00:19:12,000 --> 00:19:13,000
+não está mais escolhendo
+
+658
+00:19:13,000 --> 00:19:15,000
+a área das exatas, né?
+
+659
+00:19:15,000 --> 00:19:16,000
+Eu acho que hoje,
+
+660
+00:19:16,000 --> 00:19:17,000
+talvez uma...
+
+661
+00:19:18,000 --> 00:19:19,000
+Não.
+
+662
+00:19:19,000 --> 00:19:20,000
+Não.
+
+663
+00:19:20,000 --> 00:19:22,000
+Eu não acho que seja esse problema, não.
+
+664
+00:19:22,000 --> 00:19:23,000
+Talvez uma coisa
+
+665
+00:19:23,000 --> 00:19:24,000
+que explique um pouco isso,
+
+666
+00:19:24,000 --> 00:19:25,000
+que é uma coisa que o Brasil
+
+667
+00:19:25,000 --> 00:19:26,000
+tem um...
+
+668
+00:19:26,000 --> 00:19:27,000
+Eu considero um grande problema
+
+669
+00:19:27,000 --> 00:19:28,000
+do país,
+
+670
+00:19:28,000 --> 00:19:30,000
+é não valorizar o técnico,
+
+671
+00:19:30,000 --> 00:19:32,000
+a parte operacional das coisas.
+
+672
+00:19:32,000 --> 00:19:34,000
+E TI hoje é operacional.
+
+673
+00:19:34,000 --> 00:19:35,000
+Mesmo um engenheiro,
+
+674
+00:19:35,000 --> 00:19:37,000
+por mais que eles tenham títulos,
+
+675
+00:19:37,000 --> 00:19:38,000
+seja o engenheiro,
+
+676
+00:19:38,000 --> 00:19:40,000
+ele faz coisas também
+
+677
+00:19:40,000 --> 00:19:41,000
+que envolvem...
+
+678
+00:19:41,000 --> 00:19:43,000
+É uma atividade técnica, né?
+
+679
+00:19:43,000 --> 00:19:44,000
+Então, assim,
+
+680
+00:19:44,000 --> 00:19:46,000
+eu acho que um exemplo sou eu.
+
+681
+00:19:46,000 --> 00:19:47,000
+Eu sou formado em turismo.
+
+682
+00:19:47,000 --> 00:19:49,000
+Eu sou analista de sistemas.
+
+683
+00:19:49,000 --> 00:19:51,000
+E eu sou bem sucedido na minha área.
+
+684
+00:19:51,000 --> 00:19:52,000
+Então, assim,
+
+685
+00:19:52,000 --> 00:19:53,000
+eu fiz um curso como
+
+686
+00:19:53,000 --> 00:19:54,000
+uma academia do programador,
+
+687
+00:19:54,000 --> 00:19:55,000
+academia Java lá da Global Code,
+
+688
+00:19:55,000 --> 00:19:58,000
+uma curso de 350 horas de Java,
+
+689
+00:19:58,000 --> 00:20:00,000
+aprendi a programar ali.
+
+690
+00:20:00,000 --> 00:20:01,000
+Claro que eu já tinha um certo
+
+691
+00:20:01,000 --> 00:20:02,000
+background em TI,
+
+692
+00:20:02,000 --> 00:20:04,000
+já tinha muita noção,
+
+693
+00:20:04,000 --> 00:20:05,000
+mas eu aprendi na mar,
+
+694
+00:20:05,000 --> 00:20:07,000
+aprendi em três meses,
+
+695
+00:20:07,000 --> 00:20:08,000
+no final do ano,
+
+696
+00:20:08,000 --> 00:20:09,000
+eu estava ganhando mil reais,
+
+697
+00:20:09,000 --> 00:20:10,000
+depois de dois anos,
+
+698
+00:20:10,000 --> 00:20:11,000
+eu estava ganhando 2 mil reais
+
+699
+00:20:11,000 --> 00:20:12,000
+e a coisa foi melhorando.
+
+700
+00:20:12,000 --> 00:20:13,000
+Então, assim,
+
+701
+00:20:13,000 --> 00:20:14,000
+é uma área que você não precisa
+
+702
+00:20:14,000 --> 00:20:15,000
+fazer um curso superior para entrar.
+
+703
+00:20:15,000 --> 00:20:18,000
+Você pode fazer profissionalizantes.
+
+704
+00:20:18,000 --> 00:20:20,000
+Assim, é uma área técnica.
+
+705
+00:20:20,000 --> 00:20:21,000
+Isso é um problema no Brasil.
+
+706
+00:20:21,000 --> 00:20:23,000
+Só valoriza a bacharel.
+
+707
+00:20:23,000 --> 00:20:25,000
+A gente só valoriza o curso superior.
+
+708
+00:20:25,000 --> 00:20:26,000
+Inclusive,
+
+709
+00:20:26,000 --> 00:20:27,000
+eu lembro quando eu era criança,
+
+710
+00:20:27,000 --> 00:20:28,000
+quando a gente tinha 10 anos de idade,
+
+711
+00:20:28,000 --> 00:20:29,000
+talvez,
+
+712
+00:20:29,000 --> 00:20:30,000
+falava assim,
+
+713
+00:20:30,000 --> 00:20:31,000
+você precisa ter esse mundo grau
+
+714
+00:20:31,000 --> 00:20:32,000
+para ser alguém na vida.
+
+715
+00:20:32,000 --> 00:20:33,000
+Quando eu tinha 18,
+
+716
+00:20:33,000 --> 00:20:34,000
+você precisa ter um curso superior
+
+717
+00:20:34,000 --> 00:20:35,000
+para ser alguém na vida.
+
+718
+00:20:35,000 --> 00:20:36,000
+Então, já escalou isso.
+
+719
+00:20:36,000 --> 00:20:37,000
+No Brasil,
+
+720
+00:20:37,000 --> 00:20:38,000
+isso é uma verdade,
+
+721
+00:20:38,000 --> 00:20:39,000
+mas se você for ver países de
+
+722
+00:20:39,000 --> 00:20:40,000
+primeiro mundo,
+
+723
+00:20:40,000 --> 00:20:41,000
+como os Estados Unidos
+
+724
+00:20:41,000 --> 00:20:42,000
+ou países da Europa,
+
+725
+00:20:42,000 --> 00:20:44,000
+isso não é uma condição
+
+726
+00:20:44,000 --> 00:20:45,000
+de sine qua non
+
+727
+00:20:45,000 --> 00:20:47,000
+para você ser um bom profissional.
+
+728
+00:20:47,000 --> 00:20:48,000
+Lá, eles valorizam muito
+
+729
+00:20:48,000 --> 00:20:49,000
+o curso técnico.
+
+730
+00:20:49,000 --> 00:20:50,000
+Então,
+
+731
+00:20:50,000 --> 00:20:51,000
+tinha um cara que era Marceneiro,
+
+732
+00:20:51,000 --> 00:20:52,000
+que era meu amigo,
+
+733
+00:20:52,000 --> 00:20:53,000
+ganhava a mesma coisa que eu.
+
+734
+00:20:53,000 --> 00:20:54,000
+Vou comparar assim,
+
+735
+00:20:54,000 --> 00:20:55,000
+tem outro que é eletricista.
+
+736
+00:20:55,000 --> 00:20:56,000
+Ele estava,
+
+737
+00:20:56,000 --> 00:20:57,000
+é,
+
+738
+00:20:57,000 --> 00:20:58,000
+neozelandês,
+
+739
+00:20:58,000 --> 00:20:59,000
+estava aqui no Brasil.
+
+740
+00:20:59,000 --> 00:21:00,000
+Você acha que tem trabalho
+
+741
+00:21:00,000 --> 00:21:01,000
+para mim aqui?
+
+742
+00:21:01,000 --> 00:21:02,000
+Eu falei,
+
+743
+00:21:02,000 --> 00:21:03,000
+claro,
+
+744
+00:21:03,000 --> 00:21:04,000
+acho que tem,
+
+745
+00:21:04,000 --> 00:21:05,000
+mas você vai ganhar.
+
+746
+00:21:05,000 --> 00:21:06,000
+Na melhor das hipóteses,
+
+747
+00:21:06,000 --> 00:21:07,000
+você foi um excelente eletricista
+
+748
+00:21:07,000 --> 00:21:08,000
+R$ 2.000 por mês,
+
+749
+00:21:08,000 --> 00:21:09,000
+que assim,
+
+750
+00:21:09,000 --> 00:21:10,000
+é uma vida de classe média,
+
+751
+00:21:10,000 --> 00:21:11,000
+já fica apertado,
+
+752
+00:21:11,000 --> 00:21:12,000
+no Brasil.
+
+753
+00:21:12,000 --> 00:21:13,000
+Então,
+
+754
+00:21:13,000 --> 00:21:14,000
+acho que a gente tem que valorizar
+
+755
+00:21:14,000 --> 00:21:15,000
+o curso técnico e o pessoal
+
+756
+00:21:15,000 --> 00:21:16,000
+não deve deixar de atrás da TI,
+
+757
+00:21:16,000 --> 00:21:17,000
+porque tem que pensar
+
+758
+00:21:17,000 --> 00:21:18,000
+em um curso de 4 anos.
+
+759
+00:21:18,000 --> 00:21:19,000
+É um curso de 2 anos,
+
+760
+00:21:19,000 --> 00:21:21,000
+e isso está lá no mercado, cara.
+
+761
+00:21:21,000 --> 00:21:22,000
+O negócio é saber fazer,
+
+762
+00:21:22,000 --> 00:21:23,000
+isso é importante.
+
+763
+00:21:23,000 --> 00:21:24,000
+É,
+
+764
+00:21:24,000 --> 00:21:25,000
+mas é engraçado,
+
+765
+00:21:25,000 --> 00:21:26,000
+isso sobre o,
+
+766
+00:21:26,000 --> 00:21:27,000
+a Europa,
+
+767
+00:21:27,000 --> 00:21:28,000
+os Estados Unidos,
+
+768
+00:21:28,000 --> 00:21:29,000
+né,
+
+769
+00:21:29,000 --> 00:21:30,000
+a valorização do profissional,
+
+770
+00:21:30,000 --> 00:21:31,000
+de serviços,
+
+771
+00:21:31,000 --> 00:21:32,000
+ela,
+
+772
+00:21:32,000 --> 00:21:34,000
+ela é uma valorização financeira,
+
+773
+00:21:34,000 --> 00:21:35,000
+né.
+
+774
+00:21:35,000 --> 00:21:37,000
+As pessoas acabam vivendo e ganhando,
+
+775
+00:21:37,000 --> 00:21:38,000
+porque não tem quem faça,
+
+776
+00:21:38,000 --> 00:21:39,000
+né.
+
+777
+00:21:39,000 --> 00:21:40,000
+Os americanos,
+
+778
+00:21:40,000 --> 00:21:41,000
+ou,
+
+779
+00:21:41,000 --> 00:21:42,000
+os europeus,
+
+780
+00:21:42,000 --> 00:21:43,000
+eles não querem fazer esse trabalho
+
+781
+00:21:43,000 --> 00:21:44,000
+e eles pagam bem para,
+
+782
+00:21:44,000 --> 00:21:46,000
+para as outras pessoas fazerem,
+
+783
+00:21:46,000 --> 00:21:47,000
+né.
+
+784
+00:21:47,000 --> 00:21:49,000
+É uma valorização monetária.
+
+785
+00:21:49,000 --> 00:21:50,000
+Agora,
+
+786
+00:21:50,000 --> 00:21:51,000
+é interessante que,
+
+787
+00:21:51,000 --> 00:21:52,000
+aqui no Brasil,
+
+788
+00:21:52,000 --> 00:21:53,000
+a educação superior,
+
+789
+00:21:53,000 --> 00:21:54,000
+na verdade,
+
+790
+00:21:54,000 --> 00:21:55,000
+é um dos maiores negócios que existe.
+
+791
+00:21:55,000 --> 00:21:56,000
+Com essa febre,
+
+792
+00:21:56,000 --> 00:21:57,000
+hoje em dia,
+
+793
+00:21:57,000 --> 00:21:58,000
+todo mundo quer ter curso superior.
+
+794
+00:21:58,000 --> 00:21:59,000
+Então, por exemplo,
+
+795
+00:21:59,000 --> 00:22:00,000
+eu fiquei chocada quando eu vi
+
+796
+00:22:00,000 --> 00:22:01,000
+que o presidente da Google
+
+797
+00:22:01,000 --> 00:22:02,000
+saiu da Google
+
+798
+00:22:02,000 --> 00:22:04,000
+para ir para a Universidade em Anguera.
+
+799
+00:22:04,000 --> 00:22:05,000
+Ele foi ser presidente da Universidade
+
+800
+00:22:05,000 --> 00:22:06,000
+em Anguera.
+
+801
+00:22:06,000 --> 00:22:07,000
+Eu falei,
+
+802
+00:22:07,000 --> 00:22:08,000
+nossa,
+
+803
+00:22:08,000 --> 00:22:09,000
+ele saiu da Google
+
+804
+00:22:09,000 --> 00:22:10,000
+para ser presidente da Universidade
+
+805
+00:22:10,000 --> 00:22:11,000
+em Anguera.
+
+806
+00:22:11,000 --> 00:22:12,000
+Por quê?
+
+807
+00:22:12,000 --> 00:22:13,000
+Porque eu ensino superior,
+
+808
+00:22:13,000 --> 00:22:14,000
+hoje é uma máquina de ganhar,
+
+809
+00:22:14,000 --> 00:22:15,000
+né,
+
+810
+00:22:15,000 --> 00:22:16,000
+a educação,
+
+811
+00:22:16,000 --> 00:22:17,000
+tudo isso,
+
+812
+00:22:17,000 --> 00:22:18,000
+elas são apontadas
+
+813
+00:22:18,000 --> 00:22:19,000
+pelo GART,
+
+814
+00:22:19,000 --> 00:22:20,000
+e tudo mais,
+
+815
+00:22:20,000 --> 00:22:21,000
+como um grande negócio.
+
+816
+00:22:21,000 --> 00:22:22,000
+Todo mundo quer ter.
+
+817
+00:22:22,000 --> 00:22:23,000
+Então, hoje você vai contratar,
+
+818
+00:22:23,000 --> 00:22:24,000
+por exemplo,
+
+819
+00:22:24,000 --> 00:22:25,000
+uma,
+
+820
+00:22:25,000 --> 00:22:26,000
+né,
+
+821
+00:22:26,000 --> 00:22:27,000
+você fala,
+
+822
+00:22:27,000 --> 00:22:28,000
+por,
+
+823
+00:22:28,000 --> 00:22:29,000
+esses profissionais
+
+824
+00:22:29,000 --> 00:22:30,000
+que estão se formando
+
+825
+00:22:30,000 --> 00:22:31,000
+em letras,
+
+826
+00:22:31,000 --> 00:22:32,000
+em
+
+827
+00:22:32,000 --> 00:22:33,000
+ciências sociais,
+
+828
+00:22:33,000 --> 00:22:34,000
+em,
+
+829
+00:22:34,000 --> 00:22:35,000
+em tudo isso,
+
+830
+00:22:35,000 --> 00:22:36,000
+eles acabam,
+
+831
+00:22:36,000 --> 00:22:37,000
+né,
+
+832
+00:22:37,000 --> 00:22:38,000
+a pessoa fala,
+
+833
+00:22:38,000 --> 00:22:39,000
+bom,
+
+834
+00:22:39,000 --> 00:22:40,000
+eu preciso me formar
+
+835
+00:22:40,000 --> 00:22:41,000
+alguma coisa.
+
+836
+00:22:41,000 --> 00:22:42,000
+Ou você escolhe,
+
+837
+00:22:42,000 --> 00:22:43,000
+nas universidades públicas,
+
+838
+00:22:43,000 --> 00:22:44,000
+um curso fácil
+
+839
+00:22:44,000 --> 00:22:45,000
+que você consiga entrar,
+
+840
+00:22:45,000 --> 00:22:46,000
+ou você escolhe
+
+841
+00:22:46,000 --> 00:22:47,000
+um curso bonito
+
+842
+00:22:47,000 --> 00:22:49,000
+numa universidade particular,
+
+843
+00:22:49,000 --> 00:22:50,000
+e as universidades
+
+844
+00:22:50,000 --> 00:22:51,000
+particulares,
+
+845
+00:22:51,000 --> 00:22:52,000
+elas estão
+
+846
+00:22:52,000 --> 00:22:53,000
+com um número de vagas gigantes,
+
+847
+00:22:53,000 --> 00:22:54,000
+então,
+
+848
+00:22:54,000 --> 00:22:55,000
+qualquer pessoa pode entrar,
+
+849
+00:22:55,000 --> 00:22:56,000
+você não está
+
+850
+00:22:56,000 --> 00:22:58,000
+obrigando mais o cara a estudar,
+
+851
+00:22:58,000 --> 00:23:00,000
+ele nem precisa fazer estibular,
+
+852
+00:23:00,000 --> 00:23:01,000
+então,
+
+853
+00:23:01,000 --> 00:23:02,000
+ele não tem o pré-requisito
+
+854
+00:23:02,000 --> 00:23:03,000
+e você está formando
+
+855
+00:23:03,000 --> 00:23:04,000
+uma pessoa de segundo grau,
+
+856
+00:23:04,000 --> 00:23:06,000
+com baixa qualificação,
+
+857
+00:23:06,000 --> 00:23:07,000
+porque o negócio
+
+858
+00:23:07,000 --> 00:23:08,000
+é todo um negócio,
+
+859
+00:23:08,000 --> 00:23:09,000
+e não mais
+
+860
+00:23:09,000 --> 00:23:10,000
+um processo educacional
+
+861
+00:23:10,000 --> 00:23:11,000
+sério.
+
+862
+00:23:11,000 --> 00:23:12,000
+Então,
+
+863
+00:23:12,000 --> 00:23:13,000
+eu também acredito muito
+
+864
+00:23:13,000 --> 00:23:14,000
+na escola técnica,
+
+865
+00:23:14,000 --> 00:23:15,000
+eu acredito especialmente
+
+866
+00:23:15,000 --> 00:23:16,000
+na área de TI,
+
+867
+00:23:16,000 --> 00:23:17,000
+então, você é formado
+
+868
+00:23:17,000 --> 00:23:18,000
+em turismo,
+
+869
+00:23:18,000 --> 00:23:19,000
+o Vinicius
+
+870
+00:23:19,000 --> 00:23:21,000
+é formado em nada,
+
+871
+00:23:21,000 --> 00:23:22,000
+o Maurício Leal
+
+872
+00:23:22,000 --> 00:23:23,000
+é formado em nada,
+
+873
+00:23:23,000 --> 00:23:24,000
+o Bruno Souza
+
+874
+00:23:24,000 --> 00:23:25,000
+é formado em nada,
+
+875
+00:23:25,000 --> 00:23:26,000
+e a gente tem uma série
+
+876
+00:23:26,000 --> 00:23:27,000
+de profissionais
+
+877
+00:23:27,000 --> 00:23:28,000
+que se destacaram,
+
+878
+00:23:28,000 --> 00:23:29,000
+então, assim,
+
+879
+00:23:29,000 --> 00:23:30,000
+eu particularmente gosto
+
+880
+00:23:30,000 --> 00:23:31,000
+muito da área de TI,
+
+881
+00:23:31,000 --> 00:23:33,000
+até por causa da democratização.
+
+882
+00:23:33,000 --> 00:23:34,000
+O negócio não é título,
+
+883
+00:23:34,000 --> 00:23:35,000
+o negócio é conhecimento,
+
+884
+00:23:35,000 --> 00:23:36,000
+então isso daí
+
+885
+00:23:36,000 --> 00:23:38,000
+melhora a vida da mulher também,
+
+886
+00:23:38,000 --> 00:23:39,000
+porque se o negócio
+
+887
+00:23:39,000 --> 00:23:40,000
+é conhecimento,
+
+888
+00:23:40,000 --> 00:23:41,000
+não é título,
+
+889
+00:23:41,000 --> 00:23:42,000
+significa que
+
+890
+00:23:42,000 --> 00:23:43,000
+se a mulher souber,
+
+891
+00:23:43,000 --> 00:23:44,000
+vai ter trabalho pra ela.
+
+892
+00:23:50,000 --> 00:23:53,000
+Eu tenho o final do ano de 2008,
+
+893
+00:23:53,000 --> 00:23:54,000
+2009,
+
+894
+00:23:54,000 --> 00:23:56,000
+o pessoal da área de comunicação,
+
+895
+00:23:56,000 --> 00:23:57,000
+teve um série de problemas
+
+896
+00:23:57,000 --> 00:23:58,000
+que foi fechado
+
+897
+00:23:58,000 --> 00:23:59,000
+de ser obrigatórios
+
+898
+00:23:59,000 --> 00:24:00,000
+dos títulos
+
+899
+00:24:00,000 --> 00:24:01,000
+pra ser jornalista.
+
+900
+00:24:01,000 --> 00:24:02,000
+Aí eu lembro,
+
+901
+00:24:02,000 --> 00:24:03,000
+na época da faculdade,
+
+902
+00:24:03,000 --> 00:24:04,000
+até brincar com o pessoal,
+
+903
+00:24:04,000 --> 00:24:05,000
+falando assim,
+
+904
+00:24:05,000 --> 00:24:06,000
+não, gente, não tem problema,
+
+905
+00:24:06,000 --> 00:24:07,000
+eu sou da área de formática,
+
+906
+00:24:07,000 --> 00:24:08,000
+eu tô formando essa computação,
+
+907
+00:24:08,000 --> 00:24:09,000
+e o meu título pra mim,
+
+908
+00:24:09,000 --> 00:24:10,000
+agora, é apenas
+
+909
+00:24:10,000 --> 00:24:11,000
+um diferencial,
+
+910
+00:24:11,000 --> 00:24:12,000
+a mais,
+
+911
+00:24:12,000 --> 00:24:14,000
+o cara que tem uma formação acadêmica,
+
+912
+00:24:14,000 --> 00:24:15,000
+ele tem um diferencial a mais,
+
+913
+00:24:15,000 --> 00:24:16,000
+porque
+
+914
+00:24:16,000 --> 00:24:17,000
+ele teve todo um acompanhamento,
+
+915
+00:24:17,000 --> 00:24:18,000
+e ele teve várias áreas
+
+916
+00:24:18,000 --> 00:24:19,000
+pra escolher,
+
+917
+00:24:19,000 --> 00:24:20,000
+ele focou em um,
+
+918
+00:24:20,000 --> 00:24:21,000
+ele vai ser bom nela,
+
+919
+00:24:21,000 --> 00:24:22,000
+ou seja,
+
+920
+00:24:22,000 --> 00:24:23,000
+ele tá tentando focar
+
+921
+00:24:23,000 --> 00:24:24,000
+numa área,
+
+922
+00:24:24,000 --> 00:24:25,000
+tá tentando especializar nela,
+
+923
+00:24:25,000 --> 00:24:26,000
+e o título em si,
+
+924
+00:24:26,000 --> 00:24:27,000
+ele é apenas um diferencial
+
+925
+00:24:27,000 --> 00:24:29,000
+pra melhorar o meu rendimento,
+
+926
+00:24:29,000 --> 00:24:30,000
+não quer dizer que eu sou o cara,
+
+927
+00:24:30,000 --> 00:24:31,000
+tanto é que tem muito cara
+
+928
+00:24:31,000 --> 00:24:32,000
+que é formado na área,
+
+929
+00:24:32,000 --> 00:24:34,000
+que não sabe nada,
+
+930
+00:24:34,000 --> 00:24:35,000
+porque, porque ele só
+
+931
+00:24:35,000 --> 00:24:36,000
+tirou de poma,
+
+932
+00:24:36,000 --> 00:24:37,000
+já que eu tenho várias,
+
+933
+00:24:37,000 --> 00:24:39,000
+pra escolher tudo com colegas,
+
+934
+00:24:39,000 --> 00:24:41,000
+não tem área que eu não sei nada,
+
+935
+00:24:41,000 --> 00:24:42,000
+porque informar,
+
+936
+00:24:42,000 --> 00:24:43,000
+tem uma área tão grande,
+
+937
+00:24:43,000 --> 00:24:44,000
+que por exemplo,
+
+938
+00:24:44,000 --> 00:24:46,000
+se você é um pessoal técnico mesmo,
+
+939
+00:24:46,000 --> 00:24:47,000
+que tem um vocode,
+
+940
+00:24:47,000 --> 00:24:48,000
+que às vezes,
+
+941
+00:24:48,000 --> 00:24:49,000
+foca só na parte de anada,
+
+942
+00:24:49,000 --> 00:24:51,000
+você faz vários pros técnicos,
+
+943
+00:24:51,000 --> 00:24:53,000
+que você consegue ser um excelente especialista,
+
+944
+00:24:53,000 --> 00:24:54,000
+na área de anada de sistema,
+
+945
+00:24:54,000 --> 00:24:55,000
+ou em outros casos,
+
+946
+00:24:55,000 --> 00:24:56,000
+você consegue ser um excelente especialista,
+
+947
+00:24:56,000 --> 00:24:57,000
+na área de
+
+948
+00:24:57,000 --> 00:24:59,000
+duvimento de banco de dados,
+
+949
+00:24:59,000 --> 00:25:00,000
+só que aí, bem,
+
+950
+00:25:00,000 --> 00:25:01,000
+o curso acadêmico,
+
+951
+00:25:01,000 --> 00:25:02,000
+o bom dele,
+
+952
+00:25:02,000 --> 00:25:03,000
+é só o diferencial a mais,
+
+953
+00:25:03,000 --> 00:25:04,000
+só que aí que tá,
+
+954
+00:25:04,000 --> 00:25:05,000
+você tem que pegar um curso bom,
+
+955
+00:25:05,000 --> 00:25:07,000
+tem que fazer um local que você sabe,
+
+956
+00:25:07,000 --> 00:25:08,000
+que você vai tá investindo,
+
+957
+00:25:08,000 --> 00:25:10,000
+vai tá tendo um retorno bom,
+
+958
+00:25:10,000 --> 00:25:11,000
+é só ficar naquela dia,
+
+959
+00:25:11,000 --> 00:25:12,000
+vou fazer pro fazer,
+
+960
+00:25:12,000 --> 00:25:13,000
+pra ter um diploma aqui,
+
+961
+00:25:13,000 --> 00:25:14,000
+toma aqui.
+
+962
+00:25:14,000 --> 00:25:15,000
+Até iria além,
+
+963
+00:25:15,000 --> 00:25:16,000
+eu falaria que,
+
+964
+00:25:16,000 --> 00:25:17,000
+independente do curso que você tá fazendo,
+
+965
+00:25:17,000 --> 00:25:18,000
+esse é um curso bom,
+
+966
+00:25:18,000 --> 00:25:21,000
+sem aquelas quatro horas que a gente conversou,
+
+967
+00:25:21,000 --> 00:25:22,000
+estudar adicional,
+
+968
+00:25:22,000 --> 00:25:23,000
+não tem nada,
+
+969
+00:25:23,000 --> 00:25:26,000
+não adianta que você fazer um curso em um lugar,
+
+970
+00:25:26,000 --> 00:25:27,000
+sem aquelas horas adicionais,
+
+971
+00:25:27,000 --> 00:25:28,000
+que você pode ir em casa,
+
+972
+00:25:28,000 --> 00:25:30,000
+eventualmente um lugar melhor,
+
+973
+00:25:30,000 --> 00:25:32,000
+vai te forçar mais,
+
+974
+00:25:32,000 --> 00:25:34,000
+a estudar essas quatro horas em casa,
+
+975
+00:25:34,000 --> 00:25:35,000
+fazendo prova,
+
+976
+00:25:35,000 --> 00:25:37,000
+alguma coisa do tipo que já brilha.
+
+977
+00:25:37,000 --> 00:25:38,000
+Não só prova,
+
+978
+00:25:38,000 --> 00:25:39,000
+você tá passando informação,
+
+979
+00:25:39,000 --> 00:25:40,000
+te dá curiosidade,
+
+980
+00:25:40,000 --> 00:25:41,000
+você tem que pesquisar em casa,
+
+981
+00:25:41,000 --> 00:25:42,000
+né,
+
+982
+00:25:42,000 --> 00:25:44,000
+eu tô fazendo uma posa online,
+
+983
+00:25:44,000 --> 00:25:45,000
+um dos pontos que eles mais falaram,
+
+984
+00:25:45,000 --> 00:25:46,000
+o que eu achei interessante foi,
+
+985
+00:25:46,000 --> 00:25:47,000
+ensina a distância,
+
+986
+00:25:47,000 --> 00:25:48,000
+tem um sério problema,
+
+987
+00:25:48,000 --> 00:25:49,000
+igual não tem que ser dedicado,
+
+988
+00:25:49,000 --> 00:25:50,000
+por que?
+
+989
+00:25:50,000 --> 00:25:52,000
+Porque não tem ninguém pra pegar no seu pé,
+
+990
+00:25:52,000 --> 00:25:53,000
+não tem ninguém pra falar,
+
+991
+00:25:53,000 --> 00:25:54,000
+oh vamos,
+
+992
+00:25:54,000 --> 00:25:55,000
+estuda aí,
+
+993
+00:25:55,000 --> 00:25:56,000
+tem que pegar o trabalho,
+
+994
+00:25:56,000 --> 00:25:57,000
+você não passa,
+
+995
+00:25:57,000 --> 00:25:58,000
+você não estudar,
+
+996
+00:25:58,000 --> 00:25:59,000
+e ensina a distância,
+
+997
+00:25:59,000 --> 00:26:00,000
+ele fala quem que é,
+
+998
+00:26:00,000 --> 00:26:01,000
+ah não,
+
+999
+00:26:01,000 --> 00:26:02,000
+eu tenho que pegar,
+
+1000
+00:26:02,000 --> 00:26:03,000
+eu tenho que ler o material,
+
+1001
+00:26:03,000 --> 00:26:04,000
+porque eu quero ler o material,
+
+1002
+00:26:04,000 --> 00:26:05,000
+não é porque não tem ninguém me mandando,
+
+1003
+00:26:05,000 --> 00:26:06,000
+eu quero ler,
+
+1004
+00:26:06,000 --> 00:26:07,000
+e desse material,
+
+1005
+00:26:07,000 --> 00:26:08,000
+tem alguma coisa interessante
+
+1006
+00:26:08,000 --> 00:26:09,000
+pra eu poder continuar estudando,
+
+1007
+00:26:09,000 --> 00:26:11,000
+ou seja,
+
+1008
+00:26:11,000 --> 00:26:13,000
+quando você tem uma estrutura física
+
+1009
+00:26:13,000 --> 00:26:14,000
+presencial,
+
+1010
+00:26:14,000 --> 00:26:15,000
+ela te força a estudar,
+
+1011
+00:26:15,000 --> 00:26:16,000
+a online,
+
+1012
+00:26:16,000 --> 00:26:17,000
+ela te obriga,
+
+1013
+00:26:17,000 --> 00:26:18,000
+você tem que ser autodidado,
+
+1014
+00:26:18,000 --> 00:26:19,000
+meio que autodidado,
+
+1015
+00:26:19,000 --> 00:26:20,000
+você tem que,
+
+1016
+00:26:20,000 --> 00:26:22,000
+se dar aquelas 4 horas a mais,
+
+1017
+00:26:22,000 --> 00:26:23,000
+você tem que ser,
+
+1018
+00:26:23,000 --> 00:26:24,000
+as 4 horas a mais,
+
+1019
+00:26:24,000 --> 00:26:25,000
+ou tem que ser 8,
+
+1020
+00:26:25,000 --> 00:26:26,000
+você tem que pegar o conteúdo,
+
+1021
+00:26:26,000 --> 00:26:27,000
+você tem que estudar,
+
+1022
+00:26:27,000 --> 00:26:28,000
+mas...
+
+1023
+00:26:37,000 --> 00:26:51,000
+Eu queria comentar sobre 3 coisas que a gente falou,
+
+1024
+00:26:51,000 --> 00:26:52,000
+é uma,
+
+1025
+00:26:52,000 --> 00:26:54,000
+é porque eu sou uma pessoa que,
+
+1026
+00:26:54,000 --> 00:26:55,000
+eu gosto bastante da,
+
+1027
+00:26:55,000 --> 00:26:56,000
+da academia,
+
+1028
+00:26:56,000 --> 00:26:57,000
+então eu fiz segundo grau,
+
+1029
+00:26:57,000 --> 00:26:58,000
+fiz curso técnico,
+
+1030
+00:26:58,000 --> 00:26:59,000
+em 2004,
+
+1031
+00:26:59,000 --> 00:27:00,000
+fiz a faculdade,
+
+1032
+00:27:00,000 --> 00:27:02,000
+quero fazer uma pós-gradação,
+
+1033
+00:27:02,000 --> 00:27:03,000
+quero fazer mestrado,
+
+1034
+00:27:03,000 --> 00:27:04,000
+e pós-doutorado,
+
+1035
+00:27:04,000 --> 00:27:05,000
+e não sei o que mais,
+
+1036
+00:27:05,000 --> 00:27:07,000
+e eu acho interessante o Sheldon,
+
+1037
+00:27:07,000 --> 00:27:09,000
+aquela outra pessoa que grava um podcast comigo,
+
+1038
+00:27:09,000 --> 00:27:10,000
+direto ele tá lá falando comigo,
+
+1039
+00:27:10,000 --> 00:27:11,000
+e fala assim,
+
+1040
+00:27:11,000 --> 00:27:13,000
+ó, o cara aqui deixou a faculdade
+
+1041
+00:27:13,000 --> 00:27:15,000
+pra ir trabalhar no Facebook,
+
+1042
+00:27:15,000 --> 00:27:16,000
+aí eu pôs ele,
+
+1043
+00:27:16,000 --> 00:27:17,000
+que coisa...
+
+1044
+00:27:30,000 --> 00:27:31,000
+E a outra coisa também,
+
+1045
+00:27:31,000 --> 00:27:34,000
+é que como a área de TI é uma coisa nova,
+
+1046
+00:27:34,000 --> 00:27:37,000
+ela acaba absorvendo esses outros profissionais,
+
+1047
+00:27:37,000 --> 00:27:38,000
+que são de outras áreas.
+
+1048
+00:27:38,000 --> 00:27:39,000
+Eu, particularmente,
+
+1049
+00:27:39,000 --> 00:27:40,000
+quando eu tô programando,
+
+1050
+00:27:40,000 --> 00:27:41,000
+eu não quero ser um médico
+
+1051
+00:27:41,000 --> 00:27:44,000
+pra poder desenvolver um sistema pro médico,
+
+1052
+00:27:44,000 --> 00:27:45,000
+mas eu tenho que entender o negócio dele
+
+1053
+00:27:45,000 --> 00:27:47,000
+pra propor uma melhor solução.
+
+1054
+00:27:47,000 --> 00:27:49,000
+Então, como a TI acaba sendo embrionada,
+
+1055
+00:27:49,000 --> 00:27:51,000
+embora já tenha bastante tempo,
+
+1056
+00:27:51,000 --> 00:27:53,000
+ela absorve esses outros profissionais,
+
+1057
+00:27:53,000 --> 00:27:54,000
+haga o jornalismo também.
+
+1058
+00:27:54,000 --> 00:27:56,000
+Eu conheço uma menina que trabalhava com jornalismo,
+
+1059
+00:27:56,000 --> 00:27:57,000
+mas ela,
+
+1060
+00:27:57,000 --> 00:27:59,000
+ela era jornalista porque ela ganhou
+
+1061
+00:27:59,000 --> 00:28:00,000
+dois concursos de redação,
+
+1062
+00:28:00,000 --> 00:28:03,000
+e isso não tira o mérito dela de ser uma boa jornalista.
+
+1063
+00:28:03,000 --> 00:28:05,000
+O que me leva, também, a falar de outro ponto
+
+1064
+00:28:05,000 --> 00:28:07,000
+é a questão da metodologia.
+
+1065
+00:28:07,000 --> 00:28:09,000
+Somente no desenvolvimento do Sol,
+
+1066
+00:28:09,000 --> 00:28:11,000
+que o Lucas chegou a comentar
+
+1067
+00:28:11,000 --> 00:28:13,000
+a respeito da própria metodologia.
+
+1068
+00:28:13,000 --> 00:28:15,000
+Hoje a gente já tem vários outros papéis
+
+1069
+00:28:15,000 --> 00:28:16,000
+que já existiam,
+
+1070
+00:28:16,000 --> 00:28:19,000
+mas hoje estão sendo mais levados em conta,
+
+1071
+00:28:19,000 --> 00:28:21,000
+como o esquema de a pessoa testada,
+
+1072
+00:28:21,000 --> 00:28:22,000
+a outra pessoa programada,
+
+1073
+00:28:22,000 --> 00:28:24,000
+outra pessoa levando requisitos.
+
+1074
+00:28:24,000 --> 00:28:26,000
+Em outras áreas do conhecimento mais tradicionais,
+
+1075
+00:28:26,000 --> 00:28:28,000
+isso é bastante comum.
+
+1076
+00:28:28,000 --> 00:28:29,000
+Vou dar um exemplo aqui,
+
+1077
+00:28:29,000 --> 00:28:30,000
+não necessariamente adequado,
+
+1078
+00:28:30,000 --> 00:28:32,000
+mas uma manicure que tira uma unha encravada.
+
+1079
+00:28:32,000 --> 00:28:34,000
+Ela não tem o mesmo método de fazer isso
+
+1080
+00:28:34,000 --> 00:28:35,000
+do que um médico,
+
+1081
+00:28:35,000 --> 00:28:37,000
+que vai também tirar uma unha encravada.
+
+1082
+00:28:37,000 --> 00:28:40,000
+Ele não vai deixar de fazer a sepsia correta,
+
+1083
+00:28:40,000 --> 00:28:41,000
+vai usar, sei lá,
+
+1084
+00:28:41,000 --> 00:28:42,000
+uma bistoria correta.
+
+1085
+00:28:42,000 --> 00:28:43,000
+É assim,
+
+1086
+00:28:43,000 --> 00:28:45,000
+eu acho que é uma questão de tradição
+
+1087
+00:28:45,000 --> 00:28:46,000
+da área de conhecimento
+
+1088
+00:28:46,000 --> 00:28:48,000
+que leva a gente a ter
+
+1089
+00:28:48,000 --> 00:28:50,000
+essa cultura de profissionalismo na área.
+
+1090
+00:28:50,000 --> 00:28:52,000
+É comum a pessoa querer fazer um programa,
+
+1091
+00:28:52,000 --> 00:28:53,000
+ah não,
+
+1092
+00:28:53,000 --> 00:28:55,000
+você fez o protótipo em uma semana,
+
+1093
+00:28:55,000 --> 00:28:57,000
+porque o projeto inteiro vai demorar dois anos, né?
+
+1094
+00:28:57,000 --> 00:28:59,000
+Por uma questão cultural que eu acho também
+
+1095
+00:28:59,000 --> 00:29:01,000
+pela área de conhecimento ser muito nova,
+
+1096
+00:29:01,000 --> 00:29:03,000
+a pessoa não aceita isso aí.
+
+1097
+00:29:03,000 --> 00:29:04,000
+O protótipo sai em uma semana
+
+1098
+00:29:04,000 --> 00:29:07,000
+e o projeto inteiro tem que sair em dois anos.
+
+1099
+00:29:07,000 --> 00:29:09,000
+Como é um área de conhecimento nova,
+
+1100
+00:29:09,000 --> 00:29:10,000
+por uma questão cultural,
+
+1101
+00:29:10,000 --> 00:29:12,000
+questiona a metodologia do médico,
+
+1102
+00:29:12,000 --> 00:29:14,000
+mas a pessoa questiona a metodologia
+
+1103
+00:29:14,000 --> 00:29:15,000
+de um programador
+
+1104
+00:29:15,000 --> 00:29:17,000
+que quer passar uma semana levantando
+
+1105
+00:29:17,000 --> 00:29:20,000
+o requisito para entender melhor a solução.
+
+1106
+00:29:20,000 --> 00:29:22,000
+O problema muito grande da área de ter
+
+1107
+00:29:22,000 --> 00:29:23,000
+também é aquela famosa história.
+
+1108
+00:29:23,000 --> 00:29:24,000
+Na engenharia civil,
+
+1109
+00:29:24,000 --> 00:29:25,000
+você consegue ver o prato crescer.
+
+1110
+00:29:25,000 --> 00:29:26,000
+É informática não,
+
+1111
+00:29:26,000 --> 00:29:28,000
+você só vê o trem aparecer do nada.
+
+1112
+00:29:28,000 --> 00:29:29,000
+Você tá aqui uma semana,
+
+1113
+00:29:29,000 --> 00:29:30,000
+o cara vai ligar,
+
+1114
+00:29:30,000 --> 00:29:32,000
+a pessoa vê que tem um sistema pronto,
+
+1115
+00:29:32,000 --> 00:29:33,000
+que é, por exemplo, no prédio,
+
+1116
+00:29:33,000 --> 00:29:34,000
+no construção de uma casa,
+
+1117
+00:29:34,000 --> 00:29:35,000
+ou até mesmo para criar um animal,
+
+1118
+00:29:35,000 --> 00:29:36,000
+você vê o animal crescendo,
+
+1119
+00:29:36,000 --> 00:29:37,000
+você vê que ele tá evoluindo.
+
+1120
+00:29:37,000 --> 00:29:39,000
+Você consegue palpar aqui.
+
+1121
+00:29:39,000 --> 00:29:41,000
+E a nossa cultura, infelizmente,
+
+1122
+00:29:41,000 --> 00:29:43,000
+é a cultura do palpado.
+
+1123
+00:29:43,000 --> 00:29:44,000
+Se não for palpado,
+
+1124
+00:29:44,000 --> 00:29:45,000
+pra mim não tá valendo.
+
+1125
+00:29:45,000 --> 00:29:47,000
+E é uma atividade intelectual, né?
+
+1126
+00:29:47,000 --> 00:29:48,000
+Por exemplo, antes se cobrava
+
+1127
+00:29:48,000 --> 00:29:50,000
+por mil linhas de código, né?
+
+1128
+00:29:50,000 --> 00:29:53,000
+Hoje, se a pessoa desenvolveu mil linhas de código,
+
+1129
+00:29:53,000 --> 00:29:55,000
+não significa que ela é tão eficiente
+
+1130
+00:29:55,000 --> 00:29:56,000
+quando a pessoa aqui, sei lá,
+
+1131
+00:29:56,000 --> 00:29:58,000
+desenvolveu 200 linhas.
+
+1132
+00:30:00,000 --> 00:30:04,000
+Onde é a estrela no ar?
+
+1133
+00:30:21,000 --> 00:30:23,000
+Eu quero que você baixe um valor pra mim, né?
+
+1134
+00:30:23,000 --> 00:30:24,000
+Eu quero que fique claro,
+
+1135
+00:30:24,000 --> 00:30:26,000
+que eu sou a favor da academia, tá?
+
+1136
+00:30:26,000 --> 00:30:28,000
+É claro, se você tá de tempo,
+
+1137
+00:30:28,000 --> 00:30:29,000
+tem paciência de ficar mais quatro anos,
+
+1138
+00:30:29,000 --> 00:30:31,000
+uma faculdade que faz um pristeque,
+
+1139
+00:30:31,000 --> 00:30:33,000
+é uma melhor opção, né?
+
+1140
+00:30:33,000 --> 00:30:35,000
+Às vezes eu faço um algoritmo,
+
+1141
+00:30:35,000 --> 00:30:37,000
+daí há um ano, alguém abre um livro
+
+1142
+00:30:37,000 --> 00:30:38,000
+e tem um algoritmo e fala,
+
+1143
+00:30:38,000 --> 00:30:39,000
+é, existe já um algoritmo
+
+1144
+00:30:39,000 --> 00:30:41,000
+pra fazer aquilo que eu tava fazendo, né?
+
+1145
+00:30:41,000 --> 00:30:42,000
+Fique de novo o negócio.
+
+1146
+00:30:42,000 --> 00:30:44,000
+Se você tivesse conhecido isso,
+
+1147
+00:30:44,000 --> 00:30:46,000
+eu teria ganhado o tempo, né?
+
+1148
+00:30:46,000 --> 00:30:49,000
+Então, de fato, a academia,
+
+1149
+00:30:49,000 --> 00:30:51,000
+ela é muito boa, assim.
+
+1150
+00:30:51,000 --> 00:30:53,000
+Ela vai agregar muito conhecimento.
+
+1151
+00:30:53,000 --> 00:30:55,000
+Só pra ficar claro que eu quis dizer que
+
+1152
+00:30:55,000 --> 00:30:56,000
+se você não teve tempo,
+
+1153
+00:30:56,000 --> 00:30:58,000
+não tem paciência,
+
+1154
+00:30:58,000 --> 00:30:59,000
+fazer de novo um curso período.
+
+1155
+00:30:59,000 --> 00:31:00,000
+Eu já tentei fazer, agora,
+
+1156
+00:31:00,000 --> 00:31:01,000
+um curso de engenharia da computação.
+
+1157
+00:31:01,000 --> 00:31:02,000
+Eu fiz um semestre e meio,
+
+1158
+00:31:02,000 --> 00:31:03,000
+eu fiquei sem fogo,
+
+1159
+00:31:03,000 --> 00:31:04,000
+vou ficar aqui cinco anos.
+
+1160
+00:31:04,000 --> 00:31:05,000
+Não vai dar certo,
+
+1161
+00:31:05,000 --> 00:31:07,000
+meu casamento já tava assim.
+
+1162
+00:31:07,000 --> 00:31:08,000
+Estava um ano casado,
+
+1163
+00:31:08,000 --> 00:31:09,000
+tava começando a atrapalhar.
+
+1164
+00:31:09,000 --> 00:31:10,000
+Eu falei assim,
+
+1165
+00:31:10,000 --> 00:31:11,000
+não, vou fazer um mestrado, né?
+
+1166
+00:31:11,000 --> 00:31:12,000
+A gente tem.
+
+1167
+00:31:12,000 --> 00:31:13,000
+Só isso, por isso mesmo.
+
+1168
+00:31:13,000 --> 00:31:14,000
+Não vou fazer esse curso,
+
+1169
+00:31:14,000 --> 00:31:15,000
+fazer o mestrado,
+
+1170
+00:31:15,000 --> 00:31:16,000
+vou cozinhar bastante o mestrado,
+
+1171
+00:31:16,000 --> 00:31:17,000
+mas vamos dar um jeito.
+
+1172
+00:31:17,000 --> 00:31:18,000
+Se não deram um Deus,
+
+1173
+00:31:18,000 --> 00:31:19,000
+o ideia deu, hoje.
+
+1174
+00:31:21,000 --> 00:31:22,000
+Essa questão da área acadêmica
+
+1175
+00:31:22,000 --> 00:31:23,000
+era importante.
+
+1176
+00:31:23,000 --> 00:31:25,000
+Ela tem que vir de seu começo.
+
+1177
+00:31:25,000 --> 00:31:26,000
+Ao bom da área acadêmica,
+
+1178
+00:31:26,000 --> 00:31:27,000
+você vai fazer um curso mesmo.
+
+1179
+00:31:28,000 --> 00:31:29,000
+Você vai pegar ela e saber
+
+1180
+00:31:29,000 --> 00:31:30,000
+que você vai ter que dedicar quatro anos,
+
+1181
+00:31:30,000 --> 00:31:31,000
+vai ter que se focar
+
+1182
+00:31:31,000 --> 00:31:32,000
+só quatro anos naquilo.
+
+1183
+00:31:32,000 --> 00:31:33,000
+Você não vai ter que estar trabalhando.
+
+1184
+00:31:33,000 --> 00:31:34,000
+Se você estiver trabalhando,
+
+1185
+00:31:34,000 --> 00:31:35,000
+vai afetar no seu desempenho,
+
+1186
+00:31:35,000 --> 00:31:36,000
+porque eu mesmo,
+
+1187
+00:31:36,000 --> 00:31:38,000
+eu trabalhei para você tentar em palmas.
+
+1188
+00:31:38,000 --> 00:31:39,000
+Então, foi um período,
+
+1189
+00:31:39,000 --> 00:31:41,000
+que eu sabia que era quatro horas por dia,
+
+1190
+00:31:41,000 --> 00:31:43,000
+que eu podia estar estudando,
+
+1191
+00:31:43,000 --> 00:31:44,000
+para adquirir mais conhecimento,
+
+1192
+00:31:44,000 --> 00:31:45,000
+para o que eu ia fazer,
+
+1193
+00:31:45,000 --> 00:31:46,000
+depois que eu formasse,
+
+1194
+00:31:46,000 --> 00:31:47,000
+e ter melhor rendimento.
+
+1195
+00:31:47,000 --> 00:31:48,000
+Ou seja,
+
+1196
+00:31:48,000 --> 00:31:49,000
+eu tinha uma presta em trabalhar.
+
+1197
+00:31:49,000 --> 00:31:50,000
+Então, isso me evitou,
+
+1198
+00:31:50,000 --> 00:31:52,000
+com tudo que tivesse uma evolução,
+
+1199
+00:31:52,000 --> 00:31:54,000
+acima do que o que é atual.
+
+1200
+00:31:54,000 --> 00:31:55,000
+Aí, tem que ter toda essa questão.
+
+1201
+00:31:55,000 --> 00:31:56,000
+E a parte acadêmica,
+
+1202
+00:31:56,000 --> 00:31:57,000
+a interessante,
+
+1203
+00:31:57,000 --> 00:31:58,000
+sendo a parte acadêmica,
+
+1204
+00:31:58,000 --> 00:32:00,000
+é, você tem pessoas que tiver experiência,
+
+1205
+00:32:00,000 --> 00:32:01,000
+com tudo quanto é coisa,
+
+1206
+00:32:01,000 --> 00:32:02,000
+da área de informática lá dentro.
+
+1207
+00:32:02,000 --> 00:32:04,000
+Então, você tem um quem debater.
+
+1208
+00:32:04,000 --> 00:32:06,000
+Quando você aprende um curso,
+
+1209
+00:32:06,000 --> 00:32:07,000
+que você é um tete,
+
+1210
+00:32:07,000 --> 00:32:08,000
+você está programando,
+
+1211
+00:32:08,000 --> 00:32:09,000
+você consegue, no fórum,
+
+1212
+00:32:09,000 --> 00:32:10,000
+vai te ajudar legal.
+
+1213
+00:32:10,000 --> 00:32:11,000
+Mas, você não vai ter aquele debate,
+
+1214
+00:32:11,000 --> 00:32:12,000
+com seus colegas,
+
+1215
+00:32:12,000 --> 00:32:14,000
+que são mais ou menos 40 pessoas,
+
+1216
+00:32:14,000 --> 00:32:15,000
+enfrentando o mesmo problema.
+
+1217
+00:32:15,000 --> 00:32:16,000
+Por exemplo,
+
+1218
+00:32:16,000 --> 00:32:17,000
+o trabalho de uma vez,
+
+1219
+00:32:17,000 --> 00:32:18,000
+eu fiz um debris de formática.
+
+1220
+00:32:18,000 --> 00:32:19,000
+A galera estava logo crescendo,
+
+1221
+00:32:19,000 --> 00:32:20,000
+ali dentro.
+
+1222
+00:32:20,000 --> 00:32:22,000
+Aí, acabou, ficou um grupo de xg-alunos,
+
+1223
+00:32:22,000 --> 00:32:23,000
+e esse grupo de xg-alunos
+
+1224
+00:32:23,000 --> 00:32:24,000
+ficou ajudando o outro,
+
+1225
+00:32:24,000 --> 00:32:26,000
+a chegar às soluções inteligentes,
+
+1226
+00:32:26,000 --> 00:32:27,000
+viagens,
+
+1227
+00:32:27,000 --> 00:32:28,000
+amigos.
+
+1228
+00:32:35,000 --> 00:32:37,000
+Uma vez que a gente entrevistou James Gosling,
+
+1229
+00:32:37,000 --> 00:32:38,000
+e, assim,
+
+1230
+00:32:38,000 --> 00:32:40,000
+o fato do Vinícius ser autodidata,
+
+1231
+00:32:40,000 --> 00:32:41,000
+é uma coisa que faz,
+
+1232
+00:32:41,000 --> 00:32:42,000
+sempre, a gente refletir,
+
+1233
+00:32:42,000 --> 00:32:44,000
+sobre a importância da universidade,
+
+1234
+00:32:44,000 --> 00:32:45,000
+etc.
+
+1235
+00:32:45,000 --> 00:32:46,000
+Como eu falei,
+
+1236
+00:32:46,000 --> 00:32:48,000
+a família é toda de universitários,
+
+1237
+00:32:48,000 --> 00:32:50,000
+e, ao mesmo tempo, Vinícius conseguiu
+
+1238
+00:32:50,000 --> 00:32:51,000
+um monte de coisas,
+
+1239
+00:32:51,000 --> 00:32:53,000
+sem ter a universidade.
+
+1240
+00:32:53,000 --> 00:32:55,000
+E nós comentamos para ele,
+
+1241
+00:32:55,000 --> 00:32:56,000
+o que ele achava,
+
+1242
+00:32:56,000 --> 00:32:57,000
+se era fundamental ter a universidade,
+
+1243
+00:32:57,000 --> 00:32:58,000
+ele falou,
+
+1244
+00:32:58,000 --> 00:32:59,000
+olha,
+
+1245
+00:32:59,000 --> 00:33:00,000
+eu classifico a universidade
+
+1246
+00:33:00,000 --> 00:33:01,000
+como um bom lugar para se aprender,
+
+1247
+00:33:01,000 --> 00:33:03,000
+mas não é um único lugar para se aprender.
+
+1248
+00:33:03,000 --> 00:33:05,000
+Existem várias formas,
+
+1249
+00:33:05,000 --> 00:33:07,000
+existem pessoas diferentes,
+
+1250
+00:33:07,000 --> 00:33:08,000
+capacidades diferentes,
+
+1251
+00:33:08,000 --> 00:33:09,000
+interesses diferentes.
+
+1252
+00:33:09,000 --> 00:33:10,000
+Então, hoje,
+
+1253
+00:33:10,000 --> 00:33:12,000
+eu também acho a universidade maravilhoso,
+
+1254
+00:33:12,000 --> 00:33:13,000
+dá para fazer, legal,
+
+1255
+00:33:13,000 --> 00:33:14,000
+não dá para fazer, não deu,
+
+1256
+00:33:14,000 --> 00:33:15,000
+não está no momento,
+
+1257
+00:33:15,000 --> 00:33:17,000
+não é por isso que a gente vai deixar
+
+1258
+00:33:17,000 --> 00:33:18,000
+de conseguir essa oportunidade.
+
+1259
+00:33:18,000 --> 00:33:19,000
+Então,
+
+1260
+00:33:19,000 --> 00:33:21,000
+eu gosto muito dos cursos técnicos,
+
+1261
+00:33:21,000 --> 00:33:23,000
+acho que em várias situações,
+
+1262
+00:33:23,000 --> 00:33:24,000
+EVM é melhor.
+
+1263
+00:33:24,000 --> 00:33:25,000
+Conheço várias pessoas
+
+1264
+00:33:25,000 --> 00:33:26,000
+que gostam de contratar a gente
+
+1265
+00:33:26,000 --> 00:33:27,000
+que fez com isso técnico,
+
+1266
+00:33:27,000 --> 00:33:29,000
+porque normalmente a gente que escolheu
+
+1267
+00:33:29,000 --> 00:33:30,000
+o que queria mais cedo,
+
+1268
+00:33:30,000 --> 00:33:32,000
+e tem um set de pragmatismo.
+
+1269
+00:33:32,000 --> 00:33:51,000
+Uma das coisas que eu vejo,
+
+1270
+00:33:51,000 --> 00:33:53,000
+Eu me formei numa universidade
+
+1271
+00:33:53,000 --> 00:33:54,000
+que é considerada boa,
+
+1272
+00:33:54,000 --> 00:33:55,000
+eu me formei na USP,
+
+1273
+00:33:55,000 --> 00:33:56,000
+e quando a gente se formou,
+
+1274
+00:33:56,000 --> 00:33:58,000
+um monte de pessoas da minha turma
+
+1275
+00:33:58,000 --> 00:33:59,000
+estavam com uma insegurança
+
+1276
+00:33:59,000 --> 00:34:01,000
+em entrar no mercado de trabalho.
+
+1277
+00:34:01,000 --> 00:34:03,000
+E aí, vou trabalhar com o quê?
+
+1278
+00:34:03,000 --> 00:34:04,000
+Como é que vai ser agora?
+
+1279
+00:34:04,000 --> 00:34:05,000
+Eu quero programar,
+
+1280
+00:34:05,000 --> 00:34:06,000
+mas eu não sei programar direito.
+
+1281
+00:34:06,000 --> 00:34:07,000
+A dura é realidade.
+
+1282
+00:34:07,000 --> 00:34:09,000
+Infelizmente, mesmo depois de 5 anos
+
+1283
+00:34:09,000 --> 00:34:10,000
+de universidade,
+
+1284
+00:34:10,000 --> 00:34:11,000
+ou 5 anos de direito,
+
+1285
+00:34:11,000 --> 00:34:12,000
+ou 5 anos de medicina,
+
+1286
+00:34:12,000 --> 00:34:14,000
+você não tá apto a fazer tudo
+
+1287
+00:34:14,000 --> 00:34:15,000
+porque você fez o curso.
+
+1288
+00:34:15,000 --> 00:34:17,000
+Normalmente, você não tem prática.
+
+1289
+00:34:17,000 --> 00:34:18,000
+Você não tem prática,
+
+1290
+00:34:18,000 --> 00:34:19,000
+você não tem maturidade,
+
+1291
+00:34:19,000 --> 00:34:20,000
+você não tem...
+
+1292
+00:34:20,000 --> 00:34:21,000
+E aí, as pessoas estavam inseguras.
+
+1293
+00:34:21,000 --> 00:34:22,000
+E nesse momento,
+
+1294
+00:34:22,000 --> 00:34:23,000
+as pessoas falaram,
+
+1295
+00:34:23,000 --> 00:34:24,000
+ah, já sei,
+
+1296
+00:34:24,000 --> 00:34:25,000
+eu vou trabalhar com requisito.
+
+1297
+00:34:25,000 --> 00:34:28,000
+Ah, eu vou trabalhar com testes.
+
+1298
+00:34:28,000 --> 00:34:30,000
+Ou eu vou trabalhar com...
+
+1299
+00:34:30,000 --> 00:34:32,000
+Ah, vou fazer uma estrada aqui mesmo, né?
+
+1300
+00:34:32,000 --> 00:34:33,000
+Então, eu percebi, eu falei,
+
+1301
+00:34:33,000 --> 00:34:34,000
+olha, pensa bem,
+
+1302
+00:34:34,000 --> 00:34:36,000
+é um pessoal que tá se formando,
+
+1303
+00:34:36,000 --> 00:34:38,000
+sem estar atrasado, sem tá nada,
+
+1304
+00:34:38,000 --> 00:34:39,000
+que tá se formando uma universidade
+
+1305
+00:34:39,000 --> 00:34:41,000
+que tem um nome bom pro currículo,
+
+1306
+00:34:41,000 --> 00:34:42,000
+e mesmo assim,
+
+1307
+00:34:42,000 --> 00:34:43,000
+essas pessoas estão inseguras.
+
+1308
+00:34:43,000 --> 00:34:44,000
+Isso quer dizer pra mim
+
+1309
+00:34:44,000 --> 00:34:46,000
+que é uma mostra significativa
+
+1310
+00:34:46,000 --> 00:34:47,000
+em relação à insegurança
+
+1311
+00:34:47,000 --> 00:34:48,000
+da comunidade geral.
+
+1312
+00:34:48,000 --> 00:34:49,000
+Depois disso,
+
+1313
+00:34:49,000 --> 00:34:50,000
+muitos anos depois,
+
+1314
+00:34:50,000 --> 00:34:52,000
+na hora que a gente começou
+
+1315
+00:34:52,000 --> 00:34:53,000
+a contratar as pessoas na Global Code,
+
+1316
+00:34:53,000 --> 00:34:54,000
+a gente queria contratar
+
+1317
+00:34:54,000 --> 00:34:56,000
+gente que tivesse estudando o TAFE,
+
+1318
+00:34:56,000 --> 00:34:57,000
+pra que eles pudessem depois
+
+1319
+00:34:57,000 --> 00:34:59,000
+mudar diário dentro da Global Code e tal.
+
+1320
+00:34:59,000 --> 00:35:00,000
+E eu conversei com uma das meninas
+
+1321
+00:35:00,000 --> 00:35:01,000
+que trabalha com a gente,
+
+1322
+00:35:01,000 --> 00:35:02,000
+ela começou a fazer o curso,
+
+1323
+00:35:02,000 --> 00:35:03,000
+eu falei, aí, ela falou,
+
+1324
+00:35:03,000 --> 00:35:04,000
+ah, Iara, eu gosto mesmo de requisitos.
+
+1325
+00:35:04,000 --> 00:35:06,000
+Eu falei, eu amo requisitos também.
+
+1326
+00:35:06,000 --> 00:35:07,000
+Eu adoro requisitos,
+
+1327
+00:35:07,000 --> 00:35:09,000
+mas assim, você não gostar de programação?
+
+1328
+00:35:09,000 --> 00:35:10,000
+O fato que você falar pra mim,
+
+1329
+00:35:10,000 --> 00:35:11,000
+eu não gosto de programação,
+
+1330
+00:35:11,000 --> 00:35:13,000
+pra mim, olhando assim,
+
+1331
+00:35:13,000 --> 00:35:15,000
+bem de uma maneira prepotente, arrogante,
+
+1332
+00:35:15,000 --> 00:35:17,000
+eu tô achando que você não sabe programar ainda.
+
+1333
+00:35:17,000 --> 00:35:18,000
+E aprender a programar,
+
+1334
+00:35:18,000 --> 00:35:21,000
+ela exige uma curva de aprendizado.
+
+1335
+00:35:21,000 --> 00:35:22,000
+É um negócio, né?
+
+1336
+00:35:22,000 --> 00:35:23,000
+Fazer requisitos,
+
+1337
+00:35:23,000 --> 00:35:25,000
+eventualmente as pessoas têm a ilusão
+
+1338
+00:35:25,000 --> 00:35:26,000
+de que elas estão prontas
+
+1339
+00:35:26,000 --> 00:35:27,000
+pra fazer requisitos,
+
+1340
+00:35:27,000 --> 00:35:28,000
+mas da mesma maneira
+
+1341
+00:35:28,000 --> 00:35:30,000
+que você não tá pronto pra programar,
+
+1342
+00:35:30,000 --> 00:35:31,000
+você também pode não tá pronto
+
+1343
+00:35:31,000 --> 00:35:32,000
+pra fazer requisito,
+
+1344
+00:35:32,000 --> 00:35:33,000
+e as pessoas assim,
+
+1345
+00:35:33,000 --> 00:35:34,000
+elas têm menos medo
+
+1346
+00:35:34,000 --> 00:35:36,000
+de ir pra seu do área de humanas
+
+1347
+00:35:36,000 --> 00:35:38,000
+dentro da computação,
+
+1348
+00:35:38,000 --> 00:35:40,000
+do que encarar o código mesmo.
+
+1349
+00:35:40,000 --> 00:35:41,000
+Agora, eu acho que a mulher
+
+1350
+00:35:41,000 --> 00:35:42,000
+que quer estar na TI,
+
+1351
+00:35:42,000 --> 00:35:45,000
+de uma maneira sólida e tudo isso,
+
+1352
+00:35:45,000 --> 00:35:47,000
+ela pode não querer programar depois,
+
+1353
+00:35:47,000 --> 00:35:49,000
+mas é importante conseguir romper
+
+1354
+00:35:49,000 --> 00:35:50,000
+essa barreira,
+
+1355
+00:35:50,000 --> 00:35:52,000
+conseguir, ou na área de redes,
+
+1356
+00:35:52,000 --> 00:35:54,000
+ou em outras áreas,
+
+1357
+00:35:54,000 --> 00:35:56,000
+entender qual é o desafio,
+
+1358
+00:35:56,000 --> 00:35:57,000
+ter coragem e falar,
+
+1359
+00:35:57,000 --> 00:35:58,000
+eu vou aprender essa porcaria,
+
+1360
+00:35:58,000 --> 00:35:59,000
+não me importa,
+
+1361
+00:35:59,000 --> 00:36:00,000
+se vai demorar três meses,
+
+1362
+00:36:00,000 --> 00:36:02,000
+quatro meses, cinco meses, um ano.
+
+1363
+00:36:02,000 --> 00:36:04,000
+Mas a gente tem que se policiar
+
+1364
+00:36:04,000 --> 00:36:06,000
+pra poder ter essa determinação,
+
+1365
+00:36:06,000 --> 00:36:08,000
+que eu particularmente acho que falta
+
+1366
+00:36:08,000 --> 00:36:09,000
+na mulher muitas vezes.
+
+1367
+00:36:09,000 --> 00:36:10,000
+Uma coisa de falar é o seguinte,
+
+1368
+00:36:10,000 --> 00:36:11,000
+eu vou vencer isso daqui.
+
+1369
+00:36:11,000 --> 00:36:13,000
+A mulher não tem o espírito da luta,
+
+1370
+00:36:13,000 --> 00:36:16,000
+ela não tem aquele espírito de combate.
+
+1371
+00:36:16,000 --> 00:36:18,000
+E eu acho que pra TI, pra computação,
+
+1372
+00:36:18,000 --> 00:36:20,000
+precisa desses espíritos de combate.
+
+1373
+00:36:20,000 --> 00:36:21,000
+Precisa do espírito,
+
+1374
+00:36:21,000 --> 00:36:23,000
+porque cada dia nasce uma nova tecnologia,
+
+1375
+00:36:23,000 --> 00:36:24,000
+cada dia nasce um negócio novo,
+
+1376
+00:36:24,000 --> 00:36:26,000
+e você fala, vou ter que vencer essa porcaria.
+
+1377
+00:36:26,000 --> 00:36:28,000
+E eu sinto isso, eu sinto em mim,
+
+1378
+00:36:28,000 --> 00:36:30,000
+eu sinto nas mulheres que estão ao meu redor.
+
+1379
+00:36:30,000 --> 00:36:32,000
+E se eu tivesse que dar um conselho
+
+1380
+00:36:32,000 --> 00:36:33,000
+pras mulheres,
+
+1381
+00:36:33,000 --> 00:36:35,000
+é encarar um negócio mais como uma luta.
+
+1382
+00:36:35,000 --> 00:36:36,000
+Eu particularmente não gosto
+
+1383
+00:36:36,000 --> 00:36:38,000
+dessa coisa assim, filhinho,
+
+1384
+00:36:38,000 --> 00:36:40,000
+escolha uma coisa que você gosta de fazer,
+
+1385
+00:36:40,000 --> 00:36:42,000
+porque o trabalho, a vida e tudo isso,
+
+1386
+00:36:42,000 --> 00:36:43,000
+mas não é formada por coisas
+
+1387
+00:36:43,000 --> 00:36:44,000
+que a gente gosta de fazer.
+
+1388
+00:36:44,000 --> 00:36:46,000
+É formada por desafio, por luta,
+
+1389
+00:36:46,000 --> 00:36:47,000
+por conquista,
+
+1390
+00:36:47,000 --> 00:36:49,000
+e eventualmente a gente descobre
+
+1391
+00:36:49,000 --> 00:36:50,000
+que a gente gosta,
+
+1392
+00:36:50,000 --> 00:36:51,000
+depois que a gente aprende.
+
+1393
+00:36:51,000 --> 00:36:53,000
+Ninguém vai gostar de Java de verdade,
+
+1394
+00:36:53,000 --> 00:36:54,000
+antes de aprender.
+
+1395
+00:36:54,000 --> 00:36:56,000
+E todo mundo, na hora de começar a aprender Java,
+
+1396
+00:36:56,000 --> 00:36:57,000
+por exemplo,
+
+1397
+00:36:57,000 --> 00:36:58,000
+vai se dar mal.
+
+1398
+00:36:58,000 --> 00:36:59,000
+É difícil, né?
+
+1399
+00:36:59,000 --> 00:37:00,000
+Ou ser,
+
+1400
+00:37:00,000 --> 00:37:01,000
+ou é doíno,
+
+1401
+00:37:01,000 --> 00:37:02,000
+ou robótica,
+
+1402
+00:37:02,000 --> 00:37:03,000
+ou qualquer uma das outras coisas.
+
+1403
+00:37:03,000 --> 00:37:04,000
+Às vezes a gente olha
+
+1404
+00:37:04,000 --> 00:37:05,000
+as pessoas mais experientes,
+
+1405
+00:37:05,000 --> 00:37:06,000
+eu falo, palestra do Vinicius,
+
+1406
+00:37:06,000 --> 00:37:07,000
+é uma caca,
+
+1407
+00:37:07,000 --> 00:37:08,000
+porque ele faz e ele fala
+
+1408
+00:37:08,000 --> 00:37:10,000
+como seu negócio fosse fácil,
+
+1409
+00:37:10,000 --> 00:37:11,000
+e as pessoas têm uma ilusão
+
+1410
+00:37:11,000 --> 00:37:13,000
+de que foi fácil pra ele,
+
+1411
+00:37:13,000 --> 00:37:14,000
+na hora que ele tá falando.
+
+1412
+00:37:14,000 --> 00:37:16,000
+Mas por trás daquilo ali,
+
+1413
+00:37:16,000 --> 00:37:17,000
+tem uma série de horas
+
+1414
+00:37:17,000 --> 00:37:18,000
+de bater cabeça,
+
+1415
+00:37:18,000 --> 00:37:19,000
+de passar raiva,
+
+1416
+00:37:19,000 --> 00:37:20,000
+de estar em casa,
+
+1417
+00:37:20,000 --> 00:37:22,000
+e de estar lutando com aquela tecnologia.
+
+1418
+00:37:22,000 --> 00:37:25,000
+E a vida do profissional de computação,
+
+1419
+00:37:25,000 --> 00:37:27,000
+independente de qual é a área,
+
+1420
+00:37:27,000 --> 00:37:29,000
+é uma vida de combate de área.
+
+1421
+00:37:29,000 --> 00:37:30,000
+Então, assim,
+
+1422
+00:37:30,000 --> 00:37:31,000
+eu acho que a mulher
+
+1423
+00:37:31,000 --> 00:37:33,000
+pra se dar bem nessa área de computação,
+
+1424
+00:37:33,000 --> 00:37:35,000
+e provavelmente em todas as outras,
+
+1425
+00:37:35,000 --> 00:37:37,000
+tem que curar roupa de guerra mesmo,
+
+1426
+00:37:37,000 --> 00:37:39,000
+e encarar o desafio,
+
+1427
+00:37:39,000 --> 00:37:41,000
+e não aceitar um não como resposta
+
+1428
+00:37:41,000 --> 00:37:43,000
+pra esse desafio.
+
+1429
+00:37:43,000 --> 00:37:44,000
+Onde contaram?
+
+1430
+00:37:44,000 --> 00:37:45,000
+Agora você falou,
+
+1431
+00:37:45,000 --> 00:37:46,000
+tava pensando aqui,
+
+1432
+00:37:46,000 --> 00:37:48,000
+nunca vi uma mulher arquiteta de software.
+
+1433
+00:37:48,000 --> 00:37:49,000
+Fabiane Nardone?
+
+1434
+00:37:49,000 --> 00:37:50,000
+Quem?
+
+1435
+00:37:50,000 --> 00:37:51,000
+Fabiane Nardone.
+
+1436
+00:37:51,000 --> 00:37:52,000
+Aliás, eu até ia falar dela,
+
+1437
+00:37:52,000 --> 00:37:54,000
+achei que bom que você falou isso daí,
+
+1438
+00:37:54,000 --> 00:37:56,000
+mas a Fabiane Nardone,
+
+1439
+00:37:56,000 --> 00:37:57,000
+ela pra mim é a mulher
+
+1440
+00:37:57,000 --> 00:37:59,000
+NTi, trabalhando no Brasil,
+
+1441
+00:37:59,000 --> 00:38:01,000
+que eu mais admiro pra mim.
+
+1442
+00:38:01,000 --> 00:38:03,000
+Eu falo Fabi, né?
+
+1443
+00:38:03,000 --> 00:38:04,000
+A Fabiane Nardone,
+
+1444
+00:38:04,000 --> 00:38:06,000
+ela foi arquiteta do sistema premiado,
+
+1445
+00:38:06,000 --> 00:38:07,000
+né?
+
+1446
+00:38:07,000 --> 00:38:09,000
+Ela foi a mulher arquiteta de software.
+
+1447
+00:38:09,000 --> 00:38:10,000
+A Fabiane Nardone,
+
+1448
+00:38:10,000 --> 00:38:12,000
+ela foi a arquiteta do sistema premiado,
+
+1449
+00:38:12,000 --> 00:38:13,000
+né?
+
+1450
+00:38:13,000 --> 00:38:15,000
+Ela foi a arquiteta do sistema do SUS,
+
+1451
+00:38:15,000 --> 00:38:16,000
+foi um sistema usando J-boss,
+
+1452
+00:38:16,000 --> 00:38:18,000
+usando Open Source,
+
+1453
+00:38:18,000 --> 00:38:20,000
+Sageria e tudo isso.
+
+1454
+00:38:20,000 --> 00:38:22,000
+Ela foi a arquiteta principal do projeto,
+
+1455
+00:38:22,000 --> 00:38:23,000
+pois disso,
+
+1456
+00:38:23,000 --> 00:38:24,000
+fizeram vídeo,
+
+1457
+00:38:24,000 --> 00:38:25,000
+fizeram reportagem com ela,
+
+1458
+00:38:25,000 --> 00:38:27,000
+todos os anos no Java One,
+
+1459
+00:38:27,000 --> 00:38:29,000
+fica repassando com o Fabino Nutellão.
+
+1460
+00:38:29,000 --> 00:38:31,000
+Hoje, ela é diretora,
+
+1461
+00:38:31,000 --> 00:38:32,000
+ela teve a frente,
+
+1462
+00:38:32,000 --> 00:38:33,000
+na verdade,
+
+1463
+00:38:33,000 --> 00:38:34,000
+eu não sei te falar qual é o cargo,
+
+1464
+00:38:34,000 --> 00:38:36,000
+mas ela tá na frente da comunidade do OpenJDK,
+
+1465
+00:38:36,000 --> 00:38:39,000
+ela é líder da comunidade Java Tools,
+
+1466
+00:38:39,000 --> 00:38:41,000
+ela usa a comunidade mais organizada
+
+1467
+00:38:41,000 --> 00:38:42,000
+do Javanete,
+
+1468
+00:38:42,000 --> 00:38:43,000
+então isso aí serviu como exemplo
+
+1469
+00:38:43,000 --> 00:38:44,000
+para outros,
+
+1470
+00:38:44,000 --> 00:38:46,000
+e ela, enfim,
+
+1471
+00:38:46,000 --> 00:38:48,000
+ela é uma mulher
+
+1472
+00:38:48,000 --> 00:38:49,000
+que tá bem assim,
+
+1473
+00:38:49,000 --> 00:38:50,000
+na ponta para mim.
+
+1474
+00:38:50,000 --> 00:38:51,000
+Acho que as mulheres todas aí
+
+1475
+00:38:51,000 --> 00:38:52,000
+é importante entender
+
+1476
+00:38:52,000 --> 00:38:54,000
+quem é a Fabiane,
+
+1477
+00:38:54,000 --> 00:38:55,000
+seguir a Fabiane no Twitter,
+
+1478
+00:38:55,000 --> 00:38:56,000
+ver o que tá acontecendo,
+
+1479
+00:38:56,000 --> 00:38:58,000
+que ela é uma referência internacional,
+
+1480
+00:38:58,000 --> 00:38:59,000
+mesmo,
+
+1481
+00:38:59,000 --> 00:39:01,000
+é totalmente respeitável.
+
+1482
+00:39:02,000 --> 00:39:05,000
+A avança da mulher na tecnologia,
+
+1483
+00:39:05,000 --> 00:39:06,000
+ela tem que pensar
+
+1484
+00:39:06,000 --> 00:39:07,000
+neste jeito mesmo,
+
+1485
+00:39:07,000 --> 00:39:08,000
+para ela poder crescer,
+
+1486
+00:39:08,000 --> 00:39:10,000
+ela tem que cravar mesmo na cabeça dela,
+
+1487
+00:39:10,000 --> 00:39:11,000
+que,
+
+1488
+00:39:11,000 --> 00:39:13,000
+se eu não fizer o trem direito,
+
+1489
+00:39:13,000 --> 00:39:14,000
+eu não vou conseguir crescer,
+
+1490
+00:39:14,000 --> 00:39:15,000
+eu tenho que pegar,
+
+1491
+00:39:15,000 --> 00:39:16,000
+eu tenho que fazer,
+
+1492
+00:39:16,000 --> 00:39:17,000
+eu tenho que destacar.
+
+1493
+00:39:17,000 --> 00:39:19,000
+O desejo dela não pode ser
+
+1494
+00:39:19,000 --> 00:39:20,000
+apenas o que desejo de,
+
+1495
+00:39:20,000 --> 00:39:21,000
+ah, eu tenho que crescer,
+
+1496
+00:39:21,000 --> 00:39:22,000
+mas tem um monte de meninas
+
+1497
+00:39:22,000 --> 00:39:23,000
+já lutando aí,
+
+1498
+00:39:23,000 --> 00:39:24,000
+eu vou ficar quietinho,
+
+1499
+00:39:24,000 --> 00:39:25,000
+eu vou esperar para o pessoal
+
+1500
+00:39:25,000 --> 00:39:26,000
+tiver na festa,
+
+1501
+00:39:26,000 --> 00:39:27,000
+no freio,
+
+1502
+00:39:27,000 --> 00:39:28,000
+eu vou entrar na comemoração,
+
+1503
+00:39:28,000 --> 00:39:29,000
+não,
+
+1504
+00:39:29,000 --> 00:39:30,000
+pegar todo mundo,
+
+1505
+00:39:30,000 --> 00:39:31,000
+falar, ó,
+
+1506
+00:39:31,000 --> 00:39:32,000
+não vou baixar a cabeça,
+
+1507
+00:39:32,000 --> 00:39:33,000
+não vou desistir,
+
+1508
+00:39:33,000 --> 00:39:34,000
+não vou desistir,
+
+1509
+00:39:34,000 --> 00:39:35,000
+e correr atrás.
+
+1510
+00:39:35,000 --> 00:39:36,000
+Eu mesmo,
+
+1511
+00:39:36,000 --> 00:39:37,000
+em relação ao trabalho,
+
+1512
+00:39:37,000 --> 00:39:38,000
+eu sempre correr atrás
+
+1513
+00:39:38,000 --> 00:39:39,000
+das pessoas que eu queria,
+
+1514
+00:39:39,000 --> 00:39:40,000
+surgir a propriedade,
+
+1515
+00:39:40,000 --> 00:39:41,000
+o mediriniz,
+
+1516
+00:39:41,000 --> 00:39:42,000
+você fica meio comendo,
+
+1517
+00:39:42,000 --> 00:39:43,000
+você fica,
+
+1518
+00:39:43,000 --> 00:39:44,000
+e aí eu vou, não vou,
+
+1519
+00:39:44,000 --> 00:39:45,000
+mas você não pode ter esse medir,
+
+1520
+00:39:45,000 --> 00:39:46,000
+você não pode ter um medir
+
+1521
+00:39:46,000 --> 00:39:47,000
+descasto,
+
+1522
+00:39:47,000 --> 00:39:48,000
+você vai falar,
+
+1523
+00:39:48,000 --> 00:39:49,000
+ó, vou lá, sobrevivei o não,
+
+1524
+00:39:49,000 --> 00:39:50,000
+levei o não.
+
+1525
+00:39:50,000 --> 00:39:51,000
+O que é um não?
+
+1526
+00:39:51,000 --> 00:39:52,000
+É, não,
+
+1527
+00:39:52,000 --> 00:39:53,000
+você já tem,
+
+1528
+00:39:53,000 --> 00:39:54,000
+se o não já é garantido,
+
+1529
+00:39:54,000 --> 00:39:55,000
+vamos surpreender,
+
+1530
+00:39:55,000 --> 00:39:56,000
+vamos decidir.
+
+1531
+00:39:56,000 --> 00:39:57,000
+O meu jeito é a mulher,
+
+1532
+00:39:57,000 --> 00:39:58,000
+quando ela vai tentar
+
+1533
+00:39:58,000 --> 00:39:59,000
+correr atrás de uma coisa,
+
+1534
+00:39:59,000 --> 00:40:00,000
+eu quero crescer na empresa,
+
+1535
+00:40:00,000 --> 00:40:01,000
+eu não quero me destacar na empresa,
+
+1536
+00:40:01,000 --> 00:40:02,000
+mas se ela não ser com ela,
+
+1537
+00:40:02,000 --> 00:40:03,000
+é o não.
+
+1538
+00:40:03,000 --> 00:40:04,000
+Eu não consegui,
+
+1539
+00:40:04,000 --> 00:40:05,000
+não deu certo,
+
+1540
+00:40:05,000 --> 00:40:06,000
+mas se ela conseguir o sim,
+
+1541
+00:40:06,000 --> 00:40:07,000
+aí sim que ela vai estar avançando.
+
+1542
+00:40:07,000 --> 00:40:08,000
+É isso que faz a pessoa evoluir,
+
+1543
+00:40:08,000 --> 00:40:10,000
+é isso que faz ela se destacar.
+
+1544
+00:40:10,000 --> 00:40:12,000
+Ela pegar uma coisa que ela está com o não
+
+1545
+00:40:12,000 --> 00:40:14,000
+certo e converter esse não com o sim,
+
+1546
+00:40:14,000 --> 00:40:15,000
+fazer, botar uma negada,
+
+1547
+00:40:15,000 --> 00:40:17,000
+uma negada é de negada, por exemplo,
+
+1548
+00:40:17,000 --> 00:40:19,000
+e aí ela chega onde ela quer.
+
+1549
+00:40:19,000 --> 00:40:20,000
+É, aqui é uma famosa pressão
+
+1550
+00:40:20,000 --> 00:40:21,000
+da cara para bater.
+
+1551
+00:40:21,000 --> 00:40:23,000
+Eu levei um não nessa empresa,
+
+1552
+00:40:23,000 --> 00:40:24,000
+na próxima eu levo um sim.
+
+1553
+00:40:24,000 --> 00:40:25,000
+Se eu sou dedicada,
+
+1554
+00:40:25,000 --> 00:40:26,000
+se eu tenho experiência,
+
+1555
+00:40:26,000 --> 00:40:28,000
+ou se eu sei determinado o assunto,
+
+1556
+00:40:28,000 --> 00:40:30,000
+ou determinada ferramenta,
+
+1557
+00:40:30,000 --> 00:40:31,000
+que eu levo um não,
+
+1558
+00:40:31,000 --> 00:40:32,000
+mas na frente eu levo um sim,
+
+1559
+00:40:32,000 --> 00:40:33,000
+meu Deus, vou perder meu emprego,
+
+1560
+00:40:33,000 --> 00:40:35,000
+vou... tenho quantas para pagar,
+
+1561
+00:40:35,000 --> 00:40:36,000
+mas se você tem talento,
+
+1562
+00:40:36,000 --> 00:40:37,000
+você consegue.
+
+1563
+00:40:37,000 --> 00:40:38,000
+Então é se valorizar.
+
+1564
+00:40:38,000 --> 00:40:39,000
+Tá, estou ganhando pouco aqui,
+
+1565
+00:40:39,000 --> 00:40:40,000
+eu quero ganhar mais.
+
+1566
+00:40:40,000 --> 00:40:41,000
+Não?
+
+1567
+00:40:41,000 --> 00:40:42,000
+Tá, tá.
+
+1568
+00:40:42,000 --> 00:40:44,000
+A sua empresa não serve para eu trabalhar,
+
+1569
+00:40:44,000 --> 00:40:45,000
+então eu vou trabalhar em outra empresa
+
+1570
+00:40:45,000 --> 00:40:46,000
+que me ganha isso.
+
+1571
+00:40:46,000 --> 00:40:47,000
+É isso.
+
+1572
+00:41:02,000 --> 00:41:10,000
+Eu sou talento,
+
+1573
+00:41:10,000 --> 00:41:12,000
+eu sou uma lei de persistência,
+
+1574
+00:41:12,000 --> 00:41:13,000
+uma maia.
+
+1575
+00:41:13,000 --> 00:41:14,000
+É a famosa,
+
+1576
+00:41:14,000 --> 00:41:15,000
+é a famosa sólida,
+
+1577
+00:41:15,000 --> 00:41:16,000
+o cara que,
+
+1578
+00:41:16,000 --> 00:41:17,000
+a pessoa que se destaca muitas vezes,
+
+1579
+00:41:17,000 --> 00:41:18,000
+né,
+
+1580
+00:41:18,000 --> 00:41:19,000
+aquela pessoa talentosa,
+
+1581
+00:41:19,000 --> 00:41:20,000
+aquela pessoa que é chata mesmo,
+
+1582
+00:41:20,000 --> 00:41:21,000
+ela pega o freio,
+
+1583
+00:41:21,000 --> 00:41:22,000
+o que se assiste,
+
+1584
+00:41:22,000 --> 00:41:23,000
+é o cara.
+
+1585
+00:41:23,000 --> 00:41:25,000
+Porque, porque aquele cara,
+
+1586
+00:41:25,000 --> 00:41:26,000
+que mesmo não tem um cérebro,
+
+1587
+00:41:26,000 --> 00:41:27,000
+fuma e cor,
+
+1588
+00:41:27,000 --> 00:41:28,000
+ele consegue fazer isso.
+
+1589
+00:41:28,000 --> 00:41:29,000
+O pessoal vem ele,
+
+1590
+00:41:29,000 --> 00:41:31,000
+o pessoal consegue vê-lo,
+
+1591
+00:41:31,000 --> 00:41:32,000
+consegue notá-lo.
+
+1592
+00:41:32,000 --> 00:41:33,000
+Por que?
+
+1593
+00:41:33,000 --> 00:41:34,000
+Porque tá até por lá,
+
+1594
+00:41:34,000 --> 00:41:35,000
+eu tô aqui,
+
+1595
+00:41:35,000 --> 00:41:36,000
+tô aqui,
+
+1596
+00:41:36,000 --> 00:41:37,000
+eu quero isso,
+
+1597
+00:41:37,000 --> 00:41:38,000
+eu quero aquilo.
+
+1598
+00:41:38,000 --> 00:41:39,000
+Então eu tô estudando isso e isso,
+
+1599
+00:41:39,000 --> 00:41:40,000
+e aí o que eu faço?
+
+1600
+00:41:40,000 --> 00:41:41,000
+Que nem,
+
+1601
+00:41:41,000 --> 00:41:42,000
+eu tenho muito contato,
+
+1602
+00:41:42,000 --> 00:41:43,000
+eu tenho a hora que eu tô lá programando,
+
+1603
+00:41:43,000 --> 00:41:44,000
+eu quero começar lá comigo,
+
+1604
+00:41:44,000 --> 00:41:45,000
+eu vou nos caras achar,
+
+1605
+00:41:45,000 --> 00:41:46,000
+porque ele tá justamente
+
+1606
+00:41:46,000 --> 00:41:47,000
+tirando dúvidas
+
+1607
+00:41:47,000 --> 00:41:48,000
+quando eu tô trabalhando,
+
+1608
+00:41:48,000 --> 00:41:49,000
+porque eu não comeu muita coisa.
+
+1609
+00:41:49,000 --> 00:41:50,000
+Mas é a máscara,
+
+1610
+00:41:50,000 --> 00:41:51,000
+porque eu reviso coisas
+
+1611
+00:41:51,000 --> 00:41:52,000
+que eu tô aprendendo,
+
+1612
+00:41:52,000 --> 00:41:53,000
+e eu passo para ele
+
+1613
+00:41:53,000 --> 00:41:54,000
+em formação,
+
+1614
+00:41:54,000 --> 00:41:55,000
+e no que ele aprende,
+
+1615
+00:41:55,000 --> 00:41:56,000
+ele é aquele cara que eu sei,
+
+1616
+00:41:56,000 --> 00:41:57,000
+por lá,
+
+1617
+00:41:57,000 --> 00:41:58,000
+esse cara aqui em cima,
+
+1618
+00:41:58,000 --> 00:41:59,000
+ele vai trabalhar,
+
+1619
+00:41:59,000 --> 00:42:00,000
+porque o pessoal tem parte
+
+1620
+00:42:00,000 --> 00:42:01,000
+de ter esse medo também
+
+1621
+00:42:01,000 --> 00:42:02,000
+de correr atrás das coisas,
+
+1622
+00:42:02,000 --> 00:42:03,000
+e tem que ficar assim,
+
+1623
+00:42:03,000 --> 00:42:04,000
+ah, eu sou um coitadinho,
+
+1624
+00:42:04,000 --> 00:42:05,000
+eu não dou conta.
+
+1625
+00:42:05,000 --> 00:42:06,000
+Então eu sou um coitadinho,
+
+1626
+00:42:06,000 --> 00:42:07,000
+e não sei se eu vou dar
+
+1627
+00:42:07,000 --> 00:42:08,000
+como eu tivesse escada,
+
+1628
+00:42:08,000 --> 00:42:09,000
+se eu botar uma perna
+
+1629
+00:42:09,000 --> 00:42:11,000
+ou outra para pular underground,
+
+1630
+00:42:11,000 --> 00:42:12,000
+não,
+
+1631
+00:42:12,000 --> 00:42:13,000
+meu filho,
+
+1632
+00:42:13,000 --> 00:42:14,000
+pegue a rocha,
+
+1633
+00:42:14,000 --> 00:42:15,000
+e isso que mais vai acontecer,
+
+1634
+00:42:15,000 --> 00:42:16,000
+você não conseguiu.
+
+1635
+00:42:22,000 --> 00:42:23,000
+Eu quero agradecer
+
+1636
+00:42:23,000 --> 00:42:24,000
+então a presença de vocês,
+
+1637
+00:42:24,000 --> 00:42:26,000
+aqui nesse bate-papo,
+
+1638
+00:42:26,000 --> 00:42:27,000
+muito construtivo
+
+1639
+00:42:27,000 --> 00:42:28,000
+para nós,
+
+1640
+00:42:28,000 --> 00:42:29,000
+para o grupo,
+
+1641
+00:42:29,000 --> 00:42:30,000
+mulheres da tecnologia,
+
+1642
+00:42:30,000 --> 00:42:31,000
+com certeza,
+
+1643
+00:42:31,000 --> 00:42:32,000
+e a área veio agregar
+
+1644
+00:42:32,000 --> 00:42:33,000
+bastante formação para a gente,
+
+1645
+00:42:33,000 --> 00:42:34,000
+Lucas também participou
+
+1646
+00:42:34,000 --> 00:42:35,000
+bastante,
+
+1647
+00:42:35,000 --> 00:42:36,000
+obrigado,
+
+1648
+00:42:36,000 --> 00:42:37,000
+tá,
+
+1649
+00:42:37,000 --> 00:42:38,000
+tá aqui ajudando a gente,
+
+1650
+00:42:38,000 --> 00:42:39,000
+ah, e vamos marcar
+
+1651
+00:42:39,000 --> 00:42:40,000
+em mais bate-papos por aí,
+
+1652
+00:42:40,000 --> 00:42:41,000
+gente,
+
+1653
+00:42:41,000 --> 00:42:42,000
+espero contar com vocês
+
+1654
+00:42:42,000 --> 00:42:43,000
+em outros futuros aí.
+
+1655
+00:42:43,000 --> 00:42:44,000
+Então obrigada mesmo,
+
+1656
+00:42:44,000 --> 00:42:45,000
+tá,
+
+1657
+00:42:45,000 --> 00:42:46,000
+vamos para vocês.
+
+1658
+00:42:46,000 --> 00:42:48,000
+A pessoa não aceita isso aí,
+
+1659
+00:42:48,000 --> 00:42:49,000
+o protótipo sai uma semana,
+
+1660
+00:42:49,000 --> 00:42:50,000
+e o projeto inteiro
+
+1661
+00:42:50,000 --> 00:42:52,000
+tem que sair em dois anos.
+
+1662
+00:42:52,000 --> 00:42:53,000
+Como é que a pessoa
+
+1663
+00:42:53,000 --> 00:42:54,000
+não entende isso,
+
+1664
+00:42:54,000 --> 00:42:55,000
+né,
+
+1665
+00:42:55,000 --> 00:42:56,000
+acho que também.
+
+1666
+00:42:58,000 --> 00:43:00,000
+Desculpa,
+
+1667
+00:43:03,000 --> 00:43:05,000
+a diferença é tão drástica.
+
+1668
+00:43:05,000 --> 00:43:07,000
+Finalizando essa especial
+
+1669
+00:43:07,000 --> 00:43:09,000
+em mulheres na tecnologia,
+
+1670
+00:43:09,000 --> 00:43:11,000
+a Iara pelo bate-papo,
+
+1671
+00:43:11,000 --> 00:43:12,000
+então Rafa, a gente agradeceu
+
+1672
+00:43:12,000 --> 00:43:13,000
+uma reforça.
+
+1673
+00:43:13,000 --> 00:43:14,000
+Gente, eu vim aqui
+
+1674
+00:43:14,000 --> 00:43:15,000
+só para dar a receita
+
+1675
+00:43:15,000 --> 00:43:16,000
+de brigade,
+
+1676
+00:43:16,000 --> 00:43:17,000
+tá,
+
+1677
+00:43:17,000 --> 00:43:18,000
+mas enfim,
+
+1678
+00:43:18,000 --> 00:43:19,000
+ficou na edição da receita,
+
+1679
+00:43:19,000 --> 00:43:20,000
+e tem um monte de referência
+
+1680
+00:43:20,000 --> 00:43:21,000
+que ficou faltando
+
+1681
+00:43:21,000 --> 00:43:22,000
+no episódio passado,
+
+1682
+00:43:22,000 --> 00:43:23,000
+a gente vai colocar nesta.
+
+1683
+00:43:23,000 --> 00:43:25,000
+Mande seus feedbacks
+
+1684
+00:43:25,000 --> 00:43:27,000
+para podcastarrobo-tribo-de-ceia.net
+
+1685
+00:43:27,000 --> 00:43:29,000
+ou tribo-de-ceia-arroba-gmail.com.
+
+1686
+00:43:29,000 --> 00:43:31,000
+Pode mandar em meio de voz,
+
+1687
+00:43:31,000 --> 00:43:32,000
+e valeu,
+
+1688
+00:43:32,000 --> 00:43:33,000
+muito obrigado a todos vocês,
+
+1689
+00:43:33,000 --> 00:43:34,000
+valeu, Marcinha.
+
+1690
+00:43:34,000 --> 00:43:35,000
+Valeu, pessoal,
+
+1691
+00:43:35,000 --> 00:43:36,000
+valeu o tribo-de-ceia,
+
+1692
+00:43:36,000 --> 00:43:37,000
+até a próxima,
+
+1693
+00:43:37,000 --> 00:43:38,000
+se Deus quiser.
+
+1694
+00:43:39,000 --> 00:43:40,000
+E vocês também,
+
+1695
+00:43:40,000 --> 00:43:41,000
+né,
+
+1696
+00:43:41,000 --> 00:43:42,000
+ninguém aguenta, gente.
+
+1697
+00:43:42,000 --> 00:43:43,000
+Queria agradecer ao alemão
+
+1698
+00:43:43,000 --> 00:43:44,000
+pelo espaço, né,
+
+1699
+00:43:44,000 --> 00:43:45,000
+está virando o estúdio
+
+1700
+00:43:45,000 --> 00:43:46,000
+do tribo-de-ceia,
+
+1701
+00:43:46,000 --> 00:43:47,000
+a Casa do Alemão.
+
+1702
+00:43:47,000 --> 00:43:48,000
+É, só falta a...
+
+1703
+00:43:57,000 --> 00:43:59,000
+É, quero aproveitar a oportunidade
+
+1704
+00:43:59,000 --> 00:44:00,000
+de mandar um abraço
+
+1705
+00:44:00,000 --> 00:44:01,000
+da minha irmã Daniela
+
+1706
+00:44:01,000 --> 00:44:02,000
+e ela pedir
+
+1707
+00:44:02,000 --> 00:44:03,000
+para contar uma piada aqui,
+
+1708
+00:44:03,000 --> 00:44:04,000
+pode?
+
+1709
+00:44:04,000 --> 00:44:05,000
+O espaço é todo dia, vai lá.
+
+1710
+00:44:05,000 --> 00:44:06,000
+A piada vocês conhecem,
+
+1711
+00:44:06,000 --> 00:44:07,000
+mas enfim,
+
+1712
+00:44:07,000 --> 00:44:08,000
+vamos lá,
+
+1713
+00:44:08,000 --> 00:44:09,000
+eu sou ótima nisso.
+
+1714
+00:44:09,000 --> 00:44:10,000
+O que uma impressora falou
+
+1715
+00:44:10,000 --> 00:44:11,000
+para a outra?
+
+1716
+00:44:11,000 --> 00:44:12,000
+Essa é...
+
+1717
+00:44:12,000 --> 00:44:13,000
+está complicada.
+
+1718
+00:44:13,000 --> 00:44:14,000
+Esse papel é meu?
+
+1719
+00:44:14,000 --> 00:44:15,000
+Ou a impressão é seu?
+
+1720
+00:44:15,000 --> 00:44:16,000
+Não, isso é o contrário.
+
+1721
+00:44:16,000 --> 00:44:17,000
+É o contrário.
+
+1722
+00:44:17,000 --> 00:44:18,000
+Esse papel é seu,
+
+1723
+00:44:18,000 --> 00:44:19,000
+a impressão é minha,
+
+1724
+00:44:19,000 --> 00:44:20,000
+fala.
+
+1725
+00:44:20,000 --> 00:44:21,000
+Enfim,
+
+1726
+00:44:21,000 --> 00:44:22,000
+esse papel,
+
+1727
+00:44:22,000 --> 00:44:23,000
+o que é esse papel?
+
+1728
+00:44:23,000 --> 00:44:24,000
+É o contrário.
+
+1729
+00:44:24,000 --> 00:44:25,000
+É o contrário.
+
+1730
+00:44:25,000 --> 00:44:26,000
+Esse papel,
+
+1731
+00:44:26,000 --> 00:44:27,000
+esse papel é meu?
+
+1732
+00:44:27,000 --> 00:44:28,000
+É seu?
+
+1733
+00:44:28,000 --> 00:44:29,000
+Enfim, gente,
+
+1734
+00:44:29,000 --> 00:44:30,000
+não,
+
+1735
+00:44:30,000 --> 00:44:31,000
+eu não quero mais falar,
+
+1736
+00:44:31,000 --> 00:44:32,000
+corte tudo.
+
+1737
+00:44:32,000 --> 00:44:32,000
+
+

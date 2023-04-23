@@ -1,0 +1,7172 @@
+WEBVTT
+
+00:00.000 --> 00:03.500
+VOCÊ ESTÃO VINDO A TRÍMPO DO C.I. PODCAST
+
+00:13.000 --> 00:17.500
+Trímpo do C.I. Episódio 5, para o dia 24 de setembro de 2010, redes de computadores.
+
+00:21.000 --> 00:27.000
+Aqui é o Sebastian Hells, o senhor na agueta mais ouvir nos TCCs, definição de vírus, worms e o que é hacker, cara.
+
+00:27.000 --> 00:32.000
+Meu nome é Sheldon Led e a internet não é uma rede de computadores que sim uma rede de pessoas.
+
+00:32.000 --> 00:37.000
+Meu nome é Marcelo Fleuri e a internet é uma rede híbrida, de pessoas e computadoras.
+
+00:37.000 --> 00:39.000
+Tá certo disso?
+
+00:40.000 --> 00:42.000
+Queria que uma rede heterogênea.
+
+00:42.000 --> 00:44.000
+Eu diria que é uma rede.
+
+00:44.000 --> 00:46.000
+Queria que era uma internet.
+
+00:46.000 --> 00:48.000
+Eu diria que não é só Orkut em MSN.
+
+00:50.000 --> 00:52.000
+Eu não digo mais nada, porque tá chato.
+
+00:52.000 --> 00:54.000
+Esse futebol de Twitter também.
+
+00:54.000 --> 00:57.000
+No princípio, a internet era Orkut MSN.
+
+00:57.000 --> 01:00.000
+Ex, agora, Facebook e Twitter na parada.
+
+01:01.000 --> 01:03.000
+Como é que o pessoal esqueceu do YouTube?
+
+01:09.000 --> 01:11.000
+Então, chegando aqui na leitura dos meios.
+
+01:11.000 --> 01:13.000
+O que você acha?
+
+01:13.000 --> 01:14.000
+De redes?
+
+01:14.000 --> 01:16.000
+É segurança de redes ou sua rede, né?
+
+01:16.000 --> 01:18.000
+Ah, eu quero falar sobre isso, cara.
+
+01:18.000 --> 01:19.000
+Eu tenho um monte de dúvidas.
+
+01:19.000 --> 01:21.000
+Eu quero ver se eu tiro também uns 10.
+
+01:21.000 --> 01:23.000
+Antes de começar a ler os meios de verdade,
+
+01:23.000 --> 01:25.000
+eu queria, primeiramente, já lembrar
+
+01:25.000 --> 01:27.000
+que hoje nós temos outro participante,
+
+01:27.000 --> 01:29.000
+que é o Marcelo Fleuri.
+
+01:29.000 --> 01:31.000
+Opa, prazer.
+
+01:31.000 --> 01:34.000
+Então, Marcelo Fleuri vai estar aí dando participação pra gente, como vocês viram.
+
+01:34.000 --> 01:36.000
+E...
+
+01:36.000 --> 01:38.000
+Ele vai falar sobre redes.
+
+01:38.000 --> 01:40.000
+Eu tenho um background bem legal aí de sobre redes.
+
+01:40.000 --> 01:41.000
+Vai falar depois.
+
+01:41.000 --> 01:43.000
+A gente vai falar depois também sobre o CIPROX,
+
+01:43.000 --> 01:45.000
+que é o projeto dele de redes.
+
+01:45.000 --> 01:47.000
+Mas isso vai ser um assunto no próximo podcast.
+
+01:47.000 --> 01:49.000
+Só que dessa vez vai ser o próximo podcast mesmo.
+
+01:49.000 --> 01:51.000
+Mesmo que vem, nós vamos falar sobre o CIPROX.
+
+01:51.000 --> 01:53.000
+Já tá marcado, já.
+
+01:53.000 --> 01:54.000
+E o...
+
+01:54.000 --> 01:56.000
+O que é esse blog sem nome?
+
+01:56.000 --> 01:58.000
+Ah, esse é um brother aí que eu conheci.
+
+01:58.000 --> 02:00.000
+Aí ele tem um...
+
+02:00.000 --> 02:01.000
+um blog dele.
+
+02:01.000 --> 02:03.000
+Ele é daqui de Goiânia também.
+
+02:03.000 --> 02:04.000
+O blog sem nome.
+
+02:04.000 --> 02:07.000
+Porque, na verdade, é um blog pra galera...
+
+02:07.000 --> 02:08.000
+Não dizer assim...
+
+02:08.000 --> 02:09.000
+Adolescente, né?
+
+02:09.000 --> 02:10.000
+Porque...
+
+02:10.000 --> 02:12.000
+Se considerar adolescente entre...
+
+02:12.000 --> 02:14.000
+12 e 18, é uma coisa assim, né?
+
+02:14.000 --> 02:16.000
+É uma lação de Goiânia.
+
+02:16.000 --> 02:17.000
+Uma lação de Goiânia.
+
+02:17.000 --> 02:19.000
+Você fala sobre esses assuntos,
+
+02:19.000 --> 02:20.000
+os teenagers aí.
+
+02:20.000 --> 02:22.000
+Aí a gente...
+
+02:22.000 --> 02:24.000
+resolveu falar sobre ele também,
+
+02:24.000 --> 02:26.000
+porque nosso público querendo ou não,
+
+02:26.000 --> 02:27.000
+um público mais novo, né?
+
+02:27.000 --> 02:28.000
+Então...
+
+02:28.000 --> 02:29.000
+Bota sem nome.
+
+02:29.000 --> 02:30.000
+Não tem nome de nome.
+
+02:30.000 --> 02:31.000
+E vai estar o link lá no podcast, tá?
+
+02:31.000 --> 02:32.000
+Pra esse blog.
+
+02:32.000 --> 02:33.000
+Sem nome.
+
+02:34.000 --> 02:35.000
+Você fala sobre...
+
+02:35.000 --> 02:37.000
+podcast de microfonia e filhos da...
+
+02:37.000 --> 02:39.000
+Sim, o Filhos da Pauta
+
+02:39.000 --> 02:41.000
+é um podcast da galera da Unibank.
+
+02:41.000 --> 02:43.000
+Infelizmente, os caras deram uma...
+
+02:43.000 --> 02:45.000
+cara de férias, né?
+
+02:45.000 --> 02:47.000
+E o pessoal tem um tempo sem gravar,
+
+02:47.000 --> 02:49.000
+mas é um podcast legal pra caramba, lá,
+
+02:49.000 --> 02:51.000
+sobre assuntos diversos.
+
+02:51.000 --> 02:52.000
+É um podcast...
+
+02:52.000 --> 02:53.000
+é do pessoal,
+
+02:53.000 --> 02:54.000
+se não me engano,
+
+02:54.000 --> 02:55.000
+eu sou um estudante de...
+
+02:55.000 --> 02:56.000
+na área de comunicação.
+
+02:56.000 --> 02:58.000
+É bem interessante o podcast lá.
+
+02:58.000 --> 03:00.000
+E o outro podcast que eu queria falar aqui
+
+03:00.000 --> 03:02.000
+é do microfonia, cara.
+
+03:02.000 --> 03:04.000
+É o podcast que tá me dando um ódio também,
+
+03:04.000 --> 03:05.000
+grande.
+
+03:05.000 --> 03:06.000
+É esse gráfico microfone ruim, Goiânia?
+
+03:06.000 --> 03:07.000
+Não, os cara...
+
+03:07.000 --> 03:08.000
+os cara é do Cifra Club.
+
+03:08.000 --> 03:09.000
+Então assim,
+
+03:09.000 --> 03:11.000
+o som do cara sou perfeito desde o início.
+
+03:11.000 --> 03:13.000
+Nossa, que foda, hein?
+
+03:13.000 --> 03:15.000
+Não vai me dizer que você tá com o ódio deles,
+
+03:15.000 --> 03:17.000
+que eles estão colocando de oiça atriânea.
+
+03:17.000 --> 03:18.000
+Pior, cara.
+
+03:18.000 --> 03:19.000
+Eles colocaram simple red,
+
+03:19.000 --> 03:21.000
+colocaram um monte de coisas.
+
+03:21.000 --> 03:23.000
+Eu tô tendo que gastar as balas,
+
+03:23.000 --> 03:24.000
+porque às vezes, por exemplo,
+
+03:24.000 --> 03:26.000
+o podcast teria o que eu não participei.
+
+03:26.000 --> 03:27.000
+Algumas músicas...
+
+03:27.000 --> 03:29.000
+eu deixei pro próximo que eu participei.
+
+03:29.000 --> 03:31.000
+E assim, os caras, todos eram as músicas
+
+03:31.000 --> 03:33.000
+que eu acho massa também, cara.
+
+03:33.000 --> 03:34.000
+Isso não era boa pra caramba dele.
+
+03:34.000 --> 03:35.000
+Não só assunto aqui.
+
+03:35.000 --> 03:37.000
+Pra quem é musica, é bom o assunto também, né?
+
+03:37.000 --> 03:38.000
+Quem gosta de musica, quem é musica,
+
+03:38.000 --> 03:40.000
+eu recomendo aí o microfonia.
+
+03:40.000 --> 03:41.000
+Querendo ou não, a gente...
+
+03:41.000 --> 03:42.000
+Claro que a gente vai colocar,
+
+03:42.000 --> 03:44.000
+vai, tipo, meio que ligar o fôtes
+
+03:44.000 --> 03:46.000
+e colocar nas nossas coisas também.
+
+03:46.000 --> 03:47.000
+A gente só tá querendo deixar claro
+
+03:47.000 --> 03:48.000
+que não estamos copiando de ninguém,
+
+03:48.000 --> 03:49.000
+tá fazendo isso, né?
+
+03:49.000 --> 03:51.000
+São muito mais mesmo.
+
+03:51.000 --> 03:53.000
+É, o chefe de inspiração também.
+
+03:53.000 --> 03:54.000
+É.
+
+03:54.000 --> 03:56.000
+Pra leitura de meios de verdade,
+
+03:56.000 --> 03:57.000
+a gente recebeu em meio...
+
+03:57.000 --> 03:59.000
+a gente tá recebendo bastante de meios
+
+03:59.000 --> 04:01.000
+pessoal reclamando da duração
+
+04:01.000 --> 04:03.000
+e da qualidade do som.
+
+04:03.000 --> 04:06.000
+Aí nós temos a resposta para ambas as questões.
+
+04:06.000 --> 04:08.000
+Qualidade do som, eu vou deixar pro Nelson,
+
+04:08.000 --> 04:10.000
+que ele sabe ficar melhor se eu parar a fernade,
+
+04:10.000 --> 04:12.000
+que ele comprou aqui, que eu tô segurando.
+
+04:12.000 --> 04:13.000
+Eu não sei o que que é direito,
+
+04:13.000 --> 04:14.000
+só sei que eu tô parecendo falso,
+
+04:14.000 --> 04:16.000
+tão segurando um microfone aqui, grande.
+
+04:16.000 --> 04:18.000
+Qual que é o relógio na mão direita também.
+
+04:18.000 --> 04:19.000
+Explica aí.
+
+04:19.000 --> 04:20.000
+O louco, meu.
+
+04:20.000 --> 04:22.000
+Não, a gente comprou um equipamento
+
+04:22.000 --> 04:24.000
+maneiro aqui pro tribo do CI,
+
+04:24.000 --> 04:26.000
+a gente tem um microfone sem profissional,
+
+04:26.000 --> 04:28.000
+mas, tipo...
+
+04:28.000 --> 04:29.000
+e...
+
+04:29.000 --> 04:32.000
+a gente tem um pré-amplificador também,
+
+04:32.000 --> 04:34.000
+que te vai melhorar
+
+04:34.000 --> 04:36.000
+consideravelmente a qualidade
+
+04:36.000 --> 04:38.000
+de som do nosso podcast aí.
+
+04:38.000 --> 04:39.000
+Espero que vocês gostem.
+
+04:39.000 --> 04:40.000
+A gente é legal.
+
+04:40.000 --> 04:41.000
+E sobre a duração,
+
+04:41.000 --> 04:43.000
+eu até conversando com o Joelys,
+
+04:43.000 --> 04:44.000
+que é o meu brother aí,
+
+04:44.000 --> 04:46.000
+sobre a duração do podcast,
+
+04:46.000 --> 04:47.000
+porque você pode pegar.
+
+04:47.000 --> 04:49.000
+A gente baseia bastante o nosso podcast,
+
+04:49.000 --> 04:51.000
+no podcast do Nerdcast,
+
+04:51.000 --> 04:53.000
+também na época que a gente começou,
+
+04:53.000 --> 04:55.000
+as duas bases era o Nerdcast e o PathTake.
+
+04:55.000 --> 04:57.000
+E hoje a gente já escuta bastante
+
+04:57.000 --> 04:58.000
+o Bonacast, tal,
+
+04:58.000 --> 04:59.000
+falou sobre o Filhos da Pauta Livre,
+
+04:59.000 --> 05:01.000
+que você baixou e falou sobre o microfone também.
+
+05:01.000 --> 05:03.000
+Sim, você pode perceber que a característica
+
+05:03.000 --> 05:04.000
+desses podcasts,
+
+05:04.000 --> 05:06.000
+no caso, os que a gente pegou de base,
+
+05:06.000 --> 05:07.000
+são a duração.
+
+05:07.000 --> 05:08.000
+Geralmente, em torno de uma hora,
+
+05:08.000 --> 05:09.000
+uma hora e pouco.
+
+05:09.000 --> 05:10.000
+Por quê?
+
+05:10.000 --> 05:11.000
+Quando você vai assistir uma palestra,
+
+05:11.000 --> 05:12.000
+terminar da assunto,
+
+05:12.000 --> 05:13.000
+uma palestra, a duração dela
+
+05:13.000 --> 05:14.000
+é de uma hora à aula,
+
+05:14.000 --> 05:15.000
+que é 50 minutos.
+
+05:15.000 --> 05:16.000
+Então, sim,
+
+05:16.000 --> 05:18.000
+pra você falar de um assunto,
+
+05:18.000 --> 05:20.000
+um certo nível de detalhe,
+
+05:20.000 --> 05:21.000
+razoável,
+
+05:21.000 --> 05:22.000
+você precisa de ter um tempo, né?
+
+05:22.000 --> 05:23.000
+Tem que ter um tempo legal.
+
+05:23.000 --> 05:25.000
+Eu acho que 50 minutos
+
+05:25.000 --> 05:26.000
+é um tempo legal,
+
+05:26.000 --> 05:27.000
+visto que a gente tem que ler
+
+05:27.000 --> 05:28.000
+sobre os emails,
+
+05:28.000 --> 05:29.000
+falar sobre o podcast anterior,
+
+05:29.000 --> 05:30.000
+com feedback que a gente teve,
+
+05:30.000 --> 05:31.000
+tal.
+
+05:31.000 --> 05:32.000
+Então, sim, a gente tá reservando
+
+05:32.000 --> 05:33.000
+cerca de 10 minutos
+
+05:33.000 --> 05:35.000
+pra essa área de feedback.
+
+05:35.000 --> 05:37.000
+E uns 40 minutos,
+
+05:37.000 --> 05:39.000
+um pouco mais sobre o assunto
+
+05:39.000 --> 05:40.000
+em questão.
+
+05:40.000 --> 05:41.000
+A gente pede até a ajuda
+
+05:41.000 --> 05:42.000
+de vocês, assim,
+
+05:42.000 --> 05:44.000
+porque esse podcast agora
+
+05:44.000 --> 05:46.000
+a gente também tentou ser breve
+
+05:46.000 --> 05:47.000
+pra dar uma diminuída no tempo,
+
+05:47.000 --> 05:48.000
+mas, infelizmente,
+
+05:48.000 --> 05:50.000
+parece que vai ser bem
+
+05:50.000 --> 05:51.000
+um pouco maior, né?
+
+05:51.000 --> 05:52.000
+E, assim,
+
+05:52.000 --> 05:53.000
+dos assuntos específicos,
+
+05:53.000 --> 05:55.000
+a gente pede o feedback
+
+05:55.000 --> 05:56.000
+da galera,
+
+05:56.000 --> 05:57.000
+pra que daí a gente faz
+
+05:57.000 --> 05:59.000
+um podcast mais específico
+
+05:59.000 --> 06:00.000
+de cada assunto.
+
+06:00.000 --> 06:01.000
+Eu acho que a gente consegue
+
+06:01.000 --> 06:02.000
+das minhas horas,
+
+06:02.000 --> 06:03.000
+40 minutos.
+
+06:03.000 --> 06:04.000
+É, porque igual eu falei
+
+06:04.000 --> 06:05.000
+no podcast anterior, né?
+
+06:05.000 --> 06:06.000
+Eu falei, pessoal,
+
+06:06.000 --> 06:07.000
+mandar feedback,
+
+06:07.000 --> 06:08.000
+enquanto eles não mandam
+
+06:08.000 --> 06:09.000
+feedback, a gente vai fazendo
+
+06:09.000 --> 06:10.000
+a nossa maneira.
+
+06:10.000 --> 06:11.000
+É igual quando o cara tá na fila
+
+06:11.000 --> 06:12.000
+do banco, né?
+
+06:12.000 --> 06:13.000
+O cara vai lá e olha,
+
+06:13.000 --> 06:14.000
+pura na fila,
+
+06:14.000 --> 06:15.000
+faz um pouco,
+
+06:15.000 --> 06:16.000
+porque o cara foi na fila,
+
+06:16.000 --> 06:17.000
+não sei o que.
+
+06:17.000 --> 06:18.000
+Fica resmungando,
+
+06:18.000 --> 06:19.000
+vai lá, chega no cara.
+
+06:19.000 --> 06:20.000
+O que você já falou?
+
+06:20.000 --> 06:21.000
+Quer vergonha,
+
+06:21.000 --> 06:22.000
+vai pro final da fila.
+
+06:22.000 --> 06:23.000
+Sim, eu tô dando esse exemplo,
+
+06:23.000 --> 06:24.000
+mas tem vários outros exemplos.
+
+06:24.000 --> 06:25.000
+Se você chega,
+
+06:25.000 --> 06:26.000
+o cara tá conversando
+
+06:26.000 --> 06:27.000
+lá demais,
+
+06:27.000 --> 06:28.000
+faz um cara conversar
+
+06:28.000 --> 06:29.000
+lá demais.
+
+06:29.000 --> 06:30.000
+O que você não chega lá
+
+06:30.000 --> 06:31.000
+e pede pro cara
+
+06:31.000 --> 06:32.000
+pra ele conversar mais lá?
+
+06:32.000 --> 06:33.000
+Do mesmo modo,
+
+06:33.000 --> 06:34.000
+o cara não chega na gente,
+
+06:34.000 --> 06:35.000
+manda o endêvio,
+
+06:35.000 --> 06:36.000
+seja mais civilizado.
+
+06:36.000 --> 06:37.000
+E vai tá ajudando a gente
+
+06:37.000 --> 06:39.000
+e os outros ouvintes também.
+
+06:39.000 --> 06:40.000
+A questão da duração,
+
+06:40.000 --> 06:42.000
+no e-mail que recebeu da Mácia,
+
+06:42.000 --> 06:43.000
+que é aquela,
+
+06:43.000 --> 06:44.000
+gostou do conteúdo,
+
+06:44.000 --> 06:45.000
+é divertido,
+
+06:45.000 --> 06:46.000
+mas ela retomou um pouco
+
+06:46.000 --> 06:47.000
+da duração, né?
+
+06:47.000 --> 06:48.000
+Esse é o,
+
+06:48.000 --> 06:49.000
+como você,
+
+06:49.000 --> 06:50.000
+você mesmo falou
+
+06:50.000 --> 06:51.000
+no podcast anterior,
+
+06:51.000 --> 06:52.000
+eu não lembro qual foi,
+
+06:52.000 --> 06:53.000
+é que é o conceito
+
+06:53.000 --> 06:54.000
+da nova mídia, né?
+
+06:54.000 --> 06:55.000
+Então,
+
+06:55.000 --> 06:56.000
+é um conteúdo
+
+06:56.000 --> 06:57.000
+passado de uma forma mais leve,
+
+06:57.000 --> 06:58.000
+não tem aquela seriedade
+
+06:58.000 --> 06:59.000
+de uma palestra,
+
+06:59.000 --> 07:00.000
+tanto é que é uma conversa
+
+07:00.000 --> 07:01.000
+com as pessoas
+
+07:01.000 --> 07:02.000
+e tem a música de fundo
+
+07:02.000 --> 07:03.000
+e tá pra descontrair.
+
+07:03.000 --> 07:04.000
+E não é uma coisa
+
+07:04.000 --> 07:05.000
+que você tem,
+
+07:05.000 --> 07:06.000
+ou é uma palestra que você
+
+07:06.000 --> 07:07.000
+para ali pra assistir.
+
+07:07.000 --> 07:08.000
+Você pode ouvir o podcast
+
+07:08.000 --> 07:09.000
+quando você tá na fila do banco,
+
+07:09.000 --> 07:11.000
+quando você tá dirigindo seu caço,
+
+07:11.000 --> 07:12.000
+tá fazendo uma viagem,
+
+07:12.000 --> 07:14.000
+pô, vou ouvir aqui uns podcasts,
+
+07:14.000 --> 07:16.000
+você seleciona uns cinco,
+
+07:16.000 --> 07:17.000
+vai viajando, escutando.
+
+07:17.000 --> 07:18.000
+Sim, sim,
+
+07:18.000 --> 07:19.000
+você tá na academia,
+
+07:19.000 --> 07:20.000
+você põe,
+
+07:20.000 --> 07:21.000
+em vez de você escutar música,
+
+07:21.000 --> 07:22.000
+você escuta um podcast.
+
+07:22.000 --> 07:23.000
+Às vezes,
+
+07:23.000 --> 07:24.000
+quando você exerce
+
+07:24.000 --> 07:25.000
+alguma atividade
+
+07:25.000 --> 07:26.000
+e demanda tempo,
+
+07:26.000 --> 07:27.000
+porém,
+
+07:27.000 --> 07:28.000
+não existe, por exemplo,
+
+07:28.000 --> 07:29.000
+da leitura,
+
+07:29.000 --> 07:30.000
+você pode ouvir,
+
+07:30.000 --> 07:31.000
+porque,
+
+07:31.000 --> 07:32.000
+se eu ouvir um podcast,
+
+07:32.000 --> 07:33.000
+seria que você tá além,
+
+07:33.000 --> 07:34.000
+eu tô fazendo alguma coisa do tipo,
+
+07:34.000 --> 07:35.000
+que é geralmente trapada.
+
+07:35.000 --> 07:36.000
+É, eu trabalho ouvindo podcasts.
+
+07:36.000 --> 07:37.000
+Fala os podcasts
+
+07:37.000 --> 07:38.000
+quando eu não tô codificando.
+
+07:38.000 --> 07:39.000
+E se eu codificar,
+
+07:39.000 --> 07:40.000
+eu não consigo prestar atenção
+
+07:40.000 --> 07:41.000
+no podcast, não.
+
+07:41.000 --> 07:42.000
+Se você não tiver ouvido o podcast,
+
+07:42.000 --> 07:44.000
+eu não consigo prestar atenção
+
+07:44.000 --> 07:45.000
+na programação.
+
+07:45.000 --> 07:46.000
+Nossa!
+
+07:46.000 --> 07:48.000
+Você é viciado no podcast, mesmo.
+
+07:48.000 --> 07:49.000
+O nosso email é
+
+07:49.000 --> 07:51.000
+www.tribudusei.com
+
+07:51.000 --> 07:53.000
+e www.podcastarobudusei.net
+
+07:53.000 --> 07:54.000
+O cliente,
+
+07:54.000 --> 07:55.000
+você pode mandar
+
+07:55.000 --> 07:56.000
+email pros dois,
+
+07:56.000 --> 07:57.000
+a gente olha os dois,
+
+07:57.000 --> 07:58.000
+mas o do Gmail
+
+07:58.000 --> 08:00.000
+é pra você enviar
+
+08:00.000 --> 08:01.000
+aquelas emails por voz,
+
+08:01.000 --> 08:02.000
+aquelas coisas tudo lá,
+
+08:02.000 --> 08:03.000
+que, se você usar o serviço
+
+08:03.000 --> 08:04.000
+do Google,
+
+08:04.000 --> 08:05.000
+fica mais fácil.
+
+08:05.000 --> 08:06.000
+Também, tem o grupo do Google,
+
+08:06.000 --> 08:07.000
+aquelas coisas tudo lá.
+
+08:07.000 --> 08:08.000
+Essas coisas do Gmail,
+
+08:08.000 --> 08:09.000
+sabe o que é?
+
+08:09.000 --> 08:10.000
+Então, galera,
+
+08:10.000 --> 08:11.000
+manda seus feedbacks
+
+08:11.000 --> 08:12.000
+dos assuntos que
+
+08:12.000 --> 08:13.000
+vocês são mais interessados,
+
+08:13.000 --> 08:14.000
+né?
+
+08:14.000 --> 08:15.000
+Só reforçam.
+
+08:15.000 --> 08:16.000
+É, porque a gente gravar
+
+08:16.000 --> 08:17.000
+podcast mais específico,
+
+08:17.000 --> 08:18.000
+podcast aí,
+
+08:18.000 --> 08:19.000
+com a participação
+
+08:19.000 --> 08:20.000
+da nossa amigão.
+
+08:20.000 --> 08:21.000
+Conheci ele hoje,
+
+08:21.000 --> 08:22.000
+mas é amigão,
+
+08:22.000 --> 08:23.000
+um Marcelo.
+
+08:23.000 --> 08:24.000
+Reuri.
+
+08:24.000 --> 08:25.000
+Pois é, Marcelo Reuri.
+
+08:25.000 --> 08:26.000
+Então, chama aí.
+
+08:26.000 --> 08:27.000
+Vamos para a segunda parte.
+
+08:27.000 --> 08:28.000
+Então, a segunda parte,
+
+08:28.000 --> 08:29.000
+foda-me.
+
+08:29.000 --> 08:30.000
+Foda-me.
+
+08:30.000 --> 08:31.000
+Foda-me.
+
+08:31.000 --> 08:32.000
+Foda-me.
+
+08:37.000 --> 08:38.000
+Então, passando o Marcelo
+
+08:38.000 --> 08:39.000
+Feoria,
+
+08:39.000 --> 08:40.000
+foi quando a gente foi para o FIS,
+
+08:40.000 --> 08:41.000
+né?
+
+08:41.000 --> 08:42.000
+Encontrei com ele lá.
+
+08:42.000 --> 08:43.000
+Daí, eu vou assistir a palestra
+
+08:43.000 --> 08:44.000
+dele sobre o CIPROJ,
+
+08:44.000 --> 08:45.000
+que a gente vai falar no outro
+
+08:45.000 --> 08:46.000
+podcast no mês que vem.
+
+08:46.000 --> 08:47.000
+E daí,
+
+08:47.000 --> 08:48.000
+como a gente estava programado
+
+08:48.000 --> 08:49.000
+para falar sobre redes
+
+08:49.000 --> 08:50.000
+esse mês,
+
+08:50.000 --> 08:51.000
+eu convidei ele como o
+
+08:51.000 --> 08:52.000
+projeto dele
+
+08:52.000 --> 08:53.000
+sobre redes,
+
+08:53.000 --> 08:54.000
+também.
+
+08:54.000 --> 08:55.000
+Então, para ele participar
+
+08:55.000 --> 08:56.000
+desse podcast de redes
+
+08:56.000 --> 08:57.000
+e pegar um adeixo
+
+08:57.000 --> 08:58.000
+de falar sobre o projeto
+
+08:58.000 --> 08:59.000
+dele também,
+
+08:59.000 --> 09:00.000
+que é uma forma de enriquecer
+
+09:00.000 --> 09:01.000
+o nosso podcast
+
+09:01.000 --> 09:02.000
+e de publicar o projeto dele
+
+09:02.000 --> 09:03.000
+também.
+
+09:03.000 --> 09:04.000
+E vocês não vão saber agora
+
+09:04.000 --> 09:05.000
+nesse podcast
+
+09:05.000 --> 09:06.000
+sobre o projeto dele.
+
+09:06.000 --> 09:07.000
+Vocês vão ter que esperar
+
+09:07.000 --> 09:08.000
+até o mês que vem
+
+09:08.000 --> 09:09.000
+para saber.
+
+09:09.000 --> 09:10.000
+Mas ele vai ajudar bastante
+
+09:10.000 --> 09:11.000
+no conteúdo
+
+09:11.000 --> 09:12.000
+desse podcast
+
+09:12.000 --> 09:13.000
+sobre redes.
+
+09:22.000 --> 09:23.000
+Assim,
+
+09:23.000 --> 09:24.000
+qual que é o background
+
+09:24.000 --> 09:25.000
+de cada um, assim,
+
+09:25.000 --> 09:26.000
+com relação a redes?
+
+09:26.000 --> 09:27.000
+Sim.
+
+09:27.000 --> 09:28.000
+Sem esquecer
+
+09:28.000 --> 09:29.000
+que o Marcelo
+
+09:29.000 --> 09:30.000
+é mais uma vez
+
+09:30.000 --> 09:31.000
+o nosso convidado
+
+09:31.000 --> 09:32.000
+VIP
+
+09:32.000 --> 09:33.000
+no podcast.
+
+09:36.000 --> 09:37.000
+Vamos agora
+
+09:37.000 --> 09:38.000
+fazer aquela pergunta
+
+09:38.000 --> 09:39.000
+que a gente fez um a outro
+
+09:39.000 --> 09:40.000
+no podcast
+
+09:40.000 --> 09:41.000
+1,
+
+09:41.000 --> 09:42.000
+que é
+
+09:42.000 --> 09:43.000
+como foi sua iniciação
+
+09:43.000 --> 09:44.000
+no mundo
+
+09:44.000 --> 09:45.000
+da computação
+
+09:45.000 --> 09:46.000
+e
+
+09:46.000 --> 09:47.000
+já aproveitando
+
+09:47.000 --> 09:48.000
+para você falar
+
+09:48.000 --> 09:49.000
+sobre o seu background
+
+09:49.000 --> 09:50.000
+de redes também.
+
+09:50.000 --> 09:51.000
+Desde muito pequeno,
+
+09:51.000 --> 09:52.000
+eu já tenho contato
+
+09:52.000 --> 09:53.000
+com o computador,
+
+09:53.000 --> 09:54.000
+e nisso comecei
+
+09:54.000 --> 09:55.000
+a mexer
+
+09:55.000 --> 09:56.000
+com
+
+09:56.000 --> 09:57.000
+jogar,
+
+09:57.000 --> 09:58.000
+né,
+
+09:58.000 --> 09:59.000
+marcar o combate,
+
+09:59.000 --> 10:00.000
+no DOS,
+
+10:00.000 --> 10:01.000
+com o Prince of Persia
+
+10:01.000 --> 10:02.000
+e tudo aí vai.
+
+10:02.000 --> 10:03.000
+A questão é
+
+10:03.000 --> 10:04.000
+é
+
+10:04.000 --> 10:05.000
+noventa e eu comecei
+
+10:05.000 --> 10:06.000
+a programar um pouquinho
+
+10:06.000 --> 10:07.000
+dela,
+
+10:07.000 --> 10:08.000
+um pouquinho em aspo,
+
+10:08.000 --> 10:09.000
+porque meu pai
+
+10:09.000 --> 10:10.000
+é desenvolvedor
+
+10:10.000 --> 10:11.000
+nessas linguagens
+
+10:11.000 --> 10:13.000
+e eu achava legal.
+
+10:13.000 --> 10:14.000
+E aí, em 2000,
+
+10:14.000 --> 10:15.000
+eu comecei a trabalhar
+
+10:15.000 --> 10:16.000
+como
+
+10:16.000 --> 10:17.000
+como administrador
+
+10:17.000 --> 10:18.000
+de redes Linux
+
+10:18.000 --> 10:19.000
+e
+
+10:19.000 --> 10:20.000
+trabalhei quatro anos
+
+10:20.000 --> 10:21.000
+com meu pai,
+
+10:21.000 --> 10:22.000
+depois trabalhei
+
+10:22.000 --> 10:23.000
+em um provedor,
+
+10:23.000 --> 10:24.000
+de redes,
+
+10:24.000 --> 10:25.000
+pressava consultoria,
+
+10:26.000 --> 10:27.000
+e em 2006
+
+10:27.000 --> 10:28.000
+eu comecei a trabalhar
+
+10:28.000 --> 10:29.000
+no nada de desenvolvimento
+
+10:29.000 --> 10:31.000
+em Java e PHP.
+
+10:31.000 --> 10:32.000
+E aí, agora,
+
+10:32.000 --> 10:33.000
+esse ano,
+
+10:33.000 --> 10:34.000
+eu retomei
+
+10:34.000 --> 10:35.000
+a parte de
+
+10:35.000 --> 10:36.000
+consultoria
+
+10:36.000 --> 10:37.000
+em redes,
+
+10:37.000 --> 10:38.000
+segurança
+
+10:38.000 --> 10:39.000
+pela empresa.
+
+10:39.000 --> 10:40.000
+É sinal.
+
+10:40.000 --> 10:41.000
+Cara, é foda, né?
+
+10:41.000 --> 10:42.000
+Você vai ficar certo.
+
+10:42.000 --> 10:43.000
+Às vezes,
+
+10:43.000 --> 10:44.000
+eu queria te convidar,
+
+10:44.000 --> 10:45.000
+o cara,
+
+10:45.000 --> 10:46.000
+você acha que o tribo de C
+
+10:46.000 --> 10:47.000
+já é
+
+10:49.000 --> 10:50.000
+aquela coisa, né?
+
+10:51.000 --> 10:52.000
+Não, cara.
+
+10:54.000 --> 10:55.000
+Primeiro, eu pergunto,
+
+10:55.000 --> 10:56.000
+você programou em C?
+
+10:56.000 --> 10:57.000
+Cara, é só por diversão.
+
+10:57.000 --> 10:58.000
+Mas programa, né?
+
+10:58.000 --> 10:59.000
+Programa, mas...
+
+10:59.000 --> 11:00.000
+Então, pode continuar
+
+11:00.000 --> 11:01.000
+gravar o podcast?
+
+11:03.000 --> 11:04.000
+Tá, tem sim caixa
+
+11:04.000 --> 11:05.000
+nos caras que a gente considera, né?
+
+11:05.000 --> 11:06.000
+É.
+
+11:06.000 --> 11:07.000
+O que a gente só considera
+
+11:07.000 --> 11:08.000
+é quem programa em C.
+
+11:08.000 --> 11:09.000
+Se você não programar em C,
+
+11:09.000 --> 11:10.000
+já pode desligar,
+
+11:10.000 --> 11:11.000
+pode ir embora.
+
+11:11.000 --> 11:12.000
+Omente, né?
+
+11:12.000 --> 11:13.000
+A gente acredita.
+
+11:13.000 --> 11:14.000
+Como eu já falei,
+
+11:14.000 --> 11:15.000
+até no episódio 1,
+
+11:15.000 --> 11:16.000
+mas preciso ouvir não.
+
+11:17.000 --> 11:18.000
+Eu formei
+
+11:18.000 --> 11:19.000
+em redes
+
+11:19.000 --> 11:21.000
+no custo técnico de redes,
+
+11:21.000 --> 11:22.000
+com êfase...
+
+11:22.000 --> 11:24.000
+no custo técnico de informática,
+
+11:24.000 --> 11:25.000
+com êfase em rede,
+
+11:25.000 --> 11:26.000
+comunicação.
+
+11:27.000 --> 11:28.000
+E eu trabalhei,
+
+11:28.000 --> 11:29.000
+na época,
+
+11:29.000 --> 11:31.000
+na Universidade Federal
+
+11:31.000 --> 11:32.000
+do Tolkien Kings,
+
+11:33.000 --> 11:34.000
+como administrador...
+
+11:34.000 --> 11:35.000
+Na verdade,
+
+11:35.000 --> 11:36.000
+eu era encarregador de informática,
+
+11:36.000 --> 11:37.000
+né?
+
+11:37.000 --> 11:38.000
+Acabei trabalhando muito
+
+11:38.000 --> 11:39.000
+com a administração de redes
+
+11:39.000 --> 11:41.000
+e as paradas, assim.
+
+11:41.000 --> 11:43.000
+Foi quando eu tive o maior contato
+
+11:43.000 --> 11:44.000
+com o Lênus
+
+11:44.000 --> 11:46.000
+e a administração de redes.
+
+11:46.000 --> 11:47.000
+Eu vi um contador
+
+11:47.000 --> 11:48.000
+na minha vida,
+
+11:48.000 --> 11:49.000
+mais ou menos,
+
+11:49.000 --> 11:50.000
+quando eu tinha 6 anos de idade,
+
+11:50.000 --> 11:51.000
+na final, você já sabe,
+
+11:51.000 --> 11:52.000
+não quer, né?
+
+11:52.000 --> 11:53.000
+E minha formação
+
+11:53.000 --> 11:54.000
+é só
+
+11:54.000 --> 11:55.000
+que eu tenho
+
+11:55.000 --> 11:57.000
+preparado da faculdade mesmo.
+
+11:57.000 --> 11:58.000
+E...
+
+11:58.000 --> 12:00.000
+eu entendo de redes
+
+12:00.000 --> 12:01.000
+usando o jeito que vocês entendem
+
+12:01.000 --> 12:03.000
+de mecânicas desfacionáveis.
+
+12:03.000 --> 12:04.000
+Então,
+
+12:04.000 --> 12:05.000
+acho que
+
+12:05.000 --> 12:06.000
+já dá pra...
+
+12:06.000 --> 12:07.000
+se tem uma noção
+
+12:07.000 --> 12:08.000
+do meu conhecimento de redes.
+
+12:09.000 --> 12:10.000
+Até pra acertar um IP,
+
+12:10.000 --> 12:11.000
+às vezes,
+
+12:11.000 --> 12:12.000
+eu tenho dificuldade,
+
+12:12.000 --> 12:13.000
+não mentira.
+
+12:13.000 --> 12:14.000
+Cara,
+
+12:14.000 --> 12:15.000
+eu sempre tenho que consultar
+
+12:15.000 --> 12:16.000
+o homem
+
+12:16.000 --> 12:17.000
+e eu vou fazer aí,
+
+12:17.000 --> 12:18.000
+ficou fico.
+
+12:19.000 --> 12:20.000
+Cara,
+
+12:20.000 --> 12:21.000
+eu podia ser monitorador
+
+12:21.000 --> 12:22.000
+do...
+
+12:22.000 --> 12:23.000
+do clio, né?
+
+12:26.000 --> 12:27.000
+A ver,
+
+12:27.000 --> 12:28.000
+pra que um mando do clio.
+
+12:28.000 --> 12:29.000
+Eu sabia como é que funciona,
+
+12:29.000 --> 12:30.000
+e retinha e tal.
+
+12:30.000 --> 12:31.000
+Quais as opções
+
+12:31.000 --> 12:32.000
+que eu digito no clio.
+
+12:32.000 --> 12:33.000
+Então,
+
+12:33.000 --> 12:34.000
+eu volto no podcast.
+
+12:37.000 --> 12:38.000
+Finalmente,
+
+12:38.000 --> 12:39.000
+no podcast.
+
+12:39.000 --> 12:40.000
+Na verdade,
+
+12:40.000 --> 12:41.000
+esse podcast
+
+12:41.000 --> 12:42.000
+não seria nem
+
+12:42.000 --> 12:43.000
+de rede de computadores,
+
+12:43.000 --> 12:44.000
+seria mais
+
+12:44.000 --> 12:45.000
+na parte de segurança de redes.
+
+12:45.000 --> 12:46.000
+Aqui é uma rede de computadores.
+
+12:46.000 --> 12:47.000
+Leoria,
+
+12:47.000 --> 12:48.000
+pode falar isso
+
+12:48.000 --> 12:49.000
+melhor pra gente.
+
+12:57.000 --> 12:58.000
+Contei essa história
+
+12:58.000 --> 12:59.000
+com 5 minutos.
+
+12:59.000 --> 13:00.000
+É com vocês que eu...
+
+13:00.000 --> 13:01.000
+Contei essa história
+
+13:01.000 --> 13:02.000
+com não ser historiador,
+
+13:02.000 --> 13:03.000
+não, mano.
+
+13:03.000 --> 13:04.000
+Contei essa história
+
+13:04.000 --> 13:05.000
+com 5 minutos.
+
+13:05.000 --> 13:06.000
+Tempo!
+
+13:06.000 --> 13:07.000
+Então,
+
+13:07.000 --> 13:08.000
+como eu sou lá com a Arplanete,
+
+13:08.000 --> 13:09.000
+e tal,
+
+13:09.000 --> 13:10.000
+mas enfim,
+
+13:10.000 --> 13:11.000
+rede de computadores
+
+13:11.000 --> 13:12.000
+é o que...
+
+13:12.000 --> 13:13.000
+é fazer um computador
+
+13:13.000 --> 13:14.000
+se comunique
+
+13:14.000 --> 13:15.000
+com o outro, não é?
+
+13:15.000 --> 13:16.000
+E é isso.
+
+13:16.000 --> 13:18.000
+Tem várias maneiras de fazer isso.
+
+13:18.000 --> 13:19.000
+Tem vários protocolos,
+
+13:19.000 --> 13:21.000
+vários RFCs,
+
+13:21.000 --> 13:23.000
+que são os padrões
+
+13:23.000 --> 13:24.000
+dos protocolos
+
+13:24.000 --> 13:26.000
+que descrevem os protocolos,
+
+13:26.000 --> 13:28.000
+e...
+
+13:28.000 --> 13:29.000
+e vários serviços
+
+13:29.000 --> 13:31.000
+que implementam os protocolos.
+
+13:31.000 --> 13:33.000
+E no final das contas,
+
+13:33.000 --> 13:34.000
+são vários protocolos,
+
+13:34.000 --> 13:35.000
+vários serviços,
+
+13:35.000 --> 13:36.000
+vários computadores
+
+13:36.000 --> 13:37.000
+que conversam entre si.
+
+13:37.000 --> 13:38.000
+Ah, agradeço.
+
+13:39.000 --> 13:40.000
+De redes,
+
+13:40.000 --> 13:41.000
+até que
+
+13:41.000 --> 13:42.000
+não entendo muito sim,
+
+13:42.000 --> 13:43.000
+mas a história da internet,
+
+13:43.000 --> 13:44.000
+eu...
+
+13:44.000 --> 13:46.000
+eu sei bastante, sim,
+
+13:46.000 --> 13:48.000
+um nível legal,
+
+13:48.000 --> 13:49.000
+mas...
+
+13:49.000 --> 13:50.000
+é...
+
+13:50.000 --> 13:51.000
+eu queria saber assim,
+
+13:51.000 --> 13:52.000
+pela...
+
+13:52.000 --> 13:53.000
+a história da internet,
+
+13:53.000 --> 13:55.000
+a internet é a rede, né?
+
+13:55.000 --> 13:56.000
+E...
+
+13:56.000 --> 13:57.000
+a história da internet
+
+13:57.000 --> 13:58.000
+é a história
+
+13:58.000 --> 14:00.000
+da rede de computadores,
+
+14:00.000 --> 14:01.000
+porque assim,
+
+14:01.000 --> 14:02.000
+você vê lá o cara que
+
+14:02.000 --> 14:04.000
+ela foi surgindo na guerra e tal,
+
+14:04.000 --> 14:05.000
+foi usada...
+
+14:05.000 --> 14:06.000
+começou a ser usada
+
+14:06.000 --> 14:07.000
+nas universidades,
+
+14:07.000 --> 14:08.000
+depois passou
+
+14:08.000 --> 14:10.000
+para o mundo comercial e tal.
+
+14:10.000 --> 14:12.000
+E a rede de computadores já surgiu
+
+14:12.000 --> 14:13.000
+desse mesmo...
+
+14:13.000 --> 14:15.000
+foi com essa mesma linha de tempo,
+
+14:15.000 --> 14:16.000
+ou tem alguma história aí
+
+14:16.000 --> 14:17.000
+que...
+
+14:17.000 --> 14:18.000
+que tá à parte da internet?
+
+14:18.000 --> 14:19.000
+Eu acho que tem um...
+
+14:19.000 --> 14:20.000
+um período anterior
+
+14:20.000 --> 14:21.000
+bem...
+
+14:21.000 --> 14:22.000
+interessante.
+
+14:22.000 --> 14:23.000
+Eu acho que,
+
+14:23.000 --> 14:25.000
+é... quando a gente vai estudar redes,
+
+14:25.000 --> 14:26.000
+a primeira coisa que a gente tuda
+
+14:26.000 --> 14:28.000
+são as topologias de redes.
+
+14:28.000 --> 14:29.000
+Saca que topologias de redes.
+
+14:29.000 --> 14:32.000
+É, só voltando um pouquinho a...
+
+14:32.000 --> 14:33.000
+a história, né?
+
+14:33.000 --> 14:34.000
+Uma...
+
+14:34.000 --> 14:36.000
+uma parte underground que teve,
+
+14:36.000 --> 14:37.000
+foram as BBS.
+
+14:37.000 --> 14:38.000
+Infelizmente,
+
+14:38.000 --> 14:39.000
+eu não vivi isso
+
+14:39.000 --> 14:40.000
+para ter a minha BBS,
+
+14:40.000 --> 14:41.000
+para as pessoas conectarem.
+
+14:41.000 --> 14:42.000
+E eu compartilhar
+
+14:42.000 --> 14:44.000
+com a informação, né?
+
+14:44.000 --> 14:45.000
+Mas,
+
+14:45.000 --> 14:47.000
+é uma história que a galera mais antiga
+
+14:47.000 --> 14:48.000
+comenta muito
+
+14:48.000 --> 14:50.000
+e fala que era muito divertido e tudo mais.
+
+14:50.000 --> 14:51.000
+É, com relação...
+
+14:51.000 --> 14:52.000
+as topologias de redes
+
+14:52.000 --> 14:54.000
+vai muito de acordo
+
+14:54.000 --> 14:56.000
+com a necessidade da empresa,
+
+14:56.000 --> 14:58.000
+com a necessidade sua, né?
+
+14:58.000 --> 14:59.000
+Então, tem topologia estreia,
+
+14:59.000 --> 15:00.000
+lá, né?
+
+15:00.000 --> 15:01.000
+O barra.
+
+15:01.000 --> 15:02.000
+Então,
+
+15:02.000 --> 15:04.000
+a questão é você conseguir posicionar
+
+15:04.000 --> 15:06.000
+os roteadores, o suite,
+
+15:06.000 --> 15:07.000
+os firewalls, né?
+
+15:07.000 --> 15:09.000
+De acordo com a sua necessidade.
+
+15:09.000 --> 15:11.000
+De acordo com a sua demanda.
+
+15:11.000 --> 15:13.000
+Para entender o seu negócio.
+
+15:13.000 --> 15:14.000
+É, sim, para entender melhor.
+
+15:14.000 --> 15:16.000
+Eu estou aqui com o meu computador.
+
+15:16.000 --> 15:17.000
+Por exemplo,
+
+15:17.000 --> 15:18.000
+a rede em si,
+
+15:18.000 --> 15:20.000
+ela seria a comunicação, né?
+
+15:20.000 --> 15:22.000
+O princípio básico da rede.
+
+15:22.000 --> 15:23.000
+E se eu tomo um...
+
+15:23.000 --> 15:25.000
+independente de qual seja o cliente
+
+15:25.000 --> 15:27.000
+e qual seja o protocolo de comunicação.
+
+15:27.000 --> 15:28.000
+Se eu tomo um...
+
+15:28.000 --> 15:29.000
+um dashboard,
+
+15:29.000 --> 15:31.000
+um serviço de mensagem instantâneo.
+
+15:31.000 --> 15:32.000
+Quais são as etapas?
+
+15:32.000 --> 15:33.000
+Por onde faz?
+
+15:33.000 --> 15:35.000
+Eu estou falando isso porque...
+
+15:35.000 --> 15:36.000
+não sei se vocês já assistiram,
+
+15:36.000 --> 15:38.000
+eu tenho aquele vídeozinho lá do guerreiro
+
+15:38.000 --> 15:39.000
+da internet.
+
+15:39.000 --> 15:40.000
+Vocês já viram
+
+15:40.000 --> 15:42.000
+que eles mostram os protocolos,
+
+15:42.000 --> 15:43.000
+os pacotes e tal.
+
+15:43.000 --> 15:45.000
+Todo o decorrer da informação
+
+15:45.000 --> 15:47.000
+ao longo da internet.
+
+15:47.000 --> 15:48.000
+Então,
+
+15:48.000 --> 15:50.000
+vai estar no link do post também,
+
+15:50.000 --> 15:51.000
+se eu conseguir achar no YouTube.
+
+15:51.000 --> 15:53.000
+A partir do momento que eu clico aqui,
+
+15:53.000 --> 15:54.000
+o enter,
+
+15:54.000 --> 15:56.000
+que o meu texto vai sair daqui
+
+15:56.000 --> 15:58.000
+da minha área de texto,
+
+15:58.000 --> 15:59.000
+vai ir para outra pessoa.
+
+15:59.000 --> 16:00.000
+Quais são as...
+
+16:00.000 --> 16:01.000
+por onde que ele passa?
+
+16:01.000 --> 16:02.000
+Quais são os aparelhos?
+
+16:02.000 --> 16:04.000
+Quais são os serviços?
+
+16:04.000 --> 16:05.000
+Então esse trajetório
+
+16:05.000 --> 16:06.000
+para sair do meu computador
+
+16:06.000 --> 16:08.000
+e chegar no computador da outra pessoa,
+
+16:08.000 --> 16:10.000
+lá do outro lado do mundo, sei lá.
+
+16:10.000 --> 16:12.000
+É, no caso,
+
+16:12.000 --> 16:14.000
+para comunicar com outra pessoa,
+
+16:14.000 --> 16:16.000
+você vai estar comunicando utilizando um serviço.
+
+16:16.000 --> 16:18.000
+Você vai estar usando um cliente,
+
+16:18.000 --> 16:21.000
+que implementa um protocolo.
+
+16:21.000 --> 16:23.000
+E essa outra pessoa,
+
+16:23.000 --> 16:24.000
+ela vai estar acessando
+
+16:24.000 --> 16:26.000
+o mesmo serviço que você,
+
+16:26.000 --> 16:28.000
+mas pode usar um outro cliente,
+
+16:28.000 --> 16:30.000
+por exemplo, o MSN.
+
+16:30.000 --> 16:31.000
+Apesar de ser um protocolo propietário,
+
+16:31.000 --> 16:32.000
+tem vários clientes.
+
+16:32.000 --> 16:34.000
+Então, a pessoa pode estar no MIBO,
+
+16:34.000 --> 16:36.000
+no próprio cliente da Microsoft,
+
+16:36.000 --> 16:39.000
+Pigeon, Gaim, etc.
+
+16:39.000 --> 16:40.000
+Mas isso funciona por quê?
+
+16:40.000 --> 16:42.000
+Porque existe o protocolo.
+
+16:42.000 --> 16:44.000
+E aí, esses caras implementam o protocolo.
+
+16:44.000 --> 16:46.000
+Então, basicamente,
+
+16:46.000 --> 16:48.000
+toda essa conversação
+
+16:48.000 --> 16:50.000
+se dá certo por causa desse padrão,
+
+16:50.000 --> 16:52.000
+por causa desse protocolo.
+
+16:52.000 --> 16:53.000
+E nesse caso,
+
+16:53.000 --> 16:54.000
+do instant message,
+
+16:54.000 --> 16:56.000
+é um protocolo em cima de um protocolo.
+
+16:56.000 --> 16:58.000
+Por exemplo, o protocolo de rede
+
+16:58.000 --> 17:01.000
+seria o TCP e P
+
+17:01.000 --> 17:04.000
+e os próprios clientes,
+
+17:04.000 --> 17:06.000
+o instant message,
+
+17:06.000 --> 17:08.000
+eles têm os próprios protocolos
+
+17:08.000 --> 17:09.000
+de comunicação deles.
+
+17:09.000 --> 17:10.000
+Então, seria um protocolo
+
+17:10.000 --> 17:11.000
+em cima de outro protocolo.
+
+17:11.000 --> 17:13.000
+Exatamente isso.
+
+17:13.000 --> 17:15.000
+Então, você tem um modelo OS
+
+17:15.000 --> 17:16.000
+que tem sete camadas,
+
+17:16.000 --> 17:18.000
+começa pela camada de aplicação
+
+17:18.000 --> 17:20.000
+e vai ter a camada física,
+
+17:20.000 --> 17:22.000
+que é realmente
+
+17:22.000 --> 17:25.000
+onde vai o fudado.
+
+17:25.000 --> 17:26.000
+E aí, esse protocolo,
+
+17:26.000 --> 17:27.000
+esse modelo,
+
+17:27.000 --> 17:28.000
+ele é abstraído
+
+17:28.000 --> 17:30.000
+pelo modelo TCP e P
+
+17:30.000 --> 17:32.000
+que já são quatro camadas
+
+17:32.000 --> 17:35.000
+e que é o modelo da internet.
+
+17:35.000 --> 17:38.000
+Que é o padrão da internet.
+
+17:38.000 --> 17:39.000
+É abstraído porque
+
+17:39.000 --> 17:41.000
+a parte de enlace
+
+17:41.000 --> 17:44.000
+e a parte física,
+
+17:44.000 --> 17:46.000
+você nem sempre vai estar compartilhando
+
+17:46.000 --> 17:48.000
+com uma outra pessoa
+
+17:48.000 --> 17:49.000
+que está no outro mundo.
+
+17:49.000 --> 17:51.000
+Por isso que existe o modelo TCP e P
+
+17:51.000 --> 17:54.000
+que vai ter a camada de rede.
+
+17:54.000 --> 17:58.000
+E aí, como o Sebastião disse,
+
+17:58.000 --> 18:00.000
+tem a implementação do serviço,
+
+18:00.000 --> 18:02.000
+que são os protocolos
+
+18:02.000 --> 18:04.000
+que rodam em cima dessas outras camadas.
+
+18:04.000 --> 18:06.000
+Então, o pacote sai da sua máquina,
+
+18:06.000 --> 18:07.000
+vai para o seu roteador,
+
+18:07.000 --> 18:08.000
+ou para o seu switch,
+
+18:08.000 --> 18:10.000
+o seu switch para o seu roteador,
+
+18:10.000 --> 18:12.000
+para o seu roteador para o roteador da telecom
+
+18:12.000 --> 18:14.000
+e aí vai passando pelos ropes,
+
+18:14.000 --> 18:16.000
+que a gente fala.
+
+18:16.000 --> 18:18.000
+Então, o pacote,
+
+18:18.000 --> 18:20.000
+ele sai da sua máquina,
+
+18:20.000 --> 18:21.000
+a cada rope,
+
+18:21.000 --> 18:23.000
+a cada nova máquina,
+
+18:23.000 --> 18:25.000
+novo equipamento, roteador, switch,
+
+18:25.000 --> 18:26.000
+que ele passa,
+
+18:26.000 --> 18:28.000
+e isso pode ser observado
+
+18:28.000 --> 18:30.000
+com o traceroute.
+
+18:30.000 --> 18:32.000
+Então,
+
+18:32.000 --> 18:34.000
+o pacote vai para lá
+
+18:34.000 --> 18:36.000
+e ele volta para cá.
+
+18:36.000 --> 18:38.000
+E aí, como o Sebastião disse,
+
+18:38.000 --> 18:39.000
+tem várias outras,
+
+18:39.000 --> 18:40.000
+basicamente,
+
+18:40.000 --> 18:42.000
+implementação de protocolo
+
+18:42.000 --> 18:44.000
+em cima de implementação de protocolo,
+
+18:44.000 --> 18:46.000
+que vai abstraindo os outros protocolos.
+
+18:46.000 --> 18:48.000
+Porque a internet, basicamente,
+
+18:48.000 --> 18:50.000
+são vários computadores interligados,
+
+18:50.000 --> 18:52.000
+tem um servidor que genencia aquilo.
+
+18:52.000 --> 18:54.000
+Por exemplo, você pode montar
+
+18:54.000 --> 18:56.000
+uma parte,
+
+18:56.000 --> 18:58.000
+fazer um site de rodada
+
+18:58.000 --> 19:00.000
+só dentro da sua casa, por exemplo.
+
+19:00.000 --> 19:02.000
+Você tem vários computadores na sua casa
+
+19:02.000 --> 19:04.000
+e aí você monta um site no seu computador.
+
+19:04.000 --> 19:06.000
+Aí, o seu computador vai funcionar
+
+19:06.000 --> 19:08.000
+como servidor. Então,
+
+19:08.000 --> 19:10.000
+através daquela rede interna ali,
+
+19:10.000 --> 19:12.000
+alguém vai acessar
+
+19:12.000 --> 19:14.000
+o IP do seu computador
+
+19:14.000 --> 19:16.000
+com o endereço do site.
+
+19:16.000 --> 19:18.000
+Ele vai
+
+19:18.000 --> 19:20.000
+sair um cabo de rede,
+
+19:20.000 --> 19:22.000
+vai para o roteador
+
+19:22.000 --> 19:24.000
+e depois
+
+19:24.000 --> 19:26.000
+o roteador vai identificar
+
+19:26.000 --> 19:28.000
+o que ele está chamando
+
+19:28.000 --> 19:30.000
+uma requisição do meu computador.
+
+19:30.000 --> 19:32.000
+Vai lá pedir, o servidor vai processar.
+
+19:32.000 --> 19:34.000
+Então, ele devolve uma página HTML
+
+19:34.000 --> 19:36.000
+e ele é mostrado no meu computador.
+
+19:36.000 --> 19:38.000
+Então, assim, tem um certo
+
+19:38.000 --> 19:40.000
+trajetório aí. É fácil de imaginar
+
+19:40.000 --> 19:42.000
+esse IP numa rede local.
+
+19:42.000 --> 19:44.000
+Você vê seu computador estar ali do outro lado,
+
+19:44.000 --> 19:46.000
+você viu que ele passou ali
+
+19:46.000 --> 19:48.000
+de uma comunicação, basicamente, entre um computador
+
+19:48.000 --> 19:50.000
+e outro. Dúvida que sempre ele tem é o seguinte,
+
+19:50.000 --> 19:52.000
+porque você acessa o site
+
+19:52.000 --> 19:54.000
+e pode acessar um site
+
+19:54.000 --> 19:56.000
+em qualquer lugar do mundo.
+
+19:56.000 --> 19:58.000
+Mas aí, você paga para um empresa,
+
+19:58.000 --> 20:00.000
+geralmente um empresa de seu país.
+
+20:00.000 --> 20:02.000
+Eu pago, sei lá, a
+
+20:02.000 --> 20:04.000
+Brasilecom ou a
+
+20:04.000 --> 20:06.000
+Net, sei lá,
+
+20:06.000 --> 20:08.000
+para ter internet em casa. Eu pago uma mensalidade
+
+20:08.000 --> 20:10.000
+e eles fornecem internet
+
+20:10.000 --> 20:12.000
+para mim. E aí, eu conecto
+
+20:12.000 --> 20:14.000
+em alguma coisa que é deles
+
+20:14.000 --> 20:16.000
+para acessar o site, sendo que
+
+20:16.000 --> 20:18.000
+eu poderia
+
+20:18.000 --> 20:20.000
+simplesmente conectar um cabo e esse cabo ir
+
+20:20.000 --> 20:22.000
+para algum lugar, conectar
+
+20:22.000 --> 20:24.000
+várias conexões de cabos, que seria
+
+20:24.000 --> 20:26.000
+como se fosse a rede interna
+
+20:26.000 --> 20:28.000
+lá de casa, só que ali a ser por mundo inteiro.
+
+20:28.000 --> 20:30.000
+Com a respeito da história da internet
+
+20:30.000 --> 20:32.000
+ficou uma ponta solta aí, mas
+
+20:32.000 --> 20:34.000
+tem o netcast falando da
+
+20:34.000 --> 20:36.000
+história da internet, que a gente pode colocar o link
+
+20:36.000 --> 20:38.000
+no post para a gente não fazer conteúdo
+
+20:38.000 --> 20:40.000
+repetido, redundante. Tem também
+
+20:40.000 --> 20:42.000
+várias podcasts do
+
+20:42.000 --> 20:44.000
+Guanabara.info
+
+20:44.000 --> 20:46.000
+que fala a respeito para o potencial
+
+20:46.000 --> 20:48.000
+e pode colocar o link também.
+
+20:54.000 --> 20:56.000
+Uma coisa que eu não ouvi falar
+
+20:56.000 --> 20:58.000
+nesse podcast é sobre a
+
+20:58.000 --> 21:00.000
+citopologia de rede que a gente acabou falando,
+
+21:00.000 --> 21:02.000
+que
+
+21:02.000 --> 21:04.000
+e o trunfo de como funciona
+
+21:04.000 --> 21:06.000
+o IP, que foi, quer dizer,
+
+21:06.000 --> 21:08.000
+o protocolo da CPIP.
+
+21:08.000 --> 21:10.000
+No caso da citopologia de rede
+
+21:10.000 --> 21:12.000
+que o Marcelo até chegou a comentar,
+
+21:12.000 --> 21:14.000
+antes eles usavam
+
+21:14.000 --> 21:16.000
+como não era o RJ45,
+
+21:16.000 --> 21:18.000
+é um cabo coaxial.
+
+21:18.000 --> 21:20.000
+E nessa citopologia de rede
+
+21:20.000 --> 21:22.000
+a gente tinha um problema, por exemplo, no caso do anel
+
+21:22.000 --> 21:24.000
+e do barra,
+
+21:24.000 --> 21:26.000
+é que para uma informação
+
+21:26.000 --> 21:28.000
+por exemplo, eu tenho um computador A, B e C.
+
+21:28.000 --> 21:30.000
+A citopologia de anel ainda é usada em redes
+
+21:30.000 --> 21:32.000
+FTDI, né,
+
+21:32.000 --> 21:34.000
+fibra óptica,
+
+21:34.000 --> 21:36.000
+para distribuir carga e tudo mais.
+
+21:36.000 --> 21:38.000
+A questão é que
+
+21:38.000 --> 21:40.000
+plasticizar, como o Sheldon disse
+
+21:40.000 --> 21:42.000
+o simples fato de você acessar uma página
+
+21:42.000 --> 21:44.000
+na internet
+
+21:44.000 --> 21:46.000
+já envolve vários modelos
+
+21:46.000 --> 21:48.000
+e vários protocolos
+
+21:48.000 --> 21:50.000
+e todos os protocolos têm que funcionar
+
+21:50.000 --> 21:52.000
+harmonicamente.
+
+21:52.000 --> 21:54.000
+Quer dizer, você digitou lá
+
+21:54.000 --> 21:56.000
+www.cellside.com.br
+
+21:56.000 --> 21:58.000
+Quando você
+
+21:58.000 --> 22:00.000
+vai envolver
+
+22:00.000 --> 22:02.000
+o protocolo ARC
+
+22:02.000 --> 22:04.000
+acho que primeiro envolve o ARC
+
+22:04.000 --> 22:06.000
+que se você não tiver
+
+22:06.000 --> 22:08.000
+uma tabela ARC identificando quem é
+
+22:08.000 --> 22:10.000
+o seu roteador e tudo mais
+
+22:10.000 --> 22:12.000
+e aí envolve o protocolo DNS
+
+22:12.000 --> 22:14.000
+para traduzir aquele nome no IP
+
+22:14.000 --> 22:16.000
+e você vê aí que já envolve
+
+22:16.000 --> 22:18.000
+não só o protocolo HPP
+
+22:18.000 --> 22:20.000
+mas o protocolo DNS,
+
+22:20.000 --> 22:22.000
+tabela ARC, então
+
+22:22.000 --> 22:24.000
+é isso, acho que funciona tudo meio harmônico.
+
+22:24.000 --> 22:26.000
+E como funciona? Eu ditei ali o nome do site
+
+22:26.000 --> 22:28.000
+e eu coloquei enter. A partir daí
+
+22:28.000 --> 22:30.000
+que ele vai para o roteador, mas como que
+
+22:30.000 --> 22:32.000
+ele vai saber? Porque o site, na verdade, o nome
+
+22:32.000 --> 22:34.000
+do site, isso não é usado
+
+22:34.000 --> 22:36.000
+para identificar o site.
+
+22:36.000 --> 22:38.000
+Tem um IP do site, assim como tem um IP
+
+22:38.000 --> 22:40.000
+do seu computador, o site também tem um IP dele.
+
+22:40.000 --> 22:42.000
+Qual que seria o caminho
+
+22:42.000 --> 22:44.000
+para ele sair dali?
+
+22:44.000 --> 22:46.000
+O que que o provedor de internet tem a ver
+
+22:46.000 --> 22:48.000
+com servir internet?
+
+22:48.000 --> 22:50.000
+Sendo que internet é uma rede de computadores
+
+22:50.000 --> 22:52.000
+por que tem que ter um empresa
+
+22:52.000 --> 22:54.000
+para servir internet
+
+22:54.000 --> 22:56.000
+para mim? Sendo que seria
+
+22:56.000 --> 22:58.000
+no caso eu ligar no computador do vizinho
+
+22:58.000 --> 23:00.000
+e ligar no computador e fazer
+
+23:00.000 --> 23:02.000
+a ideia básica seria essa.
+
+23:02.000 --> 23:04.000
+Por que que eu preciso de uma empresa?
+
+23:04.000 --> 23:06.000
+Como que funciona? Na partir do momento que
+
+23:06.000 --> 23:08.000
+o dito tem um site,
+
+23:08.000 --> 23:10.000
+ele saiu do meu computador,
+
+23:10.000 --> 23:12.000
+para onde que ele vai,
+
+23:12.000 --> 23:14.000
+o que que vai acontecer até
+
+23:14.000 --> 23:16.000
+ir à informação e voltar
+
+23:16.000 --> 23:18.000
+a página HTML por mim. O que acontece
+
+23:18.000 --> 23:20.000
+nesse meio? Posso voltar lá no raciocínio
+
+23:20.000 --> 23:22.000
+da topologia de rede? Que é topologia de rede?
+
+23:22.000 --> 23:24.000
+É porque, como eu estava falando,
+
+23:24.000 --> 23:26.000
+nessas topologias
+
+23:26.000 --> 23:28.000
+de anel e barra que
+
+23:28.000 --> 23:30.000
+antigamente se usava até no cabo Quaxal
+
+23:30.000 --> 23:32.000
+eu tinha um problema
+
+23:32.000 --> 23:34.000
+de voltar no exemplo lá
+
+23:34.000 --> 23:36.000
+para eu ter um computador ABC
+
+23:36.000 --> 23:38.000
+e eu quero mandar
+
+23:38.000 --> 23:40.000
+eles estão ligados em barra no caso
+
+23:40.000 --> 23:42.000
+e era até assim
+
+23:42.000 --> 23:44.000
+eu tinha um
+
+23:44.000 --> 23:46.000
+o conector, ele era conector do tipo T
+
+23:46.000 --> 23:48.000
+porque ele é como se fosse
+
+23:48.000 --> 23:50.000
+é, porque eu conecto
+
+23:50.000 --> 23:52.000
+na placa de rede, tenho duas saídas
+
+23:52.000 --> 23:54.000
+eu ligo o cabo Quaxal
+
+23:54.000 --> 23:56.000
+em uma ponta e na outra
+
+23:56.000 --> 23:58.000
+e ligo no outro computador
+
+23:58.000 --> 24:00.000
+então, por exemplo, se eu tenho
+
+24:00.000 --> 24:02.000
+dois computadores assim, ABC
+
+24:02.000 --> 24:04.000
+eu vou mandar
+
+24:04.000 --> 24:06.000
+uma informação do computador A
+
+24:06.000 --> 24:08.000
+para o computador C
+
+24:08.000 --> 24:10.000
+eu preciso do computador B
+
+24:10.000 --> 24:12.000
+está ligado, é como se fosse
+
+24:12.000 --> 24:14.000
+ponta a ponta, então ele passa pelo computador A
+
+24:14.000 --> 24:16.000
+passa pelo B e passa pelo C
+
+24:16.000 --> 24:18.000
+se um desses pontos
+
+24:18.000 --> 24:20.000
+da rede cair, eu perco para rede
+
+24:20.000 --> 24:22.000
+no caso da topologia de estrela
+
+24:22.000 --> 24:24.000
+é que eu tenho isso
+
+24:24.000 --> 24:26.000
+de centralizado
+
+24:26.000 --> 24:28.000
+que também foi um grande trunfo do
+
+24:28.000 --> 24:30.000
+protocolo TCP e P
+
+24:30.000 --> 24:32.000
+e no protocolo TCP e P
+
+24:32.000 --> 24:34.000
+cada máquina
+
+24:34.000 --> 24:36.000
+é um cliente e um servidor
+
+24:36.000 --> 24:38.000
+então, quando eu mando um pacote
+
+24:38.000 --> 24:40.000
+usando protocolo TCP e P
+
+24:40.000 --> 24:42.000
+que ele passa pelo meu switch
+
+24:42.000 --> 24:44.000
+lá de repente
+
+24:44.000 --> 24:46.000
+todas as máquinas recebem aquele pacote
+
+24:46.000 --> 24:48.000
+mas na camada
+
+24:48.000 --> 24:50.000
+ele já dropa o pacote
+
+24:50.000 --> 24:52.000
+por exemplo, ele vê o pacote
+
+24:52.000 --> 24:54.000
+é, esse pacote não é para essa máquina?
+
+24:54.000 --> 24:56.000
+não, então ele já dropa o pacote
+
+24:56.000 --> 24:58.000
+por isso que eu consigo funcionar os SNIFFER
+
+24:58.000 --> 25:00.000
+porque ele não
+
+25:00.000 --> 25:02.000
+deixa eu dropar esses pacotes que não vê pra ele
+
+25:02.000 --> 25:04.000
+e agora a gente pode entrar
+
+25:04.000 --> 25:06.000
+na parte do TCP e P
+
+25:06.000 --> 25:08.000
+que é como está hoje
+
+25:08.000 --> 25:10.000
+eu já nasci na era Ethernet
+
+25:10.000 --> 25:12.000
+então o conhecimento que eu tenho
+
+25:12.000 --> 25:14.000
+referente a cabo coaxial e tudo mais
+
+25:14.000 --> 25:16.000
+até hoje, agora
+
+25:16.000 --> 25:18.000
+como o Sebastian disse
+
+25:18.000 --> 25:20.000
+com o modelo TCP e P, com a vinda do switch
+
+25:20.000 --> 25:22.000
+com a vinda da utilização
+
+25:22.000 --> 25:24.000
+da tabela A, você
+
+25:24.000 --> 25:26.000
+manda um pacote para o seu switch
+
+25:26.000 --> 25:28.000
+ele vai ser
+
+25:28.000 --> 25:30.000
+aquele pacote através do MAC address
+
+25:30.000 --> 25:32.000
+ele vai ser dedicionado
+
+25:32.000 --> 25:34.000
+a máquina que tem aquele MAC address
+
+25:34.000 --> 25:36.000
+e não ser
+
+25:36.000 --> 25:38.000
+distribuído para todos os computadores
+
+25:38.000 --> 25:40.000
+como era antigamente com a utilização de hub
+
+25:40.000 --> 25:42.000
+e aí é onde o Sebastian falou
+
+25:42.000 --> 25:44.000
+que são dos SNIFFERS
+
+25:44.000 --> 25:46.000
+um SNIFFER é uma aplicação que vai estar monitorando
+
+25:46.000 --> 25:48.000
+o tráfico na rede, antigamente
+
+25:48.000 --> 25:50.000
+você poderia SNIFFAR uma rede
+
+25:50.000 --> 25:52.000
+simplesmente deixando a sua placa de rede
+
+25:52.000 --> 25:54.000
+em modo promisco e dessa forma
+
+25:54.000 --> 25:56.000
+você poderia receber todos os pacotes da rede
+
+25:56.000 --> 25:58.000
+você iria analisar todos os pacotes da rede
+
+25:58.000 --> 26:00.000
+caso fosse um hub
+
+26:00.000 --> 26:02.000
+hoje isso é feito
+
+26:02.000 --> 26:04.000
+não da mesma maneira
+
+26:04.000 --> 26:06.000
+mas a gente continua podendo
+
+26:06.000 --> 26:08.000
+infectar a tabela ARP
+
+26:08.000 --> 26:10.000
+do nosso switch
+
+26:10.000 --> 26:12.000
+e de modo
+
+26:12.000 --> 26:14.000
+a tabela ARP da rede
+
+26:14.000 --> 26:16.000
+porque a tabela ARP é compartilhada entre os computadores
+
+26:16.000 --> 26:18.000
+que estão no switch
+
+26:18.000 --> 26:20.000
+e de modo que aquele pacote
+
+26:20.000 --> 26:22.000
+vai ser entregue para a gente também
+
+26:22.000 --> 26:24.000
+então você cona o MAC address
+
+26:24.000 --> 26:26.000
+do seu roteador
+
+26:26.000 --> 26:28.000
+e aí o switch vai entregar aquele pacote
+
+26:28.000 --> 26:30.000
+não só para o roteador
+
+26:30.000 --> 26:32.000
+mas para a sua máquina também
+
+26:32.000 --> 26:34.000
+então você continua podendo SNIFFAR
+
+26:34.000 --> 26:36.000
+o que é o MAC address?
+
+26:36.000 --> 26:38.000
+o MAC address é um número
+
+26:38.000 --> 26:40.000
+que identifica o fabricante
+
+26:40.000 --> 26:42.000
+da sua placa de rede
+
+26:42.000 --> 26:44.000
+informações sobre as plas de rede
+
+26:44.000 --> 26:46.000
+acho que os três primeiros
+
+26:46.000 --> 26:48.000
+as três primeiros campos
+
+26:48.000 --> 26:50.000
+são referentes à fabricação
+
+26:50.000 --> 26:52.000
+são os três primeiros
+
+26:52.000 --> 26:54.000
+mas tem essa parte lá
+
+26:54.000 --> 26:56.000
+e os outros
+
+26:56.000 --> 26:58.000
+é que só a sua placa de rede tem
+
+26:58.000 --> 27:00.000
+então por isso que às vezes
+
+27:00.000 --> 27:02.000
+algumas redes corporativas sem problema
+
+27:02.000 --> 27:04.000
+porque as placas de rede são conadas
+
+27:04.000 --> 27:06.000
+fisicamente e tem o mesmo MAC address
+
+27:06.000 --> 27:08.000
+e assim é normal
+
+27:08.000 --> 27:10.000
+você chegar numa rede
+
+27:10.000 --> 27:12.000
+e aparecer
+
+27:12.000 --> 27:14.000
+duas placas de rede que tem o mesmo MAC address
+
+27:14.000 --> 27:16.000
+e que isso não foi feito propositalmente
+
+27:16.000 --> 27:18.000
+mas sim, já a nível de hardware
+
+27:18.000 --> 27:20.000
+mas aí tem como você pegar
+
+27:20.000 --> 27:22.000
+por exemplo, se um cara clonar
+
+27:22.000 --> 27:24.000
+são MAC address, hoje já é possível
+
+27:24.000 --> 27:26.000
+tem como? porque apesar
+
+27:26.000 --> 27:28.000
+do MAC address ser o regiço físico
+
+27:28.000 --> 27:30.000
+da placa de rede, quando ele vai trafegar
+
+27:30.000 --> 27:32.000
+ele vai
+
+27:32.000 --> 27:34.000
+de maneira virtual
+
+27:34.000 --> 27:36.000
+ele não vai fisicamente
+
+27:36.000 --> 27:38.000
+então você pode
+
+27:38.000 --> 27:40.000
+envenenar a tabela rápido
+
+27:40.000 --> 27:42.000
+da rede e transtrafegar
+
+27:42.000 --> 27:44.000
+o pacote por aquele MAC address
+
+27:44.000 --> 27:46.000
+estou tendo
+
+27:46.000 --> 27:48.000
+muito lindo
+
+27:48.000 --> 27:50.000
+o esquema do MAC address
+
+27:50.000 --> 27:52.000
+teoricamente
+
+27:52.000 --> 27:54.000
+teria que ser
+
+27:54.000 --> 27:56.000
+um número
+
+27:56.000 --> 27:58.000
+único que identificasse aquele hardware
+
+27:58.000 --> 28:00.000
+único no mundo inteiro
+
+28:00.000 --> 28:02.000
+só que acontece
+
+28:02.000 --> 28:04.000
+que o pessoal compra uma placa de singulings
+
+28:04.000 --> 28:06.000
+e elas vêm com o mesmo MAC address
+
+28:06.000 --> 28:08.000
+então às vezes um problema
+
+28:08.000 --> 28:10.000
+de rede é porque
+
+28:10.000 --> 28:12.000
+o cara não consegue descobrir
+
+28:12.000 --> 28:14.000
+o que está dando problema na rede
+
+28:14.000 --> 28:16.000
+na placa você tem o mesmo MAC
+
+28:16.000 --> 28:18.000
+e para descobrir isso
+
+28:18.000 --> 28:20.000
+é bem complicado
+
+28:20.000 --> 28:22.000
+no episódio anterior
+
+28:22.000 --> 28:24.000
+no episódio anterior
+
+28:24.000 --> 28:26.000
+o pessoal esqueceu
+
+28:26.000 --> 28:28.000
+de comentar que o
+
+28:28.000 --> 28:30.000
+o Jojo reclamou que eu não
+
+28:30.000 --> 28:32.000
+falo mais um pouco não
+
+28:32.000 --> 28:34.000
+mas especialmente para ele eu estou
+
+28:34.000 --> 28:36.000
+falando ou não
+
+28:36.000 --> 28:38.000
+tabela AR
+
+28:38.000 --> 28:40.000
+é onde fica gravado
+
+28:40.000 --> 28:42.000
+os MAC address dos computadores
+
+28:42.000 --> 28:44.000
+estão naquela rede física
+
+28:44.000 --> 28:46.000
+então
+
+28:46.000 --> 28:48.000
+o MAC address como o Sebastião disse
+
+28:48.000 --> 28:50.000
+é o número único da placa de rede
+
+28:50.000 --> 28:52.000
+e essa tabela pode ser envenenada
+
+28:52.000 --> 28:54.000
+você pode falar que um determinado IP
+
+28:54.000 --> 28:56.000
+tem o mesmo MAC address do roteador
+
+28:56.000 --> 28:58.000
+o que acontece
+
+28:58.000 --> 29:00.000
+e que tem como muitas vezes fazer
+
+29:00.000 --> 29:02.000
+é você vincular
+
+29:02.000 --> 29:04.000
+a porta internet do seu suíte
+
+29:04.000 --> 29:06.000
+a um IP
+
+29:06.000 --> 29:08.000
+dessa maneira
+
+29:08.000 --> 29:10.000
+você vai estar se resguardando
+
+29:10.000 --> 29:12.000
+de um envenenamento para tabela
+
+29:12.000 --> 29:14.000
+mas isso não é muito feito
+
+29:14.000 --> 29:16.000
+o esquema do clone do MAC address
+
+29:16.000 --> 29:18.000
+às vezes inclusive é necessário
+
+29:18.000 --> 29:20.000
+para alguns roteados
+
+29:20.000 --> 29:22.000
+moderns
+
+29:22.000 --> 29:24.000
+de internet eles não funcionam
+
+29:24.000 --> 29:26.000
+é preciso clonar o MAC address
+
+29:26.000 --> 29:28.000
+do seu roteado arias
+
+29:28.000 --> 29:30.000
+para poder funcionar
+
+29:36.000 --> 29:38.000
+para fazer o esquema que o Marcelo
+
+29:38.000 --> 29:40.000
+falou eu preciso ter um suíte gerenciável
+
+29:40.000 --> 29:42.000
+e a maioria do suíte
+
+29:42.000 --> 29:44.000
+é quase que um hub
+
+29:44.000 --> 29:46.000
+nem todos
+
+29:46.000 --> 29:48.000
+é só muda o nome mesmo
+
+29:48.000 --> 29:50.000
+mas o suíte seria o suíte
+
+29:50.000 --> 29:52.000
+a minha dúvida ainda não foi
+
+29:52.000 --> 29:54.000
+esperecida mas eu vou
+
+29:54.000 --> 29:56.000
+depois eu pergunto de novo
+
+29:56.000 --> 29:58.000
+agora eu fico com outro dúvida
+
+29:58.000 --> 30:00.000
+qual é a diferença entre hub e suíte?
+
+30:00.000 --> 30:02.000
+o hub ele repassa
+
+30:02.000 --> 30:04.000
+chega a informação para ele
+
+30:04.000 --> 30:06.000
+e ele replica aquela informação
+
+30:06.000 --> 30:08.000
+de internet
+
+30:08.000 --> 30:10.000
+então aquele pacote
+
+30:10.000 --> 30:12.000
+vai chegar para todo mundo
+
+30:12.000 --> 30:14.000
+o suíte ele entrega
+
+30:14.000 --> 30:16.000
+para
+
+30:16.000 --> 30:18.000
+internet que tem aquele MAC address
+
+30:18.000 --> 30:20.000
+isso é feito através de um protocolo
+
+30:20.000 --> 30:22.000
+é o LLC
+
+30:22.000 --> 30:24.000
+você tem
+
+30:24.000 --> 30:26.000
+a montagem da tabela
+
+30:26.000 --> 30:28.000
+falando do padrão Ethernet
+
+30:28.000 --> 30:30.000
+o que a gente usa
+
+30:30.000 --> 30:32.000
+que é aquele cabo
+
+30:32.000 --> 30:34.000
+RJ45
+
+30:34.000 --> 30:36.000
+para o padrão Ethernet
+
+30:36.000 --> 30:38.000
+ele tem por exemplo
+
+30:38.000 --> 30:40.000
+se eu for usar
+
+30:40.000 --> 30:42.000
+uma rede de 10 barras
+
+30:42.000 --> 30:44.000
+10 barras 10
+
+30:44.000 --> 30:46.000
+de 10 megabytes
+
+30:46.000 --> 30:48.000
+eu só utilizo
+
+30:48.000 --> 30:50.000
+4
+
+30:50.000 --> 30:52.000
+o cabo par transado
+
+30:52.000 --> 30:54.000
+são 8 fiozinhos
+
+30:54.000 --> 30:56.000
+se eu estiver usando uma rede de 10 megabytes
+
+30:56.000 --> 30:58.000
+eu só utilizo 4 fiozinhos
+
+30:58.000 --> 31:00.000
+se eu estiver usando uma 10 barras 100
+
+31:00.000 --> 31:02.000
+eu utilizo 6
+
+31:02.000 --> 31:04.000
+se eu estiver usando uma
+
+31:04.000 --> 31:06.000
+10 barras 100
+
+31:06.000 --> 31:08.000
+aí sim que vai ser necessário
+
+31:08.000 --> 31:10.000
+eu utilizar os 8 fios
+
+31:10.000 --> 31:12.000
+porque quando eu faço um cabo cross over
+
+31:12.000 --> 31:14.000
+se eu vou utilizar uma rede de 10 barras 100
+
+31:14.000 --> 31:16.000
+eu não preciso nem
+
+31:16.000 --> 31:18.000
+tem 4 cabis lá que eu não preciso nem me preocupar
+
+31:18.000 --> 31:20.000
+se eu for usar uma 1 gigabyte
+
+31:20.000 --> 31:22.000
+eu só tenho que verter esses cabos
+
+31:22.000 --> 31:24.000
+porque assim
+
+31:24.000 --> 31:26.000
+no padrão
+
+31:26.000 --> 31:28.000
+eu tenho
+
+31:28.000 --> 31:30.000
+se for uma gigabyte
+
+31:30.000 --> 31:32.000
+4 cabos que enviam
+
+31:32.000 --> 31:34.000
+4 cabos que recebem
+
+31:34.000 --> 31:36.000
+quando eu faço um cabo cross over
+
+31:36.000 --> 31:38.000
+ele tem que estar investido
+
+31:38.000 --> 31:40.000
+seria legal se pudesse ver o gesto que eu estou fazendo
+
+31:40.000 --> 31:42.000
+ele tem que ser investido
+
+31:42.000 --> 31:44.000
+e é uma formação
+
+31:44.000 --> 31:46.000
+mas é porque
+
+31:46.000 --> 31:48.000
+eu tenho os canais que são os tx
+
+31:48.000 --> 31:50.000
+e os rx
+
+31:50.000 --> 31:52.000
+tx que são de transmissão
+
+31:52.000 --> 31:54.000
+e os rx que não se vê
+
+31:54.000 --> 31:56.000
+por isso que eu tenho esses cabos investidos
+
+31:56.000 --> 31:58.000
+porque um tx
+
+31:58.000 --> 32:00.000
+que é um cabo cross over
+
+32:00.000 --> 32:02.000
+o meu tx
+
+32:02.000 --> 32:04.000
+vai ligar com o rx
+
+32:04.000 --> 32:06.000
+e da outra interface
+
+32:06.000 --> 32:08.000
+só sei que minha dúvida vai ficando atrás
+
+32:08.000 --> 32:10.000
+quero saber todos os caminhos
+
+32:10.000 --> 32:12.000
+de uma informação dudo
+
+32:12.000 --> 32:14.000
+o que a gente está falando é para preparar
+
+32:14.000 --> 32:16.000
+para responder essa pergunta do show
+
+32:16.000 --> 32:18.000
+e se simplificar isso a questão é
+
+32:18.000 --> 32:20.000
+tem um protocolo A
+
+32:20.000 --> 32:22.000
+você pluga primeiro e tem que ter um cab de edge
+
+32:22.000 --> 32:24.000
+ou está conectado numa rede sem fio
+
+32:24.000 --> 32:26.000
+e aí se tiver um switch
+
+32:26.000 --> 32:28.000
+você vai saber qual são o macadras
+
+32:28.000 --> 32:30.000
+e através disso os pacotes vão chegar até você
+
+32:30.000 --> 32:32.000
+e você vai mandar pacotes
+
+32:32.000 --> 32:34.000
+você vai saber o macadras do roteador
+
+32:34.000 --> 32:36.000
+você vai enviar pacotes
+
+32:36.000 --> 32:38.000
+para o roteador
+
+32:38.000 --> 32:40.000
+chega o pacote do roteador
+
+32:40.000 --> 32:42.000
+o roteador vai enviar para o roteador dele
+
+32:42.000 --> 32:44.000
+que é o nash hope dele
+
+32:44.000 --> 32:46.000
+e esse pacote vai se propagando
+
+32:46.000 --> 32:48.000
+para o modem, para o seu modem
+
+32:48.000 --> 32:50.000
+vai para o roteador do telecom
+
+32:50.000 --> 32:52.000
+do roteador do telecom para o roteador
+
+32:52.000 --> 32:54.000
+e assim sucessivamente
+
+32:54.000 --> 32:56.000
+a pergunta é por que existe as empresas
+
+32:56.000 --> 32:58.000
+as empresas existem
+
+32:58.000 --> 33:00.000
+justamente para você conseguir
+
+33:00.000 --> 33:02.000
+interligar todas essas redes
+
+33:02.000 --> 33:04.000
+domésticas e essas redes
+
+33:04.000 --> 33:06.000
+empresariais
+
+33:06.000 --> 33:08.000
+e é um conceito importante que eu queria chegar
+
+33:08.000 --> 33:10.000
+que é o conceito de gateway
+
+33:10.000 --> 33:12.000
+o gateway basicamente
+
+33:12.000 --> 33:14.000
+a definição dele é para
+
+33:14.000 --> 33:16.000
+um gateway serve
+
+33:16.000 --> 33:18.000
+para interligar outras redes
+
+33:18.000 --> 33:20.000
+seja ela interno ou externo
+
+33:20.000 --> 33:22.000
+no caso do
+
+33:22.000 --> 33:24.000
+provedor da internet presa para o provedor
+
+33:24.000 --> 33:26.000
+que eu contratei o serviço
+
+33:26.000 --> 33:28.000
+ela é meu gateway para o mundo
+
+33:28.000 --> 33:30.000
+e isso é exatamente isso aí
+
+33:30.000 --> 33:32.000
+a sua telecom, o seu provedor, não o seu provedor
+
+33:32.000 --> 33:34.000
+no brasil os provedores
+
+33:34.000 --> 33:36.000
+só fazem a parte de autenticação
+
+33:36.000 --> 33:38.000
+e basicamente o provedor
+
+33:38.000 --> 33:40.000
+tem uma interligação com o telecom
+
+33:40.000 --> 33:42.000
+que é brasil do lecom e brato
+
+33:42.000 --> 33:44.000
+é o que seja, que repassa
+
+33:44.000 --> 33:46.000
+e ele repassa o seu pacote
+
+33:46.000 --> 33:48.000
+para o telecom
+
+33:48.000 --> 33:50.000
+quer dizer, no final das contas
+
+33:50.000 --> 33:52.000
+você não precisaria dos provedores
+
+33:52.000 --> 33:54.000
+porque eles basicamente
+
+33:54.000 --> 33:56.000
+só servem para autenticar
+
+33:56.000 --> 33:58.000
+se você montar uma empresa que não vende internet
+
+33:58.000 --> 34:00.000
+o que você vai fazer?
+
+34:00.000 --> 34:02.000
+para vender internet você precisaria
+
+34:02.000 --> 34:04.000
+ter link
+
+34:04.000 --> 34:06.000
+link grande
+
+34:06.000 --> 34:08.000
+você precisaria ser uma S
+
+34:08.000 --> 34:10.000
+que é um sistema autônomo
+
+34:10.000 --> 34:12.000
+que nesse caso você iria compartilhar
+
+34:12.000 --> 34:14.000
+a tabela de uteamento com outras AS
+
+34:14.000 --> 34:16.000
+e isso aí é interessante
+
+34:16.000 --> 34:18.000
+porque isso é feito
+
+34:18.000 --> 34:20.000
+para o protocolo BGP
+
+34:20.000 --> 34:22.000
+e isso é interessante porque você vai estar
+
+34:22.000 --> 34:24.000
+compartilhando tabela de uteamento
+
+34:24.000 --> 34:26.000
+com o mundo inteiro
+
+34:26.000 --> 34:28.000
+basicamente é isso
+
+34:28.000 --> 34:30.000
+você precisa ter banda
+
+34:30.000 --> 34:32.000
+você precisa ter vínculo com a telecom
+
+34:32.000 --> 34:34.000
+para ser uma S
+
+34:34.000 --> 34:36.000
+nem sempre você precisa ser uma S na verdade
+
+34:36.000 --> 34:38.000
+mas você precisa ter vínculo
+
+34:38.000 --> 34:40.000
+pelo menos para fazer autenticação
+
+34:40.000 --> 34:42.000
+que aí normalmente é feita via protocolo
+
+34:42.000 --> 34:44.000
+radius
+
+34:44.000 --> 34:46.000
+no caso para você ter
+
+34:46.000 --> 34:48.000
+tem duas opções
+
+34:48.000 --> 34:50.000
+pode ser um getter
+
+34:50.000 --> 34:52.000
+fazer uma sub rede a partir da tua rede
+
+34:52.000 --> 34:54.000
+no caso se você está se fazer uma conexão
+
+34:54.000 --> 34:56.000
+com o roxo não conseguiria
+
+34:56.000 --> 34:58.000
+porque ele iria conectar a tua empresa
+
+34:58.000 --> 35:00.000
+ou então pegar um range de
+
+35:00.000 --> 35:02.000
+IP
+
+35:02.000 --> 35:04.000
+para cada pessoa que se conectar
+
+35:04.000 --> 35:06.000
+ela recebeu um IP
+
+35:06.000 --> 35:08.000
+eu lembro até na época da internet
+
+35:08.000 --> 35:10.000
+de escada que eu montei um servidor
+
+35:10.000 --> 35:12.000
+com HTTP
+
+35:12.000 --> 35:14.000
+na época eu estava fazendo frio
+
+35:14.000 --> 35:16.000
+no Japão e ele fez uma conexão
+
+35:16.000 --> 35:18.000
+direta com minha máquina e HTTP
+
+35:18.000 --> 35:20.000
+eu montei o servidor
+
+35:20.000 --> 35:22.000
+e ele acessou a página
+
+35:22.000 --> 35:24.000
+que eu tinha hospedado na minha marca
+
+35:24.000 --> 35:26.000
+o que acontece muito que a gente não consegue fazer isso hoje
+
+35:26.000 --> 35:28.000
+é porque essas empresas
+
+35:28.000 --> 35:30.000
+bloqueia algumas portas ventrantes
+
+35:30.000 --> 35:32.000
+no caso do protocolo HTTP
+
+35:32.000 --> 35:34.000
+a porta padrão é 80
+
+35:34.000 --> 35:36.000
+então geralmente
+
+35:36.000 --> 35:38.000
+a sua telecom
+
+35:38.000 --> 35:40.000
+ela vai
+
+35:40.000 --> 35:42.000
+bloquear a porta 80
+
+35:42.000 --> 35:44.000
+para evitar usos empresariais
+
+35:44.000 --> 35:46.000
+da internet
+
+35:46.000 --> 35:48.000
+então o cara vai tentar conectar na sua porta 80
+
+35:48.000 --> 35:50.000
+e vai estar bloqueado lá
+
+35:50.000 --> 35:52.000
+pode desbloquear
+
+35:52.000 --> 35:54.000
+o mais fácil é só hospedar em outra porta
+
+35:54.000 --> 35:56.000
+é isso aí a questão do sabachão
+
+35:56.000 --> 35:58.000
+passei por um processo
+
+35:58.000 --> 36:00.000
+interessante, trabalhava numa empresa
+
+36:00.000 --> 36:02.000
+eu comecei a trabalhar com meu pai
+
+36:02.000 --> 36:04.000
+e a gente recebia
+
+36:04.000 --> 36:06.000
+ligação
+
+36:06.000 --> 36:08.000
+dos clientes
+
+36:08.000 --> 36:10.000
+então a gente tinha moldeis externos
+
+36:10.000 --> 36:12.000
+de 56k
+
+36:12.000 --> 36:14.000
+e tinha um link com a Embratel
+
+36:14.000 --> 36:16.000
+eu não sei quantos k, e tinha alguns
+
+36:16.000 --> 36:18.000
+e tinha um servidor
+
+36:18.000 --> 36:20.000
+dial-up que ficava recebendo
+
+36:20.000 --> 36:22.000
+essas ligações
+
+36:22.000 --> 36:24.000
+os clientes conectavam na nossa
+
+36:24.000 --> 36:26.000
+infraestrutura via
+
+36:26.000 --> 36:28.000
+conexão dial-up
+
+36:28.000 --> 36:30.000
+a gente tinha alguns IPs fixos
+
+36:30.000 --> 36:32.000
+com a Embratel
+
+36:32.000 --> 36:34.000
+mas tudo isso para o cara
+
+36:34.000 --> 36:36.000
+acessar
+
+36:36.000 --> 36:38.000
+a nossa infraestrutura
+
+36:38.000 --> 36:40.000
+como a gente não queria expor esse servidor
+
+36:40.000 --> 36:42.000
+na internet
+
+36:42.000 --> 36:44.000
+a gente usava esse artifício
+
+36:44.000 --> 36:46.000
+da conexão dial-up
+
+36:46.000 --> 36:48.000
+era interessante essa época
+
+36:48.000 --> 36:50.000
+na época da era discada
+
+36:50.000 --> 36:52.000
+que por exemplo, o joguinho como o eji
+
+36:52.000 --> 36:54.000
+foi em paz você conseguia fazer a conexão
+
+36:54.000 --> 36:56.000
+direto via modem, modem é modem
+
+36:56.000 --> 36:58.000
+é ao invés de digital
+
+36:58.000 --> 37:00.000
+o IP do rapaz
+
+37:00.000 --> 37:02.000
+do jovem
+
+37:02.000 --> 37:04.000
+que estava do outro lado querendo jogar
+
+37:04.000 --> 37:06.000
+a sexta-feira no nosso caso
+
+37:06.000 --> 37:08.000
+de manhã gravando podcast
+
+37:08.000 --> 37:10.000
+o cara digitava o número de telefone
+
+37:10.000 --> 37:12.000
+do maluco
+
+37:12.000 --> 37:14.000
+então fazer a conexão modem é modem
+
+37:14.000 --> 37:16.000
+e não travava um jogo
+
+37:16.000 --> 37:18.000
+ah, quem?
+
+37:18.000 --> 37:20.000
+vai para o vídeo de história
+
+37:20.000 --> 37:22.000
+cheio de cem
+
+37:22.000 --> 37:24.000
+o último caramba
+
+37:24.000 --> 37:26.000
+internet studio elevador
+
+37:28.000 --> 37:30.000
+por que vocês explicassem
+
+37:30.000 --> 37:32.000
+a diferença no caso entre HPP e STP
+
+37:32.000 --> 37:34.000
+que eu acho que
+
+37:34.000 --> 37:36.000
+o HPP é o
+
+37:36.000 --> 37:38.000
+high-press
+
+37:38.000 --> 37:40.000
+transporte protocolo
+
+37:40.000 --> 37:42.000
+e o FTP
+
+37:42.000 --> 37:44.000
+a diferença básica
+
+37:44.000 --> 37:46.000
+eu não sei
+
+37:46.000 --> 37:48.000
+e o app é o address resolution
+
+37:48.000 --> 37:50.000
+o HPTP foi criado para você
+
+37:50.000 --> 37:52.000
+compartilhar a informação
+
+37:52.000 --> 37:54.000
+via html
+
+37:54.000 --> 37:56.000
+ou html
+
+37:56.000 --> 37:58.000
+hoje tem flash
+
+37:58.000 --> 38:00.000
+mas compartilhar a informação
+
+38:00.000 --> 38:02.000
+e não transferência de arquivos
+
+38:02.000 --> 38:04.000
+foi criado com um tuto
+
+38:04.000 --> 38:06.000
+somente de transferência de arquivos binários
+
+38:06.000 --> 38:08.000
+de transferência de arquivos
+
+38:08.000 --> 38:10.000
+realmente
+
+38:10.000 --> 38:12.000
+então por isso que existe o FTP
+
+38:12.000 --> 38:14.000
+hoje já existe o SFTP
+
+38:14.000 --> 38:16.000
+que é o FTP
+
+38:16.000 --> 38:18.000
+em cima de SSL
+
+38:18.000 --> 38:20.000
+então
+
+38:20.000 --> 38:22.000
+por que isso? porque
+
+38:22.000 --> 38:24.000
+antigamente teria como você
+
+38:24.000 --> 38:26.000
+começar a
+
+38:26.000 --> 38:28.000
+monitorar uma transação FTP
+
+38:28.000 --> 38:30.000
+do início ao fim
+
+38:30.000 --> 38:32.000
+aquele arquivo binário
+
+38:32.000 --> 38:34.000
+aquela imagem
+
+38:34.000 --> 38:36.000
+seja o que for
+
+38:36.000 --> 38:38.000
+inclusive tem um projeto muito legal
+
+38:38.000 --> 38:40.000
+para fazer forenze
+
+38:40.000 --> 38:42.000
+na parte network
+
+38:42.000 --> 38:44.000
+que chama explico
+
+38:44.000 --> 38:46.000
+então esse cara fica esnifando a rede
+
+38:46.000 --> 38:48.000
+você faz uma posição e ele vai
+
+38:48.000 --> 38:50.000
+estar monitorando, vai estar capturando os pacotes
+
+38:50.000 --> 38:52.000
+e aí ele remonta todos os arquivos da rede
+
+38:52.000 --> 38:54.000
+então você está vendo um vídeo, ele remonta o vídeo
+
+38:54.000 --> 38:56.000
+você está vendo uma imagem, ele remonta a imagem
+
+38:56.000 --> 38:58.000
+um arquivo Zipada, ele remonta o arquivo Zipada
+
+38:58.000 --> 39:00.000
+e isso é algo bem legal
+
+39:00.000 --> 39:02.000
+ou não
+
+39:02.000 --> 39:04.000
+isso não é preso
+
+39:04.000 --> 39:06.000
+o cara deve ser muito engraçado
+
+39:06.000 --> 39:08.000
+o cara pede o arquivo que eu baixei na internet
+
+39:08.000 --> 39:10.000
+não tem um pkp
+
+39:10.000 --> 39:12.000
+mas hoje
+
+39:12.000 --> 39:14.000
+por exemplo
+
+39:14.000 --> 39:16.000
+se você editar um arquivo pdf
+
+39:16.000 --> 39:18.000
+p3, você coloca no seu servidor
+
+39:18.000 --> 39:20.000
+do seu site lá, se você
+
+39:20.000 --> 39:22.000
+joga um link do arquivo
+
+39:22.000 --> 39:24.000
+vai estar lá gattp, o nome do site
+
+39:24.000 --> 39:26.000
+barraarchivos, barraarchivo.pdf
+
+39:26.000 --> 39:28.000
+por exemplo
+
+39:28.000 --> 39:30.000
+você consegue baixar o arquivo
+
+39:30.000 --> 39:32.000
+então acho que foge
+
+39:32.000 --> 39:34.000
+do conceito da diferença de gattp ftp
+
+39:34.000 --> 39:36.000
+você está certo
+
+39:36.000 --> 39:38.000
+o servidor da ftp você pode enviar
+
+39:38.000 --> 39:40.000
+arquivos também
+
+39:40.000 --> 39:42.000
+por um protocolo gattp
+
+39:42.000 --> 39:44.000
+se você não tiver uma aplicação
+
+39:44.000 --> 39:46.000
+que usa uma linguagem de serviçagem
+
+39:46.000 --> 39:48.000
+a princípio você não consegue enviar arquivos
+
+39:48.000 --> 39:50.000
+somente pelo protocolo
+
+39:50.000 --> 39:52.000
+agora com protocolo ftp você pode
+
+39:52.000 --> 39:54.000
+enviar e receber arquivos
+
+39:54.000 --> 39:56.000
+a questão
+
+39:56.000 --> 39:58.000
+é a finalidade do protocolo
+
+39:58.000 --> 40:00.000
+protocolo gattp você pode estudar
+
+40:00.000 --> 40:02.000
+a finalidade dele no início foi essa
+
+40:02.000 --> 40:04.000
+não foi
+
+40:04.000 --> 40:06.000
+por isso que existe o ftp
+
+40:06.000 --> 40:08.000
+o ftp e o gattp se só são os seguros
+
+40:08.000 --> 40:10.000
+não
+
+40:10.000 --> 40:12.000
+por isso que existe gattp s, ftp, s, ftp
+
+40:12.000 --> 40:14.000
+são finalidades distintas
+
+40:14.000 --> 40:16.000
+é a mesma coisa só que diferente
+
+40:16.000 --> 40:18.000
+lembrei do
+
+40:18.000 --> 40:20.000
+professor sanderley e ele falava isso
+
+40:20.000 --> 40:22.000
+é a mesma coisa só que diferente
+
+40:22.000 --> 40:24.000
+é a mesma coisa
+
+40:28.000 --> 40:30.000
+não posso fazer
+
+40:30.000 --> 40:32.000
+eslipar até ssl
+
+40:32.000 --> 40:34.000
+não sei se isso é isso, mas são notícias
+
+40:34.000 --> 40:36.000
+bombasques
+
+40:36.000 --> 40:38.000
+mas se o
+
+40:38.000 --> 40:40.000
+computador que está em difano
+
+40:40.000 --> 40:42.000
+ele
+
+40:42.000 --> 40:44.000
+pega desde o handshake
+
+40:44.000 --> 40:46.000
+e você está monitorando
+
+40:46.000 --> 40:48.000
+então ele consegue ver
+
+40:48.000 --> 40:50.000
+todo o que está acontecendo
+
+40:50.000 --> 40:52.000
+e existe o tunnelamento
+
+40:52.000 --> 40:54.000
+no ssl
+
+40:54.000 --> 40:56.000
+ele também pode ter pego desde
+
+40:56.000 --> 40:58.000
+o início da negociação
+
+40:58.000 --> 41:00.000
+mesmo esse sendo protocolo tão seguro
+
+41:00.000 --> 41:02.000
+está certo você baixar o mesmo ssl
+
+41:02.000 --> 41:04.000
+é fácil de ser monitorado
+
+41:04.000 --> 41:06.000
+e aí como você disse
+
+41:06.000 --> 41:08.000
+se você capturar o handshake ssl
+
+41:08.000 --> 41:10.000
+você pode fechar um canal
+
+41:10.000 --> 41:12.000
+criptografado entre você
+
+41:12.000 --> 41:14.000
+o servidor e entre você
+
+41:14.000 --> 41:16.000
+e a vítima
+
+41:16.000 --> 41:18.000
+então você vai
+
+41:18.000 --> 41:20.000
+ser criptografado com o servidor
+
+41:20.000 --> 41:22.000
+mas você vai decryptar o dado
+
+41:22.000 --> 41:24.000
+e vai fechar outra
+
+41:24.000 --> 41:26.000
+ponte criptografada
+
+41:26.000 --> 41:28.000
+com a vítima
+
+41:28.000 --> 41:30.000
+porém isso
+
+41:30.000 --> 41:32.000
+é possível de ser detectado
+
+41:32.000 --> 41:34.000
+com certificação digital
+
+41:34.000 --> 41:36.000
+então por isso que sempre que você
+
+41:36.000 --> 41:38.000
+vai acessar um site htps
+
+41:38.000 --> 41:40.000
+se o browser da
+
+41:40.000 --> 41:42.000
+aquele aviso
+
+41:42.000 --> 41:44.000
+fique ligado
+
+41:44.000 --> 41:46.000
+porque aquele site
+
+41:46.000 --> 41:48.000
+não está sendo certificado
+
+41:48.000 --> 41:50.000
+por uma autoridade
+
+41:50.000 --> 41:52.000
+certificadora
+
+41:52.000 --> 41:54.000
+o usuário tem que ficar atento pra não
+
+41:54.000 --> 41:56.000
+sofrer de ataque
+
+41:56.000 --> 41:58.000
+mesmo coisa o servidor ssh
+
+41:58.000 --> 42:00.000
+às vezes você está
+
+42:00.000 --> 42:02.000
+acontece muito você conecta no servidor
+
+42:02.000 --> 42:04.000
+você vai pra uma outra rede interna
+
+42:04.000 --> 42:06.000
+que tem o mesmo IP
+
+42:06.000 --> 42:08.000
+você conecta e ele vai reclamar
+
+42:08.000 --> 42:10.000
+possivelmente você está sofrendo um ataque
+
+42:10.000 --> 42:12.000
+porque o IP daquele
+
+42:12.000 --> 42:14.000
+a chave
+
+42:14.000 --> 42:16.000
+daquele IP
+
+42:16.000 --> 42:18.000
+é diferente da chave
+
+42:18.000 --> 42:20.000
+que você já tinha armazenada
+
+42:20.000 --> 42:22.000
+por isso que ele reclame
+
+42:22.000 --> 42:24.000
+e apagar a chave do
+
+42:24.000 --> 42:26.000
+ponte ssh do seu home
+
+42:26.000 --> 42:28.000
+quando você é de certificado
+
+42:28.000 --> 42:30.000
+você nem olha nada, você vai lá e manda
+
+42:30.000 --> 42:32.000
+aceitar e pronto
+
+42:32.000 --> 42:34.000
+nem se preocupa com as coisas
+
+42:34.000 --> 42:36.000
+mas já que a gente toca o nosso um dia ssl
+
+42:36.000 --> 42:38.000
+e de mem demira em cima de ssl
+
+42:38.000 --> 42:40.000
+é interessante falar de uma palestra que teve na Defcon
+
+42:40.000 --> 42:42.000
+ano passado
+
+42:42.000 --> 42:44.000
+e ssl strip
+
+42:44.000 --> 42:46.000
+então
+
+42:48.000 --> 42:50.000
+strip ssl
+
+42:50.000 --> 42:52.000
+primeiro ponte cache quando o deis
+
+42:52.000 --> 42:54.000
+então
+
+42:54.000 --> 42:56.000
+o que que o cara faz
+
+42:56.000 --> 42:58.000
+o cara
+
+42:58.000 --> 43:00.000
+ele manda todas as conexões
+
+43:00.000 --> 43:02.000
+e aí onde tiver os
+
+43:02.000 --> 43:04.000
+ele tira
+
+43:04.000 --> 43:06.000
+se você tiver ssl
+
+43:06.000 --> 43:08.000
+www.https.com.br
+
+43:08.000 --> 43:10.000
+www.seubanto.com.br
+
+43:10.000 --> 43:12.000
+ele vai
+
+43:12.000 --> 43:14.000
+ver essa requisição
+
+43:14.000 --> 43:16.000
+e antes de fechar o túnel criptografado
+
+43:16.000 --> 43:18.000
+ele tira o ssl
+
+43:18.000 --> 43:20.000
+se o usuário não ficar atento
+
+43:20.000 --> 43:22.000
+que tem um cadeadinho lá e tudo mais
+
+43:22.000 --> 43:24.000
+ele vai ser
+
+43:24.000 --> 43:26.000
+comprometido
+
+43:26.000 --> 43:28.000
+ele vai estar trafegando
+
+43:28.000 --> 43:30.000
+em texto puro
+
+43:30.000 --> 43:32.000
+simbolo desse ataque é um cabo de polidência
+
+43:32.000 --> 43:34.000
+assim né
+
+43:40.000 --> 43:42.000
+eu me perca a vez de ssl
+
+43:42.000 --> 43:44.000
+tudo tem que usar um
+
+43:44.000 --> 43:46.000
+filival
+
+43:46.000 --> 43:48.000
+então um firewall
+
+43:48.000 --> 43:50.000
+ele te protege
+
+43:50.000 --> 43:52.000
+existem vertentes de firewalls
+
+43:52.000 --> 43:54.000
+então assim um firewall de rede
+
+43:54.000 --> 43:56.000
+basicamente ele bloqueia
+
+43:56.000 --> 43:58.000
+conexões
+
+43:58.000 --> 44:00.000
+a nível de rede
+
+44:00.000 --> 44:02.000
+e de p de porta
+
+44:02.000 --> 44:04.000
+a arp
+
+44:04.000 --> 44:06.000
+para o acolho tcp para o acolho dp
+
+44:06.000 --> 44:08.000
+pode limitar tamanho de pacotes
+
+44:08.000 --> 44:10.000
+para fazer uma série de coisas
+
+44:10.000 --> 44:12.000
+a questão
+
+44:12.000 --> 44:14.000
+que é importante observar
+
+44:14.000 --> 44:16.000
+é que no firewall de rede
+
+44:16.000 --> 44:18.000
+a parte de aplicação dele
+
+44:18.000 --> 44:20.000
+um firewall de aplicação
+
+44:20.000 --> 44:22.000
+mesmo um firewall de aplicação
+
+44:22.000 --> 44:24.000
+ele pode ser bypassado
+
+44:24.000 --> 44:26.000
+como?
+
+44:26.000 --> 44:28.000
+você liberou
+
+44:28.000 --> 44:30.000
+para os seus funcionários acessarem a porta 80
+
+44:30.000 --> 44:32.000
+hptp então está liberado
+
+44:34.000 --> 44:36.000
+tem como o seu firewall
+
+44:36.000 --> 44:38.000
+se ele não for um firewall de aplicação decente
+
+44:38.000 --> 44:40.000
+ele não vai identificar
+
+44:40.000 --> 44:42.000
+que só trafega o protocolo hptp na porta 80
+
+44:42.000 --> 44:44.000
+então as vezes
+
+44:44.000 --> 44:46.000
+as pessoas vinculam muito o protocolo
+
+44:46.000 --> 44:48.000
+a porta
+
+44:48.000 --> 44:50.000
+mas a porta 80 pode ser usada
+
+44:50.000 --> 44:52.000
+para trafegar ssh
+
+44:52.000 --> 44:54.000
+para trafegar
+
+44:54.000 --> 44:56.000
+qualquer outra coisa que não seja hptp
+
+44:56.000 --> 44:58.000
+então um firewall
+
+44:58.000 --> 45:00.000
+ele tem que se preocupar com isso também
+
+45:00.000 --> 45:02.000
+ele tem que garantir que o que vai trafegar na porta 80
+
+45:02.000 --> 45:04.000
+seja realmente
+
+45:04.000 --> 45:06.000
+trato do hptp
+
+45:06.000 --> 45:08.000
+a questão é
+
+45:08.000 --> 45:10.000
+mesmo fazendo esses tratamentos
+
+45:10.000 --> 45:12.000
+tem como você vai passar isso
+
+45:12.000 --> 45:14.000
+com os convergenios
+
+45:14.000 --> 45:16.000
+que você vai
+
+45:16.000 --> 45:18.000
+tunelar uma conexão
+
+45:18.000 --> 45:20.000
+ssh
+
+45:20.000 --> 45:22.000
+em cima de um protocolo hptp
+
+45:22.000 --> 45:24.000
+então basicamente
+
+45:24.000 --> 45:26.000
+você
+
+45:26.000 --> 45:28.000
+um firewall só infelizmente
+
+45:28.000 --> 45:30.000
+não vai te proteger
+
+45:30.000 --> 45:32.000
+então se você não acredita nisso
+
+45:32.000 --> 45:34.000
+tem um artigo
+
+45:34.000 --> 45:36.000
+de um amigo
+
+45:36.000 --> 45:38.000
+é o Igor Parreira
+
+45:38.000 --> 45:40.000
+no clubos dos mercenados
+
+45:40.000 --> 45:42.000
+no clubos dos mercenados
+
+45:42.000 --> 45:44.000
+convergenio
+
+45:44.000 --> 45:46.000
+hptp em cima de ssh
+
+45:46.000 --> 45:48.000
+então é um total bacana
+
+45:48.000 --> 45:50.000
+que o cara faz trafegar hptp
+
+45:50.000 --> 45:52.000
+em cima do protocolo ssh
+
+45:52.000 --> 45:54.000
+que é o protocolo usado para ping
+
+45:54.000 --> 45:56.000
+eixo fico extra
+
+45:56.000 --> 45:58.000
+eixo fico reply
+
+45:58.000 --> 46:00.000
+então pensa
+
+46:00.000 --> 46:02.000
+que você pode trafegar hptp
+
+46:02.000 --> 46:04.000
+e qualquer outro protocolo
+
+46:04.000 --> 46:06.000
+a gente acha esse artigo e a gente põe no posto
+
+46:06.000 --> 46:08.000
+como que funciona o firewall
+
+46:08.000 --> 46:10.000
+em um minuto
+
+46:10.000 --> 46:12.000
+então é basicamente
+
+46:12.000 --> 46:14.000
+você tem várias portas
+
+46:14.000 --> 46:16.000
+que estão escutando seu computador
+
+46:16.000 --> 46:18.000
+e o firewall basicamente
+
+46:18.000 --> 46:20.000
+que ele faz
+
+46:20.000 --> 46:22.000
+quando ele simplesmente
+
+46:22.000 --> 46:24.000
+é assim, o serviço importa
+
+46:24.000 --> 46:26.000
+ele só não deixa que uma conexão
+
+46:26.000 --> 46:28.000
+seja feita
+
+46:28.000 --> 46:30.000
+nessa porta
+
+46:30.000 --> 46:32.000
+por exemplo
+
+46:32.000 --> 46:34.000
+na porta do tente que é o de casa da
+
+46:34.000 --> 46:36.000
+o padrão do protocolo hptp
+
+46:36.000 --> 46:38.000
+assim
+
+46:38.000 --> 46:40.000
+tem por exemplo
+
+46:40.000 --> 46:42.000
+até, eu falei por exemplo
+
+46:42.000 --> 46:44.000
+no caso do
+
+46:44.000 --> 46:46.000
+aí você me pergunta
+
+46:46.000 --> 46:48.000
+eu tenho, acho que a gente
+
+46:48.000 --> 46:50.000
+seria interessante a gente falar
+
+46:50.000 --> 46:52.000
+de só que a gente entender do que a gente está falando
+
+46:52.000 --> 46:54.000
+passou de um minuto mas pra falar
+
+46:54.000 --> 46:56.000
+tem aquelas palavras de tv4
+
+46:56.000 --> 46:58.000
+tv6 que elas pararam lá
+
+46:58.000 --> 47:00.000
+agora eu passo por mais
+
+47:06.000 --> 47:08.000
+o que é a socket?
+
+47:08.000 --> 47:10.000
+não, socket no contexto de rede
+
+47:10.000 --> 47:12.000
+é você
+
+47:12.000 --> 47:14.000
+colocar o seu computador
+
+47:14.000 --> 47:16.000
+pra escutar numa porta
+
+47:16.000 --> 47:18.000
+e quando você faz isso, você está bindando uma porta
+
+47:18.000 --> 47:20.000
+você está abrindo um socket
+
+47:20.000 --> 47:22.000
+isso quer dizer que
+
+47:22.000 --> 47:24.000
+outros computadores, se não tiver um bloqueio
+
+47:24.000 --> 47:26.000
+no caminho, vão poder comunicar
+
+47:26.000 --> 47:28.000
+com você através daquela porta
+
+47:28.000 --> 47:30.000
+vai
+
+47:30.000 --> 47:32.000
+por exemplo
+
+47:32.000 --> 47:34.000
+a gente testa, muitas vezes pra testar
+
+47:34.000 --> 47:36.000
+uma porta tctp
+
+47:36.000 --> 47:38.000
+ver se ela está aberta
+
+47:38.000 --> 47:40.000
+é comum a gente dar telnet na porta
+
+47:40.000 --> 47:42.000
+telnet, espaço roxo, espaço porta
+
+47:42.000 --> 47:44.000
+pode usar em cima da porta 80, em cima de qualquer porta
+
+47:44.000 --> 47:46.000
+a questão é, se você não
+
+47:46.000 --> 47:48.000
+utilizar os métodos
+
+47:48.000 --> 47:50.000
+que aquele serviço espera, que aquela porta está esperando
+
+47:50.000 --> 47:52.000
+então você usa um porta scan
+
+47:52.000 --> 47:54.000
+a questão é que, se você não usar
+
+47:54.000 --> 47:56.000
+os métodos
+
+47:56.000 --> 47:58.000
+daquele serviço, não tem sentido
+
+47:58.000 --> 48:00.000
+então por exemplo, você pode dar
+
+48:00.000 --> 48:02.000
+telnet num servidor de 100 ptp
+
+48:02.000 --> 48:04.000
+você pode autenticar nele, usando telnet
+
+48:04.000 --> 48:06.000
+você pode dar telnet num servidor
+
+48:06.000 --> 48:08.000
+de http
+
+48:08.000 --> 48:10.000
+você pode usar os métodos get, post
+
+48:10.000 --> 48:12.000
+pult delet
+
+48:12.000 --> 48:14.000
+pra trafegar a http
+
+48:14.000 --> 48:16.000
+o servidor vai entender
+
+48:16.000 --> 48:18.000
+mesmo você usando o telnet
+
+48:18.000 --> 48:20.000
+e não um browser
+
+48:22.000 --> 48:24.000
+e o IP
+
+48:24.000 --> 48:26.000
+para você
+
+48:26.000 --> 48:28.000
+poder de cintas
+
+48:28.000 --> 48:30.000
+eu estou longe aqui da rede
+
+48:30.000 --> 48:32.000
+então o protocolo
+
+48:32.000 --> 48:34.000
+tcp-p
+
+48:34.000 --> 48:36.000
+são dois protocolos
+
+48:36.000 --> 48:38.000
+não só, porque o tcp
+
+48:38.000 --> 48:40.000
+é o transverses counter apretagal
+
+48:40.000 --> 48:42.000
+status loose
+
+48:42.000 --> 48:44.000
+e o ip é o internet protocol
+
+48:44.000 --> 48:46.000
+mas uma coisa
+
+48:46.000 --> 48:48.000
+eu já falei uma coisa um milhão de vezes
+
+48:48.000 --> 48:50.000
+também
+
+48:50.000 --> 48:52.000
+porque a gente pode observar
+
+48:52.000 --> 48:54.000
+que o tcp é usado exclusivo
+
+48:54.000 --> 48:56.000
+no
+
+48:56.000 --> 48:58.000
+x11
+
+48:58.000 --> 49:00.000
+x11 é o ambiente gráfico do link
+
+49:00.000 --> 49:02.000
+um ponto puxado
+
+49:02.000 --> 49:04.000
+então
+
+49:04.000 --> 49:06.000
+ele usa o protocolo tcp
+
+49:06.000 --> 49:08.000
+o x11 que você está falando
+
+49:08.000 --> 49:10.000
+é do ambiente gráfico
+
+49:10.000 --> 49:12.000
+é exatamente
+
+49:12.000 --> 49:14.000
+pensei que era só um trocadil
+
+49:14.000 --> 49:16.000
+trocadalho do carinho
+
+49:16.000 --> 49:18.000
+acertei na cagada
+
+49:18.000 --> 49:20.000
+exclusivo?
+
+49:20.000 --> 49:22.000
+exclusivo não tem problema
+
+49:22.000 --> 49:24.000
+você consegue
+
+49:24.000 --> 49:26.000
+fazer facilmente
+
+49:26.000 --> 49:28.000
+sem nenhum malabarismo
+
+49:28.000 --> 49:30.000
+muito grande
+
+49:30.000 --> 49:32.000
+é você usar
+
+49:32.000 --> 49:34.000
+o servidor
+
+49:34.000 --> 49:36.000
+no caso
+
+49:36.000 --> 49:38.000
+o x11 usa uma plataforma
+
+49:38.000 --> 49:40.000
+acerte servidor
+
+49:40.000 --> 49:42.000
+você consegue usar o servidor x11
+
+49:42.000 --> 49:44.000
+de uma outra máquina
+
+49:44.000 --> 49:46.000
+facilmente
+
+49:46.000 --> 49:48.000
+inclusive em cima de ssh
+
+49:48.000 --> 49:50.000
+é interessante você deixar o seu x11
+
+49:50.000 --> 49:52.000
+exposto para o internet
+
+49:52.000 --> 49:54.000
+tem um lugar
+
+49:54.000 --> 49:56.000
+de um firewall
+
+49:56.000 --> 49:58.000
+é aquela história do portão gigante
+
+49:58.000 --> 50:00.000
+com a cerquinha viva de 30 centímetros
+
+50:00.000 --> 50:02.000
+e o x11
+
+50:02.000 --> 50:04.000
+é bem interessante
+
+50:04.000 --> 50:06.000
+é um exemplo clássico de comunicação
+
+50:06.000 --> 50:08.000
+e aquela parada
+
+50:08.000 --> 50:10.000
+do pv4
+
+50:10.000 --> 50:12.000
+pv6
+
+50:12.000 --> 50:14.000
+o que está acabando no mundo
+
+50:14.000 --> 50:16.000
+é porque
+
+50:16.000 --> 50:18.000
+o pv4
+
+50:18.000 --> 50:20.000
+ele tem
+
+50:20.000 --> 50:22.000
+4 octetos
+
+50:22.000 --> 50:24.000
+que vai de 0 a 255
+
+50:24.000 --> 50:26.000
+e tem
+
+50:26.000 --> 50:28.000
+são várias limitações no caso de
+
+50:28.000 --> 50:30.000
+número de endereço disponível
+
+50:30.000 --> 50:32.000
+porque
+
+50:32.000 --> 50:34.000
+para você
+
+50:34.000 --> 50:36.000
+é porque para você criar um IP
+
+50:36.000 --> 50:38.000
+ele tem as classes de IP
+
+50:38.000 --> 50:40.000
+que são class A, B, C, E, D
+
+50:40.000 --> 50:42.000
+e cada uma dessas
+
+50:42.000 --> 50:44.000
+class pega um range de IP
+
+50:44.000 --> 50:46.000
+diferente
+
+50:46.000 --> 50:48.000
+é uma
+
+50:48.000 --> 50:50.000
+na classe A
+
+50:50.000 --> 50:52.000
+o primeiro octet
+
+50:52.000 --> 50:54.000
+vou estar falando deste termo
+
+50:54.000 --> 50:56.000
+cada classe
+
+50:56.000 --> 50:58.000
+tem uma quantidade
+
+50:58.000 --> 51:00.000
+de octetos
+
+51:00.000 --> 51:02.000
+reservada para a rede
+
+51:02.000 --> 51:04.000
+e outra quantidade reservada para a root
+
+51:04.000 --> 51:06.000
+como seria isso, por exemplo
+
+51:06.000 --> 51:08.000
+é uma classe que eu utilize
+
+51:08.000 --> 51:10.000
+só o primeiro octet para a rede
+
+51:10.000 --> 51:12.000
+vai ser 10
+
+51:12.000 --> 51:14.000
+na rede 10.0.0.1
+
+51:14.000 --> 51:16.000
+o primeiro octet
+
+51:16.000 --> 51:18.000
+ele é para a rede
+
+51:18.000 --> 51:20.000
+eu posso ter uma rede
+
+51:20.000 --> 51:22.000
+que começa com 11
+
+51:22.000 --> 51:24.000
+do 10
+
+51:24.000 --> 51:26.000
+para a frente vai ser de root
+
+51:26.000 --> 51:28.000
+então posso ter
+
+51:28.000 --> 51:30.000
+de 0 a 255
+
+51:30.000 --> 51:32.000
+em cada um daqueles octetos
+
+51:32.000 --> 51:34.000
+de máquinas dentro daquela rede
+
+51:34.000 --> 51:36.000
+quando eu crio uma sub rede
+
+51:36.000 --> 51:38.000
+eu crio uma ramificação daquela rede
+
+51:38.000 --> 51:40.000
+eu preciso do geth
+
+51:40.000 --> 51:42.000
+que eu falei anteriormente
+
+51:42.000 --> 51:44.000
+para interligar essa rede
+
+51:44.000 --> 51:46.000
+dentro dessa sub rede
+
+51:46.000 --> 51:48.000
+eu posso ter mais um outro número
+
+51:48.000 --> 51:50.000
+de root
+
+51:50.000 --> 51:52.000
+no caso
+
+51:52.000 --> 51:54.000
+da internet
+
+51:54.000 --> 51:56.000
+essa quantidade
+
+51:56.000 --> 51:58.000
+de IP reservados
+
+51:58.000 --> 52:00.000
+já está acabando
+
+52:00.000 --> 52:02.000
+o IPv6 usa uma outra metodologia
+
+52:02.000 --> 52:04.000
+o IPv6 é quase um MAC address
+
+52:04.000 --> 52:06.000
+na época em 2004
+
+52:06.000 --> 52:08.000
+eu vi uma palestra
+
+52:08.000 --> 52:10.000
+falando sobre IPv6
+
+52:10.000 --> 52:12.000
+e lá a mulher palestrante
+
+52:12.000 --> 52:14.000
+falava que para acabar
+
+52:14.000 --> 52:16.000
+a quantidade de IP
+
+52:16.000 --> 52:18.000
+para esgotar a quantidade de IPv6
+
+52:18.000 --> 52:20.000
+eu precisaria ter
+
+52:20.000 --> 52:22.000
+uma rede de tamanho da internet
+
+52:22.000 --> 52:24.000
+cada roche que tem hoje na internet
+
+52:24.000 --> 52:26.000
+deu para acabar a quantidade
+
+52:26.000 --> 52:28.000
+do IPv6
+
+52:28.000 --> 52:30.000
+então a gente pode fazer até interligação interplanetária
+
+52:30.000 --> 52:32.000
+usando IPv6
+
+52:32.000 --> 52:34.000
+que vai sobrar
+
+52:34.000 --> 52:36.000
+sobrar IP
+
+52:36.000 --> 52:38.000
+isso é uma coisa que se torna
+
+52:38.000 --> 52:40.000
+bastante viável, por exemplo, ter os IPv6
+
+52:40.000 --> 52:42.000
+com dispositivos móveis
+
+52:42.000 --> 52:44.000
+até ser o mais capaz que pode ter um IP
+
+52:44.000 --> 52:46.000
+então como eu falei
+
+52:46.000 --> 52:48.000
+no começo do podcast que eu queria
+
+52:48.000 --> 52:50.000
+abrir uma empresa
+
+52:50.000 --> 52:52.000
+porque agora o IPv6 fica melhor
+
+52:52.000 --> 52:54.000
+porque eu posso vender internet
+
+52:54.000 --> 52:56.000
+não só para os terracos
+
+52:56.000 --> 52:58.000
+eu posso vender para os marcianos
+
+52:58.000 --> 53:00.000
+você já está reagindo
+
+53:00.000 --> 53:02.000
+você já está reagindo
+
+53:08.000 --> 53:10.000
+tem uma...
+
+53:10.000 --> 53:12.000
+nesse negócio de paro isso, ok?
+
+53:12.000 --> 53:14.000
+tem uma palavra que não sai da boca
+
+53:14.000 --> 53:16.000
+daqueles meninos empolgados com os meninos
+
+53:16.000 --> 53:18.000
+que é o tal do IPv6
+
+53:18.000 --> 53:20.000
+aí eu queria que vocês explicassem
+
+53:20.000 --> 53:22.000
+o que inconsiste o IPv6
+
+53:22.000 --> 53:24.000
+o IPv6
+
+53:24.000 --> 53:26.000
+antes do IPv6
+
+53:26.000 --> 53:28.000
+antes do IPv6
+
+53:28.000 --> 53:30.000
+o IPv6 é o epilógio
+
+53:30.000 --> 53:32.000
+foi chegar no IPv6
+
+53:32.000 --> 53:34.000
+vou deixar para o Marcelo
+
+53:34.000 --> 53:36.000
+inclusive usava um carinho de redir
+
+53:36.000 --> 53:38.000
+que fazia NAT
+
+53:38.000 --> 53:40.000
+com IPv6
+
+53:40.000 --> 53:42.000
+e o NAT fazia com redir
+
+53:42.000 --> 53:44.000
+porque IPv6 não tinha nada
+
+53:44.000 --> 53:46.000
+mas enfim
+
+53:46.000 --> 53:48.000
+só com relação ao IPv6
+
+53:48.000 --> 53:50.000
+o que o pessoal anda fazendo por aí
+
+53:50.000 --> 53:52.000
+é adquirindo IPv6
+
+53:52.000 --> 53:54.000
+e convertendo para IPv4
+
+53:54.000 --> 53:56.000
+para você ter interoperabilidade
+
+53:56.000 --> 53:58.000
+entre as duas redes
+
+53:58.000 --> 54:00.000
+tem até alguns projetos
+
+54:00.000 --> 54:02.000
+ou pensantes que fazem isso
+
+54:02.000 --> 54:04.000
+eu infelizmente não sei o nome
+
+54:04.000 --> 54:06.000
+mas quem quiser pode procurar
+
+54:06.000 --> 54:08.000
+saber isso dentro
+
+54:08.000 --> 54:10.000
+então, com relação ao IPT
+
+54:10.000 --> 54:12.000
+o IPT é um firewall estetico
+
+54:12.000 --> 54:14.000
+isso quer dizer que ele checa
+
+54:14.000 --> 54:16.000
+e rastreia
+
+54:16.000 --> 54:18.000
+os estados da conexão no firewall
+
+54:18.000 --> 54:20.000
+então
+
+54:20.000 --> 54:22.000
+uma conexão ela tem um estado
+
+54:22.000 --> 54:24.000
+de entrada, por exemplo
+
+54:24.000 --> 54:26.000
+nova conexão
+
+54:26.000 --> 54:28.000
+estabilizada ou relacionada
+
+54:28.000 --> 54:30.000
+por exemplo
+
+54:30.000 --> 54:32.000
+ou finalizada
+
+54:32.000 --> 54:34.000
+quer dizer
+
+54:34.000 --> 54:36.000
+um firewall estetico
+
+54:36.000 --> 54:38.000
+consegue
+
+54:38.000 --> 54:40.000
+monitorar os estados da conexão
+
+54:40.000 --> 54:42.000
+e trabalhar com esses estados
+
+54:42.000 --> 54:44.000
+então, por exemplo
+
+54:44.000 --> 54:46.000
+eu posso falar que eu quero liberar
+
+54:46.000 --> 54:48.000
+todo o tráfico para a porta 80
+
+54:48.000 --> 54:50.000
+de entrada
+
+54:50.000 --> 54:52.000
+tudo que tiver entrado no porta 80 liberado
+
+54:52.000 --> 54:54.000
+e tudo que tiver saindo
+
+54:54.000 --> 54:56.000
+e que for
+
+54:56.000 --> 54:58.000
+estado estabilizado ou relacionado
+
+54:58.000 --> 55:00.000
+vai aceitar também
+
+55:00.000 --> 55:02.000
+tá liberado
+
+55:02.000 --> 55:04.000
+e aí quer dizer, eu não vou precisar ficar
+
+55:04.000 --> 55:06.000
+criando
+
+55:06.000 --> 55:08.000
+para cada regra de entrada
+
+55:08.000 --> 55:10.000
+de tráfico uma regra de saída
+
+55:10.000 --> 55:12.000
+então
+
+55:12.000 --> 55:14.000
+essa é uma ideia legal
+
+55:14.000 --> 55:16.000
+de se trabalhar com estado
+
+55:16.000 --> 55:18.000
+outro exemplo
+
+55:18.000 --> 55:20.000
+eu vou falar que
+
+55:20.000 --> 55:22.000
+você não pode ter um pacote entrando
+
+55:22.000 --> 55:24.000
+que um estado new
+
+55:24.000 --> 55:26.000
+um novo pacote entrando
+
+55:26.000 --> 55:28.000
+um novo pacote entrando tcp
+
+55:28.000 --> 55:30.000
+sem
+
+55:30.000 --> 55:32.000
+sem ser sim
+
+55:32.000 --> 55:34.000
+porque no treeway handshake
+
+55:34.000 --> 55:36.000
+de tcp você tem um sim
+
+55:36.000 --> 55:38.000
+devolve um sim AC
+
+55:38.000 --> 55:40.000
+e responde um AC
+
+55:40.000 --> 55:42.000
+então quer dizer
+
+55:42.000 --> 55:44.000
+dá para fazer uma série de controles
+
+55:44.000 --> 55:46.000
+mais refinados com firewall estetico
+
+55:46.000 --> 55:48.000
+e o pt eu vou usar estético
+
+55:48.000 --> 55:50.000
+por isso ele é interessante
+
+55:50.000 --> 55:52.000
+ele realiza NAT
+
+55:52.000 --> 55:54.000
+que é você
+
+55:54.000 --> 55:56.000
+traduzir redes
+
+55:56.000 --> 55:58.000
+então você pode falar, você tem uma rede
+
+55:58.000 --> 56:00.000
+e isso, network address translation
+
+56:00.000 --> 56:02.000
+e aí você pode
+
+56:02.000 --> 56:04.000
+por exemplo, criar uma DMZ
+
+56:04.000 --> 56:06.000
+que você vai ter uma rede interna
+
+56:06.000 --> 56:08.000
+que vai estar sendo exposta para a internet
+
+56:08.000 --> 56:10.000
+é, zona desmilitarizada
+
+56:10.000 --> 56:12.000
+que você vai ter
+
+56:12.000 --> 56:14.000
+uma requisição
+
+56:14.000 --> 56:16.000
+da rede externa
+
+56:16.000 --> 56:18.000
+que vai ser redirecionado para o IP da sua DMZ
+
+56:18.000 --> 56:20.000
+e isso tudo está separado da sua rede interna
+
+56:20.000 --> 56:22.000
+então isso é importante
+
+56:22.000 --> 56:24.000
+por que?
+
+56:24.000 --> 56:26.000
+porque se você sofrer um ataque na DMZ
+
+56:26.000 --> 56:28.000
+vai estar só na DMZ
+
+56:28.000 --> 56:30.000
+a nível de firewall
+
+56:30.000 --> 56:32.000
+você vai estar fisicamente
+
+56:32.000 --> 56:34.000
+protegido do
+
+56:34.000 --> 56:36.000
+o que ele descreveu inclusive
+
+56:36.000 --> 56:38.000
+é o que
+
+56:38.000 --> 56:40.000
+chegou a ser o nome do firewall
+
+56:40.000 --> 56:42.000
+chamado de firewall
+
+56:42.000 --> 56:44.000
+é aquelas paredes que
+
+56:44.000 --> 56:46.000
+quando ele tivesse um incêndio
+
+56:46.000 --> 56:48.000
+no certo local
+
+56:48.000 --> 56:50.000
+ele evitava que
+
+56:50.000 --> 56:52.000
+se incêndio se alaste para outro
+
+56:52.000 --> 56:54.000
+como do prego, por exemplo
+
+56:54.000 --> 56:56.000
+só para a gente terminar com o IPTables
+
+56:56.000 --> 56:58.000
+o IPTables, essa ferramenta
+
+56:58.000 --> 57:00.000
+não tem
+
+57:00.000 --> 57:02.000
+o que seria de front end
+
+57:02.000 --> 57:04.000
+o IPTables em si ele não tem front end
+
+57:04.000 --> 57:06.000
+tem que instalar um outro software
+
+57:06.000 --> 57:08.000
+que seja o front end do IPTables
+
+57:08.000 --> 57:10.000
+inclusive
+
+57:10.000 --> 57:14.000
+o
+
+57:14.000 --> 57:16.000
+tem uma aplicação
+
+57:16.000 --> 57:18.000
+que é o cprojet
+
+57:18.000 --> 57:20.000
+nós vamos falar sobre ele
+
+57:20.000 --> 57:22.000
+que uma das funcionalidades do cprojet
+
+57:22.000 --> 57:24.000
+é ser front end para o IPTables
+
+57:24.000 --> 57:26.000
+e só existem outras
+
+57:26.000 --> 57:28.000
+front end
+
+57:28.000 --> 57:30.000
+agora com relação a IPTables
+
+57:30.000 --> 57:32.000
+eu queria só fazer mais uma observação
+
+57:32.000 --> 57:34.000
+que é com relação
+
+57:34.000 --> 57:36.000
+ele tem as três tabelas
+
+57:36.000 --> 57:38.000
+a filter
+
+57:38.000 --> 57:40.000
+que é passado por ele
+
+57:40.000 --> 57:42.000
+e também tem a tabela na arte
+
+57:42.000 --> 57:44.000
+que é de tradução de endereço
+
+57:44.000 --> 57:46.000
+e também tem a tabela
+
+57:46.000 --> 57:48.000
+que você pode manipular os pacotes
+
+57:48.000 --> 57:50.000
+você pode setar uma prioridade
+
+57:50.000 --> 57:52.000
+maior para um pacote
+
+57:52.000 --> 57:54.000
+marcar um pacote
+
+57:54.000 --> 57:56.000
+isso tudo para fazer redundância de serviço
+
+57:56.000 --> 57:58.000
+para criar um ambiente
+
+57:58.000 --> 58:00.000
+de alta disponibilidade
+
+58:00.000 --> 58:02.000
+coisa desse tipo
+
+58:02.000 --> 58:04.000
+outra coisa que é importante falar
+
+58:04.000 --> 58:06.000
+e que o IPTables deixa um pouco a desejar
+
+58:06.000 --> 58:08.000
+é a questão de
+
+58:08.000 --> 58:10.000
+file a nível de
+
+58:10.000 --> 58:12.000
+a camada de aplicação
+
+58:12.000 --> 58:14.000
+porque é aquilo que eu falei
+
+58:14.000 --> 58:16.000
+você libera a porta 80
+
+58:16.000 --> 58:18.000
+você realmente chega a ser aquele tráfico e HTTP
+
+58:18.000 --> 58:20.000
+né
+
+58:20.000 --> 58:22.000
+você consegue identificar
+
+58:22.000 --> 58:24.000
+se está toda fegando um orme e bloquear
+
+58:24.000 --> 58:26.000
+então o IPTables
+
+58:26.000 --> 58:28.000
+tem lá o seu módulo layer 7
+
+58:28.000 --> 58:30.000
+para você escalar
+
+58:30.000 --> 58:32.000
+mas não tem muitos padrões
+
+58:32.000 --> 58:34.000
+de mallers
+
+58:34.000 --> 58:36.000
+não tem muitos padrões
+
+58:36.000 --> 58:38.000
+e isso é ruim
+
+58:38.000 --> 58:40.000
+porque os files corporativos
+
+58:40.000 --> 58:42.000
+como checkpoints
+
+58:42.000 --> 58:44.000
+eles já têm isso
+
+58:44.000 --> 58:46.000
+já bem difundido
+
+58:46.000 --> 58:48.000
+então sai um novo orme
+
+58:48.000 --> 58:50.000
+que está destruindo tudo
+
+58:50.000 --> 58:52.000
+a galera já lança uma assinatura
+
+58:52.000 --> 58:54.000
+e já coloca no file a nível de aplicação
+
+58:54.000 --> 58:56.000
+e isso não é feito
+
+58:56.000 --> 58:58.000
+comunitariamente
+
+58:58.000 --> 59:00.000
+pela comunidade de IPTables
+
+59:00.000 --> 59:02.000
+não tem um repositório de assinaturas
+
+59:02.000 --> 59:04.000
+ou de aplicações de mallers
+
+59:04.000 --> 59:06.000
+tem muito pouco
+
+59:06.000 --> 59:08.000
+então isso é uma área que eu acho que ainda vai crescer muito
+
+59:08.000 --> 59:10.000
+ainda para a gente
+
+59:10.000 --> 59:12.000
+da comunidade a pensar
+
+59:12.000 --> 59:14.000
+você não conhece o ODE?
+
+59:14.000 --> 59:16.000
+o ODE são zero guias
+
+59:22.000 --> 59:24.000
+já ouvi falar em halter fire?
+
+59:24.000 --> 59:26.000
+halter fire ou é o fire o que você faz na arte?
+
+59:26.000 --> 59:28.000
+não sei
+
+59:28.000 --> 59:30.000
+porque assim, eu quando era jojo
+
+59:30.000 --> 59:32.000
+lá na minha juventude
+
+59:32.000 --> 59:34.000
+eu colecionava na revista Hacker
+
+59:38.000 --> 59:40.000
+e ela tinha um artigo especial
+
+59:40.000 --> 59:42.000
+que falava do halter fire
+
+59:42.000 --> 59:44.000
+porque é halter fire
+
+59:44.000 --> 59:46.000
+é o princípio básico
+
+59:46.000 --> 59:48.000
+já vi falar aquela frase que
+
+59:48.000 --> 59:50.000
+um computador seguro
+
+59:50.000 --> 59:52.000
+é um computador desligado
+
+59:52.000 --> 59:54.000
+então pois é
+
+59:54.000 --> 59:56.000
+no halter fire
+
+59:56.000 --> 59:58.000
+ele sobe o fire
+
+59:58.000 --> 01:00:00.000
+e desliga todos os outros serviços
+
+01:00:00.000 --> 01:00:02.000
+então
+
+01:00:02.000 --> 01:00:04.000
+se a pessoa for atacar
+
+01:00:04.000 --> 01:00:06.000
+aquela máquina
+
+01:00:06.000 --> 01:00:08.000
+ela não consegue porque
+
+01:00:08.000 --> 01:00:10.000
+qualquer outro serviço que poderia
+
+01:00:10.000 --> 01:00:12.000
+trazer alguma vulnerabilidade
+
+01:00:12.000 --> 01:00:14.000
+daquela máquina
+
+01:00:14.000 --> 01:00:16.000
+a vulnerabilidade é uma palavra do corpo
+
+01:00:16.000 --> 01:00:18.000
+qualquer uma vulnerabilidade
+
+01:00:18.000 --> 01:00:20.000
+ele não vai conseguir esforar porque eu só tenho
+
+01:00:20.000 --> 01:00:22.000
+o fire ligado
+
+01:00:22.000 --> 01:00:24.000
+a vulnerabilidade é atrapalhar a interoperabilidade
+
+01:00:24.000 --> 01:00:26.000
+que destrói as habilidades
+
+01:00:26.000 --> 01:00:28.000
+e a vulnerabilidade também
+
+01:00:28.000 --> 01:00:30.000
+um dos problemas que eu tenho a halter de fire
+
+01:00:30.000 --> 01:00:32.000
+é que eu não consigo perder nada no computador
+
+01:00:32.000 --> 01:00:34.000
+se eu precisar fazer alguma outra configuração
+
+01:00:34.000 --> 01:00:36.000
+eu tenho que reiniciar a máquina
+
+01:00:36.000 --> 01:00:38.000
+mas seria basicamente isso
+
+01:00:38.000 --> 01:00:40.000
+eu subo o fire e desligo tudo que até outro serviço
+
+01:00:40.000 --> 01:00:42.000
+é que eu estiver na máquina
+
+01:00:42.000 --> 01:00:44.000
+eu sou o fire e a pessoa não consegue
+
+01:00:44.000 --> 01:00:46.000
+explorar qualquer outra falha
+
+01:00:46.000 --> 01:00:48.000
+que estiver na máquina de outro serviço
+
+01:00:50.000 --> 01:00:52.000
+vamos para as perguntas rápidas
+
+01:00:52.000 --> 01:00:54.000
+vamos fazer duas perguntas e você tem
+
+01:00:54.000 --> 01:00:56.000
+um segundo para responder
+
+01:00:56.000 --> 01:00:58.000
+o que é um proxy?
+
+01:00:58.000 --> 01:01:00.000
+um proxy é uma aplicação que vai
+
+01:01:00.000 --> 01:01:02.000
+receber um tráfego de um determinado serviço
+
+01:01:02.000 --> 01:01:04.000
+e vai repassar
+
+01:01:04.000 --> 01:01:06.000
+essa informação, vai fazer algum tipo de tratamento
+
+01:01:06.000 --> 01:01:08.000
+seja de bloqueio
+
+01:01:08.000 --> 01:01:10.000
+qualquer tipo de tratamento
+
+01:01:10.000 --> 01:01:12.000
+e vai repassar para o destino
+
+01:01:12.000 --> 01:01:14.000
+tem proxy aqui da tp
+
+01:01:14.000 --> 01:01:16.000
+proxy
+
+01:01:16.000 --> 01:01:18.000
+sntp
+
+01:01:18.000 --> 01:01:20.000
+batch de proxy
+
+01:01:20.000 --> 01:01:22.000
+até proxy de torne
+
+01:01:22.000 --> 01:01:24.000
+é você interligar
+
+01:01:24.000 --> 01:01:26.000
+redes cada 100 segundos
+
+01:01:26.000 --> 01:01:28.000
+então tá, vpn
+
+01:01:28.000 --> 01:01:30.000
+você interliga redes privadas
+
+01:01:30.000 --> 01:01:32.000
+de modo que o tráfego
+
+01:01:32.000 --> 01:01:34.000
+que vai ser passado
+
+01:01:34.000 --> 01:01:36.000
+entre uma rede e outra
+
+01:01:36.000 --> 01:01:38.000
+vai ser criptografado
+
+01:01:38.000 --> 01:01:40.000
+então você pode ligar uma rede privada
+
+01:01:40.000 --> 01:01:42.000
+a outra rede privada
+
+01:01:42.000 --> 01:01:44.000
+e fazer com que essas
+
+01:01:44.000 --> 01:01:46.000
+redes se comuniquem
+
+01:01:46.000 --> 01:01:48.000
+com tráfego criptografado
+
+01:01:48.000 --> 01:01:50.000
+e isso seria uma rede vpn
+
+01:01:50.000 --> 01:01:52.000
+e isso sempre depende também
+
+01:01:52.000 --> 01:01:54.000
+para um usuário
+
+01:01:54.000 --> 01:01:56.000
+que seja a parte de chaves
+
+01:01:56.000 --> 01:01:58.000
+uma chave ficando servidor, outra para o usuário
+
+01:01:58.000 --> 01:02:00.000
+e aí o usuário
+
+01:02:00.000 --> 01:02:02.000
+conecta na sua rede
+
+01:02:02.000 --> 01:02:04.000
+e vai estar tratando tudo criptografado
+
+01:02:04.000 --> 01:02:06.000
+ele vai estar comunicando com a sua rede
+
+01:02:06.000 --> 01:02:08.000
+através de um canal segundo
+
+01:02:08.000 --> 01:02:10.000
+que vai estar criptografado
+
+01:02:10.000 --> 01:02:12.000
+na faculdade
+
+01:02:12.000 --> 01:02:14.000
+acho que eu nunca falei onde que é
+
+01:02:14.000 --> 01:02:16.000
+na igual, nem falar também
+
+01:02:16.000 --> 01:02:18.000
+falei que eu falei na episódio anterior
+
+01:02:18.000 --> 01:02:20.000
+e eu falei a faculdade errada
+
+01:02:20.000 --> 01:02:20.000
+
+
+01:02:20.000 --> 01:02:22.000
+falou a faculdade errada
+
+01:02:22.000 --> 01:02:24.000
+ou seja, a universo não é minha faculdade
+
+01:02:24.000 --> 01:02:26.000
+mas eu não vou falar também qual é
+
+01:02:26.000 --> 01:02:28.000
+mas tem como descobrir também
+
+01:02:28.000 --> 01:02:30.000
+por lá eles têm, se você
+
+01:02:30.000 --> 01:02:32.000
+editar um endereço que tiver a palavra
+
+01:02:32.000 --> 01:02:34.000
+blog por exemplo
+
+01:02:34.000 --> 01:02:36.000
+só a palavra blog, aí ele bloqueia
+
+01:02:36.000 --> 01:02:38.000
+se eu editar, por exemplo, o blog
+
+01:02:38.000 --> 01:02:40.000
+eu tenho um blog do blogspot
+
+01:02:40.000 --> 01:02:42.000
+a tributoci é um blog
+
+01:02:42.000 --> 01:02:44.000
+e eu consigo acessar
+
+01:02:44.000 --> 01:02:46.000
+os blogs que eu acesso do blogspot
+
+01:02:46.000 --> 01:02:48.000
+eu consigo acessar
+
+01:02:48.000 --> 01:02:50.000
+agora o nerdson por exemplo, que é nerdson.com.br
+
+01:02:50.000 --> 01:02:52.000
+blog, aí eu já não acesso
+
+01:02:52.000 --> 01:02:54.000
+porque tem a palavra blog, que seria isso?
+
+01:02:54.000 --> 01:02:56.000
+seria o filtro
+
+01:02:56.000 --> 01:02:58.000
+dessa palavra
+
+01:02:58.000 --> 01:03:00.000
+seja não RL ou no conteúdo
+
+01:03:00.000 --> 01:03:02.000
+da resposta
+
+01:03:02.000 --> 01:03:04.000
+a questão é que além do que não foi comentado
+
+01:03:04.000 --> 01:03:06.000
+é que o proxy pode fazer cache
+
+01:03:06.000 --> 01:03:08.000
+então você
+
+01:03:08.000 --> 01:03:10.000
+vai estar economizando o banda
+
+01:03:10.000 --> 01:03:12.000
+então que você já tenha armazenado
+
+01:03:12.000 --> 01:03:14.000
+localmente no seu servidor
+
+01:03:14.000 --> 01:03:16.000
+você já distribuir para os seus
+
+01:03:16.000 --> 01:03:18.000
+usuários e tudo
+
+01:03:18.000 --> 01:03:20.000
+então isso é feito
+
+01:03:20.000 --> 01:03:22.000
+tem como bypassar isso
+
+01:03:22.000 --> 01:03:24.000
+por exemplo
+
+01:03:24.000 --> 01:03:26.000
+usando um outro proxy
+
+01:03:26.000 --> 01:03:28.000
+se caso, dependendo de como
+
+01:03:28.000 --> 01:03:30.000
+cada configurou o servidor proxy dele
+
+01:03:30.000 --> 01:03:32.000
+e como está o firewall dele
+
+01:03:32.000 --> 01:03:34.000
+se você achar alguma porta que você consegue
+
+01:03:34.000 --> 01:03:36.000
+comunicar externamente
+
+01:03:36.000 --> 01:03:38.000
+você pode montar o servidor proxy e comunicar com ele
+
+01:03:38.000 --> 01:03:40.000
+essa é uma maneira de bypassar isso
+
+01:03:40.000 --> 01:03:42.000
+outra maneira de bypassar isso
+
+01:03:42.000 --> 01:03:44.000
+vai passar isso
+
+01:03:44.000 --> 01:03:46.000
+é com tonelamento de conexões
+
+01:03:46.000 --> 01:03:48.000
+com o meu pouco conhecimento que eu tenho de rede
+
+01:03:48.000 --> 01:03:50.000
+eu acho que isso não é uma boa e prática
+
+01:03:50.000 --> 01:03:52.000
+às vezes você tem um conteúdo interessante
+
+01:03:52.000 --> 01:03:54.000
+para ser acessado na faculdade
+
+01:03:54.000 --> 01:03:56.000
+e é bloqueado por causa que ele tenha
+
+01:03:56.000 --> 01:03:58.000
+tal palavra na RL
+
+01:03:58.000 --> 01:04:00.000
+por exemplo, esse site até é site pornô
+
+01:04:00.000 --> 01:04:02.000
+que eu consigo acessar tranquilamente lá
+
+01:04:02.000 --> 01:04:04.000
+por causa que não tem nenhuma palavra que
+
+01:04:04.000 --> 01:04:06.000
+não que eu fique acessando site pornô na faculdade
+
+01:04:06.000 --> 01:04:08.000
+tá bom, a gente vai acreditar
+
+01:04:08.000 --> 01:04:10.000
+porque eu sou um parafim científico
+
+01:04:10.000 --> 01:04:12.000
+é, foi só como exemplo, claro
+
+01:04:12.000 --> 01:04:14.000
+outro exemplo para ficar científico
+
+01:04:14.000 --> 01:04:16.000
+é, no caso que o shouter falou
+
+01:04:16.000 --> 01:04:18.000
+seria
+
+01:04:18.000 --> 01:04:20.000
+uma palavra que está na lista negrina
+
+01:04:20.000 --> 01:04:22.000
+caso você descubra
+
+01:04:22.000 --> 01:04:24.000
+que tem alguma palavra que está na lista branca
+
+01:04:24.000 --> 01:04:26.000
+aí vira um teste
+
+01:04:26.000 --> 01:04:28.000
+por exemplo, para usar o Google
+
+01:04:28.000 --> 01:04:30.000
+se eu tenho a palavra full
+
+01:04:30.000 --> 01:04:32.000
+que ela é liberada
+
+01:04:32.000 --> 01:04:34.000
+eu vou lá e digito a pesquisa que eu quero
+
+01:04:34.000 --> 01:04:36.000
+menos full, entendeu?
+
+01:04:36.000 --> 01:04:38.000
+ignora a palavra que é uma palavra liberada
+
+01:04:38.000 --> 01:04:40.000
+a pesquisa é normal
+
+01:04:40.000 --> 01:04:42.000
+e tiver uma palavra na lista negrina
+
+01:04:42.000 --> 01:04:44.000
+já é?
+
+01:04:44.000 --> 01:04:46.000
+vai dar precedência
+
+01:04:46.000 --> 01:04:48.000
+é, depende da precedência lá
+
+01:04:48.000 --> 01:04:50.000
+aí, por exemplo, eu consegui acessar
+
+01:04:50.000 --> 01:04:52.000
+várias coisas, tipo assim
+
+01:04:52.000 --> 01:04:54.000
+eu queria ver uma foto
+
+01:04:54.000 --> 01:04:56.000
+aí colocava
+
+01:04:56.000 --> 01:04:58.000
+interrogação
+
+01:04:58.000 --> 01:05:00.000
+full, igual
+
+01:05:00.000 --> 01:05:02.000
+a palavra liberada
+
+01:05:02.000 --> 01:05:04.000
+tudo assim
+
+01:05:04.000 --> 01:05:06.000
+é como se tivesse internet livre pra mim
+
+01:05:06.000 --> 01:05:08.000
+mas assim, existe uma prática
+
+01:05:08.000 --> 01:05:10.000
+melhor
+
+01:05:10.000 --> 01:05:12.000
+porque isso eu acho meio pouco, sei lá
+
+01:05:12.000 --> 01:05:14.000
+a minha noção de rede
+
+01:05:14.000 --> 01:05:16.000
+é pouca, mas eu acho que isso é meio pouco
+
+01:05:16.000 --> 01:05:18.000
+é, como você
+
+01:05:18.000 --> 01:05:20.000
+como vocês disseram, você pode ter
+
+01:05:20.000 --> 01:05:22.000
+um proxy que bloqueia tudo
+
+01:05:22.000 --> 01:05:24.000
+e você libera só o que você quer
+
+01:05:24.000 --> 01:05:26.000
+como você pode ter um proxy
+
+01:05:26.000 --> 01:05:28.000
+blacklist, né? então você pode ter uma lista negrina
+
+01:05:28.000 --> 01:05:30.000
+como você pode ter uma lista branca
+
+01:05:30.000 --> 01:05:32.000
+a questão é que no ambiente corporativo
+
+01:05:32.000 --> 01:05:34.000
+realmente já atrapalha a produtividade
+
+01:05:34.000 --> 01:05:36.000
+dos funcionários
+
+01:05:36.000 --> 01:05:38.000
+eu acho que a melhor da alternativa
+
+01:05:38.000 --> 01:05:40.000
+seria monitorar os acessos
+
+01:05:40.000 --> 01:05:42.000
+né?
+
+01:05:42.000 --> 01:05:44.000
+e cortando aos poucos
+
+01:05:44.000 --> 01:05:46.000
+não que isso seja a melhor alternativa
+
+01:05:46.000 --> 01:05:48.000
+a alternativa mais trabalhosa
+
+01:05:48.000 --> 01:05:50.000
+mas se você tem, isso depende muito
+
+01:05:50.000 --> 01:05:52.000
+da editoria da empresa, se a empresa tem
+
+01:05:52.000 --> 01:05:54.000
+esse espírito
+
+01:05:54.000 --> 01:05:56.000
+ela vai fazer isso, não é? ela vai bloquear tudo
+
+01:05:56.000 --> 01:05:58.000
+e vai liberando aos poucos
+
+01:05:58.000 --> 01:06:00.000
+é, eu sinceramente
+
+01:06:00.000 --> 01:06:02.000
+não tenho
+
+01:06:02.000 --> 01:06:04.000
+bastante incomodado, quando eu cadastrar alguma coisa
+
+01:06:04.000 --> 01:06:06.000
+não tem como
+
+01:06:06.000 --> 01:06:08.000
+por isso que, eu acho legal
+
+01:06:08.000 --> 01:06:10.000
+difundir as práticas de bypass
+
+01:06:10.000 --> 01:06:12.000
+eu falei isso porque o seguinte, as vezes
+
+01:06:12.000 --> 01:06:14.000
+é bloqueado por palavra
+
+01:06:14.000 --> 01:06:16.000
+eu acho que deveria fazer uma lista
+
+01:06:16.000 --> 01:06:18.000
+uma blacklist, em vez de ser
+
+01:06:18.000 --> 01:06:20.000
+dependendo do site, se o site vai para a lava blog
+
+01:06:20.000 --> 01:06:22.000
+ele já bloqueia, dependendo do site
+
+01:06:22.000 --> 01:06:24.000
+se o site vai para a palavra software, já bloqueia
+
+01:06:24.000 --> 01:06:26.000
+então, às vezes é ruim
+
+01:06:26.000 --> 01:06:28.000
+imagina, você entrar no próprio site da faculdade
+
+01:06:28.000 --> 01:06:30.000
+e ter uma palavra
+
+01:06:30.000 --> 01:06:32.000
+e detalhe, eles bloqueiam
+
+01:06:32.000 --> 01:06:34.000
+pelo que eu já percebi usando
+
+01:06:34.000 --> 01:06:36.000
+a internet lá, eles bloqueiam
+
+01:06:36.000 --> 01:06:38.000
+só a URL
+
+01:06:38.000 --> 01:06:40.000
+então, se tiver blog no conteúdo
+
+01:06:40.000 --> 01:06:42.000
+do site, não passe direto, só verificar
+
+01:06:42.000 --> 01:06:44.000
+o URL, aí eu acho que isso
+
+01:06:44.000 --> 01:06:46.000
+seria legal
+
+01:06:46.000 --> 01:06:48.000
+eles poderiam também
+
+01:06:48.000 --> 01:06:50.000
+bloquear o metapag
+
+01:06:50.000 --> 01:06:52.000
+no caso dos sites proibidos
+
+01:06:52.000 --> 01:06:54.000
+para a menor de 18, ele tem
+
+01:06:54.000 --> 01:06:56.000
+umas tags no cabeçalha HPVP
+
+01:06:56.000 --> 01:06:58.000
+que informa que aquele
+
+01:06:58.000 --> 01:07:00.000
+site é
+
+01:07:00.000 --> 01:07:02.000
+com aquele conteúdo
+
+01:07:02.000 --> 01:07:04.000
+seria outra maneira de bloqueio
+
+01:07:04.000 --> 01:07:06.000
+do próprio site
+
+01:07:06.000 --> 01:07:08.000
+a gente já falou sobre VPN
+
+01:07:08.000 --> 01:07:10.000
+agora seria interessante a gente falar
+
+01:07:10.000 --> 01:07:12.000
+sobre
+
+01:07:12.000 --> 01:07:14.000
+NH, IDS
+
+01:07:14.000 --> 01:07:16.000
+IDS
+
+01:07:16.000 --> 01:07:18.000
+assim, o que eu faço falar de IDS
+
+01:07:18.000 --> 01:07:20.000
+que é nos ferramentos de detecção de intruso
+
+01:07:20.000 --> 01:07:22.000
+intrusão?
+
+01:07:22.000 --> 01:07:24.000
+intrusão, intruso, cordão
+
+01:07:24.000 --> 01:07:26.000
+intrusão, mega intruso
+
+01:07:26.000 --> 01:07:28.000
+ex
+
+01:07:28.000 --> 01:07:30.000
+ela verifica
+
+01:07:30.000 --> 01:07:32.000
+são ferramentas que
+
+01:07:32.000 --> 01:07:34.000
+é no caso do IDS
+
+01:07:34.000 --> 01:07:36.000
+de acordo com
+
+01:07:36.000 --> 01:07:38.000
+o comportamento do
+
+01:07:38.000 --> 01:07:40.000
+intruso
+
+01:07:40.000 --> 01:07:42.000
+que assim
+
+01:07:42.000 --> 01:07:44.000
+detecta se aquele lá pode ser um ataque
+
+01:07:44.000 --> 01:07:46.000
+ou não, uma ferramenta
+
+01:07:46.000 --> 01:07:48.000
+inclusive, não é IDS
+
+01:07:48.000 --> 01:07:50.000
+mas está no mesmo
+
+01:07:50.000 --> 01:07:52.000
+no mesmo campo
+
+01:07:52.000 --> 01:07:54.000
+que ela consegue
+
+01:07:54.000 --> 01:07:56.000
+uma ferramenta que foi feita pelo
+
+01:07:56.000 --> 01:07:58.000
+cara da Digerat
+
+01:07:58.000 --> 01:08:00.000
+o nome do cara é Marcelo
+
+01:08:00.000 --> 01:08:02.000
+alguma coisa, vou procurar e colocar o link no post
+
+01:08:02.000 --> 01:08:04.000
+tem até uns vídeos
+
+01:08:04.000 --> 01:08:06.000
+Marcelo Fiorino
+
+01:08:06.000 --> 01:08:08.000
+que ela conseguia
+
+01:08:08.000 --> 01:08:10.000
+essa ferramenta
+
+01:08:10.000 --> 01:08:12.000
+ela conseguia
+
+01:08:12.000 --> 01:08:14.000
+num chat, por exemplo, IRC
+
+01:08:14.000 --> 01:08:16.000
+só usa muito o Mi
+
+01:08:16.000 --> 01:08:18.000
+ela conseguia conversar com pessoas
+
+01:08:18.000 --> 01:08:20.000
+a
+
+01:08:20.000 --> 01:08:22.000
+ferramenta sozinha, sabe, não é um
+
+01:08:22.000 --> 01:08:24.000
+mano, era um bot
+
+01:08:24.000 --> 01:08:26.000
+ele conversaria com pessoa
+
+01:08:26.000 --> 01:08:28.000
+e ela
+
+01:08:28.000 --> 01:08:30.000
+conseguia detectar perfis de pessoas
+
+01:08:30.000 --> 01:08:32.000
+que seriam invasores
+
+01:08:32.000 --> 01:08:34.000
+seria um cracker, entendeu
+
+01:08:34.000 --> 01:08:36.000
+e ela conversava sozinha, batia um papo
+
+01:08:36.000 --> 01:08:38.000
+com a pessoa e ela conseguia identificar
+
+01:08:38.000 --> 01:08:40.000
+se a pessoa seria um
+
+01:08:40.000 --> 01:08:42.000
+possível entre os de rede
+
+01:08:42.000 --> 01:08:44.000
+atacante. Aqui no Brasil tem
+
+01:08:44.000 --> 01:08:46.000
+projeto desse de robô conversar
+
+01:08:46.000 --> 01:08:48.000
+também, que há sete, não sei se
+
+01:08:48.000 --> 01:08:50.000
+você já vai falar, que há sete
+
+01:08:50.000 --> 01:08:52.000
+até outro podcast, a gente falar
+
+01:08:52.000 --> 01:08:54.000
+sobre a inteligência artificial
+
+01:08:54.000 --> 01:08:56.000
+a gente vai citar mais sobre isso
+
+01:08:56.000 --> 01:08:58.000
+mas continua aí com
+
+01:08:58.000 --> 01:09:00.000
+os IDS
+
+01:09:00.000 --> 01:09:02.000
+hoje o normal das ferraments open source, como os Nord
+
+01:09:02.000 --> 01:09:04.000
+ou Cicapa
+
+01:09:04.000 --> 01:09:06.000
+o que eles fazem é analisar o tráfilo
+
+01:09:06.000 --> 01:09:08.000
+de rede, um IDS
+
+01:09:08.000 --> 01:09:10.000
+e bloquear através de assinaturas
+
+01:09:10.000 --> 01:09:12.000
+como Sebastião disse
+
+01:09:12.000 --> 01:09:14.000
+a análise comportamental vai
+
+01:09:14.000 --> 01:09:16.000
+acho que é o futuro dos IDS e IPS
+
+01:09:16.000 --> 01:09:18.000
+mas hoje o que realmente
+
+01:09:18.000 --> 01:09:20.000
+fundido é
+
+01:09:20.000 --> 01:09:22.000
+o bloqueio, a detecção
+
+01:09:22.000 --> 01:09:24.000
+do ataque através de assinaturas
+
+01:09:24.000 --> 01:09:26.000
+então você tem expressões regulares
+
+01:09:26.000 --> 01:09:28.000
+que identificam o pacote malicioso
+
+01:09:28.000 --> 01:09:30.000
+e aí esse pacote
+
+01:09:30.000 --> 01:09:32.000
+ele é gerado alerta
+
+01:09:32.000 --> 01:09:34.000
+se for um IPS já bloqueio
+
+01:09:34.000 --> 01:09:36.000
+se for um IDS só gerado
+
+01:09:36.000 --> 01:09:38.000
+alerta e se for um IDS ativo
+
+01:09:38.000 --> 01:09:40.000
+você vai
+
+01:09:40.000 --> 01:09:42.000
+sofrer o ataque mas vai ser
+
+01:09:42.000 --> 01:09:44.000
+bloqueado a conexão também. Então você tem
+
+01:09:44.000 --> 01:09:46.000
+o network IDS, que por exemplo
+
+01:09:46.000 --> 01:09:48.000
+os Nord, mas tem também
+
+01:09:48.000 --> 01:09:50.000
+os host IDS, por exemplo Osec
+
+01:09:50.000 --> 01:09:52.000
+que ele faz checagem
+
+01:09:52.000 --> 01:09:54.000
+de logs, analisa logs
+
+01:09:54.000 --> 01:09:56.000
+integridade de arquivos
+
+01:09:56.000 --> 01:09:58.000
+é algo mais relacionado
+
+01:09:58.000 --> 01:10:00.000
+ao estão tradicional mesmo
+
+01:10:00.000 --> 01:10:02.000
+e ao serviço que estão rodando lá
+
+01:10:02.000 --> 01:10:04.000
+então ele analisa
+
+01:10:04.000 --> 01:10:06.000
+essas informações
+
+01:10:06.000 --> 01:10:08.000
+e bloqueia
+
+01:10:08.000 --> 01:10:10.000
+pode ser usado de maneira ativa também
+
+01:10:10.000 --> 01:10:12.000
+para bloquear o atacante
+
+01:10:12.000 --> 01:10:14.000
+esse host
+
+01:10:14.000 --> 01:10:16.000
+ele é, por exemplo, um host invulnerável
+
+01:10:16.000 --> 01:10:18.000
+ele é conhecido como
+
+01:10:18.000 --> 01:10:20.000
+Boticast
+
+01:10:20.000 --> 01:10:22.000
+Então, é isso aí pessoal
+
+01:10:22.000 --> 01:10:24.000
+o Boticast ficou longo
+
+01:10:24.000 --> 01:10:26.000
+pra caramba, como sempre
+
+01:10:26.000 --> 01:10:28.000
+vai outros Boticast ser parte desses
+
+01:10:28.000 --> 01:10:30.000
+ficaram bastante assuntos
+
+01:10:30.000 --> 01:10:32.000
+sem entrar a muitos detalhes
+
+01:10:32.000 --> 01:10:34.000
+mas assim, como a gente disse na leitura de mesa
+
+01:10:34.000 --> 01:10:36.000
+imagina que o
+
+01:10:36.000 --> 01:10:38.000
+Boticast era como se fosse uma palestra
+
+01:10:38.000 --> 01:10:40.000
+onde você vai simplesmente ouvir
+
+01:10:40.000 --> 01:10:42.000
+e um conteúdo de forma interativa
+
+01:10:42.000 --> 01:10:44.000
+e de forma diferente
+
+01:10:44.000 --> 01:10:46.000
+você fica numa palestra normal
+
+01:10:46.000 --> 01:10:48.000
+quando você fala de um assunto com uma palestra
+
+01:10:48.000 --> 01:10:50.000
+você fica durante 50 minutos
+
+01:10:50.000 --> 01:10:52.000
+então o Boticast de uma hora
+
+01:10:52.000 --> 01:10:54.000
+não estaria tão diferente de você assistir uma palestra
+
+01:10:54.000 --> 01:10:56.000
+você pode assistir
+
+01:10:56.000 --> 01:10:58.000
+de várias formas
+
+01:10:58.000 --> 01:11:00.000
+pode estar no carro dirigindo
+
+01:11:00.000 --> 01:11:02.000
+pode estar no trabalho
+
+01:11:02.000 --> 01:11:04.000
+às vezes se você não estiver lendo
+
+01:11:04.000 --> 01:11:06.000
+se estiver trabalhando fazendo
+
+01:11:06.000 --> 01:11:08.000
+alguma coisa que não exige a leitura
+
+01:11:08.000 --> 01:11:10.000
+então é fácil você prestar atenção no Boticast
+
+01:11:10.000 --> 01:11:12.000
+participação do
+
+01:11:12.000 --> 01:11:14.000
+Marcelo Fiori
+
+01:11:14.000 --> 01:11:16.000
+e no outro Boticast
+
+01:11:16.000 --> 01:11:18.000
+no mês que vem que a gente vai falar
+
+01:11:18.000 --> 01:11:20.000
+sobre o C-Project
+
+01:11:20.000 --> 01:11:22.000
+a gente vai ter a participação dele também
+
+01:11:22.000 --> 01:11:24.000
+disponibilizando esse espaço físico
+
+01:11:24.000 --> 01:11:26.000
+e espaço de tempo também
+
+01:11:26.000 --> 01:11:28.000
+tomou bastante tempo dele
+
+01:11:28.000 --> 01:11:30.000
+e agradecer por essa participação
+
+01:11:30.000 --> 01:11:32.000
+e contribuição física e intelectual
+
+01:11:32.000 --> 01:11:34.000
+vai dizer que ele tem todo nosso respeito tecnológico
+
+01:11:34.000 --> 01:11:36.000
+bem, que a força esteja com você
+
+01:11:36.000 --> 01:11:38.000
+eu que agradeço
+
+01:11:38.000 --> 01:11:40.000
+o fato de vocês terem me convidado
+
+01:11:40.000 --> 01:11:42.000
+é um prazer participar do Boticast
+
+01:11:42.000 --> 01:11:44.000
+desejo sucesso
+
+01:11:44.000 --> 01:11:46.000
+é algo inovador aqui em Goiás
+
+01:11:46.000 --> 01:11:48.000
+o que vocês estão fazendo
+
+01:11:48.000 --> 01:11:50.000
+então realmente tem tudo pra dar certo
+
+01:11:50.000 --> 01:11:52.000
+e tá dando certo
+
+01:11:52.000 --> 01:11:54.000
+e eu fico feliz, espero ter contribuído
+
+01:11:54.000 --> 01:11:56.000
+de alguma forma
+
+01:11:58.000 --> 01:12:00.000
+mas na camada lá
+
+01:12:00.000 --> 01:12:02.000
+eu acho que na camada aqui
+
+01:12:04.000 --> 01:12:06.000
+eu não sei nem a camada específica
+
+01:12:06.000 --> 01:12:08.000
+e
+
+01:12:08.000 --> 01:12:10.000
+e
+
+01:12:10.000 --> 01:12:12.000
+e aí
+
+01:12:14.000 --> 01:12:16.000
+nesse caso
+
+01:12:16.000 --> 01:12:18.000
+a gente já chegou
+
+01:12:18.000 --> 01:12:20.000
+no
+
+01:12:20.000 --> 01:12:22.000
+uma cela tá
+
+01:12:22.000 --> 01:12:24.000
+isso não é feito
+
+01:12:24.000 --> 01:12:26.000
+comunitariamente
+
+01:12:26.000 --> 01:12:28.000
+existe, já estou falando
+
+01:12:30.000 --> 01:12:32.000
+como
+
+01:12:32.000 --> 01:12:34.000
+o Brasil que diz
+
+01:12:34.000 --> 01:12:36.000
+que é que é fresco
+
+01:13:04.000 --> 01:13:06.000
+e
+
+01:13:08.000 --> 01:13:10.000
+e
+
+01:13:10.000 --> 01:13:12.000
+e
+
+01:13:12.000 --> 01:13:14.000
+e
+
+01:13:14.000 --> 01:13:16.000
+e
+
+01:13:16.000 --> 01:13:18.000
+e
+
+01:13:18.000 --> 01:13:20.000
+e
+
+01:13:20.000 --> 01:13:22.000
+e
+
+01:13:22.000 --> 01:13:24.000
+e
+
+01:13:24.000 --> 01:13:26.000
+e
+
+01:13:26.000 --> 01:13:28.000
+e
+
+01:13:28.000 --> 01:13:30.000
+e
+
+01:13:30.000 --> 01:13:32.000
+e
+
+01:13:32.000 --> 01:13:34.000
+e
+
+01:13:36.000 --> 01:13:38.000
+e
+
+01:13:38.000 --> 01:13:40.000
+e
+
+01:13:40.000 --> 01:13:42.000
+e
+
+01:13:42.000 --> 01:13:44.000
+e
+
+01:13:44.000 --> 01:13:46.000
+e
+
+01:13:46.000 --> 01:13:48.000
+e
+
+01:13:48.000 --> 01:13:50.000
+e
+
+01:13:50.000 --> 01:13:52.000
+e
+
+01:13:52.000 --> 01:13:54.000
+e
+
+01:13:54.000 --> 01:13:56.000
+e
+
+01:13:56.000 --> 01:13:58.000
+e
+
+01:13:58.000 --> 01:14:00.000
+e
+

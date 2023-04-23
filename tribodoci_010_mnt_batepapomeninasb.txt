@@ -1,0 +1,1737 @@
+Susego, qual é?
+Tô na hoje da fome, em briga de cachorro grande!
+E rotas na boa!
+Deixar o mundo ser salto pelos homens?
+Claro que não!
+Claro que não!
+Você está ouvindo o Ributo CEI Podcast!
+Ributo CEI Podcast, episódio 10.
+Bate o papo, menina, segunda parte.
+Porque se você bater o réu, eu quero música do Hulk já no começo.
+Aqui é a Marcia!
+E por que você quer música do Hulk no começo?
+Em episódio passado, a gente...
+Era um episódio já de...
+De palavras de cuidar de gênero, tal.
+E a gente tava um papo muito denso.
+Tava muito denso.
+Como assim? Como assim?
+Papo muito sério.
+Daí, a gente fez uma introdução tanto quanto...
+João Cosas.
+Eu não entendi.
+Como assim? Pode explicar um pouco melhor?
+Então, aí, tipo, foi engraçadinho, né?
+Ah, é verdade.
+Gente, o pessoal aqui radicalizou.
+Como assim?
+Sistema de informação por uma menina?
+Então, tudo bem.
+Eu fiz sistema de informação.
+Mas tinha um monte de homem lá.
+E eu acho assim, vocês foram um pouco preconceitosos.
+Fala a verdade.
+A gente falou que era brincadeira, mas...
+A gente teve gente...
+Teve uma galera que ficou irada aí.
+Quer dizer, é uma galera nova.
+Uma pessoa que falou, né?
+Mas pode ter mais gente que ficou assim.
+Então, a gente fica muito triste.
+Não, mas no final eu achei cômico.
+É, teve uma galera que riu pra caramba, mas...
+Nem todo mundo.
+Eu, por exemplo, adoro piadinha.
+Então, assim, eu achei legal.
+Voltamos pro podcast.
+Nesse podcast, vamos continuar o bate-papo
+que aconteceu na R3TI.
+Goiânia, no dia 12 de fevereiro de 2011,
+com a Aira Sandyer e o grupo MNT.
+Era um evento simultâneo,
+o Arduino Hack Day.
+E lá nesse bate-papo, tava a Aira Sandyer,
+da Global Curde.
+Ela é evangelista de Chava.
+Tava grupo MNT.
+Eu!
+A Marcia.
+A Mariane.
+Da porta 22.
+Cleviane, que ficou griladaça aqui.
+Beijo, Cleviane.
+Querida.
+Ficou griladaça com a nossa introdução.
+Teve a Flávia Soares,
+que ela só se apresentou,
+mas ela não falou...
+A Flávia gosta de fazer, não de falar.
+Ah, bom, tá certo.
+Mas assim, a Flávia tem um lugar cativo
+no Tributo 6, sabia?
+Por quê?
+Ela foi a primeira pessoa
+que comentou a respeito do podcast.
+Comentou o post do primeiro episódio.
+Ah, que gracinha, Flávia.
+Que legal.
+Eu fui qual?
+Acho que foi a partir de segundo episódio.
+Voltando aqui das pessoas que estavam lá,
+teve a Ingrid, o Lucas Fragomen,
+que a esposa dele trabalha
+com equidade de gênero na Caixa Econômica.
+E o Lucas Emmanuel.
+Qual ele?
+Você esquecia alguém?
+Foi um Rafael que ajudou a gente
+na organização desse bate-papo.
+Ele sugeriu a ideia.
+Rafael, obrigado, tá?
+Depois da 3TI.
+Que também é uma nova parceira do grupo Anil.
+Então a gente no episódio passado
+a gente tinha prometido a segunda parte
+para o mesmo mês.
+A gente não conseguiu.
+Vamos continuar o combate-papo, então.
+Tá mega-vindos.
+Tem uma coisa que eu acho que é importante,
+que eu vejo muitas vezes
+uma capacidade organizacional feminina.
+De falar, olha, vamos organizar,
+vamos planejar e ter, de alguma maneira,
+isso daí.
+E acaba refletindo em várias situações.
+Eu conheço várias pessoas que falam
+que há 5 anos eu vou casar,
+depois de 2 eu vou ter filho.
+Depois, engraçado essa capacidade,
+eu conversei com a Ingrid.
+Ela falou para mim, não.
+Quando eu entrei na faculdade,
+eu sabia que iria prestar concurso, etc.
+E ter uma meta, um planejamento,
+acho que a metade do fator é o sucesso.
+Se você sabe onde você quer chegar,
+é uma boa forma de você começar o caminho.
+Se você não tem a menor ideia
+onde você quer chegar,
+é uma maneira mais difícil de você encontrar um caminho.
+Então, eu acho hoje que para a mulher,
+tem uma coisa que é importante,
+que é falar, olha, de alguma maneira,
+eu sinto que tem alguma dificuldade
+no mercado de trabalho,
+eu estou tendo um empecilho,
+e olhar isso bem racionalmente.
+E olhar e falar o que eu preciso
+para entrar na área, por exemplo, de programação.
+Eu quero trabalhar com java.
+Eu quero trabalhar com java,
+então preciso saber java,
+preciso de um tempo de planejamento na minha vida particular,
+para aprender java,
+para tirar uma certificação java e enfim,
+coisas desse tipo.
+Mas só isso ainda não é um fator suficiente
+para a gente ter sucesso.
+A segunda parte de sucesso
+é a habilidade de comunicação,
+de como a gente consegue se comunicar
+e como a gente consegue valorizar o nosso próprio trabalho.
+Hoje, na hora que ela foi me falar,
+ela falou, ah, aloyane, né?
+Aloyane é um outro exemplo de umas poucas mulheres
+que conseguem fazer uma auto promoção saudável.
+Isso é muito raro.
+Quando eu decidi mostrar aquele vídeo para vocês,
+uma das coisas que mais me chocou nesse vídeo é isso.
+É a baixa capacidade de auto promoção que a mulher tem.
+A mulher, ela consegue subir no salto,
+colocar uma maquiagem, chegar em um lugar
+e falar, eu sou fantástica.
+Mas ela não consegue normalmente
+fazer a mesma coisa profissionalmente.
+Existe aí uma dificuldade na mulher, sabe?
+Falar, ir lá para o Twitter
+ou para a rede social
+e fazer uma auto promoção do seu conhecimento.
+Quantas mulheres têm blog, por exemplo?
+Quantos homens têm blog?
+O que é um blog?
+A não ser uma auto divulgação.
+É claro que essa auto divulgação,
+ela sempre tem uma propagação de conhecimento
+e outras coisas boas.
+Mas é uma maneira de fazer a auto promoção,
+de mostrar para o mundo o que você sabe.
+Então, acho que hoje uma das coisas
+que no universo feminino,
+como o estímulo que pode ser dado em casa
+e tudo isso,
+é o entendimento
+desse fator comunicação.
+Conseguir se comunicar hierarquicamente,
+conseguir pedir um aumento,
+conseguir demonstrar uma insatisfação.
+Eu vejo hoje um dos fatores positivos
+de se contratar uma mulher,
+é que pegue uma mulher
+e coloca ela para trabalhar com struts.
+Ela não vai falar,
+não quero trabalhar com essa porcaria.
+Você pega um homem,
+põe ele para trabalhar com struts,
+ele fala, não quero trabalhar com essa porcaria.
+Ele tem uma voz ativa
+de falar o que ele quer, o que ele não quer.
+E a mulher, muitas vezes,
+conta como um ponto favorável
+para a contratação.
+Você põe ela para trabalhar com um negócio lá,
+é difícil a mulher reclamar.
+Normalmente, ela fica naquele cantinho ali,
+ela não vai pedir aumento.
+Então, acho que a capacidade de se comunicar,
+tanto para o marketing pessoal,
+quanto para comunicar os seus desejos
+ou o que ela está se afastando ou não na sua meta,
+é um fator importante de sucesso
+que a gente pode contribuir
+no Mulheres na TI,
+propagando isso, valorizando as mulheres,
+conversando com nossas amigas,
+encontrando formas de fazer isso.
+Ela ganha maquiagem.
+É engraçado isso,
+porque na hora que chega na minha casa,
+a Maria é mais velha e o Rafael é mais novo.
+A hora que chega a maquiagem,
+chegou um brinquedinho de maquiagem,
+você fala, o que é?
+Vamos abstrair a maquiagem.
+A maquiagem, ela é um conjunto de tintas
+que estão ali,
+que melhor do que pintar o papel,
+você pode pintar você mesmo.
+Olha a coisa maravilhosa,
+é uma tinta que você passa em você mesmo.
+E aí, aquilo chega e a Maria pinta aí,
+brinca com essa tinta,
+está em fio, dedo, estraga,
+faça o que você quer com essa tinta.
+E ao mesmo tempo, para o Rafael,
+você fala, desculpa,
+essa tinta aqui você não pode brincar, não.
+Pega aquelas outras tintas chatas
+que você só pinta no papel.
+Essa tinta aqui que pode pintar em você,
+não.
+Então, é muito engraçado que essa cultura
+vai para os dois lados,
+tem dos dois filhos,
+eu até vejo o Rafael mais prejudicado,
+porque eu falo, por que ele não pode brincar de boneca?
+Por que ele não vai colocar o filho dele
+para dormir, quando o filho dele crescer?
+Por que ele não vai aprender
+que vai cozinhar?
+Então, nesse caso, é engraçado que
+para poder ter esse estímulo,
+você precisa ter um marido
+que vai contribuir nesse estímulo.
+Eu jamais poderia fazer o que eu faço
+se o Vinícius não cuidasse das crianças,
+eu não cuidasse do jantar,
+eu não fizesse do mercado.
+Eu consigo fazer as coisas que eu faço
+no Twitter, no blog, na Global Code,
+porque também eu não estou com a carga toda
+em cima de mim.
+Tem uma pessoa que está não só fazendo,
+mas mostrando uma nova realidade
+para as crianças que estão em desenvolvimento,
+aquilo ali está mostrando para o Rafael.
+Olha, o homem também cozinha
+e está mostrando para a Maria.
+Olha que legal!
+O marido também não é uma coisa
+que eu também estou fazendo.
+Engaçado você me trouxe a mente agora
+do outro lado da moeda também,
+de qual existimos que você não quer dar
+para o seu filho, homem.
+Isso é uma coisa assim,
+para o homem talvez seja mais difícil
+lidar com isso.
+A imagem de eu dando um carrinho
+para a minha filha brincar
+é um milhão de vezes menos séria
+do que dar maquiagem para o meu filho brincar.
+Mas você vê hoje
+talvez essa mesma discussão
+que a gente está tendo aqui agora,
+talvez homens, cabeleireiros,
+seja um tendo alto também,
+e essa questão do preconceito também
+na área da moda.
+Eu, assim, na academia
+que a minha esposa faz,
+onde ela está começando com cara,
+eu falo, quem é esse cara?
+Da lá é meu cabeleireiro.
+Eu já era meio torto assim,
+eu falei assim, ah não,
+pode conversar à vontade com ele.
+Mas nada a ver,
+o cara é macho pra caramba,
+já vi na rua com mulher.
+A gente falou assim,
+é de fato um preconceito.
+Entrei em muita questão
+que talvez a gente
+não tem mais que lidar
+com os estímulos,
+agora em diante,
+mas a gente já tem que lidar
+com os preconceitos,
+os nossos,
+os anteriores.
+Ainda vão persistir
+durante 50 anos.
+Certamente, né?
+Se os dias eu falei que meu sonho
+que eu queria,
+que eu tenho um anel de noivado,
+acho que faz mais sentido
+botar no dedo o anelar.
+Quero botar no dedão.
+Meu sogro é pra pensar
+que coisa de viada é essa.
+Tem de dar o botão o anel no dedão,
+bicho.
+Mas tipo assim,
+são preconceitos,
+esses preconceitos existem
+na nossa sociedade
+em várias áreas,
+e ele existe sim
+com um preconceito
+contra-gênero também.
+A gente não vê isso
+porque ele é velado,
+que ele é um preconceito
+que é politicamente incorreto,
+que nem preconceito racial também.
+Ele existe,
+você não vê mulheres,
+mas também não vê negros
+em cargos de poder.
+Então,
+que são sérias
+que não mudaram.
+Já mudaram.
+Mas é muito interessante,
+ela falou da avó
+e da avó,
+e a minha bisavó,
+ela teve uma iluminação
+naquele momento,
+acho que ela era de 1908, 1910,
+e ela teve três filhas mulheres,
+e quando as filhas nasceram,
+ela decidiu que as três filhas
+tinham que ir para a universidade,
+imagina que loucura,
+as filhas indo para a universidade.
+E ela fez o que fez,
+eles não tinham muito dinheiro,
+todas aprenderam a costurar,
+a bordar,
+e todas aquelas coisas,
+mas ela falou,
+vai para as três para a universidade.
+E aí elas acabaram entrando,
+as três no custo de física e química.
+Não são três emãs,
+as três são firmadas em física,
+as três seguiram carreira acadêmica,
+as três casaram com físicos,
+e a minha avó trabalha até hoje,
+ela é diretora do Instituto,
+fundou a Universidade Federal de São Carlos,
+e um monte de outras coisas.
+Então, eu acho que é muito engraçado,
+tudo de volta,
+a gente volta para coisa de mais do que a sociedade,
+o que a sociedade permite,
+o que a sociedade não permite,
+tem o que a gente pode fazer na nossa vida
+e na vida das pessoas
+que estão diretamente envolvidas com a gente.
+Então, eventualmente,
+a gente não consegue mudar o Brasil,
+mas a gente consegue mudar a nossa família,
+a gente consegue mudar a caixa econômica,
+a gente consegue mudar a R3,
+a gente consegue mudar o escopo menor.
+Eu acho que é fundamental que a gente acredite
+naquela mudança de escopo,
+mesmo que seja mudar a maneira
+como seu filho e sua filha vão pensar
+e propagar isso daí de outras maneiras.
+Então, você vê hoje,
+ela falou lá, olha, dos 190 países
+tinham 9 mulheres na presidência.
+Não sei se aquele vídeo deve ter sido no antes do Brasil,
+capaz que hoje nós já tenhamos 10 mulheres na presidência.
+Não quero falar bem de PT, mal de PT, etc.,
+mas pensando exclusivamente no papel da mulher,
+nós chegamos no momento hoje no Brasil
+que a gente tem a primeira presidente mulher
+e que é um negócio muito legal.
+Então, acho que a mudança
+ela está acontecendo mesmo
+e cada um desses exemplos
+eles são capazes de propagar mais um layer aí.
+A gente consegue expandir,
+não gosto muito da coisa de levantar uma bandeira também,
+ser aquela minoria e falar,
+então tá bom,
+então agora só vou contratar mulheres.
+Não intencionalmente,
+mas hoje, por exemplo,
+a pessoa que é responsável
+com todos os sistemas da Global Code
+é uma mulher.
+A Ana Brantes, que cuida de tudo aquilo,
+quando eu cheguei no JustJab,
+eu falei, olha, quantas pessoas
+acham que tem por trás
+o sistema da Global Code?
+As pessoas começaram a falar,
+um falou 15,
+o outro falou 50,
+eu falei, olha, são duas,
+a Elaine e a Ana Brantes.
+Hoje, tem muito mais instrutores homologados,
+mas no meio de 12 instrutores ativos,
+tem duas mulheres.
+Eu não sou mais uma instrutorativa,
+mas tem outras duas mulheres
+que estão fazendo,
+que estão em sala de aula e tudo isso.
+Então, assim, apesar de ver essa minoria,
+acreditar nesses números,
+eu acredito que tá muito mais dentro da gente
+do que exclusivamente,
+acho que às vezes a gente deixa
+de procurar as oportunidades,
+deixa de ter coragem
+para lutar por essas coisas,
+mas por uma coisa que tá em nós,
+ou pertinho da onde a gente vive,
+do que numa impossibilidade real mesmo.
+Acho que não existe impossibilidade.
+Qualquer mulher que quiser
+vai ser bem sucedida na área de TI.
+Não posso falar nas outras áreas,
+porque as outras áreas
+podem estar mais saturadas,
+tem uma competitividade diferente,
+mas em TI, a mulher exerce da bem,
+colocar a mesma energia
+que os homens que estão se dando bem,
+elas vão conseguir.
+Agora, tem uma frase que eu gosto muito,
+que é, o sucesso se faz à noite,
+porque durante o dia,
+você tá trabalhando 8 horas
+e as outras pessoas do mundo todo
+estão trabalhando 8 horas.
+Então, essas 8 horas do seu trabalho,
+elas não são diferenciais nenhum.
+Eu tô trabalhando,
+Lucas tá trabalhando,
+todo mundo tá trabalhando.
+Essas 8 horas não vão fazer a diferença.
+A diferença são nas outras 4 horas
+que as pessoas estão fazendo outras coisas
+e você tá investindo em você,
+investindo no seu potencial,
+investindo no seu conhecimento.
+A mulher que se dedicar
+outras 4, 2,
+não sei quantas horas exatamente,
+essa mulher vai se dar tão bem
+quanto as outras pessoas
+que estão se dando bem.
+Os homens que estão se dando bem,
+eles também, né,
+é claro que tem um QI e outro QI,
+que tudo bem, a gente descarta
+essas pessoas aí de QI,
+mas as pessoas que estão se dando bem,
+em geral, por sua própria competência,
+elas têm uma dedicação fora da curva.
+E é isso, tá?
+É fora da curva,
+que leva pra um outro,
+que passa lá.
+Não sei se alguém aqui
+viu o Jornal da Globo,
+que passou acho 3, 4 dias atrás,
+sob mercado de trabalho.
+Passa uma série, né,
+tava falando as áreas
+que mais tem demanda hoje no Brasil
+e que mais vão ter demanda.
+A área que mais tem demanda no Brasil
+é TI, desenvolvimento software.
+Tem 570 mil vagas necessárias,
+só tem 500 mil pessoas pra ocupar.
+E isso vai aumentar.
+A segunda área,
+são todas as engenharias também.
+Então tá, e a chance
+pra mulherada correr atrás
+e ocupar essas vagas também.
+E eu acho assim,
+que hoje o mercado de tem,
+tem uma tendência tão forte
+ao crescimento,
+porque há uns 15 anos atrás,
+20 anos atrás,
+ninguém sabia o que era direito,
+tecnologia em si.
+Era uma coisa assim,
+totalmente abstrata.
+E hoje, as crianças e a gente
+temos um contato tão grande
+com tudo isso,
+que vai despertar uma curiosidade,
+um interesse em saber
+como é que funciona.
+Então, eu acho que na minha
+humilde opinião,
+o curso de TI,
+e exatas em geral,
+tende até um crescimento assim,
+gigantesco,
+ainda mais com as próximas gerações
+que já estão crescendo
+com um notebook,
+com o iPhone,
+com alguma outra coisa assim,
+tudo digital,
+tudo tecnológico,
+e até as outras áreas
+tão aderindo a tecnologia,
+uma das áreas mais conservadoras
+que eu acho que é a minha,
+que é o direito,
+já não se vive mais
+sem a tecnologia.
+Tanto é que
+uma coisa que aconteceu
+aqui em Goiás,
+eu acho que está acontecendo
+o Brasil inteiro,
+que estão digitalizando
+todos os processos,
+até por uma questão de sustentabilidade,
+é, espaço,
+e os desembargadores,
+que são os juízes mais antigos,
+que estão no tribunal,
+estão tendo que pegar a aula particular
+de informática,
+porque eles não sabem lidar
+com o computador,
+não sabem abrir o ordem assim.
+Então, o mercado tem que se preparar,
+todo mundo tem que se especializar,
+porque não tem jeito.
+Hoje em dia,
+não tem mais jeito de viver
+sem tecnologia,
+que saa daqui 20 anos
+que nossos filhos vão estar
+entrando nas outras áreas.
+O que é que é T?
+O que é que é informática?
+T é uma área
+que você não estuda só informática,
+você estuda só a área dos outros,
+porque você achar soluções,
+você não estuda formática,
+e vai falar,
+vou resolver um problema de direito,
+como é que eu vou resolver isso aqui?
+Não, eu tenho que estudar direito,
+eu vou poder saber o que
+que eu tenho que resolver.
+Ou seja, é uma área
+que abrange todas as outras áreas,
+e por ela está crescendo bastante,
+ela é interessante
+para as mulheres
+ficar atenta mesmo,
+porque está faltando gente mesmo,
+não tem para onde correr.
+O pessoal está vendo isso aí,
+porque é uma área que dá retorno,
+o retorno financeiro de TI
+é comprovado,
+porque é médio,
+não é prazer,
+não é, botei o dinheiro hoje,
+amanhã já estou com dinheiro aqui,
+de volta devolvido,
+estou com dinheiro tendo lucrado
+ainda aqui uns 3 anos, por exemplo.
+É o que?
+É o parado de gastar papel,
+é o parado de gastar
+com comunicação,
+com telefonica,
+com a parte de redes,
+por exemplo,
+não é médio mesmo,
+quando eu trabalhava lá.
+Comunicação deles toda,
+é feito uma nuvem gigantesca
+de redes,
+onde ficam utilizados com outras.
+Foi isso o que?
+Foi isso para o pessoal de informática,
+não tem que ficar deslocando
+de um ponto para o outro
+para arrumar computador,
+arruma direto para um outro INC, por exemplo.
+Acessa a máquina, arruma, resolve o problema,
+acabou.
+Ou seja,
+essa evolução tecnológica
+está passando também
+até mesmo uma geração
+de novos empregos,
+novos nomes.
+Antigamente era de TI,
+era o cara que desenvolvia,
+o cara que arrumava,
+só.
+Hoje já tem um cara que analisa,
+o cara que testa,
+o cara anantes,
+por expressão.
+A pessoa.
+Legal.
+Sabe o exil, mano.
+É.
+Porque era um cara,
+era uma pessoa.
+Por que isso?
+Se você não já se falou,
+nem a gente já...
+É.
+Então, o problema é,
+a pessoa que testa,
+a pessoa que faz tudo,
+não é somente a manupensão
+e o programa.
+Em todo...
+Foi todo isso visto,
+uma questão por trás.
+A gente até gastamos de tempo,
+nem uma área exata mais.
+É uma área humana,
+a onde a pessoa
+não faz tudo que é exato,
+para tudo que é humana,
+para a gestão de TI,
+a audiência é revestida.
+Acho que a Iara comentou
+sobre a questão da burguesia,
+não está mais escolhendo
+a área das exatas, né?
+Eu acho que hoje,
+talvez uma...
+Não.
+Não.
+Eu não acho que seja esse problema, não.
+Talvez uma coisa
+que explique um pouco isso,
+que é uma coisa que o Brasil
+tem um...
+Eu considero um grande problema
+do país,
+é não valorizar o técnico,
+a parte operacional das coisas.
+E TI hoje é operacional.
+Mesmo um engenheiro,
+por mais que eles tenham títulos,
+seja o engenheiro,
+ele faz coisas também
+que envolvem...
+É uma atividade técnica, né?
+Então, assim,
+eu acho que um exemplo sou eu.
+Eu sou formado em turismo.
+Eu sou analista de sistemas.
+E eu sou bem sucedido na minha área.
+Então, assim,
+eu fiz um curso como
+uma academia do programador,
+academia Java lá da Global Code,
+uma curso de 350 horas de Java,
+aprendi a programar ali.
+Claro que eu já tinha um certo
+background em TI,
+já tinha muita noção,
+mas eu aprendi na mar,
+aprendi em três meses,
+no final do ano,
+eu estava ganhando mil reais,
+depois de dois anos,
+eu estava ganhando 2 mil reais
+e a coisa foi melhorando.
+Então, assim,
+é uma área que você não precisa
+fazer um curso superior para entrar.
+Você pode fazer profissionalizantes.
+Assim, é uma área técnica.
+Isso é um problema no Brasil.
+Só valoriza a bacharel.
+A gente só valoriza o curso superior.
+Inclusive,
+eu lembro quando eu era criança,
+quando a gente tinha 10 anos de idade,
+talvez,
+falava assim,
+você precisa ter esse mundo grau
+para ser alguém na vida.
+Quando eu tinha 18,
+você precisa ter um curso superior
+para ser alguém na vida.
+Então, já escalou isso.
+No Brasil,
+isso é uma verdade,
+mas se você for ver países de
+primeiro mundo,
+como os Estados Unidos
+ou países da Europa,
+isso não é uma condição
+de sine qua non
+para você ser um bom profissional.
+Lá, eles valorizam muito
+o curso técnico.
+Então,
+tinha um cara que era Marceneiro,
+que era meu amigo,
+ganhava a mesma coisa que eu.
+Vou comparar assim,
+tem outro que é eletricista.
+Ele estava,
+é,
+neozelandês,
+estava aqui no Brasil.
+Você acha que tem trabalho
+para mim aqui?
+Eu falei,
+claro,
+acho que tem,
+mas você vai ganhar.
+Na melhor das hipóteses,
+você foi um excelente eletricista
+R$ 2.000 por mês,
+que assim,
+é uma vida de classe média,
+já fica apertado,
+no Brasil.
+Então,
+acho que a gente tem que valorizar
+o curso técnico e o pessoal
+não deve deixar de atrás da TI,
+porque tem que pensar
+em um curso de 4 anos.
+É um curso de 2 anos,
+e isso está lá no mercado, cara.
+O negócio é saber fazer,
+isso é importante.
+É,
+mas é engraçado,
+isso sobre o,
+a Europa,
+os Estados Unidos,
+né,
+a valorização do profissional,
+de serviços,
+ela,
+ela é uma valorização financeira,
+né.
+As pessoas acabam vivendo e ganhando,
+porque não tem quem faça,
+né.
+Os americanos,
+ou,
+os europeus,
+eles não querem fazer esse trabalho
+e eles pagam bem para,
+para as outras pessoas fazerem,
+né.
+É uma valorização monetária.
+Agora,
+é interessante que,
+aqui no Brasil,
+a educação superior,
+na verdade,
+é um dos maiores negócios que existe.
+Com essa febre,
+hoje em dia,
+todo mundo quer ter curso superior.
+Então, por exemplo,
+eu fiquei chocada quando eu vi
+que o presidente da Google
+saiu da Google
+para ir para a Universidade em Anguera.
+Ele foi ser presidente da Universidade
+em Anguera.
+Eu falei,
+nossa,
+ele saiu da Google
+para ser presidente da Universidade
+em Anguera.
+Por quê?
+Porque eu ensino superior,
+hoje é uma máquina de ganhar,
+né,
+a educação,
+tudo isso,
+elas são apontadas
+pelo GART,
+e tudo mais,
+como um grande negócio.
+Todo mundo quer ter.
+Então, hoje você vai contratar,
+por exemplo,
+uma,
+né,
+você fala,
+por,
+esses profissionais
+que estão se formando
+em letras,
+em
+ciências sociais,
+em,
+em tudo isso,
+eles acabam,
+né,
+a pessoa fala,
+bom,
+eu preciso me formar
+alguma coisa.
+Ou você escolhe,
+nas universidades públicas,
+um curso fácil
+que você consiga entrar,
+ou você escolhe
+um curso bonito
+numa universidade particular,
+e as universidades
+particulares,
+elas estão
+com um número de vagas gigantes,
+então,
+qualquer pessoa pode entrar,
+você não está
+obrigando mais o cara a estudar,
+ele nem precisa fazer estibular,
+então,
+ele não tem o pré-requisito
+e você está formando
+uma pessoa de segundo grau,
+com baixa qualificação,
+porque o negócio
+é todo um negócio,
+e não mais
+um processo educacional
+sério.
+Então,
+eu também acredito muito
+na escola técnica,
+eu acredito especialmente
+na área de TI,
+então, você é formado
+em turismo,
+o Vinicius
+é formado em nada,
+o Maurício Leal
+é formado em nada,
+o Bruno Souza
+é formado em nada,
+e a gente tem uma série
+de profissionais
+que se destacaram,
+então, assim,
+eu particularmente gosto
+muito da área de TI,
+até por causa da democratização.
+O negócio não é título,
+o negócio é conhecimento,
+então isso daí
+melhora a vida da mulher também,
+porque se o negócio
+é conhecimento,
+não é título,
+significa que
+se a mulher souber,
+vai ter trabalho pra ela.
+Eu tenho o final do ano de 2008,
+2009,
+o pessoal da área de comunicação,
+teve um série de problemas
+que foi fechado
+de ser obrigatórios
+dos títulos
+pra ser jornalista.
+Aí eu lembro,
+na época da faculdade,
+até brincar com o pessoal,
+falando assim,
+não, gente, não tem problema,
+eu sou da área de formática,
+eu tô formando essa computação,
+e o meu título pra mim,
+agora, é apenas
+um diferencial,
+a mais,
+o cara que tem uma formação acadêmica,
+ele tem um diferencial a mais,
+porque
+ele teve todo um acompanhamento,
+e ele teve várias áreas
+pra escolher,
+ele focou em um,
+ele vai ser bom nela,
+ou seja,
+ele tá tentando focar
+numa área,
+tá tentando especializar nela,
+e o título em si,
+ele é apenas um diferencial
+pra melhorar o meu rendimento,
+não quer dizer que eu sou o cara,
+tanto é que tem muito cara
+que é formado na área,
+que não sabe nada,
+porque, porque ele só
+tirou de poma,
+já que eu tenho várias,
+pra escolher tudo com colegas,
+não tem área que eu não sei nada,
+porque informar,
+tem uma área tão grande,
+que por exemplo,
+se você é um pessoal técnico mesmo,
+que tem um vocode,
+que às vezes,
+foca só na parte de anada,
+você faz vários pros técnicos,
+que você consegue ser um excelente especialista,
+na área de anada de sistema,
+ou em outros casos,
+você consegue ser um excelente especialista,
+na área de
+duvimento de banco de dados,
+só que aí, bem,
+o curso acadêmico,
+o bom dele,
+é só o diferencial a mais,
+só que aí que tá,
+você tem que pegar um curso bom,
+tem que fazer um local que você sabe,
+que você vai tá investindo,
+vai tá tendo um retorno bom,
+é só ficar naquela dia,
+vou fazer pro fazer,
+pra ter um diploma aqui,
+toma aqui.
+Até iria além,
+eu falaria que,
+independente do curso que você tá fazendo,
+esse é um curso bom,
+sem aquelas quatro horas que a gente conversou,
+estudar adicional,
+não tem nada,
+não adianta que você fazer um curso em um lugar,
+sem aquelas horas adicionais,
+que você pode ir em casa,
+eventualmente um lugar melhor,
+vai te forçar mais,
+a estudar essas quatro horas em casa,
+fazendo prova,
+alguma coisa do tipo que já brilha.
+Não só prova,
+você tá passando informação,
+te dá curiosidade,
+você tem que pesquisar em casa,
+né,
+eu tô fazendo uma posa online,
+um dos pontos que eles mais falaram,
+o que eu achei interessante foi,
+ensina a distância,
+tem um sério problema,
+igual não tem que ser dedicado,
+por que?
+Porque não tem ninguém pra pegar no seu pé,
+não tem ninguém pra falar,
+oh vamos,
+estuda aí,
+tem que pegar o trabalho,
+você não passa,
+você não estudar,
+e ensina a distância,
+ele fala quem que é,
+ah não,
+eu tenho que pegar,
+eu tenho que ler o material,
+porque eu quero ler o material,
+não é porque não tem ninguém me mandando,
+eu quero ler,
+e desse material,
+tem alguma coisa interessante
+pra eu poder continuar estudando,
+ou seja,
+quando você tem uma estrutura física
+presencial,
+ela te força a estudar,
+a online,
+ela te obriga,
+você tem que ser autodidado,
+meio que autodidado,
+você tem que,
+se dar aquelas 4 horas a mais,
+você tem que ser,
+as 4 horas a mais,
+ou tem que ser 8,
+você tem que pegar o conteúdo,
+você tem que estudar,
+mas...
+Eu queria comentar sobre 3 coisas que a gente falou,
+é uma,
+é porque eu sou uma pessoa que,
+eu gosto bastante da,
+da academia,
+então eu fiz segundo grau,
+fiz curso técnico,
+em 2004,
+fiz a faculdade,
+quero fazer uma pós-gradação,
+quero fazer mestrado,
+e pós-doutorado,
+e não sei o que mais,
+e eu acho interessante o Sheldon,
+aquela outra pessoa que grava um podcast comigo,
+direto ele tá lá falando comigo,
+e fala assim,
+ó, o cara aqui deixou a faculdade
+pra ir trabalhar no Facebook,
+aí eu pôs ele,
+que coisa...
+E a outra coisa também,
+é que como a área de TI é uma coisa nova,
+ela acaba absorvendo esses outros profissionais,
+que são de outras áreas.
+Eu, particularmente,
+quando eu tô programando,
+eu não quero ser um médico
+pra poder desenvolver um sistema pro médico,
+mas eu tenho que entender o negócio dele
+pra propor uma melhor solução.
+Então, como a TI acaba sendo embrionada,
+embora já tenha bastante tempo,
+ela absorve esses outros profissionais,
+haga o jornalismo também.
+Eu conheço uma menina que trabalhava com jornalismo,
+mas ela,
+ela era jornalista porque ela ganhou
+dois concursos de redação,
+e isso não tira o mérito dela de ser uma boa jornalista.
+O que me leva, também, a falar de outro ponto
+é a questão da metodologia.
+Somente no desenvolvimento do Sol,
+que o Lucas chegou a comentar
+a respeito da própria metodologia.
+Hoje a gente já tem vários outros papéis
+que já existiam,
+mas hoje estão sendo mais levados em conta,
+como o esquema de a pessoa testada,
+a outra pessoa programada,
+outra pessoa levando requisitos.
+Em outras áreas do conhecimento mais tradicionais,
+isso é bastante comum.
+Vou dar um exemplo aqui,
+não necessariamente adequado,
+mas uma manicure que tira uma unha encravada.
+Ela não tem o mesmo método de fazer isso
+do que um médico,
+que vai também tirar uma unha encravada.
+Ele não vai deixar de fazer a sepsia correta,
+vai usar, sei lá,
+uma bistoria correta.
+É assim,
+eu acho que é uma questão de tradição
+da área de conhecimento
+que leva a gente a ter
+essa cultura de profissionalismo na área.
+É comum a pessoa querer fazer um programa,
+ah não,
+você fez o protótipo em uma semana,
+porque o projeto inteiro vai demorar dois anos, né?
+Por uma questão cultural que eu acho também
+pela área de conhecimento ser muito nova,
+a pessoa não aceita isso aí.
+O protótipo sai em uma semana
+e o projeto inteiro tem que sair em dois anos.
+Como é um área de conhecimento nova,
+por uma questão cultural,
+questiona a metodologia do médico,
+mas a pessoa questiona a metodologia
+de um programador
+que quer passar uma semana levantando
+o requisito para entender melhor a solução.
+O problema muito grande da área de ter
+também é aquela famosa história.
+Na engenharia civil,
+você consegue ver o prato crescer.
+É informática não,
+você só vê o trem aparecer do nada.
+Você tá aqui uma semana,
+o cara vai ligar,
+a pessoa vê que tem um sistema pronto,
+que é, por exemplo, no prédio,
+no construção de uma casa,
+ou até mesmo para criar um animal,
+você vê o animal crescendo,
+você vê que ele tá evoluindo.
+Você consegue palpar aqui.
+E a nossa cultura, infelizmente,
+é a cultura do palpado.
+Se não for palpado,
+pra mim não tá valendo.
+E é uma atividade intelectual, né?
+Por exemplo, antes se cobrava
+por mil linhas de código, né?
+Hoje, se a pessoa desenvolveu mil linhas de código,
+não significa que ela é tão eficiente
+quando a pessoa aqui, sei lá,
+desenvolveu 200 linhas.
+Onde é a estrela no ar?
+Eu quero que você baixe um valor pra mim, né?
+Eu quero que fique claro,
+que eu sou a favor da academia, tá?
+É claro, se você tá de tempo,
+tem paciência de ficar mais quatro anos,
+uma faculdade que faz um pristeque,
+é uma melhor opção, né?
+Às vezes eu faço um algoritmo,
+daí há um ano, alguém abre um livro
+e tem um algoritmo e fala,
+é, existe já um algoritmo
+pra fazer aquilo que eu tava fazendo, né?
+Fique de novo o negócio.
+Se você tivesse conhecido isso,
+eu teria ganhado o tempo, né?
+Então, de fato, a academia,
+ela é muito boa, assim.
+Ela vai agregar muito conhecimento.
+Só pra ficar claro que eu quis dizer que
+se você não teve tempo,
+não tem paciência,
+fazer de novo um curso período.
+Eu já tentei fazer, agora,
+um curso de engenharia da computação.
+Eu fiz um semestre e meio,
+eu fiquei sem fogo,
+vou ficar aqui cinco anos.
+Não vai dar certo,
+meu casamento já tava assim.
+Estava um ano casado,
+tava começando a atrapalhar.
+Eu falei assim,
+não, vou fazer um mestrado, né?
+A gente tem.
+Só isso, por isso mesmo.
+Não vou fazer esse curso,
+fazer o mestrado,
+vou cozinhar bastante o mestrado,
+mas vamos dar um jeito.
+Se não deram um Deus,
+o ideia deu, hoje.
+Essa questão da área acadêmica
+era importante.
+Ela tem que vir de seu começo.
+Ao bom da área acadêmica,
+você vai fazer um curso mesmo.
+Você vai pegar ela e saber
+que você vai ter que dedicar quatro anos,
+vai ter que se focar
+só quatro anos naquilo.
+Você não vai ter que estar trabalhando.
+Se você estiver trabalhando,
+vai afetar no seu desempenho,
+porque eu mesmo,
+eu trabalhei para você tentar em palmas.
+Então, foi um período,
+que eu sabia que era quatro horas por dia,
+que eu podia estar estudando,
+para adquirir mais conhecimento,
+para o que eu ia fazer,
+depois que eu formasse,
+e ter melhor rendimento.
+Ou seja,
+eu tinha uma presta em trabalhar.
+Então, isso me evitou,
+com tudo que tivesse uma evolução,
+acima do que o que é atual.
+Aí, tem que ter toda essa questão.
+E a parte acadêmica,
+a interessante,
+sendo a parte acadêmica,
+é, você tem pessoas que tiver experiência,
+com tudo quanto é coisa,
+da área de informática lá dentro.
+Então, você tem um quem debater.
+Quando você aprende um curso,
+que você é um tete,
+você está programando,
+você consegue, no fórum,
+vai te ajudar legal.
+Mas, você não vai ter aquele debate,
+com seus colegas,
+que são mais ou menos 40 pessoas,
+enfrentando o mesmo problema.
+Por exemplo,
+o trabalho de uma vez,
+eu fiz um debris de formática.
+A galera estava logo crescendo,
+ali dentro.
+Aí, acabou, ficou um grupo de xg-alunos,
+e esse grupo de xg-alunos
+ficou ajudando o outro,
+a chegar às soluções inteligentes,
+viagens,
+amigos.
+Uma vez que a gente entrevistou James Gosling,
+e, assim,
+o fato do Vinícius ser autodidata,
+é uma coisa que faz,
+sempre, a gente refletir,
+sobre a importância da universidade,
+etc.
+Como eu falei,
+a família é toda de universitários,
+e, ao mesmo tempo, Vinícius conseguiu
+um monte de coisas,
+sem ter a universidade.
+E nós comentamos para ele,
+o que ele achava,
+se era fundamental ter a universidade,
+ele falou,
+olha,
+eu classifico a universidade
+como um bom lugar para se aprender,
+mas não é um único lugar para se aprender.
+Existem várias formas,
+existem pessoas diferentes,
+capacidades diferentes,
+interesses diferentes.
+Então, hoje,
+eu também acho a universidade maravilhoso,
+dá para fazer, legal,
+não dá para fazer, não deu,
+não está no momento,
+não é por isso que a gente vai deixar
+de conseguir essa oportunidade.
+Então,
+eu gosto muito dos cursos técnicos,
+acho que em várias situações,
+EVM é melhor.
+Conheço várias pessoas
+que gostam de contratar a gente
+que fez com isso técnico,
+porque normalmente a gente que escolheu
+o que queria mais cedo,
+e tem um set de pragmatismo.
+Uma das coisas que eu vejo,
+Eu me formei numa universidade
+que é considerada boa,
+eu me formei na USP,
+e quando a gente se formou,
+um monte de pessoas da minha turma
+estavam com uma insegurança
+em entrar no mercado de trabalho.
+E aí, vou trabalhar com o quê?
+Como é que vai ser agora?
+Eu quero programar,
+mas eu não sei programar direito.
+A dura é realidade.
+Infelizmente, mesmo depois de 5 anos
+de universidade,
+ou 5 anos de direito,
+ou 5 anos de medicina,
+você não tá apto a fazer tudo
+porque você fez o curso.
+Normalmente, você não tem prática.
+Você não tem prática,
+você não tem maturidade,
+você não tem...
+E aí, as pessoas estavam inseguras.
+E nesse momento,
+as pessoas falaram,
+ah, já sei,
+eu vou trabalhar com requisito.
+Ah, eu vou trabalhar com testes.
+Ou eu vou trabalhar com...
+Ah, vou fazer uma estrada aqui mesmo, né?
+Então, eu percebi, eu falei,
+olha, pensa bem,
+é um pessoal que tá se formando,
+sem estar atrasado, sem tá nada,
+que tá se formando uma universidade
+que tem um nome bom pro currículo,
+e mesmo assim,
+essas pessoas estão inseguras.
+Isso quer dizer pra mim
+que é uma mostra significativa
+em relação à insegurança
+da comunidade geral.
+Depois disso,
+muitos anos depois,
+na hora que a gente começou
+a contratar as pessoas na Global Code,
+a gente queria contratar
+gente que tivesse estudando o TAFE,
+pra que eles pudessem depois
+mudar diário dentro da Global Code e tal.
+E eu conversei com uma das meninas
+que trabalha com a gente,
+ela começou a fazer o curso,
+eu falei, aí, ela falou,
+ah, Iara, eu gosto mesmo de requisitos.
+Eu falei, eu amo requisitos também.
+Eu adoro requisitos,
+mas assim, você não gostar de programação?
+O fato que você falar pra mim,
+eu não gosto de programação,
+pra mim, olhando assim,
+bem de uma maneira prepotente, arrogante,
+eu tô achando que você não sabe programar ainda.
+E aprender a programar,
+ela exige uma curva de aprendizado.
+É um negócio, né?
+Fazer requisitos,
+eventualmente as pessoas têm a ilusão
+de que elas estão prontas
+pra fazer requisitos,
+mas da mesma maneira
+que você não tá pronto pra programar,
+você também pode não tá pronto
+pra fazer requisito,
+e as pessoas assim,
+elas têm menos medo
+de ir pra seu do área de humanas
+dentro da computação,
+do que encarar o código mesmo.
+Agora, eu acho que a mulher
+que quer estar na TI,
+de uma maneira sólida e tudo isso,
+ela pode não querer programar depois,
+mas é importante conseguir romper
+essa barreira,
+conseguir, ou na área de redes,
+ou em outras áreas,
+entender qual é o desafio,
+ter coragem e falar,
+eu vou aprender essa porcaria,
+não me importa,
+se vai demorar três meses,
+quatro meses, cinco meses, um ano.
+Mas a gente tem que se policiar
+pra poder ter essa determinação,
+que eu particularmente acho que falta
+na mulher muitas vezes.
+Uma coisa de falar é o seguinte,
+eu vou vencer isso daqui.
+A mulher não tem o espírito da luta,
+ela não tem aquele espírito de combate.
+E eu acho que pra TI, pra computação,
+precisa desses espíritos de combate.
+Precisa do espírito,
+porque cada dia nasce uma nova tecnologia,
+cada dia nasce um negócio novo,
+e você fala, vou ter que vencer essa porcaria.
+E eu sinto isso, eu sinto em mim,
+eu sinto nas mulheres que estão ao meu redor.
+E se eu tivesse que dar um conselho
+pras mulheres,
+é encarar um negócio mais como uma luta.
+Eu particularmente não gosto
+dessa coisa assim, filhinho,
+escolha uma coisa que você gosta de fazer,
+porque o trabalho, a vida e tudo isso,
+mas não é formada por coisas
+que a gente gosta de fazer.
+É formada por desafio, por luta,
+por conquista,
+e eventualmente a gente descobre
+que a gente gosta,
+depois que a gente aprende.
+Ninguém vai gostar de Java de verdade,
+antes de aprender.
+E todo mundo, na hora de começar a aprender Java,
+por exemplo,
+vai se dar mal.
+É difícil, né?
+Ou ser,
+ou é doíno,
+ou robótica,
+ou qualquer uma das outras coisas.
+Às vezes a gente olha
+as pessoas mais experientes,
+eu falo, palestra do Vinicius,
+é uma caca,
+porque ele faz e ele fala
+como seu negócio fosse fácil,
+e as pessoas têm uma ilusão
+de que foi fácil pra ele,
+na hora que ele tá falando.
+Mas por trás daquilo ali,
+tem uma série de horas
+de bater cabeça,
+de passar raiva,
+de estar em casa,
+e de estar lutando com aquela tecnologia.
+E a vida do profissional de computação,
+independente de qual é a área,
+é uma vida de combate de área.
+Então, assim,
+eu acho que a mulher
+pra se dar bem nessa área de computação,
+e provavelmente em todas as outras,
+tem que curar roupa de guerra mesmo,
+e encarar o desafio,
+e não aceitar um não como resposta
+pra esse desafio.
+Onde contaram?
+Agora você falou,
+tava pensando aqui,
+nunca vi uma mulher arquiteta de software.
+Fabiane Nardone?
+Quem?
+Fabiane Nardone.
+Aliás, eu até ia falar dela,
+achei que bom que você falou isso daí,
+mas a Fabiane Nardone,
+ela pra mim é a mulher
+NTi, trabalhando no Brasil,
+que eu mais admiro pra mim.
+Eu falo Fabi, né?
+A Fabiane Nardone,
+ela foi arquiteta do sistema premiado,
+né?
+Ela foi a mulher arquiteta de software.
+A Fabiane Nardone,
+ela foi a arquiteta do sistema premiado,
+né?
+Ela foi a arquiteta do sistema do SUS,
+foi um sistema usando J-boss,
+usando Open Source,
+Sageria e tudo isso.
+Ela foi a arquiteta principal do projeto,
+pois disso,
+fizeram vídeo,
+fizeram reportagem com ela,
+todos os anos no Java One,
+fica repassando com o Fabino Nutellão.
+Hoje, ela é diretora,
+ela teve a frente,
+na verdade,
+eu não sei te falar qual é o cargo,
+mas ela tá na frente da comunidade do OpenJDK,
+ela é líder da comunidade Java Tools,
+ela usa a comunidade mais organizada
+do Javanete,
+então isso aí serviu como exemplo
+para outros,
+e ela, enfim,
+ela é uma mulher
+que tá bem assim,
+na ponta para mim.
+Acho que as mulheres todas aí
+é importante entender
+quem é a Fabiane,
+seguir a Fabiane no Twitter,
+ver o que tá acontecendo,
+que ela é uma referência internacional,
+mesmo,
+é totalmente respeitável.
+A avança da mulher na tecnologia,
+ela tem que pensar
+neste jeito mesmo,
+para ela poder crescer,
+ela tem que cravar mesmo na cabeça dela,
+que,
+se eu não fizer o trem direito,
+eu não vou conseguir crescer,
+eu tenho que pegar,
+eu tenho que fazer,
+eu tenho que destacar.
+O desejo dela não pode ser
+apenas o que desejo de,
+ah, eu tenho que crescer,
+mas tem um monte de meninas
+já lutando aí,
+eu vou ficar quietinho,
+eu vou esperar para o pessoal
+tiver na festa,
+no freio,
+eu vou entrar na comemoração,
+não,
+pegar todo mundo,
+falar, ó,
+não vou baixar a cabeça,
+não vou desistir,
+não vou desistir,
+e correr atrás.
+Eu mesmo,
+em relação ao trabalho,
+eu sempre correr atrás
+das pessoas que eu queria,
+surgir a propriedade,
+o mediriniz,
+você fica meio comendo,
+você fica,
+e aí eu vou, não vou,
+mas você não pode ter esse medir,
+você não pode ter um medir
+descasto,
+você vai falar,
+ó, vou lá, sobrevivei o não,
+levei o não.
+O que é um não?
+É, não,
+você já tem,
+se o não já é garantido,
+vamos surpreender,
+vamos decidir.
+O meu jeito é a mulher,
+quando ela vai tentar
+correr atrás de uma coisa,
+eu quero crescer na empresa,
+eu não quero me destacar na empresa,
+mas se ela não ser com ela,
+é o não.
+Eu não consegui,
+não deu certo,
+mas se ela conseguir o sim,
+aí sim que ela vai estar avançando.
+É isso que faz a pessoa evoluir,
+é isso que faz ela se destacar.
+Ela pegar uma coisa que ela está com o não
+certo e converter esse não com o sim,
+fazer, botar uma negada,
+uma negada é de negada, por exemplo,
+e aí ela chega onde ela quer.
+É, aqui é uma famosa pressão
+da cara para bater.
+Eu levei um não nessa empresa,
+na próxima eu levo um sim.
+Se eu sou dedicada,
+se eu tenho experiência,
+ou se eu sei determinado o assunto,
+ou determinada ferramenta,
+que eu levo um não,
+mas na frente eu levo um sim,
+meu Deus, vou perder meu emprego,
+vou... tenho quantas para pagar,
+mas se você tem talento,
+você consegue.
+Então é se valorizar.
+Tá, estou ganhando pouco aqui,
+eu quero ganhar mais.
+Não?
+Tá, tá.
+A sua empresa não serve para eu trabalhar,
+então eu vou trabalhar em outra empresa
+que me ganha isso.
+É isso.
+Eu sou talento,
+eu sou uma lei de persistência,
+uma maia.
+É a famosa,
+é a famosa sólida,
+o cara que,
+a pessoa que se destaca muitas vezes,
+né,
+aquela pessoa talentosa,
+aquela pessoa que é chata mesmo,
+ela pega o freio,
+o que se assiste,
+é o cara.
+Porque, porque aquele cara,
+que mesmo não tem um cérebro,
+fuma e cor,
+ele consegue fazer isso.
+O pessoal vem ele,
+o pessoal consegue vê-lo,
+consegue notá-lo.
+Por que?
+Porque tá até por lá,
+eu tô aqui,
+tô aqui,
+eu quero isso,
+eu quero aquilo.
+Então eu tô estudando isso e isso,
+e aí o que eu faço?
+Que nem,
+eu tenho muito contato,
+eu tenho a hora que eu tô lá programando,
+eu quero começar lá comigo,
+eu vou nos caras achar,
+porque ele tá justamente
+tirando dúvidas
+quando eu tô trabalhando,
+porque eu não comeu muita coisa.
+Mas é a máscara,
+porque eu reviso coisas
+que eu tô aprendendo,
+e eu passo para ele
+em formação,
+e no que ele aprende,
+ele é aquele cara que eu sei,
+por lá,
+esse cara aqui em cima,
+ele vai trabalhar,
+porque o pessoal tem parte
+de ter esse medo também
+de correr atrás das coisas,
+e tem que ficar assim,
+ah, eu sou um coitadinho,
+eu não dou conta.
+Então eu sou um coitadinho,
+e não sei se eu vou dar
+como eu tivesse escada,
+se eu botar uma perna
+ou outra para pular underground,
+não,
+meu filho,
+pegue a rocha,
+e isso que mais vai acontecer,
+você não conseguiu.
+Eu quero agradecer
+então a presença de vocês,
+aqui nesse bate-papo,
+muito construtivo
+para nós,
+para o grupo,
+mulheres da tecnologia,
+com certeza,
+e a área veio agregar
+bastante formação para a gente,
+Lucas também participou
+bastante,
+obrigado,
+tá,
+tá aqui ajudando a gente,
+ah, e vamos marcar
+em mais bate-papos por aí,
+gente,
+espero contar com vocês
+em outros futuros aí.
+Então obrigada mesmo,
+tá,
+vamos para vocês.
+A pessoa não aceita isso aí,
+o protótipo sai uma semana,
+e o projeto inteiro
+tem que sair em dois anos.
+Como é que a pessoa
+não entende isso,
+né,
+acho que também.
+Desculpa,
+a diferença é tão drástica.
+Finalizando essa especial
+em mulheres na tecnologia,
+a Iara pelo bate-papo,
+então Rafa, a gente agradeceu
+uma reforça.
+Gente, eu vim aqui
+só para dar a receita
+de brigade,
+tá,
+mas enfim,
+ficou na edição da receita,
+e tem um monte de referência
+que ficou faltando
+no episódio passado,
+a gente vai colocar nesta.
+Mande seus feedbacks
+para podcastarrobo-tribo-de-ceia.net
+ou tribo-de-ceia-arroba-gmail.com.
+Pode mandar em meio de voz,
+e valeu,
+muito obrigado a todos vocês,
+valeu, Marcinha.
+Valeu, pessoal,
+valeu o tribo-de-ceia,
+até a próxima,
+se Deus quiser.
+E vocês também,
+né,
+ninguém aguenta, gente.
+Queria agradecer ao alemão
+pelo espaço, né,
+está virando o estúdio
+do tribo-de-ceia,
+a Casa do Alemão.
+É, só falta a...
+É, quero aproveitar a oportunidade
+de mandar um abraço
+da minha irmã Daniela
+e ela pedir
+para contar uma piada aqui,
+pode?
+O espaço é todo dia, vai lá.
+A piada vocês conhecem,
+mas enfim,
+vamos lá,
+eu sou ótima nisso.
+O que uma impressora falou
+para a outra?
+Essa é...
+está complicada.
+Esse papel é meu?
+Ou a impressão é seu?
+Não, isso é o contrário.
+É o contrário.
+Esse papel é seu,
+a impressão é minha,
+fala.
+Enfim,
+esse papel,
+o que é esse papel?
+É o contrário.
+É o contrário.
+Esse papel,
+esse papel é meu?
+É seu?
+Enfim, gente,
+não,
+eu não quero mais falar,
+corte tudo.
+

@@ -1,0 +1,1592 @@
+Trebo do CI Episódio 2
+Para o dia 12 do 6 de 2010
+Meu nome é Sheldon Led
+E apesar de eu adorar programar para desktop
+Eu adoro usar ferramentas leds
+Eu sou o Sebastião Relce
+Se Deus usou padrões de projetos na criação
+A atenção é se comprou
+A gente sabe que o podcast do Jovem Led
+Provisão programador
+Eu conheci um podcast que me deixou com ódio mortal do cara
+É, qual?
+Do Guanabara.info
+Você ouviu esse ouvi?
+Já, já ouvi
+Já ouvi
+Eu sou o Sebastião Relce
+Se Deus usou padrões de projetos na criação
+A gente sabe que o podcast do Jovem Led
+Se Deus usou padrões de projetos na criação
+A gente sabe que o podcast do Jovem Led
+Se Deus usou padrões de projetos na criação
+Você ouviu esse ouviu?
+Já, já ouvi
+É, tipo assim, o cara usa os dois satriãs
+Na trilha sonora
+Que era uma coisa que eu queria usar também, agora que foi
+Ele já falou sobre Flash no primeiro episódio
+É canagem com a gente
+Tá bom que ele já tá no mar de 90 episódios
+É, já que você tocou na assunta de podcast
+Então a gente poderia falar sobre os podcast
+Que já morreu
+Eu comecei na sua parada de podcast
+Pesquisando a respeito de podcast
+O que eu achei muito legal
+É, o Vigo Leandro que eu conhecia
+É, tipo assim, os caras falavam sobre a parada máxima
+O que eu achei muito legal
+Era bem voltado ao software livre
+Tipo, se eu mandei um e-mail depois pra ele
+Se ele ia continuar e tal
+Porque ele grava umas 16h de trabalho
+Perdição e tal
+É, mais ou menos igual a gente
+Aí, depois, esse Geek BR
+Ele virou o Café 2.0
+Que era com Axel Rudin
+O podcast que a gente falou no episódio anterior
+Que ele tinha morrido e parece que eles escutaram
+E falou assim, não, agora a gente vai
+Aí saiu o episódio 111
+O Redor
+O Return of the King
+Cara, o Pop-Tec pra mim era
+Minha referência
+Às vezes eu tenho crise de identidade
+O que eu tinha pra dizer
+O Geek BR, cara, era o melhor que tinha pra mim
+Não existe nada melhor do que o Geek BR
+Eu vi o Pop-Tec
+Não existe nada melhor do que o Pop-Tec
+Aí veio o ElaSport, mas o ElaSport não tem nada a ver
+É o ElaSport e umas meninas
+O Pop-Tec mais esperamos
+Quando o ElaSport, na época
+Ela já falava de Basecamp, Prototype
+Que sabe que é Basecamp
+Não
+Não sabe que é Basecamp
+É, eu sei, mas eu não quero falar, não
+Por que? Eu falei isso
+Ah, não
+Faz uma pergunta mais difícil, você é fácil
+Você é vado
+Não, Basecamp foi o aplicativo
+Web pra gerir esse project
+Que surgiu o framework
+Rails
+Do grupo é Rails
+Ruby on Rails
+Aí tem o Prototype, que é um framework
+Na qual eu não sei falar, mas
+As meninas já falavam lá as respetidinhas
+Seriam uma parada bem interessante
+O Pop-Tec é meio que a padrinhou
+Ela também, isso é interessante
+Tá bom, o negócio de podcast
+Tá começando a ficar, tipo, Linux
+Começou assim e tal
+E agora todo mundo usa, todo mundo tem
+Tá a gente tá fazendo isso
+Então vamos lá pro próximo pacto de dar falta
+Eu queria lembrar os leitores
+Mandem sugestões de pau
+Uma das ideias que a gente tem
+De mandar sugestões de matérias
+Que teve na faculdade, que você acha que foi um potencial
+Saber que aquela matéria ia ser foda
+Caramba, e quando teve a matéria que foi
+Meio board
+Ah, tá, não, geralmente é por causa do professor
+Geralmente é por causa da falta dele
+A gente já teve lá na minha faculdade
+Que eu prefiro não citar o nome
+Que eu tenho medo
+E as pessoas vêm atrás de mim depois
+Represar
+Ah, já teve várias matérias
+Tipo, o fenômeno de transporte
+Que a gente teve um professor que não compareceu
+Bem, teve outros também
+O banco de dados o povo reclamou bastante
+Mas eu particularmente achei muito interessante
+O professor, inclusive ele fazia
+Não, não vamos falar, vamos deixar pra quando for o podcast
+Sobre isso?
+Essas paradas de faculdade
+Eu tenho um exemplo de matéria
+Quer dizer, no caso de sistemas operacionais
+Aí eu só vou falar um nome
+Colocamos o que você pensa
+Foi a professora Lucíria Ribe
+Pra dar aula pra gente de sistemas operacionais
+Então eu flertava com ela
+Tipo, um ano antes da matéria
+Eu já tinha os contatos
+Projeurador e tal
+Que louco
+Matéria de Sembros e Projeuracionais
+Foi uma coisa que foi exatamente
+O que aconteceu, começou a professora
+Aí ela não sabia dessa matéria
+Comprou um livro, ele passou duas semanas
+Você teve que trocar de professor
+Daí foi até legal que eu pediu o livro pra ela
+Interessar e tá comigo até hoje
+Não, não
+Foi a nossa chave
+Não, é Joel, o nome dele
+Eu já mostrei pra ela
+Porque o receio deve pedir de volta
+Mas ela falou que não tá precisando
+Então eu espero que ela nunca mais produz o livro
+Eu gosto, acho interessante, todo dia eu levo um pouquinho
+Tem a matéria de estudos de linguagem
+Linguagem e linguagem montagem estão diferentes
+Tem a linguagem montável em estudos de Assembles
+Eu não conheço a outra linguagem montagem
+Qual que é a outra linguagem montagem
+Eu vou deixar pra eu falar depois
+Tem uma linguagem que a gente pode assim doar
+Tem um intermediate language do dotnet
+E o bytecode do Java
+Não, tem músicas que são próprias pra CLP
+Você é na área de
+Automação Industrial
+Eles intentam ser meio compiladores
+Eu fiz um joguinho
+Eu fiz um joguinho em Assembles
+Quando a gente falou sobre
+Linguagem montagem, a gente fez um joguinho em Assembles
+E o colega meio dificuldade
+Na verdade todos da sala fizeram
+Cada um o seu
+Compiladores?
+É, compiladores e essa matéria não tinha vindo não
+Mas é massa
+Outra coisa interessante pra falar também
+É que a gente tava planejando
+Antes até do podcast
+A gente tava pensando fazer as paródias
+Que é aquela parada
+Ainda pensando que isso é uma ideia revolucionária
+Nem o Guanabara cash
+Não tem nada de revolucionário
+Eu pesquisando sobre isso aí
+Eu descobri que lá do Carlson
+Do nerdson.com
+Ele tem lá uma banda
+Eu só não estou lembrado de um deles
+Ah, muito obrigado
+Claro que eu nunca vou esquecer isso
+Mas a gente vai revolucionar
+Pelo menos pretente
+De uma forma diferente
+Em um podcast você pode mandar um recorde de voz
+Pelo Google Talk
+É uma sua própria paródia
+É, revolucionário
+É igual
+O cara lá do Migrim
+E isso aí
+É, não é o rio
+Não é o rio, não é o rio
+É o cortamento de R&D resistido
+Só que ele inventou um contador
+É, tipo o C mais mais
+Ah, sabe porque do mais mais
+O C mais mais?
+É, isso aí, incrementação
+É o C incrementado
+Então, a gente tem os exemplos de paródia
+Pô, vai lá, que essas músicas que você colocou
+Eu não conheço nenhum
+A esquerda casusa?
+A casusa?
+Pra que falar que compreende
+Que beldou
+É, é a outra aí
+Se não tem o framework
+É muito difícil aí
+Se não tem o framework
+E do belo
+E do belo
+Não conheço essas paradas
+Toda vez que eu testo você
+Acho um bug diferente
+Pô, eu tinha pensado em algumas
+Só que aí eu
+Me colocou na pauta?
+Não, eu sou tim
+Também, eu não queria falar isso não, mas
+É, pode ser
+Então agora, vamos partir para a leitura de Meios
+Eu vou colar com as músicas agora
+Lúia, lúia
+Lúia
+Lúia
+Lúia
+Leitura de Meios
+Pra falar a verdade
+Leitura de Meios, nossa foi um pouco
+Porque eu fui, na verdade, como está começando
+Então a gente
+Foi publicando, eu falaria no boca a boca
+Só como foi pelo MSN
+JETAL, foi no dedadeiro
+Então eu fui ditando, mandando um povo link
+Fazendo promoção, essas coisas assim
+Da medida do possível
+Eu não investi muito
+Em publicação ainda
+Mas a gente
+Foi falando dessa maneira
+Que o pessoal ia falando
+Oh, tal, isso, não
+Não sei o que
+E foi falando pelo MSN, pelo tal
+Por não, manda e-mail
+E-mail
+Mas todas as dicas que serão
+Ou somaramente ignoradas
+É, mas porque fica difícil
+Não, mas pode mandar qualquer coisa
+Você fala muito assim
+Ou você fala muito ou não
+Você fala muito
+Você tem a voz feia, etc
+É isso, dá para mudar
+A gente coloca o filtro
+Filtro
+Então é isso aí, a gente recebeu
+A gente recebeu
+É, a gente recebeu
+Um e-mail
+Na sujeção
+Um e-mail
+E nesse e-mail
+Vieram três tópicos falando
+Computação ou bico
+Sabe o que é computação ou bico?
+Acho que é por um e-mail
+Teve cloud computer
+E suporte Linux
+Software, Drive, etc
+Software
+Ficou assim, bastante clarecido
+Em e-mail dele
+Eu queria gravar isso pessoalmente
+Valeu, irmão
+Ele está aqui
+No quarto escutando a gente
+No nosso estúdio aqui
+Ele está gravando o make-off
+Vocês vão ver aí
+A gente mal começou
+Já tem até make-off
+A gente
+Nosso estúdio aqui
+É muito interessante a gente estar
+Muita coisa mais fácil
+Para a gente ver se a nossa voz
+Está saindo bem
+A voz está saindo bonita
+Eu já desclareci algumas coisas
+No episódio anterior
+Ah, está no prego
+Parece que a gente é
+O planeta se aninharam
+O que eu sentei no episódio anterior
+Era que saiu uma portaria do governo
+Não sabia qual era a palavra
+Chegou até a conectar
+No episódio do
+Jovem Nerd
+Esse sentido do governo
+Teve até um mês depois
+Gigante, o cara mandou
+O episódio posterior
+Inclusive eu mandei um e-mail
+Do Nerdcast, só que eles nem responderam
+O LeMão quer dar uma sugestão de live
+Podia falar sobre a briga da holografia
+Com 3D também
+Isso também envolve um computação
+Obico
+Então, Rubico
+É porque você disse que
+Ele é um cara lá
+Que sempre está nos eventos e rabas
+Ele é expert na computação obico
+Será que a gente consegue fazer um participado
+Oi, qual é a ideia?
+É, eu vou ver
+Eu sou a Alexandre Gomes
+Eu já mandei um e-mail para ele
+Ele mandou vários arquivos de computação obico
+Quem sabe se a gente fala sobre computação obico
+Mas sabe que o quanto oferece da computação obico
+Da realidade virtual
+É a realidade aumentada?
+Não, pode falar
+Não, não, pode falar
+Deixa o próximo
+Não, eu estou falando isso porque
+É um episódio lá do Guanabara pro projifre
+Ele já fala isso
+Então, eu vou estar falando bastante sobre
+As paradas de 3D e tal
+Muita gente falou naqueles feedbacks
+Tipo, o alemão fez o que agora
+Chegar o meu cara, você tem que falar de 3D
+Eu podia fazer isso
+Eu só mandei um e-mail
+3D e tal
+Você pode
+Mandar um e-mail para
+www.tribo.ci
+Mas, vamos priorizar
+As energias
+Desculpa aí, eu já amei só o rosto do ritmo
+Mas eu te cheio de bateria notícia que está acabado
+É isso, vocês mandam um e-mail
+Que a gente vai, na medida possível
+Essa parada de 3D e tal
+O pessoal está falando que a Copa vai ser em 3D
+Tem televisões 3D
+A gente vai fazer um podcast
+Eu não vou prometer não
+Dessa vez eu não vou prometer não
+Eu queria agradecer a organização do pressão
+Pô, é mesmo, cara
+Acho que você já ouviu
+Você já ouviu mesmo?
+Não ouviu, não vai ser
+Exato
+Falei pela ouvia, foi um dos que
+Fez o feedback por tal
+Foi lá no JETAL que eu falei para o Sebastião
+Confirmei lá
+Ah, eu falei no podcast anterior
+Que eu não tinha internet em casa
+Eu vou ficar mais em casa assim
+Agora está aí de mega
+Moderno, agora o cara vai trabalhar em casa
+É, mais ou menos
+É, invés
+Cara, para ver que um dia esse Twitter
+Me dá alguma coisa, eu ganhei o camisa
+Na seleção brasileira
+Caraca
+Eu posso também falar?
+Falei com, falei com
+Eu ganhei um curso de Java
+Mermão, aí, se você não tem Twitter
+Passa o seu Twitter
+Meu Twitter agora
+É interessante, cara
+Ah, surgiram e comentaram
+Sob o Twitter do Trivus aí
+Vou deixar isso para o Sebastião
+Eu não respondo
+Não, a gente não criou ainda porque
+Eu sei
+Essa aí é muito fácil
+Essa pergunta é muito fácil
+Vão para o Mati, aí eu ganhei
+Sim, esse negócio de Twitter
+Ele também virou modo igual ao podcast
+Tudo quanto é coisa, tem uma promoção
+Por exemplo, esse já tem 1.400 tweets
+Caraca
+Tem quase dois anos, então não é uma moda
+Muito repete
+É, mas agora já estão muito em tweets
+O podcast já está lá no Twitter
+Esse dia eu estava no passarinho
+Lá na casa do meu amigo
+E ele passaria
+Tem gente
+Agora tem uma arma
+Que eu vou botar um diabo de bem grato
+Tem um diabo de bem grato
+Ah, moleque
+Então vamos para a segunda parte
+Na verdade, é o tema principal
+Vamos falar HTML5 e flash
+Eu não preparei nada de flash
+Poucas coisas
+Na verdade, a gente podia até fazer como se fosse
+Razão social, nome fantasia
+Seria como se fosse razão social
+Ou seja, HTML
+A Revolução da Internet
+Nome fantasia, HTML5 e flash
+Eu queria fazer um prelude
+Antes de a gente falar de HTML5
+Porque no episódio anterior eu fui pedante
+Brinquei lá com o Fliçol
+E ninguém reclamou nada
+O que é HTML?
+É uma linguagem de programação?
+Não
+Como o próprio Sigla diz
+HTML é uma linguagem de marcação
+Então basicamente HTML serve para
+Ela é tipo assim, ela marca você
+Você
+Ela me marcou profundamente
+Eu estou no dia dos namorados
+Linguagem de marcação
+Acredito que esse podcast vai ficar marcado
+Em nossa vida
+Basicamente
+HTML serve para formatar
+O texto, as imagens
+As coisas do todo
+Eu queria, além de falar de HTML5
+A gente podia falar de CSS3
+Pô, não doido
+Só que sim, o CSS3 agora
+Tem aquele negócio que você não precisa de mais
+Carregar a imagem, ser desenho com CSS
+Tem uma parada legal
+Da Coca-Cola feito em CSS
+Não, eu vi o símbolo do Opera
+CSS3 virou um SVG
+Nesse tabu Coca-Cola lá
+Tinha até, se eu fizesse esse scroll
+Ele rodava quase um 3D
+Caraca
+Ele rodava a latinha da Coca-Cola
+Vai estar o link do post, não consegui achar
+É difícil, eu falei que eu ia para os filmes lá
+Acabou que eu não achei o link do filme
+Para dar o lote, mas eu coloquei o site oficial
+Do seu, falhou
+Mas rede p2spca
+Qual que é o certo de falar
+Mais SQL ou mais SQL?
+Na verdade, teria que ser mais SQL
+É híbrido
+Metade portuguesa
+É
+Mais SQL
+Tem um cara lá no Twitter
+Ele perguntou se tinha algum frame
+Já aqui, com o templato
+O HTML5, CSS3 e HTML5
+Sabe de alguma coisa?
+Bom, tem sim
+Isso aí eu não achei
+Não, eu achei um interessante
+Para revidar
+Aquela parada do Steve Jobs
+Vamos ver se a gente fala
+Aquela carta aberta que o Steve Jobs lançou
+Pessoal, está falando, tem esse boate
+Sobre HTML5
+Derrubar o flash
+Adobe já correu contra isso
+E no Adobe Flash, CSS5
+Tem uma opção para você exportar sua animação
+Em flash para HTML5
+Na tag canvas que a gente vai falar
+Eu sou um terminal store
+Eu vou fazer uma breve história
+Aqui o...
+Ele surgiu em 1993
+Foi algumas definições
+De aparência
+Em 1994, saiu o HTML2
+Rápidaço
+Para quem não sabe, o grande inventor
+Vamos dizer assim, da internet
+Da internet
+E a primeira página da web
+Foi colocada no ar no dia 7 de agosto de 1991
+Pelo próprio
+Que ele trabalhava na CERN
+Que a empresa trabalhava
+E ele começou a dar
+Essa ideia de conselho de internet
+Como ela é hoje
+Que é você ver os documentos
+Ainda em 1994
+Já saiu HTML3
+Em 1995, saiu o 3.2
+Aí que começou a bagunça
+Que o net escape internet se explore
+Comecei a definir seus próprios padrões
+Baseados na plenificação corrente
+Em 1995, que saiu JavaScript
+Caraca mano
+Aí que começou a parada de ficar sinistro
+É briga de foz
+No escuro
+Porque até então o HTML era estático
+No JavaScript
+A internet era em preto e branco
+Para o Nietzsche congresso
+É, tem no episódio net
+Não, mas eu preciso dizer assim
+Aí ele colocou um
+Deixou o site mais dinâmico
+Possível programar
+Em cima de uma página da internet
+Que JavaScript
+É uma linguagem da alguma ação
+E tem
+Que não tem nada a ver com Java
+JavaScript é uma linguagem para uma ação
+Que roda no lado do cliente
+Apesar de ser como o Java
+Ela ser orientada ao objeto
+A primeira diferença é que o JavaScript roda no lado do cliente
+Ou seja, para explicar melhor
+Quando você abre a sua página
+O JavaScript roda no seu computador
+Agora o Java não, o Java está no servidor
+Na nuvem e você manda uma requisição
+E o Java lá no servidor processo
+E te devolve sua resposta
+O JavaScript é uma linguagem de JavaScript
+O próprio nome disso
+Na maioria dos casos
+Em 1996 surgiu o CSS
+Caraca mano
+O CSS que era um estilo em cascata
+Cascade, style, shooting
+Planilha de estilo
+Planilha de estilo
+Em cascata
+E ele surgiu com uma sessenta probabilidade
+Então aí veio, em 97
+Foi lançado também o Browse
+NetScape 4 também, é agosto
+A internet é titular 4 também
+É outubro
+Vinha com CSS, JavaScript, VBScript
+E o documento da object moda
+Xml já
+Sabe o que é o contrário que muita gente pensa
+Existe o JavaScript
+VBScript
+A diferença do JavaScript e VBScript
+Tem bem suspeitos
+Vou deixar aí você falar
+VBScript sou usado na internet é titular
+Mas o JavaScript
+Parece bastante com JavaScript
+E o VBScript faz muito com visual
+É isso que dá microsoft
+VBScript é usado também no ASP
+É, no ASP dá pra programar
+Tanto em VBScript como em JavaScript
+Nesse caso eu vou mostrar
+Ser uma linguagem de servidor né
+Parece que o Workout na iniciação
+Deve tinha esse aí, no ASP com JavaScript
+Aí também em 97 surgiu
+O DHTML
+Caraca mano
+2
+Eu sabia fazer isso no hot page
+Ah, então nunca me xique as espalhadas
+É opção de DHTML de nada
+Foi que saiu o CSS2
+Que é o usado até hoje
+Em 99
+Saiu o DHTML 4.0
+Foi, eu acho que é o mais utilizado
+Acho que até aqueles browsers
+Que são basados no fim
+Eles implementam a versão 4.0
+No mundo do DHTML, o links, por exemplo
+O DHTML 4, né
+Foi terminado assim ele
+Pessoal falou que agora tá bom
+Mexeu mais a partir do ano 2000
+Concluiu ele
+surgiu o XHTML
+1.0
+Sim, foi quando eles pararam de mexer com o DHTML
+Foi mexer com o XHTML
+Passou a ser o XHTML
+10 segundos, o que é o XHTML?
+XHTML
+É uma linguagem que é civa
+Mas tá bom
+Valeu
+O XHTML surgiu também pra
+Manipular os dados
+De forma melhor, ele é tipo mais fazendo os dados
+XHTML também foi usado muito
+Entre os sistemas, porque ele pode definir
+Desde o tipo
+Pode fazer várias valigações no XHTML
+O XHTML é tipo
+O uso geral, você pode usar bastante coisa
+Inclusive, o alemão até comentou ali
+Que você usa o Sinelero
+Que é um editor de vídeo livre
+Aí você edita o vídeo lá e tal
+E você salva ele em XHTML
+Ah, não entendi, mas ele salva o projeto
+E esse projeto de XHTML
+Que ele salva as configurações
+É por isso que o XHTML é muito usado
+Pra armazenar dados
+Inclusive o SVG, que é do desenho vetorial
+É um Sinelero
+Agora, pra terminar a história
+2004, os membros da W3C
+World Wide Web
+Tirando a necessidade de continuar e evoluir o XHTML
+World
+F flaming
+Vel accusations
+W, W , W
+W, H, A
+T, W, G
+Web, Hybrid Text, Applications,
+Technology, Working Group
+Ah, entendi
+Pessoal que
+é uma comunidade que
+o princípio básico dela mesmo
+é o desenvolvimento do H&M de 5
+Nem o JCP
+Não, mas o JSA
+são as requisições e o JCP
+é o consulta
+JCP, que é a Java Community Process
+JCP, junto com uma parte
+de empresa, faz
+requisições que são as JSA
+É, que as requisições são
+implementações que virão nas versões
+de Java
+Java Specification Overcast
+Então, o pessoal criou essa
+W, H, A, W, D
+Eu acho que pra facilitar seria
+Watch WG
+Em 2006, o pessoal da W3C
+interessou se participar do projeto
+E tipo assim né, o pessoal
+que vê que o trem está funcionando, vai
+Vai levando e tal, e olha que
+o pessoal viu que o trem ficou bom
+eles vão lá e pegar, ah agora não ficou
+legal, não sei o que, cada viadagem
+toda lá
+Então, respondendo à pergunta lá do
+Arley Nolito, que ele fez
+no Twitter, não foi nem pro podcast
+não, se existiam frames, o GWT
+que é do Google, o Google Web Toolkit
+ele já tem
+ele já contempla várias coisas
+do H&M L5
+e até o joguinho lá do Quake
+foi cortado pra Jornal West
+e vai colocar no link no post
+tem outro jogo, eu vou colocar
+também no post, dois exemplos
+já que a gente falou do jogo
+dois jogos, bem simples mesmo
+vou colocar o link pra, não um
+link pra você jogar ele
+vou colocar o link pra você baixar ele
+você clica no Arquivo.html
+ele vai carregar no seu browser
+tem que ter um browser atualizado
+pra jogar ele, que ele
+tá usando a tag canvas
+tem que ser Chrome ou Safari
+ou então o Firefox 3.5 pra frente
+ou se você usar o Internet Explorer
+primeiro que você pode até parar de
+nos contar
+parei que esse episódio eu não vou ser pedendo
+então, vamos conversar
+não, mas agora pode ser
+não, eu não vou ser pedendo
+você tá usando o Internet Explorer
+primeiro que você devia
+a primeira coisa que você tem que fazer
+é a próxima vez que você ligar seu computador
+e o navegador que presta
+sabe que o Internet Explorer 8
+é o que tem a menor compatibilidade
+com o HTML5, a entorno de 28%
+tá vendo?
+ou o Internet Explorer
+cara, quem usa o Internet Explorer?
+não é possível que você
+tenha coragem de usar só isso
+eu não vou falar coisas assim, absurdas
+o amor de Deus, está no navegador que presta
+o cara que deu a ouvir o podcast
+explicado no play, usa o Internet Explorer
+nossa
+não é normal
+então vamos ser mais educados
+por gentileza
+o Internet Explorer para baixar o Firefox
+na verdade
+a única vez que eu usei o Internet Explorer
+foi para baixar o Firefox
+não, para baixar o Chrome
+do Chrome baixou o Firefox
+você consegue
+mas é porque eu não uso
+já usei para baixar o Chrome
+não precisei mais do grau
+parei que você trouxe um pouco a dupla
+você ficou riducido?
+não
+agora eu estou apertado
+é claro que ele é meu amigo
+o HTML5 já está funcionando
+em algumas partes
+nos navegadores mais
+recentes
+nas novas versões de Safari, Chrome
+e Firefox
+a gente vai disponibilizar
+um joguinho de exemplo
+que você vai mexer
+você pode ver o corte, que é tecnologia aberta
+e esse é o JavaScript
+isso é uma das paradas de gente
+que é interessante
+existe o plug-in do Java
+que é o Java Banco
+o applet
+o pessoal apostava muito na época
+e assim um dos problemas que tem
+no caso do Flash
+o applet
+é que como ele é
+um binário
+o Google não consegue
+não consegue ver o conteúdo que está dentro
+então os conteúdos da pesquisa
+se está alguma coisa que esteja lá dentro
+ele nunca vai achar
+então um indústrio
+contra esse tipo de tecnologia
+é não ser possível
+ter rasteado pelo sistema de bosto
+então você pode ter outro que fica lá dentro
+é tão
+uma caixa preta
+o pessoal da ACI, da KGB
+na época
+o pessoal apostava muito
+o Java até aquele livro Java como programava
+que é a linha da feira
+ele falava muito do
+que existe o Java para desktop
+o Java
+ele é dividido em 3 partes
+mobile para os dispositivos móveis
+micro edition para móveis
+standard edition para desktop
+eu pensei que era para móveis
+tem o
+o Java AE
+que é o Java Enterprise Edition
+Java Enterprise é para soluções empresariais
+é por isso que o Enterprise
+é para o web
+você vai programar Java para o web
+você usa o Java AE
+não, só para terminar
+a parte histórica e a gente entrar
+na especificação do HTML 5
+vai lembrar que no início
+da internet era preto e branco
+quando a gente falou estática sem forma e vazia
+profundo
+no tempo
+construjindo as linguagens de script
+em javascript, ss
+casqueira, install
+que foram deixando as páginas mais bonitas
+e hoje já é possível desenhar imagens
+usando essas tecnologias
+como a gente falou
+então o HTML 5 com poder
+do CSS e do JavaScript
+vem com tudo para revolucionar o desenvolvimento web
+o HTML 5 está previsto
+para ser finalizado para o final release
+em 2012
+mas não precisa mais
+por isso que eu falei isso
+com esse tom mórbido
+porque o mundo vai acabar em 2012
+e vocês sabem assistir o filme
+gente, é brincadeira
+é piadinha, brincadeira
+o mundo não vai acabar
+cara, é feliz
+e o exemplo
+uma coisa do cemidão só vai ver em 2012
+não tem nada que faz depois de 2012
+não, não tem o queira
+não
+você pode ir
+algumas mudanças do HTML 5
+você pode ir
+algum do número final do HTML 4 agora
+sim
+a gente citou
+sobre applet
+sobre flash
+isso faz parte de um desenvolvimento
+que é o Rea
+que é o rich internet application
+eu acho que é rich interface
+aplicações de interface rico
+antes era chamada de
+burra
+que tem o fake client
+e o fake client
+não tem nada a ver, não descobre
+você está desenvolvendo flex agora
+não, não
+a gente está
+tinha um amigo nosso
+o Jorge, estava lá apanhando com o flex
+deixa comigo
+falei que ele estava queimando o Java
+que está aqui a 2D, está queimando o Java
+e o flex
+ele foi lá, deixa comigo
+agora estou queimando o Java
+o Spring, o Hibernate e o Flex
+você tem dois dias para configurar um negócio
+geralmente tem essas paradas aí
+você estava apanhando com tecnologia
+expliquei para a gente
+que é Rea
+é Rea, fica o mãe
+não sou Rea
+você mandou um Rea para Rea
+eu entendo inglês
+as interfaces ricas
+na internet
+no browser
+tem uma coisa que eu queria falar
+a aplicação pode ser desktop
+e funcionar na web
+por causa de um informe
+qualquer uma dessas
+que se utiliza de serviço que estão disponíveis na rede
+tem
+na computação do cloud
+esse cloud ia falar para a casa
+eu posso ter uma aplicação
+que ela utiliza
+um exemplo que eu posso citar
+era uma biblioteca
+que foi feita inclusive no Ruby
+no bind do Ruby que tem para a GTK
+que era a biblioteca Alessandria
+que ela utilizava
+por exemplo
+o serviço do Amazon
+para pegar as capas de leaves
+nem porque
+a minha aplicação é web
+nem porque a minha aplicação é desktop
+que ela não pode ser utilizada de serviços da internet
+o webservice
+que a gente pode fazer também
+o java tem isso
+você pode fazer uma aplicação
+por exemplo, a maioria das instalações
+você começa a instalar
+ele vai fazer um download
+ele não vai no navegador
+e baixa o arquivo
+ele baixa da própria aplicação
+e faz atualização
+tem uma coisa interessante
+desmistificar
+a internet não é o internet explorer
+computador não é Windows
+era bem isso que eu queria desmisticar
+porque eu penso
+que a internet
+é o navegador
+na verdade a internet é a comunicação
+só é provida pelo browser
+é, só é provida pelo browser, é o que eu quis dizer
+mas a internet está em todo lugar
+mexe com o que está jogando
+no joguinho desktop
+tem que instalar tudo
+mas na verdade ele joga pela web
+então é assim
+o HTML5 ele
+consegue provir uma interface ilírica
+com uma facilidade
+assim, no HTML4
+já é possível fazer isso
+com CSS, JavaScript
+e
+o próprio HTML
+dá um exemplo de
+aplicação rica
+já tem o jQuery
+que ele é um frame aqui
+tá, mas onde que eu posso encontrar um
+o JWT por exemplo
+onde que eu poderia achar
+em, por exemplo, uma interface rica
+mas no serviço que você
+utilizou hoje
+acho que até o próprio Twitter
+que já tem várias carácteres
+que ele tem uma interface rica
+então quando o Facebook
+é, quando você
+clica lá pra atualizar
+ele não fica tudo branco
+que antigamente você clicava, mandava alguma
+informação né, aí ficava tudo branco
+carregava outra página
+o Ajax é uma coisa que existe
+há um bom tempo já
+então, a interface rica
+é pra deixar
+mais bonitinho, mais amigável
+pra prover
+a usabilidade
+numa aplicação
+é porque a gente confunde
+muito assim, porque uma aplicação
+tem que ser controle de estoque
+e uma aplicação na internet
+a gente nunca lia o tipo, por exemplo, Twitter
+ou Facebook, é uma aplicação
+é verdade
+o ritmo da vida
+esse é o ritmo da minha vida
+minha vida
+minha vida
+oh yeah
+o ritmo da minha vida
+vida, vida, vida, vida
+o ritmo da vida
+vida, vida, vida
+vida, vida, vida
+vida, vida, vida
+vida, vida
+
+vida, vida, vida
+vida, vida, vida
+vida, vida, vida, vida
+a gente pensa em aplicação
+o cara vai lá, mexendo, tem
+guardar no bantidás i etc
+é, todos eles usam o bantidás
+que eu quis dizer sim
+até os bantidás
+começam
+vamos lá
+o html5, ele serve pra
+esse aí né, ele vem pra
+porque antes você tem
+esse aí muito mais
+o html5, uma das coisas que ele
+quer solucionar
+porque antes você
+tava lá com seu computador novinho
+você acabou de
+ligar ele pela primeira vez, você já tem que instalar
+quando você instala windows
+a primeira coisa que você faz é instalar o google chrome
+ou então farfox
+depois você vai ter que instalar
+o plug-in do flash
+depois, possivelmente você vai ter que
+instalar o java
+pra acessar, por exemplo
+a picação bancária
+e você tem que instalar vários plug-ins
+tem que instalar um plug-in pra rodar
+tem vários outros plug-ins também
+e o html5
+que serve pra isso
+uma das coisas que ele
+tem que solucionar, é isso aí
+pelo artigo da época
+ele até identificava que ele
+conseguiria rodar uma coisa totalmente nova
+sem ter que instalar nenhum plug-in
+o html5, ele vai
+mudar algumas coisas no html
+por exemplo, multimídia
+sem plug-in né
+o html5, ele vem com algumas mudanças
+que o conteúdo de áudio e vídeo na web
+ele é refém dos plugins
+como flash, como falei né
+na verdade, depois você vai incluir
+vai passar vídeo
+as configurações de altura e largura
+pra mudar o vídeo
+colocar o vídeo lá e vai executar o vídeo
+do áudio da mesma forma
+na verdade, o que ainda falta
+assim mesmo pra corrigir
+ci, é a falta de
+definir os codecs
+que vão ser utilizados universalmente
+com essas tags
+hoje, o Chrome
+o Safari e tal
+conseguem exibir filmes
+de tecnologia h.264
+e tocar áudio em AAC
+encapsulados no arquivo mp4
+já o Firefox, que é aos padrões abertos
+né, em gosto, ele mostra
+só os vídeos em teora
+em som
+em Forbes, dentro de arquivos LG
+o impasse não preocupa tanto
+assim, pois as tags vídeos e áudio
+podem receber mais um arquivo
+o browser selecionado
+o qual funciona a compartilha
+pra adicionar um vídeo, a página baixa
+você vai colocar o código
+abrir a tag, vídeo
+src, com o endereço do vídeo
+weed, rave
+e controls, fecha tag
+aí fecha a tag
+só com esse código
+você consegue carregar um vídeo no browser
+é claro que você tem que colocar o código
+pra controlar o vídeo
+você vai colocar o vídeo lá e vai executar e pronto
+é verdade, pra você controlar o vídeo
+e deixar as coisas mais amigáveis
+ao usuário final, você tem que fazer
+você promete aposentar os frames
+como tabelas das páginas
+elas paradas de fazer tudo no divo
+tudo na tabela, que as coisas sabem
+tem uma loja desse coluna
+a nome CSS
+então, é esse aí que é o parado do CSS
+que ele, na verdade, você fazia
+muitos fazia tudo em CSS
+outros fazia quase nada em CSS
+e tal, ficará acabado alguns setores
+e com HTML5
+a ideia é tornar o CSS
+fundamental pra
+essas coisas assim, de estilo
+e além disso a versão 5 conta como
+tags pra definir sessões de site
+facilitando a integração com as folhas
+de estilo, e antes você fazia tudo no divo
+é claro, divi e detal
+e aí você ia prober
+a sensibilidade cabendo
+isso facilita pra caramba a sensibilidade
+e na manutenção do corte também
+com a Inferno, você vai fazer tudo um divi
+no seu case, mexe uma linha
+o trem vai lá pra baixo
+as novas tags são
+header, né?
+esse neve, essa assade, é tipo
+a casa barra lá
+o header é pra cabeçalho e o outro é pra
+rodapé
+pode ser que eu entenda inglês ou
+a pessoa que entenda inglês não vai entender
+esse nosso inglês
+outra mudança também
+a grande, na verdade, o grande
+x do HTML5
+tem x do HTML5
+até h, tem o HTML
+o grande 5 do HTML5
+o que realmente justifica
+a mudança do número é a
+tag canvas
+é, cara, você vê esse
+a tag canvas
+ela permite criar desenhos usando javascript
+é possível, por exemplo, transformar
+dados do site em gráficos dinâmicos
+tag também serve pra usar um texto
+ou imagem como subitito em desenho
+caso o browser não tenha suporte a gráficos dinâmicos
+é, nesse caso, o conteúdo alternativo
+fica entre as tags canvas
+e barra canvas
+é isso, é aquele negócio que a gente fala
+animação em flash, tudo vai ficar dentro
+da tag canvas, é isso
+só aleguei
+calendários também
+tem, tipo assim, o calendário
+em inglês
+é o mês, depois o dia, depois o ano
+em português é dia, depois o mês, o ano
+aí eles têm a paradinha lá pra
+prover isso aí
+tem uma coisa que é interessante
+do gtml5
+sabe o que é o negócio do Google Gears, lá?
+o gmail, lá
+aí você pode usar ele até o flash
+constrate
+não sei
+inclusive o WordPress
+também tem essa opção
+usar o Google Gears
+na verdade o gtml5
+ele vai ter essa parada pra qualquer coisa
+você não vai precisar de usar o Google Gears por isso
+você vai usar o próprio gtml5
+o grande massa
+do ci é que antes
+tinha os cookies, aí agora
+o cookies você podia, o pessoal usava até pra
+roubar dados aí, roubar usuários
+sendo povo
+então, na verdade
+o gtml5 ele vai armazenar
+da máquina do cara, mas ele não vai poder ser
+acessível por fora
+então já é uma segurança mais
+além de mais bonito e mais seguro
+é, claro
+o Firefox aloca
+gtml5 no máximo
+pra usar
+essa ferramenta aí
+o internet que a gente explora já aloca
+10Mb
+você já viu uma questão
+o pessoal fala que já está muito na memória
+mas uma das características
+de fazer ele gastar memória
+é que ele vai rastreando os links
+que tem na página
+e já vai carregando
+a navegação fica mais rápido porque
+quando você clica no link
+ele vai em cache
+e já criou um cache
+a outra coisa
+que mudou no gtml5
+na verdade
+não vai ser uma mudança, é uma
+implementação, você vai poder
+sabe o que é esse negócio de arrastar
+e soltar e tal?
+você vai poder usar esse
+com mais facilidade
+é o jeito de usar algum problema
+de JavaScript que está
+ter essa personalidade
+assim que você vai, tem as tags
+você coloca
+um elemento
+você coloca lá dragable
+igual a true, aí ele vai
+ele vira um elemento arrastado
+aí tem as tags que vão deixar desistir
+por exemplo, aquela base fonte
+aquela parada de big, center
+fonte, você define a fonte
+fonte igual, não sei o que
+vai ficar tudo no CSS?
+é, tudo no CSS
+aquele negócio de deixar riscadinho
+aí tem o strike
+é, você viu?
+você pega ele, coloca lá
+o strike, você coloca um texto entre
+o strike e ele fica riscadinho
+então, agora tudo isso
+vai servir esse CSS, tem uns que vão deixar
+desistir, que afetam os habilidades
+o frame, frame set, no frame
+o iframe
+já não é muito grave, não
+pois é, então
+eu tive que usar um iframe para incorporar
+uma playlist do
+do Google
+no Bob
+ah, tá
+eu não dei o artigo, não?
+eu...
+eu vi, eu vi
+ah, então assim, para finalizar
+já que eu falei
+eu já falei das mudanças, quase tudo aí
+do HTML5
+e a gente qual é o flash, né?
+o flash entre na história, porque ele
+vai ser, tá prevista
+pra ele ser derrotado pelo HTML5
+você vê que o HTML5 é um flash killer
+flash killer
+pois é, saiu esse nome aí, na internet
+falando que o HTML5 seria
+flash killer, tipo
+o bonto
+tal, aí saiu um nomezinho
+o pôr de nome do HTML5
+seria flash killer, e o Steve Jobs
+tá
+apossando fudido, não sei, né?
+chegou a falar a respeito da renderização, que gaste
+o meu nome pra assado
+então, esse é um das coisas que eu
+na carta aberta do Steve Jobs
+colocou, vou colocar um link da carta
+do Steve Jobs, aí pra vocês dar uma liga
+entendeu como é que foi
+o porquê que grava menos processamento
+gasta menos processamento, é porque assim, quando
+eu rodo um vídeo em flash
+eu pego um vídeo, carrego no flash
+e faço a renderização via aplicação
+isso é um paracional, faz a renderização
+para mostrar na tela, usando o HTML5
+eu já elimino a parte
+da renderização do flash, jogar direto
+para o processador de vídeo
+para fazer essa renderização dessa imagem
+então, eu economizo pra caramba o processamento
+tem uma camada menos
+é, interessante, né?
+isso é muito bom para dispositivos móveis
+em que o uso de processamento
+e de estar diretamente relacionado
+à quantidade de energia que ele gasta
+você é bastante interessante
+usar esse tipo de garret
+a história lá da carta
+é que o Steve Jobs
+não disponibilizou plug-in de flash
+nem pro iPhone
+nem nada
+aí a Adobe ficou, assim, griladaço
+aí, de tanto o povo encheu o saco
+ele lançou uma carta
+no site da Apple, falando sobre
+o porquê disso
+aí ele cita, assim, que o porquê
+muda as coisas, é que o flash
+é aquela parada que você falou lá
+que ele não falou com essas palavras
+ele falou simplesmente que o flash
+é código fechado
+ele tá querendo jogar tudo pro quadrão
+em aberto, né?
+ele não viveu uma das críticas
+que quiser existir no flash
+porque o flash não tem nenhum padrão
+na W3C que especifica o flash
+ele não é um padrão a ver
+é, por isso que o Steve Jobs
+tá envolvendo-se aí
+mas a Apple é uma das grandes empresas
+que a gente não só perdiu
+pois é
+eu fazer um apêndice aqui, então
+eu acho que em meados de 2004
+eu vi uma palestra do Cogério
+Paginaça, alguma coisa assim
+eu estudava dessa parte
+estudante universitária da Microsoft
+ele fez a polencha lá
+e ele já falava a respeito de
+padrões abertas, entendeu?
+e a Microsoft
+a Microsoft também já tava investindo
+abrindo o olho pra padrões abertas
+que é um pouco diferente de código
+aberto, né?
+tanto é que o dotnet hoje também
+é um padrão aberto
+e uma parte que é a Microsoft
+já utilizando padrões abertos
+o Steve Jobs falou também
+que queima o flash
+é que o flash ele é feito pra
+mouse, computador
+computador convencional e PC
+e a Apple já investe
+bastante em gadgets
+pessoal lá do
+você caindo no bolso e todo mundo toca
+flash não existe ruim
+o flash
+ele não tem essa parada assim
+tudo, a maioria do ser feito assim
+é tudo que você passa o mouse em cima e tem o efeito
+na verdade
+quando você passa o dedo em cima
+você vai ficar ficando
+ela traz uma forma diferente
+é, uma forma diferente
+assim, que a tecnologia tá migrando
+que é a computação
+publica
+na internet, tudo contra as coisas
+você carrega internet no bolso e tal
+então assim, o flash
+ele tá ficando, segundo o Steve Jobs
+você tá antiquado
+então quer dizer que o flex que é uma parada de flash
+que eu tenho lançado há pouco tempo
+é o obsoleto
+é o pé da letra
+que o pessoal já fala que tudo que você lança
+já é o obsoleto
+falando disso também
+quando eu comecei a aprender visualbesque 6
+visualbesque 6
+já era obsoleto
+caraca
+pagou a letra que tá se querendo com bom tempo
+até hoje paga
+também o java FX
+que é o flash do java
+no caso do java fx
+eu acho que nem compararia com o flash
+eu acho que isso seria um dava fx
+do java
+assim como o flex
+mas expliquei, por que que você chegou nesse coposão
+é porque assim, o java FX
+ele provê
+esses negócios de câmbula e operação
+e 3D
+pode ser usado inclusive no swing
+não só
+pode ser usado no app
+assim, essas foram as coisas que o Steve Jobs falou
+que
+eu acho interessante de não usar mais o flash
+ele foca bastante nessa parte
+que o flash é anticlado
+os aplicativos dele
+não são necessários o flash
+que o flash não serve para o aplicativo dele
+o flash foi feito para computador com mouse
+e desktop que você vê lá no seu quarto
+é um novo paradigma
+que o pessoal da adulta falou assim
+porque existe mais de 200 milhões de jogo
+em flash, aplicação em flash, bala la flash
+tudo é flash
+ele falou assim que não
+existe mais de 200 mil aplicativos na Apple Store
+e não depende do flash
+não depende do flash
+essa parte do flash que a gente planejou falar
+é como se fosse ele tivesse ganho de estar chegando no fim
+e não saber com a nova
+paradigma de usabilidade
+usabilidade, interoperabilidade
+é porque é interoperabilidade
+é uma das quatro palavras
+que você deve falar numa reunião
+reunião é aquela parada
+que você chega, pega um papel
+e começa a desenhar, espera meia hora
+cara, pera que eu fiz doce uma vez
+mas levei uma
+recebei uma comida de health
+mas assim, eu tava fazendo meus mind maps
+lá, o cara entendeu que eu tava só desenhando mesmo
+caraca, você pode
+a gente fez uma reunião com o diretor
+do cliente lá
+as grandes empresas de ITI estão apostando
+tudo no HTML
+até a Microsoft apoiou a Apple
+nessa história toda
+de deixar o flash de lado
+o Bill Gates falando sobre isso aí também
+as grandes empresas de desenvolvimento
+os principais browsers
+os principais browsers que eu falo é Firefox
+o hopper
+o hopper é roda também
+vai deixar no foche um
+um style sheet
+e tem vários carácteres que você recebe
+e tem lá as compatibilidades de cada browser
+entendi
+no ranking lá eu já falei né, mas no internet
+tem vídeo de 800, enquanto os outros
+estão por cerca de 80, 90%
+de compatibilidade com o HTML5
+cara, se você usa
+o internet que explora
+por favor
+a gente leis
+procura outros navegadores
+é seu próprio vídeo
+uma coisa muito massa
+para falar
+é que o YouTube e o Vimeo, que é o caso parado de vídeo
+são de compartilhamento de vídeo
+eles já tem
+uma versão beta para rodar os vídeos
+em HTML5, já vencei?
+já, do YouTube
+e o YouTube inclusive já usava
+eu já estou usando no YouTube
+a única diferença que eu notei mesmo
+foi que
+na hora de se expandir, em flash se expande
+para a tela inteira, agora para
+no HTML5 se expande só
+até nos limites do navegador
+eu já coloco na tela inteira
+é, perto é f11
+mas sim, essa foi a única diferença mesmo que eu vi
+não, mas com relação a
+torcamento, pode ver que
+a diferença é muito grande
+eu não olhei para essa parte
+eu olhei só o resultado
+principalmente se tiver uma placa dráfica
+que ela tem a renderização
+direta
+basicamente só manda para ela
+e ela não renderia
+no site da Apple também
+tem vários exemplos de sites
+que tem coisas em HTML5
+mas eu fui lá
+só rodava no Safari
+eu cliquei lá
+você tem que usar o Safari
+não, só não tem Safari para
+na verdade foi um preguiço
+baixar o Safari
+o Chrome usa mesmo a engenha do Safari
+não, mas é porque eu clicava lá
+eu clicava lá e verificava que
+o navegador não era o Safari
+e não ia para a página
+eu deixei de novo
+até ver a opinião assim cada um
+o que você acha de
+o HTML5
+vai ir em 15 neutronas
+vai ser tudo no HTML5
+de alguns anos
+desaparado é só fulba de palha
+o que você acha em real?
+eu acho que é que nem
+as aplicações do ebe
+se você baixar isso tudo seria
+aplicação ebe
+até hoje eles me atoram
+um trabalho
+eu estou amargo
+mas eu trabalho com
+uma aplicação dessa foto
+e está um pouco longe de a gente trabalhar
+só com aplicação do ebe
+é o parado que vem
+principalmente nos gérico e novo
+essas novas plataformas
+e vem mais forte
+acho que nos pc ainda vai demorar um pouco
+a minha opinião é basicamente isso aí também
+sei lá, não sei se é porque eu estou empolgado
+acho que vai
+deponar assim o flash
+eu acho que vai ser um
+ver
+não restará pedra
+sobre o pedra
+é isso aí que a gente vai falar hoje
+gostaria de agradecer quem ouviu até agora
+eu queria agradecer a Flávia do Gojava
+sabe por que?
+não, por que?
+foi a primeira pessoa a comentar
+a minha opinião é a nossa foto
+a verdade
+ela foi uma das que eu
+mandei o link para ela
+ela foi lá e me reclamou
+se é o que?
+não, deixa o comentário lá
+ela só falou
+muito bom
+é para você ver
+as pessoas não estão muito acostumadas
+é assim, valeu
+o link que você não fora
+o alemão também deixou um comentário
+o alemão foi responsável do primeiro e meio
+primeiro e meio
+do ano e meio
+eu quero enfatizar
+mais uma vez
+por favor, mandem em meio, sugestão
+de feedback, qualquer coisa
+para a podcast, arrubam tribo do CI
+então, nessa gente
+que fica pedindo em meio, se você
+ouviu o Guanabara quanto isso
+também pede bastante comentário
+é, a gente precisa
+se não for ver aquela história que você
+está bom e não sabe o que você precisa mudar
+a gente só tem um analítico
+a gente só tem um analítico
+para analisar
+então, é esse o link
+valeu, mandem em seus meios
+se a gente está esperando
+esse podcast
+vai ter uma edição, vai ter um make off
+aí a gente está saindo na câmera
+não, o foda é que
+pessoal vai ver que a gente não usa
+nenhum microfone sendo profissional
+vai cambiar
+como é que é agradecimento para o alemão aí
+é, disponibilizou o estúdio
+disponibilizou toda a infraestrutura
+que é necessária para a gente gravar
+com a usabilidade e terabilidade
+trouxe toda a usabilidade e terabilidade
+e mantendo a mobilidade
+merece todo o respeito tecnológico
+o cara Bautraco
+Bautraco
+Gabriel Carre
+Bautraco
+é isso aí
+é isso aí

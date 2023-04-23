@@ -1,0 +1,4307 @@
+WEBVTT
+
+00:00.000 --> 00:15.000
+Você está ouvindo a Fribo do CRI FODECAST!
+
+00:15.000 --> 00:22.000
+Fribo do CRI FODECAST, episódio 4 para o dia 27 e do 8 de 2010, Arquitetura de Computadores.
+
+00:22.000 --> 00:26.000
+Meu nome é Sheldon Led e meu cérebro funciona segundo a arquitetura de Von Neumann.
+
+00:26.000 --> 00:34.000
+Meu nome é Alemão, sou o substituto do Sebastian Hellsum e neste podcast vamos falar sobre o que rola dentro do computador e como é trabalho.
+
+00:34.000 --> 00:42.000
+Fribo do CRI FODECAST, episódio 4 para o dia 27 e do 8 de 2010, Arquitetura de Computadores.
+
+00:42.000 --> 01:02.000
+Fribo do CRI FODECAST, episódio 4 para o dia 27 e do 8 de 2010, Arquitetura de Computadores.
+
+01:02.000 --> 01:08.000
+Bom, como pessoal pode perceber aí, o podcast está sendo gravado todo o final do mês.
+
+01:08.000 --> 01:19.000
+Então a gente decidiu ser eu mais o Sebastian Hellsum fazendo uma reunião ali e decidimos fazer dessa maneira nosso intuito é entregar o podcast toda a última sexta-feira do mês.
+
+01:19.000 --> 01:22.000
+Pelo menos até o final do ano está projetado para ser assim.
+
+01:22.000 --> 01:28.000
+No mês passado teve um atraso, a gente entregou no sábado e esse mês nós vamos tentar entregar no horário certo.
+
+01:28.000 --> 01:38.000
+Mas eu não prometo, se vocês estiveram ouvindo e agora, no dia que não é o dia 27 de agosto, então vocês podem culpar na gente aí porque realmente é muito complicado.
+
+01:38.000 --> 01:43.000
+É muito comum você ver pessoal da área de programação atrasar nos projetos aí.
+
+01:43.000 --> 01:48.000
+Não vai ser diferente na hora das nossas coisas que a gente faz por prazer também.
+
+01:48.000 --> 01:55.000
+Eu queria falar também que a gente gravou o podcast no meio do mês passado e ele foi entregue só quando já tinha voltado do Fizz.
+
+01:55.000 --> 02:03.000
+Então ficou assim até às vezes um pouco desconexto assim, eu não tenho falado do Fizz sendo que eu já tinha ido e tinha voltado e no podcast não falei nada do Fizz.
+
+02:03.000 --> 02:09.000
+Então está aí a explicação que é porque realmente a gente gravou bem no começo, mais ou menos no meio do mês.
+
+02:09.000 --> 02:14.000
+E foi por causa disso que a gente não falou no Fizz. Fala sobre as gatilhas de lá no Fizz né?
+
+02:14.000 --> 02:16.000
+Rapaz do céu!
+
+02:16.000 --> 02:24.000
+Te contava aí, porque o povo fala lá do Rio Grande do Sul, realmente tem muita uma é bonita lá.
+
+02:24.000 --> 02:30.000
+Quando eu cheguei lá eu ia fazer um álbum gigante com todos os meninos bonitos que eu vi esse lá e ia tirar uma foto e ia colocar no site.
+
+02:30.000 --> 02:38.000
+Mas eu fiquei meio frusado que eu chegava em um, tanto é vergonha que a gente tinha coragem de pedir uma foto pra ela.
+
+02:38.000 --> 02:41.000
+Mas para as modelas eu não tinha vergonha não, era fácil né?
+
+02:41.000 --> 02:44.000
+É só namorada, por causa de só namorada né?
+
+02:44.000 --> 02:47.000
+Ah não, mas ela sabe que eu sou fiel a ela.
+
+02:47.000 --> 02:52.000
+Já aquela história lá da sua foto que você tirou sem dúzia de frio, você tirou o sonor da foto?
+
+02:52.000 --> 03:00.000
+Não, aquilo lá foi o seguinte, o pessoal que me segue no Twitter aí viu lá que eu tirei a foto e coloquei no tweet pic,
+
+03:00.000 --> 03:03.000
+deu sem dúzia de frio a 12 graus Celsius.
+
+03:03.000 --> 03:09.000
+A verdade é que quando eu fui pra lá o pessoal fez tanta polêmica que lá tava tão frio, mas tão frio,
+
+03:09.000 --> 03:12.000
+eu não ia aguentar só com dúzia de frio normal e tal.
+
+03:12.000 --> 03:20.000
+E eu comprei um monte de dúzia de frio, levei pra lá e eu consegui ficar lá razoavelmente bem até os 10 graus Celsius mais ou menos.
+
+03:20.000 --> 03:25.000
+Só que aí eu sempre tava de dúzia pra evitar que a temperatura caísse demais, eu não morri de frio lá.
+
+03:25.000 --> 03:29.000
+Mas realmente a gente teve sorte, o pessoal que foi com fizes aí, que não acostumado com frio,
+
+03:29.000 --> 03:33.000
+teve sorte que lá no Rio Grande do Sul, na semana anterior, já teve temperatura negativa lá.
+
+03:33.000 --> 03:39.000
+Quando a gente tava lá, a temperatura tava bem agradável em relação aos outros dias, né?
+
+03:39.000 --> 03:41.000
+Aí foi tão complicado lá.
+
+03:41.000 --> 03:43.000
+Mas sabe o que eu mais gostei lá?
+
+03:43.000 --> 03:44.000
+O que foi?
+
+03:44.000 --> 03:46.000
+Rapaz, eu virei nerd verdade agora.
+
+03:46.000 --> 03:48.000
+Ué, que história é assim?
+
+03:48.000 --> 03:53.000
+Pois é, quem viu aí no YouTube eu lancei no Twitter também, eu lancei aqui no blog,
+
+03:53.000 --> 03:55.000
+como muitas pessoas sabem, né?
+
+03:55.000 --> 03:59.000
+Tem aquela teoria de que a pessoa só é nerd, se um outro nerd chama de nerd.
+
+03:59.000 --> 04:06.000
+Aí eu usando a minha astúcia, eu fui lá no John Mad Dog How, que é o presidente da Linnos Internacional,
+
+04:06.000 --> 04:09.000
+ele tava lá e tava um cara, né?
+
+04:09.000 --> 04:10.000
+Tá pensando o quê?
+
+04:10.000 --> 04:15.000
+Aí eu fui lá e falei com ele, conversei com ele lá um pouquinho e tal, eu pedi pra ele falar.
+
+04:16.000 --> 04:18.000
+Conselho, nerd!
+
+04:18.000 --> 04:19.000
+Obrigado!
+
+04:45.000 --> 04:47.000
+É um conhecimento de informática, você acha?
+
+04:47.000 --> 04:55.000
+Isso é muito bom, até eu mesmo sou muito lumber nessa parte, então eu tô aprendendo, você tá aprendendo.
+
+04:55.000 --> 04:57.000
+É igual aquela história, né?
+
+04:57.000 --> 05:01.000
+Se eu tô ensinando, você tá aprendendo essas coisas.
+
+05:03.000 --> 05:06.000
+Gente, quando a gente tem ensinando, a gente aprende cada vez mais.
+
+05:06.000 --> 05:12.000
+Eu fuçando na internet esse negócio de podcast, eu acho um podcast que é bem iniciante mesmo,
+
+05:12.000 --> 05:18.000
+bem pra pessoa que não tem nenhum conhecimento de informática, que é o papobjpenet.
+
+05:18.000 --> 05:26.000
+A URL pra você acessar o podcast é http www.papo.bjpenet.com.br
+
+05:26.000 --> 05:33.000
+Vai tá no post lá, você acessa o post do nosso podcast que vai tá o link lá embaixo pra você acessar.
+
+05:42.000 --> 05:55.000
+Agora, vai realmente ver o e-mail, né? Teve um e-mail do Georgia.
+
+05:55.000 --> 06:02.000
+A gente recebeu também um e-mail do Rafael Coltinho, parabenizando o podcast também, o nosso blog, todo o conteúdo, o podcast.
+
+06:02.000 --> 06:04.000
+Muito obrigado e Rafael Coltinho.
+
+06:04.000 --> 06:11.000
+Também recebemos um e-mail do Georgia, que a gente tinha comentado no podcast anterior, que eu tinha feito a paródia, né?
+
+06:11.000 --> 06:20.000
+E aí ele esqueceu de mandar pra gente, ele mandou uma letra aqui, mas a gente não conseguiu aquele apoio de gravação pra gente disponibilizar e as paródias.
+
+06:20.000 --> 06:22.000
+Mas estamos trabalhando nisso também.
+
+06:22.000 --> 06:29.000
+O Georgian também falou, corrigindo lá que a gente falou sobre RIA, que é Reach Interface Application, que é aplicações de interface rica.
+
+06:29.000 --> 06:36.000
+Na verdade, segundo Georgian, é Reach Internet Application, aplicações ricas para internet.
+
+06:36.000 --> 06:42.000
+Então, aquela hora que eu tava falando lá no podcast, segundo Georgian, eu tava certo, que era Reach Internet Application.
+
+06:42.000 --> 06:51.000
+Também ele falou assim que no segundo podcast a gente falou que o mundo vai acabar em 2012, e segundo ele, uma pesquisa realizada pela própria NASA devido à polêmica do caso,
+
+06:51.000 --> 07:02.000
+provou que os cálculos anteriores estavam incorretos, mas não preveram o fim para 5.126 anos após o fim do último período do calendário Maya,
+
+07:02.000 --> 07:13.000
+que foi calculado em 3.114 anos de crise, mas novas pesquisas provaram que o último período do calendário Maya foi depois de 2.000 anos de Cristo.
+
+07:13.000 --> 07:17.000
+Sendo assim, o mundo está previsto para depois do ano 3.000.
+
+07:17.000 --> 07:24.000
+Segundo o Georgian, isso foi explicado pelo Discovery Channel, pelo fantástico jornal da Globo e outros, e não é ele que tá inventando.
+
+07:25.000 --> 07:31.000
+Eu sempre invento a desculpa, né? Quando tá perto de chegar na data, eu sempre invento a desculpa, igual que na época de 2.000.
+
+07:31.000 --> 07:37.000
+Não sei se vocês lembram dessa parada de 2.000, que falar que o mundo ia acabar também.
+
+07:37.000 --> 07:41.000
+Ah, é, lembra? Lembra? Você não teve um pessoal aí que se matou, tá?
+
+07:41.000 --> 07:42.000
+Pois é.
+
+07:42.000 --> 07:48.000
+E aí, sempre acontece essas coisas mesmo. O mundo já era pra ter acabado umas 10 vezes até hoje não é nada.
+
+07:49.000 --> 07:52.000
+Eu só enviei de esperar o mundo acabar, porque eu quero inventar a história.
+
+07:52.000 --> 07:58.000
+Quanto a 21 de dezembro de 2012, segundo o Georgian terminando a explicação dele,
+
+07:58.000 --> 08:07.000
+ocorrerá um alinhamento dos planetas no sistema solar contra o Sol, causando uma eclipsa solar, o mesmo que ocorreu em agosto de 1998.
+
+08:07.000 --> 08:15.000
+O resultado disso é alguns meteoros na Terra devido à perda da proteção de Júpiter, que não os deixa cair na Terra.
+
+08:15.000 --> 08:21.000
+Uma pequena alteração no eixo da rotação da Terra, e a destruição de alguns satélites como ocorreu antes.
+
+08:21.000 --> 08:28.000
+O máximo que pode ocorrer é a queda no setor de comunicação e perjuízo de alguns milhões para muitos empresas, o resto do planeta ficar inteiro.
+
+08:28.000 --> 08:29.000
+Ou não.
+
+08:29.000 --> 08:36.000
+Ah, essa parada deve ser o alinhamento das estrelas de Cucã, quem assistiu Tatarugas Ninjas 3 e vai entender que eu falei.
+
+08:37.000 --> 08:40.000
+Como eu não assisti, então não entendi.
+
+08:40.000 --> 08:42.000
+É beleza.
+
+08:42.000 --> 08:45.000
+Então, fiquem espertos.
+
+08:45.000 --> 08:47.000
+O fim está próximo.
+
+08:47.000 --> 08:54.000
+E eu queria pedir para o pessoal ir mandar o feedback dos nossos podcasts sobre o blog inteiro.
+
+08:54.000 --> 08:58.000
+O email é www.tribudosciarrobagmail.com
+
+08:58.000 --> 09:04.000
+E para você mandar o feedback dos podcasts, é o podcast www.arrobatribudosci.net
+
+09:04.000 --> 09:08.000
+Então, a gente disponibilizou tanto o e-mail do nosso site quanto o e-mail do Gmail também.
+
+09:08.000 --> 09:14.000
+Porque tem alguns ferramentos do Google que são mais fácil de trabalhar com o e-mail próprio deles mesmo.
+
+09:14.000 --> 09:22.000
+Então, a gente disponibilizou, assim, os dois e-mails também, porque às vezes a gente fica online pelo getal e tal, e todas as coisas estão lá.
+
+09:22.000 --> 09:24.000
+Então, agora vamos para a segunda parte.
+
+09:24.000 --> 09:36.000
+Introdução, parte teórica e ideológica.
+
+09:36.000 --> 09:40.000
+Então, vamos lá. Agora a gente vai para a introdução, né?
+
+09:40.000 --> 09:46.000
+A primeira coisa que eu quero falar aqui nesse podcast é como que surgiu a necessidade de um computador.
+
+09:46.000 --> 09:47.000
+Você sabe como foi?
+
+09:47.000 --> 09:58.000
+Olha, véi, dizendo para o meu professor do primário, ela me falou que na época de Cristo o povo tinha as ovelhinhas, aí contava nos pausinhos e tal.
+
+09:58.000 --> 10:03.000
+A gente tinha a necessidade de gravar essas informações em algum lugar para saber quando as ovelhinhas sim.
+
+10:03.000 --> 10:04.000
+É isso aí?
+
+10:04.000 --> 10:13.000
+Bom, basicamente, essa é mais a história para crianças, assim, pessoal que tem pouco conhecimento do mundo ainda, né?
+
+10:13.000 --> 10:23.000
+Porque, na verdade, o computador, como você vê hoje, ele é um... o surgimento dele deu-se da necessidade que é uma breve história que eu contarei para vocês agora.
+
+10:27.000 --> 10:30.000
+No início, havia-se a filosofia.
+
+10:30.000 --> 10:39.000
+Com o aumento da quantidade de conhecimento, houve a especificação das áreas de pesquisa surgindo à física.
+
+10:39.000 --> 10:47.000
+Com o crescimento da física e seus cálculos complexos, surgiu a necessidade de pessoas especializadas em matemática.
+
+10:47.000 --> 10:53.000
+Porém, os cálculos precisavam ser calculados mais rápidos e com menos eras,
+
+10:53.000 --> 10:59.000
+por da onde surgiu-se a informática, que seria informação mais matemática.
+
+10:59.000 --> 11:06.000
+Isso é anotado ao ver que os primeiros nomes da história da informática eram nomes de grandes matemáticos,
+
+11:06.000 --> 11:13.000
+pois os especialistas em informática foram surgir apenas imerrados de 1970.
+
+11:16.000 --> 11:21.000
+Então, como vocês podem ver nessa história, foi basicamente isso aí que aconteceu.
+
+11:21.000 --> 11:25.000
+E vocês podem ver como eu falei na minha frase de inicialização,
+
+11:25.000 --> 11:33.000
+John Von Neumann foi um dos primeiros, vamos dizer assim, um dos primeiros Vicks da área da informática.
+
+11:33.000 --> 11:38.000
+Então, a gente não vai citar pouquíssima coisa sobre a história da informática,
+
+11:38.000 --> 11:43.000
+porque nós cremos que um dia nós vamos fazer um podcast bastante completo sobre a história da informática.
+
+11:43.000 --> 11:49.000
+John Von Neumann também foi o idealizador da máquina, como vocês veem hoje,
+
+11:49.000 --> 11:55.000
+uma máquina que tem processador, placa-mãe, memória, foi a partir dele que surgiu esse conceito.
+
+11:55.000 --> 11:57.000
+E ele era um matemático, você sabia?
+
+11:57.000 --> 11:58.000
+Não, eu não sabia.
+
+11:58.000 --> 12:00.000
+Pois é, eu achava que lá era o DJ.
+
+12:00.000 --> 12:01.000
+Ah, me vambiu.
+
+12:01.000 --> 12:03.000
+Ah não, é Von Neumann.
+
+12:03.000 --> 12:04.000
+Nada a ver.
+
+12:05.000 --> 12:06.000
+Pois é.
+
+12:06.000 --> 12:11.000
+Então, a criatura básica de um computador, funcionamento básico, você sabe como funciona?
+
+12:11.000 --> 12:13.000
+Sei não, eu explico mais nada.
+
+12:13.000 --> 12:15.000
+Então tá bom.
+
+12:15.000 --> 12:20.000
+A entrada de dados, funcionamento básico do computador é basicamente o seguinte,
+
+12:20.000 --> 12:24.000
+você entra com os dados, ele processa os dados e saia alguma informação que você deseja.
+
+12:24.000 --> 12:25.000
+Simples, né?
+
+12:25.000 --> 12:27.000
+Demais, eu não sabia que era tão simples assim.
+
+12:27.000 --> 12:32.000
+Tudo aquilo que você vê, que você gasta 3 mil reais para comprar, basicamente isso aí.
+
+12:32.000 --> 12:36.000
+Você entra com os dados, ele processa os dados e sai informação.
+
+12:36.000 --> 12:40.000
+E isso aí, você pode ver assim, às vezes você pensa, ah, mas eu estou assistindo o filme,
+
+12:40.000 --> 12:42.000
+eu nem estou entrando com dados, nem nada.
+
+12:42.000 --> 12:47.000
+Mas tudo que você, por exemplo, para você assistir um filme, você teve que entrar com os dados,
+
+12:47.000 --> 12:49.000
+que eram os arquivos do filme.
+
+12:49.000 --> 12:55.000
+O processador teve que processar a imagem do filme, teve que mandar para a placa de vídeo,
+
+12:55.000 --> 12:59.000
+ser processado para mandar para o monitor para desenhar a imagem na tela.
+
+12:59.000 --> 13:03.000
+Então tudo isso aí, você entrou com os dados, houve um processamento ali dentro,
+
+13:03.000 --> 13:08.000
+e ele devolveu o filme com o áudio e vídeo para você assistir e se divertir com a sua namorada.
+
+13:08.000 --> 13:11.000
+Hmm, é, tá vendo aí?
+
+13:11.000 --> 13:18.000
+Ah, mas, e se eu estiver digitando lá no meu computador, e quando ele faz bam,
+
+13:18.000 --> 13:21.000
+é saída de informação ou é saída de erro?
+
+13:21.000 --> 13:26.000
+Ah, então às vezes acontece o seguinte, porque o computador, assim como todo sistema,
+
+13:26.000 --> 13:29.000
+ele tem duas saídas, ou é saída desejada ou uma saída de erro.
+
+13:29.000 --> 13:33.000
+Isso é bastante estudado na matéria de cálculo numérico,
+
+13:33.000 --> 13:37.000
+onde você calcula exatamente, até certo nível de precisão,
+
+13:37.000 --> 13:39.000
+onde o seu sistema vai dar um erro, certo?
+
+13:39.000 --> 13:41.000
+Hmm, agora eu entendi.
+
+13:45.000 --> 13:48.000
+As duas palavras que a gente mais ouve falar de computador,
+
+13:48.000 --> 13:50.000
+é hardware e software.
+
+13:50.000 --> 13:51.000
+Você sabe o que é hardware e software?
+
+13:51.000 --> 13:54.000
+É hardware que você chuta e software que você tira.
+
+13:54.000 --> 13:57.000
+Eu ouvi bastante falar, essa brincadeira aí que o pessoal faz,
+
+13:57.000 --> 14:01.000
+mas pra falar a verdade, eu só xingo mesmo quando eu tô usando Windows.
+
+14:01.000 --> 14:03.000
+Hahaha, brincadeiras à parte.
+
+14:03.000 --> 14:05.000
+Então, mas o meu monitor eu xingo e bato nele?
+
+14:05.000 --> 14:09.000
+Não, tem gente que bate no monitor, pensando que vai adiantar alguma coisa,
+
+14:09.000 --> 14:13.000
+mas pra quem usa computador, eu já tenho dois anos que eu não uso computador,
+
+14:13.000 --> 14:16.000
+eu só uso notebook, mas tem gente que vai usar o computador,
+
+14:16.000 --> 14:18.000
+aquelas telões de CRT.
+
+14:18.000 --> 14:21.000
+Quase todo mundo, assim, que não tem muito conhecimento de informática,
+
+14:21.000 --> 14:24.000
+pensa que a parte principal do computador é o monitor,
+
+14:24.000 --> 14:28.000
+sendo que não é o monitor, a única coisa que ele faz é jogar imagem pra você.
+
+14:28.000 --> 14:32.000
+O que fica mesmo, o que é o computador mesmo, é o gabinete,
+
+14:32.000 --> 14:34.000
+que as pessoas costumam chamar de CPU.
+
+14:34.000 --> 14:37.000
+É, tanto é que você pode mexer no computador com monitor desligado,
+
+14:37.000 --> 14:41.000
+você puder saber o que você fez com monitor desligado,
+
+14:41.000 --> 14:45.000
+aí você vai ver que não precisou de um monitor pra você mexer nele.
+
+14:45.000 --> 14:48.000
+É isso, cara. Eu já fiz isso já.
+
+14:48.000 --> 14:52.000
+Eu já brinquei de ficar mexendo com o computador sem monitor.
+
+14:53.000 --> 14:56.000
+Um dos conceitos básicos do computador também
+
+14:56.000 --> 15:01.000
+é a arquitetura chamada de código binário, ou números binários.
+
+15:01.000 --> 15:05.000
+Meu computador é digital, ele só tem dois níveis de compreensão,
+
+15:05.000 --> 15:08.000
+que é o 01, que são os códigos binários,
+
+15:08.000 --> 15:13.000
+que seria basicamente 0V e 5V, 0V e 3V.
+
+15:13.000 --> 15:18.000
+Na verdade, 3V até 7V ele entende como 5V,
+
+15:18.000 --> 15:21.000
+e pra baixo de 3V, até menos 1V, mais ou menos,
+
+15:21.000 --> 15:23.000
+ele entende como 0V.
+
+15:23.000 --> 15:26.000
+Ele é igual a esse aí, pra não ter problema, porque imagina,
+
+15:26.000 --> 15:30.000
+às vezes, dependendo do jeito que sua fonte leva energia pra placa mãe,
+
+15:30.000 --> 15:32.000
+vai entender uma informação diferente e tal,
+
+15:32.000 --> 15:34.000
+aí você pode ter problema também.
+
+15:34.000 --> 15:36.000
+Então, ele é igual a esse aí, pra ele,
+
+15:36.000 --> 15:40.000
+ele só entende o 01, que é 5V, e o 0, que é 0V.
+
+15:40.000 --> 15:43.000
+O que vier perto de um ou perto de outro, ele arredonda,
+
+15:43.000 --> 15:47.000
+pra facilitar o conhecimento, pra facilitar também na hora de trabalhar.
+
+15:47.000 --> 15:49.000
+Eu imagino, um engenheiro de computação,
+
+15:49.000 --> 15:51.000
+foi mexer lá na arquitetura do computador,
+
+15:51.000 --> 15:55.000
+e ter que ficar pensando em cada tensão que vier diferente,
+
+15:55.000 --> 15:59.000
+seria bastante complexo, e seria impossível ser conversar
+
+15:59.000 --> 16:01.000
+na minha ciência do que sua tia.
+
+16:01.000 --> 16:04.000
+E aquelas paradas das letrinas descendo o Matrix,
+
+16:04.000 --> 16:07.000
+aqui lá, seria pra representar os alienes,
+
+16:07.000 --> 16:10.000
+aquele negócio do Matrix lá, que lá foi bem na época
+
+16:10.000 --> 16:13.000
+que o Linus sentava no auge, né, porque o Matrix 1,
+
+16:13.000 --> 16:18.000
+ele foi lançado no ano 2009, foi no cinema.
+
+16:18.000 --> 16:22.000
+A interface gráfica do Linus foi crescendo muito depois,
+
+16:22.000 --> 16:25.000
+não muito depois, mas ele ficou mais...
+
+16:25.000 --> 16:27.000
+O que o Linus era pra servidor, né?
+
+16:27.000 --> 16:30.000
+Então, ele não precisava de uma interface gráfica muito legal.
+
+16:30.000 --> 16:32.000
+O pessoal usava mesmo uma interface de texto mesmo,
+
+16:32.000 --> 16:33.000
+que é o Shell.
+
+16:33.000 --> 16:36.000
+Então, o Matrix ele dava a entender esse aí,
+
+16:36.000 --> 16:38.000
+que o pessoal usava só a interface de texto,
+
+16:38.000 --> 16:40.000
+e não precisava de interface gráfica.
+
+16:40.000 --> 16:42.000
+Pra você, como o pessoal que tava fora da Matrix,
+
+16:42.000 --> 16:44.000
+era considerado os hackers da Matrix,
+
+16:44.000 --> 16:46.000
+e hacker México-Linus,
+
+16:46.000 --> 16:48.000
+então eles queriam identificar mais ou menos isso aí.
+
+16:48.000 --> 16:50.000
+Aí, eu tô só hacker, tô...
+
+16:50.000 --> 16:53.000
+Vai, desde que você tenha um conhecimento avançado,
+
+16:53.000 --> 16:56.000
+não muito avançado, mas que seja um pouco acima do nível,
+
+16:56.000 --> 16:58.000
+é hacker, você sabia que hacker aí?
+
+16:58.000 --> 17:01.000
+Eu achava que hacker era quem sabia hacker MSN,
+
+17:01.000 --> 17:03.000
+o culto, você faz isso aí.
+
+17:03.000 --> 17:07.000
+Não, pelo amor de Deus, não, cara, não mesmo.
+
+17:07.000 --> 17:11.000
+Quem pensa que hacker é aquela pessoa que faz códigos malignos,
+
+17:11.000 --> 17:14.000
+tipo invadir sem alguma coisa assim,
+
+17:14.000 --> 17:16.000
+pegar sendo os outros,
+
+17:16.000 --> 17:18.000
+esses tipos de programas que fazem essas coisas,
+
+17:18.000 --> 17:19.000
+não são hackers.
+
+17:19.000 --> 17:21.000
+Pelo amor de Deus, não pensem isso.
+
+17:21.000 --> 17:25.000
+A palavra hacker, ela vem pra definir uma pessoa
+
+17:25.000 --> 17:28.000
+que sabe muito sobre uma determinada coisa.
+
+17:28.000 --> 17:31.000
+Ou seja, se você sabe muito costurar,
+
+17:31.000 --> 17:33.000
+você é hacker da costura.
+
+17:33.000 --> 17:35.000
+E assim vai.
+
+17:35.000 --> 17:37.000
+O conceito de hacker é mais ou menos assim,
+
+17:37.000 --> 17:40.000
+hoje, depois, no século XXI e tal,
+
+17:40.000 --> 17:44.000
+aí o conceito de hacker foi só pra área da computação, né?
+
+17:44.000 --> 17:46.000
+Só que, na verdade, o pessoal tenta...
+
+17:46.000 --> 17:49.000
+Tem pessoas que defendem hacker como simplesmente a pessoa
+
+17:49.000 --> 17:52.000
+que entende bem, e as pessoas que usam a inteligência
+
+17:52.000 --> 17:53.000
+pro mal são os crackers.
+
+17:53.000 --> 17:55.000
+Tem pessoas que não, que pensam que hacker
+
+17:55.000 --> 17:57.000
+é o cara do mal mesmo, e tal.
+
+17:57.000 --> 17:58.000
+Sem variando de pessoa.
+
+17:58.000 --> 18:01.000
+Agora, ao meu ver, hacker é aquela pessoa
+
+18:01.000 --> 18:03.000
+que simplesmente sabe bem.
+
+18:03.000 --> 18:05.000
+Da área da computação.
+
+18:07.000 --> 18:09.000
+Vamos deixar de papo, vamos continuar
+
+18:09.000 --> 18:11.000
+com a edificação da arquitetura.
+
+18:11.000 --> 18:13.000
+Bom, mas não sei se você já explicou,
+
+18:13.000 --> 18:15.000
+mas como é que o computador
+
+18:15.000 --> 18:19.000
+ele interpreta o 0 e o 1?
+
+18:19.000 --> 18:22.000
+O que cada um faz?
+
+18:22.000 --> 18:24.000
+O que o 0 representa, o que o 1 representa?
+
+18:24.000 --> 18:25.000
+Ah, tá.
+
+18:25.000 --> 18:28.000
+Então, o computador, ele entende 0 e 1.
+
+18:28.000 --> 18:31.000
+Só que é impossível você trabalhar com 0 e 1 apendo.
+
+18:31.000 --> 18:33.000
+Então, a pessoa, o computador, ele agrupa,
+
+18:33.000 --> 18:35.000
+faz agrupamentos de 0 e 1
+
+18:35.000 --> 18:37.000
+e formam os outros códigos,
+
+18:37.000 --> 18:38.000
+que são os níveis assim.
+
+18:38.000 --> 18:40.000
+Então, o 0 e 1 é a linguagem de máquina.
+
+18:40.000 --> 18:42.000
+Depois, da linguagem de máquina,
+
+18:42.000 --> 18:44.000
+você tem a linguagem, a primeira linguagem
+
+18:44.000 --> 18:47.000
+de baixo nível, que é o assemble.
+
+18:47.000 --> 18:49.000
+Através desse linguagem, você pode programar
+
+18:49.000 --> 18:52.000
+os dispositivos que tem no computador.
+
+18:52.000 --> 18:54.000
+E aí, sim, você pode realmente mexer
+
+18:54.000 --> 18:56.000
+com o computador a um nível mais humano.
+
+18:56.000 --> 18:58.000
+E assim, você pode conseguir fazer
+
+18:58.000 --> 19:00.000
+o seu computador trabalhar da forma
+
+19:00.000 --> 19:02.000
+que ele realmente trabalha.
+
+19:02.000 --> 19:04.000
+Porque o computador, na verdade,
+
+19:04.000 --> 19:06.000
+ele somente entende 0 e 1.
+
+19:06.000 --> 19:09.000
+Ele somente soma e subtrai.
+
+19:09.000 --> 19:11.000
+Tudo o que o computador faz,
+
+19:11.000 --> 19:13.000
+através de zeros e uns,
+
+19:13.000 --> 19:15.000
+agrupados de diferentes formas,
+
+19:15.000 --> 19:17.000
+e operação de soma e subtração.
+
+19:17.000 --> 19:18.000
+Mas você pode pensar assim,
+
+19:18.000 --> 19:20.000
+ah, mas e a raiz quadrada?
+
+19:20.000 --> 19:22.000
+Ah, mas e as outras, sei lá,
+
+19:22.000 --> 19:25.000
+logaritmo, multiplicação, divisão.
+
+19:25.000 --> 19:27.000
+Por exemplo, a multiplicação,
+
+19:27.000 --> 19:29.000
+elas são somas consecutivas.
+
+19:29.000 --> 19:32.000
+A divisão são serviderações consecutivas.
+
+19:32.000 --> 19:34.000
+Então, o computador, ele só entende si.
+
+19:34.000 --> 19:36.000
+Porque, através dessas duas operações básicas,
+
+19:36.000 --> 19:38.000
+você pode montar qualquer outra operação
+
+19:38.000 --> 19:40.000
+dentro da matemática.
+
+19:40.000 --> 19:42.000
+Ah, agora entendi.
+
+19:42.000 --> 19:44.000
+Mas o zero, ele é representado
+
+19:44.000 --> 19:46.000
+como sim ou não?
+
+19:46.000 --> 19:48.000
+Você tinha falado mais ou menos isso,
+
+19:48.000 --> 19:50.000
+um golinho?
+
+19:50.000 --> 19:52.000
+Isso depende muito da implementação.
+
+19:52.000 --> 19:54.000
+Você pode identificar o 1 como não,
+
+19:54.000 --> 19:56.000
+o zero como sim.
+
+19:56.000 --> 19:57.000
+Defende da pessoa.
+
+19:57.000 --> 19:59.000
+Mas existem padrões para desenvolvimento.
+
+19:59.000 --> 20:01.000
+E é padrão que o zero,
+
+20:01.000 --> 20:03.000
+ele é considerado como não,
+
+20:03.000 --> 20:05.000
+e o 1 como sim.
+
+20:05.000 --> 20:08.000
+Até mesmo o seu comportamento na arquitetura básica,
+
+20:08.000 --> 20:10.000
+que o zero é ausência de energia,
+
+20:10.000 --> 20:12.000
+e o 1 existe energia dentro.
+
+20:12.000 --> 20:14.000
+Quem vê número binário,
+
+20:14.000 --> 20:16.000
+zero e um, pode achar bastante parecido
+
+20:16.000 --> 20:18.000
+com um conceito de programação,
+
+20:18.000 --> 20:20.000
+que são os números boleandres.
+
+20:20.000 --> 20:22.000
+Na verdade, o número boleano,
+
+20:22.000 --> 20:24.000
+ele trabalha bem semelhante
+
+20:24.000 --> 20:26.000
+com os zeros e uns.
+
+20:26.000 --> 20:28.000
+Ele só tem duas opções,
+
+20:28.000 --> 20:30.000
+o verdadeiro ou o falso.
+
+20:30.000 --> 20:32.000
+Assim como o código binário,
+
+20:32.000 --> 20:34.000
+ele trabalha com zero e com um.
+
+20:34.000 --> 20:36.000
+Então, é isso aí que você pode ter
+
+20:36.000 --> 20:38.000
+como semelhança da linguagem de programação
+
+20:38.000 --> 20:40.000
+de alto nível para uma de baixo nível.
+
+20:40.000 --> 20:42.000
+Quem não sabia, o Únix,
+
+20:42.000 --> 20:44.000
+de primeiro, foi feito em linguagem de baixo nível.
+
+20:46.000 --> 20:48.000
+Eu prometi que não ia falar de história.
+
+20:48.000 --> 20:50.000
+Então, não vou falar história,
+
+20:50.000 --> 20:52.000
+mas é esse mesmo.
+
+20:52.000 --> 20:54.000
+Vou deixar um sabor
+
+20:54.000 --> 20:56.000
+no ar de história do Únix,
+
+20:56.000 --> 20:58.000
+no caso que o Únix foi feito
+
+20:58.000 --> 21:00.000
+a princípio com a linguagem de acêndio.
+
+21:00.000 --> 21:02.000
+E depois,
+
+21:02.000 --> 21:04.000
+Vennus Rich e o Ken Thompson
+
+21:04.000 --> 21:06.000
+se transportaram o Únix todinho
+
+21:06.000 --> 21:08.000
+para a linguagem C.
+
+21:08.000 --> 21:10.000
+E aí foi quando surgiu o software livre,
+
+21:10.000 --> 21:12.000
+que foi deixando essa história
+
+21:12.000 --> 21:14.000
+para o próximo podcast.
+
+21:14.000 --> 21:16.000
+Então, todo podcast a gente fala
+
+21:16.000 --> 21:18.000
+que vai ter uma história sobre outro podcast.
+
+21:18.000 --> 21:20.000
+Eu acho que, antes que vem,
+
+21:20.000 --> 21:22.000
+a gente vai pegar esse podcast desse ano
+
+21:22.000 --> 21:24.000
+que vem em terim.
+
+21:24.000 --> 21:26.000
+A gente falou que o computador
+
+21:26.000 --> 21:28.000
+tem três níveis.
+
+21:28.000 --> 21:30.000
+Entrada, processamento e saída.
+
+21:30.000 --> 21:32.000
+Geralmente, quem faz o primeiro período
+
+21:32.000 --> 21:34.000
+de alguma cuja informática vê muito isso aí.
+
+21:34.000 --> 21:36.000
+E agora, quem não faz,
+
+21:36.000 --> 21:38.000
+às vezes fica entendendo por que
+
+21:38.000 --> 21:40.000
+entrada, processamento e saída,
+
+21:40.000 --> 21:42.000
+como funciona esse aí.
+
+21:42.000 --> 21:44.000
+Então, vamos falar agora sobre os dispositivos de entrada.
+
+21:44.000 --> 21:46.000
+Entrada
+
+21:48.000 --> 21:50.000
+É como você entra dados no computador.
+
+21:50.000 --> 21:52.000
+Então, vamos ver várias formas
+
+21:52.000 --> 21:54.000
+de como entrar dados no computador.
+
+21:54.000 --> 21:56.000
+Para você gerar entrada
+
+21:56.000 --> 21:58.000
+de processamento
+
+21:58.000 --> 22:00.000
+para dentro do computador,
+
+22:00.000 --> 22:02.000
+você pode usar vários dispositivos
+
+22:02.000 --> 22:04.000
+que alguns são bem padrões.
+
+22:04.000 --> 22:06.000
+Sem ele, você não tem como entrar
+
+22:06.000 --> 22:08.000
+dados dentro do computador.
+
+22:08.000 --> 22:10.000
+A não ser que você chute ele
+
+22:10.000 --> 22:12.000
+ou dê uma carga de energia bem forte.
+
+22:12.000 --> 22:14.000
+Você vai estar entrando dados.
+
+22:14.000 --> 22:16.000
+Lembra aquela frase
+
+22:16.000 --> 22:18.000
+que você chuta.
+
+22:18.000 --> 22:20.000
+Qual seriam as peças
+
+22:20.000 --> 22:22.000
+que a gente entra
+
+22:22.000 --> 22:24.000
+dados no computador através dessas peças?
+
+22:24.000 --> 22:26.000
+Bom, há mais padrão
+
+22:26.000 --> 22:28.000
+que eu acho que todo mundo conhece,
+
+22:28.000 --> 22:30.000
+que é impossível não conhecer o teclado.
+
+22:30.000 --> 22:32.000
+É um chip, uma placa
+
+22:32.000 --> 22:34.000
+com vários entradas,
+
+22:34.000 --> 22:36.000
+vários circuitos, que você quando
+
+22:36.000 --> 22:38.000
+tecla, ele manda um
+
+22:38.000 --> 22:40.000
+sinal para o computador
+
+22:40.000 --> 22:42.000
+usar aquela tecla, e se você tiver
+
+22:42.000 --> 22:44.000
+monitor, tiver um editor
+
+22:44.000 --> 22:46.000
+de texto aberto, por exemplo, ele vai
+
+22:46.000 --> 22:48.000
+aparecer a tecla que você digitou.
+
+22:48.000 --> 22:50.000
+Tem o mouse também, que historicamente
+
+22:50.000 --> 22:52.000
+se juntou ao teclado para auxiliar
+
+22:52.000 --> 22:54.000
+no processamento de entrada de dados.
+
+22:54.000 --> 22:56.000
+Especialmente usado
+
+22:56.000 --> 22:58.000
+para interferir esse gráfico.
+
+22:58.000 --> 23:00.000
+Dependendo do programa, o seu uso
+
+23:00.000 --> 23:02.000
+precisa de só de um teclado. Agora tem
+
+23:02.000 --> 23:04.000
+programas como o Photoshop, por exemplo.
+
+23:04.000 --> 23:06.000
+É impossível você fazer alguma coisa no Photoshop sem um mouse.
+
+23:06.000 --> 23:08.000
+Eu consigo.
+
+23:08.000 --> 23:10.000
+O scanner
+
+23:10.000 --> 23:12.000
+é um periférico de entradas responsável
+
+23:12.000 --> 23:14.000
+para digitalizar as imagens.
+
+23:14.000 --> 23:16.000
+Ou o que o povo diz é
+
+23:16.000 --> 23:18.000
+escanhar a imagem.
+
+23:18.000 --> 23:20.000
+Fotos, textos, impressos,
+
+23:20.000 --> 23:22.000
+tudo que cabe dentro do scanner
+
+23:22.000 --> 23:24.000
+você pode mandar para o teclado com o talão.
+
+23:24.000 --> 23:26.000
+O scanner, ele faz o processo
+
+23:26.000 --> 23:28.000
+inverso da impressora.
+
+23:28.000 --> 23:30.000
+O scanner é o dispositivo de entrada
+
+23:30.000 --> 23:32.000
+e o impressora é um dispositivo de saída.
+
+23:32.000 --> 23:34.000
+Hoje, o scanner
+
+23:34.000 --> 23:36.000
+vem junto com a impressora, que são aquelas impressoras
+
+23:36.000 --> 23:38.000
+multifuncionais.
+
+23:38.000 --> 23:40.000
+Tem o scanner que você entra dados no computador
+
+23:40.000 --> 23:42.000
+tem a impressora que tira dados no computador
+
+23:42.000 --> 23:44.000
+e tem as impressoras
+
+23:44.000 --> 23:46.000
+multifuncionais.
+
+23:46.000 --> 23:48.000
+Tem a opção de você tirar a cópia na hora
+
+23:48.000 --> 23:50.000
+de um documento, por exemplo.
+
+23:50.000 --> 23:52.000
+É, que ao invés de mandar para a tela
+
+23:52.000 --> 23:54.000
+você manda com papel
+
+23:54.000 --> 23:56.000
+o xerox.
+
+23:56.000 --> 23:58.000
+É o microfone que a gente está usando
+
+23:58.000 --> 24:00.000
+para gravar o podcast.
+
+24:00.000 --> 24:02.000
+Converte o som
+
+24:02.000 --> 24:04.000
+em dados elétricos
+
+24:04.000 --> 24:06.000
+para dados digitais.
+
+24:06.000 --> 24:08.000
+O microfone
+
+24:08.000 --> 24:10.000
+transforma dados analógicos
+
+24:10.000 --> 24:12.000
+em dados digitais.
+
+24:12.000 --> 24:14.000
+É um conceito bastante interessante
+
+24:14.000 --> 24:16.000
+que é bastante falado na computação.
+
+24:16.000 --> 24:18.000
+Dado analógico, você sabe o que é um dado analógico?
+
+24:18.000 --> 24:20.000
+O que é o mundo analógico e o mundo digital?
+
+24:20.000 --> 24:22.000
+O que eu sei é o relógico
+
+24:22.000 --> 24:24.000
+que tem no ponteirinho.
+
+24:24.000 --> 24:26.000
+O relógico do ponteiro
+
+24:26.000 --> 24:28.000
+pode ser usado como exemplo
+
+24:28.000 --> 24:30.000
+para ilustrar essa diferença entre
+
+24:30.000 --> 24:32.000
+o mundo digital e o mundo analógico.
+
+24:32.000 --> 24:34.000
+Tem aqueles relógios
+
+24:34.000 --> 24:36.000
+quando você está passando
+
+24:36.000 --> 24:38.000
+um ponteiro de 1 minuto, você não sabe
+
+24:38.000 --> 24:40.000
+se é 1 minuto, 2 minuto, 3 minuto.
+
+24:40.000 --> 24:42.000
+O ponteiro, ele vai passando ali
+
+24:42.000 --> 24:44.000
+ele passa por vários pontos.
+
+24:44.000 --> 24:46.000
+Você não pode identificar se é
+
+24:46.000 --> 24:48.000
+realmente 1 minuto em ponto
+
+24:48.000 --> 24:50.000
+ou se é 2 minutos em ponto
+
+24:50.000 --> 24:52.000
+ou se é 1 minuto e meio. Não tem como descrever
+
+24:52.000 --> 24:54.000
+aquilo ali. Agora no relógio digital
+
+24:54.000 --> 24:56.000
+você vê que lá é 2.
+
+24:56.000 --> 24:58.000
+Quando está 2, então é 2 minutos, independente do segundo.
+
+24:58.000 --> 25:00.000
+O mundo analógico você pode ver da segunda forma.
+
+25:00.000 --> 25:02.000
+Por exemplo, é aquela teoria matemática
+
+25:02.000 --> 25:04.000
+que entre o 0 e o 1
+
+25:04.000 --> 25:06.000
+ou entre o 1 e o 2 existe
+
+25:06.000 --> 25:08.000
+infinitos números. Entre 1
+
+25:08.000 --> 25:10.000
+e 1,1 existe infinitos números.
+
+25:10.000 --> 25:12.000
+Aí eu vou falar de teoria matemática
+
+25:12.000 --> 25:14.000
+que senão eu vou assustar também, né?
+
+25:14.000 --> 25:16.000
+É, porque eu já não estou entendendo mais nada
+
+25:16.000 --> 25:18.000
+do que você está falando.
+
+25:18.000 --> 25:20.000
+Então eu só vou encerrar aqui.
+
+25:20.000 --> 25:22.000
+No mundo analógico você
+
+25:22.000 --> 25:24.000
+não tem precisão de
+
+25:24.000 --> 25:26.000
+tamanho. Por exemplo, ele pode ter
+
+25:26.000 --> 25:28.000
+se você mede com a régua 10 centímetros
+
+25:28.000 --> 25:30.000
+na verdade ele pode ter 10 centímetros
+
+25:30.000 --> 25:32.000
+1,1,2,3,3,3 infinitos números
+
+25:32.000 --> 25:34.000
+depois da vígula de milímetros
+
+25:34.000 --> 25:36.000
+por exemplo. Então você não pode
+
+25:36.000 --> 25:38.000
+medir precisamente. O mundo
+
+25:38.000 --> 25:40.000
+digital ele cria
+
+25:40.000 --> 25:42.000
+essa precisão. Você tem
+
+25:42.000 --> 25:44.000
+a precisão do 0 e 1, não tem
+
+25:44.000 --> 25:46.000
+espaço, ele é 0, ou é 1, ou é 2,
+
+25:46.000 --> 25:48.000
+ou é 3. Então essa é a
+
+25:48.000 --> 25:50.000
+diferença entre o mundo digital e o mundo analógico.
+
+25:50.000 --> 25:52.000
+A nossa voz, ela é gravada,
+
+25:52.000 --> 25:54.000
+ela é um formato analógico.
+
+25:54.000 --> 25:56.000
+Quando você passa ela para o computador
+
+25:56.000 --> 25:58.000
+ela entra no formato digital.
+
+25:58.000 --> 26:00.000
+E é isso que acontece, porque o computador
+
+26:00.000 --> 26:02.000
+só entende o mundo digital.
+
+26:06.000 --> 26:08.000
+A gente esqueceu de falar sobre o
+
+26:08.000 --> 26:10.000
+todoscreen, você poderia falar sobre
+
+26:10.000 --> 26:12.000
+o todoscreen, por que com um monitor
+
+26:12.000 --> 26:14.000
+normal você clica e não funciona?
+
+26:14.000 --> 26:16.000
+Então o todoscreen ele é bastante
+
+26:16.000 --> 26:18.000
+novo assim na área. Eles dizem 3 tipos
+
+26:18.000 --> 26:20.000
+de todoscreen. Eu vou falar assim
+
+26:20.000 --> 26:22.000
+do que é mais comum e
+
+26:22.000 --> 26:24.000
+também o mais fácil de explicar. O monitor
+
+26:24.000 --> 26:26.000
+ele é constituído de um painel de
+
+26:26.000 --> 26:28.000
+vidro normal recoberto com uma camada
+
+26:28.000 --> 26:30.000
+metálica, condutora e outra
+
+26:30.000 --> 26:32.000
+resistiva. Aí essas duas camadas
+
+26:32.000 --> 26:34.000
+são mantidas afastadas por os
+
+26:34.000 --> 26:36.000
+passadores e uma camada resistente
+
+26:36.000 --> 26:38.000
+a riscos é colocada por
+
+26:38.000 --> 26:40.000
+cima de todo o conjunto.
+
+26:40.000 --> 26:42.000
+Uma corrente elétrica passa através
+
+26:42.000 --> 26:44.000
+das duas camadas enquanto o monitor está
+
+26:44.000 --> 26:46.000
+operando, no caso. Quando o usuário
+
+26:46.000 --> 26:48.000
+toca a tela, aí encosta uma camada
+
+26:48.000 --> 26:50.000
+na outra, porque ele tocou na tela
+
+26:50.000 --> 26:52.000
+e vai diminuir o espaço e encosta
+
+26:52.000 --> 26:54.000
+Então ali, a malha que tem no monitor
+
+26:54.000 --> 26:56.000
+ela reconhece que se tocou
+
+26:56.000 --> 26:58.000
+e ali, naquele ponto
+
+26:58.000 --> 27:00.000
+é exato. Por exemplo, no ponto 33
+
+27:00.000 --> 27:02.000
+do campo x e 20 do
+
+27:02.000 --> 27:04.000
+campo y. Então ele considera
+
+27:04.000 --> 27:06.000
+aquele campo ali, aquele ponto
+
+27:06.000 --> 27:08.000
+ali no software, significa
+
+27:08.000 --> 27:10.000
+tal coisa. Aí
+
+27:10.000 --> 27:12.000
+ah, então o monitor tem
+
+27:12.000 --> 27:14.000
+um software ou o próprio
+
+27:14.000 --> 27:16.000
+computador faz esses dados?
+
+27:16.000 --> 27:18.000
+Não, o monitor ele faz
+
+27:18.000 --> 27:20.000
+todos esses calcos. O que
+
+27:20.000 --> 27:22.000
+o software precisa entender só
+
+27:22.000 --> 27:24.000
+é como manipular quando o usuário
+
+27:24.000 --> 27:26.000
+toca naquele ponto ali.
+
+27:26.000 --> 27:28.000
+Se você pegar um seu operacional
+
+27:28.000 --> 27:30.000
+que não tem suporte a todoscreen, ele
+
+27:30.000 --> 27:32.000
+não vai funcionar o todoscreen, porque
+
+27:32.000 --> 27:34.000
+ele não vai entender o que você está
+
+27:34.000 --> 27:36.000
+clicando. Ele vai receber aquele sinal
+
+27:36.000 --> 27:38.000
+e não vai entender. Vai receber
+
+27:38.000 --> 27:40.000
+aquela entrada, porém ele é incapaz de
+
+27:40.000 --> 27:42.000
+processar aquela entrada. Ah, então
+
+27:42.000 --> 27:44.000
+o todoscreen funciona mais ou menos igual ao
+
+27:44.000 --> 27:46.000
+mouse? É, quase igual ao mouse.
+
+27:46.000 --> 27:48.000
+O software do mouse é mais ou menos
+
+27:48.000 --> 27:50.000
+um mouse e você
+
+27:50.000 --> 27:52.000
+percorre o mouse e clica
+
+27:52.000 --> 27:54.000
+com, você clica nele.
+
+27:54.000 --> 27:56.000
+O todoscreen, ele não tem
+
+27:56.000 --> 27:58.000
+a opção de percorrer. Você só
+
+27:58.000 --> 28:00.000
+simplesmente clica, determinado ponto.
+
+28:00.000 --> 28:02.000
+Ah, entendi.
+
+28:02.000 --> 28:04.000
+É, temos aqui também as mídias removíveis
+
+28:04.000 --> 28:06.000
+CD, DVD.
+
+28:06.000 --> 28:08.000
+Ah, o CD, DVD, CD, DVD.
+
+28:08.000 --> 28:10.000
+Disquete, pendrive, etc.
+
+28:10.000 --> 28:12.000
+Essa classe
+
+28:12.000 --> 28:14.000
+é armazenamento
+
+28:14.000 --> 28:16.000
+secundário, porém removível
+
+28:16.000 --> 28:18.000
+ao contrário do HD. Por que ao contrário do HD?
+
+28:18.000 --> 28:20.000
+Porque o HD não é removível, né?
+
+28:20.000 --> 28:22.000
+Ah, mas se você arrancar
+
+28:22.000 --> 28:24.000
+do cabuflete, ele remove.
+
+28:24.000 --> 28:26.000
+Se você arrancar seu braço, ele sai também.
+
+28:26.000 --> 28:28.000
+Em seu corpo.
+
+28:28.000 --> 28:30.000
+Obrigado.
+
+28:30.000 --> 28:32.000
+Bom, agora vamos falar
+
+28:32.000 --> 28:34.000
+sobre os dispositivos de saída.
+
+28:34.000 --> 28:36.000
+Que é a saída. Tenho
+
+28:36.000 --> 28:38.000
+a entrada, o processamento
+
+28:38.000 --> 28:40.000
+e a saída. A dispositiva de saída
+
+28:40.000 --> 28:42.000
+são quando você já tem os dados
+
+28:42.000 --> 28:44.000
+processados e ele já vai te devolver
+
+28:44.000 --> 28:46.000
+uma informação. Como quem está usando
+
+28:46.000 --> 28:48.000
+computador geralmente é um ser humano?
+
+28:48.000 --> 28:50.000
+Então, os dispositivos de saída
+
+28:50.000 --> 28:52.000
+se prendem
+
+28:52.000 --> 28:54.000
+aos sentidos humanos, né?
+
+28:54.000 --> 28:56.000
+Que é visão, audição, tato.
+
+28:56.000 --> 28:58.000
+E infelizmente, ainda está em pesquisa
+
+28:58.000 --> 29:00.000
+dispositivos de saída
+
+29:00.000 --> 29:02.000
+para cheiro, né? Que tem
+
+29:02.000 --> 29:04.000
+projetos para criar televisão com cheiro e tal.
+
+29:04.000 --> 29:06.000
+Mas isso ainda não está
+
+29:06.000 --> 29:08.000
+no mundo comercial ainda, né?
+
+29:08.000 --> 29:10.000
+É, eu vi esse projeto, parece que foi em
+
+29:10.000 --> 29:12.000
+2002, 2003,
+
+29:12.000 --> 29:14.000
+essa televisão de cheiro até hoje
+
+29:14.000 --> 29:16.000
+eu não vi no mercado. É, porque
+
+29:16.000 --> 29:18.000
+tem coisas que são bastante complexas
+
+29:18.000 --> 29:20.000
+e não dá para implementar no mercado tão
+
+29:20.000 --> 29:22.000
+rapidamente.
+
+29:22.000 --> 29:24.000
+Às vezes, pode ser até alguns protótipos prontos.
+
+29:24.000 --> 29:26.000
+Às vezes, o pessoal pode até mandar em neve
+
+29:26.000 --> 29:28.000
+e falar, já tem isso pronto, não sei o que.
+
+29:28.000 --> 29:30.000
+Realmente, mas no mundo comercial, que é um mundo
+
+29:30.000 --> 29:32.000
+onde você pode ir lá no mercado, independente do preço
+
+29:32.000 --> 29:34.000
+e lá comprar, eu ainda não tenho notícia
+
+29:34.000 --> 29:36.000
+de que existe aparelhos que exploram
+
+29:36.000 --> 29:38.000
+esse sentido humano do cheiro.
+
+29:38.000 --> 29:40.000
+Sim, os dispositivos de saída
+
+29:40.000 --> 29:42.000
+aprendem a visão, a audição, então
+
+29:42.000 --> 29:44.000
+tem o monitor, né? Que é onde você vê
+
+29:44.000 --> 29:46.000
+as informações saindo, a caixa de som,
+
+29:46.000 --> 29:48.000
+o headphone, que é o que você escuta,
+
+29:48.000 --> 29:50.000
+uma música, uma fala, qualquer coisa do tipo
+
+29:50.000 --> 29:52.000
+e tem a impressora também. Quando você
+
+29:52.000 --> 29:54.000
+precisa de um documento e tal,
+
+29:54.000 --> 29:56.000
+uma foto, qualquer coisa que você
+
+29:56.000 --> 29:58.000
+precisa de guardar de forma
+
+29:58.000 --> 30:00.000
+permanente,
+
+30:00.000 --> 30:02.000
+você usa a impressora, que ela
+
+30:02.000 --> 30:04.000
+vai pintar um papel e
+
+30:04.000 --> 30:06.000
+ali você vai usar esse papel para alguma coisa.
+
+30:06.000 --> 30:08.000
+É, igual nós falamos anteriormente
+
+30:08.000 --> 30:10.000
+a xerox, né? E a xerox
+
+30:10.000 --> 30:12.000
+é como se fosse um dispositivo de entrada
+
+30:12.000 --> 30:14.000
+e saída. As impressoras
+
+30:14.000 --> 30:16.000
+tem vários modelos, acho que a mais
+
+30:16.000 --> 30:18.000
+conhecida que tem em trabalho do mundo comercial
+
+30:18.000 --> 30:20.000
+é aquela de...
+
+30:20.000 --> 30:22.000
+Como é que eu não dou? Aquela é a matricial,
+
+30:22.000 --> 30:24.000
+que são as impressoras de impacto.
+
+30:24.000 --> 30:26.000
+Elas baseam no princípio
+
+30:26.000 --> 30:28.000
+da calcação, por exemplo, você colide
+
+30:28.000 --> 30:30.000
+uma agulha, uma fita de tinta,
+
+30:30.000 --> 30:32.000
+aí ele vai reproduzir os caracteres
+
+30:32.000 --> 30:34.000
+e sai na impressão,
+
+30:34.000 --> 30:36.000
+que geralmente você vê nos mercados
+
+30:36.000 --> 30:38.000
+aí. Elas têm um interessante
+
+30:38.000 --> 30:40.000
+por elas ser de impacto, elas podem
+
+30:40.000 --> 30:42.000
+imprimir em dois papéis ao mesmo tempo,
+
+30:42.000 --> 30:44.000
+sem os benefícios de se ter um impressor
+
+30:44.000 --> 30:46.000
+impacto. Também a impressora já de tinta,
+
+30:46.000 --> 30:48.000
+que eu acho que é a mais conhecida,
+
+30:48.000 --> 30:50.000
+mais do que a matricial,
+
+30:50.000 --> 30:52.000
+que tem dois cartuchos,
+
+30:52.000 --> 30:54.000
+geralmente, ele joga as tintas,
+
+30:54.000 --> 30:56.000
+as gotinhas de tinta, bem minúsculos
+
+30:56.000 --> 30:58.000
+até formar
+
+30:58.000 --> 31:00.000
+pontos claros, pontos escuros e até formar
+
+31:00.000 --> 31:02.000
+por um todo a imagem,
+
+31:02.000 --> 31:04.000
+do jeito que você quer, imprimir.
+
+31:04.000 --> 31:06.000
+Esse é o processamento
+
+31:06.000 --> 31:08.000
+que o computador
+
+31:08.000 --> 31:10.000
+faz mais impressora,
+
+31:10.000 --> 31:12.000
+que regula o tanto de tinta que cai
+
+31:12.000 --> 31:14.000
+e, também, determinado ponto
+
+31:14.000 --> 31:16.000
+da folha.
+
+31:16.000 --> 31:18.000
+Você quer design, você tem que explicar
+
+31:18.000 --> 31:20.000
+as paradas, hein? Eu não sou muito bom
+
+31:20.000 --> 31:22.000
+para explicar.
+
+31:24.000 --> 31:26.000
+Bom, as impressoras
+
+31:26.000 --> 31:28.000
+são laser, são de laser
+
+31:28.000 --> 31:30.000
+literalmente, praticamente,
+
+31:30.000 --> 31:32.000
+queima o papel,
+
+31:32.000 --> 31:34.000
+mas, assim, elas são um pouco mais caras
+
+31:34.000 --> 31:36.000
+pela sua
+
+31:36.000 --> 31:38.000
+qualidade e tudo mais
+
+31:38.000 --> 31:40.000
+e são usados muito
+
+31:40.000 --> 31:42.000
+para aqueles banners.
+
+31:42.000 --> 31:44.000
+Impressora térmica, o que
+
+31:44.000 --> 31:46.000
+que é a impressora térmica? Eu não gostaria de falar, não?
+
+31:46.000 --> 31:48.000
+Impressora térmica são aquelas impressoras
+
+31:48.000 --> 31:50.000
+usadas para imprimir notas fiscais.
+
+31:50.000 --> 31:52.000
+A própria nota que se dá mesmo, que elas saem
+
+31:52.000 --> 31:54.000
+em papel marélinho, porque o papel marélinho
+
+31:54.000 --> 31:56.000
+é o papel térmico, ali a impressora
+
+31:56.000 --> 31:58.000
+ela aquece o papel
+
+31:58.000 --> 32:00.000
+em determinados pontos e vai formando
+
+32:00.000 --> 32:02.000
+o que você quer, né? Geralmente são só
+
+32:02.000 --> 32:04.000
+palavras.
+
+32:04.000 --> 32:06.000
+E elas são as melhores
+
+32:06.000 --> 32:08.000
+questão de benefício,
+
+32:08.000 --> 32:10.000
+que elas são mais rápidas, mais econômicas,
+
+32:10.000 --> 32:12.000
+mais silenciosas que os outros modelos.
+
+32:12.000 --> 32:14.000
+Porém, o que ela peca
+
+32:14.000 --> 32:16.000
+é que o papel rapidamente
+
+32:16.000 --> 32:18.000
+vai perdendo, vai desbotando, aí você
+
+32:18.000 --> 32:20.000
+tem que utilizar outro tipo
+
+32:20.000 --> 32:22.000
+de mídia para armazenar
+
+32:22.000 --> 32:24.000
+o seu documento. No caso, geralmente
+
+32:24.000 --> 32:26.000
+a pessoa tira xérex numa impressora
+
+32:26.000 --> 32:28.000
+a laser, né? Para manter,
+
+32:28.000 --> 32:30.000
+a laser é imprimida no papel, então
+
+32:30.000 --> 32:32.000
+fica de
+
+32:32.000 --> 32:34.000
+teoricamente, né? Eternamente, mas o papel
+
+32:34.000 --> 32:36.000
+não dura eternamente, então
+
+32:36.000 --> 32:38.000
+fica ali por um período maior.
+
+32:38.000 --> 32:40.000
+Ah, que esse papelzinho de cedo
+
+32:40.000 --> 32:42.000
+que ele tem que imprimindo nos bancos, né?
+
+32:42.000 --> 32:44.000
+É, sim mesmo. Ah,
+
+32:44.000 --> 32:46.000
+os olhos é para outra coisa.
+
+32:46.000 --> 32:48.000
+É, né? Papelzinho de cedo,
+
+32:48.000 --> 32:50.000
+entender, né?
+
+32:50.000 --> 32:52.000
+Contar sua mãe sabe.
+
+32:52.000 --> 32:54.000
+Ela não vai ouvir mesmo.
+
+32:54.000 --> 32:56.000
+Então, agora vamos
+
+32:56.000 --> 32:58.000
+final. A gente falou
+
+32:58.000 --> 33:00.000
+entrada, processamento e saída, né?
+
+33:00.000 --> 33:02.000
+Então, a gente falou de entrada e saída, agora
+
+33:02.000 --> 33:04.000
+vamos falar de profissão.
+
+33:18.000 --> 33:20.000
+O computador, na verdade,
+
+33:20.000 --> 33:22.000
+ele constitui
+
+33:22.000 --> 33:24.000
+basicamente na placa mãe, né?
+
+33:24.000 --> 33:26.000
+O computador mesmo. A parte principal do computador
+
+33:26.000 --> 33:28.000
+que o resto são dispositivos, como vocês viram, né?
+
+33:28.000 --> 33:30.000
+O restante do computador
+
+33:30.000 --> 33:32.000
+são dispositivos de entrada, dispositivos de saída.
+
+33:32.000 --> 33:34.000
+O computador mesmo é a placa mãe.
+
+33:34.000 --> 33:36.000
+É aquilo que está dentro do
+
+33:36.000 --> 33:38.000
+gabinete. Tem que ser placa rainha, né?
+
+33:38.000 --> 33:40.000
+Tem que dar uma nas formiga.
+
+33:40.000 --> 33:42.000
+Não é a placa mãe, porque era a mãe de
+
+33:42.000 --> 33:44.000
+todos. Mas por que ela
+
+33:44.000 --> 33:46.000
+tem esse conceito de
+
+33:46.000 --> 33:48.000
+nome de placa mãe?
+
+33:48.000 --> 33:50.000
+Porque não é outro nome, e tal. Então,
+
+33:50.000 --> 33:52.000
+a placa mãe, ela foi um conceito
+
+33:52.000 --> 33:54.000
+de IBM, quando ela lançou o IBM PC
+
+33:54.000 --> 33:56.000
+e tal, como também o
+
+33:56.000 --> 33:58.000
+nome PC foi criado pela IBM também.
+
+33:58.000 --> 34:00.000
+Que é o personal compira, né?
+
+34:00.000 --> 34:02.000
+E esses dois conceitos, que são
+
+34:02.000 --> 34:04.000
+placa mãe e PC, foram
+
+34:04.000 --> 34:06.000
+difundidos no mercado.
+
+34:06.000 --> 34:08.000
+Quando a IBM, principalmente
+
+34:08.000 --> 34:10.000
+o conceito de placa mãe, foi
+
+34:10.000 --> 34:12.000
+é... o mercado
+
+34:12.000 --> 34:14.000
+se difundiu mais quando a IBM abriu
+
+34:14.000 --> 34:16.000
+seu projeto. Aí o pessoal viu como funcionava
+
+34:16.000 --> 34:18.000
+a arquitetura da placa mãe, e começou a
+
+34:18.000 --> 34:20.000
+desenvolver. Aí ela é a placa
+
+34:20.000 --> 34:22.000
+mãe, sim, porque a mãe, geralmente,
+
+34:22.000 --> 34:24.000
+ela que... o pai, geralmente
+
+34:24.000 --> 34:26.000
+o pai não consegue cuidar de todos os
+
+34:26.000 --> 34:28.000
+filhos. Um dos conceitos
+
+34:28.000 --> 34:30.000
+de ser placa mãe, é que, por exemplo,
+
+34:30.000 --> 34:32.000
+o pai não consegue
+
+34:32.000 --> 34:34.000
+conter todos os filhos, não consegue
+
+34:34.000 --> 34:36.000
+cuidar de todos os filhos. Às vezes, ele rapidinho
+
+34:36.000 --> 34:38.000
+estresse e tal, não quer nem saber. Agora, a mãe
+
+34:38.000 --> 34:40.000
+não, a mãe sempre... é igual a
+
+34:40.000 --> 34:42.000
+que ela é ditada, é coração de mãe, que sempre cabe mais um.
+
+34:42.000 --> 34:44.000
+Então, a placa mãe, ela abriga todos
+
+34:44.000 --> 34:46.000
+os componentes, abriga os slots
+
+34:46.000 --> 34:48.000
+das outras placas, é, a conexão
+
+34:48.000 --> 34:50.000
+com todos os outros placos
+
+34:50.000 --> 34:52.000
+e todos os outros dispositivos
+
+34:52.000 --> 34:54.000
+e é onde que ela abriga o processador, também.
+
+34:54.000 --> 34:56.000
+Então, assim, a placa mãe
+
+34:56.000 --> 34:58.000
+recebe o nome de mãe por causa disso, por causa
+
+34:58.000 --> 35:00.000
+daquela coisa de todo mundo sozinho.
+
+35:00.000 --> 35:02.000
+Querem mais ou menos isso. Ah,
+
+35:02.000 --> 35:04.000
+aqui que é um slot, hein? Pra mim, slot é um
+
+35:04.000 --> 35:06.000
+doidão que tá na esquina, que eu conheci,
+
+35:06.000 --> 35:08.000
+é muito louco. Slot é...
+
+35:08.000 --> 35:10.000
+são entradas
+
+35:10.000 --> 35:12.000
+para modos para expandir a capacidade
+
+35:12.000 --> 35:14.000
+da placa mãe.
+
+35:14.000 --> 35:16.000
+Por exemplo, se você tem uma placa mãe
+
+35:16.000 --> 35:18.000
+e você... antigamente
+
+35:18.000 --> 35:20.000
+você não tinha, por exemplo, a placa mãe
+
+35:20.000 --> 35:22.000
+vinha sem...
+
+35:22.000 --> 35:24.000
+sem comunicação de rede.
+
+35:24.000 --> 35:26.000
+Aí você comprava uma placa de rede, colocava na mãe,
+
+35:26.000 --> 35:28.000
+é a parte de então, ela tinha
+
+35:28.000 --> 35:30.000
+a capacidade de comunicar
+
+35:30.000 --> 35:32.000
+pela rede. A arquitetura
+
+35:32.000 --> 35:34.000
+do computador, ela é baseada na
+
+35:34.000 --> 35:36.000
+arquitetura de Von Neumann.
+
+35:36.000 --> 35:38.000
+Porque Von Neumann criou essa
+
+35:38.000 --> 35:40.000
+arquitetura que é usada até hoje.
+
+35:40.000 --> 35:42.000
+Que ela é caracterizada pela possibilidade
+
+35:42.000 --> 35:44.000
+de uma máquina digital armazenar
+
+35:44.000 --> 35:46.000
+os programas no mesmo espaço
+
+35:46.000 --> 35:48.000
+de memória que os dados. Ou seja, você tem
+
+35:48.000 --> 35:50.000
+ali no HD, ao mesmo tempo que você tem
+
+35:50.000 --> 35:52.000
+seus arquivos, você tem um programa.
+
+35:52.000 --> 35:54.000
+Quando você vê lá alguma coisa, ponto XZ
+
+35:54.000 --> 35:56.000
+quando você tá no Windows, né? Você vê
+
+35:56.000 --> 35:58.000
+alguma coisa, ponto XZ, que lá é um
+
+35:58.000 --> 36:00.000
+programa. Você pode executar, dependendo
+
+36:00.000 --> 36:02.000
+da finalidade do programa, ele vai executar
+
+36:02.000 --> 36:04.000
+o que ele tem que fazer. E essa arquitetura
+
+36:04.000 --> 36:06.000
+ela é dividida
+
+36:06.000 --> 36:08.000
+em alguns tópicos básicos, que é a memória
+
+36:08.000 --> 36:10.000
+que ela...
+
+36:10.000 --> 36:12.000
+a memória do computador
+
+36:12.000 --> 36:14.000
+é no caso falando da memória principal,
+
+36:14.000 --> 36:16.000
+né?
+
+36:16.000 --> 36:18.000
+Que a gente geralmente fala memória RAM.
+
+36:18.000 --> 36:20.000
+Que ela é basicamente assim, ela é
+
+36:20.000 --> 36:22.000
+como se fosse uma mesa de escritório.
+
+36:22.000 --> 36:24.000
+Você tá no escritório,
+
+36:24.000 --> 36:26.000
+aí tem um HD que seria a estante, por exemplo.
+
+36:26.000 --> 36:28.000
+Aí na estante ela é armazendo todos
+
+36:28.000 --> 36:30.000
+os seus livros. Aí você quer letar
+
+36:30.000 --> 36:32.000
+o livro, você vai lá na estante, pega o
+
+36:32.000 --> 36:34.000
+livro e coloca em cima da mesa.
+
+36:34.000 --> 36:36.000
+Aí você precisa de outro livro, você vai lá
+
+36:36.000 --> 36:38.000
+na estante, pega outro livro e deixa o antigo
+
+36:38.000 --> 36:40.000
+em cima da mesa, porque você vai precisar dele
+
+36:40.000 --> 36:42.000
+Então assim, o que você vai deixando na mesa
+
+36:42.000 --> 36:44.000
+seria a mesma coisa que você
+
+36:44.000 --> 36:46.000
+dos programas que estão em execução
+
+36:46.000 --> 36:48.000
+que você vai guardando a memória RAM.
+
+36:48.000 --> 36:50.000
+Que aí você vai trabalhando com ele durante
+
+36:50.000 --> 36:52.000
+o uso do seu computador. A memória RAM
+
+36:52.000 --> 36:54.000
+ela é volátil. Quando você desliga
+
+36:54.000 --> 36:56.000
+o computador, ela
+
+36:56.000 --> 36:58.000
+também perde o seu... tudo
+
+36:58.000 --> 37:00.000
+que tá armazenada dela, some.
+
+37:00.000 --> 37:02.000
+Aí o que tinha no seu computador,
+
+37:02.000 --> 37:04.000
+o que tem no seu HD,
+
+37:04.000 --> 37:06.000
+o HD não é volátil. Então você pode
+
+37:06.000 --> 37:08.000
+desligar, pode tirar o seu HD,
+
+37:08.000 --> 37:10.000
+você vai continuar lá.
+
+37:10.000 --> 37:12.000
+Mas não é aconselho de tirar o HD
+
+37:12.000 --> 37:14.000
+com ele ligado, com o computador ligado.
+
+37:14.000 --> 37:16.000
+Não é aconselho de tirar nenhuma peça do
+
+37:16.000 --> 37:18.000
+computador com o computador ligado.
+
+37:18.000 --> 37:20.000
+É, menos o pedraio, o CD.
+
+37:20.000 --> 37:22.000
+É, mas isso aí são mídias removidas.
+
+37:22.000 --> 37:24.000
+É, desculpa.
+
+37:24.000 --> 37:26.000
+Como o próprio nome já diz, você pode
+
+37:26.000 --> 37:28.000
+remover. Não, mas voltando
+
+37:28.000 --> 37:30.000
+a aquele conceito lá
+
+37:30.000 --> 37:32.000
+da mesa, da estante,
+
+37:32.000 --> 37:34.000
+cara, eu acho interessante,
+
+37:34.000 --> 37:36.000
+tem razão, vou te chamar
+
+37:36.000 --> 37:38.000
+de nunca ter vençado do ângulo desse jeito,
+
+37:38.000 --> 37:40.000
+digo. Ah, desse jeito eu fumei cinco
+
+37:40.000 --> 37:42.000
+dos nojados.
+
+37:42.000 --> 37:44.000
+Pois é.
+
+37:46.000 --> 37:48.000
+Além da memória principal,
+
+37:48.000 --> 37:50.000
+tem também a ULA, que é a unidade
+
+37:50.000 --> 37:52.000
+lógica aritmética,
+
+37:52.000 --> 37:54.000
+que é a unidade que realiza os cálculos.
+
+37:54.000 --> 37:56.000
+Tem a CPU, que é onde
+
+37:56.000 --> 37:58.000
+executa os programas,
+
+37:58.000 --> 38:00.000
+ela processa os programas,
+
+38:00.000 --> 38:02.000
+e tem os registradores.
+
+38:02.000 --> 38:04.000
+Olha, cara, mas como assim,
+
+38:04.000 --> 38:06.000
+pra mim, a CPU é aquela caixa
+
+38:06.000 --> 38:08.000
+toda, que tinha no HD, do lado do
+
+38:08.000 --> 38:10.000
+dentro. Pois é, o grande erro
+
+38:10.000 --> 38:12.000
+do pessoal pensar é que
+
+38:12.000 --> 38:14.000
+a CPU é aquela caixona, que fica
+
+38:14.000 --> 38:16.000
+já no meio do lado, que vem junto
+
+38:16.000 --> 38:18.000
+com o monitor, né. Mas não, que lá
+
+38:18.000 --> 38:20.000
+o gabinete. Dentro do gabinete tem a
+
+38:20.000 --> 38:22.000
+placa mãe, todas essas
+
+38:22.000 --> 38:24.000
+parafernagens que a gente falou, que fica
+
+38:24.000 --> 38:26.000
+lá dentro do gabinete. E a CPU,
+
+38:26.000 --> 38:28.000
+ela é um pedaço
+
+38:28.000 --> 38:30.000
+do processador, sabia disso?
+
+38:30.000 --> 38:32.000
+Não, sabia não.
+
+38:32.000 --> 38:34.000
+Tem gente que pensa,
+
+38:34.000 --> 38:36.000
+quando o pessoal pensa
+
+38:36.000 --> 38:38.000
+que a gente pensar
+
+38:38.000 --> 38:40.000
+errado dizendo que a CPU
+
+38:40.000 --> 38:42.000
+é aquela caixona, tem gente que pensa
+
+38:42.000 --> 38:44.000
+errado pensando que a CPU
+
+38:44.000 --> 38:46.000
+é o processador. Mas não, o processador
+
+38:46.000 --> 38:48.000
+dentro do processador fica a CPU, os
+
+38:48.000 --> 38:50.000
+registradores, a unidade de controle
+
+38:50.000 --> 38:52.000
+e a unidade lógica aritmética.
+
+38:52.000 --> 38:54.000
+Tudo isso fica dentro do processador.
+
+38:54.000 --> 38:56.000
+E você pensa que o processador é daquele
+
+38:56.000 --> 38:58.000
+tamanho, mas você já reparou que dentro do
+
+38:58.000 --> 39:00.000
+processador, quando você tira ele da placa mãe
+
+39:00.000 --> 39:02.000
+com um negócio preto lá no meizinho?
+
+39:02.000 --> 39:04.000
+É, já vi sim. Então, que lá
+
+39:04.000 --> 39:06.000
+apenas o que o lá é o processador.
+
+39:06.000 --> 39:08.000
+Nossa, mesmo?
+
+39:08.000 --> 39:10.000
+Achei que era aquela caixona de todo dia.
+
+39:10.000 --> 39:12.000
+Que lá é o seguinte, é porque
+
+39:12.000 --> 39:14.000
+o processador, ele tem,
+
+39:14.000 --> 39:16.000
+ele precisa de fazer várias comunicações. Como
+
+39:16.000 --> 39:18.000
+ele é o centro da máquina,
+
+39:18.000 --> 39:20.000
+ele precisa de comunicar com a placa
+
+39:20.000 --> 39:22.000
+mãe inteira. Então, ele precisa de
+
+39:22.000 --> 39:24.000
+vários pontos de comunicação. Então,
+
+39:24.000 --> 39:26.000
+por isso que ele é maior, porque
+
+39:26.000 --> 39:28.000
+só aquele bichinho daquele tamanho
+
+39:28.000 --> 39:30.000
+estava para fazer aquele monte de pinim.
+
+39:30.000 --> 39:32.000
+Então, eles estenderam para fazer
+
+39:32.000 --> 39:34.000
+os pinos com um pinim no tocar no outro.
+
+39:34.000 --> 39:36.000
+Então, só para terminar aí,
+
+39:36.000 --> 39:38.000
+a gente falou sobre a memória, né? Sobre a
+
+39:38.000 --> 39:40.000
+ula, que é a unidade lógica aritmética.
+
+39:40.000 --> 39:42.000
+A CPU, que na verdade seria
+
+39:42.000 --> 39:44.000
+o CPU, que é a unidade
+
+39:44.000 --> 39:46.000
+central de processamento, é o CPU.
+
+39:46.000 --> 39:48.000
+Mas eu acho mais legal a sigla inglesa,
+
+39:48.000 --> 39:50.000
+que é a CPU, que seria
+
+39:50.000 --> 39:52.000
+Central Process Unit.
+
+39:52.000 --> 39:54.000
+Tem os registradores, que eu não expliquei
+
+39:54.000 --> 39:56.000
+ainda. Lembra que eu te falei
+
+39:56.000 --> 39:58.000
+no exemplo da mesa do escritório?
+
+39:58.000 --> 40:00.000
+A mesa do escritório,
+
+40:00.000 --> 40:02.000
+imagina você,
+
+40:02.000 --> 40:04.000
+toda hora, você tem que ir lá na estante
+
+40:04.000 --> 40:06.000
+pegar e voltar, e lá na estante
+
+40:06.000 --> 40:08.000
+pegar e voltar, e você vai organizando
+
+40:08.000 --> 40:10.000
+ali na sua mesa, e vai ficando
+
+40:10.000 --> 40:12.000
+cada vez mais complicado de organizar
+
+40:12.000 --> 40:14.000
+seus livros em cima da mesa.
+
+40:14.000 --> 40:16.000
+Acho que eu já estou entendendo.
+
+40:16.000 --> 40:18.000
+Aí, entra o estagiário, né?
+
+40:18.000 --> 40:20.000
+Então, o estagiário,
+
+40:20.000 --> 40:22.000
+na verdade, o estagiário, você pede
+
+40:22.000 --> 40:24.000
+para buscar os livros na memória RAM,
+
+40:24.000 --> 40:26.000
+por exemplo. No caso de estagiário,
+
+40:26.000 --> 40:28.000
+você pediria ele para buscar o livro
+
+40:28.000 --> 40:30.000
+na estante.
+
+40:30.000 --> 40:32.000
+E trazer para você.
+
+40:32.000 --> 40:34.000
+Quem faz esse trabalho de estagiário
+
+40:34.000 --> 40:36.000
+no computador, são os registradores.
+
+40:36.000 --> 40:38.000
+A CPU,
+
+40:38.000 --> 40:40.000
+ela se desenvolveu muito mais rápido que a memória.
+
+40:40.000 --> 40:42.000
+E a memória, inclusive,
+
+40:42.000 --> 40:44.000
+ela é muito mais neta que o CPU.
+
+40:44.000 --> 40:46.000
+Então, às vezes, acontece do CPU ficar
+
+40:46.000 --> 40:48.000
+ocioso. Então, o que o pessoal fez?
+
+40:48.000 --> 40:50.000
+Fez a memória cache,
+
+40:50.000 --> 40:52.000
+que é uma memória rápida e
+
+40:52.000 --> 40:54.000
+mais olátil. E fez
+
+40:54.000 --> 40:56.000
+registradores.
+
+40:56.000 --> 40:58.000
+Esses dois são memórias
+
+40:58.000 --> 41:00.000
+que ficam dentro do registrador, que auxiliam
+
+41:00.000 --> 41:02.000
+a velocidade
+
+41:02.000 --> 41:04.000
+de tráfico entre a memória RAM e o processador.
+
+41:04.000 --> 41:06.000
+Para facilitar para o processador
+
+41:06.000 --> 41:08.000
+ficar cada vez menos tempo
+
+41:08.000 --> 41:10.000
+ocioso.
+
+41:10.000 --> 41:12.000
+Quando você liga para...
+
+41:12.000 --> 41:14.000
+Então, é como se fizesse duas pessoas, né?
+
+41:14.000 --> 41:16.000
+Eu fico perto
+
+41:16.000 --> 41:18.000
+da estante uns 10 metros,
+
+41:18.000 --> 41:20.000
+em vez de uma pessoa pegar
+
+41:20.000 --> 41:22.000
+o livro e levar na minha estante,
+
+41:22.000 --> 41:24.000
+aí tem duas pessoas.
+
+41:24.000 --> 41:26.000
+Passa uma, passa para outra.
+
+41:26.000 --> 41:28.000
+É, seria mais ou menos isso mesmo.
+
+41:28.000 --> 41:30.000
+Aí o registrador, só para você ter uma ideia,
+
+41:30.000 --> 41:32.000
+ilustrar melhor o registrador.
+
+41:32.000 --> 41:34.000
+Quando você, por exemplo,
+
+41:34.000 --> 41:36.000
+alguém te liga e fala, só liga para fulano.
+
+41:36.000 --> 41:38.000
+Aí você vai e fala,
+
+41:38.000 --> 41:40.000
+qual que é o número?
+
+41:40.000 --> 41:42.000
+Aí a pessoa fala, tá o número.
+
+41:42.000 --> 41:44.000
+Aí você está armazendo o número e liga para a pessoa.
+
+41:44.000 --> 41:46.000
+Quando está chamando a ligação,
+
+41:46.000 --> 41:48.000
+você já esqueceu um, né?
+
+41:48.000 --> 41:50.000
+Daí na hora.
+
+41:50.000 --> 41:52.000
+Então, quer dizer que seu registrador
+
+41:52.000 --> 41:54.000
+está estragado, que você não consegue
+
+41:54.000 --> 41:56.000
+armazenar nem por um pouco tempo.
+
+41:56.000 --> 41:58.000
+Mas o registrador do nosso cérebro
+
+41:58.000 --> 42:00.000
+é bastante parecido
+
+42:00.000 --> 42:02.000
+com o registrador do computador.
+
+42:02.000 --> 42:04.000
+Você armazena
+
+42:04.000 --> 42:06.000
+por uma quantidade de tempo muito pequena,
+
+42:06.000 --> 42:08.000
+porém essa memória é muito rápida.
+
+42:08.000 --> 42:10.000
+Você está lembrando de todo o tempo que o número é aquele.
+
+42:10.000 --> 42:12.000
+Você lembra na hora,
+
+42:12.000 --> 42:14.000
+mas também você esquece rapidamente.
+
+42:14.000 --> 42:16.000
+É assim que funciona o registrador.
+
+42:16.000 --> 42:18.000
+Então, quer dizer que os peixes são até registrados.
+
+42:18.000 --> 42:20.000
+Só não tem um cérebro de memórias.
+
+42:20.000 --> 42:22.000
+Dizem que o peixe esquece na mesma hora, né?
+
+42:22.000 --> 42:24.000
+Então,
+
+42:24.000 --> 42:26.000
+e agora...
+
+42:26.000 --> 42:28.000
+Você é piada.
+
+42:32.000 --> 42:34.000
+Agora, a unidade de controle.
+
+42:34.000 --> 42:36.000
+A unidade de controle é você
+
+42:36.000 --> 42:38.000
+no exemplo
+
+42:38.000 --> 42:40.000
+do escritório.
+
+42:40.000 --> 42:42.000
+Porque você mandou o estagiário lá
+
+42:42.000 --> 42:44.000
+pegar o livro, você mandou
+
+42:44.000 --> 42:46.000
+você manda
+
+42:46.000 --> 42:48.000
+pegar as coisas na memória
+
+42:48.000 --> 42:50.000
+na mesa e tal.
+
+42:50.000 --> 42:52.000
+Então, você está mandando, cada um fazer uma coisa
+
+42:52.000 --> 42:54.000
+e tal, faz isso, faz aquilo.
+
+42:54.000 --> 42:56.000
+Ou seja, você está controlando a sequência de execuções.
+
+42:56.000 --> 42:58.000
+E é a mesma coisa.
+
+42:58.000 --> 43:00.000
+A unidade de controle, ela faz no processador.
+
+43:00.000 --> 43:02.000
+Ela controla a sequência de execuções.
+
+43:02.000 --> 43:04.000
+Então, é isso que é a função.
+
+43:04.000 --> 43:06.000
+Por exemplo, para como se fosse uma pessoa do meio, né?
+
+43:06.000 --> 43:08.000
+Até chegar no mim.
+
+43:08.000 --> 43:10.000
+Ele vira e fica sublimitar, certo?
+
+43:10.000 --> 43:12.000
+Não, ele é você mesmo.
+
+43:12.000 --> 43:14.000
+Ele controla, por exemplo.
+
+43:14.000 --> 43:16.000
+Chega uma instrução
+
+43:16.000 --> 43:18.000
+no processador.
+
+43:18.000 --> 43:20.000
+Aí você faz...
+
+43:20.000 --> 43:22.000
+Não, esse...
+
+43:22.000 --> 43:24.000
+Por exemplo, esse livro que eu não vou ler ele agora,
+
+43:24.000 --> 43:26.000
+eu vou ler... eu preciso ler o outro.
+
+43:26.000 --> 43:28.000
+Não, agora eu preciso pegar tal livro.
+
+43:28.000 --> 43:30.000
+Não, agora eu tenho que voltar naquele livro.
+
+43:30.000 --> 43:32.000
+Não, agora eu preciso fazer aquilo.
+
+43:32.000 --> 43:34.000
+Não, agora eu não posso ler o livro nenhum.
+
+43:34.000 --> 43:36.000
+Agora eu tenho que fazer uns pontos.
+
+43:36.000 --> 43:38.000
+Não, agora eu vou anotar.
+
+43:38.000 --> 43:40.000
+Então, você está controlando a sequência
+
+43:40.000 --> 43:42.000
+o básico da arquitetura de convívio.
+
+43:42.000 --> 43:44.000
+E o processador
+
+43:44.000 --> 43:46.000
+é a parte que fica CPUs, registradores
+
+43:46.000 --> 43:48.000
+a unidade de controle
+
+43:48.000 --> 43:50.000
+e a unidade lógica.
+
+43:50.000 --> 43:52.000
+É lítimética e é o cérebro do computador.
+
+43:52.000 --> 43:54.000
+Aí você lembra do estagiário?
+
+43:54.000 --> 43:56.000
+Ou seja, eu fui estagiar no bom tempo.
+
+43:56.000 --> 43:58.000
+Então, esse estagiário...
+
+43:58.000 --> 44:00.000
+Tem outro estagiário.
+
+44:00.000 --> 44:02.000
+Sabe aquele estagiário que você vai lá
+
+44:02.000 --> 44:04.000
+e chama o fulano.
+
+44:04.000 --> 44:06.000
+Não, a visa para o fulano faz isso.
+
+44:06.000 --> 44:08.000
+Não, faz o cara que
+
+44:08.000 --> 44:10.000
+você vai lá.
+
+44:10.000 --> 44:12.000
+Então, essa é o chipset.
+
+44:12.000 --> 44:14.000
+No computador também existe.
+
+44:14.000 --> 44:16.000
+Ele se chama chipset.
+
+44:16.000 --> 44:18.000
+Ah, achei que era um boto bom.
+
+44:18.000 --> 44:20.000
+Então, chipset, como o próprio não diz,
+
+44:20.000 --> 44:22.000
+ele é um conjunto de chips.
+
+44:22.000 --> 44:24.000
+Chipset, conjuntos de chips.
+
+44:24.000 --> 44:26.000
+Eles são pequenos processadores
+
+44:26.000 --> 44:28.000
+que fazem trabalhos específicos, por exemplo.
+
+44:28.000 --> 44:30.000
+No computador tem dois chipsets
+
+44:30.000 --> 44:32.000
+base, que é a ponte norte
+
+44:32.000 --> 44:34.000
+e a ponte sul. E a ponte norte
+
+44:34.000 --> 44:36.000
+é o chipset
+
+44:36.000 --> 44:38.000
+que fica mais perto da CPU.
+
+44:38.000 --> 44:40.000
+Ele conecta a CPU
+
+44:40.000 --> 44:42.000
+até a memória principal.
+
+44:42.000 --> 44:44.000
+Ele é o que faz
+
+44:44.000 --> 44:46.000
+aquele trabalho, a ligação
+
+44:46.000 --> 44:48.000
+de levar dados da memória principal
+
+44:48.000 --> 44:50.000
+para a memória cache, por exemplo.
+
+44:50.000 --> 44:52.000
+Ele serve para auxiliar na rapidez
+
+44:52.000 --> 44:54.000
+do processador não ficar
+
+44:54.000 --> 44:56.000
+ocioso, né? Aquela mesma história de sempre.
+
+44:56.000 --> 44:58.000
+E tem a ponte sul, que é a south bright.
+
+44:58.000 --> 45:00.000
+Ela comunica com a north bright,
+
+45:00.000 --> 45:02.000
+que é a ponte norte,
+
+45:02.000 --> 45:04.000
+através do barramento.
+
+45:04.000 --> 45:06.000
+Ela controla o barramento CCI,
+
+45:06.000 --> 45:08.000
+a placa de vídeo onboard,
+
+45:08.000 --> 45:10.000
+o controlador de CD,
+
+45:10.000 --> 45:12.000
+o HD, a porta USB,
+
+45:12.000 --> 45:14.000
+a placa de rede,
+
+45:14.000 --> 45:16.000
+a placa de áudio.
+
+45:16.000 --> 45:18.000
+Vou terminar os fabricantes de chipset,
+
+45:18.000 --> 45:20.000
+mas
+
+45:20.000 --> 45:22.000
+as empresas que fabricam chipsets
+
+45:22.000 --> 45:24.000
+são Intel, AMD, NVIDIA,
+
+45:24.000 --> 45:26.000
+ASSIS e Avia.
+
+45:26.000 --> 45:28.000
+Só um conselho
+
+45:28.000 --> 45:30.000
+para deixar aí como dica.
+
+45:30.000 --> 45:32.000
+É altamente conselhado
+
+45:32.000 --> 45:34.000
+que não comprem chipsets
+
+45:34.000 --> 45:36.000
+nem da ASSIS e nem da Avia.
+
+45:36.000 --> 45:38.000
+Eu, particularmente,
+
+45:38.000 --> 45:40.000
+nunca tive problema, mas muitas pessoas já
+
+45:40.000 --> 45:42.000
+já teve um problema por ter chipset
+
+45:42.000 --> 45:44.000
+dessas empresas, que são de
+
+45:44.000 --> 45:46.000
+uma qualidade mais ruim.
+
+45:46.000 --> 45:48.000
+Podia ter me falado antes.
+
+45:48.000 --> 45:50.000
+Agora você lembra
+
+45:50.000 --> 45:52.000
+daquela história lá
+
+45:52.000 --> 45:54.000
+mais uma vez, falando
+
+45:54.000 --> 45:56.000
+do estagiário
+
+45:56.000 --> 45:58.000
+que pegava o livro,
+
+45:58.000 --> 46:00.000
+você é aonde, aquela coisa toda?
+
+46:00.000 --> 46:02.000
+Não sei, não sei o que tem.
+
+46:02.000 --> 46:04.000
+Aqui lá,
+
+46:04.000 --> 46:06.000
+tem vários níveis para melhorar
+
+46:06.000 --> 46:08.000
+o caminho entre a memória principal
+
+46:08.000 --> 46:10.000
+e a CPU.
+
+46:10.000 --> 46:12.000
+A gente já falou do North Bride,
+
+46:12.000 --> 46:14.000
+da memória cache, do registrador
+
+46:14.000 --> 46:16.000
+e isso tudo está entre
+
+46:16.000 --> 46:18.000
+o processador e a memória principal.
+
+46:18.000 --> 46:20.000
+Agora mais um
+
+46:20.000 --> 46:22.000
+conceito
+
+46:22.000 --> 46:24.000
+a entrar no meio do caminho
+
+46:24.000 --> 46:26.000
+seria o FSB,
+
+46:26.000 --> 46:28.000
+que é o Frontside Bus.
+
+46:28.000 --> 46:30.000
+É o ônibus, né?
+
+46:30.000 --> 46:32.000
+Não.
+
+46:32.000 --> 46:34.000
+O frontside bus é o caminho
+
+46:34.000 --> 46:36.000
+entre a CPU e a ponte Norte.
+
+46:36.000 --> 46:38.000
+Por exemplo, às vezes você vê lá
+
+46:38.000 --> 46:40.000
+a placa Mãe e tal, 1.66MHz,
+
+46:40.000 --> 46:42.000
+1.800MHz,
+
+46:42.000 --> 46:44.000
+que é lá o frontside bus,
+
+46:44.000 --> 46:46.000
+que é a comunicação
+
+46:46.000 --> 46:48.000
+em termos de ciclos.
+
+46:48.000 --> 46:50.000
+Significa que em um segundo
+
+46:50.000 --> 46:52.000
+ele faz 1.666 ciclos.
+
+46:52.000 --> 46:54.000
+Mas aqui, na verdade, não influencia muito
+
+46:54.000 --> 46:56.000
+na velocidade, porque realmente influencia
+
+46:56.000 --> 46:58.000
+os milhões de transferências por segundo,
+
+46:58.000 --> 47:00.000
+que é o MTR.
+
+47:04.000 --> 47:06.000
+Agora para terminar,
+
+47:06.000 --> 47:08.000
+vamos falar de alguns conceitos
+
+47:08.000 --> 47:10.000
+da placa Mãe, né? Como a gente já falou,
+
+47:10.000 --> 47:12.000
+que ela foi criada...
+
+47:12.000 --> 47:14.000
+O conceito de placa Mãe foi criado pelo IBM
+
+47:14.000 --> 47:16.000
+e tal,
+
+47:16.000 --> 47:18.000
+e foi difundido porque a IBM, na época,
+
+47:18.000 --> 47:20.000
+ela abriu o projeto da placa Mãe,
+
+47:20.000 --> 47:22.000
+explicando e tal,
+
+47:22.000 --> 47:24.000
+toda a documentação de como era feita
+
+47:24.000 --> 47:26.000
+na IBM PC. Assim, as outras empresas
+
+47:26.000 --> 47:28.000
+fabricantes de computador pessoal
+
+47:28.000 --> 47:30.000
+pegaram esse modelo e começaram a implementar.
+
+47:30.000 --> 47:32.000
+A placa Mãe é caracterizada
+
+47:32.000 --> 47:34.000
+por ter vários componentes integrados
+
+47:34.000 --> 47:36.000
+e a capacidade
+
+47:36.000 --> 47:38.000
+de expansão, como falei. Então, tem os
+
+47:38.000 --> 47:40.000
+slots lá na placa Mãe,
+
+47:40.000 --> 47:42.000
+e você pode comprar uma placa extra
+
+47:42.000 --> 47:44.000
+com a funcionalidade extra,
+
+47:44.000 --> 47:46.000
+quando é que está lá na placa Mãe, e ela vai saber
+
+47:46.000 --> 47:48.000
+através dos padrões, como falei
+
+47:48.000 --> 47:50.000
+no princípio,
+
+47:50.000 --> 47:52.000
+através dos padrões, você vai ter
+
+47:52.000 --> 47:54.000
+uma capacidade a mais na sua placa Mãe.
+
+47:54.000 --> 47:56.000
+Por exemplo,
+
+47:56.000 --> 47:58.000
+você coloca lá uma placa de vídeo
+
+47:58.000 --> 48:00.000
+de melhor qualidade,
+
+48:00.000 --> 48:02.000
+o vídeo vai conectar
+
+48:02.000 --> 48:04.000
+na placa Mãe,
+
+48:04.000 --> 48:06.000
+e ali ele vai ter as trilhas
+
+48:06.000 --> 48:08.000
+até o CPU.
+
+48:08.000 --> 48:10.000
+A CPU, ela vai mandar os dados
+
+48:10.000 --> 48:12.000
+para a placa de vídeo,
+
+48:12.000 --> 48:14.000
+e a placa de vídeo vai processar a imagem
+
+48:14.000 --> 48:16.000
+e mandar para o monitor.
+
+48:16.000 --> 48:18.000
+É, só que hoje em dia, as posibilidades
+
+48:18.000 --> 48:20.000
+estão melhores por causa da GPU,
+
+48:20.000 --> 48:22.000
+que é o próprio dispositivo de vídeo.
+
+48:22.000 --> 48:24.000
+É, porque o vídeo
+
+48:24.000 --> 48:26.000
+para ele ser processado,
+
+48:26.000 --> 48:28.000
+ele depende muito
+
+48:28.000 --> 48:30.000
+para se processar um vídeo bom
+
+48:30.000 --> 48:32.000
+de boa qualidade, ele depende muito de processamento.
+
+48:32.000 --> 48:34.000
+Então, as placas de vídeo
+
+48:34.000 --> 48:36.000
+você vê as placas de vídeo
+
+48:36.000 --> 48:38.000
+para jogo, por exemplo, tem uma memória RAM
+
+48:38.000 --> 48:40.000
+dedicada só para elas.
+
+48:40.000 --> 48:42.000
+Você vê placa de vídeo com
+
+48:42.000 --> 48:44.000
+802M, 1G,
+
+48:44.000 --> 48:46.000
+memória RAM só para elas.
+
+48:46.000 --> 48:48.000
+Então, a placa de vídeo
+
+48:48.000 --> 48:50.000
+exige muito de hardware.
+
+48:50.000 --> 48:52.000
+Então, o pessoal
+
+48:52.000 --> 48:54.000
+está, principalmente,
+
+48:54.000 --> 48:56.000
+você é mais conhecido pessoal que joga, eu faço um jogo,
+
+48:56.000 --> 48:58.000
+então, não sei se
+
+48:58.000 --> 49:00.000
+falar com detalhes sobre placa de vídeo.
+
+49:00.000 --> 49:02.000
+Mas, assim, placa de vídeo
+
+49:02.000 --> 49:04.000
+geralmente, tem esse
+
+49:04.000 --> 49:06.000
+detalhe aí de
+
+49:06.000 --> 49:08.000
+desempenho que exige muito hardware.
+
+49:08.000 --> 49:10.000
+Então, eles estão desenvolvendo cada vez mais.
+
+49:10.000 --> 49:12.000
+É, se você quiser comprar uma placa
+
+49:12.000 --> 49:14.000
+de vídeo boa, olha principalmente
+
+49:14.000 --> 49:16.000
+a memória dela e a GPU,
+
+49:16.000 --> 49:18.000
+que é o GP
+
+49:18.000 --> 49:20.000
+no português Unidade, de gráficos
+
+49:20.000 --> 49:22.000
+de processamento, aí você
+
+49:22.000 --> 49:24.000
+faz a comparação, aí
+
+49:24.000 --> 49:26.000
+você vai obter o resultado
+
+49:26.000 --> 49:28.000
+da sua placa desejada.
+
+49:28.000 --> 49:30.000
+Então, depende.
+
+49:30.000 --> 49:32.000
+Se você não joga, ou se você joga
+
+49:32.000 --> 49:34.000
+um jogo simples, se você joga só
+
+49:34.000 --> 49:36.000
+Counter Strike, por exemplo, você não precisa
+
+49:36.000 --> 49:38.000
+de uma placa de vídeo boa, você precisa
+
+49:38.000 --> 49:40.000
+de uma placa de vídeo razoável. Agora, se
+
+49:40.000 --> 49:42.000
+você joga lá aqueles jogos mais pesados,
+
+49:42.000 --> 49:44.000
+então, você vai precisar de uma placa
+
+49:44.000 --> 49:46.000
+de vídeo, você tem que levar em conta isso aí também.
+
+49:46.000 --> 49:48.000
+Não adianta nada, você gastar uma grana
+
+49:48.000 --> 49:50.000
+para comprar uma placa de vídeo, que você não vai
+
+49:50.000 --> 49:52.000
+usar todo o recurso dela, vai ter gastado
+
+49:52.000 --> 49:54.000
+dinheiro à toa. É, pesado que ele fala,
+
+49:54.000 --> 49:56.000
+não é pesado de que, não é pesado
+
+49:56.000 --> 49:58.000
+um dado, não. É, em processamento,
+
+49:58.000 --> 50:00.000
+que o jogo pesado, ele vai
+
+50:00.000 --> 50:02.000
+exigir mais hardware para processar a imagem
+
+50:02.000 --> 50:04.000
+do jogo, não é?
+
+50:08.000 --> 50:10.000
+Então, assim, para
+
+50:10.000 --> 50:12.000
+encerrar essa parte da architecture
+
+50:12.000 --> 50:14.000
+a Bills, é bicho
+
+50:14.000 --> 50:16.000
+inútil operando o sistema, coisa assim.
+
+50:16.000 --> 50:18.000
+Tem várias, várias implementáveis
+
+50:18.000 --> 50:20.000
+para essa sigla, de forma engraçada.
+
+50:20.000 --> 50:22.000
+A verdade, que ele é
+
+50:22.000 --> 50:24.000
+o basic input-output
+
+50:24.000 --> 50:26.000
+system, que é o
+
+50:26.000 --> 50:28.000
+software, é burro idiota operando
+
+50:28.000 --> 50:30.000
+o sistema. É, tem
+
+50:30.000 --> 50:32.000
+várias tipos de coisas também. Mas a
+
+50:32.000 --> 50:34.000
+verdade é que é basic input-output
+
+50:34.000 --> 50:36.000
+system, que é o sistema
+
+50:36.000 --> 50:38.000
+básico de entrada e saída. A Bills,
+
+50:38.000 --> 50:40.000
+ela é um software, na verdade,
+
+50:40.000 --> 50:42.000
+que é o primeiro software que existe no
+
+50:42.000 --> 50:44.000
+computador. Ela é um software gravado
+
+50:44.000 --> 50:46.000
+num chip, que é, o chip
+
+50:46.000 --> 50:48.000
+geralmente é EEPROM, que é
+
+50:48.000 --> 50:50.000
+ELETRONICALY ERRAISABLE PROGRAMABLE
+
+50:50.000 --> 50:52.000
+RED ONLY MEMORIES.
+
+50:52.000 --> 50:54.000
+Que é, são memoras,
+
+50:54.000 --> 50:56.000
+somente leitura, mas são
+
+50:56.000 --> 50:58.000
+programáveis, apagáveis, e tudo isso
+
+50:58.000 --> 51:00.000
+é feito eletronicamente.
+
+51:00.000 --> 51:02.000
+É isso que significa a sigla.
+
+51:04.000 --> 51:06.000
+A Bills, ela é responsável pelo
+
+51:06.000 --> 51:08.000
+POST, que é
+
+51:08.000 --> 51:10.000
+ONSELF TEST. Ela auto
+
+51:10.000 --> 51:12.000
+testa, né, no momento de
+
+51:12.000 --> 51:14.000
+ligar, que ela vai testar a memória,
+
+51:14.000 --> 51:16.000
+testar os discos, previstar tudo
+
+51:16.000 --> 51:18.000
+inteiro, e aí ele vai dar
+
+51:18.000 --> 51:20.000
+o boot no sistema, que é
+
+51:20.000 --> 51:22.000
+onde ele dá a carga no
+
+51:22.000 --> 51:24.000
+sistema operacional. E o Spick,
+
+51:24.000 --> 51:26.000
+ele faz parte da Bills, ele é
+
+51:26.000 --> 51:28.000
+um rádio de
+
+51:28.000 --> 51:30.000
+entrada, saída, como é que é?
+
+51:30.000 --> 51:32.000
+Então, o Spick, é aquele
+
+51:32.000 --> 51:34.000
+micro autopalante que tem lá dentro,
+
+51:34.000 --> 51:36.000
+geralmente tem os computadores
+
+51:36.000 --> 51:38.000
+da um PEMP lá, quando
+
+51:38.000 --> 51:40.000
+está tudo ok, né. Então
+
+51:40.000 --> 51:42.000
+quando, por exemplo, porque os
+
+51:42.000 --> 51:44.000
+três, os três
+
+51:44.000 --> 51:46.000
+básicos de um computador, que um
+
+51:46.000 --> 51:48.000
+computador tem que ter para funcionar,
+
+51:48.000 --> 51:50.000
+é a memória RAM,
+
+51:50.000 --> 51:52.000
+o processador, e a
+
+51:52.000 --> 51:54.000
+a placa-mãe, né. Então,
+
+51:54.000 --> 51:56.000
+ele vai ser, se
+
+51:56.000 --> 51:58.000
+tiver faltando um desses três, ele
+
+51:58.000 --> 52:00.000
+vai ficar apitando incessantemente.
+
+52:00.000 --> 52:02.000
+É, uma vez eu
+
+52:02.000 --> 52:04.000
+dormi demais na House,
+
+52:04.000 --> 52:06.000
+eu me derrumei no gênero, achei ele estar
+
+52:06.000 --> 52:08.000
+ficando...
+
+52:08.000 --> 52:10.000
+Então, esse aí acontece, porque, na
+
+52:10.000 --> 52:12.000
+verdade, a Bills, ela
+
+52:12.000 --> 52:14.000
+lança igual, eu falei, né.
+
+52:14.000 --> 52:16.000
+Ele dá a saída desejada
+
+52:16.000 --> 52:18.000
+ou a saída de erro.
+
+52:18.000 --> 52:20.000
+O BIP apitando,
+
+52:20.000 --> 52:22.000
+significa uma saída de erro. Agora,
+
+52:22.000 --> 52:24.000
+ele dá um sinal para a saída,
+
+52:24.000 --> 52:26.000
+porque é interpretado pelo BIP,
+
+52:26.000 --> 52:28.000
+depende do BIP.
+
+52:34.000 --> 52:36.000
+Agora, a gente falou sobre
+
+52:36.000 --> 52:38.000
+todas essas coisas aí e tal,
+
+52:38.000 --> 52:40.000
+uma coisa que eu quero
+
+52:40.000 --> 52:42.000
+desmistificar também, em questão de
+
+52:42.000 --> 52:44.000
+computador. Que pessoa pensa, igual,
+
+52:44.000 --> 52:46.000
+muita gente chega a mim falando assim,
+
+52:46.000 --> 52:48.000
+quando que foi criado o computador?
+
+52:48.000 --> 52:50.000
+E lá na mente deles, eles estão
+
+52:50.000 --> 52:52.000
+imaginando, quando que foi criado, aquele
+
+52:52.000 --> 52:54.000
+bichinho, que tem uma televisão, um
+
+52:54.000 --> 52:56.000
+teclado, um mouse e uma caixa do lado.
+
+52:56.000 --> 52:58.000
+Aqui lá, é um computador
+
+52:58.000 --> 53:00.000
+pessoal, foi um conceito
+
+53:00.000 --> 53:02.000
+criado pela IBM e foi adequado
+
+53:02.000 --> 53:04.000
+pelas empresas, porque seria
+
+53:04.000 --> 53:06.000
+uma melhor distribuição de hardware
+
+53:06.000 --> 53:08.000
+para pessoas comuns
+
+53:08.000 --> 53:10.000
+usarem. Mas, na verdade,
+
+53:10.000 --> 53:12.000
+o computador não é só isso. Por exemplo,
+
+53:12.000 --> 53:14.000
+o seu celular é um computador,
+
+53:14.000 --> 53:16.000
+um chip é um computador,
+
+53:16.000 --> 53:18.000
+uma calculadora é um computador,
+
+53:18.000 --> 53:20.000
+um relógio digital é um computador.
+
+53:20.000 --> 53:22.000
+Tudo que tem um processamento,
+
+53:22.000 --> 53:24.000
+tudo que você envolve
+
+53:24.000 --> 53:26.000
+uma entrada, ele processa,
+
+53:26.000 --> 53:28.000
+se te devolve uma saída, é um computador.
+
+53:28.000 --> 53:30.000
+Ah, mas,
+
+53:30.000 --> 53:32.000
+é como se fosse eu ligar
+
+53:32.000 --> 53:34.000
+no meu computador e falar
+
+53:34.000 --> 53:36.000
+para esse outro problema aqui nas minhas
+
+53:36.000 --> 53:38.000
+finanças, será que você pode
+
+53:38.000 --> 53:40.000
+dar uma olhada aí? Aí,
+
+53:40.000 --> 53:42.000
+depois ele vai lá e fala assim, não, beleza.
+
+53:42.000 --> 53:44.000
+Agora eu te ligo aí,
+
+53:44.000 --> 53:46.000
+vou computar aqui, e agora
+
+53:46.000 --> 53:48.000
+eu te ligo para te dar os resultados.
+
+53:48.000 --> 53:50.000
+O que seria computar? Ele vai
+
+53:50.000 --> 53:52.000
+colocar no computador dele, e o que eu
+
+53:52.000 --> 53:54.000
+falei? Fiquei isso.
+
+53:54.000 --> 53:56.000
+Não fui entender direito. Então, é
+
+53:56.000 --> 53:58.000
+igual, as pessoas falam assim,
+
+53:58.000 --> 54:00.000
+eu vou computar. Não, eu vou computar
+
+54:00.000 --> 54:02.000
+isso aqui, eu preciso de os dados
+
+54:02.000 --> 54:04.000
+computados e tal. O que seria
+
+54:04.000 --> 54:06.000
+os dados computados? É exatamente
+
+54:06.000 --> 54:08.000
+esse conceito, os dados trabalhados,
+
+54:08.000 --> 54:10.000
+dados processados. Você pega
+
+54:10.000 --> 54:12.000
+lá, por exemplo, um
+
+54:12.000 --> 54:14.000
+contador, ele vai pegar o que a
+
+54:14.000 --> 54:16.000
+empresa gastou, que a empresa teve de
+
+54:16.000 --> 54:18.000
+receita, ele vai computar aquilo ali,
+
+54:18.000 --> 54:20.000
+e a saída é, se a empresa
+
+54:20.000 --> 54:22.000
+vai estar ganhando dinheiro,
+
+54:22.000 --> 54:24.000
+se a empresa está dando todo o juízo,
+
+54:24.000 --> 54:26.000
+são essas coisas, são as respostas,
+
+54:26.000 --> 54:28.000
+o cara quer, o que o usuário final
+
+54:28.000 --> 54:30.000
+quer, o usuário final sendo o
+
+54:30.000 --> 54:32.000
+empresário. Você quer saber se a empresa
+
+54:32.000 --> 54:34.000
+dele está dando lucro, está dando juízo,
+
+54:34.000 --> 54:36.000
+a empresa dele vai morrer ou não. Então, ele
+
+54:36.000 --> 54:38.000
+vai computar esses dados, que são os
+
+54:38.000 --> 54:40.000
+dados, o que são os dados, o que que a
+
+54:40.000 --> 54:42.000
+empresa vendeu, o que que a empresa comprou,
+
+54:42.000 --> 54:44.000
+o que que ela paga para funcionar, o que que
+
+54:44.000 --> 54:46.000
+ela teve de despesa, o que que ela teve de
+
+54:46.000 --> 54:48.000
+ganho. E ele vai computar esses dados,
+
+54:48.000 --> 54:50.000
+e vai retornar a resposta para o
+
+54:50.000 --> 54:52.000
+empresário. Ele vai saber se a empresa
+
+54:52.000 --> 54:54.000
+dele foi superávit ou se foi déficit.
+
+54:54.000 --> 54:56.000
+Ele vai pegar os dados, guardar no papel
+
+54:56.000 --> 54:58.000
+e passar informação
+
+54:58.000 --> 55:00.000
+para mim, igualzinho o computador
+
+55:00.000 --> 55:02.000
+faz. Só que
+
+55:02.000 --> 55:04.000
+ele não é computador, ele é uma pessoa,
+
+55:04.000 --> 55:06.000
+ele vai pegar os dados que recebeu
+
+55:06.000 --> 55:08.000
+processar e jogar
+
+55:08.000 --> 55:10.000
+para fora, que no caso é falar para mim.
+
+55:10.000 --> 55:12.000
+É igual eu falei, a arquitetura
+
+55:12.000 --> 55:14.000
+de Von Nielmann, e a
+
+55:14.000 --> 55:16.000
+arquitetura do computador em si,
+
+55:16.000 --> 55:18.000
+ela está presente no mundo
+
+55:18.000 --> 55:20.000
+inteiro, em tudo quanto é lugar.
+
+55:20.000 --> 55:22.000
+Hoje, se você, por exemplo, quando você
+
+55:22.000 --> 55:24.000
+é um empresarador no carro, ele gira
+
+55:24.000 --> 55:26.000
+o motor mais rápido.
+
+55:26.000 --> 55:28.000
+Ele teve uma ação,
+
+55:28.000 --> 55:30.000
+ele processou o que que você estava querendo
+
+55:30.000 --> 55:32.000
+e devolveu o que você quis.
+
+55:32.000 --> 55:34.000
+Tudo isso, todo
+
+55:34.000 --> 55:36.000
+todo a máquina, tudo que foi
+
+55:36.000 --> 55:38.000
+criado de tecnologia pelo homem,
+
+55:38.000 --> 55:40.000
+ele tem esse conselho de entrar e de dar
+
+55:40.000 --> 55:42.000
+processamento e saída.
+
+55:42.000 --> 55:44.000
+E tudo que você vê que é
+
+55:44.000 --> 55:46.000
+que tem esse comportamento, que
+
+55:46.000 --> 55:48.000
+tem um processamento digital,
+
+55:48.000 --> 55:50.000
+ele é um computador. Por isso que
+
+55:50.000 --> 55:52.000
+às vezes você fala assim, é um computador de
+
+55:52.000 --> 55:54.000
+board num carro, você já imagina um
+
+55:54.000 --> 55:56.000
+notebook grudado no painel
+
+55:56.000 --> 55:58.000
+ali, mas não é assim, funciona?
+
+55:58.000 --> 56:00.000
+Eu pensava isso, pois é, então,
+
+56:00.000 --> 56:02.000
+não é assim funcionando. Então é isso aí,
+
+56:02.000 --> 56:04.000
+eu queria deixar para vocês.
+
+56:10.000 --> 56:12.000
+É isso aí pessoal,
+
+56:12.000 --> 56:14.000
+muito obrigado por
+
+56:14.000 --> 56:16.000
+ouvirem o nosso podcast,
+
+56:16.000 --> 56:18.000
+está chegando ao fim mais uma vez,
+
+56:18.000 --> 56:20.000
+o Sebastião Hellsson não pôde participar
+
+56:20.000 --> 56:22.000
+dessa gravação, gravamos
+
+56:22.000 --> 56:24.000
+eu e o João Felipe, o alemão
+
+56:24.000 --> 56:26.000
+que é o nosso colaborador
+
+56:26.000 --> 56:28.000
+que estamos aí, talvez vamos ser
+
+56:28.000 --> 56:30.000
+mais alguns colaboradores para o trigo de C.I.
+
+56:30.000 --> 56:32.000
+Estamos tentando
+
+56:32.000 --> 56:34.000
+ver de qual que é aí
+
+56:34.000 --> 56:36.000
+para a gente melhorar o nosso
+
+56:36.000 --> 56:38.000
+conteúdo para que
+
+56:38.000 --> 56:40.000
+agradar vocês, que são os nossos ouvintes
+
+56:40.000 --> 56:42.000
+e as pessoas que acessam o nosso blog.
+
+56:42.000 --> 56:44.000
+Então a gente está visando
+
+56:44.000 --> 56:46.000
+melhorar para vocês.
+
+56:46.000 --> 56:48.000
+Sim pessoal, eu queria agradecer
+
+56:48.000 --> 56:50.000
+o Shodownled pela oportunidade de
+
+56:50.000 --> 56:52.000
+gravar esse podcast com ele
+
+56:52.000 --> 56:54.000
+e infelizmente o Sebastião Hellsson não pôde
+
+56:54.000 --> 56:56.000
+mandar um abraço para ele aí.
+
+56:56.000 --> 56:58.000
+Queria mandar um abraço para o meu mano
+
+56:58.000 --> 57:00.000
+Slot aí, beleza?
+
+57:00.000 --> 57:02.000
+Que que é Slot?
+
+57:02.000 --> 57:04.000
+O mano de 10 que nem que eu conheço
+
+57:04.000 --> 57:06.000
+de 10 Slot
+
+57:08.000 --> 57:10.000
+E também, eu ver se
+
+57:10.000 --> 57:12.000
+você não toma o microfone de mim, eu quero fazer a propaganda
+
+57:12.000 --> 57:14.000
+do meu blog. Acessa lá, alemão.tk
+
+57:14.000 --> 57:16.000
+Falou. O cara está fazendo
+
+57:16.000 --> 57:18.000
+mexandais aqui, mas pode pagar, hein?
+
+57:18.000 --> 57:20.000
+Então esse aí pessoal,
+
+57:20.000 --> 57:22.000
+a gente vai lembrar mais uma vez
+
+57:22.000 --> 57:24.000
+o pessoal mandar e-mail, reclamação,
+
+57:24.000 --> 57:26.000
+sugestão. A gente
+
+57:26.000 --> 57:28.000
+sugere
+
+57:28.000 --> 57:30.000
+os nossos assuntos a ser falados, os podcasts
+
+57:30.000 --> 57:32.000
+mas vocês podem também sugerir.
+
+57:32.000 --> 57:34.000
+Fazer, ah, podia falar sobre isso,
+
+57:34.000 --> 57:36.000
+ah, podia falar sobre aquilo. Se ninguém falar
+
+57:36.000 --> 57:38.000
+nada a gente vai fazer do jeito que a gente pensa, né?
+
+57:38.000 --> 57:40.000
+Mas assim, a gente quer que é interatividade.
+
+57:40.000 --> 57:42.000
+É para isso que existe a
+
+57:42.000 --> 57:44.000
+internet. Que a internet, ela é uma
+
+57:44.000 --> 57:46.000
+linha de mão duplo. A gente
+
+57:46.000 --> 57:48.000
+fala, mas também quer a resposta de vocês.
+
+57:48.000 --> 57:50.000
+Queria lembrar vocês, a gente
+
+57:50.000 --> 57:52.000
+tem um e-mail, né?
+
+57:52.000 --> 57:54.000
+podcastarobotriboci.net
+
+57:54.000 --> 57:56.000
+tem o tribo de C.I. Arrobogemail.com
+
+57:56.000 --> 57:58.000
+Se vocês quiserem mandar e-mail de voz
+
+57:58.000 --> 58:00.000
+a gente põe aqui também. A gente
+
+58:00.000 --> 58:02.000
+vai tentar falar no próximo podcast
+
+58:02.000 --> 58:04.000
+já vou deixar assim para vocês
+
+58:04.000 --> 58:06.000
+sobre redes. Nós estamos
+
+58:06.000 --> 58:08.000
+tendo aí contatos com
+
+58:08.000 --> 58:10.000
+algumas pessoas pra gravar
+
+58:10.000 --> 58:12.000
+no podcast, mais convidados aí também
+
+58:12.000 --> 58:14.000
+e espero que vocês fiquem sempre
+
+58:14.000 --> 58:16.000
+ligados na tribo de C.I.
+
+58:16.000 --> 58:18.000
+e nos novidades.
+
+58:18.000 --> 58:20.000
+Então, falou pessoal, muito obrigado
+
+58:20.000 --> 58:22.000
+até a próxima.
+
+58:34.000 --> 58:36.000
+Parte teórica e ideológica.
+
+58:36.000 --> 58:38.000
+Introdução.
+
+58:38.000 --> 58:40.000
+Parte teórica e ideológica.
+
+58:40.000 --> 58:42.000
+Introdução.
+
+58:42.000 --> 58:44.000
+Parte teórica e ideológica.
+
+58:44.000 --> 58:46.000
+Introdução.
+
+58:46.000 --> 58:48.000
+Parte teórica e ideológica.
+
+58:48.000 --> 58:50.000
+Introdução.
+
+58:50.000 --> 58:52.000
+Parte teórica e ideológica.
+
+58:52.000 --> 58:54.000
+Então tem que comprar um...
+
+58:54.000 --> 58:56.000
+Aí pessoal, vamos juntar um
+
+58:56.000 --> 58:58.000
+engenheiro e abrir uma doação
+
+58:58.000 --> 59:00.000
+para pagar um
+
+59:00.000 --> 59:02.000
+um final de jogo para a pessoal
+
+59:02.000 --> 59:04.000
+da tribo de C.I.
+

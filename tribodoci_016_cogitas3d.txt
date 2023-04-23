@@ -1,0 +1,1573 @@
+E aí, deixa eu falar uma coisa. Quem fazia natação aí?
+Era eu aqui, seu machão.
+Então, aí eu tinha pensado na piadinha pra te falar, mas a gente não era íntimo ainda?
+Não, pode falar que a gente é...
+Não, que é assim, que o pessoal fala, via sua cara e falava que você não fazia natação.
+Você devia ser um torneiro, né?
+É, torneiro mecânico, alguma coisa assim.
+Ó, não tem graça, tá? Mas eu pensei assim, quem vê cara, não vê natação.
+Episódio 16, entrevista com Cicero Moraes.
+Cicero Moraes é um artista 3D e militante do software livre.
+Sendo assim, a gente dá sequência a uma série de entrevistas com artistas visuais que trabalham com software livre no seu dia a dia.
+Uma grande reunião do destino, já que a gente tem flertado com o pessoal do podcast Papo Acessível,
+que é um programa apresentado, produzido, publicado por deficientes visuais.
+Pessoas totalmente cegas ou com baixa visão.
+Não importa porque a entrevista não é sobre artes visuais, e sim sobre o profissional,
+como se fosse o coração da voz, lá do Radifobia,
+com a diferença que a gente fala com pessoas que trabalham com software livre no seu dia a dia.
+Vamos lá para a entrevista que teve também o alemão que me ajudou,
+e no finalzinho eu volto com os recadinhos e agradecimentos.
+Só lembrando que essa entrevista foi gravada há pelo menos dois anos,
+então a gente está publicando no finalzinho de 2013.
+Vamos lá então para a entrevista. Um abraço.
+Você falou que era autodidato, assim, como você começou a estudar sozinho,
+como você iniciou sua área de 3D, né?
+Como você conhecia o software livre, se você já começou a trabalhar com software livre?
+Primeiro que eu comecei a trabalhar na área grave, eu sempre desenhei,
+e eu havia dito pra vocês que minha mãe deu uma super força mentindo e falando que os desenhos eram bonitos.
+Toda mãe fala isso, é igual a mãe nunca fala que você é feita.
+Ela não se contentou em mentir dizendo que era bonito e falou que eu desenhava bem também.
+Só que eu não consegui cara de moça.
+Aí eu comecei a trabalhar com tablana, eu fazia muito desenho,
+e a mãe também, além de ela mentir essas coisas, ela foi encher o saco do pessoal
+que tem uma empresa de desenho arquitetônico aqui na cidade,
+que a cidade não tinha escola de desenho e o que havia de mais próximo ao que eu fazia
+era justamente desenhos arquitetônicos de pré-visualização de obus.
+E eu comecei a trabalhar na área como eu aprendi muito cedo, lá pelos 11, 12 anos.
+Começou essa...
+Quando foi isso? Quem... a gente não sabe sua idade.
+95 por aí, 94.
+Ah, tá.
+Era realmente muito novo e não tinha essa coisa da pessoa de menor trabalhar, era fora da lei, né?
+Até a lei aqui na cidade não havia chegado, não tinha fim de capé.
+Mas era arte conceitual ou era tipo a planta baixa?
+Então, porque inicialmente era para fazer só parte do desenho mesmo da pré-visualização.
+Só que aí o pessoal começou a jogar as plantas baixas para desenhar, comecei a desenhar também.
+E veio a informática lá por 96, 97, que se tornou uma coisa mais popular.
+Eu fiz um curso e o sonho de todo mundo que começa isso da informática
+e trabalha com uma área é tentar levar aquela área que ele trabalha manualmente
+e todas as facilidades da informática.
+Porque no tempo que eu desenhava, tinha que desenhar com caneta banquinha
+e havia muito problema de você errar o desenho e ter que apagar ele.
+E para apagar a gente fazia o desenho num papel chamado papel digital.
+Para apagar, tinha que passar gilete, lânei de ar.
+E muitas vezes comprometia a qualidade do desenho.
+Então meu sonho era passar logo com o computador,
+porque o computador tinha uma coisa que o desenho manual não tinha.
+Você poder voltar, poder apagar, poder desenhar em cima do que você já tinha desenhado.
+Eu comecei a ir atrás disso e o internet ainda não estava popular.
+Ou você comprava ali, que não era meu caso, que não tinha dinheiro, era do.
+Ou você comprava um CD, que era muito mais acessível
+e tinha um conteúdo maior de informação em relação aos livros.
+Tinha as vídeo-aulas, tinha uma coisa meio escrita assim,
+não complementava o outro.
+E eu aprendi por lá.
+Depois que veio a internet, eu comecei a estudar pela internet
+e comecei a assistir tectoriais e assim foi.
+O fato de trabalhar com o 3D veio depois,
+complementando a segunda parte,
+a parte de trabalhar com o 3D,
+veio depois que foi quando o 3D Studio Max 2 foi lançado,
+dois ou três.
+Comecei a também a aprender ele por CD,
+depois por fóruns da internet,
+só que eu não gostava de trabalhar com ele que tinha que pagar
+e não o fato de ter que pagar.
+Se eu tivesse dinheiro, ficaria sem problemas nenhum.
+Mas era um problema pirata, não tinha condições de comprar
+e eu fiquei sabendo do Linux.
+Não entendia direito o que era,
+o pessoal sempre pergunta se sabia o que era o pensor,
+se eu não sabia.
+Naquela época para mim, lá por 2003,
+eu imaginava que o que mais me chamava o pensor
+era o fato de ser barato, de ser barato não, de ser gratuito.
+Mas eu comecei a trabalhar, comecei a gostar
+e como também eu sempre falo com o pessoal,
+quando você entra numa comunidade
+que envolve um programa o pensor,
+você está me sentindo meio que na família,
+uma família, uma pessoa ajuda o outro,
+a pessoa que faz parte do programa
+é o cara que conversa contigo lá no fórum,
+você pode de repente dar uma ideia para ele,
+ele vai odiar,
+você tem essa possibilidade de trocar informação.
+Um artista que é um super artista
+que você dificilmente teria contato num programa fechado,
+não que isso seja um tomor,
+um problema dos programas fechados,
+mas é muito difícil você ter acesso.
+E já no mundo do pensor,
+é impressionante a proximidade que você tem com as pessoas
+que fazem parte de toda a cadeia de desenvolvimento do programa,
+isso é muito legal.
+Mas assim, você começou a mexer com um 3D,
+a tentar aprender isso por hobby
+ou porque lá nonde você começou a trabalhar,
+eles começaram a exigir isso de você?
+Então, na verdade, foi a mesma situação
+que me levou a trabalhar com o computador no começo.
+Com o que acontecia?
+Eu errava um desenho manual, tinha que apagar,
+às vezes comprometi o desenho todo, tinha que desenhar tudo de novo.
+No computador, você podia apagar, podia voltar,
+podia imprimir em uma escala maior, em uma escala menor,
+era muita flexibilidade.
+Depois que você trabalha com planta baixa,
+falando em 2D,
+o pessoal começa meio que de cobrar o mercado cobra mesmo,
+que você oferece algo a mais,
+algo que seja mais compatível com a realidade,
+ou seja, você faz um 3D,
+com uma renderização fotorealística que eles chamam.
+Eu comecei a estudar também, aos poucos,
+aquela vela história que você tem que conviver com o programa.
+Comecei a conviver, comecei meio que por hobby mesmo,
+não havia uma necessidade muito evidente,
+mas eu já senti que o mercado ia arrumar para esse lado.
+Eu comecei a estudar,
+começou a aparecer várias oportunidades de trabalho,
+não só dar um lucro bacana,
+comecei a trabalhar também como autônomo,
+quando eu já tinha os 17 anos, 16,
+desde esse tempo eu trabalho como autônomo,
+com 3D.
+Sobre o software livre,
+você falou que se interessou,
+justamente porque era de graça,
+e hoje em dia você colabora,
+assim, pelo software livre,
+colabora pelo software que você usa,
+de alguma forma colabora,
+além dos cursos que você dá.
+Sim, com certeza,
+infelizmente não entendo de programação,
+também as pessoas imaginam que você só pode colaborar
+com o software programando.
+Seria interessante que todos programassem,
+mas é muito difícil.
+Então, o que eu posso fazer,
+é falar bem do programa,
+que são realmente programas bons,
+fazer algum material
+para pessoas que estão começando,
+e tentar colocar esses programas no mercado,
+pelo menos aqui da minha cidade.
+Aqui na minha cidade,
+no interior do Mato Grosso,
+eu consegui levar o Blender
+para praticamente todos os produtores
+que dividem o que tem na cidade,
+as agências que fazem o título de produção.
+E além do Blender,
+você acaba levando diretamente outros,
+como o Escape, o Gimp,
+e até o programa que o pessoal usa
+para fazer coisas que não estão atreladas,
+e que são, por exemplo,
+um programa de programação gráfica,
+que é justamente o Switch do escritório.
+Então, eu imagino que isso seja uma coisa positiva,
+mesmo não se tratando de uma ajuda
+com programação,
+mas é uma ajuda
+para fazer que esses programas
+tenham penetração no mercado.
+Sem contar que eu costumo
+comprar também bastante produtos
+distribuídos para esses programas,
+aí pelos sites, livros,
+por exemplo,
+que são apoiados pela Blender Foundation,
+é uma forma de ajudar, modesta,
+mas, enfim,
+toda a forma de ajuda
+eu acho que foi no FliSol,
+ou foi no Fora Ongoiano?
+Foi no Fora Ongoiano, né?
+Foi no FliSol.
+FliSol, certo.
+Você parece estar falando
+que estava aprendendo no Python
+para incrementar as suas animações
+lá dentro do Blender.
+Parece que houve um comentário seu sobre isso.
+Porque eu estava estudando, né?
+Exato, então.
+Eu não posso dizer que o programa,
+porque para mim,
+a pessoa que programa
+é aquela que,
+voltando,
+que havia falado também,
+que convive com esse universo de programação
+que lida com o mercado,
+com todas as variáveis psicológicas,
+sociais,
+técnicas que envolvem o mercado da programação.
+O que eu faço
+é assim,
+existe algumas situações
+que é muito mais fácil
+fazer uma parte do trabalho com programação.
+Por exemplo,
+você tem que fazer um boss
+e tem que colocar árvores no boss.
+O número de árvores que você tem que colocar
+é muito grande.
+E você não pode colocar elas
+com o mesmo tamanho
+e a mesma posição de rotação.
+Foi muito mais fácil você pegar,
+escrever um scriptzinho,
+que distribui uma árvore
+numa área X,
+e que faz essas árvores ter um tamanho
+de 100%, 75%,
+uma rotação que vai de
+259 graus.
+Aí você manda o programa
+rodar isso aleatoriamente.
+É muito mais rápido
+que você pegar e posicionar uma a uma,
+sei lá, mil árvores.
+É muito mais fácil
+você rodar esse scriptzinho.
+Mas é isso.
+A programação que eu conheço,
+que se limita a isso aí.
+Então, como se fosse um macro,
+né?
+Fácilito um pouco.
+É, acredito que sim.
+Mas também o Blender,
+agora essa versão dele,
+tem uma situação muito bacana.
+Em todos os botõezinhos
+da interface,
+todos os comandos que aparecem,
+você colocou o mouse em cima,
+aparece o método.
+Não me engano,
+você chama método,
+hein?
+Programação Oriental de Geo.
+Aparece o método dele.
+E aí você pode simplesmente
+habilar, se você quiser,
+o tontube dentro do programa,
+do Blender,
+e fazer todos os comandos
+escrevendo esse método.
+Aí você consegue automatizar
+tarefas que se fossem
+feito braçais,
+levariam um tempo considerável, né?
+Com certeza.
+Quando eu posso,
+quando eu tenho a oportunidade
+de fazer o passo,
+mas é um pouco difícil
+esses modelares que eu tenho feito,
+eu tenho ido para essa área.
+É mais orjando,
+mais de comercial, mais de coisas
+pedindo,
+então não há necessidade.
+Eu já fiz isso
+em cima do AutoCAD,
+né?
+Programando em VBA.
+Bacana.
+Visual Basic for Applications.
+Legal.
+E sobre você falando lá,
+que ajuda,
+de alguma forma,
+de alguma forma,
+não, você ajuda,
+né?
+No software livre.
+Na disse animação dele.
+Você ajuda dando aula,
+tutoriais, né?
+Explica para a gente
+como você faz isso.
+Os tutoriais que comecei
+a desenvolver
+foram lá por 2005.
+Que eram tutoriais
+de instalação do Blender
+no Corumim.
+Na época,
+eu utilizava o Corumim.
+Instalação do Windows 3D,
+que é um programa
+que faz de modelagem
+por subdivisão.
+Como instalar ele no BED,
+no próprio Corumim,
+também,
+que eu utilizava muito.
+E o pessoal vai gostando
+dos tutoriais,
+conforme você vai fazendo
+uma atividade,
+você quer fazer
+por um longo período de tempo,
+várias vezes,
+você vai melhorando.
+E os tutoriais foram melhorando
+em cima da necessidade
+das pessoas.
+E eu percebi que muita gente
+começou a mexer
+alguns programas
+pelos tutoriais que eu escrevi.
+Surgiu aí a ideia de fazer
+uma postiva do Blender?
+Que fosse uma postiva assim,
+porque o grande problema
+do Blender
+é que as pessoas imaginam
+que vão chegar
+a começar a mexer com ele
+sem recorrer
+a tutorial nenhuma,
+a material nenhuma,
+e vão conseguir fazer
+alguma coisa.
+No entanto que acontece,
+é que as pessoas não conseguem
+nem inserir um círculo
+lá,
+uma esfera.
+E aí,
+eu criava um tutorial
+para iniciantes
+que mal sabe mexer
+com o computador,
+com o sistema profissional.
+Clicando onde deixar a seta
+do mouse,
+quando clicar,
+eu clico com o botão direito,
+o botão esquerdo,
+e fez bastante sucesso
+em uma postiva que eu fiz,
+explicando o Blender básico.
+E a partir daí,
+comecei a fazer outros materiais também.
+Sempre foi esse foco
+de pessoas que estão iniciando.
+E além de pessoas
+que simplesmente tinham lá
+para aprender
+mexer com o Blender
+por hobby,
+começou a ter um número
+grande de pessoas
+que começaram a trabalhar
+com condições profissionais.
+E,
+dentre as pessoas
+com condições profissionais
+que leram o tutorial
+e que efetivamente
+começaram a trabalhar com o Blender,
+felizmente,
+algumas empresas aqui de cidade,
+algumas pessoas
+que trabalham em empresas
+aqui de cidade,
+começaram a mexer
+até acessas culturais,
+mexer com o Blender,
+me chamaram
+para fazer uma espécie
+de consultorize,
+demonstrar o programa.
+Consegui fazer com que o Blender
+se tornasse parte
+do framework das pessoas.
+Eu imagino que a ajuda
+maior que o de própria comunidade
+foram esses culturais
+e esses culturais
+fizeram com que muitas pessoas
+começassem a trabalhar
+com o software livre,
+começassem a contar
+publicações relacionados
+a ele,
+começassem a utilizar
+até ajudar,
+com doações,
+só que aí já é um número
+que eu não tenho,
+um número que eu não tenho
+acesso,
+mas eu não tenho como saber,
+mas imagino que as pessoas
+assim ajudaram assim,
+falando que tem efeito de sucesso,
+doção de sucesso,
+pelo menos o Blender,
+o Gimping, o Skates, o pessoal...
+Tá certo.
+Na latinária de 2011,
+nós fizemos um
+neclestandzinho lá,
+mostrando aplicações
+de software livres
+na área grata.
+E aí o propulso,
+que tinha um monitor de LCD
+bem grande,
+o propulso foi colocar a saída
+do notebook no monitor
+para começar a modelar lá,
+modelar uma face,
+modelar uma residência,
+modelar um caraca,
+um personagemzinho,
+colocar ossos,
+fazer ele se mover.
+E uma coisa que me chamou
+muita atenção
+foi que as pessoas chegavam,
+pessoas da área do software livre
+e perguntavam que programa
+que era aquele.
+E eu imaginava que o Blender,
+por exemplo,
+fosse um programa muito,
+muito, muito popular
+no meio do software livre.
+E não é o que acontece.
+Então é algo para começar,
+a se pensar,
+fazer um marketing mais,
+mais voltado também
+para as pessoas que já trabalham.
+E se tem essa falta de comunicação,
+essa falta de popularidade
+no meio open source,
+no meio software livre.
+Imagina fora, né?
+Tem uma área muito mais ampla.
+Então é isso,
+eu tenho trabalhado mais
+para fazer o Blender ficar,
+se tornar um programa
+bastante popular.
+Quase unânime,
+até, mas,
+nessa área de 3D.
+Tem alguns programas também
+que acho que
+nem de pessoas
+que mexem com modelagem,
+assim, 3D muito tempo,
+conhecem,
+igual a aqueles artigos
+que você publicou ultimamente
+sobre reconstrução forense.
+Então,
+aqui lá é outro caso
+bastante interessante.
+O Invesades
+é um programa
+que você pega
+tomografia computadorizada,
+tem uma extensão própria
+dele chamado Daicon.
+São fatias, né?
+Uma parte determinada do corpo.
+E através desse arquivo
+você consegue reconstituir
+3D aquela parte do corpo.
+Você pode separar pele,
+separar osso,
+ver as respiratórias.
+E, além de ser um programa
+muito poderoso,
+ele é um programa brasileiro,
+foi desenvolvido aqui.
+E pouco a gente já conhece.
+E ele pode ser muito útil.
+Em vários áreas.
+Sim, não só na área da medicina,
+mas também da arqueologia,
+como no caso dessa reconstrução,
+de um pequeno artigo.
+Como também,
+você tem que fazer uma tomografia
+com uma pedra,
+que dentro dessa pedra
+tenha um fosso.
+Em vez de quebrar essa pedra
+para retirar o fosso,
+você pode fazer
+essa tomografia na pedra
+e separar.
+É o que é o fosso,
+a parte do mineral
+que não interessa
+para o parque óbvio.
+Fora isso,
+tem outros softwares
+bem interessantes
+que você pega
+um conjunto de fotos,
+tirar várias fotos
+de vários pontos de pista
+e consegue reconstruir
+isso em uma nuvem de pontos,
+e pode se converter também
+em um objeto 3D,
+que pode ser o rosto da pessoa.
+Pode ser
+no caso da arqueologia,
+de uma alçada,
+no caso de
+construção civil
+de um prédio.
+E assim vai.
+E todos esses
+são softwares livre?
+Algum, assim, roda?
+Não,
+tudo que foi utilizado lá,
+nesse artigo,
+que eu escrevi por último,
+esse trabalho que eu fiz
+de reconstituição,
+é softwares livre.
+E parece que
+as coisas têm de seriado de TV,
+né?
+Eu achei que só tinha isso.
+Se achar softwares livre,
+você sai softwares livre,
+hoje.
+Falou dos projetos
+preiniciantes,
+né?
+A escola também
+que procura
+fazer com que
+essas ferramentas
+sejam, de fato,
+utilizadas no dia a dia, né?
+O CD,
+que eu utilizei
+para iniciar
+a minha caminhada
+no mercado 3D,
+foram desenvolvidos
+para uma escola
+de educação à distância,
+de sempre catarina,
+que durante muito tempo
+foi minha referência,
+que pegava os CDs,
+estudava
+sobre autocarde,
+sobre o TZ Studio de Max,
+e há pouco tempo agora
+tive a honra de ser
+chamado por eles
+e ser convidado
+para fazer
+um curso do Blender,
+o que me alegrou
+porque foi a escola
+que eu aprendi,
+de repente me chamaram
+para fazer um curso
+e o segundo foi que
+pediam para fazer
+um curso sobre o Blender.
+E o que significa?
+O que é uma escola
+de educação à distância,
+conteúdo dela alimentado
+pela necessidade do trabalho?
+O que significa
+uma escola dessa?
+Pedir um curso de Blender,
+significa que tem demanda,
+as pessoas estão procurando,
+as pessoas estão interessadas
+nesse software.
+E é o software livre
+até que, enfim,
+começam a fazer parte
+do mercado de trabalho.
+Foi engraçado
+no episódio anterior,
+a gente ficou o tempo todo,
+esperando o Mozant
+dizer se ele usava o GameP
+se ele utilizava o GameP
+só como um hobby,
+ou se, realmente,
+aquilo lá
+era uma ferramenta de trabalho.
+E para a nossa surpresa,
+o hobby virou
+outras ferramentas.
+O GameP é, de fato,
+uma ferramenta de trabalho
+dele.
+É legal, bacana.
+E depois escuta lá
+o nosso episódio.
+É que, assim, ultimamente,
+eu não fiz nada
+relacionado a entretenimento.
+Eu não tenho assistido sério,
+não tenho...
+Muito raramente assisto a televisão.
+E sério de uma ou outra,
+eu assisto.
+Eu não tenho consumido
+muita coisa, ultimamente,
+de mídia.
+Tenho lido muito artigos,
+né?
+E acaba tomando muito tempo.
+Ou eu leio esse artigo
+ou tenho que trabalhar.
+E o momento que eu tenho
+para curtir a vida,
+eu estou aprendendo coisas novas.
+E, na verdade,
+é uma diversão.
+A pessoa que é nerd,
+ela sabe que
+a vida dela
+é movida a conhecimento,
+a coisas novas.
+Nerd.
+A diversão que você tem
+lendo um artigo,
+muitas vezes,
+é a mesma diversão
+que uma pessoa que não é nerd
+tem assistindo filmes,
+jogando um joguinho.
+Então,
+mas eu prometo que
+você vai assistir
+o programa de vocês hoje.
+Tá desculpado.
+E sobre planta baixa,
+em 2D,
+você ainda faz
+essa parte de arquitetura aí?
+Você faz no blender
+ou usa outro software?
+Tipo aquele
+que é concorrente
+do AutoCard?
+Que é card?
+Então,
+eu não tenho mais
+trabalhado
+com desenho
+de dimensional de plano.
+Porque assim,
+quando você vai fazer
+uma delagem ecretônica,
+que eu também
+já não tenho feito muito,
+mas quando você faz,
+você precisa
+fazer para você a planta.
+Às vezes,
+essa planta vem com
+muitas informações
+que não são necessárias
+para você levantá-la
+em 3D.
+Você tem que apagar
+essas informações
+para poder importar
+no programa
+e levantar a planta
+a partir dele.
+Existe o
+que é card,
+que é um programa
+muito prático,
+que também é o,
+se não me engano,
+LibreCard,
+que tem um forte dele,
+que você pode abrir
+arquivos portados
+do AutoCard,
+que são os XZ,
+você pode abrir
+e fazer
+essas motivações.
+Além de fazer
+planta baixa,
+fazer detalhes,
+escrever,
+colocar as cópias,
+praticamente,
+você faz o AutoCard,
+você pode fazer nele.
+Infelizmente,
+essa área de card,
+ainda,
+não existe um software
+livre,
+que esteja a altura
+no contexto de número de
+ferramento,
+o mercado fechado
+oferece.
+Mas já tem algumas soluções
+que rodam,
+por exemplo,
+no Linux,
+que já é uma espécie
+vitória.
+Se não é um software
+open source,
+pelo menos,
+está rodando no Linux.
+A gente tem que
+também pensar nisso,
+porque,
+pelo menos,
+a curto prazo,
+podem ter uma solução
+open source.
+O importante
+é que pelo menos,
+eles rodem no Linux.
+E aonde que mora a importância
+disso?
+Não mudando um pouco,
+mas não mudando do assunto.
+Se você pegar um filme,
+hoje,
+de computação gráfica 3D,
+que é o que eu assisto,
+e assistir
+os extras,
+o making off do filme,
+por exemplo,
+Madagascar,
+Track 2, 3,
+e olhar
+o pessoal trabalhando,
+quando aparece
+a parte da produção 3D,
+quando eles estão desenvolvendo,
+você vai ver
+que eles estão utilizando
+um Linux.
+Se eu não me engano,
+é o RedHack,
+pela aparente da área de trabalho.
+Então,
+a modelagem,
+a renderização,
+é feita toda no Linux.
+O programa que eles usam
+pra modelar,
+provavelmente,
+não é aberto,
+geralmente,
+é o Maya,
+mas ele está rodando no Linux,
+significa que as pessoas
+estão se voltando,
+pelo menos,
+para utilizar como
+sistema paracional
+base de desenvolvimento.
+Isso já é uma vitória.
+Eu chamo de
+conversão mista isso.
+A gente faz uma conversão mista.
+Você tenta levar a pessoa
+para o software livre,
+parcialmente,
+porque,
+dificilmente,
+ela vai conseguir fazer
+uma mudança.
+É, aquela coisa,
+tanto usando Windows
+dá pra utilizar
+muito o software livre,
+tanto usando o Linux,
+tem muitos sistemas
+proprietários
+que podem se rodar
+no Linux.
+Lembro-me,
+se eu não me engano,
+é uma parceria da DreamWorks
+com a HP.
+Sim, exatamente.
+E proveu
+a utilização
+do Linux
+nesses computadores.
+Se tornou bem mais viável,
+que eles utilizassem o Linux.
+É mais barato,
+mais confiável.
+É isso.
+É só você assistir
+os make-offs,
+pega essas animações
+da DreamWorks,
+e assista o make-off.
+Com certeza,
+vai aparecer um Linux
+mais cedo, mais targary.
+E você sabe
+prazer de
+esse pessoal
+que trabalha com informática,
+né?
+Se reunir,
+é muito comum,
+aqui na cidade,
+a gente se reunir
+entre os nerds
+que trabalham com 3D
+ou essa área de publicidade,
+e ficar assistindo
+o make-off
+e toda hora pausando,
+pra ver qual que é
+o sistema paracional
+que está rodando,
+porque a gente assistiu
+o rango
+do Ray
+e apareceram
+muitas cenas
+que o pessoal estava
+utilizando o Linux,
+deixou a gente
+bastante feliz.
+Falando sobre o filme,
+qual o software
+que você mais usa?
+Você também
+da tutorial
+ou de semina,
+na parte de edição
+de vídeo,
+né?
+Os programas que eu utilizo
+aqui são
+que eu vou fazer um contexto
+geral que mostra
+a suite de desenvolvimento
+que eu uso aqui.
+O sistema paracional
+eu utilizo dois,
+o Debian,
+que é clássico,
+um rodo que é uma maravilha,
+e o Shubun.
+Sempre tem algum
+traizinho
+que no Debian
+dá problema de rodar
+com Shubun com rodo
+que é uma beleza.
+Depois,
+tem o Blender,
+que eu trabalho com
+QCAD
+para importar
+alguma coisa de QXF.
+Trabalho com o Autacity
+para fazer edição de áudio,
+quando eu preciso fazer
+alguma coisa,
+aumentar, diminuir o volume,
+fazer algum efeito de áudio.
+Para fazer edição de vídeo,
+eu uso CabinLive,
+que é um programa formidável,
+porque ele é simples,
+e ao mesmo tempo,
+ele é bastante flexível
+para você fazer
+edição de vídeo.
+E uma série de outros
+programas,
+que são tantas opções
+e boas opções,
+às vezes você utiliza
+um de seis e seis mesmos
+um programa,
+mas ele é essencial
+para você conseguir terminar
+um trabalho.
+E se você não tem
+um programa na hora,
+existem muitas opções,
+que ou você baixa
+um programa que faz tudo
+em opensores,
+ou você baixa fases,
+que capazem de fazer
+uma atividade isolada,
+que fazendo uma composição
+de programas,
+você consegue
+tirar o resultado
+como exemplo.
+Em vez de traprar com Goon,
+que muitas vezes
+para diminuir,
+aumentar imagens,
+eu lanço um modo
+imedimédico,
+que apesar de ele ser
+na linha de comando,
+ele é um programa
+poderoso,
+muito rápido,
+e cresce uma gama
+bastante grande de possibilidades
+que você tem que ter.
+Eu tenho utilizado ele
+para fazer captura
+do desktop.
+Inclusive,
+eu estou criando um novo curso
+por essa escola
+de Santa Catarina,
+que eu estou utilizando
+só em algumas opensores,
+rodando sobre o químicos
+para gerar as videoaulas
+e poder enviar para ele.
+Para fazer a captura,
+porque as pessoas
+reclamam muito,
+não tem um lindos,
+não tem uma saída
+opensores,
+se você é parecido
+com uma fantasia,
+eu tenho utilizado
+o próprio FFmpeg
+para capturar o vídeo.
+Embora eu esteja usando
+Mac,
+eu tenho vários programas
+de opensores
+que eu utilizo também
+para capturar o vídeo.
+Então,
+na verdade,
+eu utilizo o render
+do Blender
+por questão de praticidade.
+Existem render externos,
+mas eu acho um pouco
+prático.
+Você, por exemplo,
+tem que fazer uma alteração
+de material,
+de cor,
+de textura.
+Eu acho muito
+travagoso
+fazer essa alteração
+e mandar renderizar fora.
+Então,
+eu prefiro utilizar
+o próprio render do Blender,
+que agora
+estão desenvolvendo
+os cycles,
+tipo de renderização
+em tempo real.
+Todos os problemas
+praticamente que tinham
+render interno,
+estão sendo resolvidos
+agora
+para você ter uma iluminação
+indireta
+e alguns efeitos
+que você já vê
+o resultado
+em tempo real
+e que todas as coisas
+que faltavam antes
+estão conseguindo suprir.
+Ou seja,
+você vai conseguir
+resolver tudo
+direto no Blender.
+Fugir um pouco de software
+para você fazer isso tudo
+deve ter uma máquina
+bem bruta,
+para você fazer isso tudo.
+Na verdade,
+todo mundo fala que
+quem trabalha com um 3D,
+tem uma máquina bem potente.
+Veja só,
+eu trabalho assim.
+Eu tenho um monitor
+que na verdade
+é uma TV
+e é bom se trabalhar
+com áreas bem grandes
+até porque se tiver algum problema
+no 3D,
+você já vê na hora.
+Eu gosto de trabalhar
+também em Full HD.
+Mas eu não uso
+uma CPU
+daquelas MiniTorre
+que o pessoal falava.
+Não sei se ainda
+tem uma MiniTorre.
+Eu uso um notebook.
+Eu tenho um notebook
+com um Core i5,
+um processador i5,
+uma placa de vídeo
+de 64 mega
+e eu consigo
+trabalhar tranquilamente
+até hoje
+não teve um trabalho
+que eu pensei
+que o computador
+não deu conta.
+Por isso que eu utilizo
+até o Debian
+e alguns trabalhos
+de renderização
+em tempo real,
+edição de vídeo
+em tempo real
+e por cadê
+inclusive
+eu consigo fazer
+esse notebook
+relativamente sim.
+Você vê que
+até na parte de hardware
+os software
+livros
+aproveitar as máquinas
+assim não tão boas,
+economiza recursos.
+Exatamente.
+E isso é uma coisa importante
+que você acaba
+incluindo
+número maior de pessoas.
+Eu imagino que
+para uma ferramenta
+ser boa
+ela precisa ser conhecida
+e ela precisa
+permitir que as pessoas
+utilizem ela,
+incluir as pessoas.
+Por isso que eu escrevo
+bastante um tutorial
+justamente para levar
+o maior número possível
+de pessoas
+a possibilidade
+de eles fazerem algo.
+E não adianta
+existir um programa maravilhoso,
+existir uma solução
+genial
+se as pessoas não têm acesso.
+É importante
+que as pessoas tenham acesso
+e eu não estou aqui
+puxando a brasa
+para sair de software livre.
+Não vou perder
+dizer que ela é melhor
+que tudo,
+que as pessoas que utilizam
+eles são os melhores
+do mundo,
+todo mundo é igual.
+Mas o que eu vim
+no software livre
+me encantou,
+me chama atenção
+e faz-me motivar
+para conseguir o grande
+de pessoas
+sem a necessidade
+de ter que comprar
+um super computador
+ou de expender
+financeiramente
+uma quantia grande
+para adquirir soluções
+que possam ajudar
+essas pessoas
+no dia a dia
+ganhando o dinheiro
+e ou resolvendo
+as coisas que elas precisam
+no programa 5
+de cotidiano
+relacionados entre nós.
+É importante também
+frisar essa parte social
+do software livre.
+Ah, sim.
+Essa parte de inclusão digital
+e a parte da nova
+absorlecência do hardware,
+que é uma coisa
+que pega muito,
+principalmente
+para quem tem pouco recursos.
+Exatamente.
+O legal
+nessa situação
+da absorlecência
+que eu até assisti
+um documentário
+que diz
+absorlecência programada
+vai ser
+um documentário
+que é um documentário
+que é um documentário
+que é um documentário
+que é um documentário
+que é um documentário
+que diz
+absorlecência programada.
+Vários documentários
+foram sobre isso.
+Lá em casa,
+às vezes
+aparece um computador
+do nada
+de algum parente
+que comprou um computador novo
+e não quer mais saber
+do computador mais velho
+e não pego.
+E esses dias
+houve um problema
+no computador do
+meu irmão
+e eu estou ensinando
+uma sobrinha minha
+a trabalhar com 3D.
+Porque ela é bem jovem,
+né?
+E ela,
+oh, tia,
+eu vou fazer 3D,
+me ensino aí e tal.
+E não dá para estalar
+alguns programas
+no computador que ela tinha
+que quebrou
+fazendo V
+e comprometendo o processamento
+e não conseguia fazer nada.
+Então eu estalei
+em Globunto
+e dá para rodar
+inclusive
+alguns programas
+que ela utilizava,
+que eram essenciais para ela,
+rodando sobre o ar.
+Olha só.
+Ou seja, que roda mais rápido
+até no emulador
+que não é o emulador,
+né?
+Do que no sistema
+que era para ser nativo.
+Ela dá conseguida
+para ler 3D,
+tá conseguindo fazer
+as coisas dela,
+sem o temor que tinha
+antes de vir e
+com sobra até de
+fazer o processamento.
+Isso é uma coisa muito bacana.
+E assim,
+às vezes a sobra do processamento
+é que o programa
+necessariamente foi
+um melhor inscrito.
+Mas é que no lino
+que você pode cortar
+aquilo que você não utiliza.
+Em vez de utilizar
+um gerenciador de janelas
+super pesados,
+cheios de efeitos,
+você tem uma opção
+de escolher um que seja simples
+e não tenha efeito nenhum,
+mas que venha
+a suprir a necessidade
+que você tem
+para acessar o programa.
+É, devo perceber
+que você é bem fã
+do XFCN.
+Ah, eu gosto.
+Todas as videoaulas
+que eu acho que
+a maioria é
+XFCN.
+Na verdade,
+eu não uso só ele, né?
+Eu gosto de
+usar aquela nova interface
+do Ubuntu.
+Eu estalei ela e o Uniti
+para ver
+como funciona,
+ver se
+é tão ruim
+que o pessoal está falando.
+Mas tenho me surpreendido.
+Tenho achado bem evoluído,
+sim, bem bacana a ideia deles.
+Eu acho que a família
+é toda, né?
+Agora tem gerenciador
+separado de 3D.
+Não tem o Veve Moraes
+também,
+aquele sobrinho seu.
+Aham.
+Eu estudei com ele,
+sabia?
+Sim, sim, sei.
+Começou a estudar agora, né?
+Já tem quantas pessoas
+já de sua família, tá?
+Não, você falou em família
+e agora eu me lembrei
+que eu estou usando
+o ativuto da minha namorada,
+da minha noiva.
+Não posso falar namorada
+porque você não me mata.
+Eu estou usando um ativuto
+da minha noiva
+e está rodando
+o Chubuntu também, né?
+Tenho o computador da casa dela,
+que está rodando o Chubuntu.
+O computador que está lá em casa,
+que é o desktop,
+também,
+está rodando o Linux.
+Então, pelo menos a minha parte,
+assim, eu tenho feito
+de levar esses 100 pessoas
+facilitando a vida delas
+o máximo possível.
+Esses,
+tem um vídeo que eu achei
+muito interessante
+de vocês que eu assistia
+e que ele mostra
+momentos engraçados
+na minha palestra.
+Ah, sim.
+É o que eu sempre falo.
+Palestra é mais ou menos
+igual uma missa
+e igual um cu.
+As pessoas sentam
+e se você não
+fizer alguma coisa
+que chama atenção,
+elas dormem.
+Como eu não sou
+um líder religioso,
+um sacerdote,
+que pode pedir
+para as pessoas levantar
+e sentar
+e cantar em bater palmas,
+tem que fazer
+alguma coisa que faz
+se elas ficarem acordadas.
+Então,
+é bom dar uma relaxada,
+fazer uma brincadeira e tal,
+mas sempre com o foco
+de passar informação
+e promover software livre,
+principalmente o Brember.
+É verdade.
+Quando eu assisti
+foi muito interessante.
+Sua palestra
+foi bem engraçada.
+Na verdade,
+nem prestei atenção na palestra.
+Só nas piadas.
+Mas você aprendeu o Brember,
+você foi atrás,
+você fez tudo,
+não foi tão cheio.
+Tem algum plano de vim
+aqui de novo no Goiás?
+Cabe, eu tenho sim.
+Eu fiz bons amigos aí,
+pessoas fabulosas,
+tenho contato constante com eles,
+pessoas que vocês
+inclusive devem conhecer
+e estou esperando convite.
+Eu sou o convidor,
+estou indo.
+Infelizmente,
+não posso ir com
+os meus parcos,
+recônios,
+que são uma pessoa rica,
+não tenho disposição
+para fazer esse tipo
+de tour nerd,
+mas se rolar algum evento
+aí,
+o pessoal chamar,
+eu vou de bom gravo.
+Tem um amigão seu aqui,
+que estava lá na palestra,
+até te ajudou
+a passar os slides.
+Como é o nome dele?
+Vou mandar um salto.
+Algo.
+Virgílio?
+Isso, virgílio.
+Aqui não está mais
+em Goiás.
+O Viver lançou um livro,
+um excelente livro
+de animação
+de personagens.
+Eu tive o prazer
+de surfiar um,
+comprei lá,
+quase apanhei,
+comprei ele,
+foi um dos únicos
+que tinha.
+Poxa,
+espero que a Goiânia
+continue rendendo
+bons...
+eu não sei.
+E os planos para o futuro,
+além da aula,
+que está preparando lá
+para a escola?
+Já terminou,
+ou está preparando?
+Estou no meio de um novo curso,
+que é o primeiro que eu fiz
+é um curso mais sim,
+curso básico de Blendo.
+Esses segundos
+já são efeitos visuais,
+sim,
+simulação física,
+simulação de pecidos,
+como fazer cabelo,
+como fazer simulação
+de corpos flexíveis,
+corpos rígidos,
+emborrachados,
+lítidos, etc. e tal.
+Por futuro,
+agora estou estudando
+essa reconstituição forense,
+espero pegar algum trabalho
+no meio de cartologia
+que eu adoro,
+e o negócio é sempre estudar,
+que se você também
+fazer muito plano,
+imaginar que a vida
+é uma família de
+não do Excel,
+mas do Libre Office,
+você não vai ser
+muito feliz não,
+você vai te custar
+bastante.
+Então,
+tem estudado bastante,
+várias áreas,
+e espero que algumas delas
+eu consiga seguir
+e ter excelência nessa área.
+Eu queria agradecer,
+primeiro eu peço desculpas
+aí,
+pelos Trestornos,
+e eu fico muito grato
+pela entrevista.
+Eu também agradeço muito,
+e se você não gostou,
+vai por meio do mato
+cortar a lei.
+Aí eu que agradeço
+vocês pela paciência
+de me ouvir,
+pela ousadia
+de colocar o material
+desse online,
+pelo trabalho que
+vocês têm feito aí
+para a promoção,
+não apenas de
+software Libre
+ou Gráfico,
+mas do próprio
+conhecimento.
+Na verdade,
+o mais importante
+é a gente
+oferecer para as pessoas
+a oportunidade
+de elas conhecerem
+mais áreas,
+e ter mais informação
+acerca do mundo
+que rudei a elas,
+que hoje a gente
+recebe pela mídia
+uma mensagem
+de que importante
+é você ser poderoso
+e ter dinheiro.
+Mas na verdade,
+o importante
+é você ter conhecimento
+e mais do que ter
+conhecimento,
+ser muito grato
+e ser muito feliz
+com o conhecimento
+que você consegue
+construir
+com o seu esforço.
+Isso sim,
+é ser rico,
+isso é ter riqueza
+e ter poder.
+Você já vai,
+assim,
+não vai conseguir
+muita coisa,
+você vai ver o site,
+porque quem quiser
+que acessa os tutoriais,
+o site é
+www.ciceromoraes.com.br,
+tem o canal do YouTube,
+que é
+cogitas3d,
+cogitas com G,
+de gatão,
+ahá,
+lembrando as palavras
+da minha mãe.
+Tem,
+então,
+em o Twitter,
+que é cogitas3d,
+tem o Facebook,
+que é cogitas3d.
+Se você não conseguir
+achar nada,
+ou escreva Cicero Corais
+ou cogitas3d no Google,
+você vai encontrar
+alguma coisa.
+Qualquer coisa,
+só rezar para você também,
+para a distância.
+Chegamos aos créditos de mais um tribo de simpote teste, e agora é o dia em que
+a gente agradece e que vencionou a aula ativa do Serio Twitter ou mandou e-mail ou comentou
+na postagem dos episódios interiores, começando pelo rolê podosférico e o rolê podosférico
+que estivemos... Então, eu não fui convidado a dar nenhum podcast, mas eu fui convidado
+a participar do programa Repórter Cidade da Área de 730 de Goiânia para falar sobre
+Android e iOS. Me sentiu um biacus guardado devido as proporções. O programa foi a 1.0
+e eu tentei obter a gravação no programa, mas teve uma dança de produtor. Eu acabei
+não conseguindo obter a gravação para usar isso posteriormente. Não tivemos e-mails,
+como sempre, mas se você quiser mandar o e-mail, pode mandar para podcastarrobatribudici.net.
+Vamos agora, então, para quem mencionou a rouba, tribo do Serio Twitter. Então, um abraço
+para o Marcos Vinícius, X, Marcos, Sv, tudo junto, Alexandre Costa, o Mago Leixandre
+do podcast de um papo acessível, Daniel, Underline, Azeredo, Rodrigo Soares, o Aroba,
+Rodirijo, o Linux, Aroba Linux Ti, o Ricardo Voz, Júnior, Junim, Underline, RB, o Aroba,
+meu pinguim, o Marisun, o Aroba Mario Hill, Danielo César, Aroba Dan, César, Aroba,
+Culturalizando, Underline, Aroba Rearton, o Robótica Livre, Aroba Kiwin Mobile, Aroba Kiwitec,
+Daniela Castro, 13, Numeral 1-3, o Aroba Layerton Bezerro, John Sandal, no Facebook
+nós passamos de 200 curtias. Infelizmente, não dá para saber o nome da galera, porque
+não tem a listagem lá, só aparece a listagem de quem curtiu e é nosso amigo no Facebook,
+vou ficar devendo a lista de quem curtiu no Facebook. E agora, finalizando os comentários,
+também tivemos o Fernando Escalabrinho também, o papo acessível, o Rafael C.T., que agradeceu
+pelo título, correria até além também de Anderson dos Santos e Eric, que comentaram lá no post
+do último episódio com o Mozart Corp. E eu queria mandar também um abraço para o pessoal
+dos podcastes papo acessível, o que eu já falei no início do episódio, na abertura,
+o Música na Lata, que eu vi o laranja lá no Iupix, que belíssimo, o Troca o Disco,
+e também a Oléu do Saber outro Cast. Um abraço, tem uma boa vida e até o próximo episódio.
+Então, Cicero Moraes trabalha com modelagem 3D e o que mais?
+Olha, trabalha com umas coisas exclusas depois da meia-noite, mas até então com modelagem 3D.
+Pai, eu consegui matar os dois caras só, matando só os dois caras.
+Só os dois caras?
+E os normales.
+Ah, mas aí você zerou de novo?
+Não.
+Toquei.
+Eu não terei mais uma vez.
+Ah, mas eu consegui só matando os dois caras.
+Tá bom.
+E na verdade, sim, você quer aprender alguma coisa, internet, tudo que eu quis pra vocês.
+Você quer aprender a modelar, você aprende, você quer aprender cozinhar, você aprende.
+Se quiser aprender a fazer uma bomba de história quarteirão, você aprende também.
+Essa é a parte positiva da internet.
+A internet não é boa nem ruim, quem é boa ou ruim são as pessoas que...
+Exatamente, exatamente, sim.
+Só assim, porque ficou a capacidade humana de se interrelacionar.
+E o que você vai fazer com isso depende do que você.
+Internet, coisa incrível de eu ensinar.

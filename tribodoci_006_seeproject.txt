@@ -1,0 +1,1478 @@
+Você está ouvindo A Trifúdice Podcast
+Trifúdice e Podcast, episódio 6 para o dia 29 de outubro de 2010
+Meu nome é Sheldon Ledy e esse projeto nos dará a visão além do alcance
+Olá, amancebados da tecnologia
+Aqui é Sebastião Hellsum e a minha entrada é mega original
+Não, não, né?
+Ah, esse é Project People
+Que é isso, rapaz?
+O melhor é ser esse
+Que tem que chamar o pai ali
+E eu sou o alemão, então vamos para as leituras de K-Mails
+O que é isso?
+O que é isso?
+O Marcelo Floria ainda?
+Meu nome é Marcelo Floria, porque a força esteve com boa
+Agora realmente vamos para a leitura de e-mail
+Na verdade nem teve leitura de e-mail, nem teve e-mail
+Todos os feedbacks que a gente recebeu, a gente recebeu pro Twitter
+Pessoal mandou o reply para a tribu do C.I.
+O reply para mim, falando que o áudio melhorou
+Então ficou legal, o que achou um pouco extenso
+Caso, na minha opinião, não veio o e-mail
+Porque os e-mails só vinha o pessoal reclamando
+E agora que ficou bom, o pessoal não reclamou mais
+O que você acha?
+É meio no áudio, né?
+Agora no conteúdo, não posso aproveitar
+É, mas a tribu do C.I. Labs
+Está preparando coisas novas aí para os próximos episódios
+Pique por dentro, assine nosso feed
+Siga no Twitter, o Hellsum alemão, Sheldon Ledy
+Todo mundo no Twitter
+Falar das esterias do Nooks
+Oh, estou ficando importante, rapaz
+Pois é, as tirinhas do Nooks
+Eu comecei a fazer elas em casa
+Eu estava com um escape aberto
+Veio surgindo as ideias
+E acabou virando o que é isso aí
+Agora estou integrado no tribu do C.I.
+Toda quarta-feira
+Também estou participando da revista Espírito Livre
+Você pode acompanhar as tirinhas inéditas
+pelas novas revistas que foram lançadas
+a partir da edição 19
+Então, acesse lá
+Vamos falar do blog sem nome, né?
+O Rafael CT
+Dessa vez eu não vou perder a oportunidade
+de tocar chá nebrau
+É
+Vou te levar
+É, essa aí, é
+Esse aí, o Rafael
+Ele é o editor-chefe do blog sem nome
+Ele está acompanhando o nosso podcast
+Nosso blog
+Já faz um tempinho, ele assistiu a minha palestra
+No Fissol 2010
+E aí eu peguei contato com ele
+Acho que na quarta-feira retrasada
+Eu coloquei uma tirinha que ele fez
+Que foi um crossover do tribu do C.I.
+Do H.K. Nooks
+E do blog sem nome
+Que foi uma tirinha sobre o fato de um C
+Amantes da programação em C
+O Nooks já tem, inclusive, uma arte, né?
+Vamos ser feliz, bola para a frente
+Que atrasem a gente
+Ano que vem vai ser o 2011
+E como está acabando o mundo
+Eu vou colocar bastante coisa nova no tribu do C.I.
+Vocês vão ver e vão gostar
+E vão baixar
+Igual que a musiquinha lá do guana cash, sabe?
+Eu queria fazer um agradecimento
+Fazer aí, pô
+Bom dia, boa tarde, boa noite
+Eu queria fazer um agradecimento aí para a galera do
+Filhos da Pauta Livre
+E retuitar o nosso episódio 5
+Muito maneiro, valeu mesmo
+Pois é, também está seguindo a gente no Twitter
+No Twitter da Tribu C.I. também
+E provavelmente deve ter feito download
+Para retuitar e saber da nossa existência
+Eu acho que deu o vídeo nosso pô de quer
+Abração aí para a galera do Filhos da Pauta Livre
+Alemão, últimas palavras
+Sessenta segundos para você
+Valeu e oportunidade, mais uma vez
+É que eu quero mandar um abraço e vou...
+Para a galera da pizzaria e do pô de sol
+Queísmo!
+Pissaria e o pô de sol conhece
+Tem gastipã na TV, mas a ver
+Tem slot lá, cara
+Tem slot também
+Ah, é
+E também se vocês quiserem acessar todos os astirinhos
+Do Lux, abaixo do podcast
+Vai ter um link
+Eu queria falar que eu vou para Latinué
+2010
+Fóis do Guaçu
+Na Itaipu Bin Nacional
+Então, eu vou para Latinué
+E eu enviei lá umas chamadas
+Submeti umas chamadas de trabalho
+E se eu for palestrago
+Ficar muito empolgado
+Vocês vão ver bilhões de tweets
+No M.C.G
+Vai ter que sofrer e colocar muito feliz
+Vou dar trinta tuitadas por minuto
+De felicidade para estar na Latinué
+Mas não sei se vocês vão aceitar não
+Porque eles são... sei lá
+Esse podcast é um ofrecimento
+Humor digital
+Humor na web
+Vlogging sem nome
+Divinhas do NURS
+E se proje...
+Do Sol
+Latinué 2010
+Business 2011
+Fora um Goiano 2010
+Que vai ser dia 10 e 11 de novembro
+Nós vamos falar mais no próximo podcast
+Que vai ficar mais próximo
+Maxwell Alecá
+Eu vou dar uma dica aqui
+No próximo podcast
+E a gente vai ter a presença do...
+Joelias Jr.
+Mostre organizador de eventos
+De sorte livre em Goiânia
+Então ele vai estar presente no próximo podcast
+Nós vamos falar sobre...
+Eu não vou falar sobre o assunto
+Talvez eu falho em um grupo Twitter
+Ou com um coisinho
+Mas agora não vou falar
+Que vai ser uma semissurpresa
+E o Joelias vai estar presente
+E é isso aí
+Vamos lá
+Nós vamos até em umas
+Gravar o podcast
+Ou não
+Não sei pessoal
+E agora vamos falar do project
+Música
+Então agora vamos falar
+Sobre o C-Project
+Que é o projeto
+Para você ver
+C
+V
+Então se você
+Não conhece o project C-Project
+Então se você não ouviu
+Até agora
+Você vai
+C
+Entendeu?
+Eu vou pensar
+O esse project
+Em inglês
+Então é...
+Primeiro
+Eu não pensei que sei
+Nada sobre o projeto
+Exatamente
+Para me tirar todas as dúvidas
+Aqui no podcast
+Para começar Marcelo
+O que que é o C-Project?
+O C-Project é uma...
+Para começar
+Ele é um projeto
+Ah tá
+O project
+É um projeto
+É isso mesmo?
+Eu vou fazer igual
+Um professor meu
+Que eu estou tendo agora
+Na faculdade lá
+Quem for da minha turma
+E vai reconhecer
+Quando eu falar
+C
+É de ver
+Projeto de projeto
+Então o projeto de ver
+E ele fica traduzindo
+No pé da letra
+Pense que a gente não entende
+Mas deixa eu ver
+É um projeto
+Para ver melhor
+As vezes
+Mas isso na realidade C
+É um crônimo de security environment
+E eu tenho mania de
+Quando colocar nome
+Em alguma coisa
+Colocar um monte de palavra
+Que tem a ver
+E tentar juntar
+E ver se é alguma coisa
+Aí saiu isso
+E acabou ficando
+Deu para registrar
+Domínio
+Esse projeto de ponto net
+Então ficou bom
+Na verdade
+É assim que é um acrônico recursivo
+Que significa
+C
+Snotia
+Interessante
+É que seja um projeto
+Que possa ser bom
+Para a comunidade
+Seria isso
+Mas qual que é o objetivo do projeto?
+Então o objetivo do projeto
+É ser uma plataforma
+Para a gerência de ativos de redes
+Distribuídos
+Então isso quer dizer
+Que em uma rede que você tem
+Mais de um fire
+Mais de um servidor pro
+Mais de serviços
+Vários serviços distribuídos
+A intenção é que você possa
+Compartilhar conhecimento
+Entre esses serviços
+Por isso que o projeto
+Diferência um pouco
+Dos frontends tradicionais
+Que você instala
+Numa máquina e gerência
+Aquele roxo
+Então é diferente nesse sentido
+Arquitetura é diferente
+A parte do frontend
+Mas tem também
+A parte do Midler
+Que você vai distribuir
+No seu servidor
+Se você quer gerenciar e tudo
+Então se eu fosse um cliente
+Eu chegaria a você
+E perguntaria
+Que o sifproj te faria na minha empresa
+Sim
+De forma geral
+De forma bem usuar final
+Assim para a galera entender
+O que o sifproj te faz?
+Então ele vai
+Gerenciar um fire
+E gerenciar regras do speed
+A parte de networking
+Através de uma frontend amigável
+E tudo mais
+A questão é que ele vai
+Fazer isso de maneira distribuída
+Por isso que ele é um pouco diferente
+Do webmin
+Do untangle
+Do perfsense
+E de outros projetos nesse sentido
+Era isso que eu ia perguntar
+Se ele era tipo webmin
+De para aí
+Já que a gente acaba
+Eimos um pouco
+O que funciona
+E a gente queria saber
+Eu tenho várias dúvidas
+Pensou sobre o profeto
+Do Freesoft
+OuмиCoffee
+Do Tab bare
+We wanted to know
+Eu queria saber
+Como é organizado
+O desenvolvimento
+Existe só uma pessoa
+Existe uma galera distribuída
+Existe, que nem no
+O Linus Torvaldi fala no livro dele
+Existe uma coisa feista e feia
+Isso é só por e-mail
+Como é que funciona o desenvolvimento do projeto?
+Na realidade o desenvolvimento
+Começou comigo
+E hoje ainda o projeto
+Não tem colaboradores
+Eu acredito que
+Para que um projeto
+Penseu a se descer
+Eu não sou a melhor pessoa
+Para falar isso
+Meu projeto ainda não é sucesso
+Não sei se vai virar a ser
+Deus queira que sim
+Mas
+Acho que tem que ter uma documentação boa
+Tem que ter um lugar
+Para as pessoas reunirem
+No caso, se o projeto
+Tem ou se traça o projeto
+No Google Groups
+Tem a meio lixa
+Tem a parte do meu blog
+Já tem bastante post sobre
+Que querendo ou não serve
+Como uma documentação para o projeto
+E no geral um projeto
+Eu penso
+Pelo menos no meu caso
+Começou porque
+Eu queria desenvolver algo legal
+Algo que eu senti
+Um prazer em desenvolver
+Me divertisse
+E realmente que pudesse
+Utilizado pelo comunidade
+Algo que fosse agregador
+E a ideia é ter colaborador
+Eu tenho algumas pessoas
+Na lista de discussão
+Que estão me ajudando
+Com ideias e tudo mais
+Seria muito interessante
+Que a gente tivesse
+Involvedores de Java
+Involvedores PHP
+Administrador de sistemas
+Que colocassem ideias
+O legal de você
+Desvolver um projeto
+Ou pensar
+É que você de cada
+Já expõe o que você fez
+Então sempre vai vir
+Críticas construtivas
+Nesse projeto
+Não construtivas também
+Mas eu tenho que focar
+Nas coisas construtivas
+Então eu tenho liberdade
+Para trocar ideia
+Com diversas pessoas
+Que eu admiro
+Então essas pessoas
+Me dão novas ideias
+E isso acaba agregando muito
+Coisa que eu não conseguiria
+No modelo proprietário
+A não ser que eu tivesse
+Muito dinheiro para contratar
+Muitas pessoas competentes
+O que não é o caso
+Teria de me contratar inclusive
+Amigos
+Vai lá
+Isso mesmo
+Na parte tecnológica
+Qualquer linguagem
+Existe metodologia de desenvolvimento
+Bora ser só uma pessoa
+Que está desenvolvendo
+Tem a parte da galera
+Que faz o feedback
+Para melhorar
+A gente deve considerar
+Também como participante
+Do projeto
+Como funciona a linguagem
+A metodologia
+O controle de código
+Essa é a parte técnica
+Do desenvolvimento
+O Mido é o agente
+Aquela aplicação
+Que a pessoa vai jogar no servidor
+E ela vai comunicar
+Com o front-end
+Então o Mido é dele
+Está sendo desenvolvido em Java
+É basicamente ele usa
+RMI e Racheful
+E manusei arquivos
+Gera o que tem que ser gerado
+E o front-end
+Está sendo escrito em PHP
+Usando a linguagem sinfônica
+Como metodologia de desenvolvimento
+Eu acredito que quando a gente
+Tiver mais gente no projeto
+Vai ser algo parecido
+Ao Scrum
+Só que sem
+A parte das reuniões diárias
+A ideia é que vá algo mais para
+Para
+É, não teria como ser diário
+Porque eu pensava
+Não tem como você ficar
+Cobrando assim tanto
+Não que as reuniões diárias
+Tem que ser cobradas
+É difícil de ter isso assim
+Mas seria algo mais
+Ágil mesmo
+Se não vai ter
+Reunião em pé
+Pode chamar aquele amixão lá
+Vejam o episódio 3
+Tem um caos lá
+Está interessando
+Tem código no GitHub
+Por enquanto só tem o código do Mido
+É porque o front-end
+Eu ainda não tenho códigos legais
+Para postar
+Mas quem quiser
+Me manda o e-mail
+Mando o código para eu poder me ajudar
+Mas a ideia é que
+Coloca códigos mais próximos
+Da produção assim
+Não fique jogando código de teste
+Igual é o caso hoje do front-end
+Por enquanto
+
+GitHub
+PHP
+Java
+Tem algum framework
+Que se utiliza com Java
+O Sol
+O Ojo
+O Lapurão e tem
+Na parte do Java
+A gente está usando como framework
+O Haslat
+Como framework Hasfull
+O bacana do Haslat
+É que ele tem suporte
+A Java Neo Iow
+Porque ele tem suporte ao Greasy
+Posso embutir um servidor da HTTP
+No meu código
+Então não dependendo de um
+Tomcat
+Ou de um JBoss
+O próprio código
+Eu já instando assim um servidor da HTTP
+E esse servidor da HTTP
+Já tem suporte a Neo Iow
+O que vai fazer com que a aplicação
+Escale melhor
+Por isso eu resolvi usar o Haslat
+Além dele ter suporte
+A HTTPS
+O que é algo importante
+Então a comunicação
+Com o português
+E basicamente
+O Haslat
+O RMI
+Pra fazer a comunicação entre processos
+Porque quando você escreve uma aplicação
+Que ela vai estar esforça pra internet
+Certa forma
+Você tem que se preocupar
+Com o privilégio dessa aplicação
+Então se essa aplicação rodar como root
+Somente como root
+Se alguém ganhar acesso
+A aplicação
+E explodar alguma falha
+Em relação da memória
+E executar código arbitrário
+Esse código vai estar como root
+O que é um problema
+Então se você deixa
+Parto do código rodando como root
+O que é que tem que ser rodado
+Como rodar um HTTP
+E parte do código sem rodar como root
+É bom por isso
+A parte que não está como root
+Se for comprometida
+O cara vai ter o poder de não root
+Um usuário de nobody
+Alguma coisa não privilegiada
+Teria como escalar privilégio
+Explodando uma falha local
+Mas seria mais complexo
+A escalação de privilégio
+Tudo dificulta
+Por isso que os RMI
+E também pra ter a comunicação
+Entre os mídios
+Ajuda bastante nesse sentido
+O Cprojit
+Seria como se fosse
+Um web da rede
+Controlaria toda a rede
+De todas as formas possíveis
+De todo tipo
+Sentar pareia todos os buracos
+Poderiam existir na rede
+Gerenciaria tudo pelo Cprojit
+Pelo que eu vi
+Vai ter os relatórios
+Ah, de rede
+Um firewall
+Vai ter aquele proxy
+Webfilter
+No network
+Pelo que eu vi também
+Ele é bastante voltado
+Pra parte de segurança
+O serviço de rede
+São a princípio
+O supplier proxy
+Depois eu vou gerenciar
+Esse serviço de rede
+Então, na realidade
+O projeto ainda não tem
+Uma visão comercial certa
+Isso quer dizer que
+Eu estou desenvolvendo ele
+Nas minhas horas vagas
+Eu estou desenvolvendo
+As coisas que eu acho mais legais
+Então, a ideia é que
+Realmente, como o Sheldon disse
+Que seja um app das redes
+Mas isso envolve muito código
+Envolve muito trabalho
+E eu acredito que sozinho
+Vai ser muito mais difícil
+Fazer isso
+Mas eu acredito que
+Lançando a primeira versão
+De a parte de network
+Firewall e Webfilter
+Que seria o proxy
+Sendo boa a aplicação
+Eu acredito que vai vir colaboradores
+Que vai naturalmente
+O projeto vai crescendo
+Se não for bom
+Vai morrer
+E é isso
+Pelo menos eu vou ter
+Prendido coisas legais
+E me divertido
+Enquanto eu estava lá
+Codificando
+Acho que pra incentivo
+A gente põe aquela musiquinha
+Mas deixa lá no GitHub
+Que aí alguém...
+Alguém pode continuar o projeto
+Contra o novo
+Vai que é isso
+Dizido do projeto
+Projeto morre
+Alguém pega lá
+Nos Estados Unidos
+Implementa ele
+Ganha milhões
+E fica rico
+Aí você...
+Vai se arrepender
+Margarinho
+E a gente vê o resto sozinho
+A questão é que
+As pessoas já ganham milhões
+Sem o meu projeto
+Então eu acredito que
+Quando você fica muito preso ao código
+Você acaba impossibilitando
+O crescimento da sua aplicação
+Então é um risco
+Lógico, lógico, lógico
+Se eu tivesse visando
+Apenas ganhar dinheiro
+Os projetos não seria open source
+Porque o modelo open source
+No Brasil
+Não é muito sustentável
+O financiamento
+Com o meu foco não é dinheiro
+E sim um amadurecimento
+Da aplicação
+Ele é open source
+Lógico, as pessoas podem pegar
+E copiar
+Não tem problema
+Elas vão ter certeza
+Que a melhor pessoa
+Pra elas conversarem sobre o projeto
+Pra prestar uma consultoria
+Pra ajudar no desenvolvimento
+É quem fez os códigos
+Então, quer dizer
+Se um dia o projeto ser sucesso
+E chegar nesse nível
+E alguma empresa quiser desenvolver em cima
+Provavelmente essa empresa
+Vai entrar em contato comigo
+E quem estiver desenvolvendo
+Pelo menos eu penso assim
+Até porque
+Como os próprios patriarcas
+O open source diz
+É porque no projeto proprietário
+Você ganha dinheiro com o software
+Você vende o software
+Você ganha dinheiro já em cima disso
+Agora o open source não
+Você ganha dinheiro com um serviço
+Você vai dar o software
+E cobrar, sei lá, uma licença
+Por mantensão, um coisinho
+São formas diferentes
+A gente pode até
+Se assumir para um próximo podcast
+A gente tá comprometendo
+Já a gente tem uns 100 episódios aí em 3
+Em 5 que a gente gravou
+Até no próprio documento
+Da GPelig e no GPelig
+O Richard Stallman
+Ele cita várias formas
+Modelos de negócios
+Que podem explorar o desenvolvimento
+De software livre, né?
+Então, assim, existe
+Várias formas de ganhar dinheiro
+Mesmo utilizando software livre
+Uma das empresas pioneiras
+De trabalho com software livre
+É a Cygnus
+Eu já assisti o filme, já
+Ah, então a gente assistiu mesmo o filme
+Vai estar na link do post
+De todas essas referências
+Que a gente tá citando
+E uma das formas
+É ela não cobrar pelo software
+E ela vai poder dar
+Uma cobertura de suporte
+Bem maior
+Isso de uma certa forma
+É ganho tanto para a empresa
+Que tá provando o serviço
+Com isso a gente pode ir
+Para o próximo item da pauta
+Que é o trabalho do software
+Como um serviço
+A nossa questão de um software
+Como um serviço
+Ganhar dinheiro com open source
+Como um serviço
+É, entra uma questão meio contraditória
+Que é a seguinte
+Antes de você ter software como serviço
+Você realmente ganha dinheiro prestando serviço
+Com storias, suporte, treinamento
+Implementações, integrações
+A questão é
+Com software como serviço
+Você acaba incentivando
+O código fechado, por exemplo
+O bonto, apesar de ser
+Uma distribuição ninox open source
+Ela tem a parte lá de software como serviço
+Para a genenciamento da sua distribuição
+Essa ferramenta, ela é paga
+Ela é paga e é proprietária
+Ela é paga e é proprietária
+Essa parte dessa aplicação
+Talvez alguma parte dela é open source
+Mas o front-end, a parte de gerência
+Dos relatórios, é proprietária
+Então isso é um pouco contraditório
+No caso do C
+A gente vai ter umíduo
+E o front-end vão ser open source
+São open source
+E a ideia é que tenha serviços
+Que sejam...
+Alguns serviços
+Não serviços de rede
+Não serviços de gerenciamento
+Não serviços de relatórios
+Mas serviços de compartilhamento de conhecimento
+Serviços de correlacionamento
+De eventos
+Serviços mesmo
+Que sejam pagos
+Então, por exemplo
+O que seria um serviço no C project?
+No meu entendimento
+Criação de assinaturas para IDS
+Criação de assinaturas para um final layer set
+Então, quer dizer, mallers saia todos os dias
+Se a gente tem uma empresa focada
+Em desenvolver assinaturas para esses mallers
+É um serviço, entendeu?
+Então, é interessante que seja cobrado por isso
+Até para sustentar o projeto
+Então assim, a parte de assinaturas
+Seria um serviço
+Então eu penso nesse sentido, entendeu?
+Serviço é um serviço
+Software como serviço
+Continua sendo
+Você vender, desenvolver um software
+E ganhar dinheiro com ele fechado
+Então, tem que ter essa distinção
+Nem sempre tem
+Eu acho assim, que duas coisas interessantes
+De a gente falar, né?
+É, software
+Free software não significa
+Que ele vai ser grátis também, né?
+E um modelo bastante utilizado
+Pelo pessoal de programing
+Rubin Rays
+Rubi e...
+E consequentemente com Rays
+É que assim, eles desenvolvem para já
+Toda pessoas
+E algumas partes que são específicas
+Da empresa, não é o que é só isso
+Isso de uma certa forma dá
+Até mais segurança para a empresa
+Que está contratando
+Assim, que não faz sentido
+Você expor como funciona a empresa
+Talvez teria alguma resistência
+Do pessoal de contratar esse serviço
+E partes que
+Não são específicas da empresa
+Não tem problema de ser liberado, né?
+Que é até porque assim
+Um comportamento bastante comum
+Da galera que desenvolve
+O cara vai fazer alguma coisa
+Pesquisa no Google e
+Pega o código que ela
+Nem faz nem referência
+No código, copia, cola
+E funciona no dele
+De uma certa forma, o pessoal seria parecido
+Com todos os honos
+Não só o cara
+Nem coloca referência no código dele
+Mas ele está lá usando várias outras
+Coisas não específicas da empresa
+Que ele pegou na internet
+É, vai lembrar que
+Fazer software livre pensando
+Vai estar expondo
+Sua intelectualidade, né?
+Que tem aquela parada da liberdade intelectual
+O cara trabalha ali codificando
+E tem medo de spoke ali
+De alguém pegar, o esforço dele
+Ganhar dinheiro em cima disso
+Vai lembrar também que
+Isso pode acontecer também
+Nas empresas de software proprietário também, né?
+O cara pode, um funcionário da empresa
+Pode lá pegar o código sem contar para ninguém
+Guarda ali com ele no seu contado pessoal
+Se algum dia ele precisar de novo
+Mesmo que o código é do software da empresa
+Ele vai ter ali
+Isso pode ser até considerado como falta de ética
+Mas pode ser comum, sim
+Uma coisa interessante
+Cara, a respeito desse negócio
+De propriedade intelectual e etc
+É que uma das dificuldades
+De o cara
+É processar alguém
+Por exemplo
+Está até
+Na própria lei, né?
+Tipo assim, que conhecimento
+O cara não pode privar
+Conhecimento a ele
+Então, tipo assim, se ele sair
+Da uma empresa e aí a outra empresa
+Vou tentar processar a outra empresa
+Porque usou o conhecimento
+Ela não vai conseguir porque
+Ela não pode prender conhecimento, entendeu?
+Eu acredito assim, quem desenvolve um software
+Ou qualquer linha de pesquisa
+E preza pela qualidade
+Dias, pela evolução
+Dias, a pessoa vai fazer isso de maneira livre
+Quem faz isso por causa de dinheiro
+Com certeza não vai ser livre
+Agora sim, o que acontece
+É o modelo pensar no meu ponto de vista
+É o ideal para o amadurecimento
+De um software
+Porém, a comunidade tem que ter consciência
+Que isso tem que ser feito
+De maneira corporativa
+Então, quando você vai
+Desvolver um software proprietário
+Você vai lá codificar, cria um produto
+E sai lançando, vendendo no mercado
+Então, vamos dizer
+É um sistema predacional interessante
+Dá para você ficar rio e distribuindo
+Esse sistema predacional e ganhando dinheiro
+Só com as licenças dele
+Agora, no modelo pensar-se não
+Então, quando o pessoal do open source
+Vai ganhar dinheiro, desenvolvendo seu produto
+No meu ponto de vista, montando consórcios de empresa
+Então, diversas empresas que têm entedesa
+Em comum vão se unir e vão patrocinar
+Aquele projeto
+Isso já é uma realidade foda do Brasil
+Infelizmente, no Brasil isso não é uma realidade
+O software do open source
+São patrocínios de foda do país
+Ou são patrocinados por universidades
+Ou pelo governo, coisa de dentro do governo
+Então, realmente eu conheço
+Poucos sistemas, open source
+Da iniciativa privada
+Tem as cooperativas de software livre
+Mas, se você for ver a história
+Das cooperativas, a maioria veio
+Incubada por universidades
+Ou tem um relacionamento forte com o governo
+Algo realmente só da iniciativa privada
+Eu ainda acho que não é uma realidade
+Aqui no país
+Acho que isso que tem que mudar
+E eu acho que naturalmente vai ser mudado
+Muito mais complicado ser parte da iniciativa privada
+Porque ser um
+Parte do governo
+Esse projeto, como ele é um projeto
+Para visando a cloud computing
+E a gente tem que ter muito cuidado
+Porque geralmente quando se pensa em cloud computing
+A gente pensa
+Aquelas sensações que cloud computing
+Por ser tudo
+O que a gente imaginaria sobre cloud computing?
+Um HD do tamanho de um prédio
+Em 1985, provavelmente
+Seria assim
+Então
+Um HD de
+Um zilhão
+De cabos
+RJ45 ligado
+Um roteador gigante
+Um rino
+Partículas de HD
+E voando
+Voando
+E supostamente seria infinito
+A quantidade de armazenamento
+E se trabalharia
+O seu computador seria somente o teclado
+O mouse
+E o monitor
+E a placa de rede
+Então assim, todos os seus dados
+Tudo que você tem
+Hahaha
+Seria tipo aquele navio pirata
+Que fica boa
+Tem que ser o ar, ele espera mesmo
+A internet é o ar
+Tá bom
+Eu mesmo, a primeira vez que eu ouvi esse termo
+Eu fiquei nesse interme sussado
+Imagina, se hoje você já sofre
+Emvasão de computador com o seu
+Cara entrando na sua casa
+No seu computador ali dentro
+Imagina quando aquilo tiver tudo na nuvem
+Tiver tudo assim
+Vamos se dizer tudo
+Tudo num lugar onde que supostamente
+Você teria um acesso mais fácil
+Aos arquivos alheios
+Então eu acho que o crucial
+A gente fala sobre segurança também
+A questão da nuvem
+É a nuvem porque de fato
+Você não diz
+Você vai ter as suas informações
+Na nuvem
+E é a nuvem porque você não sabe
+Onde está fisicamente
+Essas informações
+Quer dizer, ela pode estar
+Em qualquer país
+Em qualquer estado
+Em qualquer localidade
+Então por isso que é a nuvem
+A questão é que
+Você
+Uma observação interessante
+É
+20 minutos
+Depois
+E continuamos rindo
+Dá um copo de água
+Com a suga puxando
+Ninguém lá vai agitar
+Sério, boa
+Pra invadir na nuvem é muito mais difícil
+Cara, eu precisaria de um tralé
+Não sei lá
+Vai chegar lá no servidor
+É assim, a questão da nuvem
+É algo interessante que ela propicia
+A questão da responsabilidade judicial
+Então as suas informações
+Vai estar sobre a custódia de uma empresa
+Essa empresa ela tem que se responsabilizar
+Ajudicialmente por elas
+E você vai pagar por isso
+Que um usuário comum
+Ele não tem capacidade pra se proteger
+Pra ter uma rede doméstica protegida
+A verdade é assim
+Você tem que dar responsabilidade
+Pra quem quer responsabilidade
+Então se as empresas estão oferecendo
+Software como serviço
+Essas empresas
+Elas vão ter que se responsabilizar
+Judicialmente pelas informações
+E aí a questão da segurança é com elas
+Então da mesma maneira que você tem
+Hoje uma seguradora de carro
+Acredito que no futuro próximo
+Você vai ter seguradoras de informações
+Empresas que asseguram
+Que a sua informação
+Tá protegida e tudo mais
+Eu pensei que ela ia segurar
+Eu aprendi a informação e não cai
+Se tá fotuando lá não precisa
+Um caso de
+Problema que a gente teve
+Recente foi o Juni Kei
+Cara do Migri
+Eu até coloco o link do post do vídeo dele
+Fazendo a declaração lá do desastre que aconteceu
+Nossa, do Juni Kei que o pai
+Eu
+Perdi bastante link
+Eu estava acordado na noite
+Que ele passou, que teve um problema lá
+Eu vi ele tuitando, cada 5 minutos
+Ficando louco, aí bastante ruim
+O grande medo
+A grande desconfiança
+Da bastante não credibilidade
+Há uma nuvem
+Você perdeu os seus dados
+Em responsabilidade
+Vamos dizer assim
+A responsabilidade da empresa
+E proporcionar a nuvem pra ele
+Fez com que ele perdesse
+E é isso aí que impede
+A nuvem de crescer mais um
+Por isso que você tem que ter
+Integração entre os seus provedores
+Então quer dizer, se você tem
+Que é hoje um servidor
+É
+Um servidor cloud
+Uma máquina virtual pra você
+É extremamente interessante que você tenha
+Outro servidor, em outro provedor
+E que esse, se não der pra ser
+É
+Redundância do outro
+Outra contingência
+Então pelo menos você tem
+O backup em diferentes provedores
+E aí é que entra
+Outro alien de serviços
+Que vão ser empresas
+Que vão entender da nuvem
+Pra te dar
+Essa segurança
+Só uma seguradora de informações
+É porque hoje não existe a nuvem
+Existem várias nuvenzinhas
+Existem várias nuvenzinhas
+Não existe uma interoperabilidade
+Entre os provedores
+Entre as plataformas
+E isso tem que melhorar
+Lembra que a gente falou sobre as 4 palavras
+Que se deve falar no reunião
+Interoperabilidade entrou mais uma vez
+Interoperabilidade é importante
+Assim como usabilidade
+Mantendo habilidade
+Ambientes heterogêneos
+Caso do Johnny Kane eu nem encararia
+Com uma nuvem porque
+Estava tudo num servidor só
+Estava tendo a mão de tensão periódica lá
+Ele tuitou
+Galera e tal
+Vai ficar fora do ar
+Então um pouco passou
+Ele ficou até acordado
+Acho que nem dormindo naquela noite
+Que era 6 horas da manhã
+Eu dormi um pouquinho e acordei
+Fui pra faculdade e ele tava lá
+Tuitando igual um loco lá
+Eu acho que ele tá até hoje sem dormir
+É
+É bem provável que ele tá até hoje sem dormir
+Ele é usado
+Pela red globe
+Tador de URL muito conhecido
+Então ele perdeu bastante credibilidade
+Por causa desse problema
+Uma fonte de documentação
+Que as pessoas podem usar
+Em relação a segurança
+É o CSA
+Que é o Cloud Security Alliance
+Lá você tem
+Muita documentação
+Muitos procedimentos
+Que podem ser adotados
+Em um tipo de desastre
+A questão é que
+As regras do jogo são as mesmas
+O que mudou foi o campo
+Então você tem que ter backup
+Tem que ter contingência
+Se der pra ter redundância legal
+Se tiver informação sensível
+Tem que ser criptografada
+Quer dizer, são as mesmas regrinhas
+E se as pessoas não fazem isso
+Elas vão estar sujeitos a falhas
+Do mesmo jeito que você estaria sujeita
+A falha num ambiente local
+Se você não tem um backup externo
+Na sua empresa
+E acontecer um problema lá com o file system
+Ou algo mais
+Difícil de ser recuperado
+E você não ter a capacidade de recuperar
+Você vai sofrer do mesmo jeito
+Do que na lua
+Quase seriam as suas considerações finais
+Sobre esse projeto
+Bom, eu
+Com o meu conhecimento de PHP
+Já estou querendo colaborar com o projeto
+Mas eu vou esperar estar no GitHub
+Não, imagina
+Você, eu já te passo no pendrive
+Aqui os códigos que tem
+Simfone
+E hoje mesmo você já pode estar codificando aí
+A gente tem vários posts lá no blog do Marcelo
+Tem
+Alguns slides
+No slide share
+Tem umas apresentações
+No canal do YouTube do Marcelo
+A documentação do software
+Não existe ainda
+Mas já tem um material para você conhecer
+Como é que ele funciona
+O Sebastião tem um amplo conhecimento de PHP
+Já pode auxiliar
+Uma coisa interessante
+Existe uma WIC do projeto, não?
+Não tem nada
+Tem a parte de WIC
+Mas ainda não começou a ser feita
+Aqui revolucionária
+Todo o podcast que eu participo
+Tem que ter uma coisa revolucionária
+Acho que a gente oferece para o CIP Project
+Um espaço para colocar o WIC do projeto
+Pode, claro
+A ideia é realmente ter esse contato com a comunidade
+Então, quem puder colaborar
+Vamos colaborar
+E seguir em frente
+Uma coisa interessante
+A gente já falou sobre as tecnologias envolvidas
+Mas se a pessoa
+O que é que a pessoa precisa conhecer
+Ajudar o CIP Project
+O que ela precisa saber?
+Programar, saber um pouco de redes
+Isso aí é uma questão interessante
+O que você precisa saber
+Para fazer algo
+Eu sou meio suspeito para falar sobre isso
+Porque as coisas que eu gosto de fazer
+São as coisas que eu não sei
+Basicamente
+O que eu acho que a pessoa tem que querer
+É fazer
+E se ela gostar de segurança
+De Java, computação distribuída
+PHP
+É isso aí
+Tem os códigos para ler
+Tem os caminhos que a gente pode estar passando
+Para ela estudar e conseguir desenvolver
+É importante
+Às vezes a gente fica
+Com um pouco de receio
+Sempre jogando para frente
+Mas quem interessa
+Tenta ir participando
+Você não vai conseguir
+Programar na primeira semana
+Mas vai aprendendo aos poucos
+Você vai ter um contato com o Marcelo
+Os dois Marcelos que eu conheço
+Estão sempre respondendo muito rápido
+Que é o Marcelo Fiori e o Marcelo Akira
+O Marcelo Akira sempre está online
+No JETAL
+Mas o Marcelo Fiori
+Sempre quando eu mando e-mail para ele
+Responde muito rápido
+Então é interessante
+Imagina quando esse projeto
+Pelo pouco eu não sei nada de rede
+Mas pelo que eu vi ali é um projeto innovador
+E que tem grande chance
+É um projeto de uso mundial
+Desenvolvido por um cara brasileiro
+Acho que seria interessante
+Ter seu nome no projeto
+Ajudando de alguma forma
+Desde o CSS
+Que o cara impende para fazer
+O site do projeto
+Está valendo
+Exato, desde o CSS, do HTML
+Do Ajax
+Até a parte de Java
+RMI
+Para regex
+Então
+Tem uma gama de conhecimento
+Que você pode estar aprimorando
+O grande lance
+É justamente isso
+Que você faz, está exposto
+Se não for bom
+Com certeza você vai ter críticas
+E se você não tiver
+Ciência de que aquilo está bom
+Você pode trocar ideias com pessoas
+Porque o código é livre
+Existem excelentes profissionais
+Que vão estar dispostas a te ajudar
+É isso, é a parte do IPC
+Usando a RMI em Java
+Antes de desenvolver isso
+Eu fui no New Shot the Sheriff
+E conversei com Nelson Murillo
+E com o Rodrigo Rubira
+Dizendo que eu não queria
+Justamente expor a parte remota
+Da aplicação como root
+Não queria que orasse como root
+E eu perguntei para eles
+Quais as maneiras arquiteturais
+E desenvolver isso
+Aí eles me colocaram que seria
+Comunicação como root
+E hidropando privilégios
+Ou realizar a comunicação entre processos
+Que é onde entra o RMI
+Que seria o IPC
+Aí eu optei pelo IPC
+E graças a isso
+Quer dizer
+Ou pensar se te dá isso
+O modelo proprietário não
+Você teria que pagar para ter uma consultoria
+Com esses caras que não é barato
+E tudo mais
+E isso é muito bacana
+O cara tem um conhecimento básico
+E isso era uma dúvida que o pessoal sempre tinha
+Se eu for colaborar para a RedSoft Terri
+Os caras são muito...
+Os caras sabem programar pra caramba
+Eu não vou dar conta de mexer
+Vários níveis
+Que você pode estar...
+São várias ferramentas
+Deixa um conhecimento básico de PHP
+Até um conhecimento avançado em RMI
+Ou alguma coisa assim
+O cara pode estar contribuindo
+E é bom para quem...
+O cara que está fazendo faculdade
+Se você não tem um dos problemas
+Para o cara arrumar emprego
+É que o cara nunca tem experiência
+Se o cara nunca trabalha
+Eu nunca vai ter experiência
+E uma das formas de você
+Não precisar ter experiência
+É você ter um portfólio
+Se você já contribui num desses projetos
+Você já consegue ter um portfólio
+Para chegar na empresa lá e mostrar
+Eu não tenho experiência trabalhando
+Fechado no meu empresa
+Inclusive, outra área
+Que pode ser usada o pessoal da faculdade
+É usar esse projeto como um trabalho
+De conclusão de curso também
+O cara está fazendo sempre de informação
+Ou ciência da computação
+Que não tem ideia do que fazer
+O seu TCC
+Ou monografia
+Então ele pode falar sobre o CIPROJAT
+O CIPROJAT vai ajudar ele
+E ele vai ajudar o projeto também
+Como o Sheldon falou
+No que diz respeito ao CINAC
+Aliado ao CIPROJAT
+É justamente que eu quero
+Que a empresa seja voltada
+Ao projeto
+A ideia é essa
+Como o projeto não é proprietário
+É difícil de sustentar ele financeiramente
+Então o que eu estou querendo dizer com isso
+Eu estou querendo dizer que da mesma maneira
+Que a CINAC vai distribuir o CIPROJAT
+Você pode montar uma empresa
+E pode distribuir o CIPROJAT
+Isso não é empecilho para contribuição
+Porque às vezes eu vejo que as pessoas
+Elas vão falar
+Eu não vou desenvolver porque
+Isso aí vai para uma empresa
+Beleza? Vai para uma empresa
+Mas pode ir para sua empresa
+Seja como empresário
+Ou como você se lter dentro de uma empresa
+Que precisa de um projeto desse porte
+Então assim, tem que ter a mente mais aberta
+Eu optei por
+Ir para esse caminho empresarial
+Porque Goianha dá um outro podcast sobre isso
+Então tem que ter mais a mente aberta
+E saber que
+Você está colaborando para o seu conhecimento
+E que você pode ganhar dinheiro
+Com um projeto também
+Uma coisa assim que
+Eu já até observei
+Alguns queis de sucesso
+E de insucesso com o software livre
+Por exemplo, que o software livre
+Ele exige, não ele exige
+Mas ele costuma ter empresas que
+As próprias empresas que utilizam o software livre
+Elas serem ativas
+Dentro do pregato
+Então, por exemplo, se
+Se existe alguma coisa
+Que alguma peculiaridade
+Que o projeto não abrange
+Essa empresa pode estar também
+Collaborando com o projeto
+E outras empresas que também
+Provavelmente teria essa característica
+Que não é suportada para enxergar o projeto
+Ela também vai se beneficiar
+Então você ajuda a desenvolver
+E ela acaba ganhando também
+Ao invés dela começar um projeto do zero
+Só para dizer que
+O projeto dela pode continuar um projeto
+No software livre
+Incrementando essas peculiaridades
+Que ainda não suportava
+Então, o software livre
+Ele precisa de empresas ativas
+Dentro do projeto
+Não só que consumam serviço
+Eu já vi isso uma vez com
+A galera que estava implementando um projeto
+Um cara com mono
+E eles pararam um projeto
+Já de três meses de trabalho
+Por causa de não existir um componente
+Já pronto
+Essa iniciativa fosse lá
+Desenvolver-se o componente
+E disponibilizar-se para a comunidade
+Provavelmente ela se beneficiaria
+Dessa incremento que ela fez
+E outras empresas também
+Que talvez estava com a mesma dificuldade
+Se beneficiaria
+Dessa implementação da empresa
+Como ela também se beneficia de outras
+Outras implementações feitas por aí
+Assim como na matemática
+Estou tirando essa base
+Principalmente do livro
+Que fala que antigamente tinha muito isso
+Às vezes os matemáticos resolviam
+Os problemas matemáticos
+E até porque matemáticos só resolviam
+Os problemas matemáticos
+E eles resolviam e usavam teorias
+E porque um problema
+Pode ser resolvido de várias formas
+E aí antigamente eles não tinham isso
+De chegar no outro
+Fiz esse jeito
+Eles resolviam e guardavam para si
+Se você quisesse uma explicação
+Seria que pagar
+Como a antiga é a matemática
+Então só
+Mais recentemente que a matemática
+Virou uma
+Ciência de intelecto livre
+Onde você pode ter acesso
+As quebras de conjecturas
+Pelas grandes matemáticas
+De forma livre
+É esse mesmo processo que o software
+Que a computação em si está sofrendo hoje
+Que é um processo de liberdade
+De intelectualidade
+Onde você vai parar de
+Produzir para si mesmo
+Produzir em prol da comunidade
+Acho que a questão de ser livre
+Ela está muito relacionada
+Ao aprimodamento do projeto
+Então
+No Brasil tem muita questão
+É livre é grátis é bom
+Não é isso cara
+É livre você pode melhorar por isso é bom
+Tem que mudar essa mentalidade
+Quem é desenvolvedor
+Quem gosta de desenvolver código
+Tem que ter essa mentalidade
+Por exemplo eu vejo muita gente
+Que desenvolve a sua própria frame
+Cara você pode ter desenvolvido algo bom
+Por que não se juntar uma frame
+Que já consolidada e melhorá-la
+É o tipo de coisa que não entra na minha cabeça
+Tem que ter mais uma mentalidade
+Mais colaborativa
+Mais aberta e tudo mais
+Desculpa Iber
+É que eu fiz o meu próprio frame
+Que de persistência de alvas
+Mas agora estou usando a rebernei
+Só queria fazer um para mim depois de usar
+É pode fazer
+Tenho um amigo que até começou a desenvolver um samba
+Podestional
+Então tem de tudo
+Tem de tudo
+O cara foi lá de Hitler
+Traço Traço Help
+Não trouxe nada
+Vou desenvolver um sem-temperacional só pra mim
+Que quando ele está aqui em Help
+Ele vai dar as opções
+Mas por que ele já não aprende
+Com algo já pronto
+As coisas que faltam
+É isso que eu não entendo muito
+É isso aí
+É como vocês podem ver
+O conceito de software livre
+Que é muito interessante
+A tribo do CI apesar de não focar
+Em software somente
+Conselho o uso de software livre
+Nós somos todos usuários de software livre
+Vai ter um podcast sobre software livre
+Falando com mais detalhes ainda do que foi rolado nesse equipe
+O que é prejudicial a galera
+É você ter
+No podcast do Urban Race
+O Race Brasil
+Pessoal falava muito que não pode existir
+A miopia tecnológica
+Então se o DotNet é mais adequado
+Para um certo ambiente
+Eu vou usar DotNet
+Mesmo eu tendo esse apreço
+Pelo software livre
+Mas se cober software livre
+Eu vou usar de qualquer forma
+É difícil o DotNet ser mais adequado
+Para um ambiente
+Não estou brincando
+Não é isso
+É sua situação hipotética
+Realmente eu estou brincando
+Quem gosta da plataforma proprietária
+Você é livre para isso também
+Mas eu prefiro ficar na plataforma
+O leque de oportunidade é grande pra caramba
+Acho que software livre é legal
+Vamos finalizando esse episódio
+Coloca a musiquinha do Richard Salmos
+Para terminar aí
+Comecei pessoal
+Agora encerramos com a parte do CPU
+Já viu a música da Nate?
+Vou colocar o link no post
+Mas é uma declaração de amor do Willam
+Pra Nate
+Nossa, deu um branco agora
+E quando o software estiver rodando
+A gente gravou
+Na cama
+A gente vai mudar o nome do
+Podcast para na cama
+Com Fleury

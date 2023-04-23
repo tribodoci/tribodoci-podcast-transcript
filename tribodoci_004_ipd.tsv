@@ -1,0 +1,1436 @@
+start	end	text
+0	15000	Você está ouvindo a Fribo do CRI FODECAST!
+15000	22000	Fribo do CRI FODECAST, episódio 4 para o dia 27 e do 8 de 2010, Arquitetura de Computadores.
+22000	26000	Meu nome é Sheldon Led e meu cérebro funciona segundo a arquitetura de Von Neumann.
+26000	34000	Meu nome é Alemão, sou o substituto do Sebastian Hellsum e neste podcast vamos falar sobre o que rola dentro do computador e como é trabalho.
+34000	42000	Fribo do CRI FODECAST, episódio 4 para o dia 27 e do 8 de 2010, Arquitetura de Computadores.
+42000	62000	Fribo do CRI FODECAST, episódio 4 para o dia 27 e do 8 de 2010, Arquitetura de Computadores.
+62000	68000	Bom, como pessoal pode perceber aí, o podcast está sendo gravado todo o final do mês.
+68000	79000	Então a gente decidiu ser eu mais o Sebastian Hellsum fazendo uma reunião ali e decidimos fazer dessa maneira nosso intuito é entregar o podcast toda a última sexta-feira do mês.
+79000	82000	Pelo menos até o final do ano está projetado para ser assim.
+82000	88000	No mês passado teve um atraso, a gente entregou no sábado e esse mês nós vamos tentar entregar no horário certo.
+88000	98000	Mas eu não prometo, se vocês estiveram ouvindo e agora, no dia que não é o dia 27 de agosto, então vocês podem culpar na gente aí porque realmente é muito complicado.
+98000	103000	É muito comum você ver pessoal da área de programação atrasar nos projetos aí.
+103000	108000	Não vai ser diferente na hora das nossas coisas que a gente faz por prazer também.
+108000	115000	Eu queria falar também que a gente gravou o podcast no meio do mês passado e ele foi entregue só quando já tinha voltado do Fizz.
+115000	123000	Então ficou assim até às vezes um pouco desconexto assim, eu não tenho falado do Fizz sendo que eu já tinha ido e tinha voltado e no podcast não falei nada do Fizz.
+123000	129000	Então está aí a explicação que é porque realmente a gente gravou bem no começo, mais ou menos no meio do mês.
+129000	134000	E foi por causa disso que a gente não falou no Fizz. Fala sobre as gatilhas de lá no Fizz né?
+134000	136000	Rapaz do céu!
+136000	144000	Te contava aí, porque o povo fala lá do Rio Grande do Sul, realmente tem muita uma é bonita lá.
+144000	150000	Quando eu cheguei lá eu ia fazer um álbum gigante com todos os meninos bonitos que eu vi esse lá e ia tirar uma foto e ia colocar no site.
+150000	158000	Mas eu fiquei meio frusado que eu chegava em um, tanto é vergonha que a gente tinha coragem de pedir uma foto pra ela.
+158000	161000	Mas para as modelas eu não tinha vergonha não, era fácil né?
+161000	164000	É só namorada, por causa de só namorada né?
+164000	167000	Ah não, mas ela sabe que eu sou fiel a ela.
+167000	172000	Já aquela história lá da sua foto que você tirou sem dúzia de frio, você tirou o sonor da foto?
+172000	180000	Não, aquilo lá foi o seguinte, o pessoal que me segue no Twitter aí viu lá que eu tirei a foto e coloquei no tweet pic,
+180000	183000	deu sem dúzia de frio a 12 graus Celsius.
+183000	189000	A verdade é que quando eu fui pra lá o pessoal fez tanta polêmica que lá tava tão frio, mas tão frio,
+189000	192000	eu não ia aguentar só com dúzia de frio normal e tal.
+192000	200000	E eu comprei um monte de dúzia de frio, levei pra lá e eu consegui ficar lá razoavelmente bem até os 10 graus Celsius mais ou menos.
+200000	205000	Só que aí eu sempre tava de dúzia pra evitar que a temperatura caísse demais, eu não morri de frio lá.
+205000	209000	Mas realmente a gente teve sorte, o pessoal que foi com fizes aí, que não acostumado com frio,
+209000	213000	teve sorte que lá no Rio Grande do Sul, na semana anterior, já teve temperatura negativa lá.
+213000	219000	Quando a gente tava lá, a temperatura tava bem agradável em relação aos outros dias, né?
+219000	221000	Aí foi tão complicado lá.
+221000	223000	Mas sabe o que eu mais gostei lá?
+223000	224000	O que foi?
+224000	226000	Rapaz, eu virei nerd verdade agora.
+226000	228000	Ué, que história é assim?
+228000	233000	Pois é, quem viu aí no YouTube eu lancei no Twitter também, eu lancei aqui no blog,
+233000	235000	como muitas pessoas sabem, né?
+235000	239000	Tem aquela teoria de que a pessoa só é nerd, se um outro nerd chama de nerd.
+239000	246000	Aí eu usando a minha astúcia, eu fui lá no John Mad Dog How, que é o presidente da Linnos Internacional,
+246000	249000	ele tava lá e tava um cara, né?
+249000	250000	Tá pensando o quê?
+250000	255000	Aí eu fui lá e falei com ele, conversei com ele lá um pouquinho e tal, eu pedi pra ele falar.
+256000	258000	Conselho, nerd!
+258000	259000	Obrigado!
+285000	287000	É um conhecimento de informática, você acha?
+287000	295000	Isso é muito bom, até eu mesmo sou muito lumber nessa parte, então eu tô aprendendo, você tá aprendendo.
+295000	297000	É igual aquela história, né?
+297000	301000	Se eu tô ensinando, você tá aprendendo essas coisas.
+303000	306000	Gente, quando a gente tem ensinando, a gente aprende cada vez mais.
+306000	312000	Eu fuçando na internet esse negócio de podcast, eu acho um podcast que é bem iniciante mesmo,
+312000	318000	bem pra pessoa que não tem nenhum conhecimento de informática, que é o papobjpenet.
+318000	326000	A URL pra você acessar o podcast é http www.papo.bjpenet.com.br
+326000	333000	Vai tá no post lá, você acessa o post do nosso podcast que vai tá o link lá embaixo pra você acessar.
+342000	355000	Agora, vai realmente ver o e-mail, né? Teve um e-mail do Georgia.
+355000	362000	A gente recebeu também um e-mail do Rafael Coltinho, parabenizando o podcast também, o nosso blog, todo o conteúdo, o podcast.
+362000	364000	Muito obrigado e Rafael Coltinho.
+364000	371000	Também recebemos um e-mail do Georgia, que a gente tinha comentado no podcast anterior, que eu tinha feito a paródia, né?
+371000	380000	E aí ele esqueceu de mandar pra gente, ele mandou uma letra aqui, mas a gente não conseguiu aquele apoio de gravação pra gente disponibilizar e as paródias.
+380000	382000	Mas estamos trabalhando nisso também.
+382000	389000	O Georgian também falou, corrigindo lá que a gente falou sobre RIA, que é Reach Interface Application, que é aplicações de interface rica.
+389000	396000	Na verdade, segundo Georgian, é Reach Internet Application, aplicações ricas para internet.
+396000	402000	Então, aquela hora que eu tava falando lá no podcast, segundo Georgian, eu tava certo, que era Reach Internet Application.
+402000	411000	Também ele falou assim que no segundo podcast a gente falou que o mundo vai acabar em 2012, e segundo ele, uma pesquisa realizada pela própria NASA devido à polêmica do caso,
+411000	422000	provou que os cálculos anteriores estavam incorretos, mas não preveram o fim para 5.126 anos após o fim do último período do calendário Maya,
+422000	433000	que foi calculado em 3.114 anos de crise, mas novas pesquisas provaram que o último período do calendário Maya foi depois de 2.000 anos de Cristo.
+433000	437000	Sendo assim, o mundo está previsto para depois do ano 3.000.
+437000	444000	Segundo o Georgian, isso foi explicado pelo Discovery Channel, pelo fantástico jornal da Globo e outros, e não é ele que tá inventando.
+445000	451000	Eu sempre invento a desculpa, né? Quando tá perto de chegar na data, eu sempre invento a desculpa, igual que na época de 2.000.
+451000	457000	Não sei se vocês lembram dessa parada de 2.000, que falar que o mundo ia acabar também.
+457000	461000	Ah, é, lembra? Lembra? Você não teve um pessoal aí que se matou, tá?
+461000	462000	Pois é.
+462000	468000	E aí, sempre acontece essas coisas mesmo. O mundo já era pra ter acabado umas 10 vezes até hoje não é nada.
+469000	472000	Eu só enviei de esperar o mundo acabar, porque eu quero inventar a história.
+472000	478000	Quanto a 21 de dezembro de 2012, segundo o Georgian terminando a explicação dele,
+478000	487000	ocorrerá um alinhamento dos planetas no sistema solar contra o Sol, causando uma eclipsa solar, o mesmo que ocorreu em agosto de 1998.
+487000	495000	O resultado disso é alguns meteoros na Terra devido à perda da proteção de Júpiter, que não os deixa cair na Terra.
+495000	501000	Uma pequena alteração no eixo da rotação da Terra, e a destruição de alguns satélites como ocorreu antes.
+501000	508000	O máximo que pode ocorrer é a queda no setor de comunicação e perjuízo de alguns milhões para muitos empresas, o resto do planeta ficar inteiro.
+508000	509000	Ou não.
+509000	516000	Ah, essa parada deve ser o alinhamento das estrelas de Cucã, quem assistiu Tatarugas Ninjas 3 e vai entender que eu falei.
+517000	520000	Como eu não assisti, então não entendi.
+520000	522000	É beleza.
+522000	525000	Então, fiquem espertos.
+525000	527000	O fim está próximo.
+527000	534000	E eu queria pedir para o pessoal ir mandar o feedback dos nossos podcasts sobre o blog inteiro.
+534000	538000	O email é www.tribudosciarrobagmail.com
+538000	544000	E para você mandar o feedback dos podcasts, é o podcast www.arrobatribudosci.net
+544000	548000	Então, a gente disponibilizou tanto o e-mail do nosso site quanto o e-mail do Gmail também.
+548000	554000	Porque tem alguns ferramentos do Google que são mais fácil de trabalhar com o e-mail próprio deles mesmo.
+554000	562000	Então, a gente disponibilizou, assim, os dois e-mails também, porque às vezes a gente fica online pelo getal e tal, e todas as coisas estão lá.
+562000	564000	Então, agora vamos para a segunda parte.
+564000	576000	Introdução, parte teórica e ideológica.
+576000	580000	Então, vamos lá. Agora a gente vai para a introdução, né?
+580000	586000	A primeira coisa que eu quero falar aqui nesse podcast é como que surgiu a necessidade de um computador.
+586000	587000	Você sabe como foi?
+587000	598000	Olha, véi, dizendo para o meu professor do primário, ela me falou que na época de Cristo o povo tinha as ovelhinhas, aí contava nos pausinhos e tal.
+598000	603000	A gente tinha a necessidade de gravar essas informações em algum lugar para saber quando as ovelhinhas sim.
+603000	604000	É isso aí?
+604000	613000	Bom, basicamente, essa é mais a história para crianças, assim, pessoal que tem pouco conhecimento do mundo ainda, né?
+613000	623000	Porque, na verdade, o computador, como você vê hoje, ele é um... o surgimento dele deu-se da necessidade que é uma breve história que eu contarei para vocês agora.
+627000	630000	No início, havia-se a filosofia.
+630000	639000	Com o aumento da quantidade de conhecimento, houve a especificação das áreas de pesquisa surgindo à física.
+639000	647000	Com o crescimento da física e seus cálculos complexos, surgiu a necessidade de pessoas especializadas em matemática.
+647000	653000	Porém, os cálculos precisavam ser calculados mais rápidos e com menos eras,
+653000	659000	por da onde surgiu-se a informática, que seria informação mais matemática.
+659000	666000	Isso é anotado ao ver que os primeiros nomes da história da informática eram nomes de grandes matemáticos,
+666000	673000	pois os especialistas em informática foram surgir apenas imerrados de 1970.
+676000	681000	Então, como vocês podem ver nessa história, foi basicamente isso aí que aconteceu.
+681000	685000	E vocês podem ver como eu falei na minha frase de inicialização,
+685000	693000	John Von Neumann foi um dos primeiros, vamos dizer assim, um dos primeiros Vicks da área da informática.
+693000	698000	Então, a gente não vai citar pouquíssima coisa sobre a história da informática,
+698000	703000	porque nós cremos que um dia nós vamos fazer um podcast bastante completo sobre a história da informática.
+703000	709000	John Von Neumann também foi o idealizador da máquina, como vocês veem hoje,
+709000	715000	uma máquina que tem processador, placa-mãe, memória, foi a partir dele que surgiu esse conceito.
+715000	717000	E ele era um matemático, você sabia?
+717000	718000	Não, eu não sabia.
+718000	720000	Pois é, eu achava que lá era o DJ.
+720000	721000	Ah, me vambiu.
+721000	723000	Ah não, é Von Neumann.
+723000	724000	Nada a ver.
+725000	726000	Pois é.
+726000	731000	Então, a criatura básica de um computador, funcionamento básico, você sabe como funciona?
+731000	733000	Sei não, eu explico mais nada.
+733000	735000	Então tá bom.
+735000	740000	A entrada de dados, funcionamento básico do computador é basicamente o seguinte,
+740000	744000	você entra com os dados, ele processa os dados e saia alguma informação que você deseja.
+744000	745000	Simples, né?
+745000	747000	Demais, eu não sabia que era tão simples assim.
+747000	752000	Tudo aquilo que você vê, que você gasta 3 mil reais para comprar, basicamente isso aí.
+752000	756000	Você entra com os dados, ele processa os dados e sai informação.
+756000	760000	E isso aí, você pode ver assim, às vezes você pensa, ah, mas eu estou assistindo o filme,
+760000	762000	eu nem estou entrando com dados, nem nada.
+762000	767000	Mas tudo que você, por exemplo, para você assistir um filme, você teve que entrar com os dados,
+767000	769000	que eram os arquivos do filme.
+769000	775000	O processador teve que processar a imagem do filme, teve que mandar para a placa de vídeo,
+775000	779000	ser processado para mandar para o monitor para desenhar a imagem na tela.
+779000	783000	Então tudo isso aí, você entrou com os dados, houve um processamento ali dentro,
+783000	788000	e ele devolveu o filme com o áudio e vídeo para você assistir e se divertir com a sua namorada.
+788000	791000	Hmm, é, tá vendo aí?
+791000	798000	Ah, mas, e se eu estiver digitando lá no meu computador, e quando ele faz bam,
+798000	801000	é saída de informação ou é saída de erro?
+801000	806000	Ah, então às vezes acontece o seguinte, porque o computador, assim como todo sistema,
+806000	809000	ele tem duas saídas, ou é saída desejada ou uma saída de erro.
+809000	813000	Isso é bastante estudado na matéria de cálculo numérico,
+813000	817000	onde você calcula exatamente, até certo nível de precisão,
+817000	819000	onde o seu sistema vai dar um erro, certo?
+819000	821000	Hmm, agora eu entendi.
+825000	828000	As duas palavras que a gente mais ouve falar de computador,
+828000	830000	é hardware e software.
+830000	831000	Você sabe o que é hardware e software?
+831000	834000	É hardware que você chuta e software que você tira.
+834000	837000	Eu ouvi bastante falar, essa brincadeira aí que o pessoal faz,
+837000	841000	mas pra falar a verdade, eu só xingo mesmo quando eu tô usando Windows.
+841000	843000	Hahaha, brincadeiras à parte.
+843000	845000	Então, mas o meu monitor eu xingo e bato nele?
+845000	849000	Não, tem gente que bate no monitor, pensando que vai adiantar alguma coisa,
+849000	853000	mas pra quem usa computador, eu já tenho dois anos que eu não uso computador,
+853000	856000	eu só uso notebook, mas tem gente que vai usar o computador,
+856000	858000	aquelas telões de CRT.
+858000	861000	Quase todo mundo, assim, que não tem muito conhecimento de informática,
+861000	864000	pensa que a parte principal do computador é o monitor,
+864000	868000	sendo que não é o monitor, a única coisa que ele faz é jogar imagem pra você.
+868000	872000	O que fica mesmo, o que é o computador mesmo, é o gabinete,
+872000	874000	que as pessoas costumam chamar de CPU.
+874000	877000	É, tanto é que você pode mexer no computador com monitor desligado,
+877000	881000	você puder saber o que você fez com monitor desligado,
+881000	885000	aí você vai ver que não precisou de um monitor pra você mexer nele.
+885000	888000	É isso, cara. Eu já fiz isso já.
+888000	892000	Eu já brinquei de ficar mexendo com o computador sem monitor.
+893000	896000	Um dos conceitos básicos do computador também
+896000	901000	é a arquitetura chamada de código binário, ou números binários.
+901000	905000	Meu computador é digital, ele só tem dois níveis de compreensão,
+905000	908000	que é o 01, que são os códigos binários,
+908000	913000	que seria basicamente 0V e 5V, 0V e 3V.
+913000	918000	Na verdade, 3V até 7V ele entende como 5V,
+918000	921000	e pra baixo de 3V, até menos 1V, mais ou menos,
+921000	923000	ele entende como 0V.
+923000	926000	Ele é igual a esse aí, pra não ter problema, porque imagina,
+926000	930000	às vezes, dependendo do jeito que sua fonte leva energia pra placa mãe,
+930000	932000	vai entender uma informação diferente e tal,
+932000	934000	aí você pode ter problema também.
+934000	936000	Então, ele é igual a esse aí, pra ele,
+936000	940000	ele só entende o 01, que é 5V, e o 0, que é 0V.
+940000	943000	O que vier perto de um ou perto de outro, ele arredonda,
+943000	947000	pra facilitar o conhecimento, pra facilitar também na hora de trabalhar.
+947000	949000	Eu imagino, um engenheiro de computação,
+949000	951000	foi mexer lá na arquitetura do computador,
+951000	955000	e ter que ficar pensando em cada tensão que vier diferente,
+955000	959000	seria bastante complexo, e seria impossível ser conversar
+959000	961000	na minha ciência do que sua tia.
+961000	964000	E aquelas paradas das letrinas descendo o Matrix,
+964000	967000	aqui lá, seria pra representar os alienes,
+967000	970000	aquele negócio do Matrix lá, que lá foi bem na época
+970000	973000	que o Linus sentava no auge, né, porque o Matrix 1,
+973000	978000	ele foi lançado no ano 2009, foi no cinema.
+978000	982000	A interface gráfica do Linus foi crescendo muito depois,
+982000	985000	não muito depois, mas ele ficou mais...
+985000	987000	O que o Linus era pra servidor, né?
+987000	990000	Então, ele não precisava de uma interface gráfica muito legal.
+990000	992000	O pessoal usava mesmo uma interface de texto mesmo,
+992000	993000	que é o Shell.
+993000	996000	Então, o Matrix ele dava a entender esse aí,
+996000	998000	que o pessoal usava só a interface de texto,
+998000	1000000	e não precisava de interface gráfica.
+1000000	1002000	Pra você, como o pessoal que tava fora da Matrix,
+1002000	1004000	era considerado os hackers da Matrix,
+1004000	1006000	e hacker México-Linus,
+1006000	1008000	então eles queriam identificar mais ou menos isso aí.
+1008000	1010000	Aí, eu tô só hacker, tô...
+1010000	1013000	Vai, desde que você tenha um conhecimento avançado,
+1013000	1016000	não muito avançado, mas que seja um pouco acima do nível,
+1016000	1018000	é hacker, você sabia que hacker aí?
+1018000	1021000	Eu achava que hacker era quem sabia hacker MSN,
+1021000	1023000	o culto, você faz isso aí.
+1023000	1027000	Não, pelo amor de Deus, não, cara, não mesmo.
+1027000	1031000	Quem pensa que hacker é aquela pessoa que faz códigos malignos,
+1031000	1034000	tipo invadir sem alguma coisa assim,
+1034000	1036000	pegar sendo os outros,
+1036000	1038000	esses tipos de programas que fazem essas coisas,
+1038000	1039000	não são hackers.
+1039000	1041000	Pelo amor de Deus, não pensem isso.
+1041000	1045000	A palavra hacker, ela vem pra definir uma pessoa
+1045000	1048000	que sabe muito sobre uma determinada coisa.
+1048000	1051000	Ou seja, se você sabe muito costurar,
+1051000	1053000	você é hacker da costura.
+1053000	1055000	E assim vai.
+1055000	1057000	O conceito de hacker é mais ou menos assim,
+1057000	1060000	hoje, depois, no século XXI e tal,
+1060000	1064000	aí o conceito de hacker foi só pra área da computação, né?
+1064000	1066000	Só que, na verdade, o pessoal tenta...
+1066000	1069000	Tem pessoas que defendem hacker como simplesmente a pessoa
+1069000	1072000	que entende bem, e as pessoas que usam a inteligência
+1072000	1073000	pro mal são os crackers.
+1073000	1075000	Tem pessoas que não, que pensam que hacker
+1075000	1077000	é o cara do mal mesmo, e tal.
+1077000	1078000	Sem variando de pessoa.
+1078000	1081000	Agora, ao meu ver, hacker é aquela pessoa
+1081000	1083000	que simplesmente sabe bem.
+1083000	1085000	Da área da computação.
+1087000	1089000	Vamos deixar de papo, vamos continuar
+1089000	1091000	com a edificação da arquitetura.
+1091000	1093000	Bom, mas não sei se você já explicou,
+1093000	1095000	mas como é que o computador
+1095000	1099000	ele interpreta o 0 e o 1?
+1099000	1102000	O que cada um faz?
+1102000	1104000	O que o 0 representa, o que o 1 representa?
+1104000	1105000	Ah, tá.
+1105000	1108000	Então, o computador, ele entende 0 e 1.
+1108000	1111000	Só que é impossível você trabalhar com 0 e 1 apendo.
+1111000	1113000	Então, a pessoa, o computador, ele agrupa,
+1113000	1115000	faz agrupamentos de 0 e 1
+1115000	1117000	e formam os outros códigos,
+1117000	1118000	que são os níveis assim.
+1118000	1120000	Então, o 0 e 1 é a linguagem de máquina.
+1120000	1122000	Depois, da linguagem de máquina,
+1122000	1124000	você tem a linguagem, a primeira linguagem
+1124000	1127000	de baixo nível, que é o assemble.
+1127000	1129000	Através desse linguagem, você pode programar
+1129000	1132000	os dispositivos que tem no computador.
+1132000	1134000	E aí, sim, você pode realmente mexer
+1134000	1136000	com o computador a um nível mais humano.
+1136000	1138000	E assim, você pode conseguir fazer
+1138000	1140000	o seu computador trabalhar da forma
+1140000	1142000	que ele realmente trabalha.
+1142000	1144000	Porque o computador, na verdade,
+1144000	1146000	ele somente entende 0 e 1.
+1146000	1149000	Ele somente soma e subtrai.
+1149000	1151000	Tudo o que o computador faz,
+1151000	1153000	através de zeros e uns,
+1153000	1155000	agrupados de diferentes formas,
+1155000	1157000	e operação de soma e subtração.
+1157000	1158000	Mas você pode pensar assim,
+1158000	1160000	ah, mas e a raiz quadrada?
+1160000	1162000	Ah, mas e as outras, sei lá,
+1162000	1165000	logaritmo, multiplicação, divisão.
+1165000	1167000	Por exemplo, a multiplicação,
+1167000	1169000	elas são somas consecutivas.
+1169000	1172000	A divisão são serviderações consecutivas.
+1172000	1174000	Então, o computador, ele só entende si.
+1174000	1176000	Porque, através dessas duas operações básicas,
+1176000	1178000	você pode montar qualquer outra operação
+1178000	1180000	dentro da matemática.
+1180000	1182000	Ah, agora entendi.
+1182000	1184000	Mas o zero, ele é representado
+1184000	1186000	como sim ou não?
+1186000	1188000	Você tinha falado mais ou menos isso,
+1188000	1190000	um golinho?
+1190000	1192000	Isso depende muito da implementação.
+1192000	1194000	Você pode identificar o 1 como não,
+1194000	1196000	o zero como sim.
+1196000	1197000	Defende da pessoa.
+1197000	1199000	Mas existem padrões para desenvolvimento.
+1199000	1201000	E é padrão que o zero,
+1201000	1203000	ele é considerado como não,
+1203000	1205000	e o 1 como sim.
+1205000	1208000	Até mesmo o seu comportamento na arquitetura básica,
+1208000	1210000	que o zero é ausência de energia,
+1210000	1212000	e o 1 existe energia dentro.
+1212000	1214000	Quem vê número binário,
+1214000	1216000	zero e um, pode achar bastante parecido
+1216000	1218000	com um conceito de programação,
+1218000	1220000	que são os números boleandres.
+1220000	1222000	Na verdade, o número boleano,
+1222000	1224000	ele trabalha bem semelhante
+1224000	1226000	com os zeros e uns.
+1226000	1228000	Ele só tem duas opções,
+1228000	1230000	o verdadeiro ou o falso.
+1230000	1232000	Assim como o código binário,
+1232000	1234000	ele trabalha com zero e com um.
+1234000	1236000	Então, é isso aí que você pode ter
+1236000	1238000	como semelhança da linguagem de programação
+1238000	1240000	de alto nível para uma de baixo nível.
+1240000	1242000	Quem não sabia, o Únix,
+1242000	1244000	de primeiro, foi feito em linguagem de baixo nível.
+1246000	1248000	Eu prometi que não ia falar de história.
+1248000	1250000	Então, não vou falar história,
+1250000	1252000	mas é esse mesmo.
+1252000	1254000	Vou deixar um sabor
+1254000	1256000	no ar de história do Únix,
+1256000	1258000	no caso que o Únix foi feito
+1258000	1260000	a princípio com a linguagem de acêndio.
+1260000	1262000	E depois,
+1262000	1264000	Vennus Rich e o Ken Thompson
+1264000	1266000	se transportaram o Únix todinho
+1266000	1268000	para a linguagem C.
+1268000	1270000	E aí foi quando surgiu o software livre,
+1270000	1272000	que foi deixando essa história
+1272000	1274000	para o próximo podcast.
+1274000	1276000	Então, todo podcast a gente fala
+1276000	1278000	que vai ter uma história sobre outro podcast.
+1278000	1280000	Eu acho que, antes que vem,
+1280000	1282000	a gente vai pegar esse podcast desse ano
+1282000	1284000	que vem em terim.
+1284000	1286000	A gente falou que o computador
+1286000	1288000	tem três níveis.
+1288000	1290000	Entrada, processamento e saída.
+1290000	1292000	Geralmente, quem faz o primeiro período
+1292000	1294000	de alguma cuja informática vê muito isso aí.
+1294000	1296000	E agora, quem não faz,
+1296000	1298000	às vezes fica entendendo por que
+1298000	1300000	entrada, processamento e saída,
+1300000	1302000	como funciona esse aí.
+1302000	1304000	Então, vamos falar agora sobre os dispositivos de entrada.
+1304000	1306000	Entrada
+1308000	1310000	É como você entra dados no computador.
+1310000	1312000	Então, vamos ver várias formas
+1312000	1314000	de como entrar dados no computador.
+1314000	1316000	Para você gerar entrada
+1316000	1318000	de processamento
+1318000	1320000	para dentro do computador,
+1320000	1322000	você pode usar vários dispositivos
+1322000	1324000	que alguns são bem padrões.
+1324000	1326000	Sem ele, você não tem como entrar
+1326000	1328000	dados dentro do computador.
+1328000	1330000	A não ser que você chute ele
+1330000	1332000	ou dê uma carga de energia bem forte.
+1332000	1334000	Você vai estar entrando dados.
+1334000	1336000	Lembra aquela frase
+1336000	1338000	que você chuta.
+1338000	1340000	Qual seriam as peças
+1340000	1342000	que a gente entra
+1342000	1344000	dados no computador através dessas peças?
+1344000	1346000	Bom, há mais padrão
+1346000	1348000	que eu acho que todo mundo conhece,
+1348000	1350000	que é impossível não conhecer o teclado.
+1350000	1352000	É um chip, uma placa
+1352000	1354000	com vários entradas,
+1354000	1356000	vários circuitos, que você quando
+1356000	1358000	tecla, ele manda um
+1358000	1360000	sinal para o computador
+1360000	1362000	usar aquela tecla, e se você tiver
+1362000	1364000	monitor, tiver um editor
+1364000	1366000	de texto aberto, por exemplo, ele vai
+1366000	1368000	aparecer a tecla que você digitou.
+1368000	1370000	Tem o mouse também, que historicamente
+1370000	1372000	se juntou ao teclado para auxiliar
+1372000	1374000	no processamento de entrada de dados.
+1374000	1376000	Especialmente usado
+1376000	1378000	para interferir esse gráfico.
+1378000	1380000	Dependendo do programa, o seu uso
+1380000	1382000	precisa de só de um teclado. Agora tem
+1382000	1384000	programas como o Photoshop, por exemplo.
+1384000	1386000	É impossível você fazer alguma coisa no Photoshop sem um mouse.
+1386000	1388000	Eu consigo.
+1388000	1390000	O scanner
+1390000	1392000	é um periférico de entradas responsável
+1392000	1394000	para digitalizar as imagens.
+1394000	1396000	Ou o que o povo diz é
+1396000	1398000	escanhar a imagem.
+1398000	1400000	Fotos, textos, impressos,
+1400000	1402000	tudo que cabe dentro do scanner
+1402000	1404000	você pode mandar para o teclado com o talão.
+1404000	1406000	O scanner, ele faz o processo
+1406000	1408000	inverso da impressora.
+1408000	1410000	O scanner é o dispositivo de entrada
+1410000	1412000	e o impressora é um dispositivo de saída.
+1412000	1414000	Hoje, o scanner
+1414000	1416000	vem junto com a impressora, que são aquelas impressoras
+1416000	1418000	multifuncionais.
+1418000	1420000	Tem o scanner que você entra dados no computador
+1420000	1422000	tem a impressora que tira dados no computador
+1422000	1424000	e tem as impressoras
+1424000	1426000	multifuncionais.
+1426000	1428000	Tem a opção de você tirar a cópia na hora
+1428000	1430000	de um documento, por exemplo.
+1430000	1432000	É, que ao invés de mandar para a tela
+1432000	1434000	você manda com papel
+1434000	1436000	o xerox.
+1436000	1438000	É o microfone que a gente está usando
+1438000	1440000	para gravar o podcast.
+1440000	1442000	Converte o som
+1442000	1444000	em dados elétricos
+1444000	1446000	para dados digitais.
+1446000	1448000	O microfone
+1448000	1450000	transforma dados analógicos
+1450000	1452000	em dados digitais.
+1452000	1454000	É um conceito bastante interessante
+1454000	1456000	que é bastante falado na computação.
+1456000	1458000	Dado analógico, você sabe o que é um dado analógico?
+1458000	1460000	O que é o mundo analógico e o mundo digital?
+1460000	1462000	O que eu sei é o relógico
+1462000	1464000	que tem no ponteirinho.
+1464000	1466000	O relógico do ponteiro
+1466000	1468000	pode ser usado como exemplo
+1468000	1470000	para ilustrar essa diferença entre
+1470000	1472000	o mundo digital e o mundo analógico.
+1472000	1474000	Tem aqueles relógios
+1474000	1476000	quando você está passando
+1476000	1478000	um ponteiro de 1 minuto, você não sabe
+1478000	1480000	se é 1 minuto, 2 minuto, 3 minuto.
+1480000	1482000	O ponteiro, ele vai passando ali
+1482000	1484000	ele passa por vários pontos.
+1484000	1486000	Você não pode identificar se é
+1486000	1488000	realmente 1 minuto em ponto
+1488000	1490000	ou se é 2 minutos em ponto
+1490000	1492000	ou se é 1 minuto e meio. Não tem como descrever
+1492000	1494000	aquilo ali. Agora no relógio digital
+1494000	1496000	você vê que lá é 2.
+1496000	1498000	Quando está 2, então é 2 minutos, independente do segundo.
+1498000	1500000	O mundo analógico você pode ver da segunda forma.
+1500000	1502000	Por exemplo, é aquela teoria matemática
+1502000	1504000	que entre o 0 e o 1
+1504000	1506000	ou entre o 1 e o 2 existe
+1506000	1508000	infinitos números. Entre 1
+1508000	1510000	e 1,1 existe infinitos números.
+1510000	1512000	Aí eu vou falar de teoria matemática
+1512000	1514000	que senão eu vou assustar também, né?
+1514000	1516000	É, porque eu já não estou entendendo mais nada
+1516000	1518000	do que você está falando.
+1518000	1520000	Então eu só vou encerrar aqui.
+1520000	1522000	No mundo analógico você
+1522000	1524000	não tem precisão de
+1524000	1526000	tamanho. Por exemplo, ele pode ter
+1526000	1528000	se você mede com a régua 10 centímetros
+1528000	1530000	na verdade ele pode ter 10 centímetros
+1530000	1532000	1,1,2,3,3,3 infinitos números
+1532000	1534000	depois da vígula de milímetros
+1534000	1536000	por exemplo. Então você não pode
+1536000	1538000	medir precisamente. O mundo
+1538000	1540000	digital ele cria
+1540000	1542000	essa precisão. Você tem
+1542000	1544000	a precisão do 0 e 1, não tem
+1544000	1546000	espaço, ele é 0, ou é 1, ou é 2,
+1546000	1548000	ou é 3. Então essa é a
+1548000	1550000	diferença entre o mundo digital e o mundo analógico.
+1550000	1552000	A nossa voz, ela é gravada,
+1552000	1554000	ela é um formato analógico.
+1554000	1556000	Quando você passa ela para o computador
+1556000	1558000	ela entra no formato digital.
+1558000	1560000	E é isso que acontece, porque o computador
+1560000	1562000	só entende o mundo digital.
+1566000	1568000	A gente esqueceu de falar sobre o
+1568000	1570000	todoscreen, você poderia falar sobre
+1570000	1572000	o todoscreen, por que com um monitor
+1572000	1574000	normal você clica e não funciona?
+1574000	1576000	Então o todoscreen ele é bastante
+1576000	1578000	novo assim na área. Eles dizem 3 tipos
+1578000	1580000	de todoscreen. Eu vou falar assim
+1580000	1582000	do que é mais comum e
+1582000	1584000	também o mais fácil de explicar. O monitor
+1584000	1586000	ele é constituído de um painel de
+1586000	1588000	vidro normal recoberto com uma camada
+1588000	1590000	metálica, condutora e outra
+1590000	1592000	resistiva. Aí essas duas camadas
+1592000	1594000	são mantidas afastadas por os
+1594000	1596000	passadores e uma camada resistente
+1596000	1598000	a riscos é colocada por
+1598000	1600000	cima de todo o conjunto.
+1600000	1602000	Uma corrente elétrica passa através
+1602000	1604000	das duas camadas enquanto o monitor está
+1604000	1606000	operando, no caso. Quando o usuário
+1606000	1608000	toca a tela, aí encosta uma camada
+1608000	1610000	na outra, porque ele tocou na tela
+1610000	1612000	e vai diminuir o espaço e encosta
+1612000	1614000	Então ali, a malha que tem no monitor
+1614000	1616000	ela reconhece que se tocou
+1616000	1618000	e ali, naquele ponto
+1618000	1620000	é exato. Por exemplo, no ponto 33
+1620000	1622000	do campo x e 20 do
+1622000	1624000	campo y. Então ele considera
+1624000	1626000	aquele campo ali, aquele ponto
+1626000	1628000	ali no software, significa
+1628000	1630000	tal coisa. Aí
+1630000	1632000	ah, então o monitor tem
+1632000	1634000	um software ou o próprio
+1634000	1636000	computador faz esses dados?
+1636000	1638000	Não, o monitor ele faz
+1638000	1640000	todos esses calcos. O que
+1640000	1642000	o software precisa entender só
+1642000	1644000	é como manipular quando o usuário
+1644000	1646000	toca naquele ponto ali.
+1646000	1648000	Se você pegar um seu operacional
+1648000	1650000	que não tem suporte a todoscreen, ele
+1650000	1652000	não vai funcionar o todoscreen, porque
+1652000	1654000	ele não vai entender o que você está
+1654000	1656000	clicando. Ele vai receber aquele sinal
+1656000	1658000	e não vai entender. Vai receber
+1658000	1660000	aquela entrada, porém ele é incapaz de
+1660000	1662000	processar aquela entrada. Ah, então
+1662000	1664000	o todoscreen funciona mais ou menos igual ao
+1664000	1666000	mouse? É, quase igual ao mouse.
+1666000	1668000	O software do mouse é mais ou menos
+1668000	1670000	um mouse e você
+1670000	1672000	percorre o mouse e clica
+1672000	1674000	com, você clica nele.
+1674000	1676000	O todoscreen, ele não tem
+1676000	1678000	a opção de percorrer. Você só
+1678000	1680000	simplesmente clica, determinado ponto.
+1680000	1682000	Ah, entendi.
+1682000	1684000	É, temos aqui também as mídias removíveis
+1684000	1686000	CD, DVD.
+1686000	1688000	Ah, o CD, DVD, CD, DVD.
+1688000	1690000	Disquete, pendrive, etc.
+1690000	1692000	Essa classe
+1692000	1694000	é armazenamento
+1694000	1696000	secundário, porém removível
+1696000	1698000	ao contrário do HD. Por que ao contrário do HD?
+1698000	1700000	Porque o HD não é removível, né?
+1700000	1702000	Ah, mas se você arrancar
+1702000	1704000	do cabuflete, ele remove.
+1704000	1706000	Se você arrancar seu braço, ele sai também.
+1706000	1708000	Em seu corpo.
+1708000	1710000	Obrigado.
+1710000	1712000	Bom, agora vamos falar
+1712000	1714000	sobre os dispositivos de saída.
+1714000	1716000	Que é a saída. Tenho
+1716000	1718000	a entrada, o processamento
+1718000	1720000	e a saída. A dispositiva de saída
+1720000	1722000	são quando você já tem os dados
+1722000	1724000	processados e ele já vai te devolver
+1724000	1726000	uma informação. Como quem está usando
+1726000	1728000	computador geralmente é um ser humano?
+1728000	1730000	Então, os dispositivos de saída
+1730000	1732000	se prendem
+1732000	1734000	aos sentidos humanos, né?
+1734000	1736000	Que é visão, audição, tato.
+1736000	1738000	E infelizmente, ainda está em pesquisa
+1738000	1740000	dispositivos de saída
+1740000	1742000	para cheiro, né? Que tem
+1742000	1744000	projetos para criar televisão com cheiro e tal.
+1744000	1746000	Mas isso ainda não está
+1746000	1748000	no mundo comercial ainda, né?
+1748000	1750000	É, eu vi esse projeto, parece que foi em
+1750000	1752000	2002, 2003,
+1752000	1754000	essa televisão de cheiro até hoje
+1754000	1756000	eu não vi no mercado. É, porque
+1756000	1758000	tem coisas que são bastante complexas
+1758000	1760000	e não dá para implementar no mercado tão
+1760000	1762000	rapidamente.
+1762000	1764000	Às vezes, pode ser até alguns protótipos prontos.
+1764000	1766000	Às vezes, o pessoal pode até mandar em neve
+1766000	1768000	e falar, já tem isso pronto, não sei o que.
+1768000	1770000	Realmente, mas no mundo comercial, que é um mundo
+1770000	1772000	onde você pode ir lá no mercado, independente do preço
+1772000	1774000	e lá comprar, eu ainda não tenho notícia
+1774000	1776000	de que existe aparelhos que exploram
+1776000	1778000	esse sentido humano do cheiro.
+1778000	1780000	Sim, os dispositivos de saída
+1780000	1782000	aprendem a visão, a audição, então
+1782000	1784000	tem o monitor, né? Que é onde você vê
+1784000	1786000	as informações saindo, a caixa de som,
+1786000	1788000	o headphone, que é o que você escuta,
+1788000	1790000	uma música, uma fala, qualquer coisa do tipo
+1790000	1792000	e tem a impressora também. Quando você
+1792000	1794000	precisa de um documento e tal,
+1794000	1796000	uma foto, qualquer coisa que você
+1796000	1798000	precisa de guardar de forma
+1798000	1800000	permanente,
+1800000	1802000	você usa a impressora, que ela
+1802000	1804000	vai pintar um papel e
+1804000	1806000	ali você vai usar esse papel para alguma coisa.
+1806000	1808000	É, igual nós falamos anteriormente
+1808000	1810000	a xerox, né? E a xerox
+1810000	1812000	é como se fosse um dispositivo de entrada
+1812000	1814000	e saída. As impressoras
+1814000	1816000	tem vários modelos, acho que a mais
+1816000	1818000	conhecida que tem em trabalho do mundo comercial
+1818000	1820000	é aquela de...
+1820000	1822000	Como é que eu não dou? Aquela é a matricial,
+1822000	1824000	que são as impressoras de impacto.
+1824000	1826000	Elas baseam no princípio
+1826000	1828000	da calcação, por exemplo, você colide
+1828000	1830000	uma agulha, uma fita de tinta,
+1830000	1832000	aí ele vai reproduzir os caracteres
+1832000	1834000	e sai na impressão,
+1834000	1836000	que geralmente você vê nos mercados
+1836000	1838000	aí. Elas têm um interessante
+1838000	1840000	por elas ser de impacto, elas podem
+1840000	1842000	imprimir em dois papéis ao mesmo tempo,
+1842000	1844000	sem os benefícios de se ter um impressor
+1844000	1846000	impacto. Também a impressora já de tinta,
+1846000	1848000	que eu acho que é a mais conhecida,
+1848000	1850000	mais do que a matricial,
+1850000	1852000	que tem dois cartuchos,
+1852000	1854000	geralmente, ele joga as tintas,
+1854000	1856000	as gotinhas de tinta, bem minúsculos
+1856000	1858000	até formar
+1858000	1860000	pontos claros, pontos escuros e até formar
+1860000	1862000	por um todo a imagem,
+1862000	1864000	do jeito que você quer, imprimir.
+1864000	1866000	Esse é o processamento
+1866000	1868000	que o computador
+1868000	1870000	faz mais impressora,
+1870000	1872000	que regula o tanto de tinta que cai
+1872000	1874000	e, também, determinado ponto
+1874000	1876000	da folha.
+1876000	1878000	Você quer design, você tem que explicar
+1878000	1880000	as paradas, hein? Eu não sou muito bom
+1880000	1882000	para explicar.
+1884000	1886000	Bom, as impressoras
+1886000	1888000	são laser, são de laser
+1888000	1890000	literalmente, praticamente,
+1890000	1892000	queima o papel,
+1892000	1894000	mas, assim, elas são um pouco mais caras
+1894000	1896000	pela sua
+1896000	1898000	qualidade e tudo mais
+1898000	1900000	e são usados muito
+1900000	1902000	para aqueles banners.
+1902000	1904000	Impressora térmica, o que
+1904000	1906000	que é a impressora térmica? Eu não gostaria de falar, não?
+1906000	1908000	Impressora térmica são aquelas impressoras
+1908000	1910000	usadas para imprimir notas fiscais.
+1910000	1912000	A própria nota que se dá mesmo, que elas saem
+1912000	1914000	em papel marélinho, porque o papel marélinho
+1914000	1916000	é o papel térmico, ali a impressora
+1916000	1918000	ela aquece o papel
+1918000	1920000	em determinados pontos e vai formando
+1920000	1922000	o que você quer, né? Geralmente são só
+1922000	1924000	palavras.
+1924000	1926000	E elas são as melhores
+1926000	1928000	questão de benefício,
+1928000	1930000	que elas são mais rápidas, mais econômicas,
+1930000	1932000	mais silenciosas que os outros modelos.
+1932000	1934000	Porém, o que ela peca
+1934000	1936000	é que o papel rapidamente
+1936000	1938000	vai perdendo, vai desbotando, aí você
+1938000	1940000	tem que utilizar outro tipo
+1940000	1942000	de mídia para armazenar
+1942000	1944000	o seu documento. No caso, geralmente
+1944000	1946000	a pessoa tira xérex numa impressora
+1946000	1948000	a laser, né? Para manter,
+1948000	1950000	a laser é imprimida no papel, então
+1950000	1952000	fica de
+1952000	1954000	teoricamente, né? Eternamente, mas o papel
+1954000	1956000	não dura eternamente, então
+1956000	1958000	fica ali por um período maior.
+1958000	1960000	Ah, que esse papelzinho de cedo
+1960000	1962000	que ele tem que imprimindo nos bancos, né?
+1962000	1964000	É, sim mesmo. Ah,
+1964000	1966000	os olhos é para outra coisa.
+1966000	1968000	É, né? Papelzinho de cedo,
+1968000	1970000	entender, né?
+1970000	1972000	Contar sua mãe sabe.
+1972000	1974000	Ela não vai ouvir mesmo.
+1974000	1976000	Então, agora vamos
+1976000	1978000	final. A gente falou
+1978000	1980000	entrada, processamento e saída, né?
+1980000	1982000	Então, a gente falou de entrada e saída, agora
+1982000	1984000	vamos falar de profissão.
+1998000	2000000	O computador, na verdade,
+2000000	2002000	ele constitui
+2002000	2004000	basicamente na placa mãe, né?
+2004000	2006000	O computador mesmo. A parte principal do computador
+2006000	2008000	que o resto são dispositivos, como vocês viram, né?
+2008000	2010000	O restante do computador
+2010000	2012000	são dispositivos de entrada, dispositivos de saída.
+2012000	2014000	O computador mesmo é a placa mãe.
+2014000	2016000	É aquilo que está dentro do
+2016000	2018000	gabinete. Tem que ser placa rainha, né?
+2018000	2020000	Tem que dar uma nas formiga.
+2020000	2022000	Não é a placa mãe, porque era a mãe de
+2022000	2024000	todos. Mas por que ela
+2024000	2026000	tem esse conceito de
+2026000	2028000	nome de placa mãe?
+2028000	2030000	Porque não é outro nome, e tal. Então,
+2030000	2032000	a placa mãe, ela foi um conceito
+2032000	2034000	de IBM, quando ela lançou o IBM PC
+2034000	2036000	e tal, como também o
+2036000	2038000	nome PC foi criado pela IBM também.
+2038000	2040000	Que é o personal compira, né?
+2040000	2042000	E esses dois conceitos, que são
+2042000	2044000	placa mãe e PC, foram
+2044000	2046000	difundidos no mercado.
+2046000	2048000	Quando a IBM, principalmente
+2048000	2050000	o conceito de placa mãe, foi
+2050000	2052000	é... o mercado
+2052000	2054000	se difundiu mais quando a IBM abriu
+2054000	2056000	seu projeto. Aí o pessoal viu como funcionava
+2056000	2058000	a arquitetura da placa mãe, e começou a
+2058000	2060000	desenvolver. Aí ela é a placa
+2060000	2062000	mãe, sim, porque a mãe, geralmente,
+2062000	2064000	ela que... o pai, geralmente
+2064000	2066000	o pai não consegue cuidar de todos os
+2066000	2068000	filhos. Um dos conceitos
+2068000	2070000	de ser placa mãe, é que, por exemplo,
+2070000	2072000	o pai não consegue
+2072000	2074000	conter todos os filhos, não consegue
+2074000	2076000	cuidar de todos os filhos. Às vezes, ele rapidinho
+2076000	2078000	estresse e tal, não quer nem saber. Agora, a mãe
+2078000	2080000	não, a mãe sempre... é igual a
+2080000	2082000	que ela é ditada, é coração de mãe, que sempre cabe mais um.
+2082000	2084000	Então, a placa mãe, ela abriga todos
+2084000	2086000	os componentes, abriga os slots
+2086000	2088000	das outras placas, é, a conexão
+2088000	2090000	com todos os outros placos
+2090000	2092000	e todos os outros dispositivos
+2092000	2094000	e é onde que ela abriga o processador, também.
+2094000	2096000	Então, assim, a placa mãe
+2096000	2098000	recebe o nome de mãe por causa disso, por causa
+2098000	2100000	daquela coisa de todo mundo sozinho.
+2100000	2102000	Querem mais ou menos isso. Ah,
+2102000	2104000	aqui que é um slot, hein? Pra mim, slot é um
+2104000	2106000	doidão que tá na esquina, que eu conheci,
+2106000	2108000	é muito louco. Slot é...
+2108000	2110000	são entradas
+2110000	2112000	para modos para expandir a capacidade
+2112000	2114000	da placa mãe.
+2114000	2116000	Por exemplo, se você tem uma placa mãe
+2116000	2118000	e você... antigamente
+2118000	2120000	você não tinha, por exemplo, a placa mãe
+2120000	2122000	vinha sem...
+2122000	2124000	sem comunicação de rede.
+2124000	2126000	Aí você comprava uma placa de rede, colocava na mãe,
+2126000	2128000	é a parte de então, ela tinha
+2128000	2130000	a capacidade de comunicar
+2130000	2132000	pela rede. A arquitetura
+2132000	2134000	do computador, ela é baseada na
+2134000	2136000	arquitetura de Von Neumann.
+2136000	2138000	Porque Von Neumann criou essa
+2138000	2140000	arquitetura que é usada até hoje.
+2140000	2142000	Que ela é caracterizada pela possibilidade
+2142000	2144000	de uma máquina digital armazenar
+2144000	2146000	os programas no mesmo espaço
+2146000	2148000	de memória que os dados. Ou seja, você tem
+2148000	2150000	ali no HD, ao mesmo tempo que você tem
+2150000	2152000	seus arquivos, você tem um programa.
+2152000	2154000	Quando você vê lá alguma coisa, ponto XZ
+2154000	2156000	quando você tá no Windows, né? Você vê
+2156000	2158000	alguma coisa, ponto XZ, que lá é um
+2158000	2160000	programa. Você pode executar, dependendo
+2160000	2162000	da finalidade do programa, ele vai executar
+2162000	2164000	o que ele tem que fazer. E essa arquitetura
+2164000	2166000	ela é dividida
+2166000	2168000	em alguns tópicos básicos, que é a memória
+2168000	2170000	que ela...
+2170000	2172000	a memória do computador
+2172000	2174000	é no caso falando da memória principal,
+2174000	2176000	né?
+2176000	2178000	Que a gente geralmente fala memória RAM.
+2178000	2180000	Que ela é basicamente assim, ela é
+2180000	2182000	como se fosse uma mesa de escritório.
+2182000	2184000	Você tá no escritório,
+2184000	2186000	aí tem um HD que seria a estante, por exemplo.
+2186000	2188000	Aí na estante ela é armazendo todos
+2188000	2190000	os seus livros. Aí você quer letar
+2190000	2192000	o livro, você vai lá na estante, pega o
+2192000	2194000	livro e coloca em cima da mesa.
+2194000	2196000	Aí você precisa de outro livro, você vai lá
+2196000	2198000	na estante, pega outro livro e deixa o antigo
+2198000	2200000	em cima da mesa, porque você vai precisar dele
+2200000	2202000	Então assim, o que você vai deixando na mesa
+2202000	2204000	seria a mesma coisa que você
+2204000	2206000	dos programas que estão em execução
+2206000	2208000	que você vai guardando a memória RAM.
+2208000	2210000	Que aí você vai trabalhando com ele durante
+2210000	2212000	o uso do seu computador. A memória RAM
+2212000	2214000	ela é volátil. Quando você desliga
+2214000	2216000	o computador, ela
+2216000	2218000	também perde o seu... tudo
+2218000	2220000	que tá armazenada dela, some.
+2220000	2222000	Aí o que tinha no seu computador,
+2222000	2224000	o que tem no seu HD,
+2224000	2226000	o HD não é volátil. Então você pode
+2226000	2228000	desligar, pode tirar o seu HD,
+2228000	2230000	você vai continuar lá.
+2230000	2232000	Mas não é aconselho de tirar o HD
+2232000	2234000	com ele ligado, com o computador ligado.
+2234000	2236000	Não é aconselho de tirar nenhuma peça do
+2236000	2238000	computador com o computador ligado.
+2238000	2240000	É, menos o pedraio, o CD.
+2240000	2242000	É, mas isso aí são mídias removidas.
+2242000	2244000	É, desculpa.
+2244000	2246000	Como o próprio nome já diz, você pode
+2246000	2248000	remover. Não, mas voltando
+2248000	2250000	a aquele conceito lá
+2250000	2252000	da mesa, da estante,
+2252000	2254000	cara, eu acho interessante,
+2254000	2256000	tem razão, vou te chamar
+2256000	2258000	de nunca ter vençado do ângulo desse jeito,
+2258000	2260000	digo. Ah, desse jeito eu fumei cinco
+2260000	2262000	dos nojados.
+2262000	2264000	Pois é.
+2266000	2268000	Além da memória principal,
+2268000	2270000	tem também a ULA, que é a unidade
+2270000	2272000	lógica aritmética,
+2272000	2274000	que é a unidade que realiza os cálculos.
+2274000	2276000	Tem a CPU, que é onde
+2276000	2278000	executa os programas,
+2278000	2280000	ela processa os programas,
+2280000	2282000	e tem os registradores.
+2282000	2284000	Olha, cara, mas como assim,
+2284000	2286000	pra mim, a CPU é aquela caixa
+2286000	2288000	toda, que tinha no HD, do lado do
+2288000	2290000	dentro. Pois é, o grande erro
+2290000	2292000	do pessoal pensar é que
+2292000	2294000	a CPU é aquela caixona, que fica
+2294000	2296000	já no meio do lado, que vem junto
+2296000	2298000	com o monitor, né. Mas não, que lá
+2298000	2300000	o gabinete. Dentro do gabinete tem a
+2300000	2302000	placa mãe, todas essas
+2302000	2304000	parafernagens que a gente falou, que fica
+2304000	2306000	lá dentro do gabinete. E a CPU,
+2306000	2308000	ela é um pedaço
+2308000	2310000	do processador, sabia disso?
+2310000	2312000	Não, sabia não.
+2312000	2314000	Tem gente que pensa,
+2314000	2316000	quando o pessoal pensa
+2316000	2318000	que a gente pensar
+2318000	2320000	errado dizendo que a CPU
+2320000	2322000	é aquela caixona, tem gente que pensa
+2322000	2324000	errado pensando que a CPU
+2324000	2326000	é o processador. Mas não, o processador
+2326000	2328000	dentro do processador fica a CPU, os
+2328000	2330000	registradores, a unidade de controle
+2330000	2332000	e a unidade lógica aritmética.
+2332000	2334000	Tudo isso fica dentro do processador.
+2334000	2336000	E você pensa que o processador é daquele
+2336000	2338000	tamanho, mas você já reparou que dentro do
+2338000	2340000	processador, quando você tira ele da placa mãe
+2340000	2342000	com um negócio preto lá no meizinho?
+2342000	2344000	É, já vi sim. Então, que lá
+2344000	2346000	apenas o que o lá é o processador.
+2346000	2348000	Nossa, mesmo?
+2348000	2350000	Achei que era aquela caixona de todo dia.
+2350000	2352000	Que lá é o seguinte, é porque
+2352000	2354000	o processador, ele tem,
+2354000	2356000	ele precisa de fazer várias comunicações. Como
+2356000	2358000	ele é o centro da máquina,
+2358000	2360000	ele precisa de comunicar com a placa
+2360000	2362000	mãe inteira. Então, ele precisa de
+2362000	2364000	vários pontos de comunicação. Então,
+2364000	2366000	por isso que ele é maior, porque
+2366000	2368000	só aquele bichinho daquele tamanho
+2368000	2370000	estava para fazer aquele monte de pinim.
+2370000	2372000	Então, eles estenderam para fazer
+2372000	2374000	os pinos com um pinim no tocar no outro.
+2374000	2376000	Então, só para terminar aí,
+2376000	2378000	a gente falou sobre a memória, né? Sobre a
+2378000	2380000	ula, que é a unidade lógica aritmética.
+2380000	2382000	A CPU, que na verdade seria
+2382000	2384000	o CPU, que é a unidade
+2384000	2386000	central de processamento, é o CPU.
+2386000	2388000	Mas eu acho mais legal a sigla inglesa,
+2388000	2390000	que é a CPU, que seria
+2390000	2392000	Central Process Unit.
+2392000	2394000	Tem os registradores, que eu não expliquei
+2394000	2396000	ainda. Lembra que eu te falei
+2396000	2398000	no exemplo da mesa do escritório?
+2398000	2400000	A mesa do escritório,
+2400000	2402000	imagina você,
+2402000	2404000	toda hora, você tem que ir lá na estante
+2404000	2406000	pegar e voltar, e lá na estante
+2406000	2408000	pegar e voltar, e você vai organizando
+2408000	2410000	ali na sua mesa, e vai ficando
+2410000	2412000	cada vez mais complicado de organizar
+2412000	2414000	seus livros em cima da mesa.
+2414000	2416000	Acho que eu já estou entendendo.
+2416000	2418000	Aí, entra o estagiário, né?
+2418000	2420000	Então, o estagiário,
+2420000	2422000	na verdade, o estagiário, você pede
+2422000	2424000	para buscar os livros na memória RAM,
+2424000	2426000	por exemplo. No caso de estagiário,
+2426000	2428000	você pediria ele para buscar o livro
+2428000	2430000	na estante.
+2430000	2432000	E trazer para você.
+2432000	2434000	Quem faz esse trabalho de estagiário
+2434000	2436000	no computador, são os registradores.
+2436000	2438000	A CPU,
+2438000	2440000	ela se desenvolveu muito mais rápido que a memória.
+2440000	2442000	E a memória, inclusive,
+2442000	2444000	ela é muito mais neta que o CPU.
+2444000	2446000	Então, às vezes, acontece do CPU ficar
+2446000	2448000	ocioso. Então, o que o pessoal fez?
+2448000	2450000	Fez a memória cache,
+2450000	2452000	que é uma memória rápida e
+2452000	2454000	mais olátil. E fez
+2454000	2456000	registradores.
+2456000	2458000	Esses dois são memórias
+2458000	2460000	que ficam dentro do registrador, que auxiliam
+2460000	2462000	a velocidade
+2462000	2464000	de tráfico entre a memória RAM e o processador.
+2464000	2466000	Para facilitar para o processador
+2466000	2468000	ficar cada vez menos tempo
+2468000	2470000	ocioso.
+2470000	2472000	Quando você liga para...
+2472000	2474000	Então, é como se fizesse duas pessoas, né?
+2474000	2476000	Eu fico perto
+2476000	2478000	da estante uns 10 metros,
+2478000	2480000	em vez de uma pessoa pegar
+2480000	2482000	o livro e levar na minha estante,
+2482000	2484000	aí tem duas pessoas.
+2484000	2486000	Passa uma, passa para outra.
+2486000	2488000	É, seria mais ou menos isso mesmo.
+2488000	2490000	Aí o registrador, só para você ter uma ideia,
+2490000	2492000	ilustrar melhor o registrador.
+2492000	2494000	Quando você, por exemplo,
+2494000	2496000	alguém te liga e fala, só liga para fulano.
+2496000	2498000	Aí você vai e fala,
+2498000	2500000	qual que é o número?
+2500000	2502000	Aí a pessoa fala, tá o número.
+2502000	2504000	Aí você está armazendo o número e liga para a pessoa.
+2504000	2506000	Quando está chamando a ligação,
+2506000	2508000	você já esqueceu um, né?
+2508000	2510000	Daí na hora.
+2510000	2512000	Então, quer dizer que seu registrador
+2512000	2514000	está estragado, que você não consegue
+2514000	2516000	armazenar nem por um pouco tempo.
+2516000	2518000	Mas o registrador do nosso cérebro
+2518000	2520000	é bastante parecido
+2520000	2522000	com o registrador do computador.
+2522000	2524000	Você armazena
+2524000	2526000	por uma quantidade de tempo muito pequena,
+2526000	2528000	porém essa memória é muito rápida.
+2528000	2530000	Você está lembrando de todo o tempo que o número é aquele.
+2530000	2532000	Você lembra na hora,
+2532000	2534000	mas também você esquece rapidamente.
+2534000	2536000	É assim que funciona o registrador.
+2536000	2538000	Então, quer dizer que os peixes são até registrados.
+2538000	2540000	Só não tem um cérebro de memórias.
+2540000	2542000	Dizem que o peixe esquece na mesma hora, né?
+2542000	2544000	Então,
+2544000	2546000	e agora...
+2546000	2548000	Você é piada.
+2552000	2554000	Agora, a unidade de controle.
+2554000	2556000	A unidade de controle é você
+2556000	2558000	no exemplo
+2558000	2560000	do escritório.
+2560000	2562000	Porque você mandou o estagiário lá
+2562000	2564000	pegar o livro, você mandou
+2564000	2566000	você manda
+2566000	2568000	pegar as coisas na memória
+2568000	2570000	na mesa e tal.
+2570000	2572000	Então, você está mandando, cada um fazer uma coisa
+2572000	2574000	e tal, faz isso, faz aquilo.
+2574000	2576000	Ou seja, você está controlando a sequência de execuções.
+2576000	2578000	E é a mesma coisa.
+2578000	2580000	A unidade de controle, ela faz no processador.
+2580000	2582000	Ela controla a sequência de execuções.
+2582000	2584000	Então, é isso que é a função.
+2584000	2586000	Por exemplo, para como se fosse uma pessoa do meio, né?
+2586000	2588000	Até chegar no mim.
+2588000	2590000	Ele vira e fica sublimitar, certo?
+2590000	2592000	Não, ele é você mesmo.
+2592000	2594000	Ele controla, por exemplo.
+2594000	2596000	Chega uma instrução
+2596000	2598000	no processador.
+2598000	2600000	Aí você faz...
+2600000	2602000	Não, esse...
+2602000	2604000	Por exemplo, esse livro que eu não vou ler ele agora,
+2604000	2606000	eu vou ler... eu preciso ler o outro.
+2606000	2608000	Não, agora eu preciso pegar tal livro.
+2608000	2610000	Não, agora eu tenho que voltar naquele livro.
+2610000	2612000	Não, agora eu preciso fazer aquilo.
+2612000	2614000	Não, agora eu não posso ler o livro nenhum.
+2614000	2616000	Agora eu tenho que fazer uns pontos.
+2616000	2618000	Não, agora eu vou anotar.
+2618000	2620000	Então, você está controlando a sequência
+2620000	2622000	o básico da arquitetura de convívio.
+2622000	2624000	E o processador
+2624000	2626000	é a parte que fica CPUs, registradores
+2626000	2628000	a unidade de controle
+2628000	2630000	e a unidade lógica.
+2630000	2632000	É lítimética e é o cérebro do computador.
+2632000	2634000	Aí você lembra do estagiário?
+2634000	2636000	Ou seja, eu fui estagiar no bom tempo.
+2636000	2638000	Então, esse estagiário...
+2638000	2640000	Tem outro estagiário.
+2640000	2642000	Sabe aquele estagiário que você vai lá
+2642000	2644000	e chama o fulano.
+2644000	2646000	Não, a visa para o fulano faz isso.
+2646000	2648000	Não, faz o cara que
+2648000	2650000	você vai lá.
+2650000	2652000	Então, essa é o chipset.
+2652000	2654000	No computador também existe.
+2654000	2656000	Ele se chama chipset.
+2656000	2658000	Ah, achei que era um boto bom.
+2658000	2660000	Então, chipset, como o próprio não diz,
+2660000	2662000	ele é um conjunto de chips.
+2662000	2664000	Chipset, conjuntos de chips.
+2664000	2666000	Eles são pequenos processadores
+2666000	2668000	que fazem trabalhos específicos, por exemplo.
+2668000	2670000	No computador tem dois chipsets
+2670000	2672000	base, que é a ponte norte
+2672000	2674000	e a ponte sul. E a ponte norte
+2674000	2676000	é o chipset
+2676000	2678000	que fica mais perto da CPU.
+2678000	2680000	Ele conecta a CPU
+2680000	2682000	até a memória principal.
+2682000	2684000	Ele é o que faz
+2684000	2686000	aquele trabalho, a ligação
+2686000	2688000	de levar dados da memória principal
+2688000	2690000	para a memória cache, por exemplo.
+2690000	2692000	Ele serve para auxiliar na rapidez
+2692000	2694000	do processador não ficar
+2694000	2696000	ocioso, né? Aquela mesma história de sempre.
+2696000	2698000	E tem a ponte sul, que é a south bright.
+2698000	2700000	Ela comunica com a north bright,
+2700000	2702000	que é a ponte norte,
+2702000	2704000	através do barramento.
+2704000	2706000	Ela controla o barramento CCI,
+2706000	2708000	a placa de vídeo onboard,
+2708000	2710000	o controlador de CD,
+2710000	2712000	o HD, a porta USB,
+2712000	2714000	a placa de rede,
+2714000	2716000	a placa de áudio.
+2716000	2718000	Vou terminar os fabricantes de chipset,
+2718000	2720000	mas
+2720000	2722000	as empresas que fabricam chipsets
+2722000	2724000	são Intel, AMD, NVIDIA,
+2724000	2726000	ASSIS e Avia.
+2726000	2728000	Só um conselho
+2728000	2730000	para deixar aí como dica.
+2730000	2732000	É altamente conselhado
+2732000	2734000	que não comprem chipsets
+2734000	2736000	nem da ASSIS e nem da Avia.
+2736000	2738000	Eu, particularmente,
+2738000	2740000	nunca tive problema, mas muitas pessoas já
+2740000	2742000	já teve um problema por ter chipset
+2742000	2744000	dessas empresas, que são de
+2744000	2746000	uma qualidade mais ruim.
+2746000	2748000	Podia ter me falado antes.
+2748000	2750000	Agora você lembra
+2750000	2752000	daquela história lá
+2752000	2754000	mais uma vez, falando
+2754000	2756000	do estagiário
+2756000	2758000	que pegava o livro,
+2758000	2760000	você é aonde, aquela coisa toda?
+2760000	2762000	Não sei, não sei o que tem.
+2762000	2764000	Aqui lá,
+2764000	2766000	tem vários níveis para melhorar
+2766000	2768000	o caminho entre a memória principal
+2768000	2770000	e a CPU.
+2770000	2772000	A gente já falou do North Bride,
+2772000	2774000	da memória cache, do registrador
+2774000	2776000	e isso tudo está entre
+2776000	2778000	o processador e a memória principal.
+2778000	2780000	Agora mais um
+2780000	2782000	conceito
+2782000	2784000	a entrar no meio do caminho
+2784000	2786000	seria o FSB,
+2786000	2788000	que é o Frontside Bus.
+2788000	2790000	É o ônibus, né?
+2790000	2792000	Não.
+2792000	2794000	O frontside bus é o caminho
+2794000	2796000	entre a CPU e a ponte Norte.
+2796000	2798000	Por exemplo, às vezes você vê lá
+2798000	2800000	a placa Mãe e tal, 1.66MHz,
+2800000	2802000	1.800MHz,
+2802000	2804000	que é lá o frontside bus,
+2804000	2806000	que é a comunicação
+2806000	2808000	em termos de ciclos.
+2808000	2810000	Significa que em um segundo
+2810000	2812000	ele faz 1.666 ciclos.
+2812000	2814000	Mas aqui, na verdade, não influencia muito
+2814000	2816000	na velocidade, porque realmente influencia
+2816000	2818000	os milhões de transferências por segundo,
+2818000	2820000	que é o MTR.
+2824000	2826000	Agora para terminar,
+2826000	2828000	vamos falar de alguns conceitos
+2828000	2830000	da placa Mãe, né? Como a gente já falou,
+2830000	2832000	que ela foi criada...
+2832000	2834000	O conceito de placa Mãe foi criado pelo IBM
+2834000	2836000	e tal,
+2836000	2838000	e foi difundido porque a IBM, na época,
+2838000	2840000	ela abriu o projeto da placa Mãe,
+2840000	2842000	explicando e tal,
+2842000	2844000	toda a documentação de como era feita
+2844000	2846000	na IBM PC. Assim, as outras empresas
+2846000	2848000	fabricantes de computador pessoal
+2848000	2850000	pegaram esse modelo e começaram a implementar.
+2850000	2852000	A placa Mãe é caracterizada
+2852000	2854000	por ter vários componentes integrados
+2854000	2856000	e a capacidade
+2856000	2858000	de expansão, como falei. Então, tem os
+2858000	2860000	slots lá na placa Mãe,
+2860000	2862000	e você pode comprar uma placa extra
+2862000	2864000	com a funcionalidade extra,
+2864000	2866000	quando é que está lá na placa Mãe, e ela vai saber
+2866000	2868000	através dos padrões, como falei
+2868000	2870000	no princípio,
+2870000	2872000	através dos padrões, você vai ter
+2872000	2874000	uma capacidade a mais na sua placa Mãe.
+2874000	2876000	Por exemplo,
+2876000	2878000	você coloca lá uma placa de vídeo
+2878000	2880000	de melhor qualidade,
+2880000	2882000	o vídeo vai conectar
+2882000	2884000	na placa Mãe,
+2884000	2886000	e ali ele vai ter as trilhas
+2886000	2888000	até o CPU.
+2888000	2890000	A CPU, ela vai mandar os dados
+2890000	2892000	para a placa de vídeo,
+2892000	2894000	e a placa de vídeo vai processar a imagem
+2894000	2896000	e mandar para o monitor.
+2896000	2898000	É, só que hoje em dia, as posibilidades
+2898000	2900000	estão melhores por causa da GPU,
+2900000	2902000	que é o próprio dispositivo de vídeo.
+2902000	2904000	É, porque o vídeo
+2904000	2906000	para ele ser processado,
+2906000	2908000	ele depende muito
+2908000	2910000	para se processar um vídeo bom
+2910000	2912000	de boa qualidade, ele depende muito de processamento.
+2912000	2914000	Então, as placas de vídeo
+2914000	2916000	você vê as placas de vídeo
+2916000	2918000	para jogo, por exemplo, tem uma memória RAM
+2918000	2920000	dedicada só para elas.
+2920000	2922000	Você vê placa de vídeo com
+2922000	2924000	802M, 1G,
+2924000	2926000	memória RAM só para elas.
+2926000	2928000	Então, a placa de vídeo
+2928000	2930000	exige muito de hardware.
+2930000	2932000	Então, o pessoal
+2932000	2934000	está, principalmente,
+2934000	2936000	você é mais conhecido pessoal que joga, eu faço um jogo,
+2936000	2938000	então, não sei se
+2938000	2940000	falar com detalhes sobre placa de vídeo.
+2940000	2942000	Mas, assim, placa de vídeo
+2942000	2944000	geralmente, tem esse
+2944000	2946000	detalhe aí de
+2946000	2948000	desempenho que exige muito hardware.
+2948000	2950000	Então, eles estão desenvolvendo cada vez mais.
+2950000	2952000	É, se você quiser comprar uma placa
+2952000	2954000	de vídeo boa, olha principalmente
+2954000	2956000	a memória dela e a GPU,
+2956000	2958000	que é o GP
+2958000	2960000	no português Unidade, de gráficos
+2960000	2962000	de processamento, aí você
+2962000	2964000	faz a comparação, aí
+2964000	2966000	você vai obter o resultado
+2966000	2968000	da sua placa desejada.
+2968000	2970000	Então, depende.
+2970000	2972000	Se você não joga, ou se você joga
+2972000	2974000	um jogo simples, se você joga só
+2974000	2976000	Counter Strike, por exemplo, você não precisa
+2976000	2978000	de uma placa de vídeo boa, você precisa
+2978000	2980000	de uma placa de vídeo razoável. Agora, se
+2980000	2982000	você joga lá aqueles jogos mais pesados,
+2982000	2984000	então, você vai precisar de uma placa
+2984000	2986000	de vídeo, você tem que levar em conta isso aí também.
+2986000	2988000	Não adianta nada, você gastar uma grana
+2988000	2990000	para comprar uma placa de vídeo, que você não vai
+2990000	2992000	usar todo o recurso dela, vai ter gastado
+2992000	2994000	dinheiro à toa. É, pesado que ele fala,
+2994000	2996000	não é pesado de que, não é pesado
+2996000	2998000	um dado, não. É, em processamento,
+2998000	3000000	que o jogo pesado, ele vai
+3000000	3002000	exigir mais hardware para processar a imagem
+3002000	3004000	do jogo, não é?
+3008000	3010000	Então, assim, para
+3010000	3012000	encerrar essa parte da architecture
+3012000	3014000	a Bills, é bicho
+3014000	3016000	inútil operando o sistema, coisa assim.
+3016000	3018000	Tem várias, várias implementáveis
+3018000	3020000	para essa sigla, de forma engraçada.
+3020000	3022000	A verdade, que ele é
+3022000	3024000	o basic input-output
+3024000	3026000	system, que é o
+3026000	3028000	software, é burro idiota operando
+3028000	3030000	o sistema. É, tem
+3030000	3032000	várias tipos de coisas também. Mas a
+3032000	3034000	verdade é que é basic input-output
+3034000	3036000	system, que é o sistema
+3036000	3038000	básico de entrada e saída. A Bills,
+3038000	3040000	ela é um software, na verdade,
+3040000	3042000	que é o primeiro software que existe no
+3042000	3044000	computador. Ela é um software gravado
+3044000	3046000	num chip, que é, o chip
+3046000	3048000	geralmente é EEPROM, que é
+3048000	3050000	ELETRONICALY ERRAISABLE PROGRAMABLE
+3050000	3052000	RED ONLY MEMORIES.
+3052000	3054000	Que é, são memoras,
+3054000	3056000	somente leitura, mas são
+3056000	3058000	programáveis, apagáveis, e tudo isso
+3058000	3060000	é feito eletronicamente.
+3060000	3062000	É isso que significa a sigla.
+3064000	3066000	A Bills, ela é responsável pelo
+3066000	3068000	POST, que é
+3068000	3070000	ONSELF TEST. Ela auto
+3070000	3072000	testa, né, no momento de
+3072000	3074000	ligar, que ela vai testar a memória,
+3074000	3076000	testar os discos, previstar tudo
+3076000	3078000	inteiro, e aí ele vai dar
+3078000	3080000	o boot no sistema, que é
+3080000	3082000	onde ele dá a carga no
+3082000	3084000	sistema operacional. E o Spick,
+3084000	3086000	ele faz parte da Bills, ele é
+3086000	3088000	um rádio de
+3088000	3090000	entrada, saída, como é que é?
+3090000	3092000	Então, o Spick, é aquele
+3092000	3094000	micro autopalante que tem lá dentro,
+3094000	3096000	geralmente tem os computadores
+3096000	3098000	da um PEMP lá, quando
+3098000	3100000	está tudo ok, né. Então
+3100000	3102000	quando, por exemplo, porque os
+3102000	3104000	três, os três
+3104000	3106000	básicos de um computador, que um
+3106000	3108000	computador tem que ter para funcionar,
+3108000	3110000	é a memória RAM,
+3110000	3112000	o processador, e a
+3112000	3114000	a placa-mãe, né. Então,
+3114000	3116000	ele vai ser, se
+3116000	3118000	tiver faltando um desses três, ele
+3118000	3120000	vai ficar apitando incessantemente.
+3120000	3122000	É, uma vez eu
+3122000	3124000	dormi demais na House,
+3124000	3126000	eu me derrumei no gênero, achei ele estar
+3126000	3128000	ficando...
+3128000	3130000	Então, esse aí acontece, porque, na
+3130000	3132000	verdade, a Bills, ela
+3132000	3134000	lança igual, eu falei, né.
+3134000	3136000	Ele dá a saída desejada
+3136000	3138000	ou a saída de erro.
+3138000	3140000	O BIP apitando,
+3140000	3142000	significa uma saída de erro. Agora,
+3142000	3144000	ele dá um sinal para a saída,
+3144000	3146000	porque é interpretado pelo BIP,
+3146000	3148000	depende do BIP.
+3154000	3156000	Agora, a gente falou sobre
+3156000	3158000	todas essas coisas aí e tal,
+3158000	3160000	uma coisa que eu quero
+3160000	3162000	desmistificar também, em questão de
+3162000	3164000	computador. Que pessoa pensa, igual,
+3164000	3166000	muita gente chega a mim falando assim,
+3166000	3168000	quando que foi criado o computador?
+3168000	3170000	E lá na mente deles, eles estão
+3170000	3172000	imaginando, quando que foi criado, aquele
+3172000	3174000	bichinho, que tem uma televisão, um
+3174000	3176000	teclado, um mouse e uma caixa do lado.
+3176000	3178000	Aqui lá, é um computador
+3178000	3180000	pessoal, foi um conceito
+3180000	3182000	criado pela IBM e foi adequado
+3182000	3184000	pelas empresas, porque seria
+3184000	3186000	uma melhor distribuição de hardware
+3186000	3188000	para pessoas comuns
+3188000	3190000	usarem. Mas, na verdade,
+3190000	3192000	o computador não é só isso. Por exemplo,
+3192000	3194000	o seu celular é um computador,
+3194000	3196000	um chip é um computador,
+3196000	3198000	uma calculadora é um computador,
+3198000	3200000	um relógio digital é um computador.
+3200000	3202000	Tudo que tem um processamento,
+3202000	3204000	tudo que você envolve
+3204000	3206000	uma entrada, ele processa,
+3206000	3208000	se te devolve uma saída, é um computador.
+3208000	3210000	Ah, mas,
+3210000	3212000	é como se fosse eu ligar
+3212000	3214000	no meu computador e falar
+3214000	3216000	para esse outro problema aqui nas minhas
+3216000	3218000	finanças, será que você pode
+3218000	3220000	dar uma olhada aí? Aí,
+3220000	3222000	depois ele vai lá e fala assim, não, beleza.
+3222000	3224000	Agora eu te ligo aí,
+3224000	3226000	vou computar aqui, e agora
+3226000	3228000	eu te ligo para te dar os resultados.
+3228000	3230000	O que seria computar? Ele vai
+3230000	3232000	colocar no computador dele, e o que eu
+3232000	3234000	falei? Fiquei isso.
+3234000	3236000	Não fui entender direito. Então, é
+3236000	3238000	igual, as pessoas falam assim,
+3238000	3240000	eu vou computar. Não, eu vou computar
+3240000	3242000	isso aqui, eu preciso de os dados
+3242000	3244000	computados e tal. O que seria
+3244000	3246000	os dados computados? É exatamente
+3246000	3248000	esse conceito, os dados trabalhados,
+3248000	3250000	dados processados. Você pega
+3250000	3252000	lá, por exemplo, um
+3252000	3254000	contador, ele vai pegar o que a
+3254000	3256000	empresa gastou, que a empresa teve de
+3256000	3258000	receita, ele vai computar aquilo ali,
+3258000	3260000	e a saída é, se a empresa
+3260000	3262000	vai estar ganhando dinheiro,
+3262000	3264000	se a empresa está dando todo o juízo,
+3264000	3266000	são essas coisas, são as respostas,
+3266000	3268000	o cara quer, o que o usuário final
+3268000	3270000	quer, o usuário final sendo o
+3270000	3272000	empresário. Você quer saber se a empresa
+3272000	3274000	dele está dando lucro, está dando juízo,
+3274000	3276000	a empresa dele vai morrer ou não. Então, ele
+3276000	3278000	vai computar esses dados, que são os
+3278000	3280000	dados, o que são os dados, o que que a
+3280000	3282000	empresa vendeu, o que que a empresa comprou,
+3282000	3284000	o que que ela paga para funcionar, o que que
+3284000	3286000	ela teve de despesa, o que que ela teve de
+3286000	3288000	ganho. E ele vai computar esses dados,
+3288000	3290000	e vai retornar a resposta para o
+3290000	3292000	empresário. Ele vai saber se a empresa
+3292000	3294000	dele foi superávit ou se foi déficit.
+3294000	3296000	Ele vai pegar os dados, guardar no papel
+3296000	3298000	e passar informação
+3298000	3300000	para mim, igualzinho o computador
+3300000	3302000	faz. Só que
+3302000	3304000	ele não é computador, ele é uma pessoa,
+3304000	3306000	ele vai pegar os dados que recebeu
+3306000	3308000	processar e jogar
+3308000	3310000	para fora, que no caso é falar para mim.
+3310000	3312000	É igual eu falei, a arquitetura
+3312000	3314000	de Von Nielmann, e a
+3314000	3316000	arquitetura do computador em si,
+3316000	3318000	ela está presente no mundo
+3318000	3320000	inteiro, em tudo quanto é lugar.
+3320000	3322000	Hoje, se você, por exemplo, quando você
+3322000	3324000	é um empresarador no carro, ele gira
+3324000	3326000	o motor mais rápido.
+3326000	3328000	Ele teve uma ação,
+3328000	3330000	ele processou o que que você estava querendo
+3330000	3332000	e devolveu o que você quis.
+3332000	3334000	Tudo isso, todo
+3334000	3336000	todo a máquina, tudo que foi
+3336000	3338000	criado de tecnologia pelo homem,
+3338000	3340000	ele tem esse conselho de entrar e de dar
+3340000	3342000	processamento e saída.
+3342000	3344000	E tudo que você vê que é
+3344000	3346000	que tem esse comportamento, que
+3346000	3348000	tem um processamento digital,
+3348000	3350000	ele é um computador. Por isso que
+3350000	3352000	às vezes você fala assim, é um computador de
+3352000	3354000	board num carro, você já imagina um
+3354000	3356000	notebook grudado no painel
+3356000	3358000	ali, mas não é assim, funciona?
+3358000	3360000	Eu pensava isso, pois é, então,
+3360000	3362000	não é assim funcionando. Então é isso aí,
+3362000	3364000	eu queria deixar para vocês.
+3370000	3372000	É isso aí pessoal,
+3372000	3374000	muito obrigado por
+3374000	3376000	ouvirem o nosso podcast,
+3376000	3378000	está chegando ao fim mais uma vez,
+3378000	3380000	o Sebastião Hellsson não pôde participar
+3380000	3382000	dessa gravação, gravamos
+3382000	3384000	eu e o João Felipe, o alemão
+3384000	3386000	que é o nosso colaborador
+3386000	3388000	que estamos aí, talvez vamos ser
+3388000	3390000	mais alguns colaboradores para o trigo de C.I.
+3390000	3392000	Estamos tentando
+3392000	3394000	ver de qual que é aí
+3394000	3396000	para a gente melhorar o nosso
+3396000	3398000	conteúdo para que
+3398000	3400000	agradar vocês, que são os nossos ouvintes
+3400000	3402000	e as pessoas que acessam o nosso blog.
+3402000	3404000	Então a gente está visando
+3404000	3406000	melhorar para vocês.
+3406000	3408000	Sim pessoal, eu queria agradecer
+3408000	3410000	o Shodownled pela oportunidade de
+3410000	3412000	gravar esse podcast com ele
+3412000	3414000	e infelizmente o Sebastião Hellsson não pôde
+3414000	3416000	mandar um abraço para ele aí.
+3416000	3418000	Queria mandar um abraço para o meu mano
+3418000	3420000	Slot aí, beleza?
+3420000	3422000	Que que é Slot?
+3422000	3424000	O mano de 10 que nem que eu conheço
+3424000	3426000	de 10 Slot
+3428000	3430000	E também, eu ver se
+3430000	3432000	você não toma o microfone de mim, eu quero fazer a propaganda
+3432000	3434000	do meu blog. Acessa lá, alemão.tk
+3434000	3436000	Falou. O cara está fazendo
+3436000	3438000	mexandais aqui, mas pode pagar, hein?
+3438000	3440000	Então esse aí pessoal,
+3440000	3442000	a gente vai lembrar mais uma vez
+3442000	3444000	o pessoal mandar e-mail, reclamação,
+3444000	3446000	sugestão. A gente
+3446000	3448000	sugere
+3448000	3450000	os nossos assuntos a ser falados, os podcasts
+3450000	3452000	mas vocês podem também sugerir.
+3452000	3454000	Fazer, ah, podia falar sobre isso,
+3454000	3456000	ah, podia falar sobre aquilo. Se ninguém falar
+3456000	3458000	nada a gente vai fazer do jeito que a gente pensa, né?
+3458000	3460000	Mas assim, a gente quer que é interatividade.
+3460000	3462000	É para isso que existe a
+3462000	3464000	internet. Que a internet, ela é uma
+3464000	3466000	linha de mão duplo. A gente
+3466000	3468000	fala, mas também quer a resposta de vocês.
+3468000	3470000	Queria lembrar vocês, a gente
+3470000	3472000	tem um e-mail, né?
+3472000	3474000	podcastarobotriboci.net
+3474000	3476000	tem o tribo de C.I. Arrobogemail.com
+3476000	3478000	Se vocês quiserem mandar e-mail de voz
+3478000	3480000	a gente põe aqui também. A gente
+3480000	3482000	vai tentar falar no próximo podcast
+3482000	3484000	já vou deixar assim para vocês
+3484000	3486000	sobre redes. Nós estamos
+3486000	3488000	tendo aí contatos com
+3488000	3490000	algumas pessoas pra gravar
+3490000	3492000	no podcast, mais convidados aí também
+3492000	3494000	e espero que vocês fiquem sempre
+3494000	3496000	ligados na tribo de C.I.
+3496000	3498000	e nos novidades.
+3498000	3500000	Então, falou pessoal, muito obrigado
+3500000	3502000	até a próxima.
+3514000	3516000	Parte teórica e ideológica.
+3516000	3518000	Introdução.
+3518000	3520000	Parte teórica e ideológica.
+3520000	3522000	Introdução.
+3522000	3524000	Parte teórica e ideológica.
+3524000	3526000	Introdução.
+3526000	3528000	Parte teórica e ideológica.
+3528000	3530000	Introdução.
+3530000	3532000	Parte teórica e ideológica.
+3532000	3534000	Então tem que comprar um...
+3534000	3536000	Aí pessoal, vamos juntar um
+3536000	3538000	engenheiro e abrir uma doação
+3538000	3540000	para pagar um
+3540000	3542000	um final de jogo para a pessoal
+3542000	3544000	da tribo de C.I.

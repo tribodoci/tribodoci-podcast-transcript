@@ -1,0 +1,4721 @@
+WEBVTT
+
+00:00.000 --> 00:08.000
+E aí, deixa eu falar uma coisa. Quem fazia natação aí?
+
+00:08.000 --> 00:10.000
+Era eu aqui, seu machão.
+
+00:10.000 --> 00:14.000
+Então, aí eu tinha pensado na piadinha pra te falar, mas a gente não era íntimo ainda?
+
+00:14.000 --> 00:16.000
+Não, pode falar que a gente é...
+
+00:16.000 --> 00:21.000
+Não, que é assim, que o pessoal fala, via sua cara e falava que você não fazia natação.
+
+00:21.000 --> 00:23.000
+Você devia ser um torneiro, né?
+
+00:23.000 --> 00:25.000
+É, torneiro mecânico, alguma coisa assim.
+
+00:25.000 --> 00:30.000
+Ó, não tem graça, tá? Mas eu pensei assim, quem vê cara, não vê natação.
+
+00:41.000 --> 00:45.000
+Episódio 16, entrevista com Cicero Moraes.
+
+00:45.000 --> 00:50.000
+Cicero Moraes é um artista 3D e militante do software livre.
+
+00:50.000 --> 00:59.000
+Sendo assim, a gente dá sequência a uma série de entrevistas com artistas visuais que trabalham com software livre no seu dia a dia.
+
+00:59.000 --> 01:05.000
+Uma grande reunião do destino, já que a gente tem flertado com o pessoal do podcast Papo Acessível,
+
+01:05.000 --> 01:11.000
+que é um programa apresentado, produzido, publicado por deficientes visuais.
+
+01:11.000 --> 01:14.000
+Pessoas totalmente cegas ou com baixa visão.
+
+01:14.000 --> 01:18.000
+Não importa porque a entrevista não é sobre artes visuais, e sim sobre o profissional,
+
+01:18.000 --> 01:22.000
+como se fosse o coração da voz, lá do Radifobia,
+
+01:22.000 --> 01:27.000
+com a diferença que a gente fala com pessoas que trabalham com software livre no seu dia a dia.
+
+01:27.000 --> 01:31.000
+Vamos lá para a entrevista que teve também o alemão que me ajudou,
+
+01:31.000 --> 01:35.000
+e no finalzinho eu volto com os recadinhos e agradecimentos.
+
+01:35.000 --> 01:39.000
+Só lembrando que essa entrevista foi gravada há pelo menos dois anos,
+
+01:39.000 --> 01:42.000
+então a gente está publicando no finalzinho de 2013.
+
+01:42.000 --> 01:45.000
+Vamos lá então para a entrevista. Um abraço.
+
+01:48.000 --> 01:54.000
+Você falou que era autodidato, assim, como você começou a estudar sozinho,
+
+01:54.000 --> 01:57.000
+como você iniciou sua área de 3D, né?
+
+01:57.000 --> 02:02.000
+Como você conhecia o software livre, se você já começou a trabalhar com software livre?
+
+02:02.000 --> 02:05.000
+Primeiro que eu comecei a trabalhar na área grave, eu sempre desenhei,
+
+02:05.000 --> 02:11.000
+e eu havia dito pra vocês que minha mãe deu uma super força mentindo e falando que os desenhos eram bonitos.
+
+02:11.000 --> 02:15.000
+Toda mãe fala isso, é igual a mãe nunca fala que você é feita.
+
+02:15.000 --> 02:20.000
+Ela não se contentou em mentir dizendo que era bonito e falou que eu desenhava bem também.
+
+02:20.000 --> 02:23.000
+Só que eu não consegui cara de moça.
+
+02:23.000 --> 02:27.000
+Aí eu comecei a trabalhar com tablana, eu fazia muito desenho,
+
+02:27.000 --> 02:31.000
+e a mãe também, além de ela mentir essas coisas, ela foi encher o saco do pessoal
+
+02:31.000 --> 02:33.000
+que tem uma empresa de desenho arquitetônico aqui na cidade,
+
+02:33.000 --> 02:38.000
+que a cidade não tinha escola de desenho e o que havia de mais próximo ao que eu fazia
+
+02:38.000 --> 02:42.000
+era justamente desenhos arquitetônicos de pré-visualização de obus.
+
+02:42.000 --> 02:46.000
+E eu comecei a trabalhar na área como eu aprendi muito cedo, lá pelos 11, 12 anos.
+
+02:46.000 --> 02:48.000
+Começou essa...
+
+02:48.000 --> 02:51.000
+Quando foi isso? Quem... a gente não sabe sua idade.
+
+02:51.000 --> 02:54.000
+95 por aí, 94.
+
+02:54.000 --> 02:55.000
+Ah, tá.
+
+02:55.000 --> 03:00.000
+Era realmente muito novo e não tinha essa coisa da pessoa de menor trabalhar, era fora da lei, né?
+
+03:00.000 --> 03:04.000
+Até a lei aqui na cidade não havia chegado, não tinha fim de capé.
+
+03:04.000 --> 03:09.000
+Mas era arte conceitual ou era tipo a planta baixa?
+
+03:09.000 --> 03:14.000
+Então, porque inicialmente era para fazer só parte do desenho mesmo da pré-visualização.
+
+03:14.000 --> 03:18.000
+Só que aí o pessoal começou a jogar as plantas baixas para desenhar, comecei a desenhar também.
+
+03:18.000 --> 03:22.000
+E veio a informática lá por 96, 97, que se tornou uma coisa mais popular.
+
+03:22.000 --> 03:26.000
+Eu fiz um curso e o sonho de todo mundo que começa isso da informática
+
+03:26.000 --> 03:30.000
+e trabalha com uma área é tentar levar aquela área que ele trabalha manualmente
+
+03:30.000 --> 03:32.000
+e todas as facilidades da informática.
+
+03:32.000 --> 03:35.000
+Porque no tempo que eu desenhava, tinha que desenhar com caneta banquinha
+
+03:35.000 --> 03:39.000
+e havia muito problema de você errar o desenho e ter que apagar ele.
+
+03:39.000 --> 03:42.000
+E para apagar a gente fazia o desenho num papel chamado papel digital.
+
+03:42.000 --> 03:44.000
+Para apagar, tinha que passar gilete, lânei de ar.
+
+03:44.000 --> 03:47.000
+E muitas vezes comprometia a qualidade do desenho.
+
+03:47.000 --> 03:49.000
+Então meu sonho era passar logo com o computador,
+
+03:49.000 --> 03:52.000
+porque o computador tinha uma coisa que o desenho manual não tinha.
+
+03:52.000 --> 03:56.000
+Você poder voltar, poder apagar, poder desenhar em cima do que você já tinha desenhado.
+
+03:56.000 --> 04:00.000
+Eu comecei a ir atrás disso e o internet ainda não estava popular.
+
+04:00.000 --> 04:04.000
+Ou você comprava ali, que não era meu caso, que não tinha dinheiro, era do.
+
+04:04.000 --> 04:06.000
+Ou você comprava um CD, que era muito mais acessível
+
+04:06.000 --> 04:10.000
+e tinha um conteúdo maior de informação em relação aos livros.
+
+04:10.000 --> 04:13.000
+Tinha as vídeo-aulas, tinha uma coisa meio escrita assim,
+
+04:13.000 --> 04:14.000
+não complementava o outro.
+
+04:14.000 --> 04:15.000
+E eu aprendi por lá.
+
+04:15.000 --> 04:18.000
+Depois que veio a internet, eu comecei a estudar pela internet
+
+04:18.000 --> 04:22.000
+e comecei a assistir tectoriais e assim foi.
+
+04:27.000 --> 04:30.000
+O fato de trabalhar com o 3D veio depois,
+
+04:30.000 --> 04:32.000
+complementando a segunda parte,
+
+04:32.000 --> 04:34.000
+a parte de trabalhar com o 3D,
+
+04:34.000 --> 04:39.000
+veio depois que foi quando o 3D Studio Max 2 foi lançado,
+
+04:39.000 --> 04:40.000
+dois ou três.
+
+04:40.000 --> 04:44.000
+Comecei a também a aprender ele por CD,
+
+04:44.000 --> 04:46.000
+depois por fóruns da internet,
+
+04:46.000 --> 04:49.000
+só que eu não gostava de trabalhar com ele que tinha que pagar
+
+04:49.000 --> 04:50.000
+e não o fato de ter que pagar.
+
+04:50.000 --> 04:53.000
+Se eu tivesse dinheiro, ficaria sem problemas nenhum.
+
+04:53.000 --> 04:57.000
+Mas era um problema pirata, não tinha condições de comprar
+
+04:57.000 --> 04:59.000
+e eu fiquei sabendo do Linux.
+
+04:59.000 --> 05:01.000
+Não entendia direito o que era,
+
+05:01.000 --> 05:03.000
+o pessoal sempre pergunta se sabia o que era o pensor,
+
+05:03.000 --> 05:04.000
+se eu não sabia.
+
+05:04.000 --> 05:07.000
+Naquela época para mim, lá por 2003,
+
+05:07.000 --> 05:09.000
+eu imaginava que o que mais me chamava o pensor
+
+05:09.000 --> 05:12.000
+era o fato de ser barato, de ser barato não, de ser gratuito.
+
+05:12.000 --> 05:14.000
+Mas eu comecei a trabalhar, comecei a gostar
+
+05:14.000 --> 05:16.000
+e como também eu sempre falo com o pessoal,
+
+05:16.000 --> 05:18.000
+quando você entra numa comunidade
+
+05:18.000 --> 05:20.000
+que envolve um programa o pensor,
+
+05:20.000 --> 05:22.000
+você está me sentindo meio que na família,
+
+05:22.000 --> 05:24.000
+uma família, uma pessoa ajuda o outro,
+
+05:24.000 --> 05:26.000
+a pessoa que faz parte do programa
+
+05:26.000 --> 05:29.000
+é o cara que conversa contigo lá no fórum,
+
+05:29.000 --> 05:31.000
+você pode de repente dar uma ideia para ele,
+
+05:31.000 --> 05:32.000
+ele vai odiar,
+
+05:32.000 --> 05:35.000
+você tem essa possibilidade de trocar informação.
+
+05:35.000 --> 05:37.000
+Um artista que é um super artista
+
+05:37.000 --> 05:40.000
+que você dificilmente teria contato num programa fechado,
+
+05:40.000 --> 05:42.000
+não que isso seja um tomor,
+
+05:42.000 --> 05:44.000
+um problema dos programas fechados,
+
+05:44.000 --> 05:46.000
+mas é muito difícil você ter acesso.
+
+05:46.000 --> 05:48.000
+E já no mundo do pensor,
+
+05:48.000 --> 05:51.000
+é impressionante a proximidade que você tem com as pessoas
+
+05:51.000 --> 05:54.000
+que fazem parte de toda a cadeia de desenvolvimento do programa,
+
+05:54.000 --> 05:55.000
+isso é muito legal.
+
+05:55.000 --> 05:59.000
+Mas assim, você começou a mexer com um 3D,
+
+05:59.000 --> 06:01.000
+a tentar aprender isso por hobby
+
+06:01.000 --> 06:03.000
+ou porque lá nonde você começou a trabalhar,
+
+06:03.000 --> 06:05.000
+eles começaram a exigir isso de você?
+
+06:05.000 --> 06:07.000
+Então, na verdade, foi a mesma situação
+
+06:07.000 --> 06:09.000
+que me levou a trabalhar com o computador no começo.
+
+06:09.000 --> 06:10.000
+Com o que acontecia?
+
+06:10.000 --> 06:12.000
+Eu errava um desenho manual, tinha que apagar,
+
+06:12.000 --> 06:15.000
+às vezes comprometi o desenho todo, tinha que desenhar tudo de novo.
+
+06:15.000 --> 06:17.000
+No computador, você podia apagar, podia voltar,
+
+06:17.000 --> 06:20.000
+podia imprimir em uma escala maior, em uma escala menor,
+
+06:20.000 --> 06:21.000
+era muita flexibilidade.
+
+06:21.000 --> 06:23.000
+Depois que você trabalha com planta baixa,
+
+06:23.000 --> 06:24.000
+falando em 2D,
+
+06:24.000 --> 06:27.000
+o pessoal começa meio que de cobrar o mercado cobra mesmo,
+
+06:27.000 --> 06:29.000
+que você oferece algo a mais,
+
+06:29.000 --> 06:31.000
+algo que seja mais compatível com a realidade,
+
+06:31.000 --> 06:33.000
+ou seja, você faz um 3D,
+
+06:33.000 --> 06:35.000
+com uma renderização fotorealística que eles chamam.
+
+06:35.000 --> 06:37.000
+Eu comecei a estudar também, aos poucos,
+
+06:37.000 --> 06:39.000
+aquela vela história que você tem que conviver com o programa.
+
+06:39.000 --> 06:42.000
+Comecei a conviver, comecei meio que por hobby mesmo,
+
+06:42.000 --> 06:45.000
+não havia uma necessidade muito evidente,
+
+06:45.000 --> 06:48.000
+mas eu já senti que o mercado ia arrumar para esse lado.
+
+06:48.000 --> 06:49.000
+Eu comecei a estudar,
+
+06:49.000 --> 06:51.000
+começou a aparecer várias oportunidades de trabalho,
+
+06:51.000 --> 06:53.000
+não só dar um lucro bacana,
+
+06:53.000 --> 06:55.000
+comecei a trabalhar também como autônomo,
+
+06:55.000 --> 06:58.000
+quando eu já tinha os 17 anos, 16,
+
+06:58.000 --> 07:01.000
+desde esse tempo eu trabalho como autônomo,
+
+07:01.000 --> 07:02.000
+com 3D.
+
+07:13.000 --> 07:14.000
+Sobre o software livre,
+
+07:14.000 --> 07:16.000
+você falou que se interessou,
+
+07:16.000 --> 07:18.000
+justamente porque era de graça,
+
+07:18.000 --> 07:21.000
+e hoje em dia você colabora,
+
+07:21.000 --> 07:23.000
+assim, pelo software livre,
+
+07:23.000 --> 07:25.000
+colabora pelo software que você usa,
+
+07:25.000 --> 07:27.000
+de alguma forma colabora,
+
+07:27.000 --> 07:29.000
+além dos cursos que você dá.
+
+07:29.000 --> 07:30.000
+Sim, com certeza,
+
+07:30.000 --> 07:32.000
+infelizmente não entendo de programação,
+
+07:32.000 --> 07:34.000
+também as pessoas imaginam que você só pode colaborar
+
+07:34.000 --> 07:36.000
+com o software programando.
+
+07:36.000 --> 07:38.000
+Seria interessante que todos programassem,
+
+07:38.000 --> 07:39.000
+mas é muito difícil.
+
+07:39.000 --> 07:40.000
+Então, o que eu posso fazer,
+
+07:40.000 --> 07:42.000
+é falar bem do programa,
+
+07:42.000 --> 07:43.000
+que são realmente programas bons,
+
+07:43.000 --> 07:44.000
+fazer algum material
+
+07:44.000 --> 07:46.000
+para pessoas que estão começando,
+
+07:46.000 --> 07:48.000
+e tentar colocar esses programas no mercado,
+
+07:48.000 --> 07:50.000
+pelo menos aqui da minha cidade.
+
+07:50.000 --> 07:51.000
+Aqui na minha cidade,
+
+07:51.000 --> 07:52.000
+no interior do Mato Grosso,
+
+07:52.000 --> 07:54.000
+eu consegui levar o Blender
+
+07:54.000 --> 07:56.000
+para praticamente todos os produtores
+
+07:56.000 --> 07:58.000
+que dividem o que tem na cidade,
+
+07:58.000 --> 08:00.000
+as agências que fazem o título de produção.
+
+08:00.000 --> 08:01.000
+E além do Blender,
+
+08:01.000 --> 08:03.000
+você acaba levando diretamente outros,
+
+08:03.000 --> 08:05.000
+como o Escape, o Gimp,
+
+08:05.000 --> 08:07.000
+e até o programa que o pessoal usa
+
+08:07.000 --> 08:09.000
+para fazer coisas que não estão atreladas,
+
+08:09.000 --> 08:11.000
+e que são, por exemplo,
+
+08:11.000 --> 08:13.000
+um programa de programação gráfica,
+
+08:13.000 --> 08:15.000
+que é justamente o Switch do escritório.
+
+08:15.000 --> 08:17.000
+Então, eu imagino que isso seja uma coisa positiva,
+
+08:17.000 --> 08:19.000
+mesmo não se tratando de uma ajuda
+
+08:19.000 --> 08:20.000
+com programação,
+
+08:20.000 --> 08:21.000
+mas é uma ajuda
+
+08:21.000 --> 08:23.000
+para fazer que esses programas
+
+08:23.000 --> 08:24.000
+tenham penetração no mercado.
+
+08:24.000 --> 08:25.000
+Sem contar que eu costumo
+
+08:25.000 --> 08:27.000
+comprar também bastante produtos
+
+08:27.000 --> 08:29.000
+distribuídos para esses programas,
+
+08:29.000 --> 08:30.000
+aí pelos sites, livros,
+
+08:30.000 --> 08:31.000
+por exemplo,
+
+08:31.000 --> 08:33.000
+que são apoiados pela Blender Foundation,
+
+08:33.000 --> 08:35.000
+é uma forma de ajudar, modesta,
+
+08:35.000 --> 08:36.000
+mas, enfim,
+
+08:36.000 --> 08:38.000
+toda a forma de ajuda
+
+08:38.000 --> 08:39.000
+eu acho que foi no FliSol,
+
+08:39.000 --> 08:40.000
+ou foi no Fora Ongoiano?
+
+08:40.000 --> 08:41.000
+Foi no Fora Ongoiano, né?
+
+08:41.000 --> 08:42.000
+Foi no FliSol.
+
+08:42.000 --> 08:43.000
+FliSol, certo.
+
+08:43.000 --> 08:44.000
+Você parece estar falando
+
+08:44.000 --> 08:45.000
+que estava aprendendo no Python
+
+08:45.000 --> 08:48.000
+para incrementar as suas animações
+
+08:48.000 --> 08:50.000
+lá dentro do Blender.
+
+08:50.000 --> 08:52.000
+Parece que houve um comentário seu sobre isso.
+
+08:52.000 --> 08:53.000
+Porque eu estava estudando, né?
+
+08:53.000 --> 08:54.000
+Exato, então.
+
+08:54.000 --> 08:55.000
+Eu não posso dizer que o programa,
+
+08:55.000 --> 08:56.000
+porque para mim,
+
+08:56.000 --> 08:57.000
+a pessoa que programa
+
+08:57.000 --> 08:58.000
+é aquela que,
+
+08:58.000 --> 08:59.000
+voltando,
+
+08:59.000 --> 09:00.000
+que havia falado também,
+
+09:00.000 --> 09:02.000
+que convive com esse universo de programação
+
+09:02.000 --> 09:03.000
+que lida com o mercado,
+
+09:03.000 --> 09:05.000
+com todas as variáveis psicológicas,
+
+09:05.000 --> 09:06.000
+sociais,
+
+09:06.000 --> 09:08.000
+técnicas que envolvem o mercado da programação.
+
+09:08.000 --> 09:09.000
+O que eu faço
+
+09:09.000 --> 09:10.000
+é assim,
+
+09:10.000 --> 09:12.000
+existe algumas situações
+
+09:12.000 --> 09:13.000
+que é muito mais fácil
+
+09:13.000 --> 09:15.000
+fazer uma parte do trabalho com programação.
+
+09:15.000 --> 09:16.000
+Por exemplo,
+
+09:16.000 --> 09:17.000
+você tem que fazer um boss
+
+09:17.000 --> 09:18.000
+e tem que colocar árvores no boss.
+
+09:18.000 --> 09:20.000
+O número de árvores que você tem que colocar
+
+09:20.000 --> 09:21.000
+é muito grande.
+
+09:21.000 --> 09:22.000
+E você não pode colocar elas
+
+09:22.000 --> 09:23.000
+com o mesmo tamanho
+
+09:23.000 --> 09:25.000
+e a mesma posição de rotação.
+
+09:25.000 --> 09:26.000
+Foi muito mais fácil você pegar,
+
+09:26.000 --> 09:28.000
+escrever um scriptzinho,
+
+09:28.000 --> 09:29.000
+que distribui uma árvore
+
+09:29.000 --> 09:30.000
+numa área X,
+
+09:30.000 --> 09:32.000
+e que faz essas árvores ter um tamanho
+
+09:32.000 --> 09:34.000
+de 100%, 75%,
+
+09:34.000 --> 09:36.000
+uma rotação que vai de
+
+09:36.000 --> 09:37.000
+259 graus.
+
+09:37.000 --> 09:38.000
+Aí você manda o programa
+
+09:38.000 --> 09:40.000
+rodar isso aleatoriamente.
+
+09:40.000 --> 09:41.000
+É muito mais rápido
+
+09:41.000 --> 09:43.000
+que você pegar e posicionar uma a uma,
+
+09:43.000 --> 09:44.000
+sei lá, mil árvores.
+
+09:44.000 --> 09:45.000
+É muito mais fácil
+
+09:45.000 --> 09:46.000
+você rodar esse scriptzinho.
+
+09:46.000 --> 09:47.000
+Mas é isso.
+
+09:47.000 --> 09:49.000
+A programação que eu conheço,
+
+09:49.000 --> 09:50.000
+que se limita a isso aí.
+
+09:50.000 --> 09:51.000
+Então, como se fosse um macro,
+
+09:51.000 --> 09:52.000
+né?
+
+09:52.000 --> 09:53.000
+Fácilito um pouco.
+
+09:53.000 --> 09:54.000
+É, acredito que sim.
+
+09:54.000 --> 09:55.000
+Mas também o Blender,
+
+09:55.000 --> 09:56.000
+agora essa versão dele,
+
+09:56.000 --> 09:58.000
+tem uma situação muito bacana.
+
+09:58.000 --> 10:00.000
+Em todos os botõezinhos
+
+10:00.000 --> 10:01.000
+da interface,
+
+10:01.000 --> 10:03.000
+todos os comandos que aparecem,
+
+10:03.000 --> 10:05.000
+você colocou o mouse em cima,
+
+10:05.000 --> 10:06.000
+aparece o método.
+
+10:06.000 --> 10:07.000
+Não me engano,
+
+10:07.000 --> 10:08.000
+você chama método,
+
+10:08.000 --> 10:09.000
+hein?
+
+10:09.000 --> 10:10.000
+Programação Oriental de Geo.
+
+10:10.000 --> 10:11.000
+Aparece o método dele.
+
+10:11.000 --> 10:12.000
+E aí você pode simplesmente
+
+10:12.000 --> 10:13.000
+habilar, se você quiser,
+
+10:13.000 --> 10:15.000
+o tontube dentro do programa,
+
+10:15.000 --> 10:16.000
+do Blender,
+
+10:16.000 --> 10:17.000
+e fazer todos os comandos
+
+10:17.000 --> 10:18.000
+escrevendo esse método.
+
+10:18.000 --> 10:20.000
+Aí você consegue automatizar
+
+10:20.000 --> 10:22.000
+tarefas que se fossem
+
+10:22.000 --> 10:23.000
+feito braçais,
+
+10:23.000 --> 10:26.000
+levariam um tempo considerável, né?
+
+10:26.000 --> 10:27.000
+Com certeza.
+
+10:27.000 --> 10:28.000
+Quando eu posso,
+
+10:28.000 --> 10:29.000
+quando eu tenho a oportunidade
+
+10:29.000 --> 10:30.000
+de fazer o passo,
+
+10:30.000 --> 10:31.000
+mas é um pouco difícil
+
+10:31.000 --> 10:32.000
+esses modelares que eu tenho feito,
+
+10:32.000 --> 10:33.000
+eu tenho ido para essa área.
+
+10:33.000 --> 10:34.000
+É mais orjando,
+
+10:34.000 --> 10:36.000
+mais de comercial, mais de coisas
+
+10:36.000 --> 10:37.000
+pedindo,
+
+10:37.000 --> 10:38.000
+então não há necessidade.
+
+10:38.000 --> 10:39.000
+Eu já fiz isso
+
+10:39.000 --> 10:40.000
+em cima do AutoCAD,
+
+10:40.000 --> 10:41.000
+né?
+
+10:41.000 --> 10:42.000
+Programando em VBA.
+
+10:42.000 --> 10:43.000
+Bacana.
+
+10:43.000 --> 10:45.000
+Visual Basic for Applications.
+
+10:45.000 --> 10:46.000
+Legal.
+
+11:02.000 --> 11:11.000
+E sobre você falando lá,
+
+11:11.000 --> 11:12.000
+que ajuda,
+
+11:12.000 --> 11:13.000
+de alguma forma,
+
+11:13.000 --> 11:14.000
+de alguma forma,
+
+11:14.000 --> 11:15.000
+não, você ajuda,
+
+11:15.000 --> 11:16.000
+né?
+
+11:16.000 --> 11:17.000
+No software livre.
+
+11:17.000 --> 11:18.000
+Na disse animação dele.
+
+11:18.000 --> 11:20.000
+Você ajuda dando aula,
+
+11:20.000 --> 11:21.000
+tutoriais, né?
+
+11:21.000 --> 11:22.000
+Explica para a gente
+
+11:22.000 --> 11:24.000
+como você faz isso.
+
+11:24.000 --> 11:25.000
+Os tutoriais que comecei
+
+11:25.000 --> 11:26.000
+a desenvolver
+
+11:26.000 --> 11:28.000
+foram lá por 2005.
+
+11:28.000 --> 11:29.000
+Que eram tutoriais
+
+11:29.000 --> 11:30.000
+de instalação do Blender
+
+11:30.000 --> 11:31.000
+no Corumim.
+
+11:31.000 --> 11:32.000
+Na época,
+
+11:32.000 --> 11:33.000
+eu utilizava o Corumim.
+
+11:33.000 --> 11:35.000
+Instalação do Windows 3D,
+
+11:35.000 --> 11:36.000
+que é um programa
+
+11:36.000 --> 11:37.000
+que faz de modelagem
+
+11:37.000 --> 11:38.000
+por subdivisão.
+
+11:38.000 --> 11:39.000
+Como instalar ele no BED,
+
+11:39.000 --> 11:40.000
+no próprio Corumim,
+
+11:40.000 --> 11:41.000
+também,
+
+11:41.000 --> 11:42.000
+que eu utilizava muito.
+
+11:42.000 --> 11:43.000
+E o pessoal vai gostando
+
+11:43.000 --> 11:44.000
+dos tutoriais,
+
+11:44.000 --> 11:45.000
+conforme você vai fazendo
+
+11:45.000 --> 11:46.000
+uma atividade,
+
+11:46.000 --> 11:47.000
+você quer fazer
+
+11:47.000 --> 11:49.000
+por um longo período de tempo,
+
+11:49.000 --> 11:50.000
+várias vezes,
+
+11:50.000 --> 11:51.000
+você vai melhorando.
+
+11:51.000 --> 11:52.000
+E os tutoriais foram melhorando
+
+11:52.000 --> 11:53.000
+em cima da necessidade
+
+11:53.000 --> 11:54.000
+das pessoas.
+
+11:54.000 --> 11:55.000
+E eu percebi que muita gente
+
+11:55.000 --> 11:57.000
+começou a mexer
+
+11:57.000 --> 11:58.000
+alguns programas
+
+11:58.000 --> 11:59.000
+pelos tutoriais que eu escrevi.
+
+11:59.000 --> 12:01.000
+Surgiu aí a ideia de fazer
+
+12:01.000 --> 12:02.000
+uma postiva do Blender?
+
+12:02.000 --> 12:03.000
+Que fosse uma postiva assim,
+
+12:03.000 --> 12:04.000
+porque o grande problema
+
+12:04.000 --> 12:05.000
+do Blender
+
+12:05.000 --> 12:06.000
+é que as pessoas imaginam
+
+12:06.000 --> 12:07.000
+que vão chegar
+
+12:07.000 --> 12:08.000
+a começar a mexer com ele
+
+12:08.000 --> 12:09.000
+sem recorrer
+
+12:09.000 --> 12:10.000
+a tutorial nenhuma,
+
+12:10.000 --> 12:11.000
+a material nenhuma,
+
+12:11.000 --> 12:12.000
+e vão conseguir fazer
+
+12:12.000 --> 12:13.000
+alguma coisa.
+
+12:13.000 --> 12:14.000
+No entanto que acontece,
+
+12:14.000 --> 12:15.000
+é que as pessoas não conseguem
+
+12:15.000 --> 12:16.000
+nem inserir um círculo
+
+12:16.000 --> 12:17.000
+lá,
+
+12:17.000 --> 12:18.000
+uma esfera.
+
+12:18.000 --> 12:19.000
+E aí,
+
+12:19.000 --> 12:20.000
+eu criava um tutorial
+
+12:20.000 --> 12:21.000
+para iniciantes
+
+12:21.000 --> 12:22.000
+que mal sabe mexer
+
+12:22.000 --> 12:23.000
+com o computador,
+
+12:23.000 --> 12:24.000
+com o sistema profissional.
+
+12:24.000 --> 12:25.000
+Clicando onde deixar a seta
+
+12:25.000 --> 12:26.000
+do mouse,
+
+12:26.000 --> 12:27.000
+quando clicar,
+
+12:27.000 --> 12:28.000
+eu clico com o botão direito,
+
+12:28.000 --> 12:29.000
+o botão esquerdo,
+
+12:29.000 --> 12:31.000
+e fez bastante sucesso
+
+12:31.000 --> 12:33.000
+em uma postiva que eu fiz,
+
+12:33.000 --> 12:35.000
+explicando o Blender básico.
+
+12:35.000 --> 12:36.000
+E a partir daí,
+
+12:36.000 --> 12:38.000
+comecei a fazer outros materiais também.
+
+12:38.000 --> 12:39.000
+Sempre foi esse foco
+
+12:39.000 --> 12:40.000
+de pessoas que estão iniciando.
+
+12:40.000 --> 12:42.000
+E além de pessoas
+
+12:42.000 --> 12:43.000
+que simplesmente tinham lá
+
+12:43.000 --> 12:44.000
+para aprender
+
+12:44.000 --> 12:45.000
+mexer com o Blender
+
+12:45.000 --> 12:46.000
+por hobby,
+
+12:46.000 --> 12:47.000
+começou a ter um número
+
+12:47.000 --> 12:48.000
+grande de pessoas
+
+12:48.000 --> 12:49.000
+que começaram a trabalhar
+
+12:49.000 --> 12:50.000
+com condições profissionais.
+
+12:50.000 --> 12:51.000
+E,
+
+12:51.000 --> 12:52.000
+dentre as pessoas
+
+12:52.000 --> 12:53.000
+com condições profissionais
+
+12:53.000 --> 12:54.000
+que leram o tutorial
+
+12:54.000 --> 12:55.000
+e que efetivamente
+
+12:55.000 --> 12:56.000
+começaram a trabalhar com o Blender,
+
+12:56.000 --> 12:57.000
+felizmente,
+
+12:57.000 --> 12:58.000
+algumas empresas aqui de cidade,
+
+12:58.000 --> 12:59.000
+algumas pessoas
+
+12:59.000 --> 13:00.000
+que trabalham em empresas
+
+13:00.000 --> 13:01.000
+aqui de cidade,
+
+13:01.000 --> 13:02.000
+começaram a mexer
+
+13:02.000 --> 13:03.000
+até acessas culturais,
+
+13:03.000 --> 13:04.000
+mexer com o Blender,
+
+13:04.000 --> 13:05.000
+me chamaram
+
+13:05.000 --> 13:06.000
+para fazer uma espécie
+
+13:06.000 --> 13:07.000
+de consultorize,
+
+13:07.000 --> 13:08.000
+demonstrar o programa.
+
+13:08.000 --> 13:10.000
+Consegui fazer com que o Blender
+
+13:10.000 --> 13:11.000
+se tornasse parte
+
+13:11.000 --> 13:12.000
+do framework das pessoas.
+
+13:12.000 --> 13:13.000
+Eu imagino que a ajuda
+
+13:13.000 --> 13:15.000
+maior que o de própria comunidade
+
+13:15.000 --> 13:16.000
+foram esses culturais
+
+13:16.000 --> 13:17.000
+e esses culturais
+
+13:17.000 --> 13:18.000
+fizeram com que muitas pessoas
+
+13:18.000 --> 13:19.000
+começassem a trabalhar
+
+13:19.000 --> 13:20.000
+com o software livre,
+
+13:20.000 --> 13:21.000
+começassem a contar
+
+13:21.000 --> 13:23.000
+publicações relacionados
+
+13:23.000 --> 13:24.000
+a ele,
+
+13:24.000 --> 13:25.000
+começassem a utilizar
+
+13:25.000 --> 13:27.000
+até ajudar,
+
+13:27.000 --> 13:28.000
+com doações,
+
+13:28.000 --> 13:29.000
+só que aí já é um número
+
+13:29.000 --> 13:30.000
+que eu não tenho,
+
+13:30.000 --> 13:31.000
+um número que eu não tenho
+
+13:31.000 --> 13:32.000
+acesso,
+
+13:32.000 --> 13:33.000
+mas eu não tenho como saber,
+
+13:33.000 --> 13:34.000
+mas imagino que as pessoas
+
+13:34.000 --> 13:35.000
+assim ajudaram assim,
+
+13:35.000 --> 13:36.000
+falando que tem efeito de sucesso,
+
+13:36.000 --> 13:37.000
+doção de sucesso,
+
+13:37.000 --> 13:38.000
+pelo menos o Blender,
+
+13:38.000 --> 13:39.000
+o Gimping, o Skates, o pessoal...
+
+13:39.000 --> 13:40.000
+Tá certo.
+
+13:40.000 --> 13:41.000
+Na latinária de 2011,
+
+13:41.000 --> 13:43.000
+nós fizemos um
+
+13:43.000 --> 13:44.000
+neclestandzinho lá,
+
+13:44.000 --> 13:45.000
+mostrando aplicações
+
+13:45.000 --> 13:47.000
+de software livres
+
+13:47.000 --> 13:48.000
+na área grata.
+
+13:48.000 --> 13:49.000
+E aí o propulso,
+
+13:49.000 --> 13:50.000
+que tinha um monitor de LCD
+
+13:50.000 --> 13:51.000
+bem grande,
+
+13:51.000 --> 13:52.000
+o propulso foi colocar a saída
+
+13:52.000 --> 13:54.000
+do notebook no monitor
+
+13:54.000 --> 13:55.000
+para começar a modelar lá,
+
+13:55.000 --> 13:56.000
+modelar uma face,
+
+13:56.000 --> 13:58.000
+modelar uma residência,
+
+13:58.000 --> 14:00.000
+modelar um caraca,
+
+14:00.000 --> 14:01.000
+um personagemzinho,
+
+14:01.000 --> 14:02.000
+colocar ossos,
+
+14:02.000 --> 14:03.000
+fazer ele se mover.
+
+14:03.000 --> 14:04.000
+E uma coisa que me chamou
+
+14:04.000 --> 14:05.000
+muita atenção
+
+14:05.000 --> 14:06.000
+foi que as pessoas chegavam,
+
+14:06.000 --> 14:08.000
+pessoas da área do software livre
+
+14:08.000 --> 14:09.000
+e perguntavam que programa
+
+14:09.000 --> 14:10.000
+que era aquele.
+
+14:10.000 --> 14:12.000
+E eu imaginava que o Blender,
+
+14:12.000 --> 14:13.000
+por exemplo,
+
+14:13.000 --> 14:14.000
+fosse um programa muito,
+
+14:14.000 --> 14:15.000
+muito, muito popular
+
+14:15.000 --> 14:17.000
+no meio do software livre.
+
+14:17.000 --> 14:18.000
+E não é o que acontece.
+
+14:18.000 --> 14:19.000
+Então é algo para começar,
+
+14:19.000 --> 14:20.000
+a se pensar,
+
+14:20.000 --> 14:21.000
+fazer um marketing mais,
+
+14:21.000 --> 14:22.000
+mais voltado também
+
+14:22.000 --> 14:23.000
+para as pessoas que já trabalham.
+
+14:23.000 --> 14:25.000
+E se tem essa falta de comunicação,
+
+14:25.000 --> 14:27.000
+essa falta de popularidade
+
+14:27.000 --> 14:29.000
+no meio open source,
+
+14:29.000 --> 14:30.000
+no meio software livre.
+
+14:30.000 --> 14:31.000
+Imagina fora, né?
+
+14:31.000 --> 14:33.000
+Tem uma área muito mais ampla.
+
+14:33.000 --> 14:34.000
+Então é isso,
+
+14:34.000 --> 14:35.000
+eu tenho trabalhado mais
+
+14:35.000 --> 14:37.000
+para fazer o Blender ficar,
+
+14:37.000 --> 14:38.000
+se tornar um programa
+
+14:38.000 --> 14:39.000
+bastante popular.
+
+14:39.000 --> 14:40.000
+Quase unânime,
+
+14:40.000 --> 14:41.000
+até, mas,
+
+14:41.000 --> 14:42.000
+nessa área de 3D.
+
+14:42.000 --> 14:43.000
+Tem alguns programas também
+
+14:43.000 --> 14:44.000
+que acho que
+
+14:44.000 --> 14:45.000
+nem de pessoas
+
+14:45.000 --> 14:47.000
+que mexem com modelagem,
+
+14:47.000 --> 14:48.000
+assim, 3D muito tempo,
+
+14:48.000 --> 14:49.000
+conhecem,
+
+14:49.000 --> 14:50.000
+igual a aqueles artigos
+
+14:50.000 --> 14:52.000
+que você publicou ultimamente
+
+14:52.000 --> 14:54.000
+sobre reconstrução forense.
+
+14:54.000 --> 14:55.000
+Então,
+
+14:55.000 --> 14:56.000
+aqui lá é outro caso
+
+14:56.000 --> 14:57.000
+bastante interessante.
+
+14:57.000 --> 14:58.000
+O Invesades
+
+14:58.000 --> 14:59.000
+é um programa
+
+14:59.000 --> 15:00.000
+que você pega
+
+15:00.000 --> 15:01.000
+tomografia computadorizada,
+
+15:01.000 --> 15:03.000
+tem uma extensão própria
+
+15:03.000 --> 15:04.000
+dele chamado Daicon.
+
+15:04.000 --> 15:05.000
+São fatias, né?
+
+15:05.000 --> 15:07.000
+Uma parte determinada do corpo.
+
+15:07.000 --> 15:08.000
+E através desse arquivo
+
+15:08.000 --> 15:09.000
+você consegue reconstituir
+
+15:09.000 --> 15:11.000
+3D aquela parte do corpo.
+
+15:11.000 --> 15:12.000
+Você pode separar pele,
+
+15:12.000 --> 15:13.000
+separar osso,
+
+15:13.000 --> 15:15.000
+ver as respiratórias.
+
+15:15.000 --> 15:16.000
+E, além de ser um programa
+
+15:16.000 --> 15:17.000
+muito poderoso,
+
+15:17.000 --> 15:18.000
+ele é um programa brasileiro,
+
+15:18.000 --> 15:19.000
+foi desenvolvido aqui.
+
+15:19.000 --> 15:20.000
+E pouco a gente já conhece.
+
+15:20.000 --> 15:21.000
+E ele pode ser muito útil.
+
+15:21.000 --> 15:22.000
+Em vários áreas.
+
+15:22.000 --> 15:24.000
+Sim, não só na área da medicina,
+
+15:24.000 --> 15:25.000
+mas também da arqueologia,
+
+15:25.000 --> 15:27.000
+como no caso dessa reconstrução,
+
+15:27.000 --> 15:28.000
+de um pequeno artigo.
+
+15:28.000 --> 15:29.000
+Como também,
+
+15:29.000 --> 15:30.000
+você tem que fazer uma tomografia
+
+15:30.000 --> 15:31.000
+com uma pedra,
+
+15:31.000 --> 15:32.000
+que dentro dessa pedra
+
+15:32.000 --> 15:33.000
+tenha um fosso.
+
+15:33.000 --> 15:34.000
+Em vez de quebrar essa pedra
+
+15:34.000 --> 15:35.000
+para retirar o fosso,
+
+15:35.000 --> 15:36.000
+você pode fazer
+
+15:36.000 --> 15:37.000
+essa tomografia na pedra
+
+15:37.000 --> 15:38.000
+e separar.
+
+15:38.000 --> 15:39.000
+É o que é o fosso,
+
+15:39.000 --> 15:40.000
+a parte do mineral
+
+15:40.000 --> 15:41.000
+que não interessa
+
+15:41.000 --> 15:42.000
+para o parque óbvio.
+
+15:42.000 --> 15:43.000
+Fora isso,
+
+15:43.000 --> 15:44.000
+tem outros softwares
+
+15:44.000 --> 15:45.000
+bem interessantes
+
+15:45.000 --> 15:46.000
+que você pega
+
+15:46.000 --> 15:47.000
+um conjunto de fotos,
+
+15:47.000 --> 15:48.000
+tirar várias fotos
+
+15:48.000 --> 15:49.000
+de vários pontos de pista
+
+15:49.000 --> 15:50.000
+e consegue reconstruir
+
+15:50.000 --> 15:52.000
+isso em uma nuvem de pontos,
+
+15:52.000 --> 15:54.000
+e pode se converter também
+
+15:54.000 --> 15:56.000
+em um objeto 3D,
+
+15:56.000 --> 15:57.000
+que pode ser o rosto da pessoa.
+
+15:57.000 --> 15:58.000
+Pode ser
+
+15:58.000 --> 15:59.000
+no caso da arqueologia,
+
+15:59.000 --> 16:00.000
+de uma alçada,
+
+16:00.000 --> 16:01.000
+no caso de
+
+16:01.000 --> 16:02.000
+construção civil
+
+16:02.000 --> 16:03.000
+de um prédio.
+
+16:03.000 --> 16:04.000
+E assim vai.
+
+16:04.000 --> 16:05.000
+E todos esses
+
+16:05.000 --> 16:06.000
+são softwares livre?
+
+16:06.000 --> 16:07.000
+Algum, assim, roda?
+
+16:07.000 --> 16:08.000
+Não,
+
+16:08.000 --> 16:09.000
+tudo que foi utilizado lá,
+
+16:09.000 --> 16:10.000
+nesse artigo,
+
+16:10.000 --> 16:11.000
+que eu escrevi por último,
+
+16:11.000 --> 16:12.000
+esse trabalho que eu fiz
+
+16:12.000 --> 16:13.000
+de reconstituição,
+
+16:13.000 --> 16:14.000
+é softwares livre.
+
+16:14.000 --> 16:15.000
+E parece que
+
+16:15.000 --> 16:16.000
+as coisas têm de seriado de TV,
+
+16:16.000 --> 16:17.000
+né?
+
+16:17.000 --> 16:18.000
+Eu achei que só tinha isso.
+
+16:18.000 --> 16:19.000
+Se achar softwares livre,
+
+16:19.000 --> 16:20.000
+você sai softwares livre,
+
+16:20.000 --> 16:21.000
+hoje.
+
+16:45.000 --> 16:46.000
+Falou dos projetos
+
+16:46.000 --> 16:47.000
+preiniciantes,
+
+16:47.000 --> 16:48.000
+né?
+
+16:48.000 --> 16:49.000
+A escola também
+
+16:49.000 --> 16:50.000
+que procura
+
+16:50.000 --> 16:51.000
+fazer com que
+
+16:51.000 --> 16:52.000
+essas ferramentas
+
+16:52.000 --> 16:53.000
+sejam, de fato,
+
+16:53.000 --> 16:55.000
+utilizadas no dia a dia, né?
+
+16:55.000 --> 16:56.000
+O CD,
+
+16:56.000 --> 16:57.000
+que eu utilizei
+
+16:57.000 --> 16:58.000
+para iniciar
+
+16:58.000 --> 16:59.000
+a minha caminhada
+
+16:59.000 --> 17:00.000
+no mercado 3D,
+
+17:00.000 --> 17:01.000
+foram desenvolvidos
+
+17:01.000 --> 17:02.000
+para uma escola
+
+17:02.000 --> 17:03.000
+de educação à distância,
+
+17:03.000 --> 17:04.000
+de sempre catarina,
+
+17:04.000 --> 17:05.000
+que durante muito tempo
+
+17:05.000 --> 17:06.000
+foi minha referência,
+
+17:06.000 --> 17:07.000
+que pegava os CDs,
+
+17:07.000 --> 17:08.000
+estudava
+
+17:08.000 --> 17:09.000
+sobre autocarde,
+
+17:09.000 --> 17:10.000
+sobre o TZ Studio de Max,
+
+17:10.000 --> 17:11.000
+e há pouco tempo agora
+
+17:11.000 --> 17:12.000
+tive a honra de ser
+
+17:12.000 --> 17:13.000
+chamado por eles
+
+17:13.000 --> 17:14.000
+e ser convidado
+
+17:14.000 --> 17:15.000
+para fazer
+
+17:15.000 --> 17:16.000
+um curso do Blender,
+
+17:16.000 --> 17:17.000
+o que me alegrou
+
+17:17.000 --> 17:18.000
+porque foi a escola
+
+17:18.000 --> 17:19.000
+que eu aprendi,
+
+17:19.000 --> 17:20.000
+de repente me chamaram
+
+17:20.000 --> 17:21.000
+para fazer um curso
+
+17:21.000 --> 17:22.000
+e o segundo foi que
+
+17:22.000 --> 17:23.000
+pediam para fazer
+
+17:23.000 --> 17:24.000
+um curso sobre o Blender.
+
+17:24.000 --> 17:25.000
+E o que significa?
+
+17:25.000 --> 17:26.000
+O que é uma escola
+
+17:26.000 --> 17:27.000
+de educação à distância,
+
+17:27.000 --> 17:28.000
+conteúdo dela alimentado
+
+17:28.000 --> 17:30.000
+pela necessidade do trabalho?
+
+17:30.000 --> 17:31.000
+O que significa
+
+17:31.000 --> 17:32.000
+uma escola dessa?
+
+17:32.000 --> 17:33.000
+Pedir um curso de Blender,
+
+17:33.000 --> 17:34.000
+significa que tem demanda,
+
+17:34.000 --> 17:35.000
+as pessoas estão procurando,
+
+17:35.000 --> 17:37.000
+as pessoas estão interessadas
+
+17:37.000 --> 17:38.000
+nesse software.
+
+17:38.000 --> 17:39.000
+E é o software livre
+
+17:39.000 --> 17:40.000
+até que, enfim,
+
+17:40.000 --> 17:41.000
+começam a fazer parte
+
+17:41.000 --> 17:42.000
+do mercado de trabalho.
+
+17:42.000 --> 17:43.000
+Foi engraçado
+
+17:43.000 --> 17:44.000
+no episódio anterior,
+
+17:44.000 --> 17:46.000
+a gente ficou o tempo todo,
+
+17:46.000 --> 17:48.000
+esperando o Mozant
+
+17:48.000 --> 17:50.000
+dizer se ele usava o GameP
+
+17:50.000 --> 17:52.000
+se ele utilizava o GameP
+
+17:52.000 --> 17:53.000
+só como um hobby,
+
+17:53.000 --> 17:54.000
+ou se, realmente,
+
+17:54.000 --> 17:56.000
+aquilo lá
+
+17:56.000 --> 17:57.000
+era uma ferramenta de trabalho.
+
+17:57.000 --> 17:59.000
+E para a nossa surpresa,
+
+17:59.000 --> 18:00.000
+o hobby virou
+
+18:00.000 --> 18:01.000
+outras ferramentas.
+
+18:01.000 --> 18:02.000
+O GameP é, de fato,
+
+18:02.000 --> 18:03.000
+uma ferramenta de trabalho
+
+18:03.000 --> 18:04.000
+dele.
+
+18:04.000 --> 18:05.000
+É legal, bacana.
+
+18:05.000 --> 18:06.000
+E depois escuta lá
+
+18:06.000 --> 18:07.000
+o nosso episódio.
+
+18:07.000 --> 18:09.000
+É que, assim, ultimamente,
+
+18:09.000 --> 18:10.000
+eu não fiz nada
+
+18:10.000 --> 18:12.000
+relacionado a entretenimento.
+
+18:12.000 --> 18:13.000
+Eu não tenho assistido sério,
+
+18:13.000 --> 18:14.000
+não tenho...
+
+18:14.000 --> 18:15.000
+Muito raramente assisto a televisão.
+
+18:15.000 --> 18:17.000
+E sério de uma ou outra,
+
+18:17.000 --> 18:18.000
+eu assisto.
+
+18:18.000 --> 18:19.000
+Eu não tenho consumido
+
+18:19.000 --> 18:20.000
+muita coisa, ultimamente,
+
+18:20.000 --> 18:21.000
+de mídia.
+
+18:21.000 --> 18:22.000
+Tenho lido muito artigos,
+
+18:22.000 --> 18:23.000
+né?
+
+18:23.000 --> 18:24.000
+E acaba tomando muito tempo.
+
+18:24.000 --> 18:25.000
+Ou eu leio esse artigo
+
+18:25.000 --> 18:26.000
+ou tenho que trabalhar.
+
+18:26.000 --> 18:28.000
+E o momento que eu tenho
+
+18:28.000 --> 18:29.000
+para curtir a vida,
+
+18:29.000 --> 18:30.000
+eu estou aprendendo coisas novas.
+
+18:30.000 --> 18:31.000
+E, na verdade,
+
+18:31.000 --> 18:32.000
+é uma diversão.
+
+18:32.000 --> 18:33.000
+A pessoa que é nerd,
+
+18:33.000 --> 18:34.000
+ela sabe que
+
+18:34.000 --> 18:35.000
+a vida dela
+
+18:35.000 --> 18:36.000
+é movida a conhecimento,
+
+18:36.000 --> 18:37.000
+a coisas novas.
+
+18:37.000 --> 18:38.000
+Nerd.
+
+18:38.000 --> 18:39.000
+A diversão que você tem
+
+18:39.000 --> 18:40.000
+lendo um artigo,
+
+18:40.000 --> 18:41.000
+muitas vezes,
+
+18:41.000 --> 18:42.000
+é a mesma diversão
+
+18:42.000 --> 18:43.000
+que uma pessoa que não é nerd
+
+18:43.000 --> 18:44.000
+tem assistindo filmes,
+
+18:44.000 --> 18:45.000
+jogando um joguinho.
+
+18:45.000 --> 18:46.000
+Então,
+
+18:46.000 --> 18:47.000
+mas eu prometo que
+
+18:47.000 --> 18:48.000
+você vai assistir
+
+18:48.000 --> 18:49.000
+o programa de vocês hoje.
+
+18:49.000 --> 18:50.000
+Tá desculpado.
+
+18:50.000 --> 18:51.000
+E sobre planta baixa,
+
+18:51.000 --> 18:52.000
+em 2D,
+
+18:52.000 --> 18:53.000
+você ainda faz
+
+18:53.000 --> 18:54.000
+essa parte de arquitetura aí?
+
+18:54.000 --> 18:55.000
+Você faz no blender
+
+18:55.000 --> 18:57.000
+ou usa outro software?
+
+18:57.000 --> 18:58.000
+Tipo aquele
+
+18:58.000 --> 18:59.000
+que é concorrente
+
+18:59.000 --> 19:00.000
+do AutoCard?
+
+19:00.000 --> 19:01.000
+Que é card?
+
+19:01.000 --> 19:02.000
+Então,
+
+19:02.000 --> 19:03.000
+eu não tenho mais
+
+19:03.000 --> 19:04.000
+trabalhado
+
+19:04.000 --> 19:05.000
+com desenho
+
+19:05.000 --> 19:06.000
+de dimensional de plano.
+
+19:06.000 --> 19:07.000
+Porque assim,
+
+19:07.000 --> 19:08.000
+quando você vai fazer
+
+19:08.000 --> 19:09.000
+uma delagem ecretônica,
+
+19:09.000 --> 19:10.000
+que eu também
+
+19:10.000 --> 19:11.000
+já não tenho feito muito,
+
+19:11.000 --> 19:12.000
+mas quando você faz,
+
+19:12.000 --> 19:13.000
+você precisa
+
+19:13.000 --> 19:14.000
+fazer para você a planta.
+
+19:14.000 --> 19:15.000
+Às vezes,
+
+19:15.000 --> 19:16.000
+essa planta vem com
+
+19:16.000 --> 19:17.000
+muitas informações
+
+19:17.000 --> 19:18.000
+que não são necessárias
+
+19:18.000 --> 19:19.000
+para você levantá-la
+
+19:19.000 --> 19:20.000
+em 3D.
+
+19:20.000 --> 19:21.000
+Você tem que apagar
+
+19:21.000 --> 19:22.000
+essas informações
+
+19:22.000 --> 19:23.000
+para poder importar
+
+19:23.000 --> 19:24.000
+no programa
+
+19:24.000 --> 19:25.000
+e levantar a planta
+
+19:25.000 --> 19:26.000
+a partir dele.
+
+19:26.000 --> 19:27.000
+Existe o
+
+19:27.000 --> 19:28.000
+que é card,
+
+19:28.000 --> 19:29.000
+que é um programa
+
+19:29.000 --> 19:30.000
+muito prático,
+
+19:30.000 --> 19:31.000
+que também é o,
+
+19:31.000 --> 19:32.000
+se não me engano,
+
+19:32.000 --> 19:33.000
+LibreCard,
+
+19:33.000 --> 19:34.000
+que tem um forte dele,
+
+19:34.000 --> 19:35.000
+que você pode abrir
+
+19:35.000 --> 19:36.000
+arquivos portados
+
+19:36.000 --> 19:37.000
+do AutoCard,
+
+19:37.000 --> 19:38.000
+que são os XZ,
+
+19:38.000 --> 19:39.000
+você pode abrir
+
+19:39.000 --> 19:40.000
+e fazer
+
+19:40.000 --> 19:41.000
+essas motivações.
+
+19:41.000 --> 19:42.000
+Além de fazer
+
+19:42.000 --> 19:43.000
+planta baixa,
+
+19:43.000 --> 19:44.000
+fazer detalhes,
+
+19:44.000 --> 19:45.000
+escrever,
+
+19:45.000 --> 19:46.000
+colocar as cópias,
+
+19:46.000 --> 19:47.000
+praticamente,
+
+19:47.000 --> 19:48.000
+você faz o AutoCard,
+
+19:48.000 --> 19:49.000
+você pode fazer nele.
+
+19:49.000 --> 19:50.000
+Infelizmente,
+
+19:50.000 --> 19:51.000
+essa área de card,
+
+19:51.000 --> 19:52.000
+ainda,
+
+19:52.000 --> 19:53.000
+não existe um software
+
+19:53.000 --> 19:54.000
+livre,
+
+19:54.000 --> 19:55.000
+que esteja a altura
+
+19:55.000 --> 19:56.000
+no contexto de número de
+
+19:56.000 --> 19:57.000
+ferramento,
+
+19:57.000 --> 19:58.000
+o mercado fechado
+
+19:58.000 --> 19:59.000
+oferece.
+
+19:59.000 --> 20:00.000
+Mas já tem algumas soluções
+
+20:00.000 --> 20:01.000
+que rodam,
+
+20:01.000 --> 20:02.000
+por exemplo,
+
+20:02.000 --> 20:03.000
+no Linux,
+
+20:03.000 --> 20:04.000
+que já é uma espécie
+
+20:04.000 --> 20:05.000
+vitória.
+
+20:05.000 --> 20:06.000
+Se não é um software
+
+20:06.000 --> 20:07.000
+open source,
+
+20:07.000 --> 20:08.000
+pelo menos,
+
+20:08.000 --> 20:09.000
+está rodando no Linux.
+
+20:09.000 --> 20:10.000
+A gente tem que
+
+20:10.000 --> 20:11.000
+também pensar nisso,
+
+20:11.000 --> 20:12.000
+porque,
+
+20:12.000 --> 20:13.000
+pelo menos,
+
+20:13.000 --> 20:14.000
+a curto prazo,
+
+20:14.000 --> 20:15.000
+podem ter uma solução
+
+20:15.000 --> 20:16.000
+open source.
+
+20:16.000 --> 20:17.000
+O importante
+
+20:17.000 --> 20:18.000
+é que pelo menos,
+
+20:18.000 --> 20:19.000
+eles rodem no Linux.
+
+20:19.000 --> 20:21.000
+E aonde que mora a importância
+
+20:21.000 --> 20:22.000
+disso?
+
+20:22.000 --> 20:23.000
+Não mudando um pouco,
+
+20:23.000 --> 20:24.000
+mas não mudando do assunto.
+
+20:24.000 --> 20:25.000
+Se você pegar um filme,
+
+20:25.000 --> 20:26.000
+hoje,
+
+20:26.000 --> 20:27.000
+de computação gráfica 3D,
+
+20:27.000 --> 20:28.000
+que é o que eu assisto,
+
+20:28.000 --> 20:29.000
+e assistir
+
+20:29.000 --> 20:30.000
+os extras,
+
+20:30.000 --> 20:31.000
+o making off do filme,
+
+20:31.000 --> 20:32.000
+por exemplo,
+
+20:32.000 --> 20:33.000
+Madagascar,
+
+20:33.000 --> 20:34.000
+Track 2, 3,
+
+20:34.000 --> 20:35.000
+e olhar
+
+20:35.000 --> 20:36.000
+o pessoal trabalhando,
+
+20:36.000 --> 20:37.000
+quando aparece
+
+20:37.000 --> 20:38.000
+a parte da produção 3D,
+
+20:38.000 --> 20:40.000
+quando eles estão desenvolvendo,
+
+20:40.000 --> 20:41.000
+você vai ver
+
+20:41.000 --> 20:42.000
+que eles estão utilizando
+
+20:42.000 --> 20:43.000
+um Linux.
+
+20:43.000 --> 20:44.000
+Se eu não me engano,
+
+20:44.000 --> 20:45.000
+é o RedHack,
+
+20:45.000 --> 20:46.000
+pela aparente da área de trabalho.
+
+20:46.000 --> 20:47.000
+Então,
+
+20:47.000 --> 20:48.000
+a modelagem,
+
+20:48.000 --> 20:49.000
+a renderização,
+
+20:49.000 --> 20:50.000
+é feita toda no Linux.
+
+20:50.000 --> 20:51.000
+O programa que eles usam
+
+20:51.000 --> 20:52.000
+pra modelar,
+
+20:52.000 --> 20:53.000
+provavelmente,
+
+20:53.000 --> 20:54.000
+não é aberto,
+
+20:54.000 --> 20:55.000
+geralmente,
+
+20:55.000 --> 20:56.000
+é o Maya,
+
+20:56.000 --> 20:57.000
+mas ele está rodando no Linux,
+
+20:57.000 --> 20:58.000
+significa que as pessoas
+
+20:58.000 --> 20:59.000
+estão se voltando,
+
+20:59.000 --> 21:00.000
+pelo menos,
+
+21:00.000 --> 21:01.000
+para utilizar como
+
+21:01.000 --> 21:02.000
+sistema paracional
+
+21:02.000 --> 21:03.000
+base de desenvolvimento.
+
+21:03.000 --> 21:04.000
+Isso já é uma vitória.
+
+21:04.000 --> 21:05.000
+Eu chamo de
+
+21:05.000 --> 21:06.000
+conversão mista isso.
+
+21:06.000 --> 21:07.000
+A gente faz uma conversão mista.
+
+21:07.000 --> 21:08.000
+Você tenta levar a pessoa
+
+21:08.000 --> 21:09.000
+para o software livre,
+
+21:09.000 --> 21:10.000
+parcialmente,
+
+21:10.000 --> 21:11.000
+porque,
+
+21:11.000 --> 21:12.000
+dificilmente,
+
+21:12.000 --> 21:13.000
+ela vai conseguir fazer
+
+21:13.000 --> 21:14.000
+uma mudança.
+
+21:14.000 --> 21:15.000
+É, aquela coisa,
+
+21:15.000 --> 21:17.000
+tanto usando Windows
+
+21:17.000 --> 21:19.000
+dá pra utilizar
+
+21:19.000 --> 21:20.000
+muito o software livre,
+
+21:20.000 --> 21:21.000
+tanto usando o Linux,
+
+21:21.000 --> 21:22.000
+tem muitos sistemas
+
+21:22.000 --> 21:23.000
+proprietários
+
+21:23.000 --> 21:24.000
+que podem se rodar
+
+21:24.000 --> 21:25.000
+no Linux.
+
+21:25.000 --> 21:26.000
+Lembro-me,
+
+21:26.000 --> 21:27.000
+se eu não me engano,
+
+21:27.000 --> 21:28.000
+é uma parceria da DreamWorks
+
+21:28.000 --> 21:29.000
+com a HP.
+
+21:29.000 --> 21:30.000
+Sim, exatamente.
+
+21:30.000 --> 21:31.000
+E proveu
+
+21:31.000 --> 21:32.000
+a utilização
+
+21:32.000 --> 21:33.000
+do Linux
+
+21:33.000 --> 21:34.000
+nesses computadores.
+
+21:34.000 --> 21:35.000
+Se tornou bem mais viável,
+
+21:35.000 --> 21:37.000
+que eles utilizassem o Linux.
+
+21:37.000 --> 21:38.000
+É mais barato,
+
+21:38.000 --> 21:39.000
+mais confiável.
+
+21:39.000 --> 21:40.000
+É isso.
+
+21:40.000 --> 21:41.000
+É só você assistir
+
+21:41.000 --> 21:42.000
+os make-offs,
+
+21:42.000 --> 21:43.000
+pega essas animações
+
+21:43.000 --> 21:44.000
+da DreamWorks,
+
+21:44.000 --> 21:45.000
+e assista o make-off.
+
+21:45.000 --> 21:46.000
+Com certeza,
+
+21:46.000 --> 21:47.000
+vai aparecer um Linux
+
+21:47.000 --> 21:48.000
+mais cedo, mais targary.
+
+21:48.000 --> 21:49.000
+E você sabe
+
+21:49.000 --> 21:50.000
+prazer de
+
+21:50.000 --> 21:51.000
+esse pessoal
+
+21:51.000 --> 21:52.000
+que trabalha com informática,
+
+21:52.000 --> 21:53.000
+né?
+
+21:53.000 --> 21:54.000
+Se reunir,
+
+21:54.000 --> 21:55.000
+é muito comum,
+
+21:55.000 --> 21:56.000
+aqui na cidade,
+
+21:56.000 --> 21:57.000
+a gente se reunir
+
+21:57.000 --> 21:58.000
+entre os nerds
+
+21:58.000 --> 21:59.000
+que trabalham com 3D
+
+21:59.000 --> 22:00.000
+ou essa área de publicidade,
+
+22:00.000 --> 22:01.000
+e ficar assistindo
+
+22:01.000 --> 22:02.000
+o make-off
+
+22:02.000 --> 22:03.000
+e toda hora pausando,
+
+22:03.000 --> 22:04.000
+pra ver qual que é
+
+22:04.000 --> 22:05.000
+o sistema paracional
+
+22:05.000 --> 22:06.000
+que está rodando,
+
+22:06.000 --> 22:07.000
+porque a gente assistiu
+
+22:07.000 --> 22:08.000
+o rango
+
+22:08.000 --> 22:09.000
+do Ray
+
+22:09.000 --> 22:10.000
+e apareceram
+
+22:10.000 --> 22:11.000
+muitas cenas
+
+22:11.000 --> 22:12.000
+que o pessoal estava
+
+22:12.000 --> 22:13.000
+utilizando o Linux,
+
+22:13.000 --> 22:14.000
+deixou a gente
+
+22:14.000 --> 22:15.000
+bastante feliz.
+
+22:32.000 --> 22:33.000
+Falando sobre o filme,
+
+22:33.000 --> 22:34.000
+qual o software
+
+22:34.000 --> 22:36.000
+que você mais usa?
+
+22:36.000 --> 22:37.000
+Você também
+
+22:37.000 --> 22:38.000
+da tutorial
+
+22:38.000 --> 22:39.000
+ou de semina,
+
+22:39.000 --> 22:40.000
+na parte de edição
+
+22:40.000 --> 22:41.000
+de vídeo,
+
+22:41.000 --> 22:42.000
+né?
+
+22:42.000 --> 22:43.000
+Os programas que eu utilizo
+
+22:43.000 --> 22:44.000
+aqui são
+
+22:44.000 --> 22:45.000
+que eu vou fazer um contexto
+
+22:45.000 --> 22:46.000
+geral que mostra
+
+22:46.000 --> 22:47.000
+a suite de desenvolvimento
+
+22:47.000 --> 22:48.000
+que eu uso aqui.
+
+22:48.000 --> 22:49.000
+O sistema paracional
+
+22:49.000 --> 22:50.000
+eu utilizo dois,
+
+22:50.000 --> 22:51.000
+o Debian,
+
+22:51.000 --> 22:52.000
+que é clássico,
+
+22:52.000 --> 22:53.000
+um rodo que é uma maravilha,
+
+22:53.000 --> 22:54.000
+e o Shubun.
+
+22:54.000 --> 22:55.000
+Sempre tem algum
+
+22:55.000 --> 22:56.000
+traizinho
+
+22:56.000 --> 22:57.000
+que no Debian
+
+22:57.000 --> 22:58.000
+dá problema de rodar
+
+22:58.000 --> 22:59.000
+com Shubun com rodo
+
+22:59.000 --> 23:00.000
+que é uma beleza.
+
+23:00.000 --> 23:01.000
+Depois,
+
+23:01.000 --> 23:02.000
+tem o Blender,
+
+23:02.000 --> 23:03.000
+que eu trabalho com
+
+23:03.000 --> 23:04.000
+QCAD
+
+23:04.000 --> 23:05.000
+para importar
+
+23:05.000 --> 23:06.000
+alguma coisa de QXF.
+
+23:06.000 --> 23:07.000
+Trabalho com o Autacity
+
+23:07.000 --> 23:09.000
+para fazer edição de áudio,
+
+23:09.000 --> 23:10.000
+quando eu preciso fazer
+
+23:10.000 --> 23:11.000
+alguma coisa,
+
+23:11.000 --> 23:12.000
+aumentar, diminuir o volume,
+
+23:12.000 --> 23:13.000
+fazer algum efeito de áudio.
+
+23:13.000 --> 23:15.000
+Para fazer edição de vídeo,
+
+23:15.000 --> 23:17.000
+eu uso CabinLive,
+
+23:17.000 --> 23:18.000
+que é um programa formidável,
+
+23:18.000 --> 23:20.000
+porque ele é simples,
+
+23:20.000 --> 23:21.000
+e ao mesmo tempo,
+
+23:21.000 --> 23:22.000
+ele é bastante flexível
+
+23:22.000 --> 23:23.000
+para você fazer
+
+23:23.000 --> 23:24.000
+edição de vídeo.
+
+23:24.000 --> 23:25.000
+E uma série de outros
+
+23:25.000 --> 23:26.000
+programas,
+
+23:26.000 --> 23:27.000
+que são tantas opções
+
+23:27.000 --> 23:28.000
+e boas opções,
+
+23:28.000 --> 23:29.000
+às vezes você utiliza
+
+23:29.000 --> 23:30.000
+um de seis e seis mesmos
+
+23:30.000 --> 23:31.000
+um programa,
+
+23:31.000 --> 23:32.000
+mas ele é essencial
+
+23:32.000 --> 23:33.000
+para você conseguir terminar
+
+23:33.000 --> 23:34.000
+um trabalho.
+
+23:34.000 --> 23:35.000
+E se você não tem
+
+23:35.000 --> 23:36.000
+um programa na hora,
+
+23:36.000 --> 23:37.000
+existem muitas opções,
+
+23:37.000 --> 23:38.000
+que ou você baixa
+
+23:38.000 --> 23:39.000
+um programa que faz tudo
+
+23:39.000 --> 23:40.000
+em opensores,
+
+23:40.000 --> 23:41.000
+ou você baixa fases,
+
+23:41.000 --> 23:42.000
+que capazem de fazer
+
+23:42.000 --> 23:43.000
+uma atividade isolada,
+
+23:43.000 --> 23:44.000
+que fazendo uma composição
+
+23:44.000 --> 23:45.000
+de programas,
+
+23:45.000 --> 23:46.000
+você consegue
+
+23:46.000 --> 23:47.000
+tirar o resultado
+
+23:47.000 --> 23:48.000
+como exemplo.
+
+23:48.000 --> 23:49.000
+Em vez de traprar com Goon,
+
+23:49.000 --> 23:50.000
+que muitas vezes
+
+23:50.000 --> 23:51.000
+para diminuir,
+
+23:51.000 --> 23:52.000
+aumentar imagens,
+
+23:52.000 --> 23:53.000
+eu lanço um modo
+
+23:53.000 --> 23:54.000
+imedimédico,
+
+23:54.000 --> 23:55.000
+que apesar de ele ser
+
+23:55.000 --> 23:56.000
+na linha de comando,
+
+23:56.000 --> 23:57.000
+ele é um programa
+
+23:57.000 --> 23:58.000
+poderoso,
+
+23:58.000 --> 23:59.000
+muito rápido,
+
+23:59.000 --> 24:00.000
+e cresce uma gama
+
+24:00.000 --> 24:01.000
+bastante grande de possibilidades
+
+24:01.000 --> 24:02.000
+que você tem que ter.
+
+24:02.000 --> 24:03.000
+Eu tenho utilizado ele
+
+24:03.000 --> 24:04.000
+para fazer captura
+
+24:04.000 --> 24:05.000
+do desktop.
+
+24:05.000 --> 24:06.000
+Inclusive,
+
+24:06.000 --> 24:07.000
+eu estou criando um novo curso
+
+24:07.000 --> 24:08.000
+por essa escola
+
+24:08.000 --> 24:09.000
+de Santa Catarina,
+
+24:09.000 --> 24:10.000
+que eu estou utilizando
+
+24:10.000 --> 24:11.000
+só em algumas opensores,
+
+24:11.000 --> 24:12.000
+rodando sobre o químicos
+
+24:12.000 --> 24:13.000
+para gerar as videoaulas
+
+24:13.000 --> 24:14.000
+e poder enviar para ele.
+
+24:14.000 --> 24:15.000
+Para fazer a captura,
+
+24:15.000 --> 24:16.000
+porque as pessoas
+
+24:16.000 --> 24:17.000
+reclamam muito,
+
+24:17.000 --> 24:18.000
+não tem um lindos,
+
+24:18.000 --> 24:19.000
+não tem uma saída
+
+24:19.000 --> 24:20.000
+opensores,
+
+24:20.000 --> 24:21.000
+se você é parecido
+
+24:21.000 --> 24:22.000
+com uma fantasia,
+
+24:22.000 --> 24:23.000
+eu tenho utilizado
+
+24:23.000 --> 24:24.000
+o próprio FFmpeg
+
+24:24.000 --> 24:25.000
+para capturar o vídeo.
+
+24:25.000 --> 24:26.000
+Embora eu esteja usando
+
+24:26.000 --> 24:27.000
+Mac,
+
+24:27.000 --> 24:28.000
+eu tenho vários programas
+
+24:28.000 --> 24:29.000
+de opensores
+
+24:29.000 --> 24:30.000
+que eu utilizo também
+
+24:30.000 --> 24:31.000
+para capturar o vídeo.
+
+24:31.000 --> 24:32.000
+Então,
+
+24:32.000 --> 24:33.000
+na verdade,
+
+24:33.000 --> 24:34.000
+eu utilizo o render
+
+24:34.000 --> 24:35.000
+do Blender
+
+24:35.000 --> 24:36.000
+por questão de praticidade.
+
+24:36.000 --> 24:37.000
+Existem render externos,
+
+24:37.000 --> 24:38.000
+mas eu acho um pouco
+
+24:38.000 --> 24:39.000
+prático.
+
+24:39.000 --> 24:40.000
+Você, por exemplo,
+
+24:40.000 --> 24:41.000
+tem que fazer uma alteração
+
+24:41.000 --> 24:42.000
+de material,
+
+24:42.000 --> 24:43.000
+de cor,
+
+24:43.000 --> 24:44.000
+de textura.
+
+24:44.000 --> 24:45.000
+Eu acho muito
+
+24:45.000 --> 24:46.000
+travagoso
+
+24:46.000 --> 24:47.000
+fazer essa alteração
+
+24:47.000 --> 24:48.000
+e mandar renderizar fora.
+
+24:48.000 --> 24:49.000
+Então,
+
+24:49.000 --> 24:50.000
+eu prefiro utilizar
+
+24:50.000 --> 24:51.000
+o próprio render do Blender,
+
+24:51.000 --> 24:52.000
+que agora
+
+24:52.000 --> 24:53.000
+estão desenvolvendo
+
+24:53.000 --> 24:54.000
+os cycles,
+
+24:54.000 --> 24:55.000
+tipo de renderização
+
+24:55.000 --> 24:56.000
+em tempo real.
+
+24:56.000 --> 24:57.000
+Todos os problemas
+
+24:57.000 --> 24:58.000
+praticamente que tinham
+
+24:58.000 --> 24:59.000
+render interno,
+
+24:59.000 --> 25:00.000
+estão sendo resolvidos
+
+25:00.000 --> 25:01.000
+agora
+
+25:01.000 --> 25:02.000
+para você ter uma iluminação
+
+25:02.000 --> 25:03.000
+indireta
+
+25:03.000 --> 25:04.000
+e alguns efeitos
+
+25:04.000 --> 25:05.000
+que você já vê
+
+25:05.000 --> 25:06.000
+o resultado
+
+25:06.000 --> 25:07.000
+em tempo real
+
+25:07.000 --> 25:08.000
+e que todas as coisas
+
+25:08.000 --> 25:09.000
+que faltavam antes
+
+25:09.000 --> 25:10.000
+estão conseguindo suprir.
+
+25:10.000 --> 25:11.000
+Ou seja,
+
+25:11.000 --> 25:12.000
+você vai conseguir
+
+25:12.000 --> 25:13.000
+resolver tudo
+
+25:13.000 --> 25:14.000
+direto no Blender.
+
+25:14.000 --> 25:15.000
+Fugir um pouco de software
+
+25:15.000 --> 25:16.000
+para você fazer isso tudo
+
+25:16.000 --> 25:17.000
+deve ter uma máquina
+
+25:17.000 --> 25:18.000
+bem bruta,
+
+25:18.000 --> 25:19.000
+para você fazer isso tudo.
+
+25:19.000 --> 25:20.000
+Na verdade,
+
+25:20.000 --> 25:21.000
+todo mundo fala que
+
+25:21.000 --> 25:22.000
+quem trabalha com um 3D,
+
+25:22.000 --> 25:23.000
+tem uma máquina bem potente.
+
+25:23.000 --> 25:24.000
+Veja só,
+
+25:24.000 --> 25:25.000
+eu trabalho assim.
+
+25:25.000 --> 25:26.000
+Eu tenho um monitor
+
+25:26.000 --> 25:27.000
+que na verdade
+
+25:27.000 --> 25:28.000
+é uma TV
+
+25:28.000 --> 25:29.000
+e é bom se trabalhar
+
+25:29.000 --> 25:30.000
+com áreas bem grandes
+
+25:30.000 --> 25:31.000
+até porque se tiver algum problema
+
+25:31.000 --> 25:32.000
+no 3D,
+
+25:32.000 --> 25:33.000
+você já vê na hora.
+
+25:33.000 --> 25:34.000
+Eu gosto de trabalhar
+
+25:34.000 --> 25:35.000
+também em Full HD.
+
+25:35.000 --> 25:36.000
+Mas eu não uso
+
+25:36.000 --> 25:37.000
+uma CPU
+
+25:37.000 --> 25:38.000
+daquelas MiniTorre
+
+25:38.000 --> 25:39.000
+que o pessoal falava.
+
+25:39.000 --> 25:40.000
+Não sei se ainda
+
+25:40.000 --> 25:41.000
+tem uma MiniTorre.
+
+25:41.000 --> 25:42.000
+Eu uso um notebook.
+
+25:42.000 --> 25:43.000
+Eu tenho um notebook
+
+25:43.000 --> 25:44.000
+com um Core i5,
+
+25:44.000 --> 25:45.000
+um processador i5,
+
+25:45.000 --> 25:46.000
+uma placa de vídeo
+
+25:46.000 --> 25:47.000
+de 64 mega
+
+25:47.000 --> 25:48.000
+e eu consigo
+
+25:48.000 --> 25:49.000
+trabalhar tranquilamente
+
+25:49.000 --> 25:50.000
+até hoje
+
+25:50.000 --> 25:51.000
+não teve um trabalho
+
+25:51.000 --> 25:52.000
+que eu pensei
+
+25:52.000 --> 25:53.000
+que o computador
+
+25:53.000 --> 25:54.000
+não deu conta.
+
+25:54.000 --> 25:55.000
+Por isso que eu utilizo
+
+25:55.000 --> 25:56.000
+até o Debian
+
+25:56.000 --> 25:57.000
+e alguns trabalhos
+
+25:57.000 --> 25:58.000
+de renderização
+
+25:58.000 --> 25:59.000
+em tempo real,
+
+25:59.000 --> 26:00.000
+edição de vídeo
+
+26:00.000 --> 26:01.000
+em tempo real
+
+26:01.000 --> 26:02.000
+e por cadê
+
+26:02.000 --> 26:03.000
+inclusive
+
+26:03.000 --> 26:04.000
+eu consigo fazer
+
+26:04.000 --> 26:05.000
+esse notebook
+
+26:05.000 --> 26:06.000
+relativamente sim.
+
+26:06.000 --> 26:07.000
+Você vê que
+
+26:07.000 --> 26:08.000
+até na parte de hardware
+
+26:08.000 --> 26:09.000
+os software
+
+26:09.000 --> 26:10.000
+livros
+
+26:10.000 --> 26:11.000
+aproveitar as máquinas
+
+26:11.000 --> 26:12.000
+assim não tão boas,
+
+26:12.000 --> 26:13.000
+economiza recursos.
+
+26:13.000 --> 26:14.000
+Exatamente.
+
+26:14.000 --> 26:15.000
+E isso é uma coisa importante
+
+26:15.000 --> 26:16.000
+que você acaba
+
+26:16.000 --> 26:17.000
+incluindo
+
+26:17.000 --> 26:18.000
+número maior de pessoas.
+
+26:18.000 --> 26:19.000
+Eu imagino que
+
+26:19.000 --> 26:20.000
+para uma ferramenta
+
+26:20.000 --> 26:21.000
+ser boa
+
+26:21.000 --> 26:22.000
+ela precisa ser conhecida
+
+26:22.000 --> 26:23.000
+e ela precisa
+
+26:23.000 --> 26:24.000
+permitir que as pessoas
+
+26:24.000 --> 26:25.000
+utilizem ela,
+
+26:25.000 --> 26:26.000
+incluir as pessoas.
+
+26:26.000 --> 26:27.000
+Por isso que eu escrevo
+
+26:27.000 --> 26:28.000
+bastante um tutorial
+
+26:28.000 --> 26:29.000
+justamente para levar
+
+26:29.000 --> 26:30.000
+o maior número possível
+
+26:30.000 --> 26:31.000
+de pessoas
+
+26:31.000 --> 26:32.000
+a possibilidade
+
+26:32.000 --> 26:33.000
+de eles fazerem algo.
+
+26:33.000 --> 26:34.000
+E não adianta
+
+26:34.000 --> 26:35.000
+existir um programa maravilhoso,
+
+26:35.000 --> 26:36.000
+existir uma solução
+
+26:36.000 --> 26:37.000
+genial
+
+26:37.000 --> 26:38.000
+se as pessoas não têm acesso.
+
+26:38.000 --> 26:39.000
+É importante
+
+26:39.000 --> 26:40.000
+que as pessoas tenham acesso
+
+26:40.000 --> 26:41.000
+e eu não estou aqui
+
+26:41.000 --> 26:42.000
+puxando a brasa
+
+26:42.000 --> 26:43.000
+para sair de software livre.
+
+26:43.000 --> 26:44.000
+Não vou perder
+
+26:44.000 --> 26:45.000
+dizer que ela é melhor
+
+26:45.000 --> 26:46.000
+que tudo,
+
+26:46.000 --> 26:47.000
+que as pessoas que utilizam
+
+26:47.000 --> 26:48.000
+eles são os melhores
+
+26:48.000 --> 26:49.000
+do mundo,
+
+26:49.000 --> 26:50.000
+todo mundo é igual.
+
+26:50.000 --> 26:51.000
+Mas o que eu vim
+
+26:51.000 --> 26:52.000
+no software livre
+
+26:52.000 --> 26:53.000
+me encantou,
+
+26:53.000 --> 26:54.000
+me chama atenção
+
+26:54.000 --> 26:55.000
+e faz-me motivar
+
+26:55.000 --> 26:56.000
+para conseguir o grande
+
+26:56.000 --> 26:57.000
+de pessoas
+
+26:57.000 --> 26:58.000
+sem a necessidade
+
+26:58.000 --> 26:59.000
+de ter que comprar
+
+26:59.000 --> 27:00.000
+um super computador
+
+27:00.000 --> 27:01.000
+ou de expender
+
+27:01.000 --> 27:02.000
+financeiramente
+
+27:02.000 --> 27:03.000
+uma quantia grande
+
+27:03.000 --> 27:04.000
+para adquirir soluções
+
+27:04.000 --> 27:05.000
+que possam ajudar
+
+27:05.000 --> 27:06.000
+essas pessoas
+
+27:06.000 --> 27:07.000
+no dia a dia
+
+27:07.000 --> 27:08.000
+ganhando o dinheiro
+
+27:08.000 --> 27:09.000
+e ou resolvendo
+
+27:09.000 --> 27:10.000
+as coisas que elas precisam
+
+27:10.000 --> 27:11.000
+no programa 5
+
+27:11.000 --> 27:12.000
+de cotidiano
+
+27:12.000 --> 27:13.000
+relacionados entre nós.
+
+27:25.000 --> 27:27.000
+É importante também
+
+27:27.000 --> 27:28.000
+frisar essa parte social
+
+27:28.000 --> 27:29.000
+do software livre.
+
+27:29.000 --> 27:30.000
+Ah, sim.
+
+27:30.000 --> 27:32.000
+Essa parte de inclusão digital
+
+27:32.000 --> 27:33.000
+e a parte da nova
+
+27:33.000 --> 27:34.000
+absorlecência do hardware,
+
+27:34.000 --> 27:35.000
+que é uma coisa
+
+27:35.000 --> 27:36.000
+que pega muito,
+
+27:36.000 --> 27:37.000
+principalmente
+
+27:37.000 --> 27:38.000
+para quem tem pouco recursos.
+
+27:38.000 --> 27:39.000
+Exatamente.
+
+27:39.000 --> 27:40.000
+O legal
+
+27:40.000 --> 27:41.000
+nessa situação
+
+27:41.000 --> 27:42.000
+da absorlecência
+
+27:42.000 --> 27:43.000
+que eu até assisti
+
+27:43.000 --> 27:44.000
+um documentário
+
+27:44.000 --> 27:45.000
+que diz
+
+27:45.000 --> 27:46.000
+absorlecência programada
+
+27:46.000 --> 27:47.000
+vai ser
+
+27:47.000 --> 27:48.000
+um documentário
+
+27:48.000 --> 27:49.000
+que é um documentário
+
+27:49.000 --> 27:50.000
+que é um documentário
+
+27:50.000 --> 27:51.000
+que é um documentário
+
+27:51.000 --> 27:52.000
+que é um documentário
+
+27:52.000 --> 27:53.000
+que é um documentário
+
+27:53.000 --> 27:54.000
+que diz
+
+27:54.000 --> 27:55.000
+absorlecência programada.
+
+27:55.000 --> 27:56.000
+Vários documentários
+
+27:56.000 --> 27:57.000
+foram sobre isso.
+
+27:57.000 --> 27:58.000
+Lá em casa,
+
+27:58.000 --> 27:59.000
+às vezes
+
+27:59.000 --> 28:00.000
+aparece um computador
+
+28:00.000 --> 28:01.000
+do nada
+
+28:01.000 --> 28:02.000
+de algum parente
+
+28:02.000 --> 28:03.000
+que comprou um computador novo
+
+28:03.000 --> 28:04.000
+e não quer mais saber
+
+28:04.000 --> 28:05.000
+do computador mais velho
+
+28:05.000 --> 28:06.000
+e não pego.
+
+28:06.000 --> 28:07.000
+E esses dias
+
+28:07.000 --> 28:08.000
+houve um problema
+
+28:08.000 --> 28:09.000
+no computador do
+
+28:09.000 --> 28:10.000
+meu irmão
+
+28:10.000 --> 28:11.000
+e eu estou ensinando
+
+28:11.000 --> 28:12.000
+uma sobrinha minha
+
+28:12.000 --> 28:13.000
+a trabalhar com 3D.
+
+28:13.000 --> 28:14.000
+Porque ela é bem jovem,
+
+28:14.000 --> 28:15.000
+né?
+
+28:15.000 --> 28:16.000
+E ela,
+
+28:16.000 --> 28:17.000
+oh, tia,
+
+28:17.000 --> 28:18.000
+eu vou fazer 3D,
+
+28:18.000 --> 28:19.000
+me ensino aí e tal.
+
+28:19.000 --> 28:20.000
+E não dá para estalar
+
+28:20.000 --> 28:21.000
+alguns programas
+
+28:21.000 --> 28:22.000
+no computador que ela tinha
+
+28:22.000 --> 28:23.000
+que quebrou
+
+28:23.000 --> 28:24.000
+fazendo V
+
+28:24.000 --> 28:25.000
+e comprometendo o processamento
+
+28:25.000 --> 28:26.000
+e não conseguia fazer nada.
+
+28:26.000 --> 28:27.000
+Então eu estalei
+
+28:27.000 --> 28:28.000
+em Globunto
+
+28:28.000 --> 28:29.000
+e dá para rodar
+
+28:29.000 --> 28:30.000
+inclusive
+
+28:30.000 --> 28:31.000
+alguns programas
+
+28:31.000 --> 28:32.000
+que ela utilizava,
+
+28:32.000 --> 28:33.000
+que eram essenciais para ela,
+
+28:33.000 --> 28:34.000
+rodando sobre o ar.
+
+28:34.000 --> 28:35.000
+Olha só.
+
+28:35.000 --> 28:36.000
+Ou seja, que roda mais rápido
+
+28:36.000 --> 28:37.000
+até no emulador
+
+28:37.000 --> 28:38.000
+que não é o emulador,
+
+28:38.000 --> 28:39.000
+né?
+
+28:39.000 --> 28:40.000
+Do que no sistema
+
+28:40.000 --> 28:41.000
+que era para ser nativo.
+
+28:41.000 --> 28:42.000
+Ela dá conseguida
+
+28:42.000 --> 28:43.000
+para ler 3D,
+
+28:43.000 --> 28:44.000
+tá conseguindo fazer
+
+28:44.000 --> 28:45.000
+as coisas dela,
+
+28:45.000 --> 28:46.000
+sem o temor que tinha
+
+28:46.000 --> 28:47.000
+antes de vir e
+
+28:47.000 --> 28:48.000
+com sobra até de
+
+28:48.000 --> 28:49.000
+fazer o processamento.
+
+28:49.000 --> 28:50.000
+Isso é uma coisa muito bacana.
+
+28:50.000 --> 28:51.000
+E assim,
+
+28:51.000 --> 28:52.000
+às vezes a sobra do processamento
+
+28:52.000 --> 28:53.000
+é que o programa
+
+28:53.000 --> 28:54.000
+necessariamente foi
+
+28:54.000 --> 28:55.000
+um melhor inscrito.
+
+28:55.000 --> 28:56.000
+Mas é que no lino
+
+28:56.000 --> 28:57.000
+que você pode cortar
+
+28:57.000 --> 28:58.000
+aquilo que você não utiliza.
+
+28:58.000 --> 28:59.000
+Em vez de utilizar
+
+28:59.000 --> 29:00.000
+um gerenciador de janelas
+
+29:00.000 --> 29:01.000
+super pesados,
+
+29:01.000 --> 29:02.000
+cheios de efeitos,
+
+29:02.000 --> 29:03.000
+você tem uma opção
+
+29:03.000 --> 29:04.000
+de escolher um que seja simples
+
+29:04.000 --> 29:06.000
+e não tenha efeito nenhum,
+
+29:06.000 --> 29:07.000
+mas que venha
+
+29:07.000 --> 29:08.000
+a suprir a necessidade
+
+29:08.000 --> 29:09.000
+que você tem
+
+29:09.000 --> 29:10.000
+para acessar o programa.
+
+29:10.000 --> 29:11.000
+É, devo perceber
+
+29:11.000 --> 29:12.000
+que você é bem fã
+
+29:12.000 --> 29:13.000
+do XFCN.
+
+29:13.000 --> 29:14.000
+Ah, eu gosto.
+
+29:14.000 --> 29:15.000
+Todas as videoaulas
+
+29:15.000 --> 29:16.000
+que eu acho que
+
+29:16.000 --> 29:17.000
+a maioria é
+
+29:17.000 --> 29:18.000
+XFCN.
+
+29:18.000 --> 29:19.000
+Na verdade,
+
+29:19.000 --> 29:20.000
+eu não uso só ele, né?
+
+29:20.000 --> 29:21.000
+Eu gosto de
+
+29:21.000 --> 29:22.000
+usar aquela nova interface
+
+29:22.000 --> 29:23.000
+do Ubuntu.
+
+29:23.000 --> 29:24.000
+Eu estalei ela e o Uniti
+
+29:24.000 --> 29:25.000
+para ver
+
+29:25.000 --> 29:26.000
+como funciona,
+
+29:26.000 --> 29:27.000
+ver se
+
+29:27.000 --> 29:28.000
+é tão ruim
+
+29:28.000 --> 29:29.000
+que o pessoal está falando.
+
+29:29.000 --> 29:30.000
+Mas tenho me surpreendido.
+
+29:30.000 --> 29:31.000
+Tenho achado bem evoluído,
+
+29:31.000 --> 29:33.000
+sim, bem bacana a ideia deles.
+
+29:33.000 --> 29:34.000
+Eu acho que a família
+
+29:34.000 --> 29:35.000
+é toda, né?
+
+29:35.000 --> 29:36.000
+Agora tem gerenciador
+
+29:36.000 --> 29:37.000
+separado de 3D.
+
+29:37.000 --> 29:38.000
+Não tem o Veve Moraes
+
+29:38.000 --> 29:39.000
+também,
+
+29:39.000 --> 29:40.000
+aquele sobrinho seu.
+
+29:40.000 --> 29:41.000
+Aham.
+
+29:41.000 --> 29:42.000
+Eu estudei com ele,
+
+29:42.000 --> 29:43.000
+sabia?
+
+29:43.000 --> 29:44.000
+Sim, sim, sei.
+
+29:44.000 --> 29:45.000
+Começou a estudar agora, né?
+
+29:45.000 --> 29:46.000
+Já tem quantas pessoas
+
+29:46.000 --> 29:47.000
+já de sua família, tá?
+
+29:47.000 --> 29:48.000
+Não, você falou em família
+
+29:48.000 --> 29:49.000
+e agora eu me lembrei
+
+29:49.000 --> 29:50.000
+que eu estou usando
+
+29:50.000 --> 29:51.000
+o ativuto da minha namorada,
+
+29:51.000 --> 29:52.000
+da minha noiva.
+
+29:52.000 --> 29:53.000
+Não posso falar namorada
+
+29:53.000 --> 29:54.000
+porque você não me mata.
+
+29:54.000 --> 29:55.000
+Eu estou usando um ativuto
+
+29:55.000 --> 29:56.000
+da minha noiva
+
+29:56.000 --> 29:57.000
+e está rodando
+
+29:57.000 --> 29:59.000
+o Chubuntu também, né?
+
+29:59.000 --> 30:01.000
+Tenho o computador da casa dela,
+
+30:01.000 --> 30:02.000
+que está rodando o Chubuntu.
+
+30:02.000 --> 30:03.000
+O computador que está lá em casa,
+
+30:03.000 --> 30:04.000
+que é o desktop,
+
+30:04.000 --> 30:05.000
+também,
+
+30:05.000 --> 30:06.000
+está rodando o Linux.
+
+30:06.000 --> 30:07.000
+Então, pelo menos a minha parte,
+
+30:07.000 --> 30:08.000
+assim, eu tenho feito
+
+30:08.000 --> 30:09.000
+de levar esses 100 pessoas
+
+30:09.000 --> 30:11.000
+facilitando a vida delas
+
+30:11.000 --> 30:12.000
+o máximo possível.
+
+30:12.000 --> 30:13.000
+Esses,
+
+30:13.000 --> 30:14.000
+tem um vídeo que eu achei
+
+30:14.000 --> 30:15.000
+muito interessante
+
+30:15.000 --> 30:16.000
+de vocês que eu assistia
+
+30:16.000 --> 30:17.000
+e que ele mostra
+
+30:17.000 --> 30:18.000
+momentos engraçados
+
+30:18.000 --> 30:19.000
+na minha palestra.
+
+30:19.000 --> 30:20.000
+Ah, sim.
+
+30:20.000 --> 30:21.000
+É o que eu sempre falo.
+
+30:21.000 --> 30:22.000
+Palestra é mais ou menos
+
+30:22.000 --> 30:23.000
+igual uma missa
+
+30:23.000 --> 30:24.000
+e igual um cu.
+
+30:24.000 --> 30:25.000
+As pessoas sentam
+
+30:25.000 --> 30:26.000
+e se você não
+
+30:26.000 --> 30:27.000
+fizer alguma coisa
+
+30:27.000 --> 30:28.000
+que chama atenção,
+
+30:28.000 --> 30:29.000
+elas dormem.
+
+30:29.000 --> 30:30.000
+Como eu não sou
+
+30:30.000 --> 30:31.000
+um líder religioso,
+
+30:31.000 --> 30:32.000
+um sacerdote,
+
+30:32.000 --> 30:33.000
+que pode pedir
+
+30:33.000 --> 30:34.000
+para as pessoas levantar
+
+30:34.000 --> 30:35.000
+e sentar
+
+30:35.000 --> 30:36.000
+e cantar em bater palmas,
+
+30:36.000 --> 30:37.000
+tem que fazer
+
+30:37.000 --> 30:38.000
+alguma coisa que faz
+
+30:38.000 --> 30:39.000
+se elas ficarem acordadas.
+
+30:39.000 --> 30:40.000
+Então,
+
+30:40.000 --> 30:41.000
+é bom dar uma relaxada,
+
+30:41.000 --> 30:42.000
+fazer uma brincadeira e tal,
+
+30:42.000 --> 30:43.000
+mas sempre com o foco
+
+30:43.000 --> 30:44.000
+de passar informação
+
+30:44.000 --> 30:45.000
+e promover software livre,
+
+30:45.000 --> 30:46.000
+principalmente o Brember.
+
+30:46.000 --> 30:47.000
+É verdade.
+
+30:47.000 --> 30:48.000
+Quando eu assisti
+
+30:48.000 --> 30:49.000
+foi muito interessante.
+
+30:49.000 --> 30:50.000
+Sua palestra
+
+30:50.000 --> 30:51.000
+foi bem engraçada.
+
+30:51.000 --> 30:52.000
+Na verdade,
+
+30:52.000 --> 30:53.000
+nem prestei atenção na palestra.
+
+30:53.000 --> 30:54.000
+Só nas piadas.
+
+30:56.000 --> 30:57.000
+Mas você aprendeu o Brember,
+
+30:57.000 --> 30:58.000
+você foi atrás,
+
+30:58.000 --> 30:59.000
+você fez tudo,
+
+30:59.000 --> 31:00.000
+não foi tão cheio.
+
+31:00.000 --> 31:01.000
+Tem algum plano de vim
+
+31:01.000 --> 31:02.000
+aqui de novo no Goiás?
+
+31:02.000 --> 31:03.000
+Cabe, eu tenho sim.
+
+31:03.000 --> 31:04.000
+Eu fiz bons amigos aí,
+
+31:04.000 --> 31:05.000
+pessoas fabulosas,
+
+31:05.000 --> 31:07.000
+tenho contato constante com eles,
+
+31:07.000 --> 31:08.000
+pessoas que vocês
+
+31:08.000 --> 31:09.000
+inclusive devem conhecer
+
+31:09.000 --> 31:11.000
+e estou esperando convite.
+
+31:11.000 --> 31:12.000
+Eu sou o convidor,
+
+31:12.000 --> 31:13.000
+estou indo.
+
+31:13.000 --> 31:14.000
+Infelizmente,
+
+31:14.000 --> 31:15.000
+não posso ir com
+
+31:15.000 --> 31:16.000
+os meus parcos,
+
+31:16.000 --> 31:17.000
+recônios,
+
+31:17.000 --> 31:18.000
+que são uma pessoa rica,
+
+31:18.000 --> 31:19.000
+não tenho disposição
+
+31:19.000 --> 31:20.000
+para fazer esse tipo
+
+31:20.000 --> 31:21.000
+de tour nerd,
+
+31:21.000 --> 31:22.000
+mas se rolar algum evento
+
+31:22.000 --> 31:23.000
+aí,
+
+31:23.000 --> 31:24.000
+o pessoal chamar,
+
+31:24.000 --> 31:25.000
+eu vou de bom gravo.
+
+31:25.000 --> 31:26.000
+Tem um amigão seu aqui,
+
+31:26.000 --> 31:28.000
+que estava lá na palestra,
+
+31:28.000 --> 31:29.000
+até te ajudou
+
+31:29.000 --> 31:30.000
+a passar os slides.
+
+31:30.000 --> 31:31.000
+Como é o nome dele?
+
+31:31.000 --> 31:32.000
+Vou mandar um salto.
+
+31:32.000 --> 31:33.000
+Algo.
+
+31:33.000 --> 31:34.000
+Virgílio?
+
+31:34.000 --> 31:35.000
+Isso, virgílio.
+
+31:35.000 --> 31:36.000
+Aqui não está mais
+
+31:36.000 --> 31:37.000
+em Goiás.
+
+31:37.000 --> 31:38.000
+O Viver lançou um livro,
+
+31:38.000 --> 31:39.000
+um excelente livro
+
+31:39.000 --> 31:40.000
+de animação
+
+31:40.000 --> 31:41.000
+de personagens.
+
+31:41.000 --> 31:42.000
+Eu tive o prazer
+
+31:42.000 --> 31:43.000
+de surfiar um,
+
+31:43.000 --> 31:44.000
+comprei lá,
+
+31:44.000 --> 31:45.000
+quase apanhei,
+
+31:45.000 --> 31:46.000
+comprei ele,
+
+31:46.000 --> 31:47.000
+foi um dos únicos
+
+31:47.000 --> 31:48.000
+que tinha.
+
+31:48.000 --> 31:49.000
+Poxa,
+
+31:49.000 --> 31:50.000
+espero que a Goiânia
+
+31:50.000 --> 31:51.000
+continue rendendo
+
+31:51.000 --> 31:52.000
+bons...
+
+31:52.000 --> 31:53.000
+eu não sei.
+
+31:53.000 --> 31:54.000
+E os planos para o futuro,
+
+31:54.000 --> 31:55.000
+além da aula,
+
+31:55.000 --> 31:56.000
+que está preparando lá
+
+31:56.000 --> 31:57.000
+para a escola?
+
+31:57.000 --> 31:58.000
+Já terminou,
+
+31:58.000 --> 31:59.000
+ou está preparando?
+
+31:59.000 --> 32:00.000
+Estou no meio de um novo curso,
+
+32:00.000 --> 32:01.000
+que é o primeiro que eu fiz
+
+32:01.000 --> 32:02.000
+é um curso mais sim,
+
+32:02.000 --> 32:03.000
+curso básico de Blendo.
+
+32:03.000 --> 32:04.000
+Esses segundos
+
+32:04.000 --> 32:05.000
+já são efeitos visuais,
+
+32:05.000 --> 32:06.000
+sim,
+
+32:06.000 --> 32:07.000
+simulação física,
+
+32:07.000 --> 32:08.000
+simulação de pecidos,
+
+32:08.000 --> 32:09.000
+como fazer cabelo,
+
+32:09.000 --> 32:11.000
+como fazer simulação
+
+32:11.000 --> 32:12.000
+de corpos flexíveis,
+
+32:12.000 --> 32:13.000
+corpos rígidos,
+
+32:13.000 --> 32:14.000
+emborrachados,
+
+32:14.000 --> 32:15.000
+lítidos, etc. e tal.
+
+32:15.000 --> 32:16.000
+Por futuro,
+
+32:16.000 --> 32:17.000
+agora estou estudando
+
+32:17.000 --> 32:18.000
+essa reconstituição forense,
+
+32:18.000 --> 32:19.000
+espero pegar algum trabalho
+
+32:19.000 --> 32:20.000
+no meio de cartologia
+
+32:20.000 --> 32:21.000
+que eu adoro,
+
+32:21.000 --> 32:22.000
+e o negócio é sempre estudar,
+
+32:22.000 --> 32:23.000
+que se você também
+
+32:23.000 --> 32:24.000
+fazer muito plano,
+
+32:24.000 --> 32:25.000
+imaginar que a vida
+
+32:25.000 --> 32:26.000
+é uma família de
+
+32:26.000 --> 32:27.000
+não do Excel,
+
+32:27.000 --> 32:28.000
+mas do Libre Office,
+
+32:28.000 --> 32:29.000
+você não vai ser
+
+32:29.000 --> 32:30.000
+muito feliz não,
+
+32:30.000 --> 32:31.000
+você vai te custar
+
+32:31.000 --> 32:32.000
+bastante.
+
+32:32.000 --> 32:33.000
+Então,
+
+32:33.000 --> 32:34.000
+tem estudado bastante,
+
+32:34.000 --> 32:35.000
+várias áreas,
+
+32:35.000 --> 32:36.000
+e espero que algumas delas
+
+32:36.000 --> 32:37.000
+eu consiga seguir
+
+32:37.000 --> 32:39.000
+e ter excelência nessa área.
+
+32:39.000 --> 32:40.000
+Eu queria agradecer,
+
+32:40.000 --> 32:41.000
+primeiro eu peço desculpas
+
+32:41.000 --> 32:42.000
+aí,
+
+32:42.000 --> 32:43.000
+pelos Trestornos,
+
+32:43.000 --> 32:44.000
+e eu fico muito grato
+
+32:44.000 --> 32:45.000
+pela entrevista.
+
+32:45.000 --> 32:46.000
+Eu também agradeço muito,
+
+32:46.000 --> 32:47.000
+e se você não gostou,
+
+32:47.000 --> 32:48.000
+vai por meio do mato
+
+32:48.000 --> 32:49.000
+cortar a lei.
+
+32:49.000 --> 32:50.000
+Aí eu que agradeço
+
+32:50.000 --> 32:51.000
+vocês pela paciência
+
+32:51.000 --> 32:52.000
+de me ouvir,
+
+32:52.000 --> 32:53.000
+pela ousadia
+
+32:53.000 --> 32:54.000
+de colocar o material
+
+32:54.000 --> 32:55.000
+desse online,
+
+32:55.000 --> 32:56.000
+pelo trabalho que
+
+32:56.000 --> 32:57.000
+vocês têm feito aí
+
+32:57.000 --> 32:58.000
+para a promoção,
+
+32:58.000 --> 32:59.000
+não apenas de
+
+32:59.000 --> 33:00.000
+software Libre
+
+33:00.000 --> 33:01.000
+ou Gráfico,
+
+33:01.000 --> 33:02.000
+mas do próprio
+
+33:02.000 --> 33:03.000
+conhecimento.
+
+33:03.000 --> 33:04.000
+Na verdade,
+
+33:04.000 --> 33:05.000
+o mais importante
+
+33:05.000 --> 33:06.000
+é a gente
+
+33:06.000 --> 33:07.000
+oferecer para as pessoas
+
+33:07.000 --> 33:08.000
+a oportunidade
+
+33:08.000 --> 33:09.000
+de elas conhecerem
+
+33:09.000 --> 33:10.000
+mais áreas,
+
+33:10.000 --> 33:11.000
+e ter mais informação
+
+33:11.000 --> 33:12.000
+acerca do mundo
+
+33:12.000 --> 33:13.000
+que rudei a elas,
+
+33:13.000 --> 33:14.000
+que hoje a gente
+
+33:14.000 --> 33:15.000
+recebe pela mídia
+
+33:15.000 --> 33:16.000
+uma mensagem
+
+33:16.000 --> 33:17.000
+de que importante
+
+33:17.000 --> 33:18.000
+é você ser poderoso
+
+33:18.000 --> 33:19.000
+e ter dinheiro.
+
+33:19.000 --> 33:20.000
+Mas na verdade,
+
+33:20.000 --> 33:21.000
+o importante
+
+33:21.000 --> 33:22.000
+é você ter conhecimento
+
+33:22.000 --> 33:23.000
+e mais do que ter
+
+33:23.000 --> 33:24.000
+conhecimento,
+
+33:24.000 --> 33:25.000
+ser muito grato
+
+33:25.000 --> 33:26.000
+e ser muito feliz
+
+33:26.000 --> 33:27.000
+com o conhecimento
+
+33:27.000 --> 33:28.000
+que você consegue
+
+33:28.000 --> 33:29.000
+construir
+
+33:29.000 --> 33:30.000
+com o seu esforço.
+
+33:30.000 --> 33:31.000
+Isso sim,
+
+33:31.000 --> 33:32.000
+é ser rico,
+
+33:32.000 --> 33:33.000
+isso é ter riqueza
+
+33:33.000 --> 33:34.000
+e ter poder.
+
+33:34.000 --> 33:35.000
+Você já vai,
+
+33:35.000 --> 33:36.000
+assim,
+
+33:36.000 --> 33:37.000
+não vai conseguir
+
+33:37.000 --> 33:38.000
+muita coisa,
+
+33:38.000 --> 33:39.000
+você vai ver o site,
+
+33:39.000 --> 33:40.000
+porque quem quiser
+
+33:40.000 --> 33:41.000
+que acessa os tutoriais,
+
+33:41.000 --> 33:42.000
+o site é
+
+33:42.000 --> 33:44.000
+www.ciceromoraes.com.br,
+
+33:44.000 --> 33:46.000
+tem o canal do YouTube,
+
+33:46.000 --> 33:47.000
+que é
+
+33:47.000 --> 33:48.000
+cogitas3d,
+
+33:48.000 --> 33:49.000
+cogitas com G,
+
+33:49.000 --> 33:50.000
+de gatão,
+
+33:50.000 --> 33:51.000
+ahá,
+
+33:51.000 --> 33:52.000
+lembrando as palavras
+
+33:52.000 --> 33:53.000
+da minha mãe.
+
+33:53.000 --> 33:54.000
+Tem,
+
+33:54.000 --> 33:55.000
+então,
+
+33:55.000 --> 33:56.000
+em o Twitter,
+
+33:56.000 --> 33:57.000
+que é cogitas3d,
+
+33:57.000 --> 33:58.000
+tem o Facebook,
+
+33:58.000 --> 33:59.000
+que é cogitas3d.
+
+33:59.000 --> 34:00.000
+Se você não conseguir
+
+34:00.000 --> 34:01.000
+achar nada,
+
+34:01.000 --> 34:02.000
+ou escreva Cicero Corais
+
+34:02.000 --> 34:03.000
+ou cogitas3d no Google,
+
+34:03.000 --> 34:04.000
+você vai encontrar
+
+34:04.000 --> 34:05.000
+alguma coisa.
+
+34:05.000 --> 34:06.000
+Qualquer coisa,
+
+34:06.000 --> 34:07.000
+só rezar para você também,
+
+34:07.000 --> 34:08.500
+para a distância.
+
+34:37.000 --> 35:02.480
+Chegamos aos créditos de mais um tribo de simpote teste, e agora é o dia em que
+
+35:02.480 --> 35:09.480
+a gente agradece e que vencionou a aula ativa do Serio Twitter ou mandou e-mail ou comentou
+
+35:09.480 --> 35:16.480
+na postagem dos episódios interiores, começando pelo rolê podosférico e o rolê podosférico
+
+35:16.480 --> 35:21.480
+que estivemos... Então, eu não fui convidado a dar nenhum podcast, mas eu fui convidado
+
+35:21.480 --> 35:27.480
+a participar do programa Repórter Cidade da Área de 730 de Goiânia para falar sobre
+
+35:27.480 --> 35:37.480
+Android e iOS. Me sentiu um biacus guardado devido as proporções. O programa foi a 1.0
+
+35:37.480 --> 35:42.480
+e eu tentei obter a gravação no programa, mas teve uma dança de produtor. Eu acabei
+
+35:42.480 --> 35:47.480
+não conseguindo obter a gravação para usar isso posteriormente. Não tivemos e-mails,
+
+35:47.480 --> 35:52.480
+como sempre, mas se você quiser mandar o e-mail, pode mandar para podcastarrobatribudici.net.
+
+35:52.480 --> 35:57.480
+Vamos agora, então, para quem mencionou a rouba, tribo do Serio Twitter. Então, um abraço
+
+35:57.480 --> 36:03.480
+para o Marcos Vinícius, X, Marcos, Sv, tudo junto, Alexandre Costa, o Mago Leixandre
+
+36:03.480 --> 36:10.480
+do podcast de um papo acessível, Daniel, Underline, Azeredo, Rodrigo Soares, o Aroba,
+
+36:10.480 --> 36:17.480
+Rodirijo, o Linux, Aroba Linux Ti, o Ricardo Voz, Júnior, Junim, Underline, RB, o Aroba,
+
+36:17.480 --> 36:24.480
+meu pinguim, o Marisun, o Aroba Mario Hill, Danielo César, Aroba Dan, César, Aroba,
+
+36:24.480 --> 36:32.480
+Culturalizando, Underline, Aroba Rearton, o Robótica Livre, Aroba Kiwin Mobile, Aroba Kiwitec,
+
+36:32.480 --> 36:40.480
+Daniela Castro, 13, Numeral 1-3, o Aroba Layerton Bezerro, John Sandal, no Facebook
+
+36:40.480 --> 36:45.480
+nós passamos de 200 curtias. Infelizmente, não dá para saber o nome da galera, porque
+
+36:45.480 --> 36:51.480
+não tem a listagem lá, só aparece a listagem de quem curtiu e é nosso amigo no Facebook,
+
+36:51.480 --> 36:57.480
+vou ficar devendo a lista de quem curtiu no Facebook. E agora, finalizando os comentários,
+
+36:57.480 --> 37:02.480
+também tivemos o Fernando Escalabrinho também, o papo acessível, o Rafael C.T., que agradeceu
+
+37:02.480 --> 37:10.480
+pelo título, correria até além também de Anderson dos Santos e Eric, que comentaram lá no post
+
+37:10.480 --> 37:14.480
+do último episódio com o Mozart Corp. E eu queria mandar também um abraço para o pessoal
+
+37:14.480 --> 37:19.480
+dos podcastes papo acessível, o que eu já falei no início do episódio, na abertura,
+
+37:19.480 --> 37:24.480
+o Música na Lata, que eu vi o laranja lá no Iupix, que belíssimo, o Troca o Disco,
+
+37:24.480 --> 37:30.480
+e também a Oléu do Saber outro Cast. Um abraço, tem uma boa vida e até o próximo episódio.
+
+37:41.480 --> 37:46.480
+Então, Cicero Moraes trabalha com modelagem 3D e o que mais?
+
+37:46.480 --> 37:53.480
+Olha, trabalha com umas coisas exclusas depois da meia-noite, mas até então com modelagem 3D.
+
+37:53.480 --> 38:07.480
+Pai, eu consegui matar os dois caras só, matando só os dois caras.
+
+38:07.480 --> 38:08.480
+Só os dois caras?
+
+38:08.480 --> 38:09.480
+E os normales.
+
+38:09.480 --> 38:11.480
+Ah, mas aí você zerou de novo?
+
+38:11.480 --> 38:12.480
+Não.
+
+38:12.480 --> 38:13.480
+Toquei.
+
+38:13.480 --> 38:14.480
+Eu não terei mais uma vez.
+
+38:14.480 --> 38:19.480
+Ah, mas eu consegui só matando os dois caras.
+
+38:19.480 --> 38:20.480
+Tá bom.
+
+38:23.480 --> 38:41.480
+E na verdade, sim, você quer aprender alguma coisa, internet, tudo que eu quis pra vocês.
+
+38:41.480 --> 38:45.480
+Você quer aprender a modelar, você aprende, você quer aprender cozinhar, você aprende.
+
+38:45.480 --> 38:49.480
+Se quiser aprender a fazer uma bomba de história quarteirão, você aprende também.
+
+38:49.480 --> 38:52.480
+Essa é a parte positiva da internet.
+
+38:52.480 --> 38:57.480
+A internet não é boa nem ruim, quem é boa ou ruim são as pessoas que...
+
+38:57.480 --> 38:59.480
+Exatamente, exatamente, sim.
+
+38:59.480 --> 39:03.480
+Só assim, porque ficou a capacidade humana de se interrelacionar.
+
+39:03.480 --> 39:06.480
+E o que você vai fazer com isso depende do que você.
+
+39:06.480 --> 39:08.480
+Internet, coisa incrível de eu ensinar.
+

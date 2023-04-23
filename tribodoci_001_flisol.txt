@@ -1,0 +1,1177 @@
+Música
+Meu nome é Shoron Led
+Eu sou o Sebastião Relso
+Estamos iniciando esse netcast aí
+Como assim netcast?
+Não, é podcast
+É comum, né? As pessoas confundindo, podcast ou netcast?
+A força do áudio, então nós estamos iniciando esse podcast com o som de Armin Van Billen
+É?
+Você vai pôr
+Ah, agora vai ter que colocar, né?
+Coloca no pendrive
+Episódio 0
+Foi bom
+Vai ficar parecendo o Badalhoca, que fica um cara falando bobagem
+O outro cara rindo, né?
+Então vai, é, mas tipo assim
+What's for his days?
+O Tribu do Sei
+Bom, o Tribu do Sei surgiu de uma ideia muito original, né?
+Criação de um blog e...
+Ou não
+Música
+Porque nós somos seguidores fiéis
+Ou não, também
+Dos Jovem Nerd, né?
+Nem tanto, talvez
+Então, observando o Jovem Nerd vendo a qualidade dos netcast, dos podcasts do Jovem Nerd
+Nós sentimos a necessidade de um podcast que seria diretamente relacionado à área de informática em si
+Isso não significa que vai ser de pouca qualidade
+Ou não, né?
+E toda a frase pode ter o ou não, né?
+Ou não
+Bom, tinha o PAPU Tech, né?
+Só que o PAPU Tech foi descontinuado, sei lá o que eles estão fazendo
+Fizeram friso no PAPU Tech, tá?
+O Pijori parou?
+Parou
+Acho que deu par de upload
+Uma bocadinha
+Deu erro de seguimentação
+Ah, pode ser
+Bom, acho que deu para entender quem somos nós
+Só para saber, o tribo do CI é de circuito integrado
+Realmente, o CI é porque as pessoas pensam que o chip, quando a gente fala CI, que é um pouco mais técnico
+As pessoas pensam que, tipo, o resto de CI
+Então, CI, circuito integrado, ou chip mais falado
+Para dizer que não é simplesmente sobre software, ou simplesmente só sobre hardware
+Porque o CI, tendo ele como um microprocessador, ou o que seja
+Ele pega, envolve tanto hardware quanto software
+Então, acho que a gente quis transpor, através desse nome
+Que a gente vai falar sobre a tecnologia da informação, de forma geral
+Para mim, eu pensei que o tribo do CI era o caso da analogia com o tribo da saída
+Ah, também
+Não, claro
+Uma coisa interessante sobre CI, só depois de muito velho mesmo
+Assim que eu fui conseguir fazer a analogia de que o processador é o chip
+Bom, mas vamos lá
+Esse momento agora, segundo a pauta
+De acordo com a pauta muito bem elaborada, que a gente fez usando Google Docs
+Que a gente tem fodão aí
+Ah, para ser leitura de meios, o tribo do CI ainda não tem meios
+Porque nós vamos começar agora, né?
+Ninguém está sabendo
+Tipo assim, está meio que em segredo
+Para a versão beta ainda
+Claro
+Da mesma forma que o CI meio estava na versão beta, desde muitos tempos
+E agora, finalmente, saiu da versão beta, por oculto também
+Assim, eu queria aproveitar, então, aproveitar essa parte de leitura do CI e fazer um comentário
+Só falando sobre o meu nome
+Porque meu nome é Led
+Mas muita gente vai me chamar de Shadow Nerd
+Mas, infelizmente, ainda não sou Nerd, tá?
+Porque segundo o Jovem Nerd, só é Nerd
+Quem leu todos os livros do Senhor dos Anéis
+E ainda estou terminando o Hobbit
+Eu ainda não sou Nerd
+O Nerdson também, do sat do Nerdson.com
+Ele não é Nerd porque ele não leu Hobbit ainda
+Então, eu posso processá-lo por ele
+Ele está se auto-intitulando Nerd
+Mas ele não é Nerd porque ele não leu o Senhor dos Anéis
+É porque é só o nome de uma fantasia, né?
+O nome de uma fantasia
+A razão social é de ser
+A razão social deve ser outro nome
+Outro nome lá, qualquer coisa
+Acho que eu tinha um livro de hacker fordando, né?
+Sim, sim
+Queria dizer que você só é hacker
+Depois que alguém te chamou de hacker, né?
+E o vale o mesmo para o Nerd
+Só é Nerd depois que alguém te chamou
+Algum Nerd show de Nerd
+Acho que dá um loop infinito aí
+É o mesmo esquema do ovo e da galinha, né?
+É, quem foi o primeiro Nerd, então?
+Eu estou querendo ir para o Fizz
+E no Fizz, o Linus Torvalds vai estar lá
+E chegando lá, eu vou falar assim
+Sei que para mim você é Nerd
+Se ele repetir, eu vou ser Nerd
+Pronto, está provado, acabou
+Claro que tudo isso
+A tradição é outra coisa, né?
+É
+Mas eu acho que o Nerd deve entender
+Que é um português
+O que é um português
+O que é um português
+O que é um português
+O que é um português
+O que é um português
+O que é um português
+É, português e inguês e nerd
+Agora eu acho que os ouvintes, esses papotecas
+Às vezes reclamavam que o papoteca
+Estava mais papo do que tech
+Acho que a galera que estiver
+Ouvindo o tribo do C.I. agora
+Também teria uma reclamação
+Não, mas esse é o Beto, né?
+Tem que dar um desconto
+É porque tem muito tempo os e-mails
+Esse tempo agora seria leitura de e-mails
+E a gente está aí suprindo
+A quantidade pela foto do mesmo
+Falando em Nerdcast
+Ele falou, né? Eu queria fazer um crossover
+Aqui do post do Nerdson
+Que ele falou que ele foi no interior e tal
+Vai estar no link lá no post também
+Que ele foi no interior, ele achou meio chato
+Voltar lá, tipo assim, não era que nem ele estava com criança
+E teve o Nerdcast dos histórias da faculdade
+Os caras, tipo assim, eles
+Eles deixaram a faculdade de desenho industrial
+Porque eles foram para Nova York
+Quando eles voltaram, tipo assim, nada era Nova York
+Comigo aconteceu uma coisa parecida
+Com legumes
+Tem a ver, legumes?
+Era assim, porque eu
+Eu fui para Fazenda, né?
+Quando era jovem
+Menino mais novo
+Aí, tipo assim, a gente ia para a roça
+E comia melancia
+E era massa pra caramba, né?
+Aí quando eles chegavam em casa
+Eu não queria comer melancia, né?
+Porque eu não estava na roça
+É tudo relacionado com comida com vocês?
+É, não, porque
+Sim, pô, era mó chato comer
+Beleza
+Vou para a segunda parte
+Só finalizando, nesse mesmo link
+Do Nerdson
+É o link que ele fala, que ele foi ler
+O Hobbit
+E pelo visto, ele não concluiu a leitura do Hobbit
+Cortando, ele não é o Nerd
+Ele está mentindo, não acredito que tinha ele
+Isso é uma calúnia
+Isso é uma calúnia, vou processar
+Veteu o processo
+Vou processar e vai sair o que eu marquei o texto
+Provavelmente
+O tema desse episódio 1
+É do tribo de C
+E é sobre o fissol, que aconteceu aqui em Goiânia
+Ah, é claro
+Não deixou de falar, quem somos
+Nós somos de Goiânia
+Na cidade capital de Goiás
+Que é por ventura no centro-oeste do Brasil
+Que fica no hemisfério sul
+Do planeta Terra
+Conhecido como roça assaltada
+E o fissol
+Eu não sou de Goiânia, não
+Eu sou natural e era Goiânia do Tocantinho
+Ah, eu sou natural de São Paulo
+Não é relevante, não
+Pois é, então vamos deixar a naturalidade
+Para lá e vamos seguir em diante
+O fissol está para Goiânia
+Assim como o fissol está para o Brasil
+Eu pensei que era uma regla do Sul
+Não, é para o Brasil
+Porque o fissol é o maior evento do Brasil
+O fissol acontece no Brasil mesmo?
+Sim, por estar alegre
+O fissol para quem não sabe
+É o festival latino-americano
+Espera, você não sabe que é o fissol
+Não, a gente nem explicava
+Explica aí, então explica aí
+O fissol por danos
+Sim, sim
+Segundo o Iquipédia
+Não, a gente...
+Pode falar, né?
+Segundo o site do fissol
+Sim, fica mais bonito falar
+O fissol é o festival latino-americano
+De instalação de software livre
+E é o maior evento de divulgação de software livre
+Na América Latina
+Porque ele acontece em toda América Latina
+Sim, você sabe, né?
+Sim, por isso é latino-americano
+E aqui em Goiânia
+Ele está sendo aí
+De todos os eventos que acontecem em Goiânia
+Ele é o maior evento
+Que está tendo em questão de
+Participantes
+Esse ano deu mais de 2 mil pessoas
+E teve caravanas
+De vários cidades aí do interior
+De Goiás
+E foi muito interessante
+Inclusive eu tenho um sentimento
+Do fissol por causa que
+Nos outros eventos
+Dá a impressão de
+É uma coisa muito certa
+É uma coisa muito bonitinha
+E o fissol é aquela bagunça
+A gente para cá, a gente para lá
+É aquela coisa, coisa e tal
+A começar pela logo, né?
+Sim
+Pelo nome também
+É festival
+Então aparece uma festa
+As minhas palestras foram recordes
+Somente tem 40 pessoas
+No fissol esse ano
+Teve mais de 80 pessoas
+Em cada palestra
+Se não engana a palestra sobre
+Sistemas operacionais
+Deu mais de 100 pessoas
+E 120%
+Eu não contei
+Essa era a média
+Inclusive todas as palestras
+Estavam dando mais de 100
+Deu mais de 2 mil pessoas
+Inscritas
+Achei muito interessante
+O fissol está crescendo demais
+O ano passado deu 1 mil e pouco
+Esse ano já deu 2 mil
+Seguindo a lógica que vem 3 mil pessoas
+Seguindo a lógica
+É só para saber o que eu tive na organização
+Eu fui para a estreia de lá
+E esqueci de confirmar a minha chegada
+Eu confirmei a minha
+Porque eu conheci o pessoal
+Eu estou fora das estatísticas
+Eu falei estreia e não confirmei que eu cheguei lá
+No meu caso foi diferente
+As organizações passaram a 100
+Para meu notebook
+Eu fui lá no Juma
+E eu mesmo coloquei minha palestra
+Se auto confirmou a si mesmo
+Se auto confirmou a mim mesmo
+Então é isso aí pessoal
+Qual foi o sistema das palestras
+Mesmo que eu não entendi
+A minha palestra
+Foi a primeira às 9 horas
+Foi sobre revolução dos sistemas operacionais
+Primeiro foi às 9 horas
+E a segunda foi às 11 horas
+Na minha opinião
+Eu acredito que
+Muitas pessoas
+Apesar de hoje a internet
+Em todos os lugares
+Apesar da tecnologia de informação
+Ter atingido todos os níveis
+De população
+Eu acredito que muita gente ainda não conseguiu
+Ter acesso
+De forma um intelecto maior
+Na questão do conhecimento
+De
+Quão grande é a tecnologia
+De informação
+Então você pode perceber que geralmente
+As minhas palestras são
+De nível introdutório
+Visando-se e atrair mais pessoas
+Para o mundo da informática
+Acho que um dos objetivos do Flissal
+É como se fosse uma inclusão digital
+Mas
+No âmbito do software livre
+Então a maioria das palestras mesmo
+São realmente para iniciantes
+Até eles procuram até de
+Selecionar palestras mesmas
+De digital
+O forgoiano de software livre
+Já é para apresentar soluções tecnológicas
+Livres para as empresas
+Que buscam melhor
+Curso de benefício
+Maior qualidade, menor crescimento
+É tipo a debutante
+Aquela menina de 15 anos que o pessoal
+Que é a festa de debutante
+É para apresentar a menina à sociedade
+Ah é?
+Saberam?
+Eu sabia, mas não sabia que era verdade
+Ou a gente sabe da mesma fonte?
+Não, não
+Muitas coisas eu
+Acho que
+30% do meu conhecimento
+Atingi por dedução
+As pessoas chegam falando para mim e eu falei
+Ah é?
+Deduçou a abdução e
+Comprou o jogo
+Então, seguindo
+A gente vai falar no meu palestre então
+Então fala, fala sobre o seu palestre
+O meu palestre deu mais de
+3 ou 4 pessoas
+Não, não estou brincando
+Quase lotou a sala também
+A minha foi
+Sobre PHP, porque eu queria ser equiparível
+What?
+É porque
+Eu não trabalho
+Integralmente com PHP
+Então o meu palestre foi relacionado ao PHP
+Mas com uma experiência que eu tive
+Com
+Uma experiência de sucesso
+Eu aprendi
+Que eu tive que eu pego a PHP
+E eu quis compartilhar com a comunidade
+Muitas coisas que a gente aprende
+A gente às vezes nunca vai usar
+Eu aprendi C
+Até hoje não cuzei
+Pendeu quem? Eu?
+Não, C
+C po
+Linguagem de procuração em C
+Inclusive adoro programar em C
+C ou não C
+Sim
+Não, mas
+A linguagem de C
+Eu já comecei a reparar
+E a maioria dos nerds
+Não que eu seja um
+Adoro
+Eu aspiro a nerd
+Pode ser
+O que eu ando reparando
+É que
+Eu acho que 100% dos nerds
+É um dado empírico
+Mas eu acredito que seja verdadeiro
+E que 100% dos nerds
+Adoro programar em C
+Dos nerds não, mas dos geeks
+Eu acho que 100% eu adoro programar em C
+Pelo menos os que eu se considero
+Se você não gosta de programar em C
+Não converse comigo
+Não te considero
+Não venha falar comigo
+Não deixe que saber
+Se você quiser ser meu amigo
+E você não programar em C
+Mas não faz isso para mim
+Se você quiser C
+Não deixe para mim
+Eu vou te curtir
+É claro que eu vou tirar
+Eu vou te curtir e colocar um
+O barulho de vofora é virando
+Eu entendi
+Você vai ter tempo para fazer tudo isso?
+Não sei, mas
+É a ideia inicial
+Ah, uma coisa interessante
+Que eu fiz sabendo o Fissol
+Qual?
+É bom
+Porque São Paulo
+Tem goiânio como a roça asfaltada
+Que bem notar isso aí
+Ou não, nada
+O que eu acho interessante é que
+Eu acho que boa parte do sul do país
+Tem goiânia e norte
+Não, acho que goiânia é a roça asfaltada
+Norte é mata fechada
+Ainda
+É de chão
+Mas o que é interessante
+É que vê uma caravana de São Paulo
+Pro Fissol de Goiânia
+Veja que gostei
+Se fosse
+Se fosse por Tocantins
+Eles iriam fazer trilha
+Ah, sim
+Bom, então
+Eu achei super interessante
+Porque eu fiquei sabendo que o Fissol
+Dá uma média de 300 pessoas
+E o Fissol de Goiânia
+Dá umas 2 mil pessoas
+Como foi esse ano
+Mais uma vez eu repito
+Que o Fissol de Goiânia
+Bom, esse dado é um dado empírico também
+Ou não, né
+Ou não, cabiu bem
+Cabeu
+O Fissol
+Ele é latino-americano
+E como
+Se você pegar em questão de países
+A maioria esmagadora dos países
+Latino-americanos fala em espanhol
+Que é uma língua latina também
+Então
+O site oficial do Fissol
+É em espanhol, né
+É obvio
+Para mim era não
+Não? Por que não?
+Não sei, mas vai lá
+Você pensou que o site oficial do Fissol
+Seria fissolgo.org.br
+Eu não sei
+Na minha época o Fissol era
+Estalfest
+Quando era jovem
+Eu acho uma coisa interessante
+Falar também
+Que esse lance do Fissol
+É citado inclusive
+No filme lá da Revolution
+No O.S.
+Que é uma cultura que foi criada nos
+Eventos
+Que como até hoje
+A tecnologia da informação
+Estranha as pessoas
+Então
+Então
+Não deve ser muito comum para os animais
+Então, não
+O cachorro dele tem um ocult
+É
+Eu não tenho
+Então, acho que esse tabuê
+Tá acabando de ser quebrado
+O ocult não vale como oferecer
+Então, tá bom
+Então, como tecnologia da informação
+Não é muito comum
+Hoje sim, que está começando
+Se tornar comum na humanidade
+Então surgiu ele
+Já deixe bem comum
+Nos extraterrestres
+O que?
+Nos extraterrestres
+Depois é tipo
+Programa de televisão
+Que dá certo nos Estados Unidos
+E traz o Brasil
+Entendi
+Então
+E nos eventos da década
+Passada
+Era comum
+As pessoas levassem os grandes computadores
+No carrinho e etc
+Isso é mostencendo disso
+No filme do Revolution
+Quem assistiu
+Procure
+É um filme altamente recomendado
+E...
+Se estiver no preguiço da nada, a gente vai colocar o link no post
+Ah sim, a gente coloca
+Tem no Vivao Linux
+Vivao Linux
+Vivao Linux
+Vivao Linux
+É só problema de fonético
+Sabia que tem o Vivao Linux espanhol
+Vivao Linux
+Quer dizer...
+Viva Linux
+Eu não sei como é que fala Linux espanhol
+Então tá bom
+Então vamos falar aqui do FliSol
+Então
+O FliSol veio para dar continuidade
+A essa cultura que foi criada nos eventos
+Da área de TI
+Em geral
+Que era de instalação de software nos computadores
+E no caso o FliSol Software Live
+Que é o grande incentivo
+Da época
+Inclusive incentivado pelo governo do Brasil
+E isso inclusive
+Só uma deixa foi criticado
+Riscidamente
+Pelo balmer da Microsoft
+É, é notório né
+A galera tá assistindo o software livre
+É...
+Não, ele ficou muito puto
+Quando ele veio aqui no Brasil
+Porque ele veio aqui no Brasil
+Falar sobre a nova versão do MSN
+Do Mensejo
+E quando ele chegou aqui no Brasil
+Ficou caraca que tanto software livre
+Ficou puto da vida
+Eu não vi nada a respeito disso
+Pois é
+Uma parada interessante
+Quando era jovem lá no interior
+Sim
+Eu trabalhava na Universidade Federal do Tocantins
+Então
+Na época saiu uma
+Emenda
+Saiu a parada do governo
+Um emendo
+Do governo
+O e-mail
+A galera do governo mandou um e-mail
+Para os fadão
+Deve ter mandado um e-mail
+Com certeza
+Não é uma carta
+Uma coruja
+Mandou o povo correr
+É
+Tipo assim pra...
+Cara, eu não sei o nome do negócio
+Mas era pra usar software livre
+E...
+Na época assim que eu tava trabalhando lá
+Eu tive que ir pra tal
+Lino, que nas máquinas que não tinham
+Que não tinham Linux né
+Que eu tivesse...
+Entendi
+Não precisava
+Mas aí eu fiz treinamento com o pessoal
+E tal
+Exatamente pra ajudar
+Nessa adesão
+Então foi aí que você conheceu o Linux
+Não, eu já conheci
+Bom, eu já conheci o Linux há muito tempo
+E eu comecei a enxergar
+O software livre
+Com outros olhos
+Não, esse é uma figura de linguagem
+Só explicando
+Isso é uma figura de linguagem
+Então comecei a enxergar
+O software livre
+Isso é uma figura de linguagem
+Eu comecei a enxergar
+O software livre
+Eu comecei a enxergar
+O software livre com outros olhos
+A parte do Flissol
+Eu fui com o Flissol
+E achei super interessante
+E comecei a entender mais o universo livre
+E a partir desse momento
+Foi assim...
+Mudou totalmente a minha vida
+Foi revelador? Sim, claro
+Porque eu era o usuário do software livre
+Mas não gostava muito assim
+Não apoiava tanto
+E foi praticamente
+Basicamente da palestra do
+Java Man, do Bruno Sousa
+Que ele teve no Flissol do ano passado
+E a partir disso aí
+Foi que eu realmente sim
+Fiquei bastante pelo software livre
+E por isso que eu incentivo muito
+E eu tenho um certo
+Amor assim
+Um certo sentimento a mais pelo Flissol
+Por causa disso aí também
+Acho que a gente podia colocar uma parada
+Que não está na pauta aí
+Como o software livre surgiu em você
+Ah sim, é
+Tu já falei a minha agora
+Quer dizer
+A minha não falei
+A minha eu falei como eu comecei
+Eu gostava
+Não seria gostar
+Mas seria...
+Odear
+Seria
+Conhecer a incentivar as pessoas
+A usar o software livre
+Sem graçar pelo software livre
+Sim, seria por mais ou menos dessa forma
+Que gostava eu gostava
+Desde quando eu comecei a usar o Linux
+Eu comecei a gostar, isso foi um bom tempo atrás
+Um bom tempo atrás, a gente tem 15 anos
+Uns 3 anos
+Galera avisando que você está de século passado
+Pô, eu sou novo né
+Eu não sou
+É bom
+Eu sou o background
+Que meu pessoal do pop tech falou no episódio 1
+Então vamos lá, você pode me modificar depois
+Eu vou colocar o começo
+É o poder da edição
+É o poder
+Ou não
+Caraca
+Então tá, eu
+Estudei a vida inteira em um colégio público
+Acho que é interessante eu falar da primeira vez
+Que eu vi um computador
+Ele foi no Google
+Não
+Então
+Eu terminei meu ensino médio
+Porém, a primeira vez que eu vi um computador
+Foi
+Em 97
+Eu acho
+Então, eu acho que foi 97
+Mas foi um computador do meu primo
+Ele estava com em 2,95
+E eu achei isso muito interessante
+E daí eu implorei pelo meu pai
+Pagar um curso de informática pra mim
+E a parte daí foi isso
+Só que da verdade
+Eu só fui ter o meu próprio computador
+Em 2005, cara
+Quando eu estava no segundo ano
+E isso porque eu implorava todos os dias
+E eu mostrei pra ele que eu era muito
+Sim, não muito bom
+Comparando com as pessoas
+Com certeza
+Então eu sabia dominar razoavelmente bem
+Um computador
+Então só tive um computador
+Quando eu tinha 14 anos de idade
+Sim
+Eu não tinha acesso a
+Eu vi um primeiro computador
+Quando eu tinha 6 anos de idade
+Tá bom
+É justificável
+Meu desconsolo
+Por ter o meu primeiro computador com 14 anos de idade
+Então significa que
+Dos 6 aos 13
+Eu mexi no computador dos outros
+Quando é que tu teve teu primeiro playstate?
+Nunca tive
+Bom, um fato interessante
+É de que eu também
+Nunca tive internet na minha casa
+Mas lá em casa, onde que eu moro
+Ainda não tem internet
+Porque o fato de ter internet depende de mim
+E eu não vou pagar internet porque eu não fico em casa
+Aí vai pensar que a gente
+Tá na roça, nas botagas
+Daí o cara não tem internet casa
+Aí sim comprova porque
+A gente não tá na roça saltada
+Porque eu fico online
+Por uma quantidade muito grande
+De tempo, sem ter internet em casa
+Ou seja, em vários lugares
+Que eu frequento, eu tenho acesso a internet
+Então isso comprova
+Que Goenna deixou de ser já
+Uma roça saltada porque eu vou
+A biblioteca, eu tenho internet
+Eu vou na
+Universidade, tenho internet
+Eu vou, sei lá, em vários lugares
+Hoje na Praça Universitária, que em Goenna
+Você tem internet lá
+O que é nosso?
+Teoricamente tem
+Tem um projeto
+Do prefeito
+Eroíris, agora o prefeito é o Paulo Garcia
+Então não sei se esse projeto ainda tá de pé
+De colocar internet pra
+Goenna inteira
+Na internet wireless, né, Goenna inteira
+O mesmo projeto do Wac
+Ah, é, pois é
+O Wac resiste?
+Você acredita?
+Então tá
+Isso aí, eu falei sobre
+E eu, essa é
+Meu relacionamento com o computador
+Vou depoir mesmo, Michel
+Sim, e
+Aí agora
+Faltou a minha formação, né
+Eu...
+Boa parte do que eu sei sobre informática
+Eu aprendi sozinho
+Ao de data, veja o Ilam
+Sim, eu não considero
+Ao de data
+Por que, sei lá, porque eu
+Não sei nada, mas
+Eu nem me considero, amigo
+Eu te considero, eu não me considero
+Porém
+Então
+Eu...
+Tô formando, né, engenharia
+Compação
+Quem ano, a gente tá mesmo?
+A gente tá em 2010
+2010, barra um, tô terminando o quinto período
+Com notas muito boas por sinal
+Com louvor, né
+Com louvor, com glória
+Nessa hora você põe ensino a música de fundo
+Tata, tata
+Certo, né
+Por gentileza
+Beleza, pode, deixa comigo
+Então, acho que é isso aí
+Agora eu falo de você aí
+Eu, sim
+Meu... tudo começou comigo
+No software livre, exatamente
+Porque, desde pequenininho
+Queria dizer pra camada, né
+E, quando eu comecei a ser separada
+Com os sistemas operacionais
+Eu fiz, eu fiz um custo técnico de redes
+Com ênfase
+Quer dizer, eu fiz um custo técnico de informática
+Com ênfase em rede de comparação
+Não, eu falei, quando que foi
+Primeira vez você viu um computador, pô
+Eu não lembro não, cara
+Pô, o que é isso?
+Eu decidi no Google, alguma coisa
+Eu falo ao vivo
+Ao vivo no Google, era ao vivo do Mingo
+Eu falo quando que você tocou
+Manuziou, viu Windows fazer
+Pabam
+Eu ia começar com um DOS
+Mas...
+Decadente, né
+É que eu fiz um custo
+Porque eu tinha aula de música
+E, tipo, do lado da aula de música
+Eu tinha um...
+Um quartinho lá que ele levava
+A criança pra ensinar
+Isso, sim, foi sugestivo
+Mexeram o computador e tal
+Mexeram o mouse dele
+Entendi, nossa, caraca
+É, porque aí ele tinha um...
+Até eu lembro o nome dele, é...
+Suedius
+Eu tô falando, sim, sobre
+Você falou a primeira vez que você viu um computador
+Por causa que eu li isso no livro, né
+Do Linux TurboX
+Inclusive foi
+Impressado pelo Sebastião Hélsson
+É bem, né?
+Eu acho que... Ele lembrava
+Ele conta, ele relata
+Que não lembrava de quase nada
+Da data exata que ele...
+Viu um primeiro computador
+Que era o Vick20, né
+Então é... Por isso que eu
+Incentivei a gente a falar sobre isso aí também
+Pode continuar
+Nessa memória eu conheci o Vick Vaporut
+Final 180, né
+A minha mãe passava, né
+No meu...
+Entendi
+Pois é, vou tanto lá pra mim, lá
+Eu tive a aula de...
+Windows 311
+Caraca
+Caraca, interessante
+Foi punk, né?
+Eu já mexi uma vez no Windows 3.1
+Eu acho que eu já mexi em todos os...
+Não, não todos, mas
+Eu acho que
+Empiricamente 90%
+Dos sistemas das versões Windows
+Eu acho que eu já mexi
+Eu comecei... Na verdade
+Eu comecei isso com o DOS 6.22
+Depois de aprender os comandos lá, tal, pá
+Aí que eu fui pro
+Windows 311
+Mas foi em meados de 97
+Pô, então a gente aí
+É quase gêmeos, né
+De... de nascimento
+Que sentido
+Acho que
+Não, a gente tem a quase mesmitade
+De... de...
+Primeiro contato, né
+Primeiro contato
+É, mas aí o negócio foi
+Assim, aí em 2000
+Fiz aqueles cursinhos básicos, né
+Word, Excel, tal
+Aí ter...
+Uma dessas...
+Aí eu conheci o...
+Isso era 2000, mais ou menos
+Aí depois eu fiz...
+Eu fiz todos os cursos
+E fiz estágio em todos eles, né
+Que tinha lá na escolinha, né
+É interessante, hein
+Tinha bem uns quatro cursos
+Caraca, eu só fiz cursos de...
+Ditação e...
+Windows Word, Excel
+Fiz a digitação também, foi o mais...
+Foi o mais massa que eu achei
+Ah, ou de...
+Ditação, mas foi o único que eu aprendi alguma coisa
+Porque o que ensinou no Windows Word Excel
+Eu já sabia
+Foi maneira que a digitação
+Foi...
+Era fazer o curso de datilografia
+Ou fazer o curso de digitação
+Ah, é verdade
+Tinha pessoas que acreditavam fielmente
+Que era o pior besteiro do mundo
+Se fazer um curso de digitação
+O que...
+Mandava mesmo era...
+A máquina de escrever, né
+Que escrevia mesmo, era a máquina de escrever
+Ah, sim
+É, porque...
+Tinha a máquina de escrever eletrônico
+Que você podia escrever e tal
+Aquelas coisas
+Ah, tá
+Pois bem, continue
+Olha, aí...
+2003
+Tinha o curso técnico lá, né
+Meu primeiro computador ainda tava fazendo os cursinhos lá
+Em 2002
+Meu primeiro computador
+Pent4
+Teu ele até o...
+Caraca, meu! Pent4 logo de cara, meu
+Meu mãe que me deu, né
+Caraca, pirei agora, hein
+Não tinha hyper thread, né
+Nossa, eu fiquei emocionado agora
+Mentirou
+Aí
+Aí eu achava...
+Assim, desde o...
+Tá bom que eu não tava indo pro caminho muito bom, né
+Mas...
+Assim, eu sempre quis ser programador, né
+Daí, eu achei...
+O que me motivou a querer conhecer o Linux
+Foi exatamente pelos simples fatos
+De ser código AB
+E eu ter a possibilidade de mexer no código
+Você alguma vez já
+Estudou o código de um sistema
+Impressional em si?
+Minix, minix
+Você só leu ou você entende
+Que lugar?
+Os if, tava entendo
+Que é realmente que lá
+Não é de Deus, acho que
+Você tem que ler todo o design implementation
+Lá do tanninbal pra
+Entender pelo menos 10% daquele código
+Eu tenho ele em português
+Em seu caso?
+Posso trazer aqui mais
+Então tá
+É porque...
+Pensei que tu ia me convidar
+Pra me levar lá em casa
+Não, eu ia deixar pra quando terminar
+Se o cache...
+Que exposto
+Tá com o prometer aí, né
+Não, vai lá, continua
+Não, inclusive eu tenho
+Aí...
+Ele...
+A versão 2 do Minix
+Que é a segunda edição do livro, né
+O livro sai a cada edição
+Do Minix
+E assim, era basicamente
+Eu nunca contribuiu com o Cânio
+Nunca
+Ainda bem
+Se não eu sei o que ia querer
+Traduzir o Cânio
+Traduzir todos os variáveis do Cânio
+É, eu sou o cara...
+Sou o cara root
+No português
+Ia ter lá
+A locar espaço de memória
+De, sei lá...
+Ter RedBlock com Fávio
+Ter um lá que tá em português
+Quer ver a função em C?
+Não, nunca estudei o código
+O nome da função é Malock
+Malock já...
+Sei lá o que, né
+Entendi
+Então eu vou colocar o próximo
+Você não falou com a sua formação, pô
+Eu falei, pô, eu fiz os cursinhos lá
+Tal
+Eu fiz basicamente
+Tem curso técnico e informática
+Com êfase em rede comitação
+E com uma êfase
+Né?
+Apesar de eu sempre querer programar
+De ser programador
+Fiz o da rede
+É só o que tinha, né
+É, isso aí é a mesma coisa de você
+Estudar
+Heavy Metal e montar uma banda de punk rock
+Né?
+E sei o que você fez
+Quem entende de música
+Eu creio que vai entender
+Essa comparação que eu fiz
+Eu não entendi não
+Não, mas, então
+É...
+Eu tenho curso técnico de rede
+Comunicarção
+E formei ciência da computação
+O curso técnico de rede
+É de 2004
+E da computação em 2008
+E a pós-guardação é
+X
+X
+Undefined
+Então
+Eu tenho aí
+Curso mesmo de informática
+Eu só fiz isso, o resto eu aprendi
+Mesmo sozinho e
+Alguns outros cursos eu estudei um tempo
+No música, no VGV
+Acho que
+Muitas pessoas me conhecem por esse fato
+Muitas pessoas não sabem
+O Sodara da computação
+Me vem como violonista
+Violonista toca violão
+Ou que toca?
+Violinista
+Que toca violino
+Vulgarmente é conhecido como
+Tocador de violão, mas...
+Violonista
+Violonista é o modo certo de falar
+Violonista ou violonista?
+Violonista, né?
+Quer dizer, nem pro braço
+Não, você não vai entrar no cash
+Então, é isso aí
+Não um dos vídeos do poder
+Do Socha, prazer de Bill Gates
+Então tá, estamos encerrando hoje
+Eu gostaria
+Intimamente, assim, do fundo do meu coração
+Que
+De agradecer quem escutou
+Esse podcast
+E eu acho que...
+É
+Assim, você tem
+Agora esse é um mensagem
+Para os ouvintes
+Há uma mensagem?
+Para os queridos irmãos
+Não, pois...
+É, tipo assim, você tem
+Dica de pauta, algum comentário
+Então tá
+Como eu falei
+E a gente vai ter os links
+Tudo aí falando sobre nós
+Sob as nossas palestras do Fli-sol
+Como o tema foi o Fli-sol
+Tem sobre o...
+O tema do episódio foi o Fli-sol
+Não foi, não?
+Então, o tema
+Do episódio foi o Fli-sol
+E...
+Mas...
+Como isso foi o tema
+Estamos indexando os links
+Para poder baixar os filmes
+Relacionados
+A minha palestra, no caso
+Revolução ES
+De CodeLinux
+E tem aí
+Os links para os meus slides
+Temos...
+Vou tentar colocar os livros
+Na embal, também
+Não o PDF, lógico
+Não vou colocar o meu nome
+A gente vai colocar o link de algum
+A gente vai colocar o nome
+Você pesquisa no Google
+Ou não
+Então é isso aí
+A minha dica é os livros
+E o filme
+E eu acredito que no próximo episódio
+Nós vamos falar sobre
+Flash e HTML5
+Não promete
+Não, eu quero falar
+Eu vou estudar sobre isso e vou falar
+Então beleza, mande seus emails
+Abala
+A ideia é a maneira que eu tive
+Não foi agora, mas eu vou falar como sou você agora
+Da repente
+A gente vai ter um
+Usuário
+Você adiciona lá no seu Google Talk
+Daí você pode mandar
+Um mensagem de voz para a gente colar
+E todos os emails
+Liga
+E ele vai falar que a pessoa não está
+Ele pode estar
+Vai ter que desconectar
+Tá bom
+Aquele esquema de
+Mandar o recado
+E pode mandar
+O esquema dele
+Assiste o Nerdcast
+Os primeiros episódios lá
+Você vai saber como funciona
+Não sei o que a gente vai fazer
+Prometo
+Eu não prometi
+Então beleza
+O nome do usuário vai ser
+www.tribudosciarroba.gmail.com
+A gente vai
+Usar bastante
+As ferramentas do Gmail
+Não como propaganda
+Que é bom
+A gente vai usar porque é bom
+Não que a gente esteja fazendo propaganda
+Usando o uso do Gmail
+Usa
+Até a próxima
+Muito obrigado mais uma vez
+Para ter escutado o nosso podcast
+Que ainda não tem um nome específico
+Mas a gente vai bolar um nome
+Para não falar simplesmente podcast
+Não vai ser www.tribudosciarroba.gmail.com
+Ah sei lá
+Eu pensei em alguma coisa
+Cache
+A gente pode colocar um formulário do Google
+Então mande seus emails
+Ou não
+Ou não
+Valeu esse aí pessoal
+Obrigado
+Tchau
+E eu falar ou não
+Não
+Muito
+디a
+Um
+Um
+Um
+Um
+Um
+Um
+Um
+Um
+Um
+Um
+Um
+Um
+Um
+Um
+Um
+Um
+Um
+Um
+Um
+Um
+Um
+Um
+Um

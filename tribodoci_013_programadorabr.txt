@@ -1,0 +1,777 @@
+Mulheres na Tecnologia, você está ouvindo Tribu do CEI Podcast.
+Aqui é Cley Van Koff e eu já estou terminando.
+Aqui é Sebastião Helso e meu lema é compilou, comitou.
+Oi, sou a programadora BR para falar um pouco da minha vida, ó.
+Antes que alguém pergunte, eu não faço o sistema.
+Episódio 13, a programadora BR.
+Para esclarecer para o pessoal que está ouvindo, o perfil é um fake de você mesmo?
+Como é que esse negócio aí fala pra real?
+Então, na verdade, o perfil do Twitter eu falo coisas da minha vida, do meu dia a dia,
+acontecimentos lá na empresa que eu trabalho e também de alguns filas que eu faço.
+Só que no meu perfil, com o meu nome verdadeiro, estava me causando alguns transtornos,
+por eu trabalhar em uma empresa grande com bastante funcionário,
+às vezes eu queria desabafar com alguma situação e o povo que me acompanhava,
+que me seguia e que me conhecia pessoalmente, eles ficavam meio chateados.
+Então, quer dizer, eu queria continuar falando as mesmas coisas, mas eu não queria me identificar.
+Aí eu peguei, exclui o meu perfil anterior e criei esse perfil, o login, foi meio que automático.
+A hora que fui criar lá, eu já pensei, ah, eu vou falar de programação e dar um programador.
+Eu não vou criar só uma programadora, vou colocar alguma outra poesinha.
+Eu não quis colocar a sigla do meu estalo, porque aqui no meu estalo eu não conheço mais nenhuma programadora.
+E aí foi programadora BR para ficar uma coisa maior e para focar mesmo no lado da programação.
+É tipo um entretenimento para mim mesmo, assim.
+Vou desabar pelo lado.
+Eu sou válvula de escada.
+Isso.
+Programadora BR, e aí?
+Conta para a gente, como você decidiu virar a programadora?
+Eu nem me lembro de uma casa da minha vida que eu, tipo, eu falei, não, você é programadora.
+Isso nunca existiu para mim.
+Foi uma coisa automática.
+Sempre gostei de informática, desde pequeno, e assim, nunca pensei na minha vida trabalhar com outra coisa.
+Mas também nunca parei para pensar que eu fosse escolher esse programador.
+Foi na base da curiosidade.
+Meu pai era comerciante, tinha uns computadores antigos daqueles dois, oito, meio e tal.
+E aí eu sempre mexi nesses computadores, com 14, 15 anos, o que tinha que montado,
+e a ver como funcionava, com a curiosidade de treino.
+Assim, eu me lembro de um certo estado de outra coisa, eu não sei, eu mexei com um computador,
+desde pequeno.
+Então, aí, quando o meu pai, ele foi trocando as máquinas da empresa, essas velhas foram ficando comigo.
+Naquela época na internet, não tinha na minha cidade nada, né?
+E assim, a princípio começou com hardware mesmo.
+Eu comecei montando computador, assim, de pequeno.
+E aí, foi passando o P, eu já com uns 16, 17 anos, me lembro muito bem, exatamente.
+Minha mãe também comerciante, ela tinha uma videococadora, e não tinha software nenhum para gerenciar.
+Aí eu me deu uma assilha, deve existir alguma coisa.
+Aí eu peguei, fui atrás, e a gente comprou uma licença de um só.
+Eu olhava aqui no live, falava, meu Deus, como funciona isso?
+Eu era assim, eu já tinha internet.
+Eu lembro que é como desenvolver um programa.
+E aí, foi assim que começou tudo.
+Eu fui pro primeiro, fui fazendo o segundo, sem estudo secado,
+sem nunca tinha conhecido um programador, e assim, eu tava chamada do que eu faço.
+Conheço que começou tudo.
+O programa de locador é clássico, né?
+E uma entinha, uma locadora, aí eu pensava, vou fazer um, e ficou super assim.
+Claro, né, naquela condição de totalmente iniciante, totalmente sem base,
+mas eu consegui fazer, né, estudando na internet,
+e deu pra usar, e ela usou ano na locadora dela, até que vendeu e continuaram usando.
+Foi assim que foi meu pessoal.
+Olhando um, eu fiz um.
+E fez em qual linguagem, né?
+Então, eu já comecei com um delto, né, como questão de só.
+Eu peguei e pesquisei no Google, isso que eu já falei,
+e apareceu o delfe, e um monte de coisa sobre del,
+e foi, eu olhei em casca, na verdade, em casca, né?
+Eu olhei já aquilo, eu olhava, eu entendi, é uma coisa assim que eu gostei de cada.
+E eu comecei assim.
+Então, eu não lembro, assim, quantos anos ela tá minte,
+mas assim, eu tomo como base no acontecimento pessoal na minha vida, que tem dez anos.
+E antes disso, eu já mentia com programação.
+Então, por isso que eu dei uma redondada de dez anos,
+mas assim, exatamente a época, eu não me lembro.
+E uma coisa incomum é ter uma mulher desenvolvendo software.
+Teve algum preconceito?
+Então, preconceito da parte de cliente pode até parecer estranho,
+mas eu nunca sofri.
+Mas eu sofri preconceito da parte da equipe de programadores,
+entendeu, os homens com preconceito comigo.
+E saindo no começo eu sofri um pouco,
+mas depois de tanto tempo, aconteceu que eles me tratam como um homem mesmo,
+né? Nós somos uma equipe e a gente respeita muito.
+Não tem mais disto de preconceito comigo.
+Tem preconceito no tweet.
+As pessoas querem me testar.
+Tipo assim, eu não ligo, eu levo na brincadeira,
+mas tipo assim, eles não colocam muita fé em mim.
+Então, porque não tem o que ficar provando, né?
+É, não, entendeu?
+Eu levo no lado esportivo, porque eles também não conhecem minha vida,
+não sabem com o que eu trabalho com poucos ali, sabe?
+Mas assim, preconceito de cliente, eu não me lembro de teto,
+não me lembro do mesmo.
+Eles não ouviram o podcast, né, para saber a sua história.
+E da parte de colegas de trabalho, talvez é isso.
+Não.
+É isso.
+Chefes, não.
+Gente, meu chefe, incrível.
+Eu trabalhei dois anos e meio em uma outra empresa,
+do mesmo ano, uma concorrente dessa que eu trabalho hoje, né?
+Nessa outra empresa, eu fazia de tudo, até cobrou.
+Dava suporte, programava, era uma empresa, sabe, daquela tipo, né?
+E tinha bastante cliente, mas uma desorganização tremenda,
+e eu acabava o que fazia tudo.
+E assim, o povo que me via na rua dando suporte,
+não sabia que era eu que desenvolvia e sim foi, né?
+Até hoje eu me gosto muito de que as pessoas saibam que sou eu que faço.
+Daí eu entrei nessa outra empresa, né?
+Meu patrão, ele foi muito 100% comigo.
+Nunca teve preconceito pelo fato de eu ser melhor,
+tanto que ele foi atrás de mim para eu entrar nessa empresa.
+Então, assim, eu sempre me dei muito bem ali,
+só com alguns desenvolvedores mesmo, da equipe que no começo tiver.
+Tipo assim, não confiaram muito.
+Aí depois, passaram a confiar.
+Como está sendo a repercussão do perfil do Twitter, da programadora e berra, hein?
+Você não tem, assim, uma história para contar de mulheres,
+que nem eu que entrou em contar com você, né?
+Que fala que é legal, né?
+É tão incrível, gente, no Twitter mesmo,
+estou tendo, assim, uma resposta super positiva das mulheres da TI mesmo.
+Todas, assim, super legais, até quando algum homem,
+eles tentam testar a gente, aí postam alguma coisa,
+assim, as meninas entram em defesa, eu acho super legal isso.
+Eles ficam querendo que eu derrar, entendeu?
+Sempre assim, eles são uma coisa para ver se eu derrar.
+Aí eu não ligo de derrapar, eu nunca falei que eu sou a melhor programadora que ninguém.
+O único dado, o fato é que eu sou programadora.
+Eu não sou melhor do que ninguém ali,
+tanto que eu não conheço o serviço de ninguém,
+mas, assim, eu acho muito legal da parte das meninas.
+Eu não conhecia programadoras.
+Aí o Twitter me proporcionou isso também,
+bastante contato com as meninas.
+Ali no Twitter, né?
+E com a coiviana agora, fora do Twitter.
+Eu sei que programador ter vida pessoal é um medo,
+mas o que você faz quando não está programado?
+Pratico bastante esporte, eu gosto de ler bastante.
+Assim, mas o que eu gosto mais mesmo é de ficar na internet, né?
+Final de semana para mim, apesar de eu ficar bastante online,
+é porque eu tenho um talento, né?
+Aí eu levo para onde eu for ter internet,
+mas eu estou sempre praticando algum esporte.
+Pratico é basquete, adoro jogar,
+e eu gosto de ler bastante também.
+Livros de bilhões, de bilhões de bilhões,
+e eu gosto de ler bastante também.
+Livros da Zili e a Gasparia são os dos que eu mais gosto de ler.
+E assim, um hobby, eu me lembro, pode parecer estranho,
+mas meu hobby é programar.
+Então, assim, quando eu estou em casa, eu estou estudando,
+eu estou investindo, porque assim, eu acho 8 horas.
+8 horas que eu estou trabalhando lá, eu não estou aprendendo nada novo.
+Eu estou em função de uma empresa,
+então eu procure investir em mim.
+Nesse horário que eu estou em casa, é assim,
+é loucura as coisas que eu faço, né?
+De trabalhar de madrugada, de ficar estudando,
+tipo, às vezes eu pego das 11 e até as 4 da manhã,
+eu fico estudando, e aí eu pego duro,
+umas 3 horas, acordo, vou trabalhar.
+Mas é uma questão que eu quero investir em conhecimento mesmo,
+quero estudar, para aprender coisas novas,
+que eu me sinto um pouco assim, como a gente trabalha nessa área,
+e é muito corrido, fica difícil para você estudar.
+Então, assim, em casa, estou procurando fazer isso.
+Que na verdade, isso faz parte do trabalho, né?
+Mhm.
+Interessante que a gente até gravou nos episódios passados,
+o bate-papo com a Yara Sandy,
+e ela falou dessas 4 horas a mais.
+Vai estar o link do post lá do episódio.
+Eu comecei programando com VBC, né?
+Tu falou que estava com medo do pessoal te estrolar,
+porque você programa com Delphi, Foxpro.
+Na época que eu comecei a aprender VBC,
+VBC já era o risuleto.
+E eu estava sempre estudando outras coisas, né?
+Uma das coisas que eu estudava era o Java.
+Daí, quando eu trabalhava com VBC, eu estudava Java.
+Agora eu trabalho com Java, eu estudo Ruby,
+eu estudo Python, né?
+Sempre quando eu começo a trabalhar com uma coisa
+que eu sempre estudei, eu acabo aprendendo outra coisa também.
+Então, essa questão de eu trabalhar com Fox,
+é assim, eu já trabalhava com Delphi,
+eu tive que, tipo, ao invés de evoluir,
+eu tive que voltar no tempo.
+O que acontece é que foi uma proposta recusada.
+O povo me critica, sabe?
+Fala assim, nossa, mas por que programar em Delphi?
+Mas por que programar em Fox?
+Assim, no começo eu ficava meio chateada com essas perguntas.
+Mas agora eu penso,
+po, uma pessoa que faz uma pergunta dessa,
+provavelmente ela não vive de programação.
+Porque você tem a oportunidade,
+você quer crescer na sua profissão,
+você recebe uma proposta recusada,
+e você vai recusar por causa que a linguagem está indiscusa?
+Eu não.
+Igual na empresa que eu trabalho,
+fomos por que tem a 20 programadores.
+A empresa tem 500 anos de mercado.
+O diretor da empresa, ele estava procurando alguém
+para substituir ele nesse software,
+que é um software da nível nacional,
+que tinha que ter muita responsabilidade.
+E eu pedi para ele, eu falei assim,
+olha, me dá esse software,
+eu quero tomar conta dele,
+eu quero essa responsabilidade.
+É em Fox, eu nunca programei em Fox,
+não estou nem aí, eu vou aprender.
+Um deu 2, 3 meses, eu assumi esse produto,
+ele é a nível nacional,
+ele tem uns 5 mil usuários,
+é muita responsabilidade,
+mas eu gosto, eu gosto de fazer isso,
+eu gosto de ter essa responsabilidade para mim.
+E outro foi um aprendizado,
+é não tem mais programador em Fox.
+Então na verdade, onde não tem,
+é onde que eu vou mesmo.
+É lógico que eu quero aprender Java,
+eu quero desenvolver para dispositivos modos,
+mas no momento, o que tem para mim,
+que foi uma proposta recusada,
+foi trabalhar com Fox.
+Então eu aceitei,
+e para mim foi assim, uma realização.
+Aí eu recebi uma outra proposta na mesma empresa,
+que eu já era responsável por esse só,
+de desenvolver o mesmo software e deu.
+Porque a gente trabalha com pequenas empresas,
+só a gente ganha, é na massa,
+então é para uma formação comercial.
+A gente desenvolva um Delft,
+e a gente vai trocar aos poucos,
+que os clientes, eles não querem saber a linguagem,
+eles querem saber se o produto é bom,
+se o produto é bom, está satisfazendo,
+vai indo só, claro,
+como o Fox tem muita limitação,
+a gente resolveu trocar,
+e a gente está trocando aos poucos.
+Trabalhando uma empresa,
+que eles usavam o Fox Pro e o Unix,
+tanto é que eles usavam a versão 2.0 do kernel do Linux,
+e eles o migraram,
+porque não ia funcionar mais nada.
+Então, outra questão que o pessoal,
+eles não entendem essa questão,
+de programador usar o Inbox.
+Gente, como que eu vou usar outro sistema operacional,
+se eu desenvolvo para as pessoas que usam o In?
+É lógico que eu gostaria, com certeza,
+eu instalar o Inbox e usar.
+Tem esse lixo do mercado das pequenas empresas,
+que eles não entendem, eles são legros,
+a infraestrutura das empresas é muito ruim ainda.
+Então, a gente desenvolve para o In,
+que de jeito que eu não vou usar o In,
+se eu desenvolvo um software para esse sistema operacional.
+Hoje, o meu computador de trabalho só tem Linux,
+mas eu falo que hoje eu posso me dar o luxo de usar Linux,
+mas é porque eu desenvolvo um sistema bem específico,
+e como eu estou utilizando Java,
+é independente de plataforma.
+Então, eu não tenho essas limitações.
+É isso mesmo.
+Se você citar lá,
+nosso Zen Windows,
+pronto, você vai ver que te aguarda.
+A maioria da galera que fala isso,
+é meio usam Windows.
+Sei, e é isso que eu estou risado,
+enquanto a gente não é possível.
+Presas que têm vários departamentos,
+é comum acontecer de a galera suporte,
+ficar com risca com a galera de desenvolvimento,
+isso acontece na tua realidade?
+O entanto é, a empresa é muito grande,
+apesar do seu trabalho,
+e tem departamento afluxial, suporte,
+os testes têm até contabilidade,
+gerente financeiro, tem o setor de desenvolvimento,
+e tem, sim, essa risca de suporte.
+Hoje, eu procuro lidar melhor com isso,
+mas até um tempo atrás,
+assim, era até uma coisa ruim da minha parte.
+De todos aqueles que reclamavam pra mim,
+eu comecei a evitar,
+mas acabei conversando com eles recentemente,
+eu resolvi, tá, que sei lá.
+Então, hoje, as famílias todo mundo lá dentro,
+eu me dou super bem com eles.
+Como eu estou lá nessa minha empresa, tem seis anos,
+então eu não passei por cada coisa lá,
+até hoje, eu posso dizer que a gente está estudando super bem.
+A Ciara, a bandeirinha branca?
+Aham, a gente conversou,
+para, assim, chegar para mim e falar,
+esse artículo também suportável.
+Eles mesmo, sabe?
+A gente encontrou mais com algum que tem bastante,
+gente, no suporte.
+E aí, a gente começou a conversar mais,
+e a gente começou a, então,
+vamos fazer coisas no final de semana,
+para a gente ficar mais nu,
+viver a dia,
+e a gente começou a, tipo,
+jogar a bola, esses negócios,
+fazer coisa em grupo,
+para a gente ficar mais unido.
+E eu,
+assim, eu chamei, então, gente,
+então, vamos, vamos jogar a bola,
+e vamos fazer um xirrasquinho,
+vamos fazer alguma coisa para a gente se unir,
+mas agora, quase no final de semana,
+a gente se encontra sábado a tarde,
+para a gente jogar a bola,
+e conversar com a Matereré,
+e agora está tudo em uma bola.
+Matereré já deu uma dica, hein?
+E agora você tem a sua atividade na sua empresa?
+Sempre rola alguém chegando e pedindo
+para você fazer um programinha,
+fazer um sistema.
+Você pega para fazer também?
+Então, eu procuro agora não pegar,
+porque eu estou sem tempo mesmo,
+mas, assim, já fiz muitos,
+eu fiz programas, tipo,
+para vários acordes, não sei,
+e saias também, desenvolvo,
+mas, sinceramente,
+isso aí só dá prejuízo para a gente,
+e dor de cabeça,
+porque a gente não tem uma equipe
+para trabalhar com a gente,
+e não adianta falar,
+por melhor que o software seja,
+ele dá suporte,
+porque quem vai usar,
+geralmente, são usuários do ebis.
+Então, você não tem uma disponibilidade
+de tempo para dar suporte
+para esse software,
+por menor que ele seja.
+Então, eu procuro não fazer.
+Tipo, antigamente,
+nossa, apareceu o programa,
+eu ia lá, que ficava fazendo,
+fazia todos os vossos do cliente,
+agradável e tal,
+e nunca estava bom,
+e nunca estava bom,
+e não sei o que,
+eu cansei dessa vida aí.
+Agora, eu tenho lá meu emprego,
+eu, meus amigos,
+pessoal, é isso, claro,
+sabe, eu sou programadora,
+estou formada no sistema de informação,
+então, eles pedem site,
+pedem algumas coisas assim,
+e eu passo, assim, para mim,
+de fazer isso, sabe?
+Eu falo assim,
+você quer?
+Então, eu conheço tal pessoa,
+eu passo o contato,
+porque, no momento,
+eu não tenho tempo para nada.
+Meu tempo livre,
+eu quero fazer coisas para mim,
+mesmo, entendeu?
+Esse negócio de fazer programinha,
+é só prejuízo.
+Quem tem uma experiência,
+já, nessa área,
+quem não tem, vai passar por isso,
+vai chegar essa conclusão,
+que é melhor você ter um emprego fixo,
+ou você ter uma empresa,
+do que você sair,
+fazer programinha,
+para agradar todo mundo.
+Assim que o meu filho nasceu,
+eu entrei nessa,
+de fazer programinha,
+então, quase todo dia,
+até 3 horas da manhã,
+daí, acabava que eu não rendia mais,
+nem na empresa que eu trabalhava,
+nem nos bicos que eu estava fazendo,
+conseguia cumprir prazo,
+nem um, nem outro.
+Olha, eu consegui,
+eu fiquei um ano,
+um ano, assim, eu gostei, sim.
+Eu pegava, eu trabalhava,
+apesar de eu não ter um horário,
+eu gosto de estar lá na empresa,
+eu gosto de, eu tenho muita responsabilidade,
+então, eu sempre gosto de estar por lá.
+Então, eu trabalhava, geralmente,
+das 8h a 6h,
+chegar em casa, descansava umas 2 horas,
+pegava, trabalhava,
+virava a noite,
+até umas 4, 5 da manhã,
+dormia umas 2, 3 horas,
+ia trabalhar, virava,
+que tipo, um ano, assim.
+E eu falei que, essa vez,
+isso não é vida,
+não quero mais,
+e parei,
+pra bem parei.
+Isso é engraçado,
+porque quando você é jovem,
+uma semana tu aguenta, sabe,
+ficar dormindo 2 horas pro dia.
+Tá bom que eu só tenho 25 anos,
+mas, assim, a gente já viu o peso
+de ter perdido essas noites de sono,
+assim, um pouco tempo de profissão.
+E o que faz mal pra...
+É isso?
+Nossa, como a gente, assim,
+envelhece se a gente não dorme.
+Então, eu procuro fazer,
+lógico, trabalhar em casa,
+isso é tudo,
+mas não fazer aquela loucura
+que eu fazia um ano atrás,
+2, 3 anos atrás,
+eu não faço mais.
+Cada hora que passa,
+envelhecemos 10 semanas.
+É um problema que,
+eu acho que todo programador passa,
+eu acho que nem sei o que deveria passar,
+mas é o problema de
+não conseguir definir prazo.
+Isso acontece só comigo.
+Ó, realmente, eu nunca compro prazo.
+Então, assim,
+quando o analista tem alguma solicitação,
+porque, assim, o sófico que a gente trabalha,
+ele, independentemente de qualquer coisa,
+ele só coloca uma versão
+com uns 3 entre isso,
+com acertos e sugestões.
+Então, a gente tem,
+a gente não faz nada na correria,
+a gente tem 3 meses pra fazer,
+a gente tem uma lista,
+geralmente, a gente faz
+umas 3 páginas de sugestões,
+e nesses 3 meses,
+a gente passa desenvolvendo isso,
+e testando.
+Tipo, um mês antes de soltar a versão,
+a gente joga pra departamento de test,
+e aí eles testam,
+e aí retornam pra gente,
+porque, se a gente soltar
+uma versão com algum problema,
+você imagina o trono e o prejuízo,
+que é a de 5 mil usuários
+achando isso no site,
+e na próxima programa.
+A gente tem, assim,
+uma rotina.
+Solta uma versão,
+a gente já começa
+a desenvolver a outra,
+e vai testando,
+e vai desenvolvendo,
+e como se esticou,
+geralmente, é de a 10,
+vai só outra versão.
+Não tem problema com o prazo,
+mas por causa disso,
+mas quem me pediu alguma coisa assim,
+mas não é fácil,
+daqui a pouco, não.
+Não vou fazer daqui a pouco.
+Porque eu falo,
+que uma hora eu te entrego,
+mas pode sentar, esperar e dormir,
+que não tem condições.
+Eu já trabalhei na empresa assim,
+que não vinha pra gente nada,
+com menos de 40 horas
+de desenvolvimento pra ser feito, sabe?
+Em outras empresas,
+o pessoal fala que são absurdos, né?
+É, mas só que tinha toda uma burocracia
+pra passar,
+não uma burocracia,
+mas todo um processo
+só a ser respeitado no desenvolvimento,
+que foi exatamente o que tu falou, né?
+Desenvolvimento, teste,
+volta pra desenvolvimento...
+Aí tem uma análise de negócio, né?
+Que vê, ver com o cliente,
+tudo que está precisando,
+aí passa,
+aí tem um só,
+de atividade,
+que gerencia isso tudo,
+e tem que se organizar.
+É uma empresa grande, hein?
+Tem que se organizar.
+É, esse está quase por um hotel,
+esquema de não saber mesurar.
+Só porque eu não sei,
+porque, tipo assim,
+é, às vezes, uma coisa que parece simples,
+na hora que você vai desenvolvendo,
+não é tão simples como parece.
+Às vezes, um aqui você acha que é complicado,
+é mais simples.
+Às vezes, inverte a sua coisa, né?
+Então, por isso, assim,
+eu acho que esse negócio de prazo...
+Eu dou prazo, geralmente,
+depois que eu já terminei.
+Só...
+Tipo, espera só um pouquinho,
+porque eu vou ter muito tempo, eu demoro,
+aí eu vou em saço, mais ou menos, né?
+Olha só, uma super organização,
+aí eu faço, mais ou menos,
+e falo, ó, tal dia tá pronto,
+mas já tá pronto, entendeu?
+Geralmente, eu falo sim,
+mas não deu um melado.
+Aí, tipo assim, eu fico assim,
+como se eu fosse super rápido, né?
+Nessa empresa específica
+que eu tava falando que eu trabalhei,
+o projeto que eu tava trabalhando,
+já tinha dois anos de projeto pra frente,
+feito análise, sabe?
+O software tava desenvolvimento.
+É bem diferente do que programar
+no lugar onde a demanda vem com tempo, né?
+Cada semana eu tenho uma demanda nova,
+e em um mês, aquela primeira demanda,
+já nem faz mais sentido.
+Tem também, porque eu fiz sistemas de informação,
+eu me formei assim, tem, é recente,
+eu me formei em 2006 só,
+porque depois eu não pensava que eu resolvi fazer essa pudade.
+Como é que foi?
+Então, assim, eu tava cansada
+daquela famosa pergunta,
+é formada?
+É formada?
+Então, sei, um dia falei acordei,
+levou para o estado de estudar,
+vou fazer logo essa pudade,
+vou parar de me encher o sapo.
+Foi esse o motivo que eu resolvi fazer faculdade.
+Porque, assim, na nossa área,
+nosso conhecimento é nossa ferramenta de trabalho.
+Então, assim, se você tem facilidade,
+se você gosta de programar,
+e tem aquilo pra você,
+você vai programar.
+Não importa se você tem faculdade,
+ou não tem faculdade.
+E mais, eu resolvi fazer uma,
+que o válvio da frente é só um sapo,
+também, porque, futuramente,
+se tivesse bestado algum custo da nível superior,
+aí eu poderia prestar, né?
+Estava na mão.
+E fez alguma diferença antes e depois, ou não?
+Não, não.
+Não conheço, não fiz.
+Não fiz, simplesmente.
+Eu fiz uma faculdade bem fraca,
+e, assim, eu não tinha tempo, né?
+Pra me dedicar.
+Então, assim, eu fiz, fui fazendo.
+Até me formar, assim,
+eu não leram, assim, de uma coisa,
+assim, que eu tenha aprendido, assim,
+que, nossa, como mudou minha vida, isso aqui.
+Infelizmente, a minha faculdade foi bem fraca.
+Eu, mesmo, trabalhando.
+Como você aprende de trabalhando, né?
+Você sai da faculdade,
+você cai no mercado de cavalo,
+a realidade é outra.
+Então, é tanto que começou duas turmas de 50,
+e se formou 20 alunos.
+Desses 20, três liminas.
+E desses 20, nenhuma programador.
+E isso que era...
+É só eu, né?
+E isso que era a faculdade de desenvolvimento
+de sistemas de informação.
+A minha também foi parecida,
+mas a minha foi senso da computação.
+E eram, tipo, 80 pessoas.
+Na turma formou uns três.
+Pois é, assim, é que as pessoas entram
+naquela ilusão.
+Nossa, adora o computador.
+Adora o Orkut.
+Adora MSN.
+E vou fazer esses sistemas de informação.
+Para que eles entram lá,
+que eles começam a ver algoritmos,
+o algoritmo de ação.
+E ainda há dois meses,
+que eles dizem que tem amarria, né?
+E quem gosta um pouco mais,
+vai até o final.
+A gente pode ver o último top aí.
+Mania, você pegou um problema para tudo?
+Vai, como eu tenho?
+Eu, pelo menos, tenho essa mania.
+Eu preciso de uma calculadora.
+A calculadora do Windows
+não faz uma coisa que eu preciso.
+Eu desenvolvo uma calculadora inteira.
+Eu sou de fase, assim, sabe?
+Tem época que eu estou me fazendo assim.
+Preciso fazer recivo.
+De vez em vez de eu fazer Orkut,
+eu faço um só para ver recivo, assim.
+E eu odeio usar softwares terceiros,
+coisas que eu posso fazer, assim.
+Coisa que eu não tenho capacidade,
+que eu não vou...
+Nem tempo.
+Não é da minha área, tá?
+Mas se for uma coisa que eu vejo,
+que vai dar certo,
+não vai te evitar nada.
+Isso é uma parceria do
+Mulheres na Tecnologia e da Tribu de C.I.
+Ou não.
+Galera que quiser entrar em contato
+com a programadora BR,
+é só mandar o email para contato,
+rola programadorbr.com
+ou através do meu Twitter,
+arroba programador BR.
+Eu queria agradecer a Cleviane
+pela dica de pauta.
+Eu queria agradecer a programadora BR.
+E eu que agradeço, é uma honra ter participado
+e espero que todo mundo que goste.
+Eu queria agradecer a participação
+do programador e ter pedido, né,
+um pouquinho do seu preço aos tempos para a gente.
+Eu poderia estar programando,
+divulgando...
+Teria estar programando, divulgando,
+mas estar aqui...
+Gravando podcast.
+Gravando podcast.
+Gravando a gente. Gravando a vocês.
+Ficamos aos créditos de mais um episódio
+da Tribu do C.I. Podcast.
+E como tem sido de praxe,
+vamos finalizar com os recadinhos e abraços.
+Começando pelo
+Fora Ongoiano de Software Livre.
+Dia 18 e 19 de novembro,
+oitava edição do Fora Ongoiano de Software Livre.
+Socialmente justo, economicamente viável,
+tecnologicamente sustentável.
+Para mais informações,
+visite fgesl.asljo.org.br.
+Eu queria também falar
+sobre o circuito goiano de Software Livre.
+Eu participei da quarta e da quinta etapa
+que aconteceram em Itaberaí
+e Santa Helena, respectivamente.
+Como você sabe mais,
+softwarelivre.goiais.gov.br.
+Eu queria também mandar um abraço
+para o pessoal do Twitter
+que mencionou o Arroba Tribu do C.I.
+Vamos começar pelo Arroba W Porfírio,
+que é o Wesley Porfírio.
+Ele disse que escutou o episódio 12
+que falou exatamente sobre o dia a dia
+na área comercial MPI,
+que é o que acontece no dia a dia dele
+na software host.
+E o outro foi da programadora BR
+que acabou de participar com a gente.
+Aqui do episódio,
+recomendando o episódio número 12 também.
+A Marcia Santos do Barra Emene Tec
+que deu uma força para a gente lá também.
+O Arroba Ivan Pedê,
+o Neveu Luu, não sei como pronunciar.
+Tweetou lá que estava ouvindo o episódio.
+Também ao podcasteiro.
+Arroba podcasteiro,
+que recomendou o podcast.
+Ele estava falando que
+queima das link de podcasts lá.
+Ele estaria retweetando e recomendando.
+E também a Loiane,
+Loiane Groner, que foi a entrevistada
+do episódio 11.
+E também eu queria mandar um abraço
+para o Vinicius Menezes,
+que fez vários comentários comigo
+a respeito do episódio passado.
+Também eu queria mandar um abraço
+aos podcasteiro, AspiraCache,
+podcasteiro do Boris Deprela
+do site Aspirante Profissional.
+O MachinaCache
+e o Descontrole Podcast
+que é do Jo, do Almof
+e da Lily.
+E eu sempre confundo o Jo com Almof.
+Eu nunca sei quem é quem.
+Valeu, um abraço.
+Seguindo aqui, mande seus feedbacks
+mencionando no Twitter
+o Arroba Tribu do CI
+ou curta nossa página no Facebook.
+Facebook.com.br
+Tribuador CI
+ou mande-nos um e-mail
+para o podcast
+arrobatribuducei.match
+ou mande seu recadinho de voz
+ou e-mail também para a Tribu de CI
+arrobagmail.com
+para o episódio.
+Gravão
+só cabeça.
+Por que não está chão?
+Oi, são?
+Todo mundo ouvindo?
+São ouvindo também?
+Tá legal.
+Ah, pois
+já escolheram para a Univindade?
+Fricado.
+Será que deu para perceber?
+Não, grivado.
+Ah, entendi, privada.
+Não, entendi, privada.
+Eu queria fazer uma pausa para me lavar
+a bunda do meu menino, pode ser?
+Poupe nos detalhes, por favor.
+Vou fazer a higiene de ação
+do meu filhinho.
+Eu vou lá daqui um pouquinho.
+Tá lá minha bunda?
+Eu estou brincando, papai.
+Papai, eu estou brincando.
+Alô?
+Alô?
+Alô?
+Já acabou, está tão bom.

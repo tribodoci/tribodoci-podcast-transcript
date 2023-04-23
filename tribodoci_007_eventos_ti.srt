@@ -1,0 +1,3660 @@
+1
+00:00:00,000 --> 00:00:04,300
+Você está ouvindo a Tribo do Sei e Quantes Quereses
+
+2
+00:00:09,000 --> 00:00:13,000
+Tribo do Sei, episódio 7, para o dia 26 de novembro de 2010
+
+3
+00:00:13,000 --> 00:00:16,500
+Porque festa de nerd é evento de TI!
+
+4
+00:00:22,500 --> 00:00:24,500
+Meu nome é Sebastian Hells e eu comecei...
+
+5
+00:00:24,500 --> 00:00:27,000
+Mexei com eventos com VDC
+
+6
+00:00:27,000 --> 00:00:30,500
+Opa! Meu nome é Alemão e eu sou o mini new da ZAR
+
+7
+00:00:30,500 --> 00:00:33,500
+Meu nome é Sheldon Led e o melhor do evento está nos corredores
+
+8
+00:00:33,500 --> 00:00:34,500
+É isso aí, mano
+
+9
+00:00:34,500 --> 00:00:36,500
+O meu é no onclick
+
+10
+00:00:37,500 --> 00:00:39,000
+Cadê o Joelys, pô?
+
+11
+00:00:39,000 --> 00:00:40,500
+Ele foi no banheiro e já volta
+
+12
+00:00:40,500 --> 00:00:42,500
+Tá bom, vamos ver o Ziniz enquanto ele se paga
+
+13
+00:00:48,500 --> 00:00:50,500
+E o Sheldon Led foi para o latino, ué?
+
+14
+00:00:50,500 --> 00:00:52,500
+E o que que aconteceu lá no latino, ué?
+
+15
+00:00:52,500 --> 00:00:53,500
+Gafanhoto
+
+16
+00:00:53,500 --> 00:00:57,500
+Bom, a primeira coisa é que agora eu sou um androider
+
+17
+00:00:57,500 --> 00:00:58,500
+Que seria um androider?
+
+18
+00:00:58,500 --> 00:01:01,500
+Uma pessoa que tem um celular com androide
+
+19
+00:01:01,500 --> 00:01:03,500
+Ai, mas como?
+
+20
+00:01:03,500 --> 00:01:07,500
+Então, comprei meu motorola Maison, fiz um mini review dele lá no blog
+
+21
+00:01:07,500 --> 00:01:10,500
+Sim, eu gravei uns vídeos nele também
+
+22
+00:01:10,500 --> 00:01:12,500
+E aí, eu sei, estou achando o máximo assim
+
+23
+00:01:12,500 --> 00:01:14,500
+Eu também estou com um guide novo
+
+24
+00:01:14,500 --> 00:01:16,500
+Qual que é?
+
+25
+00:01:16,500 --> 00:01:22,500
+É um Saimi 660, eu vou postar algumas fotos dele depois dele para a galera apreciar
+
+26
+00:01:23,500 --> 00:01:25,500
+Vou fazer um review também
+
+27
+00:01:25,500 --> 00:01:27,500
+Então tá bom, vamos ver
+
+28
+00:01:27,500 --> 00:01:29,500
+A gente não perde por esperar
+
+29
+00:01:29,500 --> 00:01:32,500
+Bom, e por falar em vídeos, eu gravei um vídeo lá na sala dos palestrantes
+
+30
+00:01:32,500 --> 00:01:34,500
+Que eu também fui um palestrante, ué?
+
+31
+00:01:34,500 --> 00:01:37,500
+Ah, um vídeo pedante para cá
+
+32
+00:01:39,500 --> 00:01:42,500
+Pois é, eu fui palestrante na Latinué
+
+33
+00:01:42,500 --> 00:01:44,500
+Eles aceitaram minha palestra
+
+34
+00:01:44,500 --> 00:01:47,500
+E como eu tinha falado no episódio anterior
+
+35
+00:01:47,500 --> 00:01:50,500
+E gravei um vídeo e eu inclusive tenho uma errada no vídeo
+
+36
+00:01:50,500 --> 00:01:52,500
+Você acredita que eu ainda fui capaz de ir lá no vídeo?
+
+37
+00:01:52,500 --> 00:01:54,500
+Até no vídeo, cara
+
+38
+00:01:54,500 --> 00:01:55,500
+Aí eu...
+
+39
+00:01:55,500 --> 00:01:58,500
+O que eu ouvi é que você não era um palestrante?
+
+40
+00:01:59,500 --> 00:02:02,500
+Não, nem tanto também
+
+41
+00:02:03,500 --> 00:02:05,500
+Não, não era eu, não era eu
+
+42
+00:02:07,500 --> 00:02:09,500
+Pô, eu só falo aqui
+
+43
+00:02:09,500 --> 00:02:14,500
+Bom, o eu foi o seguinte, que eu tava lá o Mad Dog e o Dogo McLaren
+
+44
+00:02:14,500 --> 00:02:16,500
+Que eram os dois estrelas do evento
+
+45
+00:02:16,500 --> 00:02:20,500
+Falei assim que o Dogo McLaren fez umas paradas de redes
+
+46
+00:02:20,500 --> 00:02:22,500
+Mas não tem nada a ver com redes
+
+47
+00:02:22,500 --> 00:02:27,500
+O Dogo McLaren fez alguns dos principais programas do sistema Unix Like
+
+48
+00:02:27,500 --> 00:02:31,500
+Você sabe identificar algum? Você lembra de algum? Conhecer?
+
+49
+00:02:31,500 --> 00:02:35,500
+Eu só conheço uns que o Richard Digital Mo'Face
+
+50
+00:02:35,500 --> 00:02:38,500
+Ah, isso foi pedante
+
+51
+00:02:39,500 --> 00:02:42,500
+Aquele tal de Spick lá
+
+52
+00:02:42,500 --> 00:02:46,500
+É aquele... Mesmo coisa de Spick
+
+53
+00:02:46,500 --> 00:02:49,500
+Aquele programa que conversa com você
+
+54
+00:02:49,500 --> 00:02:51,500
+Faz perguntas difíceis, né?
+
+55
+00:02:51,500 --> 00:02:54,500
+Valeu, mano, eu escreveu vários artigos aí a respeito
+
+56
+00:02:54,500 --> 00:02:55,500
+É verdade
+
+57
+00:02:55,500 --> 00:02:57,500
+Speed to text
+
+58
+00:02:57,500 --> 00:02:58,500
+Sim
+
+59
+00:02:58,500 --> 00:02:59,500
+Mas eu...
+
+60
+00:02:59,500 --> 00:03:01,500
+É porque tu não é cego, nem...
+
+61
+00:03:01,500 --> 00:03:03,500
+Que não precisa usar essas coisas
+
+62
+00:03:03,500 --> 00:03:04,500
+É verdade, é verdade
+
+63
+00:03:04,500 --> 00:03:06,500
+Não, mas o primeiro...
+
+64
+00:03:06,500 --> 00:03:09,500
+O principal programa que ele fez assim mesmo
+
+65
+00:03:09,500 --> 00:03:11,500
+Que o pessoal mais conhece é o Diff, sabe Diff?
+
+66
+00:03:11,500 --> 00:03:13,500
+Então, foi esse aí
+
+67
+00:03:13,500 --> 00:03:16,500
+Mas ele criou o conceito do Pipe, sabe?
+
+68
+00:03:16,500 --> 00:03:19,500
+Porque você faz um comando, Pipe e outro comando
+
+69
+00:03:19,500 --> 00:03:21,500
+Foi ele que fez também
+
+70
+00:03:21,500 --> 00:03:23,500
+Então, aí foi esse aí
+
+71
+00:03:23,500 --> 00:03:25,500
+Como é que foi a palestra lá?
+
+72
+00:03:25,500 --> 00:03:27,500
+Enrolou tudo bem?
+
+73
+00:03:27,500 --> 00:03:30,500
+O Data Show não deu problema, não?
+
+74
+00:03:30,500 --> 00:03:31,500
+Pelo menos
+
+75
+00:03:31,500 --> 00:03:34,500
+Primeiro que a palestra, eles...
+
+76
+00:03:34,500 --> 00:03:36,500
+Eu tive que improvisar lá um pouco, tal
+
+77
+00:03:36,500 --> 00:03:38,500
+Mas foi demais, foi bom
+
+78
+00:03:38,500 --> 00:03:40,500
+Teu deu um pouquinho errado
+
+79
+00:03:40,500 --> 00:03:43,500
+No virtual box não estava funcionando
+
+80
+00:03:46,500 --> 00:03:48,500
+Teve recompilar o Kerala, não?
+
+81
+00:03:49,500 --> 00:03:51,500
+Mais ou menos
+
+82
+00:03:51,500 --> 00:03:54,500
+Era só... Não, eu fiz um artigo também
+
+83
+00:03:54,500 --> 00:03:55,500
+Se eu quiser seguir
+
+84
+00:03:55,500 --> 00:03:57,500
+Foi, foi mais ou menos isso, sim
+
+85
+00:03:57,500 --> 00:03:59,500
+Lá deu certo
+
+86
+00:03:59,500 --> 00:04:01,500
+Não, mas deu tudo bem
+
+87
+00:04:01,500 --> 00:04:02,500
+Aí tinha uns...
+
+88
+00:04:02,500 --> 00:04:04,500
+Tinha uns povos lá que falavam...
+
+89
+00:04:04,500 --> 00:04:06,500
+Só se não entendia espanhol
+
+90
+00:04:06,500 --> 00:04:08,500
+Aí foi, tipo, foi complicado pra eles
+
+91
+00:04:08,500 --> 00:04:10,500
+É, porque tem um feedback, sabe?
+
+92
+00:04:10,500 --> 00:04:12,500
+Ele... No final, ainda a palestra
+
+93
+00:04:12,500 --> 00:04:15,500
+Eles te mandaram um papelzinho lá, você escreve
+
+94
+00:04:15,500 --> 00:04:17,500
+Aí teve lá, deu pra ver
+
+95
+00:04:17,500 --> 00:04:18,500
+Mas foi tudo bem
+
+96
+00:04:18,500 --> 00:04:19,500
+O pessoal gostou
+
+97
+00:04:19,500 --> 00:04:21,500
+As duas pessoas estavam lá gostando
+
+98
+00:04:21,500 --> 00:04:23,500
+Você fala algumas coisas espanholas
+
+99
+00:04:23,500 --> 00:04:25,500
+Tico?
+
+100
+00:04:26,500 --> 00:04:27,500
+Van Ardott?
+
+101
+00:04:27,500 --> 00:04:28,500
+Na Carpeta
+
+102
+00:04:28,500 --> 00:04:30,500
+Tinha Carpeta?
+
+103
+00:04:30,500 --> 00:04:31,500
+É pasta
+
+104
+00:04:32,500 --> 00:04:34,500
+Eu sei também desse cara
+
+105
+00:04:34,500 --> 00:04:35,500
+O que é?
+
+106
+00:04:35,500 --> 00:04:37,500
+Esse cara, o que é carregado?
+
+107
+00:04:37,500 --> 00:04:38,500
+Da download
+
+108
+00:04:38,500 --> 00:04:40,500
+É isso, eu também fiz
+
+109
+00:04:42,500 --> 00:04:44,500
+Eu tenho um amigo que moro no Chile
+
+110
+00:04:44,500 --> 00:04:45,500
+É?
+
+111
+00:04:45,500 --> 00:04:47,500
+Eu tenho um amigo que moro no Estados Unidos
+
+112
+00:04:47,500 --> 00:04:48,500
+Sabe qual é o nome dele?
+
+113
+00:04:48,500 --> 00:04:50,500
+João Paulo do Netcash?
+
+114
+00:04:50,500 --> 00:04:52,500
+Não
+
+115
+00:04:52,500 --> 00:04:53,500
+Não será?
+
+116
+00:04:53,500 --> 00:04:54,500
+É...
+
+117
+00:04:54,500 --> 00:04:56,500
+Tinha um Mad Dog, Raul
+
+118
+00:04:56,500 --> 00:04:57,500
+Ah, bom
+
+119
+00:04:57,500 --> 00:04:59,500
+Você não sabia que ele é meu amigo?
+
+120
+00:04:59,500 --> 00:05:00,500
+Que bom
+
+121
+00:05:00,500 --> 00:05:02,500
+É, porque ele até me chamou pra tomar uma cerveja
+
+122
+00:05:02,500 --> 00:05:04,500
+Lá na Canspar, enfim
+
+123
+00:05:04,500 --> 00:05:05,500
+Que bom
+
+124
+00:05:05,500 --> 00:05:07,500
+Tá certo, vou deixar o link no post lá
+
+125
+00:05:07,500 --> 00:05:09,500
+Eu tenho provas
+
+126
+00:05:09,500 --> 00:05:10,500
+Tá no Facebook
+
+127
+00:05:10,500 --> 00:05:12,500
+Eu não duvido não
+
+128
+00:05:12,500 --> 00:05:15,500
+Então, aí foi esse aí, cara
+
+129
+00:05:15,500 --> 00:05:16,500
+Também teve...
+
+130
+00:05:16,500 --> 00:05:18,500
+Ah, eu também comprei uma camiseta
+
+131
+00:05:18,500 --> 00:05:19,500
+De colaborador
+
+132
+00:05:19,500 --> 00:05:20,500
+Débio
+
+133
+00:05:20,500 --> 00:05:23,500
+Agora eu sou oficialmente colaborador Débio
+
+134
+00:05:23,500 --> 00:05:25,500
+Rolou nepotismo?
+
+135
+00:05:25,500 --> 00:05:28,500
+Essas coisas a gente não pode comentar
+
+136
+00:05:28,500 --> 00:05:31,500
+Bom, e por fim
+
+137
+00:05:31,500 --> 00:05:33,500
+Como toda vez que a gente vai lá
+
+138
+00:05:33,500 --> 00:05:35,500
+Eu fui no Paraguai e na Argentina
+
+139
+00:05:35,500 --> 00:05:36,500
+Para quê?
+
+140
+00:05:36,500 --> 00:05:38,500
+Paraguai
+
+141
+00:05:42,500 --> 00:05:46,500
+Isso aí foi o meu feedback da minha viagem
+
+142
+00:05:46,500 --> 00:05:48,500
+Pra ferra da tripe esse ponto aí
+
+143
+00:05:53,500 --> 00:05:55,500
+Pô, se a gente tá lá no teu apê
+
+144
+00:05:55,500 --> 00:05:59,500
+Tem dita até amanhecer
+
+145
+00:05:59,500 --> 00:06:02,500
+Pô, se a gente tá lá no teu apê
+
+146
+00:06:02,500 --> 00:06:04,500
+Pode aparecer
+
+147
+00:06:04,500 --> 00:06:09,500
+Vai rolar os estados de pô, se a gente tá lá no teu apê
+
+148
+00:06:19,500 --> 00:06:21,500
+Então vou falar no nosso blog aí que você não sabe
+
+149
+00:06:21,500 --> 00:06:24,500
+Pô, você acredita que a gente conseguiu bater nossa meta?
+
+150
+00:06:24,500 --> 00:06:28,500
+Mil visitantes únicos nesse mês
+
+151
+00:06:28,500 --> 00:06:30,500
+Na verdade foi mais de mil
+
+152
+00:06:30,500 --> 00:06:31,500
+Mais de mil
+
+153
+00:06:31,500 --> 00:06:32,500
+Isso, mais de mil
+
+154
+00:06:32,500 --> 00:06:35,500
+Hoje eu também consegui bater meia meta
+
+155
+00:06:35,500 --> 00:06:37,500
+Ah, é verdade, rapaz
+
+156
+00:06:37,500 --> 00:06:40,500
+Hoje foi um momento muito importante na vida do alemão, sabia?
+
+157
+00:06:40,500 --> 00:06:42,500
+O que foi ele?
+
+158
+00:06:44,500 --> 00:06:46,500
+Qual que foi a meta?
+
+159
+00:06:46,500 --> 00:06:48,500
+Qual que foi a meta?
+
+160
+00:06:48,500 --> 00:06:50,500
+Qual que foi a meta?
+
+161
+00:06:50,500 --> 00:06:52,500
+Qual que foi a meta?
+
+162
+00:06:52,500 --> 00:06:54,500
+Não, a meta foi...
+
+163
+00:06:54,500 --> 00:06:56,500
+Não, vou deixar ele falar
+
+164
+00:06:56,500 --> 00:06:58,500
+Eu só sei que eu twittei um minuto antes dele conseguir
+
+165
+00:06:58,500 --> 00:07:00,500
+Eu zoarei o Half-Life
+
+166
+00:07:00,500 --> 00:07:02,500
+Todos, todos Half-Life
+
+167
+00:07:04,500 --> 00:07:06,500
+Você acredita nisso, cara?
+
+168
+00:07:06,500 --> 00:07:08,500
+Vamo pro próximo momento
+
+169
+00:07:14,500 --> 00:07:17,500
+Então vamos falar de Fórum Goinho de Software Livre
+
+170
+00:07:18,500 --> 00:07:19,500
+Vamos lá
+
+171
+00:07:19,500 --> 00:07:23,500
+Esse podcast é o oferecimento FGSL
+
+172
+00:07:23,500 --> 00:07:25,500
+Fórum Goinho de Software Livre
+
+173
+00:07:25,500 --> 00:07:27,500
+NUX
+
+174
+00:07:32,500 --> 00:07:34,500
+O oferecimento fixo, né?
+
+175
+00:07:34,500 --> 00:07:36,500
+NUX é mais alguma coisa
+
+176
+00:07:38,500 --> 00:07:40,500
+O Fórum Goinho de Software Livre
+
+177
+00:07:40,500 --> 00:07:44,500
+Vai acontecendo dia 10 e 11 de...
+
+178
+00:07:44,500 --> 00:07:46,500
+9 de dezembro
+
+179
+00:07:48,500 --> 00:07:50,500
+Nesse episódio fala correto
+
+180
+00:07:50,500 --> 00:07:52,500
+Porque no outro ele falou um mês antes
+
+181
+00:07:52,500 --> 00:07:54,500
+10 e 11 de dezembro
+
+182
+00:07:54,500 --> 00:07:58,500
+Vai ser na segunda sexta e no segundo sábado de dezembro
+
+183
+00:07:58,500 --> 00:08:03,500
+E vão ter palestrantes de vários lugares do país
+
+184
+00:08:03,500 --> 00:08:05,500
+Você acredita nisso?
+
+185
+00:08:05,500 --> 00:08:07,500
+Acredito, cara, é exclusivo
+
+186
+00:08:07,500 --> 00:08:09,500
+Na nossa conversa com Joelias lá
+
+187
+00:08:09,500 --> 00:08:11,500
+Tem vários dados interessantes
+
+188
+00:08:11,500 --> 00:08:13,500
+Você, Prezário, Ituboyana e Região
+
+189
+00:08:13,500 --> 00:08:15,500
+Fiquem de olho nessa entrevista
+
+190
+00:08:15,500 --> 00:08:18,500
+É isso aí, nós vamos entrevistar o Joelias
+
+191
+00:08:18,500 --> 00:08:22,500
+E já já eles vocês vão parar de ver nossas vozes enjoadas
+
+192
+00:08:22,500 --> 00:08:24,500
+E vão ouvir o que ele tem a dizer
+
+193
+00:08:24,500 --> 00:08:27,500
+Mantem seus feedbacks por e-mail, por Twitter
+
+194
+00:08:27,500 --> 00:08:29,500
+Sinal de fumaça
+
+195
+00:08:29,500 --> 00:08:31,500
+Fica à vontade pra mandar aí
+
+196
+00:08:31,500 --> 00:08:32,500
+O importante é...
+
+197
+00:08:32,500 --> 00:08:34,500
+Não é que seja só um joelhinho, valeu?
+
+198
+00:08:34,500 --> 00:08:35,500
+Não escutei
+
+199
+00:08:35,500 --> 00:08:37,500
+Beleza? Que a gente fica feliz
+
+200
+00:08:37,500 --> 00:08:40,500
+Eu acho que eu vou começar a colocar...
+
+201
+00:08:40,500 --> 00:08:41,500
+Eu acho que...
+
+202
+00:08:41,500 --> 00:08:43,500
+Não sei porque...
+
+203
+00:08:43,500 --> 00:08:45,500
+Não tem uma coisa mais fácil que você escrever um comentário
+
+204
+00:08:45,500 --> 00:08:47,500
+Só sei lá, é escrever e colocar
+
+205
+00:08:47,500 --> 00:08:49,500
+Mas tem aqueles cliques também
+
+206
+00:08:49,500 --> 00:08:51,500
+Já vendo a ferramenta do blogger
+
+207
+00:08:51,500 --> 00:08:52,500
+Se tem um lá interessante
+
+208
+00:08:52,500 --> 00:08:53,500
+O que você achou interessante?
+
+209
+00:08:53,500 --> 00:08:54,500
+Você só clica lá
+
+210
+00:08:54,500 --> 00:08:55,500
+Aí...
+
+211
+00:08:55,500 --> 00:08:57,500
+Acho que eu vou procurar um plugin desse pro WordPress
+
+212
+00:08:57,500 --> 00:08:59,500
+Porque a gente tem um feedback maior
+
+213
+00:08:59,500 --> 00:09:03,500
+Porque a gente tá em média de 60, 70 downloads por enquanto
+
+214
+00:09:03,500 --> 00:09:06,500
+E o pessoal não deu feedback até agora
+
+215
+00:09:06,500 --> 00:09:08,500
+A gente tá sentindo falta de vocês
+
+216
+00:09:08,500 --> 00:09:11,500
+A gente gosta de vocês pra caramba mesmo
+
+217
+00:09:11,500 --> 00:09:14,500
+Por favor, música sentimental
+
+218
+00:09:14,500 --> 00:09:16,500
+Eu vou colocar a música do Hulk, que legal
+
+219
+00:09:16,500 --> 00:09:18,500
+É isso aí
+
+220
+00:09:18,500 --> 00:09:22,500
+É, eu mesmo não gosto de ficar digitando um comentário
+
+221
+00:09:22,500 --> 00:09:26,500
+Geralmente eu comento nos joinha, nas estrelinhas
+
+222
+00:09:26,500 --> 00:09:29,500
+Tudo que é fácil, já tocando mouse, volar e clipe
+
+223
+00:09:29,500 --> 00:09:31,500
+Pode ser mouse que for
+
+224
+00:09:31,500 --> 00:09:33,500
+Que eu faço isso
+
+225
+00:09:33,500 --> 00:09:35,500
+Você dá uma preguiça de comentar
+
+226
+00:09:35,500 --> 00:09:37,500
+Mas comenta lá, é bom
+
+227
+00:09:37,500 --> 00:09:40,500
+Você que não é assim, faz isso pra gente
+
+228
+00:09:40,500 --> 00:09:42,500
+É porque a gente é meio old school
+
+229
+00:09:42,500 --> 00:09:44,500
+A gente é da época do e-mail e tal
+
+230
+00:09:44,500 --> 00:09:47,500
+Eu uso multi fazemos e-mails de newsgroup
+
+231
+00:09:47,500 --> 00:09:49,500
+Pô
+
+232
+00:09:50,500 --> 00:09:52,500
+Conheço multi
+
+233
+00:10:05,500 --> 00:10:09,500
+Então vamos para o episódio 7 com o Joelias
+
+234
+00:10:09,500 --> 00:10:12,500
+Vou deixar vocês agora sós
+
+235
+00:10:13,500 --> 00:10:15,500
+Bom proveito
+
+236
+00:10:15,500 --> 00:10:17,500
+Vocês ficarem mais à vontade
+
+237
+00:10:17,500 --> 00:10:19,500
+Eu vou ter que dar uma cairdinha
+
+238
+00:10:19,500 --> 00:10:20,500
+Eu e o alemão
+
+239
+00:10:20,500 --> 00:10:23,500
+Eu vou ficar sós, com quem sós, com o Joelias
+
+240
+00:10:23,500 --> 00:10:25,500
+Quem sós com o Joelias, eu vou sair com o alemão
+
+241
+00:10:25,500 --> 00:10:29,500
+Vocês vão encontrar os lotes também no caminho
+
+242
+00:10:29,500 --> 00:10:32,500
+É isso aí, eu acho que é muito legal
+
+243
+00:10:32,500 --> 00:10:34,500
+É isso aí, eu acho que a gente tá aí
+
+244
+00:10:34,500 --> 00:10:36,500
+Tô trazido
+
+245
+00:10:40,500 --> 00:10:42,500
+E não deixem de ir pro Fórum Goiano
+
+246
+00:10:42,500 --> 00:10:44,500
+De sorte ou alegre
+
+247
+00:10:44,500 --> 00:10:46,500
+Quando vocês ouvirem esse postcast
+
+248
+00:10:46,500 --> 00:10:48,500
+Provavelmente as instruções vão estar abertas
+
+249
+00:10:48,500 --> 00:10:50,500
+Vocês vão lá, se inscrevam
+
+250
+00:10:50,500 --> 00:10:52,500
+O link vai estar abaixo no post
+
+251
+00:10:52,500 --> 00:10:54,500
+E não deixem de perder, esse vai ser uma grande festa
+
+252
+00:10:54,500 --> 00:10:56,500
+Um grande encontro
+
+253
+00:10:56,500 --> 00:10:58,500
+E nós vamos estar lá, vamos...
+
+254
+00:10:58,500 --> 00:11:00,500
+Assista a minha palestra
+
+255
+00:11:00,500 --> 00:11:02,500
+Sim, valeu
+
+256
+00:11:08,500 --> 00:11:10,500
+Então, a gente provei o episódio passado
+
+257
+00:11:10,500 --> 00:11:12,500
+É de Rio, onde eu tô?
+
+258
+00:11:12,500 --> 00:11:14,500
+Em um, mas...
+
+259
+00:11:14,500 --> 00:11:16,500
+Olá, Wilson, tudo bom?
+
+260
+00:11:16,500 --> 00:11:18,500
+É um prazer estar aqui com vocês
+
+261
+00:11:18,500 --> 00:11:20,500
+Gravando esse podcast
+
+262
+00:11:20,500 --> 00:11:22,500
+Meu nome é Joelias
+
+263
+00:11:22,500 --> 00:11:24,500
+Acho que eu sou mais conhecido das comunidades de Software Livre
+
+264
+00:11:24,500 --> 00:11:26,500
+E hoje eu tô na frente da organização
+
+265
+00:11:26,500 --> 00:11:28,500
+Do sétimo Fórum Goiano
+
+266
+00:11:28,500 --> 00:11:30,500
+Do Software Livre
+
+267
+00:11:30,500 --> 00:11:32,500
+Então, vamos às perguntas
+
+268
+00:11:40,500 --> 00:11:42,500
+Então, como a organização vem a qual a parte mais crítica
+
+269
+00:11:42,500 --> 00:11:44,500
+Mais delicada esse processo
+
+270
+00:11:44,500 --> 00:11:46,500
+Olha, Wilson, é...
+
+271
+00:11:46,500 --> 00:11:48,500
+A organização é vento, eu admito que não é fácil
+
+272
+00:11:48,500 --> 00:11:50,500
+A gente tem que ter já gosto, né
+
+273
+00:11:50,500 --> 00:11:52,500
+Em querer fazer, tem que seguir bastante
+
+274
+00:11:52,500 --> 00:11:54,500
+Principalmente, no meu caso
+
+275
+00:11:54,500 --> 00:11:56,500
+É a organização de eventos de Software Livre
+
+276
+00:11:56,500 --> 00:11:58,500
+Que valha extremamente voluntário
+
+277
+00:11:58,500 --> 00:12:00,500
+Você não vai ter nenhum retorno financeiro por aquilo ali
+
+278
+00:12:00,500 --> 00:12:02,500
+Então, eu costumo dizer que
+
+279
+00:12:02,500 --> 00:12:04,500
+É muito incentivo para organizar eventos
+
+280
+00:12:04,500 --> 00:12:06,500
+Eventos de Software Livre, onde a gente é voluntário
+
+281
+00:12:06,500 --> 00:12:08,500
+É o conhecimento que a gente adquira
+
+282
+00:12:08,500 --> 00:12:10,500
+Nesses eventos e o reconhecimento que a gente tem
+
+283
+00:12:10,500 --> 00:12:12,500
+Depois, né, com o resultado do evento
+
+284
+00:12:12,500 --> 00:12:14,500
+Eu poderia dizer que essa é justamente
+
+285
+00:12:14,500 --> 00:12:16,500
+A parte mais crítica, a questão de a gente ser voluntário
+
+286
+00:12:16,500 --> 00:12:18,500
+Então, você tem que lidar com pessoas
+
+287
+00:12:18,500 --> 00:12:20,500
+Você tem que pedir uma pessoa
+
+288
+00:12:20,500 --> 00:12:22,500
+Pra te ajudar no evento
+
+289
+00:12:22,500 --> 00:12:24,500
+Sem ter nenhum retorno financeiro por aquilo ali
+
+290
+00:12:24,500 --> 00:12:26,500
+E ter que cobrar, talvez, dessas pessoas
+
+291
+00:12:26,500 --> 00:12:28,500
+A pessoa não é porque ela tá ajudando
+
+292
+00:12:28,500 --> 00:12:30,500
+Como voluntário, né, porque ela não tá tendo nenhum retorno financeiro
+
+293
+00:12:30,500 --> 00:12:32,500
+Que ela vai deixar de fazer
+
+294
+00:12:32,500 --> 00:12:34,500
+A tarefa que ela se propôs
+
+295
+00:12:34,500 --> 00:12:36,500
+Da maneira de melhor qualidade, né
+
+296
+00:12:36,500 --> 00:12:38,500
+Então, a gente tem que aprender
+
+297
+00:12:38,500 --> 00:12:40,500
+A cobrar, mas também
+
+298
+00:12:40,500 --> 00:12:42,500
+Você tem que ter cuidado com aquilo ali
+
+299
+00:12:42,500 --> 00:12:44,500
+Porque se você cobra de uma forma inapropriada
+
+300
+00:12:44,500 --> 00:12:46,500
+A pessoa acaba de desistir também
+
+301
+00:12:46,500 --> 00:12:48,500
+Na primeira vez que eu organize um evento com você
+
+302
+00:12:48,500 --> 00:12:50,500
+Tchau, né
+
+303
+00:12:50,500 --> 00:12:52,500
+O que seria um GT?
+
+304
+00:12:52,500 --> 00:12:54,500
+Bom, os GTs
+
+305
+00:12:54,500 --> 00:12:56,500
+Eles são grupos de trabalho
+
+306
+00:12:56,500 --> 00:12:58,500
+É extremamente importante
+
+307
+00:12:58,500 --> 00:13:00,500
+Pra organização do evento
+
+308
+00:13:00,500 --> 00:13:02,500
+Que a gente divida o evento em grupos de trabalho
+
+309
+00:13:02,500 --> 00:13:04,500
+É uma forma de você dividir pra conquistar
+
+310
+00:13:04,500 --> 00:13:06,500
+O famoso dividir pra conquistar
+
+311
+00:13:06,500 --> 00:13:08,500
+Então, divide as tarefas conforme
+
+312
+00:13:08,500 --> 00:13:10,500
+As áreas serem executadas
+
+313
+00:13:10,500 --> 00:13:12,500
+Por exemplo, um grupo de trabalho pra temário
+
+314
+00:13:12,500 --> 00:13:14,500
+Outro grupo de trabalho pra infraestrutura
+
+315
+00:13:14,500 --> 00:13:16,500
+E dentro desse grupo de trabalho
+
+316
+00:13:16,500 --> 00:13:18,500
+A gente procura alocar pelo menos um coordenador
+
+317
+00:13:18,500 --> 00:13:20,500
+Daquele grupo, e conforme as pessoas
+
+318
+00:13:20,500 --> 00:13:22,500
+Vão se disponibilizando pra poder ajudar
+
+319
+00:13:22,500 --> 00:13:24,500
+Na organização do evento
+
+320
+00:13:24,500 --> 00:13:26,500
+A gente vai agregando colaboradores
+
+321
+00:13:26,500 --> 00:13:28,500
+A cada grupo de trabalho
+
+322
+00:13:28,500 --> 00:13:30,500
+Seria uma célula grupo de trabalho, né
+
+323
+00:13:30,500 --> 00:13:32,500
+Exatamente, é como se fossem
+
+324
+00:13:32,500 --> 00:13:34,500
+Partes pequenas, né
+
+325
+00:13:34,500 --> 00:13:36,500
+Que subdivis células mesmo
+
+326
+00:13:36,500 --> 00:13:38,500
+Que vão componer organização completa
+
+327
+00:13:38,500 --> 00:13:40,500
+Eu sempre assisti o aprendiz
+
+328
+00:13:40,500 --> 00:13:42,500
+Eu nunca tinha visto esse termo
+
+329
+00:13:44,500 --> 00:13:46,500
+Não aprendi no organizar evento
+
+330
+00:13:46,500 --> 00:13:48,500
+Eu não aprendi no organização
+
+331
+00:13:50,500 --> 00:13:52,500
+Quantos grupos de trabalho devem ter
+
+332
+00:13:52,500 --> 00:13:54,500
+Pra subdividir bem as tarefas assim
+
+333
+00:13:54,500 --> 00:13:56,500
+E quais seriam
+
+334
+00:13:56,500 --> 00:13:58,500
+As tarefas básicas, né
+
+335
+00:13:58,500 --> 00:14:00,500
+E quais seriam esses grupos
+
+336
+00:14:00,500 --> 00:14:02,500
+Eu vou falando então, você vai contando
+
+337
+00:14:02,500 --> 00:14:04,500
+Quantos grupos de trabalho
+
+338
+00:14:04,500 --> 00:14:06,500
+Mas, basicamente pra gente
+
+339
+00:14:06,500 --> 00:14:08,500
+Dividir bem as tarefas
+
+340
+00:14:08,500 --> 00:14:10,500
+Claro que quando tem necessidade
+
+341
+00:14:10,500 --> 00:14:12,500
+Quando você tem a equipe menor
+
+342
+00:14:12,500 --> 00:14:14,500
+Dá pra, talvez, agregar
+
+343
+00:14:14,500 --> 00:14:16,500
+Eu gosto de trabalhar da seguinte forma
+
+344
+00:14:16,500 --> 00:14:18,500
+Um grupo de trabalho de infraestrutura
+
+345
+00:14:18,500 --> 00:14:20,500
+Que é o grupo que vai cuidar da infraestrutura
+
+346
+00:14:20,500 --> 00:14:22,500
+Da evento
+
+347
+00:14:22,500 --> 00:14:24,500
+Mas, tentando ser um pouco mais específico
+
+348
+00:14:24,500 --> 00:14:26,500
+O grupo de infraestrutura geralmente
+
+349
+00:14:26,500 --> 00:14:28,500
+Ele fica responsável pela sinalização
+
+350
+00:14:28,500 --> 00:14:30,500
+Pela logística que vai acontecer
+
+351
+00:14:30,500 --> 00:14:32,500
+No dia do evento
+
+352
+00:14:32,500 --> 00:14:34,500
+Não tem o grupo que geralmente
+
+353
+00:14:34,500 --> 00:14:36,500
+No decorrer da organização do evento
+
+354
+00:14:36,500 --> 00:14:38,500
+Tem muito pouco trabalho
+
+355
+00:14:38,500 --> 00:14:40,500
+Mas que no dia do evento
+
+356
+00:14:40,500 --> 00:14:42,500
+É o grupo que mais trabalha
+
+357
+00:14:42,500 --> 00:14:44,500
+Sem pré-evento
+
+358
+00:14:44,500 --> 00:14:46,500
+Basicamente, entrar em contato com o restaurante
+
+359
+00:14:46,500 --> 00:14:48,500
+Pra ver um restaurante próximo
+
+360
+00:14:48,500 --> 00:14:50,500
+Que possa receber
+
+361
+00:14:50,500 --> 00:14:52,500
+Então cuidar da segação de infraestrutura mesmo
+
+362
+00:14:52,500 --> 00:14:54,500
+Saber se o local onde vai receber o evento
+
+363
+00:14:54,500 --> 00:14:56,500
+Se tem essa capacidade, né
+
+364
+00:14:56,500 --> 00:14:58,500
+De receber anchonete
+
+365
+00:14:58,500 --> 00:15:00,500
+Se tem capacidade de receber o quantidade
+
+366
+00:15:00,500 --> 00:15:02,500
+De participantes oficientes, restaurante
+
+367
+00:15:02,500 --> 00:15:04,500
+Entrar em contato com o hotel
+
+368
+00:15:04,500 --> 00:15:06,500
+Talvez transporte
+
+369
+00:15:06,500 --> 00:15:08,500
+Se for necessário
+
+370
+00:15:08,500 --> 00:15:10,500
+O outro grupo de trabalho
+
+371
+00:15:10,500 --> 00:15:12,500
+Avaliação, né
+
+372
+00:15:12,500 --> 00:15:14,500
+E também, claro, de entrar em contato
+
+373
+00:15:14,500 --> 00:15:16,500
+Com o palestrante
+
+374
+00:15:16,500 --> 00:15:18,500
+Inicialmente, também não tem tanto serviço
+
+375
+00:15:18,500 --> 00:15:20,500
+Temário, mas a partir do momento que se abre
+
+376
+00:15:20,500 --> 00:15:22,500
+A chamada de trabalho já começa a trabalhar
+
+377
+00:15:22,500 --> 00:15:24,500
+Bastante, eu diria que
+
+378
+00:15:24,500 --> 00:15:26,500
+Junto do grupo de trabalho da organização
+
+379
+00:15:26,500 --> 00:15:28,500
+Mesmo do grupo de trabalho geral
+
+380
+00:15:28,500 --> 00:15:30,500
+É um dos que tem mais trabalho
+
+381
+00:15:30,500 --> 00:15:32,500
+Mesmo um grupo de temário
+
+382
+00:15:32,500 --> 00:15:34,500
+Coordenador de temário
+
+383
+00:15:34,500 --> 00:15:36,500
+Talvez até os colaboradores
+
+384
+00:15:36,500 --> 00:15:38,500
+Tem que entrar bastante em contato com os palestrantes
+
+385
+00:15:38,500 --> 00:15:40,500
+Por exemplo, nós tivemos quase 50 palestrantes
+
+386
+00:15:40,500 --> 00:15:42,500
+Por FGSL agora provavelmente
+
+387
+00:15:42,500 --> 00:15:44,500
+Teremos retorno de 50, 60 palestrantes
+
+388
+00:15:44,500 --> 00:15:46,500
+Então é meio bombando o tempo inteiro
+
+389
+00:15:46,500 --> 00:15:48,500
+Na caixa de mensagens do temário
+
+390
+00:15:48,500 --> 00:15:50,500
+E uma grade pra montar
+
+391
+00:15:50,500 --> 00:15:52,500
+A palestra pra avaliar
+
+392
+00:15:52,500 --> 00:15:54,500
+Melhorias pra sugerir pros palestrantes
+
+393
+00:15:54,500 --> 00:15:56,500
+Tem bastante serviço também
+
+394
+00:15:58,500 --> 00:16:00,500
+Um outro grupo de trabalho
+
+395
+00:16:00,500 --> 00:16:02,500
+Seria o de divulgação
+
+396
+00:16:02,500 --> 00:16:04,500
+Que talvez, dependendo
+
+397
+00:16:04,500 --> 00:16:06,500
+Da quantidade de pessoas, poderia até ficar junto
+
+398
+00:16:06,500 --> 00:16:08,500
+Com o grupo de patrocínio
+
+399
+00:16:08,500 --> 00:16:10,500
+Porque o de divulgação
+
+400
+00:16:10,500 --> 00:16:12,500
+Vira que é um trabalho um pouco mais
+
+401
+00:16:12,500 --> 00:16:14,500
+Funcional, né?
+
+402
+00:16:14,500 --> 00:16:16,500
+Se você é um pouco mais profissional
+
+403
+00:16:16,500 --> 00:16:18,500
+Não mais flexível, digamos, melhor assim
+
+404
+00:16:18,500 --> 00:16:20,500
+Se você não tem tempo pra trabalhar durante o dia
+
+405
+00:16:20,500 --> 00:16:22,500
+Você pode trabalhar durante a noite
+
+406
+00:16:22,500 --> 00:16:24,500
+Você pode fazer divulgação online
+
+407
+00:16:24,500 --> 00:16:26,500
+Se você precisa de algum lugar e divulgar
+
+408
+00:16:26,500 --> 00:16:28,500
+É uma coisa mais flexível também
+
+409
+00:16:28,500 --> 00:16:30,500
+E o patrocínio, que é
+
+410
+00:16:30,500 --> 00:16:32,500
+Justamente você entrar em contato
+
+411
+00:16:32,500 --> 00:16:34,500
+Com os patrocinadores
+
+412
+00:16:34,500 --> 00:16:36,500
+Eles teriam interesse de adquirir
+
+413
+00:16:36,500 --> 00:16:38,500
+E, claro, também receber dos patrocinadores
+
+414
+00:16:38,500 --> 00:16:40,500
+O pessoal desse negócio de cotas
+
+415
+00:16:40,500 --> 00:16:42,500
+Esse é um padrão
+
+416
+00:16:42,500 --> 00:16:44,500
+Porque eu sempre vejo cotas gold, silver
+
+417
+00:16:44,500 --> 00:16:46,500
+É...
+
+418
+00:16:48,500 --> 00:16:50,500
+Não, as cotas
+
+419
+00:16:50,500 --> 00:16:52,500
+É bem a critério de cada evento
+
+420
+00:16:52,500 --> 00:16:54,500
+Mesmo, né? Que a gente organiza
+
+421
+00:16:54,500 --> 00:16:56,500
+Aqui em Goiás, eu acho que
+
+422
+00:16:56,500 --> 00:16:58,500
+Prisamente, pros eventos software livre
+
+423
+00:16:58,500 --> 00:17:00,500
+A gente já acostumou que todo evento
+
+424
+00:17:00,500 --> 00:17:02,500
+Tem sempre cotas ouro, prata e bronze
+
+425
+00:17:02,500 --> 00:17:04,500
+Mais do que isso pra colocar lá um diamante
+
+426
+00:17:04,500 --> 00:17:06,500
+Um latão da vida, né?
+
+427
+00:17:06,500 --> 00:17:08,500
+Mas essas três cotas eu acho que estão suficientes
+
+428
+00:17:08,500 --> 00:17:10,500
+A gente estabelece o valor das cotas
+
+429
+00:17:10,500 --> 00:17:12,500
+Baseado nas necessidades financeiras
+
+430
+00:17:12,500 --> 00:17:14,500
+Do evento, então, antes de
+
+431
+00:17:14,500 --> 00:17:16,500
+Lançar uma chamada de patrocínio
+
+432
+00:17:16,500 --> 00:17:18,500
+A gente faz todo um levantamento dos gastos
+
+433
+00:17:18,500 --> 00:17:20,500
+Do evento, né? O que a gente acha que vai ser
+
+434
+00:17:20,500 --> 00:17:22,500
+Necessário adquirir
+
+435
+00:17:22,500 --> 00:17:24,500
+O que vai ser necessário locar e tal
+
+436
+00:17:24,500 --> 00:17:26,500
+E, baseado naquilo ali, a gente pra, por exemplo
+
+437
+00:17:26,500 --> 00:17:28,500
+Esse evento vai ser necessário 5 mil reais
+
+438
+00:17:28,500 --> 00:17:30,500
+Então, pra esse 5 mil, a gente pode dividir
+
+439
+00:17:30,500 --> 00:17:32,500
+Tantas cotas ouro, tantas prata e tantas bronze
+
+440
+00:17:32,500 --> 00:17:34,500
+E aí, estupula os valores pra cada cota, né?
+
+441
+00:17:34,500 --> 00:17:36,500
+E a diferenciação das cotas
+
+442
+00:17:36,500 --> 00:17:38,500
+Nessa ouro, prata e bronze
+
+443
+00:17:38,500 --> 00:17:40,500
+É que quem tem a ouro pode tudo, né?
+
+444
+00:17:40,500 --> 00:17:42,500
+O patrocinador geralmente tem direito
+
+445
+00:17:42,500 --> 00:17:44,500
+A ministra palestra no evento
+
+446
+00:17:44,500 --> 00:17:46,500
+Ele pode distribuir material à vontade
+
+447
+00:17:46,500 --> 00:17:48,500
+Ele pode colocar banner no auditório
+
+448
+00:17:48,500 --> 00:17:50,500
+E daí, conforme vai diminuindo
+
+449
+00:17:50,500 --> 00:17:52,500
+Os metais aí, né? Vai, vai
+
+450
+00:17:52,500 --> 00:17:54,500
+Tirando as prioridades
+
+451
+00:17:54,500 --> 00:17:56,500
+A prata já não tem direito de colocar banner
+
+452
+00:17:56,500 --> 00:17:58,500
+No auditório
+
+453
+00:17:58,500 --> 00:18:00,500
+Não tem direito a julgar, mas não tem direito
+
+454
+00:18:00,500 --> 00:18:02,500
+A palestra no dia, então
+
+455
+00:18:02,500 --> 00:18:04,500
+Esses critérios, assim, que a gente também pode mudar
+
+456
+00:18:04,500 --> 00:18:06,500
+Pra cada evento
+
+457
+00:18:06,500 --> 00:18:08,500
+E sobre os kiosks que ficam dentro do evento
+
+458
+00:18:08,500 --> 00:18:10,500
+Também entrando na parte de cotas
+
+459
+00:18:10,500 --> 00:18:12,500
+É uma negociação diferente
+
+460
+00:18:12,500 --> 00:18:14,500
+Os kiosks de patrocinadores
+
+461
+00:18:14,500 --> 00:18:16,500
+Eles estão, pelo menos, dos eventos que eu já organizei
+
+462
+00:18:16,500 --> 00:18:18,500
+Eu sempre estabeleço como parte da cota
+
+463
+00:18:18,500 --> 00:18:20,500
+Quem adquire a cota ouro tem direito
+
+464
+00:18:20,500 --> 00:18:22,500
+A montar o stand dele lá, né?
+
+465
+00:18:22,500 --> 00:18:24,500
+No caso da FGSL, a gente vai ter
+
+466
+00:18:24,500 --> 00:18:26,500
+A participação da Linux Magazine
+
+467
+00:18:26,500 --> 00:18:28,500
+Que deve vir colocar um kiosk lá
+
+468
+00:18:28,500 --> 00:18:30,500
+Não é patrocinadora, mas já entra como
+
+469
+00:18:30,500 --> 00:18:32,500
+Um apoio, em vez de um colaborador
+
+470
+00:18:36,500 --> 00:18:38,500
+E os demais grupos de trabalho que a gente tem
+
+471
+00:18:38,500 --> 00:18:40,500
+A gente tem um grupo de
+
+472
+00:18:40,500 --> 00:18:42,500
+Trabalho de Secretaria
+
+473
+00:18:42,500 --> 00:18:44,500
+Que por não demandar tanto serviço
+
+474
+00:18:44,500 --> 00:18:46,500
+Geralmente acaba ficando junto
+
+475
+00:18:46,500 --> 00:18:48,500
+Com um grupo de infraestrutura também
+
+476
+00:18:48,500 --> 00:18:50,500
+Que é quem deveria cuidar do dinheiro
+
+477
+00:18:50,500 --> 00:18:52,500
+E fazer os serviços de usuaria
+
+478
+00:18:52,500 --> 00:18:54,500
+Correr atrás de saber o preço das coisas
+
+479
+00:18:54,500 --> 00:18:56,500
+E comprar as
+
+480
+00:18:56,500 --> 00:18:58,500
+As coisas necessárias
+
+481
+00:18:58,500 --> 00:19:00,500
+Ou colocar amizas, as questões
+
+482
+00:19:00,500 --> 00:19:02,500
+A gente tem um grupo também de desenvolvimento
+
+483
+00:19:02,500 --> 00:19:04,500
+Que é as pessoas responsáveis
+
+484
+00:19:04,500 --> 00:19:06,500
+Por cuidar do site
+
+485
+00:19:06,500 --> 00:19:08,500
+Talvez precisa de criar um cadastro
+
+486
+00:19:08,500 --> 00:19:10,500
+Para a inscrição das pessoas no evento
+
+487
+00:19:10,500 --> 00:19:12,500
+De emitir certificado
+
+488
+00:19:12,500 --> 00:19:14,500
+Fico com responsabilidade do UGT de desenvolvimento
+
+489
+00:19:16,500 --> 00:19:18,500
+A gente tem também o UGT
+
+490
+00:19:18,500 --> 00:19:20,500
+De caravanas, né?
+
+491
+00:19:20,500 --> 00:19:22,500
+Que é uma pessoa que é responsável só por entrar em contato
+
+492
+00:19:22,500 --> 00:19:24,500
+E mandar e-mail para as
+
+493
+00:19:24,500 --> 00:19:26,500
+Universidades e as cidades mais
+
+494
+00:19:26,500 --> 00:19:28,500
+Interiors para poder trazer em caravanas
+
+495
+00:19:28,500 --> 00:19:30,500
+E depois também passar
+
+496
+00:19:30,500 --> 00:19:32,500
+Para essas caravanas, quais as regras
+
+497
+00:19:32,500 --> 00:19:34,500
+Para participar do evento e evitar tumulto
+
+498
+00:19:34,500 --> 00:19:36,500
+No dia, como confirmasse a descrição
+
+499
+00:19:36,500 --> 00:19:38,500
+Essas coisas
+
+500
+00:19:42,500 --> 00:19:44,500
+E agora no FGSL também
+
+501
+00:19:44,500 --> 00:19:46,500
+A gente resolveu criar um novo UGT
+
+502
+00:19:46,500 --> 00:19:48,500
+Como já não fosse bastante
+
+503
+00:19:48,500 --> 00:19:50,500
+Que é o GT de inscrições
+
+504
+00:19:50,500 --> 00:19:52,500
+E até o dia do evento também não trabalha praticamente nada
+
+505
+00:19:52,500 --> 00:19:54,500
+Mas no dia
+
+506
+00:19:54,500 --> 00:19:56,500
+É extremamente crítico a cresção das inscrições
+
+507
+00:19:56,500 --> 00:19:58,500
+Então a gente percebeu muito isso aqui nos eventos
+
+508
+00:19:58,500 --> 00:20:00,500
+Torter Livre em Goiás, que chegava no dia
+
+509
+00:20:00,500 --> 00:20:02,500
+Forma aquela fila imensa lá
+
+510
+00:20:02,500 --> 00:20:04,500
+Com questão de talvez meia hora
+
+511
+00:20:04,500 --> 00:20:06,500
+40 minutos, mas que vira tumulto
+
+512
+00:20:06,500 --> 00:20:08,500
+Tá tentando planejar antes para
+
+513
+00:20:08,500 --> 00:20:10,500
+Tentar evitar mais isso daí
+
+514
+00:20:10,500 --> 00:20:12,500
+Colocar mais pessoas para trabalhar e um serviço
+
+515
+00:20:12,500 --> 00:20:14,500
+Jamais planejado para não deixar aquela coisa
+
+516
+00:20:14,500 --> 00:20:16,500
+Para de última hora as inscrições
+
+517
+00:20:16,500 --> 00:20:18,500
+Basicamente os grupos de trabalho que a gente tem
+
+518
+00:20:18,500 --> 00:20:20,500
+Em separados são esses
+
+519
+00:20:20,500 --> 00:20:22,500
+E além disso entra a coordenação geral
+
+520
+00:20:22,500 --> 00:20:24,500
+Geralmente acompanhada de uma vez
+
+521
+00:20:24,500 --> 00:20:26,500
+Coordenação para caso necessário
+
+522
+00:20:26,500 --> 00:20:28,500
+Representar um informador geral
+
+523
+00:20:44,500 --> 00:20:46,500
+E um evento no post do FGSL
+
+524
+00:20:46,500 --> 00:20:48,500
+De 1.800 pessoas
+
+525
+00:20:48,500 --> 00:20:50,500
+Quantas pessoas precisaram para organizar o evento
+
+526
+00:20:50,500 --> 00:20:52,500
+A nossa equipe de trabalho foi composta
+
+527
+00:20:52,500 --> 00:20:54,500
+Por 7 coordenadores de GT
+
+528
+00:20:54,500 --> 00:20:56,500
+A coordenação geral
+
+529
+00:20:56,500 --> 00:20:58,500
+E mais a vice-coordenação
+
+530
+00:20:58,500 --> 00:21:00,500
+Então basicamente os coordenadores
+
+531
+00:21:00,500 --> 00:21:02,500
+Que encabeçaram o mesmo evento foram 9 pessoas
+
+532
+00:21:02,500 --> 00:21:04,500
+Se a gente for contar os colaboradores
+
+533
+00:21:04,500 --> 00:21:06,500
+Que cada grupo de trabalho tinha
+
+534
+00:21:06,500 --> 00:21:08,500
+Eu acredito que deve ter chegado em torno de umas 25
+
+535
+00:21:08,500 --> 00:21:10,500
+30 pessoas organizando todo o avião
+
+536
+00:21:10,500 --> 00:21:12,500
+O que tipo de restrição a gente tem
+
+537
+00:21:12,500 --> 00:21:14,500
+Para organizar um evento na comunidade
+
+538
+00:21:14,500 --> 00:21:16,500
+Sim, para a gente organizar um evento
+
+539
+00:21:16,500 --> 00:21:18,500
+Em uma comunidade independente do tipo
+
+540
+00:21:18,500 --> 00:21:20,500
+Da comunidade
+
+541
+00:21:20,500 --> 00:21:22,500
+Quando você representa uma comunidade
+
+542
+00:21:22,500 --> 00:21:24,500
+Você está falando em prol da comunidade
+
+543
+00:21:24,500 --> 00:21:26,500
+Não é a sua opinião que tem que passar
+
+544
+00:21:26,500 --> 00:21:28,500
+Você não tem que organizar um evento
+
+545
+00:21:28,500 --> 00:21:30,500
+De acordo com o que você pensa
+
+546
+00:21:30,500 --> 00:21:32,500
+Então isso é muito complicado
+
+547
+00:21:32,500 --> 00:21:34,500
+Porque talvez você tenha uma visão geral
+
+548
+00:21:34,500 --> 00:21:36,500
+Do que você acha que a comunidade pensa
+
+549
+00:21:36,500 --> 00:21:38,500
+E quando você toma uma determinada atitude
+
+550
+00:21:38,500 --> 00:21:40,500
+Os membros lá que talvez são meio do contra
+
+551
+00:21:40,500 --> 00:21:42,500
+Resolve dizer que não está bom
+
+552
+00:21:42,500 --> 00:21:44,500
+Daquele jeito, quer fazer de outra forma
+
+553
+00:21:44,500 --> 00:21:46,500
+E daí você tem que ser diplomático
+
+554
+00:21:46,500 --> 00:21:48,500
+Você tem que suportar
+
+555
+00:21:48,500 --> 00:21:50,500
+Talvez as críticas indevidas de algumas pessoas
+
+556
+00:21:50,500 --> 00:21:52,500
+E ponderar muito bem as coisas
+
+557
+00:21:52,500 --> 00:21:54,500
+Às vezes se é pertinente
+
+558
+00:21:54,500 --> 00:21:56,500
+Se realmente é relevante
+
+559
+00:21:56,500 --> 00:21:58,500
+Talvez até colocar aquilo em votação
+
+560
+00:21:58,500 --> 00:22:00,500
+Na comunidade, ver se o que o pessoal acha
+
+561
+00:22:00,500 --> 00:22:02,500
+Qual que é a opinião de maioria
+
+562
+00:22:02,500 --> 00:22:04,500
+Então eu acho que uma das coisas mais
+
+563
+00:22:04,500 --> 00:22:06,500
+Difície de se organizar um evento
+
+564
+00:22:06,500 --> 00:22:08,500
+Representando uma comunidade
+
+565
+00:22:08,500 --> 00:22:10,500
+É isso, que você tem que tomar cuidado
+
+566
+00:22:10,500 --> 00:22:12,500
+Para ser imparcial
+
+567
+00:22:12,500 --> 00:22:14,500
+Para não tomar lado de nenhuma
+
+568
+00:22:14,500 --> 00:22:16,500
+Em outra comunidade
+
+569
+00:22:16,500 --> 00:22:18,500
+Então tem que tomar cuidado
+
+570
+00:22:18,500 --> 00:22:20,500
+Para não tomar um lado
+
+571
+00:22:20,500 --> 00:22:22,500
+E também para poder tentar atender
+
+572
+00:22:22,500 --> 00:22:24,500
+A maior quantidade de pessoas possível
+
+573
+00:22:24,500 --> 00:22:26,500
+Que vem ali dando sugestões
+
+574
+00:22:26,500 --> 00:22:28,500
+Esse negócio seria mais
+
+575
+00:22:28,500 --> 00:22:30,500
+A parte de gerenciar pessoas
+
+576
+00:22:30,500 --> 00:22:32,500
+E esse conflito de interesses
+
+577
+00:22:32,500 --> 00:22:34,500
+Acho que interessante é que nem igreja
+
+578
+00:22:34,500 --> 00:22:36,500
+A gente precisa fazer um respeito de comunidade
+
+579
+00:22:36,500 --> 00:22:38,500
+Porque a pessoa não pode
+
+580
+00:22:38,500 --> 00:22:40,500
+Eu não vou na igreja porque lá tem um pé da mãe
+
+581
+00:22:40,500 --> 00:22:42,500
+Todo lugar que a gente vai
+
+582
+00:22:42,500 --> 00:22:44,500
+Vai ter pessoas
+
+583
+00:22:44,500 --> 00:22:46,500
+Então a gente não pode julgar
+
+584
+00:22:46,500 --> 00:22:48,500
+É complicado falar isso
+
+585
+00:22:48,500 --> 00:22:50,500
+Mas não pode se julgar uma ideologia
+
+586
+00:22:50,500 --> 00:22:52,500
+Pelos membros
+
+587
+00:22:52,500 --> 00:22:54,500
+Que os membros sempre vão ser pessoas
+
+588
+00:22:54,500 --> 00:22:56,500
+E as pessoas que corram por fácil
+
+589
+00:22:56,500 --> 00:22:58,500
+Não dá para exigir sempre que as pessoas
+
+590
+00:22:58,500 --> 00:23:00,500
+Sejam de acordo com a ideologia
+
+591
+00:23:00,500 --> 00:23:02,500
+Eu acho que você está certo
+
+592
+00:23:02,500 --> 00:23:04,500
+Quando você entra em algum lugar
+
+593
+00:23:04,500 --> 00:23:06,500
+E resolve tomar frente
+
+594
+00:23:06,500 --> 00:23:08,500
+De organizar algumas coisas
+
+595
+00:23:08,500 --> 00:23:10,500
+Talvez você não conheça o histórico
+
+596
+00:23:10,500 --> 00:23:12,500
+Daquela comunidade
+
+597
+00:23:12,500 --> 00:23:14,500
+E aí quando você começa a organizar
+
+598
+00:23:14,500 --> 00:23:16,500
+Talvez já tem um ano, dois anos que você está à frente
+
+599
+00:23:16,500 --> 00:23:18,500
+Tem pessoas que você nunca viu movê uma palha
+
+600
+00:23:18,500 --> 00:23:20,500
+Para ajudar em nada, que talvez criticou demais
+
+601
+00:23:20,500 --> 00:23:22,500
+Mas ela tem um histórico
+
+602
+00:23:22,500 --> 00:23:24,500
+Que talvez cinco, dez anos atrás ajudou alguma coisa
+
+603
+00:23:24,500 --> 00:23:26,500
+E aí aquela pessoa acha que ela tem razão
+
+604
+00:23:26,500 --> 00:23:28,500
+De criticar por resta da vida
+
+605
+00:23:28,500 --> 00:23:30,500
+Porque ela já fez alguma coisa
+
+606
+00:23:30,500 --> 00:23:32,500
+Que ela deve ser considerado
+
+607
+00:23:32,500 --> 00:23:34,500
+Claro, tem que ter respeito a esse histórico
+
+608
+00:23:34,500 --> 00:23:36,500
+Só que você tem que fazer isso também baseado
+
+609
+00:23:36,500 --> 00:23:38,500
+No tratamento de igual para igual
+
+610
+00:23:38,500 --> 00:23:40,500
+Então é normal nas comunidades você encontrar
+
+611
+00:23:40,500 --> 00:23:42,500
+Pessoas que eu já ajudei por dez anos
+
+612
+00:23:42,500 --> 00:23:44,500
+Hoje não faço mais nada
+
+613
+00:23:44,500 --> 00:23:46,500
+Mas eu já ajudei por dez anos
+
+614
+00:23:46,500 --> 00:23:48,500
+Então eu quero que me respeite
+
+615
+00:23:48,500 --> 00:23:50,500
+Eu sou o máximo em quem me desobedecer
+
+616
+00:23:50,500 --> 00:23:52,500
+Vai levar a palha
+
+617
+00:23:52,500 --> 00:23:54,500
+Eu acho que isso acontece em qualquer tipo de comunidade
+
+618
+00:23:54,500 --> 00:23:56,500
+Eu já preenzei isso mais de uma vez
+
+619
+00:23:56,500 --> 00:23:58,500
+Não só nas comunidades
+
+620
+00:23:58,500 --> 00:24:00,500
+A gente tem a ASL e a PSL
+
+621
+00:24:00,500 --> 00:24:02,500
+Esse é um grupo nacional
+
+622
+00:24:02,500 --> 00:24:04,500
+Ele tem as suas divisões
+
+623
+00:24:04,500 --> 00:24:06,500
+As regionais para cada estado
+
+624
+00:24:06,500 --> 00:24:08,500
+Dependendo do tamanho do estado, cada cidade
+
+625
+00:24:08,500 --> 00:24:10,500
+Qual que seria a diferença
+
+626
+00:24:10,500 --> 00:24:12,500
+Da ASL e PSL?
+
+627
+00:24:12,500 --> 00:24:14,500
+É, só para deixar claro
+
+628
+00:24:14,500 --> 00:24:16,500
+A ASL é a Associação de Software Livre
+
+629
+00:24:16,500 --> 00:24:18,500
+E o PSL é o Projeto de Software Livre
+
+630
+00:24:18,500 --> 00:24:20,500
+Ambos nós temos instâncias
+
+631
+00:24:20,500 --> 00:24:22,500
+Góianas, PSL eu sei que existe
+
+632
+00:24:22,500 --> 00:24:24,500
+Em um grupo nacional
+
+633
+00:24:24,500 --> 00:24:26,500
+É, só para deixar claro
+
+634
+00:24:26,500 --> 00:24:28,500
+Góianas, PSL eu sei que existe
+
+635
+00:24:28,500 --> 00:24:30,500
+Em vários estados do Brasil
+
+636
+00:24:30,500 --> 00:24:32,500
+É, PSL até onde eu sei
+
+637
+00:24:32,500 --> 00:24:34,500
+Tem a ASL que é chamada
+
+638
+00:24:34,500 --> 00:24:36,500
+Simplesmente A Associação de Software Livre
+
+639
+00:24:36,500 --> 00:24:38,500
+Que é a do Rio Grande do Sul
+
+640
+00:24:38,500 --> 00:24:40,500
+E a ASL GO, que é a nossa
+
+641
+00:24:40,500 --> 00:24:42,500
+O Projeto de Software Livre
+
+642
+00:24:42,500 --> 00:24:44,500
+Então, o PSL no caso
+
+643
+00:24:44,500 --> 00:24:46,500
+É uma forma de juntar
+
+644
+00:24:46,500 --> 00:24:48,500
+A vontade de várias organizações
+
+645
+00:24:48,500 --> 00:24:50,500
+De software livre
+
+646
+00:24:50,500 --> 00:24:52,500
+Por exemplo, em Goiás a gente tem
+
+647
+00:24:52,500 --> 00:24:54,500
+Gol Java, Gol PHP, Ubuntu Goiás
+
+648
+00:24:54,500 --> 00:24:56,500
+É uma causa de software livre
+
+649
+00:24:56,500 --> 00:24:58,500
+Mas que estão de forma separada
+
+650
+00:24:58,500 --> 00:25:00,500
+Então, o PSL é como se fosse um lugar
+
+651
+00:25:00,500 --> 00:25:02,500
+Para reunir todas as pessoas
+
+652
+00:25:02,500 --> 00:25:04,500
+E lutar em prol do Projeto de Software Livre
+
+653
+00:25:04,500 --> 00:25:06,500
+Para aquele local
+
+654
+00:25:06,500 --> 00:25:08,500
+Então, o PSL GO é um lugar
+
+655
+00:25:08,500 --> 00:25:10,500
+Onde sempre tem discussões
+
+656
+00:25:10,500 --> 00:25:12,500
+A respeito de software livre
+
+657
+00:25:12,500 --> 00:25:14,500
+Ou da liberdade de forma geral
+
+658
+00:25:14,500 --> 00:25:16,500
+Ali dentro, que às vezes saem
+
+659
+00:25:16,500 --> 00:25:18,500
+Algumas ideias que podem até ser
+
+660
+00:25:18,500 --> 00:25:20,500
+Implementadas na comunidade
+
+661
+00:25:20,500 --> 00:25:22,500
+Podem para frente sim
+
+662
+00:25:22,500 --> 00:25:24,500
+Eu diria o que é o lado jurídico
+
+663
+00:25:24,500 --> 00:25:26,500
+Do PSL
+
+664
+00:25:26,500 --> 00:25:28,500
+A ESL é uma forma de formalizar
+
+665
+00:25:28,500 --> 00:25:30,500
+O software livre dentro
+
+666
+00:25:30,500 --> 00:25:32,500
+De uma determinada instância
+
+667
+00:25:32,500 --> 00:25:34,500
+Então, as comunidades de software livre
+
+668
+00:25:34,500 --> 00:25:36,500
+Eu posso dizer isso aqui em Goiás
+
+669
+00:25:36,500 --> 00:25:38,500
+As comunidades de software livre tinham uma necessidade
+
+670
+00:25:38,500 --> 00:25:40,500
+Por exemplo, a gente vai fazer uma eventa
+
+671
+00:25:40,500 --> 00:25:42,500
+Mas o patrocinador precisa de uma nota fiscal
+
+672
+00:25:42,500 --> 00:25:44,500
+Ele precisa de um CNPJ
+
+673
+00:25:44,500 --> 00:25:46,500
+Para assinar um recebo para ele
+
+674
+00:25:46,500 --> 00:25:48,500
+Então, as comunidades goianas não tinham
+
+675
+00:25:48,500 --> 00:25:50,500
+Essa pessoa jurídica para responder
+
+676
+00:25:50,500 --> 00:25:52,500
+Foi criada a Associação Software Livre de Goiás
+
+677
+00:25:52,500 --> 00:25:54,500
+Que é uma pessoa jurídica
+
+678
+00:25:54,500 --> 00:25:56,500
+Para responder por essas organizações
+
+679
+00:25:56,500 --> 00:25:58,500
+E aí, a ESL começou a fazer
+
+680
+00:25:58,500 --> 00:26:00,500
+Movimentos de organização
+
+681
+00:26:00,500 --> 00:26:02,500
+De eventos, de tentar conseguir patrocínio
+
+682
+00:26:02,500 --> 00:26:04,500
+Para poder tentar fomentar o software livre
+
+683
+00:26:04,500 --> 00:26:06,500
+No estado
+
+684
+00:26:06,500 --> 00:26:08,500
+Interessante por crescer que pariu
+
+685
+00:26:08,500 --> 00:26:10,500
+Eu estava ouvindo Grock Podcast
+
+686
+00:26:10,500 --> 00:26:12,500
+Conheço o Grock Podcast
+
+687
+00:26:12,500 --> 00:26:14,500
+Não conheço o Grock Podcast
+
+688
+00:26:14,500 --> 00:26:16,500
+Carlos Brando e mais uma galera lá
+
+689
+00:26:16,500 --> 00:26:18,500
+Carlos Brando era do RailsBR
+
+690
+00:26:18,500 --> 00:26:20,500
+Conheço o RailsBR Podcast
+
+691
+00:26:20,500 --> 00:26:22,500
+RailsBR eu conheço
+
+692
+00:26:22,500 --> 00:26:24,500
+RailsBR Podcast já está me dindo demais
+
+693
+00:26:24,500 --> 00:26:26,500
+Eu tenho que citar pelo menos 2 podcasts
+
+694
+00:26:26,500 --> 00:26:28,500
+Em cada episódio
+
+695
+00:26:28,500 --> 00:26:30,500
+Então, no Grock Podcast
+
+696
+00:26:30,500 --> 00:26:32,500
+Eu vou colocar o link no post
+
+697
+00:26:32,500 --> 00:26:34,500
+Eles estavam falando sobre o Python
+
+698
+00:26:34,500 --> 00:26:36,500
+No Rio de Janeiro, que também tem um esquema parecido
+
+699
+00:26:36,500 --> 00:26:38,500
+Com a ESL, porque tem um CNPJ
+
+700
+00:26:38,500 --> 00:26:40,500
+Vinculado, então para conseguir
+
+701
+00:26:40,500 --> 00:26:42,500
+Eventos e essas coisas, é mais simples
+
+702
+00:26:42,500 --> 00:26:44,500
+E aproveitando aqui quais as dificuldades
+
+703
+00:26:44,500 --> 00:26:46,500
+Que a comunidade creio
+
+704
+00:26:46,500 --> 00:26:48,500
+De software livre
+
+705
+00:26:48,500 --> 00:26:50,500
+Tem hoje
+
+706
+00:26:50,500 --> 00:26:52,500
+Achei as maiores dificuldades das comunidades
+
+707
+00:26:52,500 --> 00:26:54,500
+Além do que eu já citei
+
+708
+00:26:54,500 --> 00:26:56,500
+Sempre das divergências de ideias
+
+709
+00:26:56,500 --> 00:26:58,500
+Qualquer comunidade normal onde tem humanos
+
+710
+00:26:58,500 --> 00:27:00,500
+Averá divergências de ideias
+
+711
+00:27:00,500 --> 00:27:02,500
+É que a gente precisa de representatividade
+
+712
+00:27:02,500 --> 00:27:04,500
+Perante o governo
+
+713
+00:27:04,500 --> 00:27:06,500
+Ou perante as empresas
+
+714
+00:27:06,500 --> 00:27:08,500
+E algumas pessoas têm uma visão
+
+715
+00:27:08,500 --> 00:27:10,500
+Um pouco erronea do que é o software livre
+
+716
+00:27:10,500 --> 00:27:12,500
+Tente pensar a software livre porque um software é livre
+
+717
+00:27:12,500 --> 00:27:14,500
+Qualquer um que quiser
+
+718
+00:27:14,500 --> 00:27:16,500
+E pronto, então software que não presta
+
+719
+00:27:16,500 --> 00:27:18,500
+Porque é desenvolvido por quem quer
+
+720
+00:27:18,500 --> 00:27:20,500
+Por quem é voluntário
+
+721
+00:27:20,500 --> 00:27:22,500
+Mas não é, por exemplo, se a gente for pegar um software igual
+
+722
+00:27:22,500 --> 00:27:24,500
+Debian, que é um sistema operacional
+
+723
+00:27:24,500 --> 00:27:26,500
+Tem toda uma série de regras, tem um manual
+
+724
+00:27:26,500 --> 00:27:28,500
+De colaborador, quem quer ajudar
+
+725
+00:27:28,500 --> 00:27:30,500
+Quem quer desenvolver para o sistema Debian
+
+726
+00:27:30,500 --> 00:27:32,500
+Ele vai passar por uma lista de colaboradores
+
+727
+00:27:32,500 --> 00:27:34,500
+Que vai avaliar, que vai permitir a entrada
+
+728
+00:27:34,500 --> 00:27:36,500
+De ele no desenvolvimento, toda a forma
+
+729
+00:27:36,500 --> 00:27:38,500
+Como ele deve se portar
+
+730
+00:27:38,500 --> 00:27:40,500
+Nas listas de desenvolvimento, como ele deve
+
+731
+00:27:40,500 --> 00:27:42,500
+Se portar no IRC, como deve se portar
+
+732
+00:27:42,500 --> 00:27:44,500
+No desenvolvimento, então tem toda uma série
+
+733
+00:27:44,500 --> 00:27:46,500
+De instruções de desenvolvimento
+
+734
+00:27:48,500 --> 00:27:50,500
+Existe a possibilidade da SL
+
+735
+00:27:50,500 --> 00:27:52,500
+Fazer mais eventos durante o ano
+
+736
+00:27:52,500 --> 00:27:54,500
+Além do Flissol e do FGSL?
+
+737
+00:27:54,500 --> 00:27:56,500
+Na verdade, como eu disse
+
+738
+00:27:56,500 --> 00:27:58,500
+A SL é uma organização
+
+739
+00:27:58,500 --> 00:28:00,500
+Que tenta incentivar
+
+740
+00:28:00,500 --> 00:28:02,500
+O fomento do software livre no estado
+
+741
+00:28:02,500 --> 00:28:04,500
+Então já se tem a tradição de que o
+
+742
+00:28:04,500 --> 00:28:06,500
+Flissol e o FGSL
+
+743
+00:28:06,500 --> 00:28:08,500
+Sejam eventos apoiados
+
+744
+00:28:08,500 --> 00:28:10,500
+Mas não obrigatoriamente é ela
+
+745
+00:28:10,500 --> 00:28:12,500
+Mas não é um evento SL
+
+746
+00:28:12,500 --> 00:28:14,500
+É da SL, se a SL não fizer
+
+747
+00:28:14,500 --> 00:28:16,500
+Não acontece, então coincidiu
+
+748
+00:28:16,500 --> 00:28:18,500
+Que por exemplo, esse ano eu coordenei o Flissol
+
+749
+00:28:18,500 --> 00:28:20,500
+E estou agora no FGSL
+
+750
+00:28:20,500 --> 00:28:22,500
+E por acaso, quando eu entrei na coordenação
+
+751
+00:28:22,500 --> 00:28:24,500
+Do Flissol, eu ainda não era membro da SL
+
+752
+00:28:24,500 --> 00:28:26,500
+Então, se eu não tivesse entrado após isso
+
+753
+00:28:26,500 --> 00:28:28,500
+Teria sido um evento apoiado novamente
+
+754
+00:28:28,500 --> 00:28:30,500
+Pela SL, mas que não teria sido coordenado
+
+755
+00:28:30,500 --> 00:28:32,500
+Por um membro da SL, né?
+
+756
+00:28:32,500 --> 00:28:34,500
+Então hoje, o maior apoio da SL
+
+757
+00:28:34,500 --> 00:28:36,500
+É para esses dois eventos
+
+758
+00:28:36,500 --> 00:28:38,500
+Mas já, isso tem certa movimentação
+
+759
+00:28:38,500 --> 00:28:40,500
+Na comunidade, para que sejam feitos
+
+760
+00:28:40,500 --> 00:28:42,500
+Também outros tipos de evento
+
+761
+00:28:42,500 --> 00:28:44,500
+Para que sejam levados palestras
+
+762
+00:28:44,500 --> 00:28:46,500
+Minicursos para o interior de Goiás
+
+763
+00:28:46,500 --> 00:28:48,500
+Para que seja feito todo um tour pelo estado
+
+764
+00:28:48,500 --> 00:28:50,500
+Tentando levar os conhecimentos do software livre
+
+765
+00:28:54,500 --> 00:28:56,500
+Assim, na tua visão, onde é necessário
+
+766
+00:28:56,500 --> 00:28:58,500
+Vistir pro crescimento da comunidade
+
+767
+00:28:58,500 --> 00:29:00,500
+Vistir que esses eventos grandes
+
+768
+00:29:00,500 --> 00:29:02,500
+Leva mais de mil pessoas para a sala
+
+769
+00:29:02,500 --> 00:29:04,500
+Eu estava vendo, assim, aqui em Goiás
+
+770
+00:29:04,500 --> 00:29:06,500
+Eu acho que, não sei se é Goiás
+
+771
+00:29:06,500 --> 00:29:08,500
+Não tem evento mundial do Firebird
+
+772
+00:29:08,500 --> 00:29:10,500
+Teve, sei lá, 200 pessoas
+
+773
+00:29:10,500 --> 00:29:12,500
+Onde é necessário investir
+
+774
+00:29:12,500 --> 00:29:14,500
+No crescimento desses comunidades
+
+775
+00:29:14,500 --> 00:29:16,500
+Visto que, pelo volume
+
+776
+00:29:16,500 --> 00:29:18,500
+De pessoas nesses eventos
+
+777
+00:29:18,500 --> 00:29:20,500
+Acho que as empresas deveriam começar
+
+778
+00:29:20,500 --> 00:29:22,500
+A olhar mais, por exemplo
+
+779
+00:29:22,500 --> 00:29:24,500
+Que, nem no PSOL, eu vi que vários empresas
+
+780
+00:29:24,500 --> 00:29:26,500
+Que ministram o curso de tecnologia da Informação
+
+781
+00:29:26,500 --> 00:29:28,500
+Agariaram vários novos alunos
+
+782
+00:29:28,500 --> 00:29:30,500
+No evento, eu acredito
+
+783
+00:29:30,500 --> 00:29:32,500
+Pro crescimento da comunidade
+
+784
+00:29:32,500 --> 00:29:34,500
+Hoje, aqui em Goiás, principalmente
+
+785
+00:29:34,500 --> 00:29:36,500
+No mercado, e não nas comunidades mais
+
+786
+00:29:36,500 --> 00:29:38,500
+Como você já disse, os eventos aqui
+
+787
+00:29:38,500 --> 00:29:40,500
+São grandes, e não é por acaso
+
+788
+00:29:40,500 --> 00:29:42,500
+É bem reconhecido, realmente, no PSOL
+
+789
+00:29:42,500 --> 00:29:44,500
+A gente teve pessoas que vieram do Tocantins
+
+790
+00:29:44,500 --> 00:29:46,500
+Teve gente que veio de São Paulo e veio me comprimentar
+
+791
+00:29:46,500 --> 00:29:48,500
+Ó, a gente veio de São Paulo só para o PSOL
+
+792
+00:29:48,500 --> 00:29:50,500
+Que a gente tem o PSOL em São Paulo
+
+793
+00:29:50,500 --> 00:29:52,500
+Mas o PSOL em São Paulo não dá nem 200 pessoas
+
+794
+00:29:52,500 --> 00:29:54,500
+Então, a gente conhece a fama do PSOL aqui em Goiás
+
+795
+00:29:54,500 --> 00:29:56,500
+E fez questão de vir participar aqui
+
+796
+00:29:56,500 --> 00:29:58,500
+E, por FGSL, a gente também está esperando a gente do Rio
+
+797
+00:29:58,500 --> 00:30:00,500
+Teve gente do Maranhão, que entrou em contar
+
+798
+00:30:00,500 --> 00:30:02,500
+Tocantins, que vai trazer caravana para cá
+
+799
+00:30:02,500 --> 00:30:04,500
+Justamente, pensando nesse crescimento
+
+800
+00:30:04,500 --> 00:30:06,500
+Do mercado
+
+801
+00:30:06,500 --> 00:30:08,500
+É que a gente definiu o tema do
+
+802
+00:30:08,500 --> 00:30:10,500
+Foram Grande Software Livre esse ano
+
+803
+00:30:10,500 --> 00:30:12,500
+Eu acho que pro crescimento das comunidades hoje
+
+804
+00:30:12,500 --> 00:30:14,500
+Além das pessoas interessadas, que eu acredito
+
+805
+00:30:14,500 --> 00:30:16,500
+Já tem bastante em Goiás
+
+806
+00:30:16,500 --> 00:30:18,500
+A gente precisa, então, investir nas indústrias
+
+807
+00:30:18,500 --> 00:30:20,500
+Nas empresas para que elas recebam
+
+808
+00:30:20,500 --> 00:30:22,500
+Esse software, software livre
+
+809
+00:30:22,500 --> 00:30:24,500
+E queiram fomentar, queiram patrocinar
+
+810
+00:30:24,500 --> 00:30:26,500
+Queiram pagar para desenvolvimento
+
+811
+00:30:26,500 --> 00:30:28,500
+De algum tipo de software assim
+
+812
+00:30:28,500 --> 00:30:30,500
+O tema do evento esse ano é software livre
+
+813
+00:30:30,500 --> 00:30:32,500
+Comunidade, filosofia e mercado
+
+814
+00:30:32,500 --> 00:30:34,500
+Porque tenta mostrar para as pessoas
+
+815
+00:30:34,500 --> 00:30:36,500
+Que através das comunidades
+
+816
+00:30:36,500 --> 00:30:38,500
+O software livre, através da filosofia
+
+817
+00:30:38,500 --> 00:30:40,500
+De software livre, você pode muito bem
+
+818
+00:30:40,500 --> 00:30:42,500
+Chegar o mercado com software estável
+
+819
+00:30:42,500 --> 00:30:44,500
+Que vai atender a necessidade do seu cliente
+
+820
+00:30:44,500 --> 00:30:46,500
+Vai te ter um custo muito menor
+
+821
+00:30:46,500 --> 00:30:48,500
+Vai ser um software que vai ser
+
+822
+00:30:48,500 --> 00:30:50,500
+Mais personalizável, mais customizável
+
+823
+00:30:50,500 --> 00:30:52,500
+Que talvez vai te atender a necessidade
+
+824
+00:30:52,500 --> 00:30:54,500
+Muito melhor do que um software proprietário
+
+825
+00:30:54,500 --> 00:30:56,500
+Tradicional Então, tem muitas empresas por aí
+
+826
+00:30:56,500 --> 00:30:58,500
+Com certeza estão abertas a esse tipo
+
+827
+00:30:58,500 --> 00:31:00,500
+De solução, são receptivas
+
+828
+00:31:00,500 --> 00:31:02,500
+A novas tecnologias
+
+829
+00:31:02,500 --> 00:31:04,500
+Mas não usam simplesmente porque não conhecem
+
+830
+00:31:04,500 --> 00:31:06,500
+Então, o foco esse ano do Foram Goiano
+
+831
+00:31:06,500 --> 00:31:08,500
+É tentado a esse tipo de palestra
+
+832
+00:31:08,500 --> 00:31:10,500
+Palestras que mostrem para as pessoas
+
+833
+00:31:10,500 --> 00:31:12,500
+Em si, que o software livre
+
+834
+00:31:12,500 --> 00:31:14,500
+É sustentável, que pode ser aplicado
+
+835
+00:31:14,500 --> 00:31:16,500
+Ao mercado amplamente E que mostrem também
+
+836
+00:31:16,500 --> 00:31:18,500
+Para as empresas que isso é possível acontecer
+
+837
+00:31:18,500 --> 00:31:20,500
+Então, a gente está correndo atrás de bastantes empresas
+
+838
+00:31:20,500 --> 00:31:22,500
+Tentando levá-las para dentro do evento
+
+839
+00:31:22,500 --> 00:31:24,500
+Resgatar essas empresas para dentro do evento
+
+840
+00:31:24,500 --> 00:31:26,500
+Para que elas possam ter essa noção
+
+841
+00:31:26,500 --> 00:31:28,500
+E quem sabe, né?
+
+842
+00:31:28,500 --> 00:31:30,500
+Vamos ver depois da FSCL se a gente vai conseguir um feedback melhor
+
+843
+00:31:30,500 --> 00:31:32,500
+Pois é, inclusive
+
+844
+00:31:32,500 --> 00:31:34,500
+Com relação ao tocante que tu falou
+
+845
+00:31:34,500 --> 00:31:36,500
+No FliSol, nesse FliSol desse ano
+
+846
+00:31:36,500 --> 00:31:38,500
+Teve até um palestrante, tocante nesse, sabia?
+
+847
+00:31:38,500 --> 00:31:40,500
+Não sabia, foi eu
+
+848
+00:31:48,500 --> 00:31:50,500
+Então, acho que é isso aí
+
+849
+00:31:50,500 --> 00:31:52,500
+Eu agradeço, veiamentemente, a disponibilidade
+
+850
+00:31:52,500 --> 00:31:54,500
+Do Joelys, esse é o primeiro episódio
+
+851
+00:31:54,500 --> 00:31:56,500
+De ter roubado
+
+852
+00:31:56,500 --> 00:31:58,500
+De ter roubado
+
+853
+00:31:58,500 --> 00:32:00,500
+Teve até em um, mas foi gravar o podcast
+
+854
+00:32:00,500 --> 00:32:02,500
+É claro que foi só para isso
+
+855
+00:32:02,500 --> 00:32:04,500
+Esse ano, Joelys foi para o palestrante
+
+856
+00:32:04,500 --> 00:32:06,500
+Na Latinoué
+
+857
+00:32:06,500 --> 00:32:08,500
+Fala um pouco, como foi a sua participação
+
+858
+00:32:08,500 --> 00:32:10,500
+Lá no Latinoué
+
+859
+00:32:10,500 --> 00:32:12,500
+Foi a participação legal
+
+860
+00:32:12,500 --> 00:32:14,500
+Na companhia do Shell
+
+861
+00:32:14,500 --> 00:32:16,500
+Inclusive, a gente tocou o terror
+
+862
+00:32:16,500 --> 00:32:18,500
+Lá naquela Latinoué
+
+863
+00:32:18,500 --> 00:32:20,500
+Mas não foi tranquila
+
+864
+00:32:20,500 --> 00:32:22,500
+A gente teve contato novamente com Medog
+
+865
+00:32:22,500 --> 00:32:24,500
+Mas sempre muito satisfatório
+
+866
+00:32:24,500 --> 00:32:26,500
+Tem contato com aquele pessoal da alta
+
+867
+00:32:26,500 --> 00:32:28,500
+Do software livre, pessoas importantes
+
+868
+00:32:28,500 --> 00:32:30,500
+Reconhecidos internacionalmente
+
+869
+00:32:30,500 --> 00:32:32,500
+Que quando vê a gente, não tem indiferença
+
+870
+00:32:32,500 --> 00:32:34,500
+Faz questão de cumprimentar
+
+871
+00:32:34,500 --> 00:32:36,500
+De desperdiçar um pouco do valioso
+
+872
+00:32:36,500 --> 00:32:38,500
+O tempo dele, para poder conversar
+
+873
+00:32:38,500 --> 00:32:40,500
+Um pouco com a gente
+
+874
+00:32:40,500 --> 00:32:42,500
+E não só por isso, mas as palestras
+
+875
+00:32:42,500 --> 00:32:44,500
+Esse ano, foram agregar bastante conteúdo
+
+876
+00:32:44,500 --> 00:32:46,500
+Tinha um palestrante de peso, de renome
+
+877
+00:32:46,500 --> 00:32:48,500
+E até essa América Latina
+
+878
+00:32:48,500 --> 00:32:50,500
+Espalhado por lá
+
+879
+00:32:50,500 --> 00:32:52,500
+Por vezes aquele negócio, você escutava espanhol
+
+880
+00:32:52,500 --> 00:32:54,500
+Para todo lado, já escutava inglês
+
+881
+00:32:54,500 --> 00:32:56,500
+O Shell não dizia que a gente escutava até árabe lá
+
+882
+00:32:56,500 --> 00:32:58,500
+Quero por falar em Guarani
+
+883
+00:32:58,500 --> 00:33:00,500
+Era uma língua estranha aqui, viu
+
+884
+00:33:00,500 --> 00:33:02,500
+Mas foi legal, as palestras
+
+885
+00:33:02,500 --> 00:33:04,500
+Minha e do Shell também, foram bastante legais
+
+886
+00:33:04,500 --> 00:33:06,500
+Apesar do horário que colocaram a gente
+
+887
+00:33:06,500 --> 00:33:08,500
+Teve um público até legal
+
+888
+00:33:08,500 --> 00:33:10,500
+O Shell não palestra as 11 horas, eu palestrei ao meio dia
+
+889
+00:33:10,500 --> 00:33:12,500
+Pouco de vetar um moçano, mas não
+
+890
+00:33:12,500 --> 00:33:14,500
+Tava lá firme, assistindo palestras
+
+891
+00:33:14,500 --> 00:33:16,500
+É isso que eu gosto de nerd, inclusive
+
+892
+00:33:16,500 --> 00:33:18,500
+O negócio de saber em muitas línguas também é coisa de nerd
+
+893
+00:33:18,500 --> 00:33:20,500
+Dá uma palhinha para a gente em Guarani
+
+894
+00:33:20,500 --> 00:33:22,500
+Vocês aprimos é correto, mas
+
+895
+00:33:22,500 --> 00:33:24,500
+Coe vi ora é retamar
+
+896
+00:33:24,500 --> 00:33:26,500
+O que você disse?
+
+897
+00:33:26,500 --> 00:33:28,500
+Eu estou com sede
+
+898
+00:33:28,500 --> 00:33:30,500
+Não, brincadeira
+
+899
+00:33:30,500 --> 00:33:32,500
+É porque você está no brazão
+
+900
+00:33:32,500 --> 00:33:34,500
+Da no brazão do Tocantins
+
+901
+00:33:34,500 --> 00:33:36,500
+É só terrenosso
+
+902
+00:33:36,500 --> 00:33:38,500
+Essa é a decedente de India e no Vale
+
+903
+00:33:38,500 --> 00:33:40,500
+Valeu Julius, o lanche estava bom
+
+904
+00:33:40,500 --> 00:33:42,500
+Valeu
+
+905
+00:33:42,500 --> 00:33:44,500
+Hellsum
+
+906
+00:33:44,500 --> 00:33:46,500
+Quando quiser lanchar de novo, estamos na disposição
+
+907
+00:33:46,500 --> 00:33:48,500
+Pode vir aí que
+
+908
+00:33:48,500 --> 00:33:50,500
+A cidade está esperando
+
+909
+00:33:50,500 --> 00:33:52,500
+Fazer o lanche interurbando
+
+910
+00:33:52,500 --> 00:33:54,500
+Tem de Guarani para cá para lanchar
+
+911
+00:33:54,500 --> 00:33:56,500
+Compensa
+
+912
+00:33:56,500 --> 00:33:58,500
+E um abraço para o Sheldon também
+
+913
+00:33:58,500 --> 00:34:00,500
+Não quis vir, quem tem pensão não pode citar
+
+914
+00:34:16,500 --> 00:34:20,500
+Seu coração falará por mim
+
+915
+00:34:20,500 --> 00:34:24,500
+Um big big love me leva
+

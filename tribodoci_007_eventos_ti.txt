@@ -1,0 +1,915 @@
+Você está ouvindo a Tribo do Sei e Quantes Quereses
+Tribo do Sei, episódio 7, para o dia 26 de novembro de 2010
+Porque festa de nerd é evento de TI!
+Meu nome é Sebastian Hells e eu comecei...
+Mexei com eventos com VDC
+Opa! Meu nome é Alemão e eu sou o mini new da ZAR
+Meu nome é Sheldon Led e o melhor do evento está nos corredores
+É isso aí, mano
+O meu é no onclick
+Cadê o Joelys, pô?
+Ele foi no banheiro e já volta
+Tá bom, vamos ver o Ziniz enquanto ele se paga
+E o Sheldon Led foi para o latino, ué?
+E o que que aconteceu lá no latino, ué?
+Gafanhoto
+Bom, a primeira coisa é que agora eu sou um androider
+Que seria um androider?
+Uma pessoa que tem um celular com androide
+Ai, mas como?
+Então, comprei meu motorola Maison, fiz um mini review dele lá no blog
+Sim, eu gravei uns vídeos nele também
+E aí, eu sei, estou achando o máximo assim
+Eu também estou com um guide novo
+Qual que é?
+É um Saimi 660, eu vou postar algumas fotos dele depois dele para a galera apreciar
+Vou fazer um review também
+Então tá bom, vamos ver
+A gente não perde por esperar
+Bom, e por falar em vídeos, eu gravei um vídeo lá na sala dos palestrantes
+Que eu também fui um palestrante, ué?
+Ah, um vídeo pedante para cá
+Pois é, eu fui palestrante na Latinué
+Eles aceitaram minha palestra
+E como eu tinha falado no episódio anterior
+E gravei um vídeo e eu inclusive tenho uma errada no vídeo
+Você acredita que eu ainda fui capaz de ir lá no vídeo?
+Até no vídeo, cara
+Aí eu...
+O que eu ouvi é que você não era um palestrante?
+Não, nem tanto também
+Não, não era eu, não era eu
+Pô, eu só falo aqui
+Bom, o eu foi o seguinte, que eu tava lá o Mad Dog e o Dogo McLaren
+Que eram os dois estrelas do evento
+Falei assim que o Dogo McLaren fez umas paradas de redes
+Mas não tem nada a ver com redes
+O Dogo McLaren fez alguns dos principais programas do sistema Unix Like
+Você sabe identificar algum? Você lembra de algum? Conhecer?
+Eu só conheço uns que o Richard Digital Mo'Face
+Ah, isso foi pedante
+Aquele tal de Spick lá
+É aquele... Mesmo coisa de Spick
+Aquele programa que conversa com você
+Faz perguntas difíceis, né?
+Valeu, mano, eu escreveu vários artigos aí a respeito
+É verdade
+Speed to text
+Sim
+Mas eu...
+É porque tu não é cego, nem...
+Que não precisa usar essas coisas
+É verdade, é verdade
+Não, mas o primeiro...
+O principal programa que ele fez assim mesmo
+Que o pessoal mais conhece é o Diff, sabe Diff?
+Então, foi esse aí
+Mas ele criou o conceito do Pipe, sabe?
+Porque você faz um comando, Pipe e outro comando
+Foi ele que fez também
+Então, aí foi esse aí
+Como é que foi a palestra lá?
+Enrolou tudo bem?
+O Data Show não deu problema, não?
+Pelo menos
+Primeiro que a palestra, eles...
+Eu tive que improvisar lá um pouco, tal
+Mas foi demais, foi bom
+Teu deu um pouquinho errado
+No virtual box não estava funcionando
+Teve recompilar o Kerala, não?
+Mais ou menos
+Era só... Não, eu fiz um artigo também
+Se eu quiser seguir
+Foi, foi mais ou menos isso, sim
+Lá deu certo
+Não, mas deu tudo bem
+Aí tinha uns...
+Tinha uns povos lá que falavam...
+Só se não entendia espanhol
+Aí foi, tipo, foi complicado pra eles
+É, porque tem um feedback, sabe?
+Ele... No final, ainda a palestra
+Eles te mandaram um papelzinho lá, você escreve
+Aí teve lá, deu pra ver
+Mas foi tudo bem
+O pessoal gostou
+As duas pessoas estavam lá gostando
+Você fala algumas coisas espanholas
+Tico?
+Van Ardott?
+Na Carpeta
+Tinha Carpeta?
+É pasta
+Eu sei também desse cara
+O que é?
+Esse cara, o que é carregado?
+Da download
+É isso, eu também fiz
+Eu tenho um amigo que moro no Chile
+É?
+Eu tenho um amigo que moro no Estados Unidos
+Sabe qual é o nome dele?
+João Paulo do Netcash?
+Não
+Não será?
+É...
+Tinha um Mad Dog, Raul
+Ah, bom
+Você não sabia que ele é meu amigo?
+Que bom
+É, porque ele até me chamou pra tomar uma cerveja
+Lá na Canspar, enfim
+Que bom
+Tá certo, vou deixar o link no post lá
+Eu tenho provas
+Tá no Facebook
+Eu não duvido não
+Então, aí foi esse aí, cara
+Também teve...
+Ah, eu também comprei uma camiseta
+De colaborador
+Débio
+Agora eu sou oficialmente colaborador Débio
+Rolou nepotismo?
+Essas coisas a gente não pode comentar
+Bom, e por fim
+Como toda vez que a gente vai lá
+Eu fui no Paraguai e na Argentina
+Para quê?
+Paraguai
+Isso aí foi o meu feedback da minha viagem
+Pra ferra da tripe esse ponto aí
+Pô, se a gente tá lá no teu apê
+Tem dita até amanhecer
+Pô, se a gente tá lá no teu apê
+Pode aparecer
+Vai rolar os estados de pô, se a gente tá lá no teu apê
+Então vou falar no nosso blog aí que você não sabe
+Pô, você acredita que a gente conseguiu bater nossa meta?
+Mil visitantes únicos nesse mês
+Na verdade foi mais de mil
+Mais de mil
+Isso, mais de mil
+Hoje eu também consegui bater meia meta
+Ah, é verdade, rapaz
+Hoje foi um momento muito importante na vida do alemão, sabia?
+O que foi ele?
+Qual que foi a meta?
+Qual que foi a meta?
+Qual que foi a meta?
+Qual que foi a meta?
+Não, a meta foi...
+Não, vou deixar ele falar
+Eu só sei que eu twittei um minuto antes dele conseguir
+Eu zoarei o Half-Life
+Todos, todos Half-Life
+Você acredita nisso, cara?
+Vamo pro próximo momento
+Então vamos falar de Fórum Goinho de Software Livre
+Vamos lá
+Esse podcast é o oferecimento FGSL
+Fórum Goinho de Software Livre
+NUX
+O oferecimento fixo, né?
+NUX é mais alguma coisa
+O Fórum Goinho de Software Livre
+Vai acontecendo dia 10 e 11 de...
+9 de dezembro
+Nesse episódio fala correto
+Porque no outro ele falou um mês antes
+10 e 11 de dezembro
+Vai ser na segunda sexta e no segundo sábado de dezembro
+E vão ter palestrantes de vários lugares do país
+Você acredita nisso?
+Acredito, cara, é exclusivo
+Na nossa conversa com Joelias lá
+Tem vários dados interessantes
+Você, Prezário, Ituboyana e Região
+Fiquem de olho nessa entrevista
+É isso aí, nós vamos entrevistar o Joelias
+E já já eles vocês vão parar de ver nossas vozes enjoadas
+E vão ouvir o que ele tem a dizer
+Mantem seus feedbacks por e-mail, por Twitter
+Sinal de fumaça
+Fica à vontade pra mandar aí
+O importante é...
+Não é que seja só um joelhinho, valeu?
+Não escutei
+Beleza? Que a gente fica feliz
+Eu acho que eu vou começar a colocar...
+Eu acho que...
+Não sei porque...
+Não tem uma coisa mais fácil que você escrever um comentário
+Só sei lá, é escrever e colocar
+Mas tem aqueles cliques também
+Já vendo a ferramenta do blogger
+Se tem um lá interessante
+O que você achou interessante?
+Você só clica lá
+Aí...
+Acho que eu vou procurar um plugin desse pro WordPress
+Porque a gente tem um feedback maior
+Porque a gente tá em média de 60, 70 downloads por enquanto
+E o pessoal não deu feedback até agora
+A gente tá sentindo falta de vocês
+A gente gosta de vocês pra caramba mesmo
+Por favor, música sentimental
+Eu vou colocar a música do Hulk, que legal
+É isso aí
+É, eu mesmo não gosto de ficar digitando um comentário
+Geralmente eu comento nos joinha, nas estrelinhas
+Tudo que é fácil, já tocando mouse, volar e clipe
+Pode ser mouse que for
+Que eu faço isso
+Você dá uma preguiça de comentar
+Mas comenta lá, é bom
+Você que não é assim, faz isso pra gente
+É porque a gente é meio old school
+A gente é da época do e-mail e tal
+Eu uso multi fazemos e-mails de newsgroup
+Pô
+Conheço multi
+Então vamos para o episódio 7 com o Joelias
+Vou deixar vocês agora sós
+Bom proveito
+Vocês ficarem mais à vontade
+Eu vou ter que dar uma cairdinha
+Eu e o alemão
+Eu vou ficar sós, com quem sós, com o Joelias
+Quem sós com o Joelias, eu vou sair com o alemão
+Vocês vão encontrar os lotes também no caminho
+É isso aí, eu acho que é muito legal
+É isso aí, eu acho que a gente tá aí
+Tô trazido
+E não deixem de ir pro Fórum Goiano
+De sorte ou alegre
+Quando vocês ouvirem esse postcast
+Provavelmente as instruções vão estar abertas
+Vocês vão lá, se inscrevam
+O link vai estar abaixo no post
+E não deixem de perder, esse vai ser uma grande festa
+Um grande encontro
+E nós vamos estar lá, vamos...
+Assista a minha palestra
+Sim, valeu
+Então, a gente provei o episódio passado
+É de Rio, onde eu tô?
+Em um, mas...
+Olá, Wilson, tudo bom?
+É um prazer estar aqui com vocês
+Gravando esse podcast
+Meu nome é Joelias
+Acho que eu sou mais conhecido das comunidades de Software Livre
+E hoje eu tô na frente da organização
+Do sétimo Fórum Goiano
+Do Software Livre
+Então, vamos às perguntas
+Então, como a organização vem a qual a parte mais crítica
+Mais delicada esse processo
+Olha, Wilson, é...
+A organização é vento, eu admito que não é fácil
+A gente tem que ter já gosto, né
+Em querer fazer, tem que seguir bastante
+Principalmente, no meu caso
+É a organização de eventos de Software Livre
+Que valha extremamente voluntário
+Você não vai ter nenhum retorno financeiro por aquilo ali
+Então, eu costumo dizer que
+É muito incentivo para organizar eventos
+Eventos de Software Livre, onde a gente é voluntário
+É o conhecimento que a gente adquira
+Nesses eventos e o reconhecimento que a gente tem
+Depois, né, com o resultado do evento
+Eu poderia dizer que essa é justamente
+A parte mais crítica, a questão de a gente ser voluntário
+Então, você tem que lidar com pessoas
+Você tem que pedir uma pessoa
+Pra te ajudar no evento
+Sem ter nenhum retorno financeiro por aquilo ali
+E ter que cobrar, talvez, dessas pessoas
+A pessoa não é porque ela tá ajudando
+Como voluntário, né, porque ela não tá tendo nenhum retorno financeiro
+Que ela vai deixar de fazer
+A tarefa que ela se propôs
+Da maneira de melhor qualidade, né
+Então, a gente tem que aprender
+A cobrar, mas também
+Você tem que ter cuidado com aquilo ali
+Porque se você cobra de uma forma inapropriada
+A pessoa acaba de desistir também
+Na primeira vez que eu organize um evento com você
+Tchau, né
+O que seria um GT?
+Bom, os GTs
+Eles são grupos de trabalho
+É extremamente importante
+Pra organização do evento
+Que a gente divida o evento em grupos de trabalho
+É uma forma de você dividir pra conquistar
+O famoso dividir pra conquistar
+Então, divide as tarefas conforme
+As áreas serem executadas
+Por exemplo, um grupo de trabalho pra temário
+Outro grupo de trabalho pra infraestrutura
+E dentro desse grupo de trabalho
+A gente procura alocar pelo menos um coordenador
+Daquele grupo, e conforme as pessoas
+Vão se disponibilizando pra poder ajudar
+Na organização do evento
+A gente vai agregando colaboradores
+A cada grupo de trabalho
+Seria uma célula grupo de trabalho, né
+Exatamente, é como se fossem
+Partes pequenas, né
+Que subdivis células mesmo
+Que vão componer organização completa
+Eu sempre assisti o aprendiz
+Eu nunca tinha visto esse termo
+Não aprendi no organizar evento
+Eu não aprendi no organização
+Quantos grupos de trabalho devem ter
+Pra subdividir bem as tarefas assim
+E quais seriam
+As tarefas básicas, né
+E quais seriam esses grupos
+Eu vou falando então, você vai contando
+Quantos grupos de trabalho
+Mas, basicamente pra gente
+Dividir bem as tarefas
+Claro que quando tem necessidade
+Quando você tem a equipe menor
+Dá pra, talvez, agregar
+Eu gosto de trabalhar da seguinte forma
+Um grupo de trabalho de infraestrutura
+Que é o grupo que vai cuidar da infraestrutura
+Da evento
+Mas, tentando ser um pouco mais específico
+O grupo de infraestrutura geralmente
+Ele fica responsável pela sinalização
+Pela logística que vai acontecer
+No dia do evento
+Não tem o grupo que geralmente
+No decorrer da organização do evento
+Tem muito pouco trabalho
+Mas que no dia do evento
+É o grupo que mais trabalha
+Sem pré-evento
+Basicamente, entrar em contato com o restaurante
+Pra ver um restaurante próximo
+Que possa receber
+Então cuidar da segação de infraestrutura mesmo
+Saber se o local onde vai receber o evento
+Se tem essa capacidade, né
+De receber anchonete
+Se tem capacidade de receber o quantidade
+De participantes oficientes, restaurante
+Entrar em contato com o hotel
+Talvez transporte
+Se for necessário
+O outro grupo de trabalho
+Avaliação, né
+E também, claro, de entrar em contato
+Com o palestrante
+Inicialmente, também não tem tanto serviço
+Temário, mas a partir do momento que se abre
+A chamada de trabalho já começa a trabalhar
+Bastante, eu diria que
+Junto do grupo de trabalho da organização
+Mesmo do grupo de trabalho geral
+É um dos que tem mais trabalho
+Mesmo um grupo de temário
+Coordenador de temário
+Talvez até os colaboradores
+Tem que entrar bastante em contato com os palestrantes
+Por exemplo, nós tivemos quase 50 palestrantes
+Por FGSL agora provavelmente
+Teremos retorno de 50, 60 palestrantes
+Então é meio bombando o tempo inteiro
+Na caixa de mensagens do temário
+E uma grade pra montar
+A palestra pra avaliar
+Melhorias pra sugerir pros palestrantes
+Tem bastante serviço também
+Um outro grupo de trabalho
+Seria o de divulgação
+Que talvez, dependendo
+Da quantidade de pessoas, poderia até ficar junto
+Com o grupo de patrocínio
+Porque o de divulgação
+Vira que é um trabalho um pouco mais
+Funcional, né?
+Se você é um pouco mais profissional
+Não mais flexível, digamos, melhor assim
+Se você não tem tempo pra trabalhar durante o dia
+Você pode trabalhar durante a noite
+Você pode fazer divulgação online
+Se você precisa de algum lugar e divulgar
+É uma coisa mais flexível também
+E o patrocínio, que é
+Justamente você entrar em contato
+Com os patrocinadores
+Eles teriam interesse de adquirir
+E, claro, também receber dos patrocinadores
+O pessoal desse negócio de cotas
+Esse é um padrão
+Porque eu sempre vejo cotas gold, silver
+É...
+Não, as cotas
+É bem a critério de cada evento
+Mesmo, né? Que a gente organiza
+Aqui em Goiás, eu acho que
+Prisamente, pros eventos software livre
+A gente já acostumou que todo evento
+Tem sempre cotas ouro, prata e bronze
+Mais do que isso pra colocar lá um diamante
+Um latão da vida, né?
+Mas essas três cotas eu acho que estão suficientes
+A gente estabelece o valor das cotas
+Baseado nas necessidades financeiras
+Do evento, então, antes de
+Lançar uma chamada de patrocínio
+A gente faz todo um levantamento dos gastos
+Do evento, né? O que a gente acha que vai ser
+Necessário adquirir
+O que vai ser necessário locar e tal
+E, baseado naquilo ali, a gente pra, por exemplo
+Esse evento vai ser necessário 5 mil reais
+Então, pra esse 5 mil, a gente pode dividir
+Tantas cotas ouro, tantas prata e tantas bronze
+E aí, estupula os valores pra cada cota, né?
+E a diferenciação das cotas
+Nessa ouro, prata e bronze
+É que quem tem a ouro pode tudo, né?
+O patrocinador geralmente tem direito
+A ministra palestra no evento
+Ele pode distribuir material à vontade
+Ele pode colocar banner no auditório
+E daí, conforme vai diminuindo
+Os metais aí, né? Vai, vai
+Tirando as prioridades
+A prata já não tem direito de colocar banner
+No auditório
+Não tem direito a julgar, mas não tem direito
+A palestra no dia, então
+Esses critérios, assim, que a gente também pode mudar
+Pra cada evento
+E sobre os kiosks que ficam dentro do evento
+Também entrando na parte de cotas
+É uma negociação diferente
+Os kiosks de patrocinadores
+Eles estão, pelo menos, dos eventos que eu já organizei
+Eu sempre estabeleço como parte da cota
+Quem adquire a cota ouro tem direito
+A montar o stand dele lá, né?
+No caso da FGSL, a gente vai ter
+A participação da Linux Magazine
+Que deve vir colocar um kiosk lá
+Não é patrocinadora, mas já entra como
+Um apoio, em vez de um colaborador
+E os demais grupos de trabalho que a gente tem
+A gente tem um grupo de
+Trabalho de Secretaria
+Que por não demandar tanto serviço
+Geralmente acaba ficando junto
+Com um grupo de infraestrutura também
+Que é quem deveria cuidar do dinheiro
+E fazer os serviços de usuaria
+Correr atrás de saber o preço das coisas
+E comprar as
+As coisas necessárias
+Ou colocar amizas, as questões
+A gente tem um grupo também de desenvolvimento
+Que é as pessoas responsáveis
+Por cuidar do site
+Talvez precisa de criar um cadastro
+Para a inscrição das pessoas no evento
+De emitir certificado
+Fico com responsabilidade do UGT de desenvolvimento
+A gente tem também o UGT
+De caravanas, né?
+Que é uma pessoa que é responsável só por entrar em contato
+E mandar e-mail para as
+Universidades e as cidades mais
+Interiors para poder trazer em caravanas
+E depois também passar
+Para essas caravanas, quais as regras
+Para participar do evento e evitar tumulto
+No dia, como confirmasse a descrição
+Essas coisas
+E agora no FGSL também
+A gente resolveu criar um novo UGT
+Como já não fosse bastante
+Que é o GT de inscrições
+E até o dia do evento também não trabalha praticamente nada
+Mas no dia
+É extremamente crítico a cresção das inscrições
+Então a gente percebeu muito isso aqui nos eventos
+Torter Livre em Goiás, que chegava no dia
+Forma aquela fila imensa lá
+Com questão de talvez meia hora
+40 minutos, mas que vira tumulto
+Tá tentando planejar antes para
+Tentar evitar mais isso daí
+Colocar mais pessoas para trabalhar e um serviço
+Jamais planejado para não deixar aquela coisa
+Para de última hora as inscrições
+Basicamente os grupos de trabalho que a gente tem
+Em separados são esses
+E além disso entra a coordenação geral
+Geralmente acompanhada de uma vez
+Coordenação para caso necessário
+Representar um informador geral
+E um evento no post do FGSL
+De 1.800 pessoas
+Quantas pessoas precisaram para organizar o evento
+A nossa equipe de trabalho foi composta
+Por 7 coordenadores de GT
+A coordenação geral
+E mais a vice-coordenação
+Então basicamente os coordenadores
+Que encabeçaram o mesmo evento foram 9 pessoas
+Se a gente for contar os colaboradores
+Que cada grupo de trabalho tinha
+Eu acredito que deve ter chegado em torno de umas 25
+30 pessoas organizando todo o avião
+O que tipo de restrição a gente tem
+Para organizar um evento na comunidade
+Sim, para a gente organizar um evento
+Em uma comunidade independente do tipo
+Da comunidade
+Quando você representa uma comunidade
+Você está falando em prol da comunidade
+Não é a sua opinião que tem que passar
+Você não tem que organizar um evento
+De acordo com o que você pensa
+Então isso é muito complicado
+Porque talvez você tenha uma visão geral
+Do que você acha que a comunidade pensa
+E quando você toma uma determinada atitude
+Os membros lá que talvez são meio do contra
+Resolve dizer que não está bom
+Daquele jeito, quer fazer de outra forma
+E daí você tem que ser diplomático
+Você tem que suportar
+Talvez as críticas indevidas de algumas pessoas
+E ponderar muito bem as coisas
+Às vezes se é pertinente
+Se realmente é relevante
+Talvez até colocar aquilo em votação
+Na comunidade, ver se o que o pessoal acha
+Qual que é a opinião de maioria
+Então eu acho que uma das coisas mais
+Difície de se organizar um evento
+Representando uma comunidade
+É isso, que você tem que tomar cuidado
+Para ser imparcial
+Para não tomar lado de nenhuma
+Em outra comunidade
+Então tem que tomar cuidado
+Para não tomar um lado
+E também para poder tentar atender
+A maior quantidade de pessoas possível
+Que vem ali dando sugestões
+Esse negócio seria mais
+A parte de gerenciar pessoas
+E esse conflito de interesses
+Acho que interessante é que nem igreja
+A gente precisa fazer um respeito de comunidade
+Porque a pessoa não pode
+Eu não vou na igreja porque lá tem um pé da mãe
+Todo lugar que a gente vai
+Vai ter pessoas
+Então a gente não pode julgar
+É complicado falar isso
+Mas não pode se julgar uma ideologia
+Pelos membros
+Que os membros sempre vão ser pessoas
+E as pessoas que corram por fácil
+Não dá para exigir sempre que as pessoas
+Sejam de acordo com a ideologia
+Eu acho que você está certo
+Quando você entra em algum lugar
+E resolve tomar frente
+De organizar algumas coisas
+Talvez você não conheça o histórico
+Daquela comunidade
+E aí quando você começa a organizar
+Talvez já tem um ano, dois anos que você está à frente
+Tem pessoas que você nunca viu movê uma palha
+Para ajudar em nada, que talvez criticou demais
+Mas ela tem um histórico
+Que talvez cinco, dez anos atrás ajudou alguma coisa
+E aí aquela pessoa acha que ela tem razão
+De criticar por resta da vida
+Porque ela já fez alguma coisa
+Que ela deve ser considerado
+Claro, tem que ter respeito a esse histórico
+Só que você tem que fazer isso também baseado
+No tratamento de igual para igual
+Então é normal nas comunidades você encontrar
+Pessoas que eu já ajudei por dez anos
+Hoje não faço mais nada
+Mas eu já ajudei por dez anos
+Então eu quero que me respeite
+Eu sou o máximo em quem me desobedecer
+Vai levar a palha
+Eu acho que isso acontece em qualquer tipo de comunidade
+Eu já preenzei isso mais de uma vez
+Não só nas comunidades
+A gente tem a ASL e a PSL
+Esse é um grupo nacional
+Ele tem as suas divisões
+As regionais para cada estado
+Dependendo do tamanho do estado, cada cidade
+Qual que seria a diferença
+Da ASL e PSL?
+É, só para deixar claro
+A ASL é a Associação de Software Livre
+E o PSL é o Projeto de Software Livre
+Ambos nós temos instâncias
+Góianas, PSL eu sei que existe
+Em um grupo nacional
+É, só para deixar claro
+Góianas, PSL eu sei que existe
+Em vários estados do Brasil
+É, PSL até onde eu sei
+Tem a ASL que é chamada
+Simplesmente A Associação de Software Livre
+Que é a do Rio Grande do Sul
+E a ASL GO, que é a nossa
+O Projeto de Software Livre
+Então, o PSL no caso
+É uma forma de juntar
+A vontade de várias organizações
+De software livre
+Por exemplo, em Goiás a gente tem
+Gol Java, Gol PHP, Ubuntu Goiás
+É uma causa de software livre
+Mas que estão de forma separada
+Então, o PSL é como se fosse um lugar
+Para reunir todas as pessoas
+E lutar em prol do Projeto de Software Livre
+Para aquele local
+Então, o PSL GO é um lugar
+Onde sempre tem discussões
+A respeito de software livre
+Ou da liberdade de forma geral
+Ali dentro, que às vezes saem
+Algumas ideias que podem até ser
+Implementadas na comunidade
+Podem para frente sim
+Eu diria o que é o lado jurídico
+Do PSL
+A ESL é uma forma de formalizar
+O software livre dentro
+De uma determinada instância
+Então, as comunidades de software livre
+Eu posso dizer isso aqui em Goiás
+As comunidades de software livre tinham uma necessidade
+Por exemplo, a gente vai fazer uma eventa
+Mas o patrocinador precisa de uma nota fiscal
+Ele precisa de um CNPJ
+Para assinar um recebo para ele
+Então, as comunidades goianas não tinham
+Essa pessoa jurídica para responder
+Foi criada a Associação Software Livre de Goiás
+Que é uma pessoa jurídica
+Para responder por essas organizações
+E aí, a ESL começou a fazer
+Movimentos de organização
+De eventos, de tentar conseguir patrocínio
+Para poder tentar fomentar o software livre
+No estado
+Interessante por crescer que pariu
+Eu estava ouvindo Grock Podcast
+Conheço o Grock Podcast
+Não conheço o Grock Podcast
+Carlos Brando e mais uma galera lá
+Carlos Brando era do RailsBR
+Conheço o RailsBR Podcast
+RailsBR eu conheço
+RailsBR Podcast já está me dindo demais
+Eu tenho que citar pelo menos 2 podcasts
+Em cada episódio
+Então, no Grock Podcast
+Eu vou colocar o link no post
+Eles estavam falando sobre o Python
+No Rio de Janeiro, que também tem um esquema parecido
+Com a ESL, porque tem um CNPJ
+Vinculado, então para conseguir
+Eventos e essas coisas, é mais simples
+E aproveitando aqui quais as dificuldades
+Que a comunidade creio
+De software livre
+Tem hoje
+Achei as maiores dificuldades das comunidades
+Além do que eu já citei
+Sempre das divergências de ideias
+Qualquer comunidade normal onde tem humanos
+Averá divergências de ideias
+É que a gente precisa de representatividade
+Perante o governo
+Ou perante as empresas
+E algumas pessoas têm uma visão
+Um pouco erronea do que é o software livre
+Tente pensar a software livre porque um software é livre
+Qualquer um que quiser
+E pronto, então software que não presta
+Porque é desenvolvido por quem quer
+Por quem é voluntário
+Mas não é, por exemplo, se a gente for pegar um software igual
+Debian, que é um sistema operacional
+Tem toda uma série de regras, tem um manual
+De colaborador, quem quer ajudar
+Quem quer desenvolver para o sistema Debian
+Ele vai passar por uma lista de colaboradores
+Que vai avaliar, que vai permitir a entrada
+De ele no desenvolvimento, toda a forma
+Como ele deve se portar
+Nas listas de desenvolvimento, como ele deve
+Se portar no IRC, como deve se portar
+No desenvolvimento, então tem toda uma série
+De instruções de desenvolvimento
+Existe a possibilidade da SL
+Fazer mais eventos durante o ano
+Além do Flissol e do FGSL?
+Na verdade, como eu disse
+A SL é uma organização
+Que tenta incentivar
+O fomento do software livre no estado
+Então já se tem a tradição de que o
+Flissol e o FGSL
+Sejam eventos apoiados
+Mas não obrigatoriamente é ela
+Mas não é um evento SL
+É da SL, se a SL não fizer
+Não acontece, então coincidiu
+Que por exemplo, esse ano eu coordenei o Flissol
+E estou agora no FGSL
+E por acaso, quando eu entrei na coordenação
+Do Flissol, eu ainda não era membro da SL
+Então, se eu não tivesse entrado após isso
+Teria sido um evento apoiado novamente
+Pela SL, mas que não teria sido coordenado
+Por um membro da SL, né?
+Então hoje, o maior apoio da SL
+É para esses dois eventos
+Mas já, isso tem certa movimentação
+Na comunidade, para que sejam feitos
+Também outros tipos de evento
+Para que sejam levados palestras
+Minicursos para o interior de Goiás
+Para que seja feito todo um tour pelo estado
+Tentando levar os conhecimentos do software livre
+Assim, na tua visão, onde é necessário
+Vistir pro crescimento da comunidade
+Vistir que esses eventos grandes
+Leva mais de mil pessoas para a sala
+Eu estava vendo, assim, aqui em Goiás
+Eu acho que, não sei se é Goiás
+Não tem evento mundial do Firebird
+Teve, sei lá, 200 pessoas
+Onde é necessário investir
+No crescimento desses comunidades
+Visto que, pelo volume
+De pessoas nesses eventos
+Acho que as empresas deveriam começar
+A olhar mais, por exemplo
+Que, nem no PSOL, eu vi que vários empresas
+Que ministram o curso de tecnologia da Informação
+Agariaram vários novos alunos
+No evento, eu acredito
+Pro crescimento da comunidade
+Hoje, aqui em Goiás, principalmente
+No mercado, e não nas comunidades mais
+Como você já disse, os eventos aqui
+São grandes, e não é por acaso
+É bem reconhecido, realmente, no PSOL
+A gente teve pessoas que vieram do Tocantins
+Teve gente que veio de São Paulo e veio me comprimentar
+Ó, a gente veio de São Paulo só para o PSOL
+Que a gente tem o PSOL em São Paulo
+Mas o PSOL em São Paulo não dá nem 200 pessoas
+Então, a gente conhece a fama do PSOL aqui em Goiás
+E fez questão de vir participar aqui
+E, por FGSL, a gente também está esperando a gente do Rio
+Teve gente do Maranhão, que entrou em contar
+Tocantins, que vai trazer caravana para cá
+Justamente, pensando nesse crescimento
+Do mercado
+É que a gente definiu o tema do
+Foram Grande Software Livre esse ano
+Eu acho que pro crescimento das comunidades hoje
+Além das pessoas interessadas, que eu acredito
+Já tem bastante em Goiás
+A gente precisa, então, investir nas indústrias
+Nas empresas para que elas recebam
+Esse software, software livre
+E queiram fomentar, queiram patrocinar
+Queiram pagar para desenvolvimento
+De algum tipo de software assim
+O tema do evento esse ano é software livre
+Comunidade, filosofia e mercado
+Porque tenta mostrar para as pessoas
+Que através das comunidades
+O software livre, através da filosofia
+De software livre, você pode muito bem
+Chegar o mercado com software estável
+Que vai atender a necessidade do seu cliente
+Vai te ter um custo muito menor
+Vai ser um software que vai ser
+Mais personalizável, mais customizável
+Que talvez vai te atender a necessidade
+Muito melhor do que um software proprietário
+Tradicional Então, tem muitas empresas por aí
+Com certeza estão abertas a esse tipo
+De solução, são receptivas
+A novas tecnologias
+Mas não usam simplesmente porque não conhecem
+Então, o foco esse ano do Foram Goiano
+É tentado a esse tipo de palestra
+Palestras que mostrem para as pessoas
+Em si, que o software livre
+É sustentável, que pode ser aplicado
+Ao mercado amplamente E que mostrem também
+Para as empresas que isso é possível acontecer
+Então, a gente está correndo atrás de bastantes empresas
+Tentando levá-las para dentro do evento
+Resgatar essas empresas para dentro do evento
+Para que elas possam ter essa noção
+E quem sabe, né?
+Vamos ver depois da FSCL se a gente vai conseguir um feedback melhor
+Pois é, inclusive
+Com relação ao tocante que tu falou
+No FliSol, nesse FliSol desse ano
+Teve até um palestrante, tocante nesse, sabia?
+Não sabia, foi eu
+Então, acho que é isso aí
+Eu agradeço, veiamentemente, a disponibilidade
+Do Joelys, esse é o primeiro episódio
+De ter roubado
+De ter roubado
+Teve até em um, mas foi gravar o podcast
+É claro que foi só para isso
+Esse ano, Joelys foi para o palestrante
+Na Latinoué
+Fala um pouco, como foi a sua participação
+Lá no Latinoué
+Foi a participação legal
+Na companhia do Shell
+Inclusive, a gente tocou o terror
+Lá naquela Latinoué
+Mas não foi tranquila
+A gente teve contato novamente com Medog
+Mas sempre muito satisfatório
+Tem contato com aquele pessoal da alta
+Do software livre, pessoas importantes
+Reconhecidos internacionalmente
+Que quando vê a gente, não tem indiferença
+Faz questão de cumprimentar
+De desperdiçar um pouco do valioso
+O tempo dele, para poder conversar
+Um pouco com a gente
+E não só por isso, mas as palestras
+Esse ano, foram agregar bastante conteúdo
+Tinha um palestrante de peso, de renome
+E até essa América Latina
+Espalhado por lá
+Por vezes aquele negócio, você escutava espanhol
+Para todo lado, já escutava inglês
+O Shell não dizia que a gente escutava até árabe lá
+Quero por falar em Guarani
+Era uma língua estranha aqui, viu
+Mas foi legal, as palestras
+Minha e do Shell também, foram bastante legais
+Apesar do horário que colocaram a gente
+Teve um público até legal
+O Shell não palestra as 11 horas, eu palestrei ao meio dia
+Pouco de vetar um moçano, mas não
+Tava lá firme, assistindo palestras
+É isso que eu gosto de nerd, inclusive
+O negócio de saber em muitas línguas também é coisa de nerd
+Dá uma palhinha para a gente em Guarani
+Vocês aprimos é correto, mas
+Coe vi ora é retamar
+O que você disse?
+Eu estou com sede
+Não, brincadeira
+É porque você está no brazão
+Da no brazão do Tocantins
+É só terrenosso
+Essa é a decedente de India e no Vale
+Valeu Julius, o lanche estava bom
+Valeu
+Hellsum
+Quando quiser lanchar de novo, estamos na disposição
+Pode vir aí que
+A cidade está esperando
+Fazer o lanche interurbando
+Tem de Guarani para cá para lanchar
+Compensa
+E um abraço para o Sheldon também
+Não quis vir, quem tem pensão não pode citar
+Seu coração falará por mim
+Um big big love me leva

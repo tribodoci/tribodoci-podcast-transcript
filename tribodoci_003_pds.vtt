@@ -1,0 +1,4163 @@
+WEBVTT
+
+00:00.000 --> 00:03.600
+Você está ouvindo a tribo do CRI Podcast.
+
+00:16.700 --> 00:20.800
+Tribus do CRI Episódio 3 para o dia 30 do CRI de 2010.
+
+00:20.800 --> 00:22.900
+Ecosistema da produção de software.
+
+00:22.900 --> 00:28.100
+Eu sou o Sebastião Hellsum e minha chefe me chamou de arquiteto e eu acho que ela estava zoando comigo.
+
+00:28.100 --> 00:32.600
+Meu nome é Sheldon Led e por favor não me prenda porque eu não pertenço a gangue dos quatro.
+
+00:41.100 --> 00:47.700
+Nesse podcast vamos falar da parte mais polêmica de um desenvolvimento de software, a engenharia de software.
+
+00:47.700 --> 00:49.200
+Então vamos para os e-mail.
+
+00:52.400 --> 00:55.000
+A gente recebeu o e-mail com algumas sugestões.
+
+00:55.000 --> 00:59.900
+Então o e-mail que a gente recebeu aqui, o primeiro foi do Joe Elias Jr., conhece o Joe Elias Jr.?
+
+00:59.900 --> 01:01.700
+E esse aqui é o cara lá do Fissol, né?
+
+01:01.700 --> 01:04.600
+Então o Joe Elias mandou um monte de dica maneiro para a gente aqui.
+
+01:04.600 --> 01:08.900
+Resumão, a gente podia encurtar mais um pouco, podcast, deixar mais um pouco mais direto.
+
+01:08.900 --> 01:11.400
+Sim, para consolo, escutem o papo até.
+
+01:11.400 --> 01:14.100
+Acho que isso é assunto até para o próximo episódio, vamos?
+
+01:14.100 --> 01:16.100
+É o formato da nova mídia, né, do podcast.
+
+01:16.100 --> 01:18.000
+É isso aí. A gente recebeu o outro e-mail também.
+
+01:18.000 --> 01:22.200
+O outro e-mail foi da Carla Larissa VB, ela falou que era VB?
+
+01:23.100 --> 01:23.900
+Quase.
+
+01:24.000 --> 01:24.800
+Vera Borges.
+
+01:24.800 --> 01:27.000
+Ela reclamou também basicamente a mesma coisa.
+
+01:27.000 --> 01:28.500
+A voz saia um pouco baixa.
+
+01:28.500 --> 01:31.800
+Às vezes as musiquinhas do fundo até atrapalham no entendimento.
+
+01:31.800 --> 01:37.200
+Então assim, a gente vai por um ícone de doação ali do pack seguro do lado do site.
+
+01:37.200 --> 01:44.600
+Aí vocês fazem uma doação que a gente, quando a gente conseguiu um dia, a gente comprou uma mesa e um microfone sempre profissional, que eu acho que vai melhorar a barçante.
+
+01:44.600 --> 01:47.500
+Já seguindo as dicas do pessoal, vamos bem direto, já vamos?
+
+01:47.500 --> 01:48.200
+Terminamos também.
+
+01:48.200 --> 01:51.700
+Eu queria só falar aqui uma coisa que a gente falou no episódio passado.
+
+01:51.700 --> 01:54.500
+Foi sobre a banda Note a Number, do Carlson.
+
+01:54.500 --> 01:57.800
+Que na verdade não é do Carlson, do Nerdson.com.
+
+01:57.800 --> 02:02.900
+Ele é do Carlson Galdino, que é xará, mas não é a mesma pessoa.
+
+02:02.900 --> 02:07.000
+A galera curtiu o negócio das paródias aí, a gente vai colocar meio que um ícone de sinócio, né?
+
+02:07.000 --> 02:08.600
+A gente não vai colocar mais o ícone do podcast.
+
+02:08.600 --> 02:12.400
+Vai colocar as paródias separadas de uma outra sessão do site.
+
+02:12.400 --> 02:15.500
+Já tem duas paródias completas aí relacionadas.
+
+02:15.500 --> 02:16.100
+A galera gostou.
+
+02:16.100 --> 02:19.000
+Uma inclusive está gravada em rascunho.
+
+02:19.000 --> 02:21.900
+A gente vai ver o link aí embaixo, no post.
+
+02:21.900 --> 02:25.300
+Vocês visitam o post, vai lá e olha que vai ter aí no link lá.
+
+02:25.300 --> 02:28.100
+E as outras provavelmente vão ser um pouco melhores.
+
+02:28.100 --> 02:29.100
+Sabe o que foi que escreveu a outra?
+
+02:29.100 --> 02:29.600
+Aí é quem?
+
+02:29.600 --> 02:31.500
+Jajan Madafaka One Taylor.
+
+02:31.500 --> 02:33.400
+Ah, Jajan Taylor, man.
+
+02:33.400 --> 02:40.700
+Ele pegou o exemplo que eu fiz lá no podcast anterior e fez a música inteira do casuto lá.
+
+02:40.700 --> 02:41.500
+Ah, bota fé.
+
+02:41.500 --> 02:43.100
+Vamos agora para a segunda parte.
+
+02:43.100 --> 02:43.800
+Bem rápido.
+
+02:43.800 --> 02:49.700
+A primeira principal agora a gente vai dividir em três partes.
+
+02:49.700 --> 02:53.300
+Eu não sei se vão ter três programas ou se vai ser só três partes.
+
+02:53.300 --> 02:57.700
+Primeira parte, falando de engenharia de software, a gente não poderia deixar de falar sobre
+
+02:57.700 --> 02:59.800
+o processo de desenvolvimento do software.
+
+02:59.800 --> 03:01.700
+Pouco antes de meter a mão na massa, né?
+
+03:01.700 --> 03:05.200
+Antes de a gente continuar, a gente está tendo a participação especial do Liz Filipe,
+
+03:05.200 --> 03:07.400
+que é o filho do Sebastião Reus, primogênio.
+
+03:07.400 --> 03:09.700
+É o primogênio, não, é o primogênio.
+
+03:09.700 --> 03:13.200
+Vai ser, como é que é aquela história lá da boa educação?
+
+03:13.200 --> 03:16.100
+O meu filho, hoje ele é só programa em Ruby, eu não vou deixar ele.
+
+03:16.100 --> 03:17.100
+Cantei outras coisas, né?
+
+03:17.100 --> 03:20.800
+Mas o primeiro computador dele já vai ser o Mac, o primeiro gadget dele também vai ser
+
+03:20.800 --> 03:21.300
+da app.
+
+03:21.300 --> 03:22.000
+Quero ser pro melhor.
+
+03:22.000 --> 03:23.300
+Eu não sei que chegue no next one, né?
+
+03:23.300 --> 03:25.200
+Talvez compro um iPad, entende?
+
+03:25.200 --> 03:29.600
+Agora, voltando para os processos de desenvolvimento de software, são basicamente divididos em
+
+03:29.600 --> 03:34.500
+análise econômica, análise de requisitos, especificação, arquitetura de software,
+
+03:34.500 --> 03:38.100
+implementação, teste, documentação, suporte, treinamento e manutenção.
+
+03:38.100 --> 03:40.900
+Vamos detalhar, mais ou menos assim, cada um deles.
+
+03:40.900 --> 03:42.000
+Analise econômica.
+
+03:42.000 --> 03:43.400
+Como que seria essa análise econômica?
+
+03:43.400 --> 03:49.000
+Bom, a análise econômica é porque geralmente tem muito software que ele não é muito viável.
+
+03:49.000 --> 03:54.000
+Às vezes, não compensa, às vezes fica mais barato você manter as coisas do jeito
+
+03:54.000 --> 03:58.800
+que estão do que você implementar toda a arquitetura de software, conjunto de software
+
+03:58.800 --> 03:59.800
+para uma empresa.
+
+03:59.800 --> 04:03.000
+Então, isso seria uma análise de viabilidade do projeto?
+
+04:03.000 --> 04:04.000
+É, mais ou menos assim mesmo.
+
+04:04.000 --> 04:06.500
+Segundo o quesito, seria análise de requisitos.
+
+04:06.500 --> 04:09.520
+Existe uma coisa também que eu acho que a gente poderia dar uma voltada aqui, é porque
+
+04:09.520 --> 04:15.040
+existe dois mundos hoje na parte do processo de desenvolvimento de software, os processos
+
+04:15.040 --> 04:17.760
+tradicionais e os modelos agem.
+
+04:17.760 --> 04:21.400
+Essa parte a gente está falando um pouco antes dos processos tradicionais.
+
+04:21.400 --> 04:26.800
+Na verdade, esses são as partes de todo o desenvolvimento do software, mas o modelo
+
+04:26.800 --> 04:32.440
+de execução dessas de cada parte depende do modelo de produção que a empresa adquire.
+
+04:32.440 --> 04:36.420
+Hoje está na moda para caramba o pessoal falar de métodos agem ou agem.
+
+04:36.420 --> 04:41.020
+Então, a gente vai falar isso aí mais para frente e como que funciona, como que seria,
+
+04:41.020 --> 04:45.700
+são formas diferentes de interpretar cada tópico desse processo de desenvolvimento.
+
+04:45.700 --> 04:51.020
+Então, análise de requisitos, onde você começa a destrinchar o software, onde a pessoa,
+
+04:51.020 --> 04:57.020
+o cliente está com uma ideia e ali uma pessoa vai começar a desenvolver aquela ideia para
+
+04:57.020 --> 05:00.900
+não ter uma viabilidade, porque às vezes o cara chega assim, não, eu quero um programa
+
+05:00.900 --> 05:07.240
+que faz tal coisa, mas a gente precisa de saber mais ou menos como seria um pouco menos
+
+05:07.240 --> 05:08.240
+abstrato assim.
+
+05:08.240 --> 05:12.920
+É tipo, a análise de requisitos seria como se a gente fosse construir uma casa e eu
+
+05:12.920 --> 05:15.520
+defendisse que eu quero ter três quartos e...
+
+05:15.520 --> 05:22.320
+Então, a análise de requisitos é a concepção das funcionalidades que o software vai ter.
+
+05:22.320 --> 05:27.280
+E a gente pode dividir ela em duas partes, os requisitos funcionais e os requisitos não
+
+05:27.280 --> 05:28.280
+funcionais.
+
+05:28.300 --> 05:31.300
+Eu não estou fazendo nem piadinha, não vou.
+
+05:31.300 --> 05:33.300
+A gente vai lá, a gente vai lá.
+
+05:33.300 --> 05:38.900
+Os requisitos funcionais, ele diz respeito ao que o software realmente tem que fazer,
+
+05:38.900 --> 05:41.180
+é o objetivo prático do software.
+
+05:41.180 --> 05:45.180
+Pensei que os requisitos funcionais eram aqueles que funcionavam.
+
+05:45.180 --> 05:48.300
+Depois de termos de implementar, os requisitos que funcionaram.
+
+05:48.300 --> 05:53.100
+Os não funcionais são coisas que estão no contexto do negócio do software.
+
+05:53.100 --> 05:57.500
+Um exemplo de requisito não funcional para quem a gente entenda é, por exemplo, quando
+
+05:57.520 --> 06:01.320
+eu clicar em uma caixinha de texto, eu selecionar todo o texto, entendeu?
+
+06:01.320 --> 06:02.320
+Ah, isso é não funcional.
+
+06:02.320 --> 06:07.880
+É, assim, a essência do software não vai deixar de funcionar porque o software vai
+
+06:07.880 --> 06:08.880
+continuar funcionando.
+
+06:08.880 --> 06:13.520
+Se a pessoa clicar lá e o texto não for selecionado, às vezes está no projeto como
+
+06:13.520 --> 06:14.680
+requisito não funcional.
+
+06:14.680 --> 06:20.080
+Ah, então, às vezes uma outra janela abrir em tela cheia ou não, abrir um pop-up, alguma
+
+06:20.080 --> 06:22.720
+coisa assim, tudo faz parte do análise não funcional.
+
+06:22.720 --> 06:23.720
+É isso mesmo.
+
+06:23.720 --> 06:28.100
+Em momento de modelagem, por exemplo, o ML, eu consigo descrever um sistema, como ele
+
+06:28.100 --> 06:32.820
+vai funcionar, é independente de tecnologia, então essa parte de requisitos funcionais
+
+06:32.820 --> 06:35.140
+ela também é dependente da tecnologia.
+
+06:35.140 --> 06:37.860
+O terceiro tópico seria a especificação.
+
+06:37.860 --> 06:39.940
+Como funciona essas especificações?
+
+06:39.940 --> 06:44.980
+É como se fosse uma continuação da análise de requisitos, onde você pega as ideias um
+
+06:44.980 --> 06:50.420
+pouco menos abstratas e deixa ela menos abstratas ainda para a gente começar a definir a arquitetura
+
+06:50.420 --> 06:51.420
+do software.
+
+06:51.420 --> 06:58.840
+Essa parte é uma parte que antecedem a arquitetura de software, que é o quarto tópico do processo
+
+06:58.840 --> 06:59.840
+de desenvolvimento.
+
+06:59.840 --> 07:05.120
+Então a arquitetura de software é a parte mais legal, a gente vai voltar a falar nisso,
+
+07:05.120 --> 07:09.640
+mas a arquitetura de software, o que dá suporte a todo o desenvolvimento faz parte
+
+07:09.640 --> 07:16.360
+da parte tecnológica, mas você pode modelar ela com conceitos não dependentes de tecnologia,
+
+07:16.360 --> 07:19.880
+mas ela já faz parte da implementação do software como um todo.
+
+07:19.880 --> 07:25.620
+Aí vem o quinto tópico, que é a parte que separa os meninos dos homens ou as meninas
+
+07:25.620 --> 07:26.620
+das mulheres.
+
+07:26.620 --> 07:32.220
+A parte da implementação, onde o cara que mexe com isso é o cara que mostra para a sociedade,
+
+07:32.220 --> 07:35.140
+pelo menos para a sociedade geek, que ele é macho pra caralho.
+
+07:35.140 --> 07:37.620
+No caso, se for uma mulher que a raridade a gente nem...
+
+07:37.620 --> 07:43.100
+É, geralmente as mulheres trabalham mais na área de teste e na área de análise de
+
+07:43.100 --> 07:44.100
+requisitos.
+
+07:44.100 --> 07:45.100
+Então, certo?
+
+07:45.100 --> 07:46.100
+Geralmente.
+
+07:46.100 --> 07:48.580
+E se você for uma mulher que programa, manda e-mail com foto.
+
+07:49.240 --> 07:55.120
+É, manda e-mail com foto pra gente não poder fazer piadinha falando que não existe
+
+07:55.120 --> 07:57.840
+mulher bonita na área de programação.
+
+07:57.840 --> 07:59.680
+É pra desbancar aquela de que...
+
+08:02.240 --> 08:03.840
+Vamos seguir pro próximo...
+
+08:03.840 --> 08:05.440
+Seu jornalismo vai ficar.
+
+08:05.440 --> 08:06.940
+Então, o senso tópico...
+
+08:06.940 --> 08:07.940
+Próximo, né?
+
+08:07.940 --> 08:12.340
+Próximo tópico é a parte de teste, porque geralmente o programador a gente vai até
+
+08:12.340 --> 08:16.600
+falar isso mais na frente, porque o programador fica muito abitulado ali naquele mundo...
+
+08:16.600 --> 08:22.100
+O universo do programador é bastante diferente do universo das outras pessoas, né?
+
+08:22.100 --> 08:29.220
+Então, às vezes ele fica preso ali e fica e peca às vezes na falta de usabilidade e
+
+08:29.220 --> 08:34.700
+às vezes, por próprio, ele tá muito focado ali, ele esquece alguma parte ou até erro
+
+08:34.700 --> 08:38.740
+mesmo e devem ser detectados pela fase de teste de software.
+
+08:38.740 --> 08:41.340
+Nesse caso, quem faz nunca pode testar, né?
+
+08:41.340 --> 08:45.940
+Isso é uma coisa que é uma máxima que tem que ser seguida em processo de desenvolvimento
+
+08:46.760 --> 08:49.840
+Isso visto no âmbito um pouco mais macro, assim, né?
+
+08:49.840 --> 08:54.820
+A gente pode citar como exemplo o Linux, que é um projeto onde praticamente todos os
+
+08:54.820 --> 08:57.360
+usuários são analistas de testes, né?
+
+08:57.360 --> 09:02.280
+Porque eles estão ali, estão de olho ali no programa, estão usando, de acordo com o
+
+09:02.280 --> 09:03.280
+que ele...
+
+09:03.280 --> 09:07.360
+No caso do Linux específico, o Vigual era a lei de Linux, sabe como era a lei de Linux?
+
+09:07.360 --> 09:08.360
+Pode falar.
+
+09:08.360 --> 09:10.680
+É, é muito fácil, é muito fácil, eu vou deixar pra...
+
+09:10.680 --> 09:13.680
+Eu não vou ficar assim, porque senão a fama fica toda pra mim, né?
+
+09:13.680 --> 09:15.680
+Eu sou o sidekick do show.
+
+09:15.740 --> 09:18.740
+Então, vai lá, é porque a lei de Linux é assim, é o...
+
+09:18.740 --> 09:19.740
+É...
+
+09:19.740 --> 09:20.740
+Você sabe, né?
+
+09:20.740 --> 09:26.100
+Não, a lei de Linux é que é sobre milhões de olhos, qualquer erro é banal, né?
+
+09:26.100 --> 09:27.100
+É.
+
+09:27.100 --> 09:30.020
+Acho que não ficou o pé da letra, mas é mais ou menos sim, porque é onde todo mundo
+
+09:30.020 --> 09:35.660
+tá olhando, onde todo mundo tá usando, muitas pessoas usando, reportam erros, tem
+
+09:35.660 --> 09:41.260
+muitas pessoas programando, muitos palpites ali de programadores e experientes e programadores
+
+09:41.260 --> 09:47.720
+que não são experientes, mas que acabam se tornando ao aderir ao processo de desenvolvimento
+
+09:47.720 --> 09:49.080
+do sem operacional Linux.
+
+09:49.080 --> 09:50.080
+Ah, bom.
+
+09:50.080 --> 09:52.640
+Depois dessa parte de teste, vem a parte de documentação.
+
+09:52.640 --> 09:58.720
+A geralmente, o desenvolvimento, ele fica ali rodando, às vezes, entre a fase de teste,
+
+09:58.720 --> 10:03.560
+volta pra implementação, volta pro teste, então assim, o relacionamento entre o analista
+
+10:03.560 --> 10:08.160
+de teste e o programador, o desenvolvedor, ele é um relacionamento bem mais próximo
+
+10:08.160 --> 10:13.140
+que, às vezes, as demais áreas, assim, tratando do modelo cascata, que nós vamos falar
+
+10:13.140 --> 10:14.140
+mais com a gente.
+
+10:14.140 --> 10:17.980
+Esse modelo que a gente tá falando, que a gente faz, faz parte dos modelos tradicionais,
+
+10:17.980 --> 10:18.980
+né?
+
+10:18.980 --> 10:19.980
+É, seria mais ou menos assim, como eu citei, né?
+
+10:19.980 --> 10:25.740
+O modelo de cascata, onde cada uma dessas fases, ela é feita uma pós a outra, né?
+
+10:25.740 --> 10:28.020
+Proceduralmente, feitas linearmente, né?
+
+10:28.020 --> 10:29.580
+Em série, uma pós a outra.
+
+10:29.580 --> 10:33.060
+Então, depois da documentação, a gente tem o suporte a treinamento, né?
+
+10:33.060 --> 10:38.280
+Na documentação, você faz, desço, relatando todos os detalhes do software, para que possa
+
+10:38.280 --> 10:43.120
+haver um treinamento, onde, depois do software pronto, você precisa de ensinar as pessoas
+
+10:43.120 --> 10:44.120
+a usarem, né?
+
+10:44.120 --> 10:48.240
+Porque as pessoas, elas estão acostumadas com o que elas estão vivendo no momento,
+
+10:48.240 --> 10:52.480
+então, às vezes, você tem pessoa elevando-os ali com aquele software antigo, tem uma certa
+
+10:52.480 --> 10:58.120
+resistência em mudar pra uma nova tecnologia e tal, então, o treinamento é crucial pra
+
+10:58.120 --> 10:59.120
+isso aí.
+
+10:59.120 --> 11:03.980
+Por isso, tudo implementado, depois de passar a parte suposta de treinamento, que já está
+
+11:03.980 --> 11:06.980
+funcionando o software, é necessário a manutenção.
+
+11:06.980 --> 11:13.020
+A manutenção é a parte mais pauleira da processos de desenvolvimento, até porque
+
+11:13.020 --> 11:15.580
+nem sempre quem fez é quem dá a manutenção, né?
+
+11:15.580 --> 11:20.900
+Aí que o negócio fica cabeludo, aí é pobrei, mano, porque quando se fala errado,
+
+11:20.900 --> 11:24.420
+assim, você já vê o que é o negócio assim, e por que as vezes as pessoas quando está
+
+11:24.420 --> 11:25.980
+com raiva, elas falam errado?
+
+11:25.980 --> 11:28.140
+Eu tenho uma teoria que eu acho que só vale pra mim.
+
+11:28.200 --> 11:33.720
+Não, eu acho que quando é tipo pessoa que só consegue fazer declaração de amor na
+
+11:33.720 --> 11:34.720
+língua mãe, né?
+
+11:34.720 --> 11:38.560
+Tipo assim, quando o cara vai falar, tá emocionado, o cara é italiano e só consegue
+
+11:38.560 --> 11:39.560
+falar italiano.
+
+11:39.560 --> 11:44.360
+Ah, tá, é porque a parte do cérebro das emoções, ela é uma parte mais primitiva,
+
+11:44.360 --> 11:48.840
+então, geralmente, como as partes primitivas do cérebro, elas agem muito mais rápido
+
+11:48.840 --> 11:53.520
+que as outras partes, desenvolvidas posteriormente ao decorrer da evolução, então, a gente
+
+11:53.520 --> 11:57.720
+tende a manifestar primeiro as emoções mais primitivas.
+
+11:57.780 --> 12:01.540
+Por isso que as vezes quando você está nervoso, você tem vontade de bater, quando você está
+
+12:01.540 --> 12:05.740
+com muita fome, você come mais rápido, quando você está nervoso, você não se importa
+
+12:05.740 --> 12:10.700
+com coesão, com cordança verbal, essas coisas assim.
+
+12:10.700 --> 12:11.700
+Aí, interessante.
+
+12:11.700 --> 12:12.700
+Voltando.
+
+12:12.700 --> 12:17.100
+A gente falou um pouco do modo tradicional do desenvolvimento de software, que é o modo
+
+12:17.100 --> 12:18.900
+que o pessoal já fala que é falido, né?
+
+12:18.900 --> 12:24.620
+Esse modelo é um modelo assim, muito complicado, porque eles têm várias falhas no seu desenvolvimento,
+
+12:24.620 --> 12:25.620
+né?
+
+12:25.620 --> 12:35.760
+Um dos problemas desses metodologias tradicionais é porque existe um período, um espaço muito
+
+12:35.760 --> 12:40.820
+grande entre a concepção do software e a entrega do produto, tem projetos que duram
+
+12:40.820 --> 12:46.320
+dois anos para acontecer e a pessoa no final do projeto cliente já mudou a estratégia
+
+12:46.320 --> 12:50.400
+e já mudou de, da forma de pensar, então o software já, com determinado que esse efetre
+
+12:50.400 --> 12:51.400
+já é obsoleto.
+
+12:51.400 --> 12:52.780
+Essa frase é muito famosa, né?
+
+12:52.780 --> 12:56.680
+Toda tecnologia lançada, ela já é lançada obsoleto, né?
+
+12:56.680 --> 13:00.680
+Tratando-se do software, isso acontece por causa desse procedimento arcaico, vamos
+
+13:00.680 --> 13:05.480
+dizer assim, acaba carretando no atraso muito grande, assim, do desenvolvimento de software.
+
+13:05.480 --> 13:11.000
+Por isso que existem hoje outros modelos de procedimento, outros modelos de desenvolvimento
+
+13:11.000 --> 13:12.000
+de software.
+
+13:12.000 --> 13:17.800
+A solução intermediária para esse problema era eu ter software, eu ter interações, sabe?
+
+13:17.800 --> 13:22.680
+O software que ele chama de incremental, que eu tenho todas essas fases mais em períodos
+
+13:22.680 --> 13:27.560
+bem mais curto, não o projeto todo, mas em vários modelos, seria por funcionalidade
+
+13:27.560 --> 13:29.000
+ou pacote de funcionalidade.
+
+13:29.000 --> 13:35.120
+Então, nas metodologias ágeis, uma das premissas dos métodos ágeis é que as mudanças ocorrem
+
+13:35.120 --> 13:40.800
+porque a gente ignorava, então a gente trabalha sempre preparado para as mudanças.
+
+13:40.800 --> 13:45.160
+Então, por exemplo, uma interação em vez de durar dois meses da entrega de uma funcionalidade
+
+13:45.160 --> 13:50.680
+eu vou ter interações menores, caso do Scrum e de vários outros métodos ágeis, de eu
+
+13:50.680 --> 13:53.400
+consigo fazer interações semanais até.
+
+13:53.400 --> 13:59.840
+Falando aí de Scrum, os dois métodos mais usados, é o Scrum XP, que é o Extreme Programme.
+
+13:59.840 --> 14:05.800
+O Scrum ele trabalha mais na parte de gerenciamento do projeto e o programação extrema, ela
+
+14:05.800 --> 14:14.200
+é executiva, assim, as duas podem conviver, que nem é repositório e dao, não são coisas
+
+14:14.200 --> 14:15.200
+que elas podem conviver.
+
+14:15.200 --> 14:19.680
+Tem aquela parada lá do Scrum que você tem que fazer reunião semanal e a reunião tem
+
+14:19.680 --> 14:21.680
+que ser em pé, é o coisinho, né?
+
+14:21.680 --> 14:24.480
+Cara, eu tenho os casas de ousos em pizarro com Scrum.
+
+14:24.480 --> 14:25.480
+Encontrei, encontrei.
+
+14:25.480 --> 14:31.880
+Nessa reunião em pé, cara, teve um maluco que dormiu, que foda.
+
+14:31.880 --> 14:36.280
+Pô, a gente tava lá na reunião em pé ali e tal, e o maluco começou a bobear, eu pensei
+
+14:36.280 --> 14:38.280
+que ia dar um fatality.
+
+14:38.280 --> 14:39.280
+Problema mesmo.
+
+14:39.280 --> 14:42.600
+Então, já que a gente falou para a parte de metodologias de desenvolvimento, vou falar
+
+14:42.600 --> 14:47.480
+agora um pouco o tipo de software que existe, mas eu acho que o mais conhecido é o Erp,
+
+14:47.480 --> 14:48.480
+né?
+
+14:48.480 --> 14:50.040
+O Enterprise Resource Planning.
+
+14:50.040 --> 14:56.920
+É basicamente o planejamento dos recursos corporativos, é porque ele pode ser interpretado
+
+14:56.920 --> 15:00.600
+também como planejamento das soluções empresariais, né?
+
+15:00.600 --> 15:05.320
+Onde que você tem ali dentro de um software ou de um conjunto de software, ali dentro
+
+15:05.320 --> 15:10.520
+você consegue gerenciar todo o andamento da empresa e gerenciar todas as partes da
+
+15:10.520 --> 15:12.960
+empresa, então tem ele integrado dentro do software, né?
+
+15:12.960 --> 15:15.720
+O software gerencia a empresa para você, mais ou menos assim, né?
+
+15:15.720 --> 15:16.720
+É por aí.
+
+15:16.720 --> 15:17.720
+É uma...
+
+15:17.720 --> 15:21.720
+Seria um software integrado, né, com todas as áreas da empresa que a pessoa consegue
+
+15:21.720 --> 15:26.360
+tomar decisão, embora o suporte e a tomada de decisão seja o outro tipo de software.
+
+15:26.360 --> 15:31.840
+Então, dentro dos Erp, tem uma parte complexa, no final vai chegar em Business Intelli,
+
+15:31.840 --> 15:34.040
+mas a gente não vai chegar nesse mérito, não, vai?
+
+15:34.040 --> 15:35.040
+Ah, acho que não.
+
+15:35.040 --> 15:36.040
+Isso é...
+
+15:36.040 --> 15:41.640
+Para saber o tipo de software ou os empresariais que outro que é bastante é o que o pessoal
+
+15:41.640 --> 15:48.680
+chama de SCM, que é o Supply Chain Manager, gerencia da cadeia de suprimento, o software
+
+15:48.680 --> 15:53.320
+de gerencia de cadeia de suprimento é complexo, pra caramba, e é o...
+
+15:53.320 --> 15:57.160
+Assim, porque a parte do Erp e tal era um pouco chata, né?
+
+15:57.160 --> 15:58.160
+Ah, é?
+
+15:58.160 --> 15:59.160
+Como é?
+
+15:59.160 --> 16:03.040
+É, porque basicamente é só processos da empresa, essas coisas assim, não tem muita
+
+16:03.040 --> 16:05.680
+que atividade no processo, basicamente crude.
+
+16:05.680 --> 16:12.640
+E o SCM é onde a gente pode aplicar bastante data warehouse, pode data mining, um monte
+
+16:12.640 --> 16:18.160
+de parte de inteligência artificial, a gente pode aplicar em SCM, porque o SCM ele controla
+
+16:18.160 --> 16:24.920
+desde o repacotamento do produto que tu pediu até a chegada desse produto na loja e ele
+
+16:24.920 --> 16:25.920
+ser vendido.
+
+16:25.920 --> 16:26.920
+Entendeu?
+
+16:26.920 --> 16:27.920
+Ah, entendi.
+
+16:27.920 --> 16:32.200
+Você falou duas palavras aí que eu acharia legal a gente falar pelo menos definição
+
+16:32.200 --> 16:39.200
+e pro pessoal, que é os DMs, né, Data Mart e o Data Warehouse, né, também o Business
+
+16:39.200 --> 16:40.200
+Intelligence, BI.
+
+16:40.200 --> 16:41.200
+Então, a parte de...
+
+16:41.200 --> 16:45.000
+Eu tento até o professor, que seria bom a gente falar disso, cara.
+
+16:45.000 --> 16:46.000
+Podem.
+
+16:46.000 --> 16:47.000
+Vamos ligar pra ele?
+
+16:47.000 --> 16:53.520
+Eu vou ver se eu consigo uma entrevista com ele pra ele falar, respeito, eu vou gravar
+
+16:53.520 --> 16:54.520
+com ele.
+
+16:54.520 --> 16:56.520
+Então, vamos à entrevista com o André Obey.
+
+17:03.200 --> 17:04.200
+E aí, Sebastião?
+
+17:04.200 --> 17:05.200
+E aí, pessoal?
+
+17:05.200 --> 17:06.200
+Tudo bem?
+
+17:06.200 --> 17:07.200
+Tranquilo.
+
+17:07.200 --> 17:08.200
+Lembra da faculdade?
+
+17:08.200 --> 17:12.200
+Uma vez que a gente fez uma galera furada lá que foi dar uma palestra de gênica e falava
+
+17:12.200 --> 17:16.200
+de sistemas empresariais, não sei o que, e na verdade a gente tava vendendo um curso...
+
+17:16.200 --> 17:17.200
+Fazendo uma palestra, né?
+
+17:17.200 --> 17:20.200
+Fazendo uma palestra do curso e emiou a palestra que ele ia fazer.
+
+17:20.200 --> 17:22.200
+É, e depois a gente salvou a lá, né?
+
+17:22.200 --> 17:23.200
+Foi.
+
+17:23.200 --> 17:25.200
+Eu só fiz lá um desenho lá.
+
+17:25.200 --> 17:28.200
+Você só vai conseguir impressar só falando, né?
+
+17:28.200 --> 17:32.200
+Seu desenho do que defendia pra empresa que conseguiam viajar.
+
+17:32.200 --> 17:33.200
+Ah, certo.
+
+17:33.200 --> 17:36.200
+Não, aquele esquema gratos lá ele explica muito bem.
+
+17:36.200 --> 17:42.200
+É, o seguinte, o R&D, ele é o integrador das áreas internas de um empresa.
+
+17:42.200 --> 17:46.200
+Então, por exemplo, se ele era de finance, se ele fosse de uma ano de produção, ó, que
+
+17:46.200 --> 17:51.200
+vendas e mais, todas essas áreas internas, elas vão ser integradas através do R&D.
+
+17:51.200 --> 17:56.200
+É, que é um enterprise reforçante ou planejamente em recursos empresariais.
+
+17:56.200 --> 17:59.200
+Chamado por nós aqui, sistema de gestão empresarial.
+
+17:59.200 --> 18:03.200
+É, que é um sistema transacional, trabalha com transações, fazem todos os registros
+
+18:03.200 --> 18:04.200
+do dia a dia.
+
+18:04.200 --> 18:05.200
+É.
+
+18:05.200 --> 18:09.200
+E utilizam, geralmente, um banco de cidade, esse banco de cidade também é um banco de
+
+18:09.200 --> 18:13.200
+cidade transacional e recebe todas essas informações.
+
+18:13.200 --> 18:14.200
+Ele é volátil, né?
+
+18:14.200 --> 18:17.200
+Porque as informações são alteradas a todo momento, então...
+
+18:17.200 --> 18:18.200
+É, é o volátil.
+
+18:18.200 --> 18:20.200
+Não, aí nesse caso, não.
+
+18:20.200 --> 18:22.200
+Esse é o banco de cidade transacional.
+
+18:22.200 --> 18:25.200
+O banco de cidade do Olato é o banco de cidade analítica.
+
+18:25.200 --> 18:27.200
+E é justamente o Data Warehouse.
+
+18:27.200 --> 18:30.200
+O Olato, ele roda em cima de Data Warehouse e Data Warehouse.
+
+18:30.200 --> 18:32.200
+Porque o Olato é online.
+
+18:32.200 --> 18:37.200
+Só que é online, em cima de bancos já pré-formatados para consultas, né?
+
+18:37.200 --> 18:38.200
+Ele é uma ferramenta analítica.
+
+18:38.200 --> 18:39.200
+Entendi.
+
+18:39.200 --> 18:42.200
+E que, geralmente, trabalha em cima de dados históricos, né?
+
+18:42.200 --> 18:43.200
+Ou seja, de ontem para trás.
+
+18:43.200 --> 18:46.200
+Muito dados de hoje, que está sendo alterado hoje.
+
+18:46.200 --> 18:47.200
+Isso.
+
+18:47.200 --> 18:48.200
+Certo?
+
+18:48.200 --> 18:52.200
+Tem outras ferramentas que auxiliam esse ERP, né?
+
+18:52.200 --> 18:56.200
+Esse sistema de gestão, que são ferramentas de ex-flighting,
+
+18:56.200 --> 18:58.200
+como já foi mencionado anteriormente.
+
+18:58.200 --> 19:00.200
+E trabalha em cima da cadeia de suprimentos.
+
+19:00.200 --> 19:04.200
+A cadeia de suprimentos de empresa ou parte de logística de uma empresa,
+
+19:04.200 --> 19:07.200
+elas vêm desde o planejamento da compra, né?
+
+19:07.200 --> 19:10.200
+O contato com o seu fornecedor, o planejamento da compra,
+
+19:10.200 --> 19:15.200
+a compra, manufatura, atendimento, venda e pós-menda, né?
+
+19:15.200 --> 19:19.200
+Então, a entrega de perfum de muito logística,
+
+19:19.200 --> 19:23.200
+só com o transporte da mercadoria até o cliente, né?
+
+19:23.200 --> 19:24.200
+E não é.
+
+19:24.200 --> 19:26.200
+Na verdade, é todo esse processo que compreende essa cadeia.
+
+19:26.200 --> 19:27.200
+Eu te falo isso.
+
+19:27.200 --> 19:29.200
+Eu faz vezes eu não sabia.
+
+19:29.200 --> 19:34.200
+É, a pós-menda também, inclusive, casado com apoio à pós-menda, né?
+
+19:34.200 --> 19:35.200
+Exato.
+
+19:35.200 --> 19:36.200
+Apoio à pós-menda.
+
+19:36.200 --> 19:37.200
+Não é o pós-menda em si.
+
+19:37.200 --> 19:42.200
+Pós-menda em si ele é feito através de um outro software também integrado,
+
+19:42.200 --> 19:45.200
+o body-se integrado R&P, que é o CRN,
+
+19:45.200 --> 19:47.200
+Tanto na relationship management,
+
+19:47.200 --> 19:49.200
+que é a gestão do relacionamento com o cliente.
+
+19:49.200 --> 19:53.200
+É, ou quem a gente faz, inclusive, é integrado com a parte de prediário, né?
+
+19:53.200 --> 19:55.200
+Também com a parte de marketing.
+
+19:55.200 --> 19:59.200
+Esse é a importância desses sistemas serem integrados,
+
+19:59.200 --> 20:04.200
+é que até o planejamento da compra que é feito pelo supply chain, né?
+
+20:04.200 --> 20:09.200
+Ele pode ser utilizado a dados do serem integrados com o CRN
+
+20:09.200 --> 20:11.200
+e utilizado a dados desse R&P.
+
+20:11.200 --> 20:15.200
+Como, por exemplo, você definir perfil de compra do seu consumidor.
+
+20:15.200 --> 20:18.200
+Pra você planejar que tipo de produto que você vai ter que comprar.
+
+20:18.200 --> 20:22.200
+Ah, tá. Tenho o meu preço médio, o tipo médio.
+
+20:22.200 --> 20:25.200
+Até o poder auditivo do seu consumidor.
+
+20:25.200 --> 20:29.200
+O que é que... o consumo médio daquele perfil de consumidor que você tem?
+
+20:29.200 --> 20:32.200
+É, envolve também bastante coisa do prediário mesmo, né?
+
+20:32.200 --> 20:33.200
+Sim.
+
+20:33.200 --> 20:37.200
+Inclusive, a parte de gestão empresarial, né?
+
+20:37.200 --> 20:42.200
+Utilizou muito esse tipo de informação pra montar sua estratégia de niche mercado,
+
+20:42.200 --> 20:45.200
+que é o público-alvo, é uma das estratégias empresariais, né?
+
+20:45.200 --> 20:48.200
+Que define o público que você vai atender por essa empresa.
+
+20:48.200 --> 20:50.200
+Agora, quanto ao BI, né?
+
+20:50.200 --> 20:51.200
+Business Intelligente.
+
+20:51.200 --> 20:56.200
+Nós temos aí a parte de bancos de dados analíticos, né?
+
+20:56.200 --> 20:58.200
+Que não se difere do transacional.
+
+20:58.200 --> 21:04.200
+Ele não é normalizado, porque no banco de dados transacional você tem que normalizar,
+
+21:04.200 --> 21:09.200
+você tem que dividir, ou seja, fazer todo o projeto de um banco de dados voltado
+
+21:09.200 --> 21:13.200
+para as transações dos BDRs, dinâmicas transações dos BDRs, né?
+
+21:13.200 --> 21:16.200
+E ele é todo normalizado, todos os paradinhos, as tabelas e tudo mais.
+
+21:16.200 --> 21:20.200
+E pelas tecnologias, hoje, dos bancos de dados não resquelem, né?
+
+21:20.200 --> 21:23.200
+Eu acho que seria até mais adequado do que os bancos de dados resquelem, né?
+
+21:23.200 --> 21:28.200
+Que são aqueles bancos de dados que são orientados à coluna e não orientados à tabela.
+
+21:28.200 --> 21:32.200
+E, na verdade, esses bancos de dados mais antigos, esses baseiam no hierarco, né?
+
+21:32.200 --> 21:35.200
+E tem o MapReduce, né?
+
+21:35.200 --> 21:39.200
+Porque eles têm esse conceito de que as pessoas são muito canudas, né?
+
+21:39.200 --> 21:46.200
+E aí, continuando a parte de BI, você vai extrair dados desse banco de dados transacional
+
+21:46.200 --> 21:48.200
+ou de outras fontes de dados.
+
+21:48.200 --> 21:56.200
+Também você pode pegar aqui os pesos, planilhele, e tal, com ferramentas chamadas ferramentas ETL, né?
+
+21:56.200 --> 21:58.200
+Extract Transform Load.
+
+21:58.200 --> 22:04.200
+Ou seja, os ferramentas fazem extração de dados, transformação desses dados e a carne desses dados
+
+22:04.200 --> 22:05.200
+em um outro dos dados.
+
+22:05.200 --> 22:11.200
+Previamente, ao uso dessa ferramenta, você tem que ter preparado a sua DSA, DSTG area,
+
+22:11.200 --> 22:14.200
+ou seja, a área de estágio dos dados, onde você vai fazer o quê?
+
+22:14.200 --> 22:19.200
+Toda a padronização dessas múltiples fontes que você utilizou como origem, né?
+
+22:19.200 --> 22:25.200
+Aí você padroniza em uma única base de dados, faz a carga em cima dessa área de estágio dos dados
+
+22:25.200 --> 22:31.200
+e faz também o tratamento, tirando as redundâncias que são desnecessárias
+
+22:31.200 --> 22:35.200
+e em consistência também que vão afetar o seu resultado final.
+
+22:35.200 --> 22:39.200
+É semelhante à preparação para fazer o DataMine, né?
+
+22:39.200 --> 22:45.200
+É, não. Na verdade, é um dos processos para se montar o DataMart e o DataWareHouse.
+
+22:45.200 --> 22:51.200
+O DataMine também se baseia em cima desses tipos de vacidades que você monta para a análise.
+
+22:51.200 --> 22:52.200
+Tem uma coisa interessante, né?
+
+22:52.200 --> 22:58.200
+Para me executar uma millenação de dados, é que você está preparado e almoide o ambiente,
+
+22:58.200 --> 22:59.200
+né?
+
+22:59.200 --> 23:01.200
+Quando parte em cima da massa completa, né?
+
+23:01.200 --> 23:05.200
+Não, você faz em cima da massa, porque esses bancos dados são orientados ao assunto.
+
+23:05.200 --> 23:08.200
+Você tem que, por exemplo, fazer, ah, eu quero fazer planejamento de vendos.
+
+23:08.200 --> 23:10.200
+Então, o quê que você vai mapear?
+
+23:10.200 --> 23:12.200
+Tudo aquilo que envolve vendos, só.
+
+23:12.200 --> 23:15.200
+Você não precisa pegar outras coisas que não tem nada a ver.
+
+23:15.200 --> 23:18.200
+Aí você monta a tabela de fato,
+
+23:18.200 --> 23:22.200
+que é a tabela central da sua análise, que é a venda.
+
+23:22.200 --> 23:27.200
+E aí você tem ligado-se a ela a tabela de dimensões, que é assim que se monta um DataMart,
+
+23:27.200 --> 23:29.200
+que é o DataWareHouse.
+
+23:29.200 --> 23:32.200
+É só montar o cubo que você está achando, né?
+
+23:32.200 --> 23:33.200
+Exatamente.
+
+23:33.200 --> 23:38.200
+Então, aí você vai ter, em volta dessa tabela, se for um diagrama de forma estrela, né?
+
+23:38.200 --> 23:39.200
+Um modelo estrela.
+
+23:39.200 --> 23:42.200
+Você vai ter em volta dela a tabela de dimensões, como o tempo, né?
+
+23:42.200 --> 23:45.200
+Que aí vai todos os dados de ano, trimestre, trimestre.
+
+23:45.200 --> 23:48.200
+A forma que você quiser controlar o período da venda,
+
+23:48.200 --> 23:50.200
+fazer planejamento de vendos para o período,
+
+23:50.200 --> 23:53.200
+você vai ter, por exemplo, lojas ou região,
+
+23:53.200 --> 23:58.200
+produto, são aí, você vai descobrindo, vai montando relatórios,
+
+23:58.200 --> 24:00.200
+através aí, sim, agora, do Alapaz,
+
+24:00.200 --> 24:04.200
+você vai montando relatórios multidimensionais com esses dados.
+
+24:04.200 --> 24:07.200
+E aí, em cima desse DataWareHouse, ou desse DataMart,
+
+24:07.200 --> 24:11.200
+é que você vai rodar também a mineração de dados para descobrir o quê?
+
+24:11.200 --> 24:12.200
+Padrões.
+
+24:12.200 --> 24:13.200
+Padrões.
+
+24:13.200 --> 24:15.200
+E, geralmente, a ferramenta de mineração de dados,
+
+24:15.200 --> 24:18.200
+ela utiliza técnicas de estatística,
+
+24:18.200 --> 24:21.200
+ou, principalmente, de inteligência artificial.
+
+24:21.200 --> 24:23.200
+O pessoal vai fazer reconhecimento de padrões,
+
+24:23.200 --> 24:24.200
+na outra massilhada, a cena.
+
+24:24.200 --> 24:25.200
+Exatamente.
+
+24:25.200 --> 24:28.200
+É uma planação rápida de todos os ferramentas,
+
+24:28.200 --> 24:30.200
+que como ela se faz, né?
+
+24:30.200 --> 24:34.200
+Cada assunto dele se daria em um pôr de teste novo.
+
+24:34.200 --> 24:36.200
+Qualquer coisa, pôr de solução.
+
+24:36.200 --> 24:37.200
+É, eu sei tudo.
+
+24:37.200 --> 24:41.200
+A gente vai ter que marcar um pouco, fazer um complexo.
+
+24:41.200 --> 24:42.200
+Não.
+
+24:42.200 --> 24:43.200
+Tranquilo.
+
+24:43.200 --> 24:46.200
+A gente pode, inclusive, disponibilizar material para vocês,
+
+24:46.200 --> 24:48.200
+no site, na Trilho do Saí.
+
+24:48.200 --> 24:49.200
+Aham.
+
+24:49.200 --> 24:50.200
+Ok?
+
+24:50.200 --> 24:51.200
+Não, o velhou.
+
+24:51.200 --> 24:52.200
+Valeu.
+
+24:52.200 --> 24:54.200
+A gente pode montar um projeto de apoio,
+
+24:54.200 --> 24:55.200
+por exemplo, aos estudantes,
+
+24:55.200 --> 24:57.200
+a área de computação, aos curiosos.
+
+24:57.200 --> 24:59.200
+É, porque esse pôr de teste,
+
+24:59.200 --> 25:02.200
+esse episódio a gente fez, não só para quem,
+
+25:02.200 --> 25:05.200
+por exemplo, para aquela pessoa que está querendo entrar na área,
+
+25:05.200 --> 25:08.200
+como também aquela pessoa que tem,
+
+25:08.200 --> 25:10.200
+por exemplo, o cara tem a empresa,
+
+25:10.200 --> 25:11.200
+ele tem a parte...
+
+25:11.200 --> 25:13.200
+A necessidade desse tipo de...
+
+25:13.200 --> 25:14.200
+Aham.
+
+25:14.200 --> 25:16.200
+Ele fez, pelo menos, o que que ele está trabalhando,
+
+25:16.200 --> 25:17.200
+né?
+
+25:17.200 --> 25:20.200
+É, até a pessoa do TI lá que trabalha pelo desenvolvimento,
+
+25:20.200 --> 25:21.200
+mas o que que eles fazem, né?
+
+25:21.200 --> 25:22.200
+Aham.
+
+25:22.200 --> 25:26.200
+E não, e agora é interessante que eu estava até participando
+
+25:26.200 --> 25:30.200
+de um projeto da federação do comércio.
+
+25:30.200 --> 25:32.200
+São projetos do federação nacional
+
+25:32.200 --> 25:34.200
+e com federação nacional do comércio.
+
+25:34.200 --> 25:35.200
+Aham.
+
+25:35.200 --> 25:37.200
+Que estavam funcionando aqui em Goiânia.
+
+25:37.200 --> 25:40.200
+E é oferecida para os sindicatos,
+
+25:40.200 --> 25:41.200
+né?
+
+25:41.200 --> 25:44.200
+Os cursos de automação comercial e conexão de serviços.
+
+25:44.200 --> 25:46.200
+E não importa o tamanho da empresa.
+
+25:46.200 --> 25:48.200
+Hoje, para se utilizar a tecnologia,
+
+25:48.200 --> 25:51.200
+porque a empresa pode utilizar.
+
+25:51.200 --> 25:54.200
+Aí dimensiona essa tecnologia a realidade da empresa.
+
+25:54.200 --> 25:55.200
+Aham.
+
+25:55.200 --> 25:56.200
+Eu até...
+
+25:56.200 --> 25:58.200
+Eu até fui numa dessas palestras.
+
+25:58.200 --> 25:59.200
+Eu lembro.
+
+25:59.200 --> 26:00.200
+Isso, exatamente.
+
+26:00.200 --> 26:02.200
+Na verdade, eu sou menos de lá que quer.
+
+26:02.200 --> 26:03.200
+Isso, eu sou menos.
+
+26:03.200 --> 26:04.200
+Isso, né?
+
+26:04.200 --> 26:05.200
+Valeu, então.
+
+26:05.200 --> 26:06.200
+Obrigado.
+
+26:06.200 --> 26:07.200
+Eu tenho uma vez para...
+
+26:07.200 --> 26:09.200
+Eu amo o seu businesses.
+
+26:09.200 --> 26:10.200
+Aham.
+
+26:23.200 --> 26:25.200
+Outro boring também.
+
+26:25.200 --> 26:27.200
+Outro parte chato também.
+
+26:27.200 --> 26:28.200
+Entendido.
+
+26:28.200 --> 26:29.200
+Não é muito chato.
+
+26:29.200 --> 26:32.200
+Então hoje, mesmo deixa de ser chato,
+
+26:32.200 --> 26:33.200
+mais pago leitinho das crianças,
+
+26:33.200 --> 26:34.200
+é os PDVs, né?
+
+26:34.200 --> 26:37.200
+Que basicamente são os pontos deles,
+
+26:37.200 --> 26:38.200
+vendo?
+
+26:38.200 --> 26:41.200
+Que, na verdade,
+
+26:41.200 --> 26:44.200
+se você for pegar, assim, a maioria das siglas,
+
+26:44.200 --> 26:48.200
+as conjuções e ligações entre uma palavra e outra,
+
+26:48.200 --> 26:50.200
+não entra na sigla, né?
+
+26:50.200 --> 26:52.200
+O PDV é uma exceção.
+
+26:52.200 --> 26:55.200
+Que o díduo que liga o ponto e venda,
+
+26:55.200 --> 26:56.200
+entrou na sigla.
+
+26:56.200 --> 26:58.200
+Mas foi para deixar um pouco mais legível, né?
+
+26:58.200 --> 27:00.200
+O PDV é ponto de venda.
+
+27:00.200 --> 27:02.200
+Eu acho que é por causa da sigla inglês.
+
+27:02.200 --> 27:04.200
+Sabe como é que é inglês?
+
+27:04.200 --> 27:05.200
+Mine of sale.
+
+27:05.200 --> 27:06.200
+Então é essa aí.
+
+27:06.200 --> 27:07.200
+Traz de direção, exatamente.
+
+27:07.200 --> 27:08.200
+O pedalete.
+
+27:08.200 --> 27:09.200
+Bem ao pedalete.
+
+27:09.200 --> 27:11.200
+Então, como funciona aí o PDV?
+
+27:11.200 --> 27:13.200
+O PDV tem alguns modelos diferentes,
+
+27:13.200 --> 27:15.200
+mas basicamente é o controle de venta, né?
+
+27:15.200 --> 27:17.200
+O pessoal chega para a efetória.
+
+27:17.200 --> 27:18.200
+O stock?
+
+27:18.200 --> 27:20.200
+Creio que a parte chata do stock
+
+27:20.200 --> 27:22.200
+seria mais agenciamente doante dada.
+
+27:22.200 --> 27:23.200
+Estou errado?
+
+27:23.200 --> 27:26.200
+É porque coloquei aqui na pauta
+
+27:26.200 --> 27:28.200
+boring stocking, né?
+
+27:28.200 --> 27:30.200
+Porque eu falo que esse tipo de stock chato
+
+27:30.200 --> 27:32.200
+é porque eles são bastante comuns, né?
+
+27:32.200 --> 27:34.200
+Então, 90% dos softwares que você vai encontrar,
+
+27:34.200 --> 27:37.200
+pelo menos os comerciais, eles são tão relacionados.
+
+27:37.200 --> 27:39.200
+Então, e em contramão, assim,
+
+27:39.200 --> 27:42.200
+outros tipos de softwares que eu já tive experiência,
+
+27:42.200 --> 27:44.200
+são várias formas de software,
+
+27:44.200 --> 27:46.200
+mas os que eu já tive experiência
+
+27:46.200 --> 27:48.200
+foram também o Full Software Disk,
+
+27:48.200 --> 27:50.200
+que é Geographic Information System, né?
+
+27:50.200 --> 27:52.200
+Ou em português SIG,
+
+27:52.200 --> 27:54.200
+que é sistema de formação geográfica.
+
+27:54.200 --> 27:55.200
+Conhece alguma coisa?
+
+27:55.200 --> 27:57.200
+Tipo, relação a Google Maps?
+
+27:57.200 --> 27:59.200
+É bem roots, né?
+
+27:59.200 --> 28:01.200
+O que eu trabalhei é roots,
+
+28:01.200 --> 28:03.200
+é que desistiu o Google Maps.
+
+28:03.200 --> 28:05.200
+Ele é o conceito de banco de dados.
+
+28:05.200 --> 28:07.200
+Na época que eu trabalhava com o Disk,
+
+28:07.200 --> 28:09.200
+a gente mapeava um banco normal,
+
+28:09.200 --> 28:11.200
+a entidade relacional,
+
+28:11.200 --> 28:13.200
+para ser um banco de G.
+
+28:13.200 --> 28:15.200
+Vocês usavam o quadro negro?
+
+28:15.200 --> 28:17.200
+Graças a caramba.
+
+28:17.200 --> 28:19.200
+Você vai lá.
+
+28:19.200 --> 28:21.200
+Vou falar, então, espacial, tá bom?
+
+28:21.200 --> 28:23.200
+Não, vai lá.
+
+28:23.200 --> 28:25.200
+Vou falar hoje.
+
+28:25.200 --> 28:27.200
+Eu não sou astróbio.
+
+28:27.200 --> 28:29.200
+Eu sou acésio programador astróbio.
+
+28:29.200 --> 28:31.200
+É basicamente assim,
+
+28:31.200 --> 28:33.200
+eu tenho uma informação geográfica,
+
+28:33.200 --> 28:35.200
+por exemplo,
+
+28:35.200 --> 28:37.200
+no projeto que eu trabalhei por mais tempo,
+
+28:37.200 --> 28:39.200
+a gente fez, são companhias de energia elétrica.
+
+28:39.200 --> 28:41.200
+Então, assim, as informações
+
+28:41.200 --> 28:43.200
+que ela tem
+
+28:43.200 --> 28:45.200
+é de uma extensão territorial muito grande.
+
+28:45.200 --> 28:47.200
+Então, ela podia fazer planejamento,
+
+28:47.200 --> 28:49.200
+o controle de estoque dela,
+
+28:49.200 --> 28:51.200
+o armazém, o almoçoarefato dela,
+
+28:51.200 --> 28:53.200
+é o país inteiro, né?
+
+28:53.200 --> 28:55.200
+Então, para identificar isso é bastante complicado.
+
+28:55.200 --> 28:57.200
+Então, tipo assim, eu tinha
+
+28:57.200 --> 28:59.200
+cada ponto de geografia,
+
+28:59.200 --> 29:01.200
+eu tinha informações,
+
+29:01.200 --> 29:03.200
+por exemplo, que poderia ser um poste,
+
+29:03.200 --> 29:05.200
+e nesse poste eu saberia todos os equipamentos
+
+29:05.200 --> 29:07.200
+que estão instalados nesse software.
+
+29:07.200 --> 29:09.200
+Com esse software eu poderia fazer
+
+29:09.200 --> 29:11.200
+esse planejamento bastante intuitivo
+
+29:11.200 --> 29:13.200
+desses materiais que eu tenho em campo,
+
+29:13.200 --> 29:15.200
+eu pensei. Ah, entendi.
+
+29:15.200 --> 29:17.200
+É legal, assim, é tipo, é a medição
+
+29:17.200 --> 29:19.200
+de energia da CELB também,
+
+29:19.200 --> 29:21.200
+do pessoal das empresas de energia.
+
+29:21.200 --> 29:23.200
+Cada casa tem um metrônomo
+
+29:23.200 --> 29:25.200
+e seria, mais ou menos, você?
+
+29:25.200 --> 29:27.200
+Cada casa de música tem um metrônomo.
+
+29:27.200 --> 29:29.200
+Cada...
+
+29:29.200 --> 29:31.200
+Não, cada casa tem um relógio,
+
+29:31.200 --> 29:33.200
+um padrão de energia.
+
+29:33.200 --> 29:35.200
+É um medidor que chama. Eu não queria falar mais
+
+29:35.200 --> 29:37.200
+uma das empresas que eu trabalhei a CELB,
+
+29:37.200 --> 29:39.200
+para mexer com isso. CELB é a ela
+
+29:39.200 --> 29:41.200
+Tropaulo de Goiagem. E outra empresa que eu trabalhei a CELB
+
+29:41.200 --> 29:43.200
+foi... Vou ficar fazendo propaganda, não? Não, vai não.
+
+29:43.200 --> 29:45.200
+No dia que elas pagar a gente, a gente fala.
+
+29:45.200 --> 29:47.200
+Eu posso cantar a música?
+
+29:47.200 --> 29:49.200
+Lá no blurro,
+
+29:49.200 --> 29:51.200
+quando a luz da light pierce. Agora,
+
+29:51.200 --> 29:53.200
+nós vamos falar sobre as tecnologias.
+
+29:53.200 --> 29:55.200
+É uma parte interessante.
+
+29:55.200 --> 29:57.200
+Foi a mesma forma como a Madonna.
+
+29:57.200 --> 29:59.200
+A gente falou, é, sobre...
+
+29:59.200 --> 30:01.200
+sobre esses modelos de software e tal. A gente
+
+30:01.200 --> 30:03.200
+tem vários outros. Tem aquela parada do E-Commerce,
+
+30:03.200 --> 30:05.200
+que é para... para compra
+
+30:05.200 --> 30:07.200
+pela internet e tal. A gente não poderia
+
+30:07.200 --> 30:09.200
+ficar citando aqui vários exemplos. Vamos...
+
+30:09.200 --> 30:11.200
+Vamos só para... Foi só
+
+30:11.200 --> 30:13.200
+para exemplificar, mesmo, para não passar em branco.
+
+30:13.200 --> 30:15.200
+Porque é a parte que interessa, mesmo a parte das
+
+30:15.200 --> 30:17.200
+tecnologias. Acho que eu quis comentar
+
+30:17.200 --> 30:19.200
+só, pelo menos, o que eu tive a experiência
+
+30:19.200 --> 30:21.200
+tentando ficar aquela coisa, só...
+
+30:21.200 --> 30:23.200
+Mais como uma troca de experiência, mesmo.
+
+30:23.200 --> 30:25.200
+Ah, só queria.
+
+30:29.200 --> 30:31.200
+E na hora de...
+
+30:31.200 --> 30:33.200
+de experimentar
+
+30:33.200 --> 30:35.200
+toda essa ideologia que eu tenho na cabeça.
+
+30:35.200 --> 30:37.200
+O que é que eu... Um computador?
+
+30:37.200 --> 30:39.200
+Às vezes.
+
+30:39.200 --> 30:41.200
+Serramentos de desenvolvimento
+
+30:41.200 --> 30:43.200
+tem vários categorias que a gente pode
+
+30:43.200 --> 30:45.200
+especificar, né?
+
+30:45.200 --> 30:47.200
+Tem as ideias, que são os ambientes de desenvolvimento
+
+30:47.200 --> 30:49.200
+integrado. A primeira é a linguagem
+
+30:49.200 --> 30:51.200
+de programação que você vai usar, né?
+
+30:51.200 --> 30:53.200
+É, né? Depois...
+
+30:53.200 --> 30:55.200
+Depois você escolhe a linguagem de programação
+
+30:55.200 --> 30:57.200
+e você, possivelmente, vai escolher
+
+30:57.200 --> 30:59.200
+uma ideia, né? Isso é um...
+
+30:59.200 --> 31:01.200
+Eu acho que isso pode ser até um...
+
+31:01.200 --> 31:03.200
+Isso pode ser tema para um outro
+
+31:03.200 --> 31:05.200
+broadcast, mas é coisa que eu acho
+
+31:05.200 --> 31:07.200
+interessante. Porque tem o RubyWay, né?
+
+31:07.200 --> 31:09.200
+Que é o modo Ruby
+
+31:09.200 --> 31:11.200
+programado. Eu acho que um grande erro que
+
+31:11.200 --> 31:13.200
+o pessoal é acostumado a dizer, é que
+
+31:13.200 --> 31:15.200
+ah, aprendi uma linguagem de programação
+
+31:15.200 --> 31:17.200
+e as outras é a mesma coisa.
+
+31:17.200 --> 31:19.200
+Isso acontece por causa...
+
+31:19.200 --> 31:21.200
+que existem muitas linguagens, ser like, né?
+
+31:21.200 --> 31:23.200
+Então, eu... No meu pensamento
+
+31:23.200 --> 31:25.200
+isso acontece por causa disso, porque
+
+31:25.200 --> 31:27.200
+às vezes você aprende a programar em C,
+
+31:27.200 --> 31:29.200
+daí você já aprende... Já é bem mais fácil
+
+31:29.200 --> 31:31.200
+programar em Java, em C mais mais, e por aí vai.
+
+31:31.200 --> 31:33.200
+Então, é o que eu vejo isso de uma outra forma,
+
+31:33.200 --> 31:35.200
+assim, por exemplo, se você programa em
+
+31:35.200 --> 31:37.200
+VisualBeats e quer programar em Delfo,
+
+31:37.200 --> 31:39.200
+ou vice-versa, e você tentar mapear
+
+31:39.200 --> 31:41.200
+o que você fazia na tecnologia anterior,
+
+31:41.200 --> 31:43.200
+esses são... Tecnologia bem comum, né?
+
+31:43.200 --> 31:45.200
+Então, você acaba tendo uma perca muito grande.
+
+31:45.200 --> 31:47.200
+Toda linguagem tem seu modo
+
+31:47.200 --> 31:49.200
+de programar, né? Todo tem...
+
+31:49.200 --> 31:51.200
+todo tem o RubyWay, tem o DelfoWay.
+
+31:51.200 --> 31:53.200
+É, porque às vezes você pode falar
+
+31:53.200 --> 31:55.200
+que tem questão de ferramenta também, né?
+
+31:55.200 --> 31:57.200
+Porque... Na forma de
+
+31:57.200 --> 31:59.200
+trabalhar, que às vezes você pega, por exemplo,
+
+31:59.200 --> 32:01.200
+o Java, tudo ali é separado,
+
+32:01.200 --> 32:03.200
+aí tem ali... Você tem que usar API pra isso,
+
+32:03.200 --> 32:05.200
+API pra aquilo e tal, é tudo bem
+
+32:05.200 --> 32:07.200
+mais separado, assim, bem mais genérico.
+
+32:07.200 --> 32:09.200
+Isso também seria outro tema, caramba,
+
+32:09.200 --> 32:11.200
+eu só estou acumulando tema pra
+
+32:11.200 --> 32:13.200
+o podcast, mas esse seria
+
+32:13.200 --> 32:15.200
+os paradigmas de desenvolvimento,
+
+32:15.200 --> 32:17.200
+né? Que são paradigmas orientadas
+
+32:17.200 --> 32:19.200
+do objeto, do procedural, e assim por diante
+
+32:19.200 --> 32:21.200
+o orientado aspecto, né?
+
+32:21.200 --> 32:23.200
+Que é o mais novo, ok? Então,
+
+32:23.200 --> 32:25.200
+seria uma API... Aplication Programming
+
+32:25.200 --> 32:27.200
+Interface. Português, Interface
+
+32:27.200 --> 32:29.200
+de Programação de Aplicativo. Espera,
+
+32:37.200 --> 32:39.200
+Se eu tivesse pedido em latinha, eu até falaria,
+
+32:39.200 --> 32:41.200
+eu não pedi, não. Não, beleza. Mas as
+
+32:41.200 --> 32:43.200
+APIs, é, por exemplo, é... Eu vou
+
+32:43.200 --> 32:45.200
+compartilhar minha experiência de novo com o
+
+32:45.200 --> 32:47.200
+Tb6? Ha! Que foda!
+
+32:47.200 --> 32:49.200
+É porque assim, tudo que o Windows
+
+32:49.200 --> 32:51.200
+consegue fazer, é possível fazer no
+
+32:51.200 --> 32:53.200
+Vb6 por causa da API doindo. É porque
+
+32:53.200 --> 32:55.200
+a API seria mais ou menos...
+
+32:55.200 --> 32:57.200
+É como o próprio não diz, né? É o
+
+32:57.200 --> 32:59.200
+Interface, né? Interface entre...
+
+32:59.200 --> 33:01.200
+É porque foi... Eu creio
+
+33:01.200 --> 33:03.200
+que a API foi uma...
+
+33:03.200 --> 33:05.200
+uma evolução do...
+
+33:05.200 --> 33:07.200
+da própria programação, porque às vezes
+
+33:07.200 --> 33:09.200
+a evolução, é você usar ali um...
+
+33:09.200 --> 33:11.200
+um procedimento, ou um método, né?
+
+33:11.200 --> 33:13.200
+Pra você não ficar escrevendo aquilo e
+
+33:13.200 --> 33:15.200
+repetir das vezes no seu código.
+
+33:15.200 --> 33:17.200
+Daí, você precisa de fazer isso,
+
+33:17.200 --> 33:19.200
+esse mesmo método, em vários outros programas.
+
+33:19.200 --> 33:21.200
+Daí, você, de acordo com o que vai crescendo,
+
+33:21.200 --> 33:23.200
+você, em vez de você
+
+33:23.200 --> 33:25.200
+escrever um método, uma vez pra cada
+
+33:25.200 --> 33:27.200
+programa, você cria um API, daí você
+
+33:27.200 --> 33:29.200
+só implementa essa API de um
+
+33:29.200 --> 33:31.200
+programa pro outro, e você economiza
+
+33:31.200 --> 33:33.200
+crita de software no seu
+
+33:33.200 --> 33:35.200
+processo de envolvimento.
+
+33:37.200 --> 33:41.200
+Eu acho que foi isso que eu
+
+33:41.200 --> 33:43.200
+falava também do padrão de
+
+33:43.200 --> 33:45.200
+projeto, né? O design
+
+33:45.200 --> 33:47.200
+de parto. Padrão de
+
+33:47.200 --> 33:49.200
+projeto, uma coisa que tá no meu
+
+33:49.200 --> 33:51.200
+tio do list, já tem um ano e
+
+33:51.200 --> 33:53.200
+tanto, e até hoje eu não
+
+33:53.200 --> 33:55.200
+peguei pra estudar. Eu... Eu
+
+33:55.200 --> 33:57.200
+resumiria o padrão de
+
+33:57.200 --> 33:59.200
+projeto na arte de
+
+33:59.200 --> 34:01.200
+não errei e ventar a rota. Padrão
+
+34:01.200 --> 34:03.200
+de projeto, pra quem se lembra da
+
+34:03.200 --> 34:05.200
+minha frase, que eu falei no começo
+
+34:05.200 --> 34:07.200
+do podcast, principal
+
+34:07.200 --> 34:09.200
+criador, assim, eu acho que foi
+
+34:09.200 --> 34:11.200
+até o criador do termo, né,
+
+34:11.200 --> 34:13.200
+design pattern, foi o pessoal da
+
+34:13.200 --> 34:15.200
+gangue dos quatro, né, gangue
+
+34:15.200 --> 34:17.200
+of four, que tem até o livro, né,
+
+34:17.200 --> 34:19.200
+design patterns, tal.
+
+34:19.200 --> 34:21.200
+Então, o Goff, ele fez
+
+34:21.200 --> 34:23.200
+a bíblia do padrão de
+
+34:23.200 --> 34:25.200
+projeto. Quer dizer, no caso do
+
+34:25.200 --> 34:27.200
+Goff, eles fizeram o documento
+
+34:27.200 --> 34:29.200
+base, né, que seria a bíblia do
+
+34:29.200 --> 34:31.200
+padrão de projeto. É, através
+
+34:31.200 --> 34:33.200
+desse livro, você aplicando aquelas
+
+34:33.200 --> 34:35.200
+gangues dos quatro, a gente fala gangue
+
+34:35.200 --> 34:37.200
+dos quatro, porque eram quatro
+
+34:37.200 --> 34:39.200
+pessoas, né, o Eric Gamma, o Richard
+
+34:39.200 --> 34:41.200
+Helm, o Ralph Johnson
+
+34:41.200 --> 34:43.200
+e o John Glissie, ah, não sei se
+
+34:43.200 --> 34:45.200
+pronuncia dessa forma, mas
+
+34:45.200 --> 34:47.200
+essas quatro pessoas se reuniram pra
+
+34:47.200 --> 34:49.200
+desenvolver ali os padrões de
+
+34:49.200 --> 34:51.200
+projetos, seria um padrão
+
+34:51.200 --> 34:53.200
+para o desenvolvimento de só. O que assim,
+
+34:53.200 --> 34:55.200
+cara, né? Caso a Géria de Solter, quando
+
+34:55.200 --> 34:57.200
+você construir, por exemplo, uma
+
+34:57.200 --> 34:59.200
+janela, não faz sentido você ficar
+
+34:59.200 --> 35:01.200
+reconstruindo essa mesma janela,
+
+35:01.200 --> 35:03.200
+porque vocês são um pouco diferentes.
+
+35:03.200 --> 35:05.200
+É, seria uma boa leitura pra quem
+
+35:05.200 --> 35:07.200
+quiser seguir essa carreira
+
+35:07.200 --> 35:09.200
+de desenvolvedor, você precisa
+
+35:09.200 --> 35:11.200
+saber design patterns, né, que é
+
+35:11.200 --> 35:13.200
+os padrões de desenvolvimento. Se é a
+
+35:13.200 --> 35:15.200
+Géria, a gente vai deixar um link falando
+
+35:15.200 --> 35:17.200
+sobre design pattern e a gangue dos
+
+35:17.200 --> 35:19.200
+quatro no post, aí vocês visitam lá
+
+35:19.200 --> 35:21.200
+o post, vão ficar sabendo mais, poderão
+
+35:21.200 --> 35:23.200
+pesquisar sobre isso aí. Acho que pra
+
+35:23.200 --> 35:25.200
+ver o projeto, tem um assunto pra um
+
+35:25.200 --> 35:27.200
+podcast diferente, né, através desse
+
+35:27.200 --> 35:29.200
+podcast, já surgiram cinco podcasts
+
+35:29.200 --> 35:31.200
+e agora seguindo pra
+
+35:31.200 --> 35:33.200
+uma outra área,
+
+35:33.200 --> 35:35.200
+pra uma outra perspectiva,
+
+35:35.200 --> 35:37.200
+a gente pode falar
+
+35:37.200 --> 35:39.200
+sobre o segredo do sucesso
+
+35:39.200 --> 35:41.200
+ou não, né, do desenvolvimento
+
+35:41.200 --> 35:43.200
+de só. Como o desenvolvimento
+
+35:43.200 --> 35:45.200
+de só é relativamente uma coisa nova,
+
+35:45.200 --> 35:47.200
+tipo assim, né, tão antigo como
+
+35:47.200 --> 35:49.200
+a Géria Civil e
+
+35:49.200 --> 35:51.200
+essas outras medicinas,
+
+35:51.200 --> 35:53.200
+e a Géria já é milenar, né,
+
+35:53.200 --> 35:55.200
+a Géria Civil já é milenar
+
+35:55.200 --> 35:57.200
+enquanto a computação
+
+35:57.200 --> 35:59.200
+que a Géria Civil tem aí, 20 anos.
+
+35:59.200 --> 36:01.200
+A Géria Civil tem eu.
+
+36:01.200 --> 36:03.200
+Eu tô falando da computação, como
+
+36:03.200 --> 36:05.200
+o desenvolvimento de só, do jeito
+
+36:05.200 --> 36:07.200
+que ele é visto hoje, tem bem menos
+
+36:07.200 --> 36:09.200
+tempo do que 20 anos.
+
+36:09.200 --> 36:11.200
+Então, outra coisa que eu até
+
+36:11.200 --> 36:13.200
+comentar no podcast anterior,
+
+36:13.200 --> 36:15.200
+mas aí o Sheldon, que eu vou falar
+
+36:15.200 --> 36:17.200
+que era no caso desse GML, aí eu vou
+
+36:17.200 --> 36:19.200
+brincar com ele, que eu tava falando
+
+36:19.200 --> 36:21.200
+da minha palta e acabei se não falando
+
+36:21.200 --> 36:23.200
+na respeito. Esse GML, ele nasceu na
+
+36:23.200 --> 36:25.200
+década de 70, né, cara, ou seja,
+
+36:25.200 --> 36:27.200
+eu vou me deixar a música dos anos 70,
+
+36:27.200 --> 36:29.200
+que eu acho que é caramba.
+
+36:29.200 --> 36:31.200
+Mas esse GML,
+
+36:31.200 --> 36:33.200
+que no caso, foi que
+
+36:33.200 --> 36:35.200
+surgiu o conceito do CSS,
+
+36:35.200 --> 36:37.200
+né, só uma dentro da respeito
+
+36:37.200 --> 36:39.200
+do podcast anterior. Mas assim,
+
+36:39.200 --> 36:41.200
+muita coisa, por exemplo, o programação
+
+36:41.200 --> 36:43.200
+orientado ao objeto, queria comentar que
+
+36:43.200 --> 36:45.200
+nas décadas de 70 isso já existia, né,
+
+36:45.200 --> 36:47.200
+então não é uma coisa tão nova, não entendi.
+
+36:47.200 --> 36:49.200
+Mas assim, como que seria
+
+36:49.200 --> 36:51.200
+bom, qual que é o segredo, assim,
+
+36:51.200 --> 36:53.200
+você que já tem bem mais experiência
+
+36:53.200 --> 36:55.200
+qual que é o segredo, assim, de ter um
+
+36:55.200 --> 36:57.200
+sucesso no desenvolvimento de software
+
+36:57.200 --> 36:59.200
+em geral, tanto no comprimento de prazo
+
+36:59.200 --> 37:01.200
+quanto no comprimento
+
+37:01.200 --> 37:03.200
+do escopo, do projeto em si
+
+37:03.200 --> 37:05.200
+e o que você tem a dizer
+
+37:05.200 --> 37:07.200
+sobre si? Então, assim, porque o
+
+37:07.200 --> 37:09.200
+desenvolvimento de software
+
+37:09.200 --> 37:11.200
+é um processo de produção
+
+37:11.200 --> 37:13.200
+dos menos tangíveis, é uma
+
+37:13.200 --> 37:15.200
+grande dificuldade a você mesurar
+
+37:15.200 --> 37:17.200
+tempo e mesurar até mesmo
+
+37:17.200 --> 37:19.200
+sucesso, por isso que existe o project.
+
+37:19.200 --> 37:21.200
+No caso do software, o software como
+
+37:21.200 --> 37:23.200
+ele é uma forma, um processo
+
+37:23.200 --> 37:25.200
+produtivo, menos tangíveis que
+
+37:25.200 --> 37:27.200
+existe, é bastante complicado você
+
+37:27.200 --> 37:29.200
+gerenciar o projeto. Claro, o que comentou
+
+37:29.200 --> 37:31.200
+o project, né, que uma carne tira esse
+
+37:31.200 --> 37:33.200
+projeto, ela pode ser usada em
+
+37:33.200 --> 37:35.200
+vários tipos de projetos, não só do
+
+37:35.200 --> 37:37.200
+desenvolvimento de software. A gerenciamento
+
+37:37.200 --> 37:39.200
+de projeto não é tão diferente do
+
+37:39.200 --> 37:41.200
+gerenciamento de projeto de software para
+
+37:41.200 --> 37:43.200
+um gerenciamento de uma viagem, por exemplo,
+
+37:43.200 --> 37:45.200
+gerenciamento de uma usina hidrelétrica,
+
+37:45.200 --> 37:47.200
+gerenciamento da pretrobragem, etc.
+
+37:47.200 --> 37:49.200
+Vou deixar o link do post para o podcast
+
+37:49.200 --> 37:51.200
+do 5 minutes p.m.
+
+37:51.200 --> 37:53.200
+podcast do Ricardo Vargas,
+
+37:53.200 --> 37:55.200
+que é um podcast de maneira
+
+37:55.200 --> 37:57.200
+sobre gerenciamento de projeto. Legal.
+
+37:57.200 --> 37:59.200
+Uma coisa interessante, como a gente
+
+37:59.200 --> 38:01.200
+falou, sobre esses problemas
+
+38:01.200 --> 38:03.200
+do desenvolvimento de software,
+
+38:03.200 --> 38:05.200
+para ter um sucesso do desenvolvimento
+
+38:05.200 --> 38:07.200
+do projeto e ter um bom processo de
+
+38:07.200 --> 38:09.200
+desenvolvimento, tem que seguir, você
+
+38:09.200 --> 38:11.200
+quer uma metodologia em cascata, então
+
+38:11.200 --> 38:13.200
+você tem que seguir a risca, se você
+
+38:13.200 --> 38:15.200
+quer uma metodologia XP,
+
+38:15.200 --> 38:17.200
+uma metodologia Scrum,
+
+38:17.200 --> 38:19.200
+então você tem que seguir a risca mesmo,
+
+38:19.200 --> 38:21.200
+tem que ter um bom treinamento de sua
+
+38:21.200 --> 38:23.200
+equipe. Claro que a função
+
+38:23.200 --> 38:25.200
+crucial no desenvolvimento
+
+38:25.200 --> 38:27.200
+é a função do gerenciamento, né?
+
+38:27.200 --> 38:29.200
+Ele tem que ser um bom gerenciamento, tem que
+
+38:29.200 --> 38:31.200
+ter uma boa tomada de decisão,
+
+38:31.200 --> 38:33.200
+tem que ter várias características que um
+
+38:33.200 --> 38:35.200
+bom gerenciamento tem que ter. Concluindo
+
+38:35.200 --> 38:37.200
+o que eu estava falando, sobre a
+
+38:37.200 --> 38:39.200
+tangibilidade do software, mais uma
+
+38:39.200 --> 38:41.200
+palavra para falar em reunião. 5 palavras, né?
+
+38:41.200 --> 38:43.200
+Existe forma de medir
+
+38:43.200 --> 38:45.200
+fimétricas de software que pode ser
+
+38:45.200 --> 38:47.200
+utilizado. Então
+
+38:47.200 --> 38:49.200
+a mais conhecida
+
+38:49.200 --> 38:51.200
+é a análise de ponto de função,
+
+38:51.200 --> 38:53.200
+que é uma das formas
+
+38:53.200 --> 38:55.200
+até hoje mais precisas de
+
+38:55.200 --> 38:57.200
+se menstruar um software, mas
+
+38:57.200 --> 38:59.200
+ela assim como tudo na vida
+
+38:59.200 --> 39:01.200
+não serve para tudo, é uma pena.
+
+39:01.200 --> 39:03.200
+Dependendo de si, por exemplo, um exemplo
+
+39:03.200 --> 39:05.200
+que não funciona
+
+39:05.200 --> 39:07.200
+o análise de ponto de função
+
+39:07.200 --> 39:09.200
+é quando você vai fazer um software
+
+39:09.200 --> 39:11.200
+por exemplo de back end, que ele faz
+
+39:11.200 --> 39:13.200
+consolidação de dados, por exemplo, o
+
+39:13.200 --> 39:15.200
+análise de ponto de função, ela usa
+
+39:15.200 --> 39:17.200
+bastante a interação com o usuário
+
+39:17.200 --> 39:19.200
+de entrada de dados e
+
+39:19.200 --> 39:21.200
+também as fontes de dados que ela
+
+39:21.200 --> 39:23.200
+pega. Então no modelo
+
+39:23.200 --> 39:25.200
+um tipo de software diferente do
+
+39:25.200 --> 39:27.200
+um RP, por exemplo, de folha de
+
+39:27.200 --> 39:29.200
+pagamento, talvez a análise de ponto de
+
+39:29.200 --> 39:31.200
+função ela não se adequa. Quando a
+
+39:31.200 --> 39:33.200
+complexidade do software é muito grande
+
+39:33.200 --> 39:35.200
+também, não é interessante fazer
+
+39:35.200 --> 39:37.200
+análise de ponto de função. Um análise bem
+
+39:37.200 --> 39:39.200
+interessante de se fazer também é a análise do
+
+39:39.200 --> 39:41.200
+programador, que é uma das peças principais
+
+39:41.200 --> 39:43.200
+que eu estou falando, porque o programador
+
+39:43.200 --> 39:45.200
+tem que ser um cabra bem mágico.
+
+39:49.200 --> 39:51.200
+Então, eu acho que
+
+39:51.200 --> 39:53.200
+pegando essa deixa do Sheldon
+
+39:53.200 --> 39:55.200
+a gente pode falar nas metodologias
+
+39:55.200 --> 39:57.200
+ágeis que o pessoal fala que
+
+39:57.200 --> 39:59.200
+é a teoria das restrições, sabe
+
+39:59.200 --> 40:01.200
+que é a perida restrições?
+
+40:01.200 --> 40:03.200
+Estou restrito a isso. E assim, você tem
+
+40:03.200 --> 40:05.200
+um modo de produzir software
+
+40:05.200 --> 40:07.200
+comum, né? Você tem tarefas
+
+40:07.200 --> 40:09.200
+corriqueiras no desenvolvimento
+
+40:09.200 --> 40:11.200
+Então, essas tarefas, elas são
+
+40:11.200 --> 40:13.200
+fáceis de mesurar. Ou seja, tarefas que
+
+40:13.200 --> 40:15.200
+eu costumo fazer, é assim, eu tenho
+
+40:15.200 --> 40:17.200
+uma funcionalidade não muito diferente
+
+40:17.200 --> 40:19.200
+das que eu já desenvolvo, eu consigo
+
+40:19.200 --> 40:21.200
+mesurar o tempo que eu vou gastar
+
+40:21.200 --> 40:23.200
+nessas tarefas. Ou quanto, por exemplo,
+
+40:23.200 --> 40:25.200
+eu vou gastar dois dias e tal. Então,
+
+40:25.200 --> 40:27.200
+a análise nas teoria das restrições
+
+40:27.200 --> 40:29.200
+tem um esquema que é você não pode
+
+40:29.200 --> 40:31.200
+ir. Tem alguma coisa que é muito
+
+40:31.200 --> 40:33.200
+discrepante, que você não vai conseguir
+
+40:33.200 --> 40:35.200
+mesurar ela, então fica complicado
+
+40:35.200 --> 40:37.200
+dar prazo para esse tipo de funcionalidade,
+
+40:37.200 --> 40:39.200
+uma coisa que você nunca desenvolveu,
+
+40:39.200 --> 40:41.200
+você não tem experiência naquilo, então
+
+40:41.200 --> 40:43.200
+você não sabe quanto tempo você gastaria.
+
+40:43.200 --> 40:45.200
+Às vezes, pode ter um risco que pode
+
+40:45.200 --> 40:47.200
+acontecer no meio de desenvolvimento, que pode
+
+40:47.200 --> 40:49.200
+acarretar no atraso significante
+
+40:49.200 --> 40:51.200
+para a entrega do produto, né?
+
+40:51.200 --> 40:53.200
+Eu acredito que essa maioria das vezes,
+
+40:53.200 --> 40:55.200
+se isso acontece em requisitos, não funcionais,
+
+40:55.200 --> 40:57.200
+cara. Entendi. É porque
+
+40:57.200 --> 40:59.200
+comecei a pensar nisso e comecei a viajar aqui.
+
+40:59.200 --> 41:01.200
+É, tipo assim, o cliente queria que
+
+41:01.200 --> 41:03.200
+aparecesse uma bolinha azul piscando,
+
+41:03.200 --> 41:05.200
+que fosse do canto até o outro.
+
+41:05.200 --> 41:07.200
+Isso não vai implicar no funcionamento
+
+41:07.200 --> 41:09.200
+do insílio do software. Realmente
+
+41:09.200 --> 41:11.200
+isso que eu fiquei imaginando, porque geralmente
+
+41:11.200 --> 41:13.200
+quando você vai desenvolver, é bastante
+
+41:13.200 --> 41:15.200
+dividido na parte do interface, né? Quem sofre
+
+41:15.200 --> 41:17.200
+mais com isso aí é o website, tal, o pessoal
+
+41:17.200 --> 41:19.200
+que mexe com o software de
+
+41:19.200 --> 41:21.200
+sites aí. Sofrem porque às vezes vê um
+
+41:21.200 --> 41:23.200
+site, vai lá e desenha, passa tempos e
+
+41:23.200 --> 41:25.200
+tempos fazendo o site, e quando chega
+
+41:25.200 --> 41:27.200
+lá no cliente, o cara fala assim, ah, mas eu
+
+41:27.200 --> 41:29.200
+queria um botão assim, ah, mas eu queria
+
+41:29.200 --> 41:31.200
+não sei o que e tal, e isso
+
+41:31.200 --> 41:33.200
+gera um desgaste de
+
+41:33.200 --> 41:35.200
+todas as partes. Então, vamos para o próximo
+
+41:35.200 --> 41:37.200
+item. O próximo item é os cuidados
+
+41:37.200 --> 41:39.200
+que se devem ter na
+
+41:39.200 --> 41:41.200
+processos de desenvolvimento do software.
+
+41:41.200 --> 41:43.200
+Ah, mas por que eu queria esses tópicos, cara?
+
+41:43.200 --> 41:45.200
+Porque nos stakeholders, isso aí, usando
+
+41:45.200 --> 41:47.200
+ou desenvolvidos num projeto, todo mundo
+
+41:47.200 --> 41:49.200
+tem um interesse diferente, né? É porque
+
+41:49.200 --> 41:51.200
+tipo assim, às vezes um
+
+41:51.200 --> 41:53.200
+o cara do uma banda, por exemplo,
+
+41:53.200 --> 41:55.200
+é igual, sabe o que era a história lá
+
+41:55.200 --> 41:57.200
+do Edson Yield, que o
+
+41:57.200 --> 41:59.200
+parece que é um, eu não entendo direito
+
+41:59.200 --> 42:01.200
+dessas coisas não, só sei que parece que um
+
+42:01.200 --> 42:03.200
+é o primeiro, o outro gosta de
+
+42:03.200 --> 42:05.200
+sertanejo, coisa assim. É por isso que
+
+42:05.200 --> 42:07.200
+separar, você ficou sabendo, né?
+
+42:07.200 --> 42:09.200
+O que o pessoal chama de divergências
+
+42:09.200 --> 42:11.200
+artísticas, né? Então, eu acho que
+
+42:11.200 --> 42:13.200
+você pode passar isso aí por parte do
+
+42:13.200 --> 42:15.200
+software, né? Que às vezes um programador
+
+42:15.200 --> 42:17.200
+quer fazer de um jeito, o programador
+
+42:17.200 --> 42:19.200
+pensa de outra forma, tem tipo igual,
+
+42:19.200 --> 42:21.200
+uma parte da equipe gosta de software
+
+42:21.200 --> 42:23.200
+livre, quer usar produtos livres,
+
+42:23.200 --> 42:25.200
+outra parte já gosta de produtos da
+
+42:25.200 --> 42:27.200
+microsoft, às vezes você pode estar
+
+42:27.200 --> 42:29.200
+já na uma briga, não uma briga
+
+42:29.200 --> 42:31.200
+com morte, mas
+
+42:31.200 --> 42:33.200
+às vezes pode ter alguns problemas
+
+42:33.200 --> 42:35.200
+aí de encontro de
+
+42:35.200 --> 42:37.200
+ideia. Divergências criativas aí que
+
+42:37.200 --> 42:39.200
+a gente citou é porque também tem
+
+42:39.200 --> 42:41.200
+influencia muita coisa assim, porque
+
+42:41.200 --> 42:43.200
+nos processos ágeis, no manifesto
+
+42:43.200 --> 42:45.200
+ágil também, tem um esquema lá que fala que
+
+42:45.200 --> 42:47.200
+todos os envolvidos, eles têm que estar
+
+42:47.200 --> 42:49.200
+foco principal, tem que ser que o
+
+42:49.200 --> 42:51.200
+projeto vai funcionar, tá? Então, tem que
+
+42:51.200 --> 42:53.200
+estar todo mundo alinhado mesmo, tá focado
+
+42:53.200 --> 42:55.200
+no sucesso do projeto. Então, assim, eu
+
+42:55.200 --> 42:57.200
+como desenvolvedor, assim,
+
+42:57.200 --> 42:59.200
+já me caiu muito no caso de
+
+42:59.200 --> 43:01.200
+eu estar fazendo desenvolvimento
+
+43:01.200 --> 43:03.200
+pelo desenvolvimento, sabe? Eu entendo
+
+43:03.200 --> 43:05.200
+eu entendo muito bem, assim.
+
+43:05.200 --> 43:07.200
+É o que acontece, por exemplo, quando você
+
+43:07.200 --> 43:09.200
+aprende tocar guitarra,
+
+43:09.200 --> 43:11.200
+quando você é músico, em geral, e você
+
+43:11.200 --> 43:13.200
+escuta música que só música escuta, então
+
+43:13.200 --> 43:15.200
+é, se eu chegar em você aqui
+
+43:15.200 --> 43:17.200
+falar que sobre a vida de
+
+43:17.200 --> 43:19.200
+sei lá, de Stradivário,
+
+43:19.200 --> 43:21.200
+ou se eu falar sobre algum
+
+43:21.200 --> 43:23.200
+concerto que o Zach Perman tocou,
+
+43:23.200 --> 43:25.200
+você poderia até ficar boiando, não entendendo
+
+43:25.200 --> 43:27.200
+falar. É igual aquele dia que você veio falar
+
+43:27.200 --> 43:29.200
+pra mim sobre Jimi Hendrix, né?
+
+43:29.200 --> 43:31.200
+Eu não quero falar, cara, que o
+
+43:31.200 --> 43:33.200
+conhece Jimi Hendrix. Eu já me caiu
+
+43:33.200 --> 43:35.200
+muitas vezes de eu ir fazer um
+
+43:35.200 --> 43:37.200
+projeto de... No caso, os projetos
+
+43:37.200 --> 43:39.200
+particulares, né? Mas que eu demorava
+
+43:39.200 --> 43:41.200
+90% desenvolvendo um esquema
+
+43:41.200 --> 43:43.200
+pra mim fazer o projeto, e quando eu
+
+43:43.200 --> 43:45.200
+começava a fazer o projeto, eu pedia
+
+43:45.200 --> 43:47.200
+vontade. É, porque geralmente
+
+43:47.200 --> 43:49.200
+acontece nos projetos pessoais, né?
+
+43:49.200 --> 43:51.200
+Que você tenha, você já
+
+43:51.200 --> 43:53.200
+faz todas as partes, né?
+
+43:53.200 --> 43:55.200
+Então, você acaba, é, vira um
+
+43:55.200 --> 43:57.200
+programa de programador, né? Programa
+
+43:57.200 --> 43:59.200
+que só quem é programador, que vai
+
+43:59.200 --> 44:01.200
+conseguir usar. E o que que eu vou fazer?
+
+44:01.200 --> 44:03.200
+Se eu ser um programador, que eu não
+
+44:03.200 --> 44:05.200
+quero ficar programando o control
+
+44:05.200 --> 44:07.200
+de estoque, essas coisas seriam
+
+44:07.200 --> 44:09.200
+mais voltadas pros usuários, não, né?
+
+44:09.200 --> 44:11.200
+Vai trabalhar na Google, na Microsoft,
+
+44:11.200 --> 44:13.200
+na época. Existe esses projetos
+
+44:13.200 --> 44:15.200
+de... Nesse caso, é o cara que faz
+
+44:15.200 --> 44:17.200
+ciência da computação, ele deveria estar
+
+44:17.200 --> 44:19.200
+focado em fazer esse tipo de
+
+44:19.200 --> 44:21.200
+software, né? Ciência da computação
+
+44:21.200 --> 44:23.200
+até pode ser uma ação
+
+44:23.200 --> 44:25.200
+pra um próximo...
+
+44:27.200 --> 44:29.200
+Vou pra frente lá. Tem uma coisa
+
+44:29.200 --> 44:31.200
+que eu, que eu particularmente
+
+44:31.200 --> 44:33.200
+odeio, na parte de um
+
+44:33.200 --> 44:35.200
+desenvolvimento de um software, é quando
+
+44:35.200 --> 44:37.200
+tipo, você tá lá dando
+
+44:37.200 --> 44:39.200
+a manutenção, aí, às vezes, você vai
+
+44:39.200 --> 44:41.200
+substituindo o código, aí, você vai
+
+44:41.200 --> 44:43.200
+simplesmente, comenta,
+
+44:43.200 --> 44:45.200
+sei lá, 200 linhas de código,
+
+44:45.200 --> 44:47.200
+deixe ele lá dentro, e
+
+44:47.200 --> 44:49.200
+você programa o resto, e, às
+
+44:49.200 --> 44:51.200
+vezes, se você comenta o código,
+
+44:51.200 --> 44:53.200
+se você fala assim, não, pode dar errado,
+
+44:53.200 --> 44:55.200
+e a gente volta, tira
+
+44:55.200 --> 44:57.200
+os comentários, volta tudo como era antes.
+
+44:57.200 --> 44:59.200
+Eu, praticamente, eu acho que
+
+44:59.200 --> 45:01.200
+muitas pessoas compartilham essa raiva
+
+45:01.200 --> 45:03.200
+junto comigo, eu odeio esse tipo
+
+45:03.200 --> 45:05.200
+de coisa, porque além de deixar
+
+45:05.200 --> 45:07.200
+o código muito grande, deixe ele
+
+45:07.200 --> 45:09.200
+muito sujo, e pra que é que existe o
+
+45:09.200 --> 45:11.200
+subversa? É, os caras deixam o histórico
+
+45:11.200 --> 45:13.200
+pro dino no código, já aconteceu muito
+
+45:13.200 --> 45:15.200
+nítico, meio como foi, é isso aí,
+
+45:15.200 --> 45:17.200
+que eu queria falar. A gente fala dos
+
+45:17.200 --> 45:19.200
+programadores, né, eu não sei que o cara, a motivação
+
+45:19.200 --> 45:21.200
+do cara, seja só o ganhagueiro do salário,
+
+45:21.200 --> 45:23.200
+é só o salário dele no final.
+
+45:31.200 --> 45:33.200
+Agora, e na parte do usuário?
+
+45:33.200 --> 45:35.200
+Bom, a parte do usuário, uma das
+
+45:35.200 --> 45:37.200
+quatro palavras, né, que é a usabilidade,
+
+45:37.200 --> 45:39.200
+olha aí, vai lá pra lá aí,
+
+45:39.200 --> 45:41.200
+é, porque assim, o usuário,
+
+45:41.200 --> 45:43.200
+cara, ele só quer, ele só quer
+
+45:43.200 --> 45:45.200
+usar o software da maneira mais fácil
+
+45:45.200 --> 45:47.200
+possível, que facilita o trabalho dele,
+
+45:47.200 --> 45:49.200
+e que ele praticamente não tem que pensar, né.
+
+45:49.200 --> 45:51.200
+Uma coisa interessantíssima
+
+45:51.200 --> 45:53.200
+que eu trabalhei no projeto de
+
+45:53.200 --> 45:55.200
+software comercial, foi
+
+45:55.200 --> 45:57.200
+o uso do mouse, que o
+
+45:57.200 --> 45:59.200
+projeto de softwares comerciais,
+
+45:59.200 --> 46:01.200
+geralmente não usam muito mouse,
+
+46:01.200 --> 46:03.200
+porque eu achei interessante isso aí,
+
+46:03.200 --> 46:05.200
+porque eu sempre ficava
+
+46:05.200 --> 46:07.200
+debatendo aí, o pessoal lá, os analisos
+
+46:07.200 --> 46:09.200
+e sistemas, chegaram em mim conversaram,
+
+46:09.200 --> 46:11.200
+senão a gente tá, programa aqui,
+
+46:11.200 --> 46:13.200
+a gente foca no interesse do usuário,
+
+46:13.200 --> 46:15.200
+é sempre usar mais o teclado,
+
+46:15.200 --> 46:17.200
+usar menos o possível o mouse.
+
+46:17.200 --> 46:19.200
+Acho que isso é uma herança
+
+46:19.200 --> 46:21.200
+dos softwares legais, né, do software que
+
+46:21.200 --> 46:23.200
+eram feitos na época em Clip,
+
+46:23.200 --> 46:25.200
+e Cobol com interfaces não gráficas,
+
+46:25.200 --> 46:27.200
+né, o pessoal usava bastante o
+
+46:27.200 --> 46:29.200
+não usava sempre o ato teclado, né.
+
+46:29.200 --> 46:31.200
+Eu penso por outra forma,
+
+46:31.200 --> 46:33.200
+que às vezes o Kim vai usar, esse é um cara
+
+46:33.200 --> 46:35.200
+que é vendedor, e tá ali, com
+
+46:35.200 --> 46:37.200
+uma porrada de clientes, xingando ele ali,
+
+46:37.200 --> 46:39.200
+e tal, às vezes a loja tá
+
+46:39.200 --> 46:41.200
+cheia, dia 24 de dezembro,
+
+46:41.200 --> 46:43.200
+então até ele ficar levando a mão no mouse
+
+46:43.200 --> 46:45.200
+pra clicar no botão, e até ele ficar
+
+46:45.200 --> 46:47.200
+fazendo todos esses movimentos, eu acho que
+
+46:47.200 --> 46:49.200
+ele perde ali, mesmo que questão de
+
+46:49.200 --> 46:51.200
+milésimo de segundo, mas, ele perde
+
+46:51.200 --> 46:53.200
+um tempo que pode ser crucial pra ele mais
+
+46:53.200 --> 46:55.200
+na frente, então, o uso
+
+46:55.200 --> 46:57.200
+do teclado, ele faz pouco movimento
+
+46:57.200 --> 46:59.200
+com o braço, movimenta mais os dedos,
+
+46:59.200 --> 47:01.200
+eu acho que isso ajuda mais, e deixa ele mais
+
+47:01.200 --> 47:03.200
+confortável na hora de usar um computador.
+
+47:03.200 --> 47:05.200
+O legal é esse negócio de milésimo de segundo aí,
+
+47:05.200 --> 47:07.200
+e aí a gente fez outro queime que eu tenho,
+
+47:07.200 --> 47:09.200
+porque assim, eu programava pra
+
+47:09.200 --> 47:11.200
+fazer isso, Pocket PC
+
+47:11.200 --> 47:13.200
+pra, nos casos do softgis lá né,
+
+47:13.200 --> 47:15.200
+e uma coisa que o cara
+
+47:15.200 --> 47:17.200
+falou lá que era muito interessante,
+
+47:17.200 --> 47:19.200
+por exemplo, tem um que for levantar 100 mil
+
+47:19.200 --> 47:21.200
+post, e esse 100 mil post, eu tenho
+
+47:21.200 --> 47:23.200
+uma ferramente lá que eu tenho que clicar no menu,
+
+47:23.200 --> 47:25.200
+clicar no submenú, e clicar na
+
+47:25.200 --> 47:27.200
+ferramente, né, foram quantos cliques?
+
+47:27.200 --> 47:29.200
+Esqueci, não foram três cliques,
+
+47:29.200 --> 47:31.200
+nesses três cliques, por exemplo,
+
+47:31.200 --> 47:33.200
+eu uso meio
+
+47:33.200 --> 47:35.200
+segundo para cada clica, e eu for
+
+47:35.200 --> 47:37.200
+levantar 100 mil post,
+
+47:37.200 --> 47:39.200
+e meio segundo,
+
+47:39.200 --> 47:41.200
+não vou fazer as contas corretas,
+
+47:41.200 --> 47:43.200
+mas quero que vocês entendam.
+
+47:43.200 --> 47:45.200
+Meio segundo,
+
+47:45.200 --> 47:47.200
+em 100 mil post,
+
+47:47.200 --> 47:49.200
+que eu economizo, eu ganho dois meses
+
+47:49.200 --> 47:51.200
+de projetos, e isso é um custo
+
+47:51.200 --> 47:53.200
+que é muito grande,
+
+47:53.200 --> 47:55.200
+no total do software.
+
+47:55.200 --> 47:57.200
+Às vezes você não pensa nisso, né?
+
+47:57.200 --> 47:59.200
+Mentira!
+
+47:59.200 --> 48:01.200
+É sério?
+
+48:01.200 --> 48:03.200
+Não, essas coisas eu achei muito
+
+48:03.200 --> 48:05.200
+interessante. Outra coisa interessante
+
+48:05.200 --> 48:07.200
+é que quando você vai fazer uma tela,
+
+48:07.200 --> 48:09.200
+às vezes,
+
+48:09.200 --> 48:11.200
+na sequência de navegação, você altera
+
+48:11.200 --> 48:13.200
+o tamanho do botão. Você acredita que
+
+48:13.200 --> 48:15.200
+até isso é contado na hora de fazer
+
+48:15.200 --> 48:17.200
+um software? É que
+
+48:17.200 --> 48:19.200
+o usuário faz um mapa mental, né,
+
+48:19.200 --> 48:21.200
+do que ele está trabalhando, então
+
+48:21.200 --> 48:23.200
+se muda alguma coisa até no visual,
+
+48:23.200 --> 48:25.200
+ele pode ter dificuldade. Tem um pessoal
+
+48:25.200 --> 48:27.200
+trabalhando por trás disso, que eles
+
+48:27.200 --> 48:29.200
+veem o tamanho do botão, ver a cor,
+
+48:29.200 --> 48:31.200
+ver o tamanho da fonte, ver a fonte
+
+48:31.200 --> 48:33.200
+que está sendo usado, tudo isso conta
+
+48:33.200 --> 48:35.200
+nos pontos na hora de desenvolver um software.
+
+48:35.200 --> 48:37.200
+É uma coisa assim, muito interessante.
+
+48:37.200 --> 48:39.200
+Isso pode ser assunto para o próximo.
+
+48:47.200 --> 48:49.200
+Então, vamos para o próximo item,
+
+48:49.200 --> 48:51.200
+que a gente já falou do interesse do programador,
+
+48:51.200 --> 48:53.200
+do usuário, e agora
+
+48:53.200 --> 48:55.200
+vamos falar da pessoa que está patrocinando
+
+48:55.200 --> 48:57.200
+essa parada, né? A pessoa que está patrocinando
+
+48:57.200 --> 48:59.200
+o que ela quer, ela quer a redução
+
+48:59.200 --> 49:01.200
+de custo e quer que faça menos tempo,
+
+49:01.200 --> 49:03.200
+quer ganhar mais, né? Que é o custo
+
+49:03.200 --> 49:05.200
+do produto final. Tempa dinheiro, é isso aí.
+
+49:05.200 --> 49:07.200
+Isso me leva a um outro ponto
+
+49:07.200 --> 49:09.200
+que pode ser assunto para o próximo.
+
+49:09.200 --> 49:11.200
+Caraca, a gente vai ter que interromper
+
+49:11.200 --> 49:13.200
+aqui, senão ele tem podcast por próximos
+
+49:13.200 --> 49:15.200
+três anos. Ainda bem, né?
+
+49:15.200 --> 49:17.200
+É bom que a gente vai precisar de ficar
+
+49:17.200 --> 49:19.200
+pensando e tal para um assunto.
+
+49:19.200 --> 49:21.200
+Acredita que eu fiz esse podcast
+
+49:21.200 --> 49:23.200
+para chegar nesse ponto em uma tecnologia
+
+49:23.200 --> 49:25.200
+que engloba todos os seus interesses.
+
+49:25.200 --> 49:27.200
+Ah, é? Qual que é? O Rubin Rayus.
+
+49:27.200 --> 49:29.200
+Ah, maluco!
+
+49:29.200 --> 49:31.200
+Vejam vocês aí!
+
+49:31.200 --> 49:33.200
+O Rubin Rayus funciona para tudo, véio?
+
+49:33.200 --> 49:35.200
+O Rubin Rayus está na minha atitude
+
+49:35.200 --> 49:37.200
+do lixo, junto com o design pattern.
+
+49:37.200 --> 49:39.200
+É, pois é. Então, nesse caso, como
+
+49:39.200 --> 49:41.200
+felizmente, tudo na vida não, né?
+
+49:41.200 --> 49:43.200
+É, o Rubin Rayus, no caso,
+
+49:43.200 --> 49:45.200
+o programador está desenvolvendo a mesma coisa
+
+49:45.200 --> 49:47.200
+e ficar aquela chatice de desenvolvimento
+
+49:47.200 --> 49:49.200
+e eu acabo tendo uma perda
+
+49:49.200 --> 49:51.200
+de produção muito grande, entendeu?
+
+49:51.200 --> 49:53.200
+É bom para ninguém, nem para o usuário final
+
+49:53.200 --> 49:55.200
+que eu não vou ter tempo para trabalhar nas habilidades
+
+49:55.200 --> 49:57.200
+e eu vou ficar desmotivado, vou ficar
+
+49:57.200 --> 49:59.200
+dormindo, vou para o patrocinador também
+
+49:59.200 --> 50:01.200
+porque eu vou demorar mais tempo
+
+50:01.200 --> 50:03.200
+para desenvolver o software e a qualidade
+
+50:03.200 --> 50:05.200
+não vai ser tão grande, entendeu?
+
+50:09.200 --> 50:11.200
+Há argumentos para você falar com o seu patrocinador,
+
+50:11.200 --> 50:13.200
+por exemplo, as palavras mais
+
+50:13.200 --> 50:15.200
+que tipo os habilidades, terapelabilidade,
+
+50:15.200 --> 50:17.200
+por exemplo, e você faz um projeto
+
+50:17.200 --> 50:19.200
+já teve casas de sucesso,
+
+50:19.200 --> 50:21.200
+de projeto em Rubin Rayus?
+
+50:21.200 --> 50:23.200
+Não é que eu tenho que fazer só pagando em Rayus, né?
+
+50:23.200 --> 50:25.200
+Nada, só que é muito bom. Então, é,
+
+50:25.200 --> 50:27.200
+por exemplo, eu já vi um
+
+50:27.200 --> 50:29.200
+queijo de sucesso e o grupo
+
+50:29.200 --> 50:31.200
+de desenvolvimento, o tempo
+
+50:31.200 --> 50:33.200
+que ele levou para aprender
+
+50:33.200 --> 50:35.200
+e implementar o projeto, foi quase
+
+50:35.200 --> 50:37.200
+que um terço do tempo do projeto
+
+50:37.200 --> 50:39.200
+que teria feito em Java. Caraca, mano!
+
+50:39.200 --> 50:41.200
+E aí que um conceito
+
+50:41.200 --> 50:43.200
+interessante, que a gente poderia abandonar
+
+50:43.200 --> 50:45.200
+melhor num outro pô de cara.
+
+50:45.200 --> 50:47.200
+Dessa vez eu ia falar isso, mano.
+
+50:47.200 --> 50:49.200
+E é o caso do...
+
+50:49.200 --> 50:51.200
+Ainda voltando um pouco nos interesses
+
+50:51.200 --> 50:53.200
+do programador, né?
+
+50:53.200 --> 50:55.200
+É uma maneira que eu acho assim
+
+50:55.200 --> 50:57.200
+de manter
+
+50:57.200 --> 50:59.200
+desenvolvedor motivado, que é o dry.
+
+50:59.200 --> 51:01.200
+Conheço o dry? Não, conheço o dry
+
+51:01.200 --> 51:03.200
+que é dirigir e tal, que é joguinho, sabe?
+
+51:03.200 --> 51:05.200
+O dry é o dry, né?
+
+51:05.200 --> 51:07.200
+Que seria don't repeat yourself,
+
+51:07.200 --> 51:09.200
+ou seja, para você não ficar se repetindo.
+
+51:09.200 --> 51:11.200
+É porque assim, o
+
+51:11.200 --> 51:13.200
+ecossistema, no caso do Ruby,
+
+51:13.200 --> 51:15.200
+ele existe uma parte
+
+51:15.200 --> 51:17.200
+filosófica muito grande, sabe? Pessoal, assim, fala que
+
+51:17.200 --> 51:19.200
+ah, mas Rubin Ray,
+
+51:19.200 --> 51:21.200
+só lembrei da minha melola.
+
+51:21.200 --> 51:23.200
+Ah, Rubin Ray, você quer lá, sabe?
+
+51:23.200 --> 51:25.200
+O Rubin Ray?
+
+51:25.200 --> 51:27.200
+Então, eu fiquei mostrando a caminhada.
+
+51:27.200 --> 51:29.200
+Então, é porque assim, no caso,
+
+51:29.200 --> 51:31.200
+o pessoal fala que quando se está
+
+51:31.200 --> 51:33.200
+falando de Rubin Ray, é muito fantasioso,
+
+51:33.200 --> 51:35.200
+e tal, mas, cara,
+
+51:35.200 --> 51:37.200
+é verdade, cara. Que falar sobre o Rubin Ray
+
+51:37.200 --> 51:39.200
+pode ser um assunto para um próximo pô de cara.
+
+51:39.200 --> 51:41.200
+Então, no final de tudo mesmo
+
+51:41.200 --> 51:43.200
+é que ele engloba isso.
+
+51:43.200 --> 51:45.200
+Você tem que achar uma...
+
+51:45.200 --> 51:47.200
+É claro que os conceitos de que eu acaberei
+
+51:47.200 --> 51:49.200
+aprendendo pesquisando sobre o Rubin Ray
+
+51:49.200 --> 51:51.200
+e eu acabo aplicando, meu dia-a-dia, até mesmo
+
+51:51.200 --> 51:53.200
+com o VVC, sabe? Ah, é? É, esse negócio,
+
+51:53.200 --> 51:55.200
+por exemplo, o Dry e essas outras coisas,
+
+51:55.200 --> 51:57.200
+é tipo assim, agora a gente ensina um projeto
+
+51:57.200 --> 51:59.200
+novo, um sucesso. É, um projeto
+
+51:59.200 --> 52:01.200
+maluco? É, lá na empresa a gente
+
+52:01.200 --> 52:03.200
+começou um projeto em Java, usando os flex.
+
+52:03.200 --> 52:05.200
+Oh, é porque no outro
+
+52:05.200 --> 52:07.200
+episódio eu comentei, né? Aqui estava
+
+52:07.200 --> 52:09.200
+complicado, né, de ensinar o projeto. Ah,
+
+52:09.200 --> 52:11.200
+eu lembro que você até falou. Essas maneiras de deixar
+
+52:11.200 --> 52:13.200
+o software melhor tanto para o usuário, quanto
+
+52:13.200 --> 52:15.200
+para o programador, quanto para quem está patrocinando
+
+52:15.200 --> 52:17.200
+isso, pode ser aplicado em qualquer tecnologia
+
+52:17.200 --> 52:19.200
+que você tiver trabalhando. É, é verdade
+
+52:19.200 --> 52:21.200
+que às vezes você pega a experiência de uma
+
+52:21.200 --> 52:23.200
+linguagem e se transporta para outra, mesmo
+
+52:23.200 --> 52:25.200
+que às vezes a forma de programar é diferente
+
+52:25.200 --> 52:27.200
+mas alguns conceitos podem ser usados, né?
+
+52:27.200 --> 52:29.200
+Então, a continha lá que eu queria fazer era assim,
+
+52:29.200 --> 52:31.200
+se você, às vezes o pessoal fala
+
+52:31.200 --> 52:33.200
+de performance, é tipo assim, é
+
+52:33.200 --> 52:35.200
+para mim, claro né?
+
+52:35.200 --> 52:37.200
+Para mim implementar
+
+52:37.200 --> 52:39.200
+uma parada que, por exemplo,
+
+52:39.200 --> 52:41.200
+um programador que, vamos colocar as variáveis,
+
+52:41.200 --> 52:43.200
+um programador que ganha 2.000 por
+
+52:43.200 --> 52:45.200
+mês para você manter ele
+
+52:45.200 --> 52:47.200
+por 6 meses, ele te custa
+
+52:47.200 --> 52:49.200
+2.000, isso. Quanto que é
+
+52:49.200 --> 52:51.200
+um servidor bom? 5.000? É,
+
+52:51.200 --> 52:53.200
+mais ou menos, né? 5.000.
+
+52:53.200 --> 52:55.200
+Se você pega uma tecnologia
+
+52:55.200 --> 52:57.200
+que você desenvolveria
+
+52:57.200 --> 52:59.200
+em 3, 2 meses, por outra
+
+52:59.200 --> 53:01.200
+que você desenvolve em 6 meses
+
+53:01.200 --> 53:03.200
+mas que teria uma performance maior, que
+
+53:03.200 --> 53:05.200
+você teria que escalar essa aplicação, qual que
+
+53:05.200 --> 53:07.200
+sair mais barato? Seria, por exemplo,
+
+53:07.200 --> 53:09.200
+se eu gasto 3.000 com
+
+53:09.200 --> 53:11.200
+servidor novo, só por causa que
+
+53:11.200 --> 53:13.200
+essa aplicação nova é mais
+
+53:13.200 --> 53:15.200
+fácil de programar, mais demanda, mais
+
+53:15.200 --> 53:17.200
+processamento, eu acabo economizando
+
+53:17.200 --> 53:19.200
+no projeto final, entendeu? Você aumenta
+
+53:19.200 --> 53:21.200
+a infraestrutura, mas em compensação você
+
+53:21.200 --> 53:23.200
+diminui na gás com desenvolvimento.
+
+53:23.200 --> 53:25.200
+E, ou seja, eu gastaria
+
+53:25.200 --> 53:27.200
+só 2 meses do meu desenvolvedor,
+
+53:27.200 --> 53:29.200
+seria 4.000, é, gastaria
+
+53:29.200 --> 53:31.200
+3.000 com meu novo servidor,
+
+53:31.200 --> 53:33.200
+no total eu teria 7.000, enquanto
+
+53:33.200 --> 53:35.200
+que se eu fosse fazer esse projeto
+
+53:35.200 --> 53:37.200
+demorando os 6 meses, eu teria
+
+53:37.200 --> 53:39.200
+fora o gasto com a infraestrutura,
+
+53:39.200 --> 53:41.200
+ainda mais esses 12.000
+
+53:41.200 --> 53:43.200
+só, o cara lá está programando
+
+53:43.200 --> 53:45.200
+coisa que não é interessante.
+
+53:45.200 --> 53:47.200
+Como a empresa está pouco se lixando
+
+53:47.200 --> 53:49.200
+para o cara, ela prefere a primeira opção.
+
+53:49.200 --> 53:51.200
+São dicas que, assim, que você, como
+
+53:51.200 --> 53:53.200
+desenvolvedor, acaba tendo que fazer
+
+53:53.200 --> 53:55.200
+não só o seu papel, né? Mas como
+
+53:55.200 --> 53:57.200
+você vai defender uma nova tecnologia
+
+53:57.200 --> 53:59.200
+no ambiente, que o importante é só
+
+53:59.200 --> 54:01.200
+e quando isso vai me custar, entendeu? Você
+
+54:01.200 --> 54:03.200
+pode usar esse tipo de argumento. É, porque
+
+54:03.200 --> 54:05.200
+programador, ele é aquele cara
+
+54:05.200 --> 54:07.200
+idealista, né? Ele está pouco se fudendo
+
+54:07.200 --> 54:09.200
+o que vai gastar, o que vai ter, o que
+
+54:09.200 --> 54:11.200
+vai usar a linguagem preferida dele para
+
+54:11.200 --> 54:13.200
+tudo. Às vezes, o cara usa Java
+
+54:13.200 --> 54:15.200
+para fazer, sei lá, um
+
+54:15.200 --> 54:17.200
+projeto onde o PHP
+
+54:17.200 --> 54:19.200
+seria mais interessante. Às vezes, ele
+
+54:19.200 --> 54:21.200
+usa o PHP a um lugar onde o
+
+54:21.200 --> 54:23.200
+Ruby seria mais interessante. Às vezes,
+
+54:23.200 --> 54:25.200
+o cara quer usar a sepa, desenhar
+
+54:25.200 --> 54:27.200
+uma coisa que não existe, uma coisa
+
+54:27.200 --> 54:29.200
+que seria totalmente viável. É, sabe como é
+
+54:29.200 --> 54:31.200
+que era uma prática algum tempo atrás
+
+54:31.200 --> 54:33.200
+para o pessoal fazer? Ahn. O cara desenvolveu
+
+54:33.200 --> 54:35.200
+o protótipo em VB6, que o software
+
+54:35.200 --> 54:37.200
+mesmo desenvolveu em C. Caraca.
+
+54:37.200 --> 54:39.200
+Acho que, com várias pontas, né? Que a gente
+
+54:39.200 --> 54:41.200
+pode unir num próprio vídeo.
+
+54:41.200 --> 54:43.200
+Ahn.
+
+54:43.200 --> 54:45.200
+Ahn.
+
+54:45.200 --> 54:47.200
+Ahn.
+
+54:47.200 --> 54:49.200
+Ahn.
+
+54:49.200 --> 54:51.200
+Ahn.
+
+54:51.200 --> 54:53.200
+Ahn.
+
+54:53.200 --> 54:55.200
+Esse podcast poderia
+
+54:55.200 --> 54:57.200
+gerar filhos, como filhos,
+
+54:57.200 --> 54:59.200
+vários outros n-podcasts.
+
+54:59.200 --> 55:01.200
+Por hoje é só, mas eu não faço
+
+55:01.200 --> 55:03.200
+até aqui. Se você quiser saber
+
+55:03.200 --> 55:05.200
+mais alguma coisa sobre esse assunto,
+
+55:05.200 --> 55:07.200
+se você não quiser pesquisar, mande
+
+55:07.200 --> 55:09.200
+um e-mail para
+
+55:09.200 --> 55:11.200
+podcastarrobatribudusei.net
+
+55:11.200 --> 55:13.200
+Se você não, é, se você não
+
+55:13.200 --> 55:15.200
+souber como se escreve podcast,
+
+55:15.200 --> 55:17.200
+vai no post que no final tem lá, né?
+
+55:17.200 --> 55:19.200
+Se você estiver compregui-se no post,
+
+55:19.200 --> 55:21.200
+eu só leto para você. Então é eu, né?
+
+55:21.200 --> 55:23.200
+P de
+
+55:23.200 --> 55:25.200
+Paralelepipodo, O de
+
+55:25.200 --> 55:27.200
+Ovo, D de Dadinho, C de
+
+55:27.200 --> 55:29.200
+Caramelo, R, D, A, B, S
+
+55:29.200 --> 55:31.200
+de Sebastian Health, T de
+
+55:31.200 --> 55:33.200
+Tribudusei.
+
+55:33.200 --> 55:35.200
+A gente queria agradecer para vocês
+
+55:35.200 --> 55:37.200
+que se escutaram até agora, e que a gente
+
+55:37.200 --> 55:39.200
+queria lembrar, a gente tem o usuário
+
+55:39.200 --> 55:41.200
+também da Tribudusei,
+
+55:41.200 --> 55:43.200
+onde você pode colocar também os seus
+
+55:43.200 --> 55:45.200
+e-mails de voz e mandar para a gente.
+
+55:45.200 --> 55:47.200
+Quer, se também você não quer escrever,
+
+55:47.200 --> 55:49.200
+só fala lá para a gente.
+
+55:49.200 --> 55:51.200
+A gente cola aí nos próximos episódios.
+
+55:51.200 --> 55:53.200
+É, a gente é legal. É um cara legal.
+
+55:53.200 --> 55:55.200
+Valeu, galera! Muito obrigado por
+
+55:55.200 --> 55:57.200
+ter se escutado até agora.
+
+55:57.200 --> 55:59.200
+E fiquem de olho, assinem o nosso feed
+
+55:59.200 --> 56:01.200
+para que vocês possam ficar
+
+56:01.200 --> 56:03.200
+dentro de todas as novidades do nosso site.
+
+56:03.200 --> 56:05.200
+Valeu, e até o próximo episódio.
+
+56:25.200 --> 56:27.200
+Andará-lo isso?
+
+56:27.200 --> 56:29.200
+Opa!
+
+56:29.200 --> 56:31.200
+Opa!
+
+56:31.200 --> 56:33.200
+Opa!
+
+56:33.200 --> 56:35.200
+Você chegou a ver
+
+56:35.200 --> 56:37.200
+os e-mails lá?
+
+56:37.200 --> 56:39.200
+Estava vendo aqui agora.
+
+56:39.200 --> 56:41.200
+Estava vendo aqui agora.
+
+56:41.200 --> 56:43.200
+Eu vi ontem, né?
+
+56:43.200 --> 56:45.200
+Eu vi hoje aqui o Sheldon
+
+56:45.200 --> 56:47.200
+estar na minha lista negra.
+
+56:47.200 --> 56:49.200
+Eu acho que vou matar um
+
+56:49.200 --> 56:51.200
+do componente.
+
+56:51.200 --> 56:53.200
+Foi falar do professor
+
+56:53.200 --> 56:55.200
+desde a bandida, e foi eu não, né?
+
+56:55.200 --> 56:57.200
+Não, não.
+
+56:57.200 --> 56:59.200
+Não foi o Sheldon, né?
+
+56:59.200 --> 57:01.200
+É, o Sheldon.
+
+57:01.200 --> 57:03.200
+Não, ele é da...
+
+57:03.200 --> 57:05.200
+Ele estuda na Universo.
+
+57:05.200 --> 57:07.200
+É na Universo?
+
+57:07.200 --> 57:09.200
+É.
+

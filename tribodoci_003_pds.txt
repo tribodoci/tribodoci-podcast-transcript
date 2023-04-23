@@ -1,0 +1,1387 @@
+Você está ouvindo a tribo do CRI Podcast.
+Tribus do CRI Episódio 3 para o dia 30 do CRI de 2010.
+Ecosistema da produção de software.
+Eu sou o Sebastião Hellsum e minha chefe me chamou de arquiteto e eu acho que ela estava zoando comigo.
+Meu nome é Sheldon Led e por favor não me prenda porque eu não pertenço a gangue dos quatro.
+Nesse podcast vamos falar da parte mais polêmica de um desenvolvimento de software, a engenharia de software.
+Então vamos para os e-mail.
+A gente recebeu o e-mail com algumas sugestões.
+Então o e-mail que a gente recebeu aqui, o primeiro foi do Joe Elias Jr., conhece o Joe Elias Jr.?
+E esse aqui é o cara lá do Fissol, né?
+Então o Joe Elias mandou um monte de dica maneiro para a gente aqui.
+Resumão, a gente podia encurtar mais um pouco, podcast, deixar mais um pouco mais direto.
+Sim, para consolo, escutem o papo até.
+Acho que isso é assunto até para o próximo episódio, vamos?
+É o formato da nova mídia, né, do podcast.
+É isso aí. A gente recebeu o outro e-mail também.
+O outro e-mail foi da Carla Larissa VB, ela falou que era VB?
+Quase.
+Vera Borges.
+Ela reclamou também basicamente a mesma coisa.
+A voz saia um pouco baixa.
+Às vezes as musiquinhas do fundo até atrapalham no entendimento.
+Então assim, a gente vai por um ícone de doação ali do pack seguro do lado do site.
+Aí vocês fazem uma doação que a gente, quando a gente conseguiu um dia, a gente comprou uma mesa e um microfone sempre profissional, que eu acho que vai melhorar a barçante.
+Já seguindo as dicas do pessoal, vamos bem direto, já vamos?
+Terminamos também.
+Eu queria só falar aqui uma coisa que a gente falou no episódio passado.
+Foi sobre a banda Note a Number, do Carlson.
+Que na verdade não é do Carlson, do Nerdson.com.
+Ele é do Carlson Galdino, que é xará, mas não é a mesma pessoa.
+A galera curtiu o negócio das paródias aí, a gente vai colocar meio que um ícone de sinócio, né?
+A gente não vai colocar mais o ícone do podcast.
+Vai colocar as paródias separadas de uma outra sessão do site.
+Já tem duas paródias completas aí relacionadas.
+A galera gostou.
+Uma inclusive está gravada em rascunho.
+A gente vai ver o link aí embaixo, no post.
+Vocês visitam o post, vai lá e olha que vai ter aí no link lá.
+E as outras provavelmente vão ser um pouco melhores.
+Sabe o que foi que escreveu a outra?
+Aí é quem?
+Jajan Madafaka One Taylor.
+Ah, Jajan Taylor, man.
+Ele pegou o exemplo que eu fiz lá no podcast anterior e fez a música inteira do casuto lá.
+Ah, bota fé.
+Vamos agora para a segunda parte.
+Bem rápido.
+A primeira principal agora a gente vai dividir em três partes.
+Eu não sei se vão ter três programas ou se vai ser só três partes.
+Primeira parte, falando de engenharia de software, a gente não poderia deixar de falar sobre
+o processo de desenvolvimento do software.
+Pouco antes de meter a mão na massa, né?
+Antes de a gente continuar, a gente está tendo a participação especial do Liz Filipe,
+que é o filho do Sebastião Reus, primogênio.
+É o primogênio, não, é o primogênio.
+Vai ser, como é que é aquela história lá da boa educação?
+O meu filho, hoje ele é só programa em Ruby, eu não vou deixar ele.
+Cantei outras coisas, né?
+Mas o primeiro computador dele já vai ser o Mac, o primeiro gadget dele também vai ser
+da app.
+Quero ser pro melhor.
+Eu não sei que chegue no next one, né?
+Talvez compro um iPad, entende?
+Agora, voltando para os processos de desenvolvimento de software, são basicamente divididos em
+análise econômica, análise de requisitos, especificação, arquitetura de software,
+implementação, teste, documentação, suporte, treinamento e manutenção.
+Vamos detalhar, mais ou menos assim, cada um deles.
+Analise econômica.
+Como que seria essa análise econômica?
+Bom, a análise econômica é porque geralmente tem muito software que ele não é muito viável.
+Às vezes, não compensa, às vezes fica mais barato você manter as coisas do jeito
+que estão do que você implementar toda a arquitetura de software, conjunto de software
+para uma empresa.
+Então, isso seria uma análise de viabilidade do projeto?
+É, mais ou menos assim mesmo.
+Segundo o quesito, seria análise de requisitos.
+Existe uma coisa também que eu acho que a gente poderia dar uma voltada aqui, é porque
+existe dois mundos hoje na parte do processo de desenvolvimento de software, os processos
+tradicionais e os modelos agem.
+Essa parte a gente está falando um pouco antes dos processos tradicionais.
+Na verdade, esses são as partes de todo o desenvolvimento do software, mas o modelo
+de execução dessas de cada parte depende do modelo de produção que a empresa adquire.
+Hoje está na moda para caramba o pessoal falar de métodos agem ou agem.
+Então, a gente vai falar isso aí mais para frente e como que funciona, como que seria,
+são formas diferentes de interpretar cada tópico desse processo de desenvolvimento.
+Então, análise de requisitos, onde você começa a destrinchar o software, onde a pessoa,
+o cliente está com uma ideia e ali uma pessoa vai começar a desenvolver aquela ideia para
+não ter uma viabilidade, porque às vezes o cara chega assim, não, eu quero um programa
+que faz tal coisa, mas a gente precisa de saber mais ou menos como seria um pouco menos
+abstrato assim.
+É tipo, a análise de requisitos seria como se a gente fosse construir uma casa e eu
+defendisse que eu quero ter três quartos e...
+Então, a análise de requisitos é a concepção das funcionalidades que o software vai ter.
+E a gente pode dividir ela em duas partes, os requisitos funcionais e os requisitos não
+funcionais.
+Eu não estou fazendo nem piadinha, não vou.
+A gente vai lá, a gente vai lá.
+Os requisitos funcionais, ele diz respeito ao que o software realmente tem que fazer,
+é o objetivo prático do software.
+Pensei que os requisitos funcionais eram aqueles que funcionavam.
+Depois de termos de implementar, os requisitos que funcionaram.
+Os não funcionais são coisas que estão no contexto do negócio do software.
+Um exemplo de requisito não funcional para quem a gente entenda é, por exemplo, quando
+eu clicar em uma caixinha de texto, eu selecionar todo o texto, entendeu?
+Ah, isso é não funcional.
+É, assim, a essência do software não vai deixar de funcionar porque o software vai
+continuar funcionando.
+Se a pessoa clicar lá e o texto não for selecionado, às vezes está no projeto como
+requisito não funcional.
+Ah, então, às vezes uma outra janela abrir em tela cheia ou não, abrir um pop-up, alguma
+coisa assim, tudo faz parte do análise não funcional.
+É isso mesmo.
+Em momento de modelagem, por exemplo, o ML, eu consigo descrever um sistema, como ele
+vai funcionar, é independente de tecnologia, então essa parte de requisitos funcionais
+ela também é dependente da tecnologia.
+O terceiro tópico seria a especificação.
+Como funciona essas especificações?
+É como se fosse uma continuação da análise de requisitos, onde você pega as ideias um
+pouco menos abstratas e deixa ela menos abstratas ainda para a gente começar a definir a arquitetura
+do software.
+Essa parte é uma parte que antecedem a arquitetura de software, que é o quarto tópico do processo
+de desenvolvimento.
+Então a arquitetura de software é a parte mais legal, a gente vai voltar a falar nisso,
+mas a arquitetura de software, o que dá suporte a todo o desenvolvimento faz parte
+da parte tecnológica, mas você pode modelar ela com conceitos não dependentes de tecnologia,
+mas ela já faz parte da implementação do software como um todo.
+Aí vem o quinto tópico, que é a parte que separa os meninos dos homens ou as meninas
+das mulheres.
+A parte da implementação, onde o cara que mexe com isso é o cara que mostra para a sociedade,
+pelo menos para a sociedade geek, que ele é macho pra caralho.
+No caso, se for uma mulher que a raridade a gente nem...
+É, geralmente as mulheres trabalham mais na área de teste e na área de análise de
+requisitos.
+Então, certo?
+Geralmente.
+E se você for uma mulher que programa, manda e-mail com foto.
+É, manda e-mail com foto pra gente não poder fazer piadinha falando que não existe
+mulher bonita na área de programação.
+É pra desbancar aquela de que...
+Vamos seguir pro próximo...
+Seu jornalismo vai ficar.
+Então, o senso tópico...
+Próximo, né?
+Próximo tópico é a parte de teste, porque geralmente o programador a gente vai até
+falar isso mais na frente, porque o programador fica muito abitulado ali naquele mundo...
+O universo do programador é bastante diferente do universo das outras pessoas, né?
+Então, às vezes ele fica preso ali e fica e peca às vezes na falta de usabilidade e
+às vezes, por próprio, ele tá muito focado ali, ele esquece alguma parte ou até erro
+mesmo e devem ser detectados pela fase de teste de software.
+Nesse caso, quem faz nunca pode testar, né?
+Isso é uma coisa que é uma máxima que tem que ser seguida em processo de desenvolvimento
+Isso visto no âmbito um pouco mais macro, assim, né?
+A gente pode citar como exemplo o Linux, que é um projeto onde praticamente todos os
+usuários são analistas de testes, né?
+Porque eles estão ali, estão de olho ali no programa, estão usando, de acordo com o
+que ele...
+No caso do Linux específico, o Vigual era a lei de Linux, sabe como era a lei de Linux?
+Pode falar.
+É, é muito fácil, é muito fácil, eu vou deixar pra...
+Eu não vou ficar assim, porque senão a fama fica toda pra mim, né?
+Eu sou o sidekick do show.
+Então, vai lá, é porque a lei de Linux é assim, é o...
+É...
+Você sabe, né?
+Não, a lei de Linux é que é sobre milhões de olhos, qualquer erro é banal, né?
+É.
+Acho que não ficou o pé da letra, mas é mais ou menos sim, porque é onde todo mundo
+tá olhando, onde todo mundo tá usando, muitas pessoas usando, reportam erros, tem
+muitas pessoas programando, muitos palpites ali de programadores e experientes e programadores
+que não são experientes, mas que acabam se tornando ao aderir ao processo de desenvolvimento
+do sem operacional Linux.
+Ah, bom.
+Depois dessa parte de teste, vem a parte de documentação.
+A geralmente, o desenvolvimento, ele fica ali rodando, às vezes, entre a fase de teste,
+volta pra implementação, volta pro teste, então assim, o relacionamento entre o analista
+de teste e o programador, o desenvolvedor, ele é um relacionamento bem mais próximo
+que, às vezes, as demais áreas, assim, tratando do modelo cascata, que nós vamos falar
+mais com a gente.
+Esse modelo que a gente tá falando, que a gente faz, faz parte dos modelos tradicionais,
+né?
+É, seria mais ou menos assim, como eu citei, né?
+O modelo de cascata, onde cada uma dessas fases, ela é feita uma pós a outra, né?
+Proceduralmente, feitas linearmente, né?
+Em série, uma pós a outra.
+Então, depois da documentação, a gente tem o suporte a treinamento, né?
+Na documentação, você faz, desço, relatando todos os detalhes do software, para que possa
+haver um treinamento, onde, depois do software pronto, você precisa de ensinar as pessoas
+a usarem, né?
+Porque as pessoas, elas estão acostumadas com o que elas estão vivendo no momento,
+então, às vezes, você tem pessoa elevando-os ali com aquele software antigo, tem uma certa
+resistência em mudar pra uma nova tecnologia e tal, então, o treinamento é crucial pra
+isso aí.
+Por isso, tudo implementado, depois de passar a parte suposta de treinamento, que já está
+funcionando o software, é necessário a manutenção.
+A manutenção é a parte mais pauleira da processos de desenvolvimento, até porque
+nem sempre quem fez é quem dá a manutenção, né?
+Aí que o negócio fica cabeludo, aí é pobrei, mano, porque quando se fala errado,
+assim, você já vê o que é o negócio assim, e por que as vezes as pessoas quando está
+com raiva, elas falam errado?
+Eu tenho uma teoria que eu acho que só vale pra mim.
+Não, eu acho que quando é tipo pessoa que só consegue fazer declaração de amor na
+língua mãe, né?
+Tipo assim, quando o cara vai falar, tá emocionado, o cara é italiano e só consegue
+falar italiano.
+Ah, tá, é porque a parte do cérebro das emoções, ela é uma parte mais primitiva,
+então, geralmente, como as partes primitivas do cérebro, elas agem muito mais rápido
+que as outras partes, desenvolvidas posteriormente ao decorrer da evolução, então, a gente
+tende a manifestar primeiro as emoções mais primitivas.
+Por isso que as vezes quando você está nervoso, você tem vontade de bater, quando você está
+com muita fome, você come mais rápido, quando você está nervoso, você não se importa
+com coesão, com cordança verbal, essas coisas assim.
+Aí, interessante.
+Voltando.
+A gente falou um pouco do modo tradicional do desenvolvimento de software, que é o modo
+que o pessoal já fala que é falido, né?
+Esse modelo é um modelo assim, muito complicado, porque eles têm várias falhas no seu desenvolvimento,
+né?
+Um dos problemas desses metodologias tradicionais é porque existe um período, um espaço muito
+grande entre a concepção do software e a entrega do produto, tem projetos que duram
+dois anos para acontecer e a pessoa no final do projeto cliente já mudou a estratégia
+e já mudou de, da forma de pensar, então o software já, com determinado que esse efetre
+já é obsoleto.
+Essa frase é muito famosa, né?
+Toda tecnologia lançada, ela já é lançada obsoleto, né?
+Tratando-se do software, isso acontece por causa desse procedimento arcaico, vamos
+dizer assim, acaba carretando no atraso muito grande, assim, do desenvolvimento de software.
+Por isso que existem hoje outros modelos de procedimento, outros modelos de desenvolvimento
+de software.
+A solução intermediária para esse problema era eu ter software, eu ter interações, sabe?
+O software que ele chama de incremental, que eu tenho todas essas fases mais em períodos
+bem mais curto, não o projeto todo, mas em vários modelos, seria por funcionalidade
+ou pacote de funcionalidade.
+Então, nas metodologias ágeis, uma das premissas dos métodos ágeis é que as mudanças ocorrem
+porque a gente ignorava, então a gente trabalha sempre preparado para as mudanças.
+Então, por exemplo, uma interação em vez de durar dois meses da entrega de uma funcionalidade
+eu vou ter interações menores, caso do Scrum e de vários outros métodos ágeis, de eu
+consigo fazer interações semanais até.
+Falando aí de Scrum, os dois métodos mais usados, é o Scrum XP, que é o Extreme Programme.
+O Scrum ele trabalha mais na parte de gerenciamento do projeto e o programação extrema, ela
+é executiva, assim, as duas podem conviver, que nem é repositório e dao, não são coisas
+que elas podem conviver.
+Tem aquela parada lá do Scrum que você tem que fazer reunião semanal e a reunião tem
+que ser em pé, é o coisinho, né?
+Cara, eu tenho os casas de ousos em pizarro com Scrum.
+Encontrei, encontrei.
+Nessa reunião em pé, cara, teve um maluco que dormiu, que foda.
+Pô, a gente tava lá na reunião em pé ali e tal, e o maluco começou a bobear, eu pensei
+que ia dar um fatality.
+Problema mesmo.
+Então, já que a gente falou para a parte de metodologias de desenvolvimento, vou falar
+agora um pouco o tipo de software que existe, mas eu acho que o mais conhecido é o Erp,
+né?
+O Enterprise Resource Planning.
+É basicamente o planejamento dos recursos corporativos, é porque ele pode ser interpretado
+também como planejamento das soluções empresariais, né?
+Onde que você tem ali dentro de um software ou de um conjunto de software, ali dentro
+você consegue gerenciar todo o andamento da empresa e gerenciar todas as partes da
+empresa, então tem ele integrado dentro do software, né?
+O software gerencia a empresa para você, mais ou menos assim, né?
+É por aí.
+É uma...
+Seria um software integrado, né, com todas as áreas da empresa que a pessoa consegue
+tomar decisão, embora o suporte e a tomada de decisão seja o outro tipo de software.
+Então, dentro dos Erp, tem uma parte complexa, no final vai chegar em Business Intelli,
+mas a gente não vai chegar nesse mérito, não, vai?
+Ah, acho que não.
+Isso é...
+Para saber o tipo de software ou os empresariais que outro que é bastante é o que o pessoal
+chama de SCM, que é o Supply Chain Manager, gerencia da cadeia de suprimento, o software
+de gerencia de cadeia de suprimento é complexo, pra caramba, e é o...
+Assim, porque a parte do Erp e tal era um pouco chata, né?
+Ah, é?
+Como é?
+É, porque basicamente é só processos da empresa, essas coisas assim, não tem muita
+que atividade no processo, basicamente crude.
+E o SCM é onde a gente pode aplicar bastante data warehouse, pode data mining, um monte
+de parte de inteligência artificial, a gente pode aplicar em SCM, porque o SCM ele controla
+desde o repacotamento do produto que tu pediu até a chegada desse produto na loja e ele
+ser vendido.
+Entendeu?
+Ah, entendi.
+Você falou duas palavras aí que eu acharia legal a gente falar pelo menos definição
+e pro pessoal, que é os DMs, né, Data Mart e o Data Warehouse, né, também o Business
+Intelligence, BI.
+Então, a parte de...
+Eu tento até o professor, que seria bom a gente falar disso, cara.
+Podem.
+Vamos ligar pra ele?
+Eu vou ver se eu consigo uma entrevista com ele pra ele falar, respeito, eu vou gravar
+com ele.
+Então, vamos à entrevista com o André Obey.
+E aí, Sebastião?
+E aí, pessoal?
+Tudo bem?
+Tranquilo.
+Lembra da faculdade?
+Uma vez que a gente fez uma galera furada lá que foi dar uma palestra de gênica e falava
+de sistemas empresariais, não sei o que, e na verdade a gente tava vendendo um curso...
+Fazendo uma palestra, né?
+Fazendo uma palestra do curso e emiou a palestra que ele ia fazer.
+É, e depois a gente salvou a lá, né?
+Foi.
+Eu só fiz lá um desenho lá.
+Você só vai conseguir impressar só falando, né?
+Seu desenho do que defendia pra empresa que conseguiam viajar.
+Ah, certo.
+Não, aquele esquema gratos lá ele explica muito bem.
+É, o seguinte, o R&D, ele é o integrador das áreas internas de um empresa.
+Então, por exemplo, se ele era de finance, se ele fosse de uma ano de produção, ó, que
+vendas e mais, todas essas áreas internas, elas vão ser integradas através do R&D.
+É, que é um enterprise reforçante ou planejamente em recursos empresariais.
+Chamado por nós aqui, sistema de gestão empresarial.
+É, que é um sistema transacional, trabalha com transações, fazem todos os registros
+do dia a dia.
+É.
+E utilizam, geralmente, um banco de cidade, esse banco de cidade também é um banco de
+cidade transacional e recebe todas essas informações.
+Ele é volátil, né?
+Porque as informações são alteradas a todo momento, então...
+É, é o volátil.
+Não, aí nesse caso, não.
+Esse é o banco de cidade transacional.
+O banco de cidade do Olato é o banco de cidade analítica.
+E é justamente o Data Warehouse.
+O Olato, ele roda em cima de Data Warehouse e Data Warehouse.
+Porque o Olato é online.
+Só que é online, em cima de bancos já pré-formatados para consultas, né?
+Ele é uma ferramenta analítica.
+Entendi.
+E que, geralmente, trabalha em cima de dados históricos, né?
+Ou seja, de ontem para trás.
+Muito dados de hoje, que está sendo alterado hoje.
+Isso.
+Certo?
+Tem outras ferramentas que auxiliam esse ERP, né?
+Esse sistema de gestão, que são ferramentas de ex-flighting,
+como já foi mencionado anteriormente.
+E trabalha em cima da cadeia de suprimentos.
+A cadeia de suprimentos de empresa ou parte de logística de uma empresa,
+elas vêm desde o planejamento da compra, né?
+O contato com o seu fornecedor, o planejamento da compra,
+a compra, manufatura, atendimento, venda e pós-menda, né?
+Então, a entrega de perfum de muito logística,
+só com o transporte da mercadoria até o cliente, né?
+E não é.
+Na verdade, é todo esse processo que compreende essa cadeia.
+Eu te falo isso.
+Eu faz vezes eu não sabia.
+É, a pós-menda também, inclusive, casado com apoio à pós-menda, né?
+Exato.
+Apoio à pós-menda.
+Não é o pós-menda em si.
+Pós-menda em si ele é feito através de um outro software também integrado,
+o body-se integrado R&P, que é o CRN,
+Tanto na relationship management,
+que é a gestão do relacionamento com o cliente.
+É, ou quem a gente faz, inclusive, é integrado com a parte de prediário, né?
+Também com a parte de marketing.
+Esse é a importância desses sistemas serem integrados,
+é que até o planejamento da compra que é feito pelo supply chain, né?
+Ele pode ser utilizado a dados do serem integrados com o CRN
+e utilizado a dados desse R&P.
+Como, por exemplo, você definir perfil de compra do seu consumidor.
+Pra você planejar que tipo de produto que você vai ter que comprar.
+Ah, tá. Tenho o meu preço médio, o tipo médio.
+Até o poder auditivo do seu consumidor.
+O que é que... o consumo médio daquele perfil de consumidor que você tem?
+É, envolve também bastante coisa do prediário mesmo, né?
+Sim.
+Inclusive, a parte de gestão empresarial, né?
+Utilizou muito esse tipo de informação pra montar sua estratégia de niche mercado,
+que é o público-alvo, é uma das estratégias empresariais, né?
+Que define o público que você vai atender por essa empresa.
+Agora, quanto ao BI, né?
+Business Intelligente.
+Nós temos aí a parte de bancos de dados analíticos, né?
+Que não se difere do transacional.
+Ele não é normalizado, porque no banco de dados transacional você tem que normalizar,
+você tem que dividir, ou seja, fazer todo o projeto de um banco de dados voltado
+para as transações dos BDRs, dinâmicas transações dos BDRs, né?
+E ele é todo normalizado, todos os paradinhos, as tabelas e tudo mais.
+E pelas tecnologias, hoje, dos bancos de dados não resquelem, né?
+Eu acho que seria até mais adequado do que os bancos de dados resquelem, né?
+Que são aqueles bancos de dados que são orientados à coluna e não orientados à tabela.
+E, na verdade, esses bancos de dados mais antigos, esses baseiam no hierarco, né?
+E tem o MapReduce, né?
+Porque eles têm esse conceito de que as pessoas são muito canudas, né?
+E aí, continuando a parte de BI, você vai extrair dados desse banco de dados transacional
+ou de outras fontes de dados.
+Também você pode pegar aqui os pesos, planilhele, e tal, com ferramentas chamadas ferramentas ETL, né?
+Extract Transform Load.
+Ou seja, os ferramentas fazem extração de dados, transformação desses dados e a carne desses dados
+em um outro dos dados.
+Previamente, ao uso dessa ferramenta, você tem que ter preparado a sua DSA, DSTG area,
+ou seja, a área de estágio dos dados, onde você vai fazer o quê?
+Toda a padronização dessas múltiples fontes que você utilizou como origem, né?
+Aí você padroniza em uma única base de dados, faz a carga em cima dessa área de estágio dos dados
+e faz também o tratamento, tirando as redundâncias que são desnecessárias
+e em consistência também que vão afetar o seu resultado final.
+É semelhante à preparação para fazer o DataMine, né?
+É, não. Na verdade, é um dos processos para se montar o DataMart e o DataWareHouse.
+O DataMine também se baseia em cima desses tipos de vacidades que você monta para a análise.
+Tem uma coisa interessante, né?
+Para me executar uma millenação de dados, é que você está preparado e almoide o ambiente,
+né?
+Quando parte em cima da massa completa, né?
+Não, você faz em cima da massa, porque esses bancos dados são orientados ao assunto.
+Você tem que, por exemplo, fazer, ah, eu quero fazer planejamento de vendos.
+Então, o quê que você vai mapear?
+Tudo aquilo que envolve vendos, só.
+Você não precisa pegar outras coisas que não tem nada a ver.
+Aí você monta a tabela de fato,
+que é a tabela central da sua análise, que é a venda.
+E aí você tem ligado-se a ela a tabela de dimensões, que é assim que se monta um DataMart,
+que é o DataWareHouse.
+É só montar o cubo que você está achando, né?
+Exatamente.
+Então, aí você vai ter, em volta dessa tabela, se for um diagrama de forma estrela, né?
+Um modelo estrela.
+Você vai ter em volta dela a tabela de dimensões, como o tempo, né?
+Que aí vai todos os dados de ano, trimestre, trimestre.
+A forma que você quiser controlar o período da venda,
+fazer planejamento de vendos para o período,
+você vai ter, por exemplo, lojas ou região,
+produto, são aí, você vai descobrindo, vai montando relatórios,
+através aí, sim, agora, do Alapaz,
+você vai montando relatórios multidimensionais com esses dados.
+E aí, em cima desse DataWareHouse, ou desse DataMart,
+é que você vai rodar também a mineração de dados para descobrir o quê?
+Padrões.
+Padrões.
+E, geralmente, a ferramenta de mineração de dados,
+ela utiliza técnicas de estatística,
+ou, principalmente, de inteligência artificial.
+O pessoal vai fazer reconhecimento de padrões,
+na outra massilhada, a cena.
+Exatamente.
+É uma planação rápida de todos os ferramentas,
+que como ela se faz, né?
+Cada assunto dele se daria em um pôr de teste novo.
+Qualquer coisa, pôr de solução.
+É, eu sei tudo.
+A gente vai ter que marcar um pouco, fazer um complexo.
+Não.
+Tranquilo.
+A gente pode, inclusive, disponibilizar material para vocês,
+no site, na Trilho do Saí.
+Aham.
+Ok?
+Não, o velhou.
+Valeu.
+A gente pode montar um projeto de apoio,
+por exemplo, aos estudantes,
+a área de computação, aos curiosos.
+É, porque esse pôr de teste,
+esse episódio a gente fez, não só para quem,
+por exemplo, para aquela pessoa que está querendo entrar na área,
+como também aquela pessoa que tem,
+por exemplo, o cara tem a empresa,
+ele tem a parte...
+A necessidade desse tipo de...
+Aham.
+Ele fez, pelo menos, o que que ele está trabalhando,
+né?
+É, até a pessoa do TI lá que trabalha pelo desenvolvimento,
+mas o que que eles fazem, né?
+Aham.
+E não, e agora é interessante que eu estava até participando
+de um projeto da federação do comércio.
+São projetos do federação nacional
+e com federação nacional do comércio.
+Aham.
+Que estavam funcionando aqui em Goiânia.
+E é oferecida para os sindicatos,
+né?
+Os cursos de automação comercial e conexão de serviços.
+E não importa o tamanho da empresa.
+Hoje, para se utilizar a tecnologia,
+porque a empresa pode utilizar.
+Aí dimensiona essa tecnologia a realidade da empresa.
+Aham.
+Eu até...
+Eu até fui numa dessas palestras.
+Eu lembro.
+Isso, exatamente.
+Na verdade, eu sou menos de lá que quer.
+Isso, eu sou menos.
+Isso, né?
+Valeu, então.
+Obrigado.
+Eu tenho uma vez para...
+Eu amo o seu businesses.
+Aham.
+Outro boring também.
+Outro parte chato também.
+Entendido.
+Não é muito chato.
+Então hoje, mesmo deixa de ser chato,
+mais pago leitinho das crianças,
+é os PDVs, né?
+Que basicamente são os pontos deles,
+vendo?
+Que, na verdade,
+se você for pegar, assim, a maioria das siglas,
+as conjuções e ligações entre uma palavra e outra,
+não entra na sigla, né?
+O PDV é uma exceção.
+Que o díduo que liga o ponto e venda,
+entrou na sigla.
+Mas foi para deixar um pouco mais legível, né?
+O PDV é ponto de venda.
+Eu acho que é por causa da sigla inglês.
+Sabe como é que é inglês?
+Mine of sale.
+Então é essa aí.
+Traz de direção, exatamente.
+O pedalete.
+Bem ao pedalete.
+Então, como funciona aí o PDV?
+O PDV tem alguns modelos diferentes,
+mas basicamente é o controle de venta, né?
+O pessoal chega para a efetória.
+O stock?
+Creio que a parte chata do stock
+seria mais agenciamente doante dada.
+Estou errado?
+É porque coloquei aqui na pauta
+boring stocking, né?
+Porque eu falo que esse tipo de stock chato
+é porque eles são bastante comuns, né?
+Então, 90% dos softwares que você vai encontrar,
+pelo menos os comerciais, eles são tão relacionados.
+Então, e em contramão, assim,
+outros tipos de softwares que eu já tive experiência,
+são várias formas de software,
+mas os que eu já tive experiência
+foram também o Full Software Disk,
+que é Geographic Information System, né?
+Ou em português SIG,
+que é sistema de formação geográfica.
+Conhece alguma coisa?
+Tipo, relação a Google Maps?
+É bem roots, né?
+O que eu trabalhei é roots,
+é que desistiu o Google Maps.
+Ele é o conceito de banco de dados.
+Na época que eu trabalhava com o Disk,
+a gente mapeava um banco normal,
+a entidade relacional,
+para ser um banco de G.
+Vocês usavam o quadro negro?
+Graças a caramba.
+Você vai lá.
+Vou falar, então, espacial, tá bom?
+Não, vai lá.
+Vou falar hoje.
+Eu não sou astróbio.
+Eu sou acésio programador astróbio.
+É basicamente assim,
+eu tenho uma informação geográfica,
+por exemplo,
+no projeto que eu trabalhei por mais tempo,
+a gente fez, são companhias de energia elétrica.
+Então, assim, as informações
+que ela tem
+é de uma extensão territorial muito grande.
+Então, ela podia fazer planejamento,
+o controle de estoque dela,
+o armazém, o almoçoarefato dela,
+é o país inteiro, né?
+Então, para identificar isso é bastante complicado.
+Então, tipo assim, eu tinha
+cada ponto de geografia,
+eu tinha informações,
+por exemplo, que poderia ser um poste,
+e nesse poste eu saberia todos os equipamentos
+que estão instalados nesse software.
+Com esse software eu poderia fazer
+esse planejamento bastante intuitivo
+desses materiais que eu tenho em campo,
+eu pensei. Ah, entendi.
+É legal, assim, é tipo, é a medição
+de energia da CELB também,
+do pessoal das empresas de energia.
+Cada casa tem um metrônomo
+e seria, mais ou menos, você?
+Cada casa de música tem um metrônomo.
+Cada...
+Não, cada casa tem um relógio,
+um padrão de energia.
+É um medidor que chama. Eu não queria falar mais
+uma das empresas que eu trabalhei a CELB,
+para mexer com isso. CELB é a ela
+Tropaulo de Goiagem. E outra empresa que eu trabalhei a CELB
+foi... Vou ficar fazendo propaganda, não? Não, vai não.
+No dia que elas pagar a gente, a gente fala.
+Eu posso cantar a música?
+Lá no blurro,
+quando a luz da light pierce. Agora,
+nós vamos falar sobre as tecnologias.
+É uma parte interessante.
+Foi a mesma forma como a Madonna.
+A gente falou, é, sobre...
+sobre esses modelos de software e tal. A gente
+tem vários outros. Tem aquela parada do E-Commerce,
+que é para... para compra
+pela internet e tal. A gente não poderia
+ficar citando aqui vários exemplos. Vamos...
+Vamos só para... Foi só
+para exemplificar, mesmo, para não passar em branco.
+Porque é a parte que interessa, mesmo a parte das
+tecnologias. Acho que eu quis comentar
+só, pelo menos, o que eu tive a experiência
+tentando ficar aquela coisa, só...
+Mais como uma troca de experiência, mesmo.
+Ah, só queria.
+E na hora de...
+de experimentar
+toda essa ideologia que eu tenho na cabeça.
+O que é que eu... Um computador?
+Às vezes.
+Serramentos de desenvolvimento
+tem vários categorias que a gente pode
+especificar, né?
+Tem as ideias, que são os ambientes de desenvolvimento
+integrado. A primeira é a linguagem
+de programação que você vai usar, né?
+É, né? Depois...
+Depois você escolhe a linguagem de programação
+e você, possivelmente, vai escolher
+uma ideia, né? Isso é um...
+Eu acho que isso pode ser até um...
+Isso pode ser tema para um outro
+broadcast, mas é coisa que eu acho
+interessante. Porque tem o RubyWay, né?
+Que é o modo Ruby
+programado. Eu acho que um grande erro que
+o pessoal é acostumado a dizer, é que
+ah, aprendi uma linguagem de programação
+e as outras é a mesma coisa.
+Isso acontece por causa...
+que existem muitas linguagens, ser like, né?
+Então, eu... No meu pensamento
+isso acontece por causa disso, porque
+às vezes você aprende a programar em C,
+daí você já aprende... Já é bem mais fácil
+programar em Java, em C mais mais, e por aí vai.
+Então, é o que eu vejo isso de uma outra forma,
+assim, por exemplo, se você programa em
+VisualBeats e quer programar em Delfo,
+ou vice-versa, e você tentar mapear
+o que você fazia na tecnologia anterior,
+esses são... Tecnologia bem comum, né?
+Então, você acaba tendo uma perca muito grande.
+Toda linguagem tem seu modo
+de programar, né? Todo tem...
+todo tem o RubyWay, tem o DelfoWay.
+É, porque às vezes você pode falar
+que tem questão de ferramenta também, né?
+Porque... Na forma de
+trabalhar, que às vezes você pega, por exemplo,
+o Java, tudo ali é separado,
+aí tem ali... Você tem que usar API pra isso,
+API pra aquilo e tal, é tudo bem
+mais separado, assim, bem mais genérico.
+Isso também seria outro tema, caramba,
+eu só estou acumulando tema pra
+o podcast, mas esse seria
+os paradigmas de desenvolvimento,
+né? Que são paradigmas orientadas
+do objeto, do procedural, e assim por diante
+o orientado aspecto, né?
+Que é o mais novo, ok? Então,
+seria uma API... Aplication Programming
+Interface. Português, Interface
+de Programação de Aplicativo. Espera,
+Se eu tivesse pedido em latinha, eu até falaria,
+eu não pedi, não. Não, beleza. Mas as
+APIs, é, por exemplo, é... Eu vou
+compartilhar minha experiência de novo com o
+Tb6? Ha! Que foda!
+É porque assim, tudo que o Windows
+consegue fazer, é possível fazer no
+Vb6 por causa da API doindo. É porque
+a API seria mais ou menos...
+É como o próprio não diz, né? É o
+Interface, né? Interface entre...
+É porque foi... Eu creio
+que a API foi uma...
+uma evolução do...
+da própria programação, porque às vezes
+a evolução, é você usar ali um...
+um procedimento, ou um método, né?
+Pra você não ficar escrevendo aquilo e
+repetir das vezes no seu código.
+Daí, você precisa de fazer isso,
+esse mesmo método, em vários outros programas.
+Daí, você, de acordo com o que vai crescendo,
+você, em vez de você
+escrever um método, uma vez pra cada
+programa, você cria um API, daí você
+só implementa essa API de um
+programa pro outro, e você economiza
+crita de software no seu
+processo de envolvimento.
+Eu acho que foi isso que eu
+falava também do padrão de
+projeto, né? O design
+de parto. Padrão de
+projeto, uma coisa que tá no meu
+tio do list, já tem um ano e
+tanto, e até hoje eu não
+peguei pra estudar. Eu... Eu
+resumiria o padrão de
+projeto na arte de
+não errei e ventar a rota. Padrão
+de projeto, pra quem se lembra da
+minha frase, que eu falei no começo
+do podcast, principal
+criador, assim, eu acho que foi
+até o criador do termo, né,
+design pattern, foi o pessoal da
+gangue dos quatro, né, gangue
+of four, que tem até o livro, né,
+design patterns, tal.
+Então, o Goff, ele fez
+a bíblia do padrão de
+projeto. Quer dizer, no caso do
+Goff, eles fizeram o documento
+base, né, que seria a bíblia do
+padrão de projeto. É, através
+desse livro, você aplicando aquelas
+gangues dos quatro, a gente fala gangue
+dos quatro, porque eram quatro
+pessoas, né, o Eric Gamma, o Richard
+Helm, o Ralph Johnson
+e o John Glissie, ah, não sei se
+pronuncia dessa forma, mas
+essas quatro pessoas se reuniram pra
+desenvolver ali os padrões de
+projetos, seria um padrão
+para o desenvolvimento de só. O que assim,
+cara, né? Caso a Géria de Solter, quando
+você construir, por exemplo, uma
+janela, não faz sentido você ficar
+reconstruindo essa mesma janela,
+porque vocês são um pouco diferentes.
+É, seria uma boa leitura pra quem
+quiser seguir essa carreira
+de desenvolvedor, você precisa
+saber design patterns, né, que é
+os padrões de desenvolvimento. Se é a
+Géria, a gente vai deixar um link falando
+sobre design pattern e a gangue dos
+quatro no post, aí vocês visitam lá
+o post, vão ficar sabendo mais, poderão
+pesquisar sobre isso aí. Acho que pra
+ver o projeto, tem um assunto pra um
+podcast diferente, né, através desse
+podcast, já surgiram cinco podcasts
+e agora seguindo pra
+uma outra área,
+pra uma outra perspectiva,
+a gente pode falar
+sobre o segredo do sucesso
+ou não, né, do desenvolvimento
+de só. Como o desenvolvimento
+de só é relativamente uma coisa nova,
+tipo assim, né, tão antigo como
+a Géria Civil e
+essas outras medicinas,
+e a Géria já é milenar, né,
+a Géria Civil já é milenar
+enquanto a computação
+que a Géria Civil tem aí, 20 anos.
+A Géria Civil tem eu.
+Eu tô falando da computação, como
+o desenvolvimento de só, do jeito
+que ele é visto hoje, tem bem menos
+tempo do que 20 anos.
+Então, outra coisa que eu até
+comentar no podcast anterior,
+mas aí o Sheldon, que eu vou falar
+que era no caso desse GML, aí eu vou
+brincar com ele, que eu tava falando
+da minha palta e acabei se não falando
+na respeito. Esse GML, ele nasceu na
+década de 70, né, cara, ou seja,
+eu vou me deixar a música dos anos 70,
+que eu acho que é caramba.
+Mas esse GML,
+que no caso, foi que
+surgiu o conceito do CSS,
+né, só uma dentro da respeito
+do podcast anterior. Mas assim,
+muita coisa, por exemplo, o programação
+orientado ao objeto, queria comentar que
+nas décadas de 70 isso já existia, né,
+então não é uma coisa tão nova, não entendi.
+Mas assim, como que seria
+bom, qual que é o segredo, assim,
+você que já tem bem mais experiência
+qual que é o segredo, assim, de ter um
+sucesso no desenvolvimento de software
+em geral, tanto no comprimento de prazo
+quanto no comprimento
+do escopo, do projeto em si
+e o que você tem a dizer
+sobre si? Então, assim, porque o
+desenvolvimento de software
+é um processo de produção
+dos menos tangíveis, é uma
+grande dificuldade a você mesurar
+tempo e mesurar até mesmo
+sucesso, por isso que existe o project.
+No caso do software, o software como
+ele é uma forma, um processo
+produtivo, menos tangíveis que
+existe, é bastante complicado você
+gerenciar o projeto. Claro, o que comentou
+o project, né, que uma carne tira esse
+projeto, ela pode ser usada em
+vários tipos de projetos, não só do
+desenvolvimento de software. A gerenciamento
+de projeto não é tão diferente do
+gerenciamento de projeto de software para
+um gerenciamento de uma viagem, por exemplo,
+gerenciamento de uma usina hidrelétrica,
+gerenciamento da pretrobragem, etc.
+Vou deixar o link do post para o podcast
+do 5 minutes p.m.
+podcast do Ricardo Vargas,
+que é um podcast de maneira
+sobre gerenciamento de projeto. Legal.
+Uma coisa interessante, como a gente
+falou, sobre esses problemas
+do desenvolvimento de software,
+para ter um sucesso do desenvolvimento
+do projeto e ter um bom processo de
+desenvolvimento, tem que seguir, você
+quer uma metodologia em cascata, então
+você tem que seguir a risca, se você
+quer uma metodologia XP,
+uma metodologia Scrum,
+então você tem que seguir a risca mesmo,
+tem que ter um bom treinamento de sua
+equipe. Claro que a função
+crucial no desenvolvimento
+é a função do gerenciamento, né?
+Ele tem que ser um bom gerenciamento, tem que
+ter uma boa tomada de decisão,
+tem que ter várias características que um
+bom gerenciamento tem que ter. Concluindo
+o que eu estava falando, sobre a
+tangibilidade do software, mais uma
+palavra para falar em reunião. 5 palavras, né?
+Existe forma de medir
+fimétricas de software que pode ser
+utilizado. Então
+a mais conhecida
+é a análise de ponto de função,
+que é uma das formas
+até hoje mais precisas de
+se menstruar um software, mas
+ela assim como tudo na vida
+não serve para tudo, é uma pena.
+Dependendo de si, por exemplo, um exemplo
+que não funciona
+o análise de ponto de função
+é quando você vai fazer um software
+por exemplo de back end, que ele faz
+consolidação de dados, por exemplo, o
+análise de ponto de função, ela usa
+bastante a interação com o usuário
+de entrada de dados e
+também as fontes de dados que ela
+pega. Então no modelo
+um tipo de software diferente do
+um RP, por exemplo, de folha de
+pagamento, talvez a análise de ponto de
+função ela não se adequa. Quando a
+complexidade do software é muito grande
+também, não é interessante fazer
+análise de ponto de função. Um análise bem
+interessante de se fazer também é a análise do
+programador, que é uma das peças principais
+que eu estou falando, porque o programador
+tem que ser um cabra bem mágico.
+Então, eu acho que
+pegando essa deixa do Sheldon
+a gente pode falar nas metodologias
+ágeis que o pessoal fala que
+é a teoria das restrições, sabe
+que é a perida restrições?
+Estou restrito a isso. E assim, você tem
+um modo de produzir software
+comum, né? Você tem tarefas
+corriqueiras no desenvolvimento
+Então, essas tarefas, elas são
+fáceis de mesurar. Ou seja, tarefas que
+eu costumo fazer, é assim, eu tenho
+uma funcionalidade não muito diferente
+das que eu já desenvolvo, eu consigo
+mesurar o tempo que eu vou gastar
+nessas tarefas. Ou quanto, por exemplo,
+eu vou gastar dois dias e tal. Então,
+a análise nas teoria das restrições
+tem um esquema que é você não pode
+ir. Tem alguma coisa que é muito
+discrepante, que você não vai conseguir
+mesurar ela, então fica complicado
+dar prazo para esse tipo de funcionalidade,
+uma coisa que você nunca desenvolveu,
+você não tem experiência naquilo, então
+você não sabe quanto tempo você gastaria.
+Às vezes, pode ter um risco que pode
+acontecer no meio de desenvolvimento, que pode
+acarretar no atraso significante
+para a entrega do produto, né?
+Eu acredito que essa maioria das vezes,
+se isso acontece em requisitos, não funcionais,
+cara. Entendi. É porque
+comecei a pensar nisso e comecei a viajar aqui.
+É, tipo assim, o cliente queria que
+aparecesse uma bolinha azul piscando,
+que fosse do canto até o outro.
+Isso não vai implicar no funcionamento
+do insílio do software. Realmente
+isso que eu fiquei imaginando, porque geralmente
+quando você vai desenvolver, é bastante
+dividido na parte do interface, né? Quem sofre
+mais com isso aí é o website, tal, o pessoal
+que mexe com o software de
+sites aí. Sofrem porque às vezes vê um
+site, vai lá e desenha, passa tempos e
+tempos fazendo o site, e quando chega
+lá no cliente, o cara fala assim, ah, mas eu
+queria um botão assim, ah, mas eu queria
+não sei o que e tal, e isso
+gera um desgaste de
+todas as partes. Então, vamos para o próximo
+item. O próximo item é os cuidados
+que se devem ter na
+processos de desenvolvimento do software.
+Ah, mas por que eu queria esses tópicos, cara?
+Porque nos stakeholders, isso aí, usando
+ou desenvolvidos num projeto, todo mundo
+tem um interesse diferente, né? É porque
+tipo assim, às vezes um
+o cara do uma banda, por exemplo,
+é igual, sabe o que era a história lá
+do Edson Yield, que o
+parece que é um, eu não entendo direito
+dessas coisas não, só sei que parece que um
+é o primeiro, o outro gosta de
+sertanejo, coisa assim. É por isso que
+separar, você ficou sabendo, né?
+O que o pessoal chama de divergências
+artísticas, né? Então, eu acho que
+você pode passar isso aí por parte do
+software, né? Que às vezes um programador
+quer fazer de um jeito, o programador
+pensa de outra forma, tem tipo igual,
+uma parte da equipe gosta de software
+livre, quer usar produtos livres,
+outra parte já gosta de produtos da
+microsoft, às vezes você pode estar
+já na uma briga, não uma briga
+com morte, mas
+às vezes pode ter alguns problemas
+aí de encontro de
+ideia. Divergências criativas aí que
+a gente citou é porque também tem
+influencia muita coisa assim, porque
+nos processos ágeis, no manifesto
+ágil também, tem um esquema lá que fala que
+todos os envolvidos, eles têm que estar
+foco principal, tem que ser que o
+projeto vai funcionar, tá? Então, tem que
+estar todo mundo alinhado mesmo, tá focado
+no sucesso do projeto. Então, assim, eu
+como desenvolvedor, assim,
+já me caiu muito no caso de
+eu estar fazendo desenvolvimento
+pelo desenvolvimento, sabe? Eu entendo
+eu entendo muito bem, assim.
+É o que acontece, por exemplo, quando você
+aprende tocar guitarra,
+quando você é músico, em geral, e você
+escuta música que só música escuta, então
+é, se eu chegar em você aqui
+falar que sobre a vida de
+sei lá, de Stradivário,
+ou se eu falar sobre algum
+concerto que o Zach Perman tocou,
+você poderia até ficar boiando, não entendendo
+falar. É igual aquele dia que você veio falar
+pra mim sobre Jimi Hendrix, né?
+Eu não quero falar, cara, que o
+conhece Jimi Hendrix. Eu já me caiu
+muitas vezes de eu ir fazer um
+projeto de... No caso, os projetos
+particulares, né? Mas que eu demorava
+90% desenvolvendo um esquema
+pra mim fazer o projeto, e quando eu
+começava a fazer o projeto, eu pedia
+vontade. É, porque geralmente
+acontece nos projetos pessoais, né?
+Que você tenha, você já
+faz todas as partes, né?
+Então, você acaba, é, vira um
+programa de programador, né? Programa
+que só quem é programador, que vai
+conseguir usar. E o que que eu vou fazer?
+Se eu ser um programador, que eu não
+quero ficar programando o control
+de estoque, essas coisas seriam
+mais voltadas pros usuários, não, né?
+Vai trabalhar na Google, na Microsoft,
+na época. Existe esses projetos
+de... Nesse caso, é o cara que faz
+ciência da computação, ele deveria estar
+focado em fazer esse tipo de
+software, né? Ciência da computação
+até pode ser uma ação
+pra um próximo...
+Vou pra frente lá. Tem uma coisa
+que eu, que eu particularmente
+odeio, na parte de um
+desenvolvimento de um software, é quando
+tipo, você tá lá dando
+a manutenção, aí, às vezes, você vai
+substituindo o código, aí, você vai
+simplesmente, comenta,
+sei lá, 200 linhas de código,
+deixe ele lá dentro, e
+você programa o resto, e, às
+vezes, se você comenta o código,
+se você fala assim, não, pode dar errado,
+e a gente volta, tira
+os comentários, volta tudo como era antes.
+Eu, praticamente, eu acho que
+muitas pessoas compartilham essa raiva
+junto comigo, eu odeio esse tipo
+de coisa, porque além de deixar
+o código muito grande, deixe ele
+muito sujo, e pra que é que existe o
+subversa? É, os caras deixam o histórico
+pro dino no código, já aconteceu muito
+nítico, meio como foi, é isso aí,
+que eu queria falar. A gente fala dos
+programadores, né, eu não sei que o cara, a motivação
+do cara, seja só o ganhagueiro do salário,
+é só o salário dele no final.
+Agora, e na parte do usuário?
+Bom, a parte do usuário, uma das
+quatro palavras, né, que é a usabilidade,
+olha aí, vai lá pra lá aí,
+é, porque assim, o usuário,
+cara, ele só quer, ele só quer
+usar o software da maneira mais fácil
+possível, que facilita o trabalho dele,
+e que ele praticamente não tem que pensar, né.
+Uma coisa interessantíssima
+que eu trabalhei no projeto de
+software comercial, foi
+o uso do mouse, que o
+projeto de softwares comerciais,
+geralmente não usam muito mouse,
+porque eu achei interessante isso aí,
+porque eu sempre ficava
+debatendo aí, o pessoal lá, os analisos
+e sistemas, chegaram em mim conversaram,
+senão a gente tá, programa aqui,
+a gente foca no interesse do usuário,
+é sempre usar mais o teclado,
+usar menos o possível o mouse.
+Acho que isso é uma herança
+dos softwares legais, né, do software que
+eram feitos na época em Clip,
+e Cobol com interfaces não gráficas,
+né, o pessoal usava bastante o
+não usava sempre o ato teclado, né.
+Eu penso por outra forma,
+que às vezes o Kim vai usar, esse é um cara
+que é vendedor, e tá ali, com
+uma porrada de clientes, xingando ele ali,
+e tal, às vezes a loja tá
+cheia, dia 24 de dezembro,
+então até ele ficar levando a mão no mouse
+pra clicar no botão, e até ele ficar
+fazendo todos esses movimentos, eu acho que
+ele perde ali, mesmo que questão de
+milésimo de segundo, mas, ele perde
+um tempo que pode ser crucial pra ele mais
+na frente, então, o uso
+do teclado, ele faz pouco movimento
+com o braço, movimenta mais os dedos,
+eu acho que isso ajuda mais, e deixa ele mais
+confortável na hora de usar um computador.
+O legal é esse negócio de milésimo de segundo aí,
+e aí a gente fez outro queime que eu tenho,
+porque assim, eu programava pra
+fazer isso, Pocket PC
+pra, nos casos do softgis lá né,
+e uma coisa que o cara
+falou lá que era muito interessante,
+por exemplo, tem um que for levantar 100 mil
+post, e esse 100 mil post, eu tenho
+uma ferramente lá que eu tenho que clicar no menu,
+clicar no submenú, e clicar na
+ferramente, né, foram quantos cliques?
+Esqueci, não foram três cliques,
+nesses três cliques, por exemplo,
+eu uso meio
+segundo para cada clica, e eu for
+levantar 100 mil post,
+e meio segundo,
+não vou fazer as contas corretas,
+mas quero que vocês entendam.
+Meio segundo,
+em 100 mil post,
+que eu economizo, eu ganho dois meses
+de projetos, e isso é um custo
+que é muito grande,
+no total do software.
+Às vezes você não pensa nisso, né?
+Mentira!
+É sério?
+Não, essas coisas eu achei muito
+interessante. Outra coisa interessante
+é que quando você vai fazer uma tela,
+às vezes,
+na sequência de navegação, você altera
+o tamanho do botão. Você acredita que
+até isso é contado na hora de fazer
+um software? É que
+o usuário faz um mapa mental, né,
+do que ele está trabalhando, então
+se muda alguma coisa até no visual,
+ele pode ter dificuldade. Tem um pessoal
+trabalhando por trás disso, que eles
+veem o tamanho do botão, ver a cor,
+ver o tamanho da fonte, ver a fonte
+que está sendo usado, tudo isso conta
+nos pontos na hora de desenvolver um software.
+É uma coisa assim, muito interessante.
+Isso pode ser assunto para o próximo.
+Então, vamos para o próximo item,
+que a gente já falou do interesse do programador,
+do usuário, e agora
+vamos falar da pessoa que está patrocinando
+essa parada, né? A pessoa que está patrocinando
+o que ela quer, ela quer a redução
+de custo e quer que faça menos tempo,
+quer ganhar mais, né? Que é o custo
+do produto final. Tempa dinheiro, é isso aí.
+Isso me leva a um outro ponto
+que pode ser assunto para o próximo.
+Caraca, a gente vai ter que interromper
+aqui, senão ele tem podcast por próximos
+três anos. Ainda bem, né?
+É bom que a gente vai precisar de ficar
+pensando e tal para um assunto.
+Acredita que eu fiz esse podcast
+para chegar nesse ponto em uma tecnologia
+que engloba todos os seus interesses.
+Ah, é? Qual que é? O Rubin Rayus.
+Ah, maluco!
+Vejam vocês aí!
+O Rubin Rayus funciona para tudo, véio?
+O Rubin Rayus está na minha atitude
+do lixo, junto com o design pattern.
+É, pois é. Então, nesse caso, como
+felizmente, tudo na vida não, né?
+É, o Rubin Rayus, no caso,
+o programador está desenvolvendo a mesma coisa
+e ficar aquela chatice de desenvolvimento
+e eu acabo tendo uma perda
+de produção muito grande, entendeu?
+É bom para ninguém, nem para o usuário final
+que eu não vou ter tempo para trabalhar nas habilidades
+e eu vou ficar desmotivado, vou ficar
+dormindo, vou para o patrocinador também
+porque eu vou demorar mais tempo
+para desenvolver o software e a qualidade
+não vai ser tão grande, entendeu?
+Há argumentos para você falar com o seu patrocinador,
+por exemplo, as palavras mais
+que tipo os habilidades, terapelabilidade,
+por exemplo, e você faz um projeto
+já teve casas de sucesso,
+de projeto em Rubin Rayus?
+Não é que eu tenho que fazer só pagando em Rayus, né?
+Nada, só que é muito bom. Então, é,
+por exemplo, eu já vi um
+queijo de sucesso e o grupo
+de desenvolvimento, o tempo
+que ele levou para aprender
+e implementar o projeto, foi quase
+que um terço do tempo do projeto
+que teria feito em Java. Caraca, mano!
+E aí que um conceito
+interessante, que a gente poderia abandonar
+melhor num outro pô de cara.
+Dessa vez eu ia falar isso, mano.
+E é o caso do...
+Ainda voltando um pouco nos interesses
+do programador, né?
+É uma maneira que eu acho assim
+de manter
+desenvolvedor motivado, que é o dry.
+Conheço o dry? Não, conheço o dry
+que é dirigir e tal, que é joguinho, sabe?
+O dry é o dry, né?
+Que seria don't repeat yourself,
+ou seja, para você não ficar se repetindo.
+É porque assim, o
+ecossistema, no caso do Ruby,
+ele existe uma parte
+filosófica muito grande, sabe? Pessoal, assim, fala que
+ah, mas Rubin Ray,
+só lembrei da minha melola.
+Ah, Rubin Ray, você quer lá, sabe?
+O Rubin Ray?
+Então, eu fiquei mostrando a caminhada.
+Então, é porque assim, no caso,
+o pessoal fala que quando se está
+falando de Rubin Ray, é muito fantasioso,
+e tal, mas, cara,
+é verdade, cara. Que falar sobre o Rubin Ray
+pode ser um assunto para um próximo pô de cara.
+Então, no final de tudo mesmo
+é que ele engloba isso.
+Você tem que achar uma...
+É claro que os conceitos de que eu acaberei
+aprendendo pesquisando sobre o Rubin Ray
+e eu acabo aplicando, meu dia-a-dia, até mesmo
+com o VVC, sabe? Ah, é? É, esse negócio,
+por exemplo, o Dry e essas outras coisas,
+é tipo assim, agora a gente ensina um projeto
+novo, um sucesso. É, um projeto
+maluco? É, lá na empresa a gente
+começou um projeto em Java, usando os flex.
+Oh, é porque no outro
+episódio eu comentei, né? Aqui estava
+complicado, né, de ensinar o projeto. Ah,
+eu lembro que você até falou. Essas maneiras de deixar
+o software melhor tanto para o usuário, quanto
+para o programador, quanto para quem está patrocinando
+isso, pode ser aplicado em qualquer tecnologia
+que você tiver trabalhando. É, é verdade
+que às vezes você pega a experiência de uma
+linguagem e se transporta para outra, mesmo
+que às vezes a forma de programar é diferente
+mas alguns conceitos podem ser usados, né?
+Então, a continha lá que eu queria fazer era assim,
+se você, às vezes o pessoal fala
+de performance, é tipo assim, é
+para mim, claro né?
+Para mim implementar
+uma parada que, por exemplo,
+um programador que, vamos colocar as variáveis,
+um programador que ganha 2.000 por
+mês para você manter ele
+por 6 meses, ele te custa
+2.000, isso. Quanto que é
+um servidor bom? 5.000? É,
+mais ou menos, né? 5.000.
+Se você pega uma tecnologia
+que você desenvolveria
+em 3, 2 meses, por outra
+que você desenvolve em 6 meses
+mas que teria uma performance maior, que
+você teria que escalar essa aplicação, qual que
+sair mais barato? Seria, por exemplo,
+se eu gasto 3.000 com
+servidor novo, só por causa que
+essa aplicação nova é mais
+fácil de programar, mais demanda, mais
+processamento, eu acabo economizando
+no projeto final, entendeu? Você aumenta
+a infraestrutura, mas em compensação você
+diminui na gás com desenvolvimento.
+E, ou seja, eu gastaria
+só 2 meses do meu desenvolvedor,
+seria 4.000, é, gastaria
+3.000 com meu novo servidor,
+no total eu teria 7.000, enquanto
+que se eu fosse fazer esse projeto
+demorando os 6 meses, eu teria
+fora o gasto com a infraestrutura,
+ainda mais esses 12.000
+só, o cara lá está programando
+coisa que não é interessante.
+Como a empresa está pouco se lixando
+para o cara, ela prefere a primeira opção.
+São dicas que, assim, que você, como
+desenvolvedor, acaba tendo que fazer
+não só o seu papel, né? Mas como
+você vai defender uma nova tecnologia
+no ambiente, que o importante é só
+e quando isso vai me custar, entendeu? Você
+pode usar esse tipo de argumento. É, porque
+programador, ele é aquele cara
+idealista, né? Ele está pouco se fudendo
+o que vai gastar, o que vai ter, o que
+vai usar a linguagem preferida dele para
+tudo. Às vezes, o cara usa Java
+para fazer, sei lá, um
+projeto onde o PHP
+seria mais interessante. Às vezes, ele
+usa o PHP a um lugar onde o
+Ruby seria mais interessante. Às vezes,
+o cara quer usar a sepa, desenhar
+uma coisa que não existe, uma coisa
+que seria totalmente viável. É, sabe como é
+que era uma prática algum tempo atrás
+para o pessoal fazer? Ahn. O cara desenvolveu
+o protótipo em VB6, que o software
+mesmo desenvolveu em C. Caraca.
+Acho que, com várias pontas, né? Que a gente
+pode unir num próprio vídeo.
+Ahn.
+Ahn.
+Ahn.
+Ahn.
+Ahn.
+Ahn.
+Esse podcast poderia
+gerar filhos, como filhos,
+vários outros n-podcasts.
+Por hoje é só, mas eu não faço
+até aqui. Se você quiser saber
+mais alguma coisa sobre esse assunto,
+se você não quiser pesquisar, mande
+um e-mail para
+podcastarrobatribudusei.net
+Se você não, é, se você não
+souber como se escreve podcast,
+vai no post que no final tem lá, né?
+Se você estiver compregui-se no post,
+eu só leto para você. Então é eu, né?
+P de
+Paralelepipodo, O de
+Ovo, D de Dadinho, C de
+Caramelo, R, D, A, B, S
+de Sebastian Health, T de
+Tribudusei.
+A gente queria agradecer para vocês
+que se escutaram até agora, e que a gente
+queria lembrar, a gente tem o usuário
+também da Tribudusei,
+onde você pode colocar também os seus
+e-mails de voz e mandar para a gente.
+Quer, se também você não quer escrever,
+só fala lá para a gente.
+A gente cola aí nos próximos episódios.
+É, a gente é legal. É um cara legal.
+Valeu, galera! Muito obrigado por
+ter se escutado até agora.
+E fiquem de olho, assinem o nosso feed
+para que vocês possam ficar
+dentro de todas as novidades do nosso site.
+Valeu, e até o próximo episódio.
+Andará-lo isso?
+Opa!
+Opa!
+Opa!
+Você chegou a ver
+os e-mails lá?
+Estava vendo aqui agora.
+Estava vendo aqui agora.
+Eu vi ontem, né?
+Eu vi hoje aqui o Sheldon
+estar na minha lista negra.
+Eu acho que vou matar um
+do componente.
+Foi falar do professor
+desde a bandida, e foi eu não, né?
+Não, não.
+Não foi o Sheldon, né?
+É, o Sheldon.
+Não, ele é da...
+Ele estuda na Universo.
+É na Universo?
+É.

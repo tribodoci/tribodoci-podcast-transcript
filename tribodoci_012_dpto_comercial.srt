@@ -1,0 +1,2048 @@
+1
+00:00:00,000 --> 00:00:17,600
+Você está ouvindo o Tribú do CEI Podcast.
+
+2
+00:00:17,600 --> 00:00:22,640
+Tribú do CEI Podcast Episódio 12, aqui é Sebastião Nelson e é meio esquisito se apresentar
+
+3
+00:00:22,640 --> 00:00:23,640
+quando você está sozinho.
+
+4
+00:00:23,640 --> 00:00:31,680
+Nesse episódio vamos falar sobre o departamento comercial nas empresas de tecnologia da
+
+5
+00:00:31,680 --> 00:00:32,680
+informação.
+
+6
+00:00:32,680 --> 00:00:37,320
+Para esse bate-papo convidei Fabio Tais que é diretor comercial de uma empresa de segurança
+
+7
+00:00:37,320 --> 00:00:38,320
+da informação.
+
+8
+00:00:38,320 --> 00:00:41,280
+Vamos lá para o bate-papo já seguindo no formato com os recadinhos no final.
+
+9
+00:00:53,640 --> 00:01:03,000
+Bom, a gente pode começar falando das missões de um setor comercial em uma empresa de tecnologia
+
+10
+00:01:03,000 --> 00:01:07,280
+e quais os nossos principais desafios no dia a dia.
+
+11
+00:01:07,280 --> 00:01:11,160
+Até porque isso é comum para vários tipos de empresas.
+
+12
+00:01:11,160 --> 00:01:14,720
+É, o comercial acredito que não existe empresas sem.
+
+13
+00:01:14,720 --> 00:01:16,920
+Ou não deveria, né?
+
+14
+00:01:16,920 --> 00:01:20,640
+É, não deveria não ter, talvez, talvez fosse melhor.
+
+15
+00:01:21,240 --> 00:01:23,040
+Na verdade você hoje tem, né?
+
+16
+00:01:23,040 --> 00:01:27,400
+Tem empresas online que você tem um anúncio e você compra através desse anúncio.
+
+17
+00:01:27,400 --> 00:01:32,320
+Mas tradicionalmente uma empresa, seja ela qual for, ela tem um setor comercial para
+
+18
+00:01:32,320 --> 00:01:34,560
+fazer uma única coisa, vender.
+
+19
+00:01:34,560 --> 00:01:35,560
+Vender.
+
+20
+00:01:35,560 --> 00:01:37,200
+Absolutamente mais nada do que isso.
+
+21
+00:01:37,200 --> 00:01:40,280
+Isso vem mudando com o tempo.
+
+22
+00:01:40,280 --> 00:01:46,680
+Hoje a concepção moderna é que o comercial, principalmente na área de serviço, é muito
+
+23
+00:01:46,680 --> 00:01:50,320
+mais um facilitador de venda do que ele necessariamente um vendedor.
+
+24
+00:01:50,320 --> 00:01:55,440
+Aquele sujeito que bate na porta e tenta colocar uma enciclopédia goela abaixo e nunca mais
+
+25
+00:01:55,440 --> 00:01:57,440
+volta porque ninguém nunca mais quer ver ele ali.
+
+26
+00:01:57,440 --> 00:02:03,440
+Nesse caso o cara é responsável por vender, mas o outro cara é com suporte, né?
+
+27
+00:02:03,440 --> 00:02:04,440
+Com suporte e pós-venda.
+
+28
+00:02:04,440 --> 00:02:08,080
+Hoje o suporte e pós-venda inclusive são assuntos distintos, né?
+
+29
+00:02:08,080 --> 00:02:12,880
+Você tem o suporte e ele faz parte do pós-venda, mas o pós-venda é muito mais do que isso.
+
+30
+00:02:12,880 --> 00:02:17,360
+É o acompanhamento do cliente, é saber se ele está satisfeito com a solução, porque
+
+31
+00:02:17,360 --> 00:02:19,320
+eu interesse de continuar vendendo.
+
+32
+00:02:19,320 --> 00:02:23,280
+Isso inclusive em produtos, principalmente em serviço, mas inclusive em produtos.
+
+33
+00:02:23,280 --> 00:02:29,040
+Em empresa de tecnologia, tudo caminha para que o vendedor não exista mais.
+
+34
+00:02:29,040 --> 00:02:33,240
+Você tem uma equipe comercial que trabalha como facilitador.
+
+35
+00:02:33,240 --> 00:02:37,200
+Na minha área, principalmente, é uma área de serviço especializado em segurança de
+
+36
+00:02:37,200 --> 00:02:38,200
+informação.
+
+37
+00:02:38,200 --> 00:02:39,200
+Faz facilitador em que se sentir?
+
+38
+00:02:39,200 --> 00:02:44,600
+Imagina o seguinte, você não consegue enfiar o Góella abaixo uma solução que o cliente
+
+39
+00:02:44,600 --> 00:02:46,720
+não precisa, porque ele é um cliente corporativo.
+
+40
+00:02:46,720 --> 00:02:51,640
+Ele tem um orçamento para aplicar no ano, na empresa, em quais que é áreas.
+
+41
+00:02:51,640 --> 00:02:55,680
+No meu caso, você vai vender uma solução de segurança para alguém que não se sente
+
+42
+00:02:55,680 --> 00:02:56,680
+seguro.
+
+43
+00:02:56,680 --> 00:02:59,760
+É muito difícil, é muito difícil mesmo.
+
+44
+00:02:59,760 --> 00:03:04,360
+Então é muito mais simples que você se apresente, que o mercado te conheça e que
+
+45
+00:03:04,360 --> 00:03:08,200
+o mercado confia em você, para quando ele precisar ele te procurar.
+
+46
+00:03:08,240 --> 00:03:12,600
+Hoje é um caminho interessante e facilita muito a vida do comercial.
+
+47
+00:03:12,600 --> 00:03:15,440
+Talvez não facilite, mas valoriza muito.
+
+48
+00:03:15,440 --> 00:03:19,640
+O comercial hoje, no meu caso, eu nem chamo mais de comercial.
+
+49
+00:03:19,640 --> 00:03:24,440
+Os meus parceiros de setor são facilitadores de fato.
+
+50
+00:03:24,440 --> 00:03:30,040
+Eles têm a missão de construir network, fazer network, construir rede de contatos,
+
+51
+00:03:30,040 --> 00:03:35,080
+facilitar essa venda ao máximo possível, se tornando a marca conhecida e tornando ela
+
+52
+00:03:35,080 --> 00:03:37,720
+confiável, que é mais importante.
+
+53
+00:03:37,720 --> 00:03:39,280
+Essas são as dificuldades.
+
+54
+00:03:39,280 --> 00:03:43,360
+Quando você é o rosto da empresa, porque isso acontece com o comercial, tudo que você
+
+55
+00:03:43,360 --> 00:03:46,040
+faz de errado, ele se reflete na empresa.
+
+56
+00:03:46,040 --> 00:03:50,400
+Então a tua postura, ela tem que refletir o que você está vendendo, o que você diz,
+
+57
+00:03:50,400 --> 00:03:55,320
+a tua fala tem que refletir o que você está vendendo, a tua fala tem que refletir o que
+
+58
+00:03:55,320 --> 00:04:00,480
+você quer passar de fato, a segurança do teu produto, a confiabilidade desse produto.
+
+59
+00:04:00,480 --> 00:04:01,480
+Então vai muito além.
+
+60
+00:04:01,480 --> 00:04:04,160
+É muito complicado realizar a venda.
+
+61
+00:04:04,160 --> 00:04:09,840
+Na verdade, a venda é o final de um processo muito extenso que começa com uma boa estratégia
+
+62
+00:04:09,840 --> 00:04:12,120
+e termina ali na cenatura do contrato.
+
+63
+00:04:12,120 --> 00:04:17,320
+Mas hoje, no nosso negócio, vai durar aí de quatro a seis meses essa negociação.
+
+64
+00:04:17,320 --> 00:04:21,320
+Quatro a seis meses, desde o primeiro contato até...
+
+65
+00:04:21,320 --> 00:04:22,320
+Em média.
+
+66
+00:04:22,320 --> 00:04:23,320
+Em média, seis meses.
+
+67
+00:04:23,320 --> 00:04:27,400
+Em média, seis meses eu tenho clientes de um ano e meio, que até hoje a gente conversa.
+
+68
+00:04:27,400 --> 00:04:31,760
+Viramos amigos, que é um dos quesivos, que nada melhor do que fazer é amigo de fato.
+
+69
+00:04:31,760 --> 00:04:35,920
+Você consegue manter uma rede de relacionamento pessoal e profissional.
+
+70
+00:04:35,920 --> 00:04:39,360
+E tem muito desses negócios da indicação, né?
+
+71
+00:04:39,360 --> 00:04:44,720
+O cliente falou da parceria, tem muito grupos corporativos, grupo de empresas, que ele tem
+
+72
+00:04:44,720 --> 00:04:51,000
+os parceiros e a confiança que ele já passou para um cliente facilita nos próximos clientes
+
+73
+00:04:51,000 --> 00:04:52,000
+que viram.
+
+74
+00:04:52,000 --> 00:04:53,720
+Claro, é olhos e ouvidos do rei, né?
+
+75
+00:04:53,720 --> 00:04:58,720
+Você tem muitos parceiros no mercado escutando o mercado, esse é o termo que a gente mais
+
+76
+00:04:58,720 --> 00:04:59,720
+utiliza.
+
+77
+00:04:59,720 --> 00:05:02,800
+Eles escutam o mercado e detectam a necessidade.
+
+78
+00:05:02,800 --> 00:05:08,960
+Se o parceiro não precisa nem saber qual é o seu negócio a fundo, ele sabe o que problema
+
+79
+00:05:08,960 --> 00:05:12,440
+você resolve, então ele detecta o problema e te indica.
+
+80
+00:05:12,440 --> 00:05:17,920
+E isso é uma cadeia de fato, é o famoso network, que acontece no mercado.
+
+81
+00:05:17,920 --> 00:05:23,720
+A gente consegue ver isso até, de forma explícita, no site tem lá uma coluna de parceiros,
+
+82
+00:05:23,720 --> 00:05:27,680
+mas isso acontece mais no relacionamento interpessoal mesmo.
+
+83
+00:05:27,680 --> 00:05:28,680
+Isso.
+
+84
+00:05:28,680 --> 00:05:33,640
+É o negócio que conhece pessoas, que conhece pessoas e faz o que resolve o problema que
+
+85
+00:05:33,640 --> 00:05:34,640
+eles precisam.
+
+86
+00:05:34,640 --> 00:05:40,880
+É, comercial hoje necessariamente precisa ter, mais do que conhecimento, uma bela cadeia
+
+87
+00:05:40,880 --> 00:05:41,880
+de contatos.
+
+88
+00:05:41,880 --> 00:05:44,960
+Porque é isso que vai facilitar a vida dele no final das contas, né?
+
+89
+00:05:44,960 --> 00:05:52,920
+Bater perna, bater de porta em porta já não vem demais, é o que se fazia aí a 50,
+
+90
+00:05:52,920 --> 00:05:58,360
+60, sei lá quantos anos tem a relação comercial onde um vendedor de enciclopédios batia de
+
+91
+00:05:58,360 --> 00:06:02,600
+porta em porta e vendia o seu produto, independente da qualidade dele, você acabava comprando
+
+92
+00:06:02,600 --> 00:06:03,600
+para se livrar do vendedor.
+
+93
+00:06:03,600 --> 00:06:14,960
+Eu conheço gente que falou que ligou a lista de telefone, pegava um segmento, né?
+
+94
+00:06:14,960 --> 00:06:19,760
+Ah, eu tenho um software para auto peças, cara, pegava a lista de telefone que ficava
+
+95
+00:06:19,760 --> 00:06:22,280
+em cada auto peça oferecendo o produto.
+
+96
+00:06:22,280 --> 00:06:27,040
+E esse tipo de esforço, ainda hoje funciona assim, tem que ser direcionado, assim, uma
+
+97
+00:06:27,040 --> 00:06:28,480
+coisa mais... é de senso.
+
+98
+00:06:28,480 --> 00:06:33,440
+Você ainda faz esse tipo de serviço, mas faz de uma forma muito mais inteligente.
+
+99
+00:06:33,440 --> 00:06:35,320
+Pelo menos é isso que se espera.
+
+100
+00:06:35,320 --> 00:06:40,080
+Hoje você pode até pegar uma lista telefônica, estudar os contatos que te interessam e ligar
+
+101
+00:06:40,080 --> 00:06:44,520
+para eles, mas talvez não seja tão interessante assim você oferecer o produto que ele não
+
+102
+00:06:44,520 --> 00:06:45,520
+conhece.
+
+103
+00:06:45,520 --> 00:06:48,800
+Talvez seja muito mais interessante você fazer isso como pesquisa de mercado e como
+
+104
+00:06:48,800 --> 00:06:53,840
+conhecimento para que você quando for apresentar esse produto você tenha um meio de chegar
+
+105
+00:06:53,840 --> 00:06:54,840
+nessa empresa.
+
+106
+00:06:54,840 --> 00:06:59,640
+As empresas hoje, quaisquer que seja, elas têm um deslocamento muito grande, estamos
+
+107
+00:06:59,640 --> 00:07:04,160
+falando de empresas de TI, entre a pessoa que entende do negócio e a pessoa que tem
+
+108
+00:07:04,160 --> 00:07:06,000
+o poder de decisão sobre a compra.
+
+109
+00:07:06,000 --> 00:07:10,400
+Muitas pessoas falam não para você ver uma empresa dedo, secretária, até o dono da
+
+110
+00:07:10,400 --> 00:07:14,320
+empresa, mas é só uma empresa que te fala assim, você não tem um caminho certo para
+
+111
+00:07:14,320 --> 00:07:17,520
+chegar nesse profissional, a tua possibilidade de venda é muito pequena.
+
+112
+00:07:17,520 --> 00:07:22,160
+Eu pensei nisso também até por causa da ineficiência que acabou de falar, até a secretária
+
+113
+00:07:22,160 --> 00:07:27,280
+dar um não, porque o cara tem a lista telefônica lá e fala, eu sou de uma empresa de só,
+
+114
+00:07:27,280 --> 00:07:30,880
+a própria secretária tem uma decisão de falar, não, não está procurando.
+
+115
+00:07:30,880 --> 00:07:33,600
+A primeira pessoa que não entendeu o que ele fala, vai falar não, essa é a missão
+
+116
+00:07:33,600 --> 00:07:34,600
+que acontece.
+
+117
+00:07:34,600 --> 00:07:35,600
+Não, a gente não está precisando.
+
+118
+00:07:35,600 --> 00:07:36,600
+Exatamente.
+
+119
+00:07:36,600 --> 00:07:41,000
+Sem saber exatamente o que faz, absolutamente nada, com as pessoas que têm estratégias
+
+120
+00:07:41,000 --> 00:07:45,320
+para passar de secretárias, é um desafio, foi um desafio para qualquer um que passou
+
+121
+00:07:45,320 --> 00:07:46,320
+por isso.
+
+122
+00:07:46,320 --> 00:07:49,040
+Na verdade eu acho que o grande segredo é engenharia social.
+
+123
+00:07:49,040 --> 00:07:51,160
+Engenharia social, exatamente.
+
+124
+00:07:51,160 --> 00:07:56,080
+Hoje existem outras formas, de fato todas elas apodam para o mesmo caminho, em tal
+
+125
+00:07:56,080 --> 00:07:59,960
+uma rede de relacionamentos, tem gente que nasce com essa rede de relacionamentos e
+
+126
+00:07:59,960 --> 00:08:06,920
+de berço, tem família, ainda mais em cidades provincianas, a nossa sobrenome forte.
+
+127
+00:08:06,920 --> 00:08:07,920
+Exatamente.
+
+128
+00:08:07,920 --> 00:08:11,800
+Então você tem um círculo que tem que ser utilizado, não é uma crítica, você nasceu
+
+129
+00:08:11,800 --> 00:08:16,120
+com sorte, parabéns, mas para a grande maioria é você construir isso e construir isso com
+
+130
+00:08:16,120 --> 00:08:20,160
+credibilidade, construir isso com ética, quando você é uma pessoa correta você passa
+
+131
+00:08:20,160 --> 00:08:21,800
+sem conhecido por ser correto.
+
+132
+00:08:21,800 --> 00:08:27,520
+Isso é muito bom para qualquer tipo de negócio, seja ele tecnologia, seja qualquer outra.
+
+133
+00:08:27,520 --> 00:08:31,000
+Eu tenho um professor que ele falava que o cara do comercial é aquele cara que ele
+
+134
+00:08:31,000 --> 00:08:36,040
+chega numa festa e sai com três contratos, isso me leva a outra coisa que eu percebo
+
+135
+00:08:36,040 --> 00:08:41,240
+é que nem sempre a pessoa que tem um conhecimento técnico gigante, não é aquela pessoa que
+
+136
+00:08:41,240 --> 00:08:47,560
+tem um sucesso no seu produto, ou seja, saber vender é tão importante quanto o knowhow,
+
+137
+00:08:47,560 --> 00:08:48,560
+né?
+
+138
+00:08:48,560 --> 00:08:52,600
+O que a gente fala dentro da empresa é que saber é tão importante quanto parece que
+
+139
+00:08:52,600 --> 00:08:53,600
+sabe.
+
+140
+00:08:53,600 --> 00:08:56,320
+Isso é alguma deficiência na formação, indivíduo.
+
+141
+00:08:56,320 --> 00:09:01,940
+Essa habilidade de vender o produto, de se vender, superou nesse caso até o conhecimento
+
+142
+00:09:01,940 --> 00:09:03,440
+técnico que ele teve.
+
+143
+00:09:03,440 --> 00:09:08,840
+Na verdade o ideal sempre foi ter os dois, sempre foi, o que acontece é que a gente
+
+144
+00:09:08,840 --> 00:09:10,520
+não tem esse profissional no mercado.
+
+145
+00:09:18,560 --> 00:09:29,800
+Na parte tecnologia, por formação e por perfil, você tem um profissional que a grande
+
+146
+00:09:29,800 --> 00:09:35,100
+maioria sem querer generalizar, mas a gente tem um profissional que entra na faculdade
+
+147
+00:09:35,100 --> 00:09:39,800
+com o intuito de ser um técnico e que ele se aprofunda na parte técnica, mas ele não
+
+148
+00:09:39,800 --> 00:09:45,800
+se interessa por empreendedorismo, por matérias de cunha administrativa, você tem um outro
+
+149
+00:09:45,800 --> 00:09:48,560
+profissional que não passa pela faculdade.
+
+150
+00:09:48,560 --> 00:09:53,280
+O profissional de vendas hoje, ele normalmente não tem formação técnica e quando tem,
+
+151
+00:09:53,280 --> 00:09:58,120
+ele não tem uma formação técnica bem basada, porque não é um futuro que você aprende
+
+152
+00:09:58,120 --> 00:10:01,800
+que é possível na faculdade, não é um futuro previsto.
+
+153
+00:10:01,800 --> 00:10:06,080
+Você sempre entra em um curso técnico para ser técnico, você nunca entra para ser administrativo.
+
+154
+00:10:06,080 --> 00:10:11,920
+É uma grande falha, não só para o vendedor, você tem a noção de administrativo para
+
+155
+00:10:11,920 --> 00:10:14,360
+ser gerente, para ser diretor, de fato.
+
+156
+00:10:14,360 --> 00:10:20,960
+É um cargo que em Goiânia ou em Goiás, no centro oeste, como todo, existe uma falha
+
+157
+00:10:20,960 --> 00:10:25,040
+muito grande na estrutura da empresa, onde você não tem um diretor de TI, você tem
+
+158
+00:10:25,040 --> 00:10:28,040
+o gerente de TI e você tem um diretor de empresa.
+
+159
+00:10:28,040 --> 00:10:33,760
+Essa falta de comunicação que gera a falta desse profissional é que dificulta todo o
+
+160
+00:10:33,760 --> 00:10:40,240
+mercado, inclusive salários, teto salarial, tudo isso baixa muito quando você não deixa
+
+161
+00:10:40,240 --> 00:10:45,760
+que o dono da empresa conheça a real importância da tecnologia de informação dentro dessa
+
+162
+00:10:45,760 --> 00:10:46,760
+empresa.
+
+163
+00:10:46,760 --> 00:10:53,560
+É um grande problema, e é um problema endêbico, você chegar numa empresa e o TI só serve
+
+164
+00:10:53,560 --> 00:10:58,440
+para pagar incêndio, ele só está lá para resolver pau de sistema, como ele diz, acabou
+
+165
+00:10:58,440 --> 00:10:59,440
+e outra.
+
+166
+00:10:59,440 --> 00:11:04,000
+O TI ele faz de tudo, desde consertar telefone até mexendo o software, porque não tem uma
+
+167
+00:11:04,000 --> 00:11:10,840
+separação do que é tecnologia de informação, que é informática em cima, porque o menino
+
+168
+00:11:10,840 --> 00:11:14,440
+se formou em computação, então ele sabe mexer em satélite.
+
+169
+00:11:14,440 --> 00:11:20,040
+Eu tinha um ex-coleg que trabalha que ele falava assim, ele se formou engenharia da computação
+
+170
+00:11:20,040 --> 00:11:25,280
+na federal, aí ele falava assim, quando ele ia falar para alguém qual a profissão
+
+171
+00:11:25,280 --> 00:11:29,400
+dele ele falava que era engenheiro, porque quando ele falava que era engenheiro da computação
+
+172
+00:11:29,400 --> 00:11:33,760
+a pessoa falava uma computação, eu tenho um sobrinho que mexe com um computador também,
+
+173
+00:11:33,760 --> 00:11:38,720
+o sobrinho de 12 anos que mexe com um computador.
+
+174
+00:11:38,720 --> 00:11:45,000
+E isso é culpa nossa, isso é a falta de se vender bem, de saber o que explicar exatamente
+
+175
+00:11:45,000 --> 00:11:50,080
+o que a gente faz, a gente tem muitos bons exemplos, mas tem bons exemplos também,
+
+176
+00:11:50,080 --> 00:11:56,160
+a gente trabalha com clientes que são empresas líderes no mercado e o grande diferencial
+
+177
+00:11:56,160 --> 00:12:02,640
+dessas empresas é o TI, é um gerente, um diretor de TI que parou de ver a tecnologia
+
+178
+00:12:02,640 --> 00:12:10,200
+de informação como um imero adereço, ela parou de acudir problemas, eles fizeram um
+
+179
+00:12:10,200 --> 00:12:15,200
+preparo no TI para que esses problemas fossem menos recorrentes, eles começaram a colocar
+
+180
+00:12:15,200 --> 00:12:20,840
+o TI como um diferencial estratégico, hoje em calcentres, funcionando muito bem e comers,
+
+181
+00:12:20,840 --> 00:12:24,240
+eles são todos diferenciais estratégicos muito importantes para uma empresa.
+
+182
+00:12:24,240 --> 00:12:28,960
+Muito interessante, como que o cara consegue dar um desconto de 70% em um produto, como
+
+183
+00:12:28,960 --> 00:12:33,840
+que ele ainda vai ter lucro se ele tem 70 mil itens no estoque dele, ele consegue fazer
+
+184
+00:12:33,840 --> 00:12:34,840
+isso manualmente.
+
+185
+00:12:34,840 --> 00:12:40,480
+É, não, e muitos outros exemplos, a gente tem uma rede de farmácia que é nossa cliente,
+
+186
+00:12:40,480 --> 00:12:47,920
+que o sistema desenvolvido sozinho, ele identifica as regiões que consomem produto X e remaneja.
+
+187
+00:12:47,920 --> 00:12:50,880
+Ah, faz um perfil, é a parte de CRM, né?
+
+188
+00:12:51,000 --> 00:12:53,920
+E é brilhante, não, então o que acontece?
+
+189
+00:12:53,920 --> 00:12:58,320
+A empresa tem um gerenciamento perfeito, ela tem um diretor financeiro que é extremamente
+
+190
+00:12:58,320 --> 00:13:02,520
+competente, ela tem uma diretora de RH que é extremamente competente, são as partes
+
+191
+00:13:02,520 --> 00:13:07,320
+fundamentais, mas ela tem um engenhante de TI que está ali discutindo todos os assuntos,
+
+192
+00:13:07,320 --> 00:13:13,640
+participando de todas as reuniões, ele consegue se comunicar e consegue explicar fatores técnicos
+
+193
+00:13:13,640 --> 00:13:16,920
+para pessoas que não são técnicas, que esse é a chave.
+
+194
+00:13:16,920 --> 00:13:21,120
+Então o melhor é a gente conseguir explicar esse assunto para um lego, mais valorizado
+
+195
+00:13:21,120 --> 00:13:24,600
+a gente vai ser no mercado e mais espaço a gente vai ter nesse mercado.
+
+196
+00:13:24,600 --> 00:13:29,600
+Eu trabalhei numa empresa, primeiro era o departamento, dentro dessa outra empresa,
+
+197
+00:13:29,600 --> 00:13:33,360
+a parte de TI, a gente era os meninos da TI e virou uma empresa.
+
+198
+00:13:33,360 --> 00:13:37,920
+A nossa ponte com o restante da empresa era exatamente o cara do comercial.
+
+199
+00:13:37,920 --> 00:13:40,040
+Aí ele fazia o papel comercial de muito tempo.
+
+200
+00:13:40,040 --> 00:13:46,560
+Então ele fazia o papel comercial tanto do departamento de TI para o restante da empresa
+
+201
+00:13:46,600 --> 00:13:53,320
+quanto a parte de traduzir o problema da empresa para a gente que era o pessoal do TI.
+
+202
+00:13:53,320 --> 00:14:00,000
+Esse é um detalhe, que é também um detalhe muito importante para esse novo comercial.
+
+203
+00:14:00,000 --> 00:14:03,240
+Por que ele tem que ter conhecimento técnico aprofundado?
+
+204
+00:14:03,240 --> 00:14:09,640
+Porque ele não vai mais vender o NIC simplesmente, ele tem que vender o produto que foi desenvolvido
+
+205
+00:14:09,640 --> 00:14:15,520
+pela empresa, tem que colher as informações, as impressões do cliente e traduzir essas
+
+206
+00:14:15,520 --> 00:14:18,400
+impressões para o setor de desenvolvimento dele.
+
+207
+00:14:18,400 --> 00:14:23,680
+Ele é o principal ponte entre o cliente e o prospecto, e a empresa é o comercial.
+
+208
+00:14:23,680 --> 00:14:27,920
+Então ele vai para a rua, ele vai para o telefone, que seja, ele tem que voltar para
+
+209
+00:14:27,920 --> 00:14:32,600
+a empresa, se não com um contrato, com as impressões que o mercado tem sobre o produto.
+
+210
+00:14:32,600 --> 00:14:38,240
+Isso, para qualquer um que já abriu uma empresa na vida, sabe o importante isso é para a
+
+211
+00:14:38,240 --> 00:14:39,240
+empresa.
+
+212
+00:14:39,240 --> 00:14:40,240
+E esse aqui é o problema.
+
+213
+00:14:40,240 --> 00:14:47,600
+Na verdade, hoje, no TI, tecnologia da informação, a gente precisa muito desse profissional.
+
+214
+00:14:47,600 --> 00:14:52,600
+Imagina a sua faculdade, a nossa faculdade de tecnologia como foi.
+
+215
+00:14:52,600 --> 00:14:57,600
+Eu conheço pouquíssimas pessoas que passaram pela faculdade com esse dom, com esse dom de
+
+216
+00:14:57,600 --> 00:15:03,400
+comunicação, de fácil convivência, um sujeito carismático que permaneceu até o final do
+
+217
+00:15:03,400 --> 00:15:04,400
+curso.
+
+218
+00:15:04,400 --> 00:15:08,800
+Normalmente ele abandonou a faculdade ali no segundo ou terceiro ano, pela primeira
+
+219
+00:15:08,800 --> 00:15:09,800
+matéria de cálculo apertou.
+
+220
+00:15:09,800 --> 00:15:30,160
+Eu acho que tem um problema na formação, no profissional, que é tão acadêmico, mas
+
+221
+00:15:30,160 --> 00:15:36,120
+um perfil, um perfil comum por profissão andaralha, para pessoa introspeitiva, que
+
+222
+00:15:36,120 --> 00:15:40,880
+não tem pronta facilidade em conversar com assuntos que não sejam tecnologia.
+
+223
+00:15:40,880 --> 00:15:46,400
+Isso aqui, para vocês barram o mercado, é o que gera todo o problema de ter uma pessoa
+
+224
+00:15:46,400 --> 00:15:53,480
+que consiga explicar o que a área dela faz falta, o que problema que eu tenho hoje.
+
+225
+00:15:53,480 --> 00:15:59,120
+O meu profissional, ele passa para uma faculdade de tecnologia que é puramente técnica, ele
+
+226
+00:15:59,120 --> 00:16:03,360
+ficava cinco, agora ficam três anos, e todas as matérias que ele tirar dessa faculdade
+
+227
+00:16:03,360 --> 00:16:08,360
+são as matérias de cunha administrativa, então você lembra da tomatéria empreendedorismo?
+
+228
+00:16:08,360 --> 00:16:11,760
+Eu tive empreendedorismo com os técnicos e na faculdade.
+
+229
+00:16:11,760 --> 00:16:13,760
+Pois é, você gostava do empreendedorismo?
+
+230
+00:16:13,760 --> 00:16:14,760
+Gostava, peguei que gostava.
+
+231
+00:16:14,760 --> 00:16:16,560
+Pois é, quantas pessoas sua sala gostava?
+
+232
+00:16:16,560 --> 00:16:18,240
+Mano, era muita gente que dava...
+
+233
+00:16:18,240 --> 00:16:19,760
+Na verdade deve ter sido você.
+
+234
+00:16:19,760 --> 00:16:23,360
+Quer dizer, e o professor era muito bom, então o professor captivava pra caramba, né?
+
+235
+00:16:23,360 --> 00:16:24,360
+É isso que precisa, né?
+
+236
+00:16:24,360 --> 00:16:25,360
+O que aconteceu comigo?
+
+237
+00:16:25,360 --> 00:16:29,680
+Os professores que davam esse tipo de matéria, eles eram professores realocados, então
+
+238
+00:16:29,680 --> 00:16:34,960
+eles pegavam professores de sistemas operacionais, e colocavam o cara em um cadê d'orel, e colocavam
+
+239
+00:16:34,960 --> 00:16:38,600
+o cara para fazer outras coisas, ou então um professor que dava aula de humanas, mas
+
+240
+00:16:38,600 --> 00:16:40,880
+que ele estava cumprindo cargoirá na minha universidade.
+
+241
+00:16:46,880 --> 00:16:51,000
+Não é a mesma coisa, abrir uma empresa de venda de produto e uma empresa de venda de
+
+242
+00:16:51,000 --> 00:16:53,200
+serviço, ou uma empresa de venda de software.
+
+243
+00:16:53,200 --> 00:16:57,320
+Você vai se comunicar com um nicho de pessoas totalmente distintos, né?
+
+244
+00:16:57,320 --> 00:17:00,560
+Então falar sobre assuntos, que não é assunto o conhecimento geral, você vai ter
+
+245
+00:17:00,560 --> 00:17:04,160
+que aprender a vender o que ninguém sabe o que é, você primeiro tem que aprender a
+
+246
+00:17:04,160 --> 00:17:06,200
+explicar, aí isso é muito complicado.
+
+247
+00:17:06,200 --> 00:17:07,200
+Ah, é.
+
+248
+00:17:07,200 --> 00:17:11,240
+Outra coisa, é uma consequência disso aqui, além do comercial das empresas hoje que
+
+249
+00:17:11,240 --> 00:17:16,600
+o TI e a direção, elas têm um deslocamento enorme, porque imagina o seguinte, você
+
+250
+00:17:16,600 --> 00:17:20,560
+está trabalhando numa empresa de venda de calçados, é...
+
+251
+00:17:20,560 --> 00:17:22,560
+Desse cenário eu conheço bem.
+
+252
+00:17:22,840 --> 00:17:29,280
+Pois é, então você tem uma direção que o produto final deles é venda, então é
+
+253
+00:17:29,280 --> 00:17:34,000
+produto vendido, esse é o sucesso da empresa, o que que o TI tem a ver com isso no final
+
+254
+00:17:34,000 --> 00:17:35,000
+das contas?
+
+255
+00:17:35,000 --> 00:17:38,720
+Para a gente tudo, se o sistema dele para, ele para de vender, isso é uma premissa
+
+256
+00:17:38,720 --> 00:17:43,320
+básica, é fundamental para ele começar a trabalhar.
+
+257
+00:17:43,320 --> 00:17:47,000
+Se o sistema não está funcionando direto, ele não vai vender, então é diretamente
+
+258
+00:17:47,000 --> 00:17:51,200
+proporcional a força de vendas, mas até então é só uma força que atrapalha, qual
+
+259
+00:17:51,200 --> 00:17:52,200
+é a dificuldade?
+
+260
+00:17:52,200 --> 00:17:58,520
+Os diretores de TI hoje, esse cargo mal existe, os gerentes de TI, eles têm que ter o conhecimento
+
+261
+00:17:58,520 --> 00:18:03,280
+geral da tecnologia, mas tem que ter o conhecimento do decócio, ele tem que saber comunicar
+
+262
+00:18:03,280 --> 00:18:07,800
+e entender, interpretar TI para o dono, saber o que a nova tecnologia pode fazer por ele,
+
+263
+00:18:07,800 --> 00:18:11,720
+é onde aqueles podem começar a trabalhar para que a TI ela pare de resolver o problema
+
+264
+00:18:11,720 --> 00:18:12,720
+que é o que acontece hoje.
+
+265
+00:18:12,720 --> 00:18:16,720
+Tá, famosa TI produtiva, que ainda é um mundo único.
+
+266
+00:18:16,720 --> 00:18:23,080
+Qual é a formação de um profissional que trabalha no comercial?
+
+267
+00:18:23,080 --> 00:18:29,480
+Eu acho que é muito mais fácil você ensinar um vendedor a vender tecnologia hoje, ensinar
+
+268
+00:18:29,480 --> 00:18:31,040
+o cara da tecnologia a vender.
+
+269
+00:18:31,040 --> 00:18:35,320
+É muito mais simples, qual é a consequência disso no mercado, o que a gente enfrenta
+
+270
+00:18:35,320 --> 00:18:40,000
+em lojas de informática, em venda e tecnologia, é o comercial da conta que não sabe absolutamente
+
+271
+00:18:40,000 --> 00:18:41,960
+nada do que ele está falando.
+
+272
+00:18:41,960 --> 00:18:47,320
+Então ele decora um texto, ele acha que sabe, ele cospe aquilo em cima de TI e se você
+
+273
+00:18:47,320 --> 00:18:50,600
+tem um pinho de conhecimento técnico, a primeira besteira que ele fala, ele já perdeu toda
+
+274
+00:18:50,600 --> 00:18:51,600
+a credibilidade.
+
+275
+00:19:03,600 --> 00:19:04,600
+Qual era o ideal?
+
+276
+00:19:04,600 --> 00:19:07,840
+Sabia que tem sujeito que fica no fundo da sala, que ninguém dá nada para ele ver
+
+277
+00:19:07,840 --> 00:19:10,960
+a tecnologia que conversa mais do que no mercado da cobra e que acho que não tem nada
+
+278
+00:19:10,960 --> 00:19:11,960
+para fazer lá dentro.
+
+279
+00:19:11,960 --> 00:19:16,760
+Se forma, bota o diploma na gaveta e vai para outra área, vai fazer outro curso superior
+
+280
+00:19:16,760 --> 00:19:21,280
+ou vai trabalhar em outra coisa, talvez esse cara é o que falte no mercado hoje, que é
+
+281
+00:19:21,280 --> 00:19:26,240
+o sujeito que tem facilidade em comunicação, que entende do negócio como um todo, que
+
+282
+00:19:26,240 --> 00:19:30,600
+entende de tecnologia, mesmo que não aprofundadamente, é uma pessoa que sabe dos conceitos, que sabe
+
+283
+00:19:30,600 --> 00:19:34,920
+como é que funciona, mas que não está para pesquisa e desenvolvimento e nem para suporte.
+
+284
+00:19:34,920 --> 00:19:39,200
+Ele tem uma outra área guardada para ele no mercado de trabalho, que provavelmente é
+
+285
+00:19:39,200 --> 00:19:43,680
+a área que paga melhor hoje por conta da carência de profissionais, e se ele se desenvolvesse
+
+286
+00:19:43,680 --> 00:19:48,200
+um pouco mais na parte de negociação, na parte de marketing, ele ia se tornar um belo
+
+287
+00:19:48,200 --> 00:19:49,200
+profissional comercial.
+
+288
+00:19:49,200 --> 00:19:52,840
+É esse o estímulo que falta, qual é o estímulo que esse cara tem hoje nenhum?
+
+289
+00:19:52,840 --> 00:19:56,720
+Ele vai sair da faculdade muito provavelmente antes de todo mundo, se ele não se encher,
+
+290
+00:19:56,720 --> 00:20:02,160
+porque ele não vê o futuro dele naquele curso e ele pude então a faculdade a alocar
+
+291
+00:20:02,160 --> 00:20:03,160
+esse sujeito.
+
+292
+00:20:03,160 --> 00:20:06,720
+Ele tem que ter essa gama de opções antes de entrar na faculdade ou pelo menos no início
+
+293
+00:20:06,720 --> 00:20:10,920
+do curso, porque do meio para o final do curso ninguém tem mais paciência para fazer nada,
+
+294
+00:20:10,920 --> 00:20:12,080
+é muito complicado.
+
+295
+00:20:12,080 --> 00:20:16,680
+E hoje o profissional entra muito cedo na faculdade, eu entrei com 17 anos e na minha
+
+296
+00:20:16,680 --> 00:20:22,680
+época eu era o mais novo da turma, hoje eu já tenho colegas que entraram com 14, colaram
+
+297
+00:20:22,680 --> 00:20:26,280
+o segundo e o terceiro ano, entraram direto na faculdade, nesse caso em específico desse
+
+298
+00:20:26,280 --> 00:20:29,920
+amigo ele está muito bem, ele gosta muito do curso dele, agora é uma chance imbile na
+
+299
+00:20:29,920 --> 00:20:30,920
+minha opinião.
+
+300
+00:20:30,960 --> 00:20:34,000
+Você tem que ter maturidade para escolher o que você vai fazer para o resto da vida,
+
+301
+00:20:34,000 --> 00:20:35,800
+não é tão simples assim?
+
+302
+00:20:35,800 --> 00:20:39,440
+Eu antes de terminar o segundo grau já estava fazendo curso técnico, terminei o curso técnico
+
+303
+00:20:39,440 --> 00:20:43,280
+e seis meses depois eu entrei na faculdade, mas eu já estava bem indirecionado do que
+
+304
+00:20:43,280 --> 00:20:48,360
+eu queria fazer, eu fazia cursos na área assim há muito tempo, o que eu percebo pelo
+
+305
+00:20:48,360 --> 00:20:52,320
+menos na minha formação a parte de empreendedorismo era muito forte.
+
+306
+00:20:52,320 --> 00:20:54,600
+Isso é muito bom, e é muito raro de acontecer.
+
+307
+00:20:54,600 --> 00:21:00,680
+E foi nos dois cursos, tanto no curso técnico e na graduação, tive a sorte de ter
+
+308
+00:21:00,680 --> 00:21:07,200
+professores muito bons nessa parte de não-humanas, que foi uma coisa que na faculdade eu tive
+
+309
+00:21:07,200 --> 00:21:12,200
+mais do que no curso técnico, e eu gostei muito, por exemplo, eu tive filosofia, eu
+
+310
+00:21:12,200 --> 00:21:18,560
+tive empreendedorismo, tive homem em sociedade, que também são relacionados até à cultura
+
+311
+00:21:18,560 --> 00:21:24,120
+e como se portar diante disso, eu achei assim muito importante para minha formação como
+
+312
+00:21:24,120 --> 00:21:25,120
+profissional.
+
+313
+00:21:25,120 --> 00:21:29,320
+Mas o que eu via na faculdade era que a galera dava menor importância para esse tipo de
+
+314
+00:21:29,320 --> 00:21:33,840
+matéria, por não estar relacionado diretamente à parte técnica.
+
+315
+00:21:33,840 --> 00:21:37,920
+O estudante de tecnologia é tão chita, às vezes ele não gosta da parte técnica que
+
+316
+00:21:37,920 --> 00:21:38,920
+não é interessante.
+
+317
+00:21:38,920 --> 00:21:44,040
+Eu tive aula de circuito integrado e era pouquíssima gente que gostava, mesmo sendo
+
+318
+00:21:44,040 --> 00:21:46,040
+totalmente relacionado a TI.
+
+319
+00:21:46,040 --> 00:21:51,800
+O meu curso era basicamente um curso de telecomunicações, a base de telecomunicações no CEFET, na época
+
+320
+00:21:51,800 --> 00:21:57,080
+você tinha muita herança desse curso, eu tinha transmissor, transmissor e receptor
+
+321
+00:21:57,080 --> 00:22:01,200
+como uma matéria, era terrível para estudar, era muito difícil.
+
+322
+00:22:01,200 --> 00:22:05,600
+Em compensação essa parte de empreendedorismo, eu tive uma aula horrível, eu não me lembro
+
+323
+00:22:05,600 --> 00:22:08,520
+do nome do professor, ainda bem para ele, porque senão eu falava.
+
+324
+00:22:08,520 --> 00:22:13,080
+Então eu faço propaganda positiva, o meu era o Carvel Wacken.
+
+325
+00:22:13,080 --> 00:22:20,480
+Bom, e a gente passa pela faculdade, não tem nenhum tipo de instrução nesse ramo, não
+
+326
+00:22:20,480 --> 00:22:28,120
+é instigado a buscar esse tipo de conhecimentos e é questão de forçar o barras, fazer apresentações
+
+327
+00:22:28,120 --> 00:22:30,120
+de trabalho que estamos torturando.
+
+328
+00:22:46,120 --> 00:22:49,560
+Essa é uma coisa que mereceria ter um episódio separado.
+
+329
+00:22:49,560 --> 00:22:53,840
+Esse desenvolvimento que a pessoa perde a oportunidade, que vai empurrando a cambarriga,
+
+330
+00:22:53,840 --> 00:22:57,960
+vai empurrando a cambarriga, chega no mercado de trabalho e ele se ferra.
+
+331
+00:22:57,960 --> 00:23:03,160
+É começar da escola, tem os trabalhos em grupo para apresentar na frente, tem os trabalhos
+
+332
+00:23:03,160 --> 00:23:09,360
+para fazer e o cara se forma na escola, no segundo grau, o cara tem medo de falar em
+
+333
+00:23:09,360 --> 00:23:14,680
+público e tem medo de falar em público e ele não consegue escrever nada.
+
+334
+00:23:14,680 --> 00:23:18,040
+Ainda bem que tem aquela menininha que você está lá na frente, que normalmente sobra
+
+335
+00:23:18,040 --> 00:23:21,800
+tudo o trabalho para ela, então fazer o trabalho, quanto precisa para o trabalho?
+
+336
+00:23:21,800 --> 00:23:27,800
+É, chega na faculdade, tem os trabalhos, quase todo semestre tem um trabalho, maneiro
+
+337
+00:23:27,800 --> 00:23:33,520
+para fazer e a galera vai empurrando, vai empurrando, se forma e não consegue falar
+
+338
+00:23:33,520 --> 00:23:38,440
+em público direito e não consegue escrever nada, se pedir para ele vender uma proposta
+
+339
+00:23:38,440 --> 00:23:41,680
+de um projeto que ele quer fazer, o cara não consegue.
+
+340
+00:23:41,680 --> 00:23:46,720
+Chega no mercado de trabalho, o cara não consegue apresentar um produto para uma reunião
+
+341
+00:23:46,720 --> 00:23:51,120
+da própria empresa, ele vai vender um projeto, ele não consegue...
+
+342
+00:23:51,120 --> 00:23:53,880
+E pior, ele não consegue se apresentar.
+
+343
+00:23:53,880 --> 00:23:57,040
+Ele não consegue nem se apresentar.
+
+344
+00:23:57,040 --> 00:24:01,800
+Ele não sabe até onde ele pode ir, ninguém vai saber isso sozinho, é ilusão achar que
+
+345
+00:24:01,800 --> 00:24:06,520
+o empregador tem a mediunidade de detectar a correatura com o que tem sem que você abra
+
+346
+00:24:06,520 --> 00:24:11,640
+a boca e fale sobre isso, isso é impossível, então ou você aprende a fazer isso lá na
+
+347
+00:24:11,640 --> 00:24:15,720
+hora do mercado de trabalho, quando está muito em cima ou então você vai ficar com
+
+348
+00:24:15,720 --> 00:24:21,240
+um subemprego, só pensar aí nos grandes desenvolvedores, eu conheço muitos grandes
+
+349
+00:24:21,240 --> 00:24:26,600
+desenvolvedores que estão presos em salinha, desenvolvedor de software inclusive, ficando
+
+350
+00:24:26,600 --> 00:24:32,280
+deixando um monte de gente rico por aí, sem saber disso, sem a capacidade de levantar
+
+351
+00:24:32,280 --> 00:24:36,600
+e fazer isso por si só, porque é uma parte muito específica mesmo, e não é todo mundo
+
+352
+00:24:36,600 --> 00:24:42,040
+que acha alguém honesto para valorizar o seu trabalho, é complicado, acho que compensaria
+
+353
+00:24:42,040 --> 00:24:47,600
+aí um restudo de grade, o profissional de ITI desde o início ele tem um perfil introspectivo,
+
+354
+00:24:47,600 --> 00:24:53,120
+a gente já falou disso, quando gosta de falar, gosta de falar sobre assuntos técnicos, hoje
+
+355
+00:24:53,120 --> 00:24:58,840
+com a maior dificuldade de um comercial de tecnologia, você não tem com quem conversar,
+
+356
+00:24:58,840 --> 00:25:03,320
+você tem que desenvolver uma linguagem que você alcança desde uma pessoa lenda falando
+
+357
+00:25:03,320 --> 00:25:09,040
+de benefícios, o que o teu produto tem a agregar no final e você tem que desenvolver
+
+358
+00:25:09,040 --> 00:25:14,440
+o conhecimento técnico para descrever o produto para um profissional da área, porque você
+
+359
+00:25:14,440 --> 00:25:18,080
+não consegue fazer isso, uma dessas coisas só, são duas lidades muito distintas, a
+
+360
+00:25:18,080 --> 00:25:22,120
+direção executiva de uma empresa ela não tem a grande maioria das vezes a mínima
+
+361
+00:25:22,120 --> 00:25:28,200
+noção do que a tecnologia e gerencizes de ITI não tem grande interesse por conta
+
+362
+00:25:28,200 --> 00:25:33,040
+desse mesmo perfil em saber como o mercado funciona, ele não tem tino para empreendedor,
+
+363
+00:25:33,040 --> 00:25:36,520
+ele não sabe quais são as dificuldades que o dono da empresa passa, então ele passa
+
+364
+00:25:36,520 --> 00:25:40,720
+por essa dificuldade também, normalmente nessas entrevistas a gente vê pessoas se
+
+365
+00:25:40,720 --> 00:25:45,920
+preocupando muito mais em defender o emprego delas, em defender assim, tornar o meu serviço
+
+366
+00:25:45,920 --> 00:25:49,960
+mais fácil do que necessariamente tornar a empresa mais produtiva, e esse é um problema
+
+367
+00:25:49,960 --> 00:26:12,280
+até porque isso é uma habilidade diferente né, até uma coisa que a gente fala muito
+
+368
+00:26:12,280 --> 00:26:18,400
+na parte de gerencia de projetos e desenvolvimento de software, cada parte tem pessoas que atuam
+
+369
+00:26:18,400 --> 00:26:24,640
+nesse ponto, tem características diferentes, o analista de sistema em si ele tem habilidades
+
+370
+00:26:24,640 --> 00:26:28,920
+totalmente diferentes do programador, tanto é que num processo de desenvolvimento de
+
+371
+00:26:28,920 --> 00:26:33,720
+software o programador não poderia testar e levantar requisito com o cliente, porque
+
+372
+00:26:33,720 --> 00:26:41,080
+são perfis de pessoas muito diferentes, mas habilidades você desenvolve com exercício,
+
+373
+00:26:41,080 --> 00:26:46,320
+não é uma pessoa que pode então nascer para um curso técnico, eu nunca vou estar
+
+374
+00:26:46,320 --> 00:26:50,560
+habilitado a falar em público, o relacionamento interpessoal ele é uma necessidade para todo
+
+375
+00:26:50,560 --> 00:26:55,720
+mundo, como esse relacionamento acontece é questão de exercício, você pode se exercitar
+
+376
+00:26:55,720 --> 00:27:00,880
+e se tornar um bom comunicador, mesmo que seja para se vender para valorizar o seu trabalho
+
+377
+00:27:00,880 --> 00:27:07,760
+ou para passar esse tipo de recado, para ocupar posições que você não imaginava, eu acho
+
+378
+00:27:07,760 --> 00:27:12,560
+que é de fato um problema que a gente na empresa está enfrentando, eu estou com esse
+
+379
+00:27:12,560 --> 00:27:17,480
+problema, tem que montar uma equipe comercial, eu preciso de pessoas com esse perfil e é
+
+380
+00:27:17,480 --> 00:27:22,440
+extremamente complicado, para o meu comercial eu praticamente abri mão de um técnico para
+
+381
+00:27:22,440 --> 00:27:28,080
+pegar um comercial, vou fazer isso em forma de equipe e separar as funções justamente
+
+382
+00:27:28,080 --> 00:27:33,880
+porque vou botar na rua duas pessoas que vão fazer o papel de uma pessoa completa.
+
+383
+00:27:33,880 --> 00:27:38,560
+Um problema que eu vejo no comercial é a pessoa vender o que não tem e a parte técnica
+
+384
+00:27:38,560 --> 00:27:44,480
+tem que se virar para atender, falta de conhecimento técnico, é tudo fruto do mesmo
+
+385
+00:27:44,480 --> 00:27:48,680
+problema, você coloca vendedores na rua que não conhecem o produto, que não sabem o
+
+386
+00:27:48,680 --> 00:27:53,080
+que falam, mas que querem vender porque essa é a missão deles e eles vão falar assim
+
+387
+00:27:53,080 --> 00:27:58,080
+para tudo que o cliente quiser, isso a gente enfrenta em todo tipo de empresa e na empresa
+
+388
+00:27:58,080 --> 00:28:02,800
+de tecnologia se torna insuportável, é motivo de falência para muitas delas.
+
+389
+00:28:02,800 --> 00:28:07,720
+Porque tem empresas que o cara na hora que ele está oferecendo o produto ele vê a necessidade
+
+390
+00:28:07,720 --> 00:28:13,960
+do cliente e fala que aquilo lá tem e vende e depois o técnico tem que se virar para criar
+
+391
+00:28:13,960 --> 00:28:18,440
+isso e aí o cliente acaba sendo um patrocinador do projeto.
+
+392
+00:28:18,440 --> 00:28:22,560
+Mas isso é comum acontecer, mas o que acontece?
+
+393
+00:28:22,560 --> 00:28:28,320
+Até com o Bill Gates, eu sei, mas ele sabia que poderia desenvolver, poderia ser desenvolvido
+
+394
+00:28:28,320 --> 00:28:33,880
+e essa é a diferença, quando isso acontece por sorte, uma hora vai dar errado, então
+
+395
+00:28:33,880 --> 00:28:38,400
+quando um vendedor está na rua, é um comercial que está na rua e vende alguma coisa que
+
+396
+00:28:38,400 --> 00:28:44,160
+não existe a empresa dele, sem saber como aquilo vai ser realizado, isso sim é um problema.
+
+397
+00:28:44,160 --> 00:28:49,240
+Quando você tem um comercial na rua que enxerga uma oportunidade, é muito diferente.
+
+398
+00:28:49,240 --> 00:28:55,560
+Agora, eu sempre volto pela ética, você não vai falar que você já tem a solução,
+
+399
+00:28:55,560 --> 00:28:57,320
+mas você vai falar que não pode ser desenvolvido.
+
+400
+00:28:57,320 --> 00:29:02,600
+No nosso caso, na empresa, o grande ponto-chave é o serviço.
+
+401
+00:29:02,600 --> 00:29:07,960
+Então, acima de qualquer tipo de solução, a gente vende o serviço especializado.
+
+402
+00:29:07,960 --> 00:29:13,240
+E aí a gente tem a liberdade de falar, olha, eu tenho uma equipe e a minha equipe pode resolver
+
+403
+00:29:13,240 --> 00:29:14,240
+esse problema.
+
+404
+00:29:14,240 --> 00:29:17,920
+Quando você tem confiança naquela equipe e quando você sabe até onde ela pode ir,
+
+405
+00:29:17,920 --> 00:29:23,240
+aí quem entra, o conhecimento técnico, você consegue dar um futuro para essa empresa.
+
+406
+00:29:23,240 --> 00:29:27,680
+Essa empresa se torna dinâmica, hoje é uma grande dificuldade no mercado inclusive.
+
+407
+00:29:27,680 --> 00:29:32,440
+Todos os grandes especialistas hoje tratam a capacidade de mudança, capacidade de transformação
+
+408
+00:29:32,440 --> 00:29:34,560
+com grande e diferencial estratégia.
+
+409
+00:29:34,560 --> 00:29:37,920
+Como essa capacidade de transformação acontece na prática?
+
+410
+00:29:37,920 --> 00:29:44,560
+Quando você tem a ponta, detectando as necessidades do mercado de forma eficaz, ele tem uma eficiência
+
+411
+00:29:44,560 --> 00:29:45,560
+no feedback.
+
+412
+00:29:45,560 --> 00:29:49,920
+Então, esse feedback volta com qualidade para a empresa e a empresa tem a chance de desenvolver
+
+413
+00:29:49,920 --> 00:29:54,240
+um produto antes que todo mundo, ou uma solução antes que todo mundo, vai depender da natureza
+
+414
+00:29:54,240 --> 00:29:55,240
+da empresa.
+
+415
+00:29:55,240 --> 00:30:00,760
+No ramo de tecnologia, isso é muito fácil de acontecer quando você tem uma frente
+
+416
+00:30:00,760 --> 00:30:04,840
+que fica pastado e quando você não tem essa frente, quando esse vendedor não sabe
+
+417
+00:30:04,840 --> 00:30:08,200
+traduzir as necessidades do mercado, isso não acontece.
+
+418
+00:30:08,200 --> 00:30:12,600
+É um profissional hoje que ganha a mim, que não ganha a mal, ele é pago, bem-vindo.
+
+419
+00:30:12,600 --> 00:30:17,240
+Quando ele é bom, ele ganha muito bem, muito bem isso, porque ele que garante a rentabilidade
+
+420
+00:30:17,240 --> 00:30:18,240
+da empresa.
+
+421
+00:30:18,240 --> 00:30:30,040
+Eu queria agradecer ao Fabry, que foi esse episódio.
+
+422
+00:30:30,040 --> 00:30:36,040
+Novamente a gente tratou de vários assuntos que poderiam gerar vários outros episódios.
+
+423
+00:30:36,040 --> 00:30:37,560
+Alguma consideração final?
+
+424
+00:30:37,560 --> 00:30:44,280
+Não, na verdade eu quero deixar meu agradecimento e pedir carecidamente que apareçam profissionais
+
+425
+00:30:44,280 --> 00:30:49,400
+com esse perfil, que você que está na faculdade agora, que acha que não tem grande futuro
+
+426
+00:30:49,400 --> 00:30:54,120
+como o técnico, que não se vê programando o dia inteiro, que não se vê gerenciando
+
+427
+00:30:54,120 --> 00:30:58,640
+uma rede, trabalhando no suporte, que estude essa possibilidade, se você tem facilidade
+
+428
+00:30:58,640 --> 00:31:05,400
+de se comunicar ou gosta desse tipo de atividade e quer fazer algum tipo de curso, tem milhões
+
+429
+00:31:05,400 --> 00:31:07,080
+de formas de você fazer isso hoje.
+
+430
+00:31:07,080 --> 00:31:10,280
+A principal delas é começar a conversar sobre o assunto.
+
+431
+00:31:10,280 --> 00:31:14,880
+Além aí dos cursos que ensinam a falar em público, os cursos que ensinam negociação
+
+432
+00:31:14,880 --> 00:31:20,600
+são técnicas interessantíssimas, que às vezes misturam neurolinguística com posicionamento
+
+433
+00:31:20,600 --> 00:31:21,600
+com ética.
+
+434
+00:31:21,600 --> 00:31:26,160
+É um assunto muito extenso que pode te dar a chance de escolher uma profissão que
+
+435
+00:31:26,160 --> 00:31:27,680
+vai te realizar, de fato.
+
+436
+00:31:27,800 --> 00:31:35,480
+Um podcast que eu até poderia indicar nesse sentido é o do Ricardo Vargas, 5 Minutes PM,
+
+437
+00:31:35,480 --> 00:31:37,280
+mas é em português, pelo menos?
+
+438
+00:31:37,280 --> 00:31:38,280
+É português.
+
+439
+00:31:38,280 --> 00:31:42,800
+Ele não grava em português e inglês, mas o Ricardo Vargas, ele é de Belo Horizonte
+
+440
+00:31:42,800 --> 00:31:45,720
+e ele é um dos grandes nomes da gerência de projeto no Brasil.
+
+441
+00:31:45,720 --> 00:31:50,480
+Acho interessante que ele tenha uma formação técnica e trabalha com uma área que seria
+
+442
+00:31:50,480 --> 00:31:55,640
+mais relacionada a humanas, mas ele é um dos grandes referenciais de gerência de projeto
+
+443
+00:31:55,640 --> 00:31:57,160
+no Brasil e no mundo, inclusive.
+
+444
+00:31:57,160 --> 00:32:02,920
+Eu tenho escutado muito, principalmente de pessoas de fora do Estado sobre isso, ouvido
+
+445
+00:32:02,920 --> 00:32:08,280
+palestras de pessoas de formação técnica falando sobre a área de humanas, sobre a
+
+446
+00:32:08,280 --> 00:32:14,040
+área de RH, e a gente sabe, é a minha opinião, eu valorizo muito a pessoa com habilidades
+
+447
+00:32:14,040 --> 00:32:18,480
+técnicas que pensa de forma racional, que você vai dar uma outra visão para uma área
+
+448
+00:32:18,480 --> 00:32:20,400
+que não tenha sua visão sobre o assunto.
+
+449
+00:32:20,400 --> 00:32:25,240
+Você pode agregar muito a essa área, quando você tem, eu ouvi a última vez um engenheiro
+
+450
+00:32:25,240 --> 00:32:28,200
+civil falando de recursos humanos.
+
+451
+00:32:28,200 --> 00:32:34,800
+Ele tem uma visão quantitativa do que ele estava dizendo, ele tem noções de estatística,
+
+452
+00:32:34,800 --> 00:32:39,360
+ele traz muito conhecimento para uma área que não tenha essa facilidade.
+
+453
+00:32:39,360 --> 00:32:45,240
+Então, é exatamente isso que a gente veio falar aqui, o recado é exatamente isso,
+
+454
+00:32:45,240 --> 00:32:52,560
+que se você acha que você não tem capacidade para atuar ou não tem interesse, capacidade
+
+455
+00:32:52,680 --> 00:32:57,080
+devido que alguém não tenha com esforço, você pode fazer qualquer coisa no final das
+
+456
+00:32:57,080 --> 00:32:58,080
+contas.
+
+457
+00:32:58,080 --> 00:33:01,400
+Não é a música da Xuxa, mas você pode fazer qualquer coisa.
+
+458
+00:33:01,400 --> 00:33:05,560
+Se você tem esse interesse e se interar sobre a área, eu me coloco na disposição,
+
+459
+00:33:05,560 --> 00:33:10,160
+meu contato está aí no texto, e se você acha que você tem essa capacidade, entra
+
+460
+00:33:10,160 --> 00:33:13,640
+em contato comigo também, porque eu estou procurando profissionais de perfil aqui para
+
+461
+00:33:13,640 --> 00:33:14,880
+ganhar e ir para o Brasil.
+
+462
+00:33:14,880 --> 00:33:21,440
+Tenho um escritório lá esperando esse sujeito para tomar conta, não é um cargo de mededor,
+
+463
+00:33:21,440 --> 00:33:23,280
+não é um cargo de executivo de negócios.
+
+464
+00:33:23,280 --> 00:33:28,200
+E para quem quiser conhecer mais sobre o Fábio Thais, como é que ele faz, e-mail, Twitter,
+
+465
+00:33:28,200 --> 00:33:29,200
+Facebook?
+
+466
+00:33:29,200 --> 00:33:33,480
+É, e-mail, Twitter, Facebook não é muito a minha, o Twitter quase não utiliza, eu leio
+
+467
+00:33:33,480 --> 00:33:36,960
+muito mais o que falo, pelo e-mail é muito mais fácil, vou deixar o e-mail, fiquem à
+
+468
+00:33:36,960 --> 00:33:41,160
+vontade, se eu puder ajudar em algum assunto, se vocês quiserem tirar o vídeo de dúvida,
+
+469
+00:33:41,160 --> 00:33:42,160
+eu estou a exposição.
+
+470
+00:33:42,160 --> 00:33:46,360
+Vai estar o link no post, mas como é que quem quiser entrar em contato, qual que é o
+
+471
+00:33:46,360 --> 00:33:47,360
+e-mail?
+
+472
+00:33:47,360 --> 00:33:54,360
+Eu vou passar o meu pessoal, o Fábio Thais, arobaigmail.com.
+
+473
+00:33:54,360 --> 00:34:09,960
+Chegamos aos créditos do episódio 12 da Trigo de Sei e Podcast.
+
+474
+00:34:09,960 --> 00:34:14,240
+E para finalizar esse episódio, queria fazer uns agradecimentos para o pessoal que mandou
+
+475
+00:34:14,240 --> 00:34:19,440
+o feedback no Twitter, a respeito dos episódios anteriores, mas especificamente teve bastante
+
+476
+00:34:19,440 --> 00:34:23,960
+gente falando sobre o episódio anterior, que foi a entrevista com a Loiane, confira,
+
+477
+00:34:23,960 --> 00:34:28,880
+vai estar o link no post, a gente vai colocar na postagem o link de cada usuário do Twitter
+
+478
+00:34:28,880 --> 00:34:30,640
+que mandou o seu feedback.
+
+479
+00:34:30,640 --> 00:34:36,320
+Vou começar pela Marianne Cardoso, que ela gravou até o episódio do Barra em Menete,
+
+480
+00:34:36,320 --> 00:34:42,400
+as mulheres na tecnologia, e ela está perguntando aqui no Twitter se é tribo dos, tribo dos
+
+481
+00:34:42,400 --> 00:34:48,160
+C.I. ou tridô do C.I., não é tribo, tribo com B mesmo, valeu Marianne.
+
+482
+00:34:48,160 --> 00:34:52,200
+Na época ela não tinha Twitter quando gravou um episódio com a gente, igual era no tempo.
+
+483
+00:34:52,200 --> 00:35:00,240
+O próximo foi do Mil Tipo, ele falou aqui e ouviu o podcast, falou um pós-escrito aqui
+
+484
+00:35:00,240 --> 00:35:01,240
+para a Loiane.
+
+485
+00:35:01,240 --> 00:35:07,600
+Sua voz de menina contrasta com o seu conhecimento, T.I. é uma carreira jovem, com certeza que
+
+486
+00:35:07,600 --> 00:35:08,600
+de liso.
+
+487
+00:35:08,600 --> 00:35:14,640
+O próximo aqui foi do Celso Martins, que também ouviu o episódio com a Loiane, e temos
+
+488
+00:35:14,640 --> 00:35:21,120
+aqui do Tiago Faustino, e ele comenta que me abriu a mente para várias questões relacionadas
+
+489
+00:35:21,120 --> 00:35:22,120
+à carreira.
+
+490
+00:35:22,120 --> 00:35:23,120
+Foi interessante.
+
+491
+00:35:23,120 --> 00:35:29,480
+Também a gente teve da Roberta Shimango, ela ouviu o episódio 3, ela disse que é duro,
+
+492
+00:35:29,480 --> 00:35:31,840
+o episódio 3 sobre engenharia de software.
+
+493
+00:35:31,840 --> 00:35:37,840
+O feedback do Tiago Gize, que achou interessante a frase de apresentação do Sheldon.
+
+494
+00:35:37,960 --> 00:35:42,760
+Analisando os recadinhos desse episódio, essa daqui agora merece música especial, trilha
+
+495
+00:35:42,760 --> 00:35:43,760
+especial.
+
+496
+00:35:43,760 --> 00:35:46,360
+A gente perde a parceria, mas não perde a piada.
+
+497
+00:35:46,360 --> 00:35:51,320
+O Tiago é terno do blog Goiânio Geek, a gente estava trocando alguns Twitter a respeito
+
+498
+00:35:51,320 --> 00:35:55,920
+de fazer uma parceria, trocar a banner no site, tal, daí ele mandou, identificante.
+
+499
+00:35:55,920 --> 00:36:00,400
+O público nerd Goiânio é muito grande, só que nós estamos unidos em praud fazer uma
+
+500
+00:36:00,400 --> 00:36:01,880
+comunidade mais forte.
+
+501
+00:36:01,880 --> 00:36:07,240
+Este é o meu objetivo, aí eu não perdi a oportunidade de mandar um reply com os seguintes
+
+502
+00:36:07,240 --> 00:36:08,240
+dezeres.
+
+503
+00:36:08,240 --> 00:36:13,240
+O objetivo é a conquista!
+
+504
+00:36:13,240 --> 00:36:22,640
+Então pessoal, mande seus feedbacks para a podcast arrobatributicei.net ou tributiceiarrobatgmail.com.
+
+505
+00:36:22,640 --> 00:36:28,200
+Você pode mandar seu recadinho de voz, pode utilizar o Facebook ou mencionando no Twitter
+
+506
+00:36:28,200 --> 00:36:32,640
+é arrobatributicei que a gente fica muito grato pelo feedback de vocês.
+
+507
+00:36:32,640 --> 00:36:39,360
+A gente recebeu um feedback ilustre do Eric Toshes do GeekBR, deu várias dicas sobre
+
+508
+00:36:39,360 --> 00:36:43,880
+o podcast, inclusive ele é essa de colocar o recadinho no final, ele também falou.
+
+509
+00:36:43,880 --> 00:36:49,240
+E o podcast que também usa esse formato, inclusive o recadinho do final é do participante
+
+510
+00:36:49,240 --> 00:36:53,840
+desse episódio, é o Papo na Stan, eu vou colocar o link lá no posto.
+
+511
+00:36:53,840 --> 00:36:56,000
+Valeu pessoal e até o próximo episódio.
+
+512
+00:37:02,640 --> 00:37:16,920
+Tchau tchau tchau tchau.
+

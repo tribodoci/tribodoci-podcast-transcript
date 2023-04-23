@@ -1,0 +1,1388 @@
+start	end	text
+0	3600	Você está ouvindo a tribo do CRI Podcast.
+16700	20800	Tribus do CRI Episódio 3 para o dia 30 do CRI de 2010.
+20800	22900	Ecosistema da produção de software.
+22900	28100	Eu sou o Sebastião Hellsum e minha chefe me chamou de arquiteto e eu acho que ela estava zoando comigo.
+28100	32600	Meu nome é Sheldon Led e por favor não me prenda porque eu não pertenço a gangue dos quatro.
+41100	47700	Nesse podcast vamos falar da parte mais polêmica de um desenvolvimento de software, a engenharia de software.
+47700	49200	Então vamos para os e-mail.
+52400	55000	A gente recebeu o e-mail com algumas sugestões.
+55000	59900	Então o e-mail que a gente recebeu aqui, o primeiro foi do Joe Elias Jr., conhece o Joe Elias Jr.?
+59900	61700	E esse aqui é o cara lá do Fissol, né?
+61700	64600	Então o Joe Elias mandou um monte de dica maneiro para a gente aqui.
+64600	68900	Resumão, a gente podia encurtar mais um pouco, podcast, deixar mais um pouco mais direto.
+68900	71400	Sim, para consolo, escutem o papo até.
+71400	74100	Acho que isso é assunto até para o próximo episódio, vamos?
+74100	76100	É o formato da nova mídia, né, do podcast.
+76100	78000	É isso aí. A gente recebeu o outro e-mail também.
+78000	82200	O outro e-mail foi da Carla Larissa VB, ela falou que era VB?
+83100	83900	Quase.
+84000	84800	Vera Borges.
+84800	87000	Ela reclamou também basicamente a mesma coisa.
+87000	88500	A voz saia um pouco baixa.
+88500	91800	Às vezes as musiquinhas do fundo até atrapalham no entendimento.
+91800	97200	Então assim, a gente vai por um ícone de doação ali do pack seguro do lado do site.
+97200	104600	Aí vocês fazem uma doação que a gente, quando a gente conseguiu um dia, a gente comprou uma mesa e um microfone sempre profissional, que eu acho que vai melhorar a barçante.
+104600	107500	Já seguindo as dicas do pessoal, vamos bem direto, já vamos?
+107500	108200	Terminamos também.
+108200	111700	Eu queria só falar aqui uma coisa que a gente falou no episódio passado.
+111700	114500	Foi sobre a banda Note a Number, do Carlson.
+114500	117800	Que na verdade não é do Carlson, do Nerdson.com.
+117800	122900	Ele é do Carlson Galdino, que é xará, mas não é a mesma pessoa.
+122900	127000	A galera curtiu o negócio das paródias aí, a gente vai colocar meio que um ícone de sinócio, né?
+127000	128600	A gente não vai colocar mais o ícone do podcast.
+128600	132400	Vai colocar as paródias separadas de uma outra sessão do site.
+132400	135500	Já tem duas paródias completas aí relacionadas.
+135500	136100	A galera gostou.
+136100	139000	Uma inclusive está gravada em rascunho.
+139000	141900	A gente vai ver o link aí embaixo, no post.
+141900	145300	Vocês visitam o post, vai lá e olha que vai ter aí no link lá.
+145300	148100	E as outras provavelmente vão ser um pouco melhores.
+148100	149100	Sabe o que foi que escreveu a outra?
+149100	149600	Aí é quem?
+149600	151500	Jajan Madafaka One Taylor.
+151500	153400	Ah, Jajan Taylor, man.
+153400	160700	Ele pegou o exemplo que eu fiz lá no podcast anterior e fez a música inteira do casuto lá.
+160700	161500	Ah, bota fé.
+161500	163100	Vamos agora para a segunda parte.
+163100	163800	Bem rápido.
+163800	169700	A primeira principal agora a gente vai dividir em três partes.
+169700	173300	Eu não sei se vão ter três programas ou se vai ser só três partes.
+173300	177700	Primeira parte, falando de engenharia de software, a gente não poderia deixar de falar sobre
+177700	179800	o processo de desenvolvimento do software.
+179800	181700	Pouco antes de meter a mão na massa, né?
+181700	185200	Antes de a gente continuar, a gente está tendo a participação especial do Liz Filipe,
+185200	187400	que é o filho do Sebastião Reus, primogênio.
+187400	189700	É o primogênio, não, é o primogênio.
+189700	193200	Vai ser, como é que é aquela história lá da boa educação?
+193200	196100	O meu filho, hoje ele é só programa em Ruby, eu não vou deixar ele.
+196100	197100	Cantei outras coisas, né?
+197100	200800	Mas o primeiro computador dele já vai ser o Mac, o primeiro gadget dele também vai ser
+200800	201300	da app.
+201300	202000	Quero ser pro melhor.
+202000	203300	Eu não sei que chegue no next one, né?
+203300	205200	Talvez compro um iPad, entende?
+205200	209600	Agora, voltando para os processos de desenvolvimento de software, são basicamente divididos em
+209600	214500	análise econômica, análise de requisitos, especificação, arquitetura de software,
+214500	218100	implementação, teste, documentação, suporte, treinamento e manutenção.
+218100	220900	Vamos detalhar, mais ou menos assim, cada um deles.
+220900	222000	Analise econômica.
+222000	223400	Como que seria essa análise econômica?
+223400	229000	Bom, a análise econômica é porque geralmente tem muito software que ele não é muito viável.
+229000	234000	Às vezes, não compensa, às vezes fica mais barato você manter as coisas do jeito
+234000	238800	que estão do que você implementar toda a arquitetura de software, conjunto de software
+238800	239800	para uma empresa.
+239800	243000	Então, isso seria uma análise de viabilidade do projeto?
+243000	244000	É, mais ou menos assim mesmo.
+244000	246500	Segundo o quesito, seria análise de requisitos.
+246500	249520	Existe uma coisa também que eu acho que a gente poderia dar uma voltada aqui, é porque
+249520	255040	existe dois mundos hoje na parte do processo de desenvolvimento de software, os processos
+255040	257760	tradicionais e os modelos agem.
+257760	261400	Essa parte a gente está falando um pouco antes dos processos tradicionais.
+261400	266800	Na verdade, esses são as partes de todo o desenvolvimento do software, mas o modelo
+266800	272440	de execução dessas de cada parte depende do modelo de produção que a empresa adquire.
+272440	276420	Hoje está na moda para caramba o pessoal falar de métodos agem ou agem.
+276420	281020	Então, a gente vai falar isso aí mais para frente e como que funciona, como que seria,
+281020	285700	são formas diferentes de interpretar cada tópico desse processo de desenvolvimento.
+285700	291020	Então, análise de requisitos, onde você começa a destrinchar o software, onde a pessoa,
+291020	297020	o cliente está com uma ideia e ali uma pessoa vai começar a desenvolver aquela ideia para
+297020	300900	não ter uma viabilidade, porque às vezes o cara chega assim, não, eu quero um programa
+300900	307240	que faz tal coisa, mas a gente precisa de saber mais ou menos como seria um pouco menos
+307240	308240	abstrato assim.
+308240	312920	É tipo, a análise de requisitos seria como se a gente fosse construir uma casa e eu
+312920	315520	defendisse que eu quero ter três quartos e...
+315520	322320	Então, a análise de requisitos é a concepção das funcionalidades que o software vai ter.
+322320	327280	E a gente pode dividir ela em duas partes, os requisitos funcionais e os requisitos não
+327280	328280	funcionais.
+328300	331300	Eu não estou fazendo nem piadinha, não vou.
+331300	333300	A gente vai lá, a gente vai lá.
+333300	338900	Os requisitos funcionais, ele diz respeito ao que o software realmente tem que fazer,
+338900	341180	é o objetivo prático do software.
+341180	345180	Pensei que os requisitos funcionais eram aqueles que funcionavam.
+345180	348300	Depois de termos de implementar, os requisitos que funcionaram.
+348300	353100	Os não funcionais são coisas que estão no contexto do negócio do software.
+353100	357500	Um exemplo de requisito não funcional para quem a gente entenda é, por exemplo, quando
+357520	361320	eu clicar em uma caixinha de texto, eu selecionar todo o texto, entendeu?
+361320	362320	Ah, isso é não funcional.
+362320	367880	É, assim, a essência do software não vai deixar de funcionar porque o software vai
+367880	368880	continuar funcionando.
+368880	373520	Se a pessoa clicar lá e o texto não for selecionado, às vezes está no projeto como
+373520	374680	requisito não funcional.
+374680	380080	Ah, então, às vezes uma outra janela abrir em tela cheia ou não, abrir um pop-up, alguma
+380080	382720	coisa assim, tudo faz parte do análise não funcional.
+382720	383720	É isso mesmo.
+383720	388100	Em momento de modelagem, por exemplo, o ML, eu consigo descrever um sistema, como ele
+388100	392820	vai funcionar, é independente de tecnologia, então essa parte de requisitos funcionais
+392820	395140	ela também é dependente da tecnologia.
+395140	397860	O terceiro tópico seria a especificação.
+397860	399940	Como funciona essas especificações?
+399940	404980	É como se fosse uma continuação da análise de requisitos, onde você pega as ideias um
+404980	410420	pouco menos abstratas e deixa ela menos abstratas ainda para a gente começar a definir a arquitetura
+410420	411420	do software.
+411420	418840	Essa parte é uma parte que antecedem a arquitetura de software, que é o quarto tópico do processo
+418840	419840	de desenvolvimento.
+419840	425120	Então a arquitetura de software é a parte mais legal, a gente vai voltar a falar nisso,
+425120	429640	mas a arquitetura de software, o que dá suporte a todo o desenvolvimento faz parte
+429640	436360	da parte tecnológica, mas você pode modelar ela com conceitos não dependentes de tecnologia,
+436360	439880	mas ela já faz parte da implementação do software como um todo.
+439880	445620	Aí vem o quinto tópico, que é a parte que separa os meninos dos homens ou as meninas
+445620	446620	das mulheres.
+446620	452220	A parte da implementação, onde o cara que mexe com isso é o cara que mostra para a sociedade,
+452220	455140	pelo menos para a sociedade geek, que ele é macho pra caralho.
+455140	457620	No caso, se for uma mulher que a raridade a gente nem...
+457620	463100	É, geralmente as mulheres trabalham mais na área de teste e na área de análise de
+463100	464100	requisitos.
+464100	465100	Então, certo?
+465100	466100	Geralmente.
+466100	468580	E se você for uma mulher que programa, manda e-mail com foto.
+469240	475120	É, manda e-mail com foto pra gente não poder fazer piadinha falando que não existe
+475120	477840	mulher bonita na área de programação.
+477840	479680	É pra desbancar aquela de que...
+482240	483840	Vamos seguir pro próximo...
+483840	485440	Seu jornalismo vai ficar.
+485440	486940	Então, o senso tópico...
+486940	487940	Próximo, né?
+487940	492340	Próximo tópico é a parte de teste, porque geralmente o programador a gente vai até
+492340	496600	falar isso mais na frente, porque o programador fica muito abitulado ali naquele mundo...
+496600	502100	O universo do programador é bastante diferente do universo das outras pessoas, né?
+502100	509220	Então, às vezes ele fica preso ali e fica e peca às vezes na falta de usabilidade e
+509220	514700	às vezes, por próprio, ele tá muito focado ali, ele esquece alguma parte ou até erro
+514700	518740	mesmo e devem ser detectados pela fase de teste de software.
+518740	521340	Nesse caso, quem faz nunca pode testar, né?
+521340	525940	Isso é uma coisa que é uma máxima que tem que ser seguida em processo de desenvolvimento
+526760	529840	Isso visto no âmbito um pouco mais macro, assim, né?
+529840	534820	A gente pode citar como exemplo o Linux, que é um projeto onde praticamente todos os
+534820	537360	usuários são analistas de testes, né?
+537360	542280	Porque eles estão ali, estão de olho ali no programa, estão usando, de acordo com o
+542280	543280	que ele...
+543280	547360	No caso do Linux específico, o Vigual era a lei de Linux, sabe como era a lei de Linux?
+547360	548360	Pode falar.
+548360	550680	É, é muito fácil, é muito fácil, eu vou deixar pra...
+550680	553680	Eu não vou ficar assim, porque senão a fama fica toda pra mim, né?
+553680	555680	Eu sou o sidekick do show.
+555740	558740	Então, vai lá, é porque a lei de Linux é assim, é o...
+558740	559740	É...
+559740	560740	Você sabe, né?
+560740	566100	Não, a lei de Linux é que é sobre milhões de olhos, qualquer erro é banal, né?
+566100	567100	É.
+567100	570020	Acho que não ficou o pé da letra, mas é mais ou menos sim, porque é onde todo mundo
+570020	575660	tá olhando, onde todo mundo tá usando, muitas pessoas usando, reportam erros, tem
+575660	581260	muitas pessoas programando, muitos palpites ali de programadores e experientes e programadores
+581260	587720	que não são experientes, mas que acabam se tornando ao aderir ao processo de desenvolvimento
+587720	589080	do sem operacional Linux.
+589080	590080	Ah, bom.
+590080	592640	Depois dessa parte de teste, vem a parte de documentação.
+592640	598720	A geralmente, o desenvolvimento, ele fica ali rodando, às vezes, entre a fase de teste,
+598720	603560	volta pra implementação, volta pro teste, então assim, o relacionamento entre o analista
+603560	608160	de teste e o programador, o desenvolvedor, ele é um relacionamento bem mais próximo
+608160	613140	que, às vezes, as demais áreas, assim, tratando do modelo cascata, que nós vamos falar
+613140	614140	mais com a gente.
+614140	617980	Esse modelo que a gente tá falando, que a gente faz, faz parte dos modelos tradicionais,
+617980	618980	né?
+618980	619980	É, seria mais ou menos assim, como eu citei, né?
+619980	625740	O modelo de cascata, onde cada uma dessas fases, ela é feita uma pós a outra, né?
+625740	628020	Proceduralmente, feitas linearmente, né?
+628020	629580	Em série, uma pós a outra.
+629580	633060	Então, depois da documentação, a gente tem o suporte a treinamento, né?
+633060	638280	Na documentação, você faz, desço, relatando todos os detalhes do software, para que possa
+638280	643120	haver um treinamento, onde, depois do software pronto, você precisa de ensinar as pessoas
+643120	644120	a usarem, né?
+644120	648240	Porque as pessoas, elas estão acostumadas com o que elas estão vivendo no momento,
+648240	652480	então, às vezes, você tem pessoa elevando-os ali com aquele software antigo, tem uma certa
+652480	658120	resistência em mudar pra uma nova tecnologia e tal, então, o treinamento é crucial pra
+658120	659120	isso aí.
+659120	663980	Por isso, tudo implementado, depois de passar a parte suposta de treinamento, que já está
+663980	666980	funcionando o software, é necessário a manutenção.
+666980	673020	A manutenção é a parte mais pauleira da processos de desenvolvimento, até porque
+673020	675580	nem sempre quem fez é quem dá a manutenção, né?
+675580	680900	Aí que o negócio fica cabeludo, aí é pobrei, mano, porque quando se fala errado,
+680900	684420	assim, você já vê o que é o negócio assim, e por que as vezes as pessoas quando está
+684420	685980	com raiva, elas falam errado?
+685980	688140	Eu tenho uma teoria que eu acho que só vale pra mim.
+688200	693720	Não, eu acho que quando é tipo pessoa que só consegue fazer declaração de amor na
+693720	694720	língua mãe, né?
+694720	698560	Tipo assim, quando o cara vai falar, tá emocionado, o cara é italiano e só consegue
+698560	699560	falar italiano.
+699560	704360	Ah, tá, é porque a parte do cérebro das emoções, ela é uma parte mais primitiva,
+704360	708840	então, geralmente, como as partes primitivas do cérebro, elas agem muito mais rápido
+708840	713520	que as outras partes, desenvolvidas posteriormente ao decorrer da evolução, então, a gente
+713520	717720	tende a manifestar primeiro as emoções mais primitivas.
+717780	721540	Por isso que as vezes quando você está nervoso, você tem vontade de bater, quando você está
+721540	725740	com muita fome, você come mais rápido, quando você está nervoso, você não se importa
+725740	730700	com coesão, com cordança verbal, essas coisas assim.
+730700	731700	Aí, interessante.
+731700	732700	Voltando.
+732700	737100	A gente falou um pouco do modo tradicional do desenvolvimento de software, que é o modo
+737100	738900	que o pessoal já fala que é falido, né?
+738900	744620	Esse modelo é um modelo assim, muito complicado, porque eles têm várias falhas no seu desenvolvimento,
+744620	745620	né?
+745620	755760	Um dos problemas desses metodologias tradicionais é porque existe um período, um espaço muito
+755760	760820	grande entre a concepção do software e a entrega do produto, tem projetos que duram
+760820	766320	dois anos para acontecer e a pessoa no final do projeto cliente já mudou a estratégia
+766320	770400	e já mudou de, da forma de pensar, então o software já, com determinado que esse efetre
+770400	771400	já é obsoleto.
+771400	772780	Essa frase é muito famosa, né?
+772780	776680	Toda tecnologia lançada, ela já é lançada obsoleto, né?
+776680	780680	Tratando-se do software, isso acontece por causa desse procedimento arcaico, vamos
+780680	785480	dizer assim, acaba carretando no atraso muito grande, assim, do desenvolvimento de software.
+785480	791000	Por isso que existem hoje outros modelos de procedimento, outros modelos de desenvolvimento
+791000	792000	de software.
+792000	797800	A solução intermediária para esse problema era eu ter software, eu ter interações, sabe?
+797800	802680	O software que ele chama de incremental, que eu tenho todas essas fases mais em períodos
+802680	807560	bem mais curto, não o projeto todo, mas em vários modelos, seria por funcionalidade
+807560	809000	ou pacote de funcionalidade.
+809000	815120	Então, nas metodologias ágeis, uma das premissas dos métodos ágeis é que as mudanças ocorrem
+815120	820800	porque a gente ignorava, então a gente trabalha sempre preparado para as mudanças.
+820800	825160	Então, por exemplo, uma interação em vez de durar dois meses da entrega de uma funcionalidade
+825160	830680	eu vou ter interações menores, caso do Scrum e de vários outros métodos ágeis, de eu
+830680	833400	consigo fazer interações semanais até.
+833400	839840	Falando aí de Scrum, os dois métodos mais usados, é o Scrum XP, que é o Extreme Programme.
+839840	845800	O Scrum ele trabalha mais na parte de gerenciamento do projeto e o programação extrema, ela
+845800	854200	é executiva, assim, as duas podem conviver, que nem é repositório e dao, não são coisas
+854200	855200	que elas podem conviver.
+855200	859680	Tem aquela parada lá do Scrum que você tem que fazer reunião semanal e a reunião tem
+859680	861680	que ser em pé, é o coisinho, né?
+861680	864480	Cara, eu tenho os casas de ousos em pizarro com Scrum.
+864480	865480	Encontrei, encontrei.
+865480	871880	Nessa reunião em pé, cara, teve um maluco que dormiu, que foda.
+871880	876280	Pô, a gente tava lá na reunião em pé ali e tal, e o maluco começou a bobear, eu pensei
+876280	878280	que ia dar um fatality.
+878280	879280	Problema mesmo.
+879280	882600	Então, já que a gente falou para a parte de metodologias de desenvolvimento, vou falar
+882600	887480	agora um pouco o tipo de software que existe, mas eu acho que o mais conhecido é o Erp,
+887480	888480	né?
+888480	890040	O Enterprise Resource Planning.
+890040	896920	É basicamente o planejamento dos recursos corporativos, é porque ele pode ser interpretado
+896920	900600	também como planejamento das soluções empresariais, né?
+900600	905320	Onde que você tem ali dentro de um software ou de um conjunto de software, ali dentro
+905320	910520	você consegue gerenciar todo o andamento da empresa e gerenciar todas as partes da
+910520	912960	empresa, então tem ele integrado dentro do software, né?
+912960	915720	O software gerencia a empresa para você, mais ou menos assim, né?
+915720	916720	É por aí.
+916720	917720	É uma...
+917720	921720	Seria um software integrado, né, com todas as áreas da empresa que a pessoa consegue
+921720	926360	tomar decisão, embora o suporte e a tomada de decisão seja o outro tipo de software.
+926360	931840	Então, dentro dos Erp, tem uma parte complexa, no final vai chegar em Business Intelli,
+931840	934040	mas a gente não vai chegar nesse mérito, não, vai?
+934040	935040	Ah, acho que não.
+935040	936040	Isso é...
+936040	941640	Para saber o tipo de software ou os empresariais que outro que é bastante é o que o pessoal
+941640	948680	chama de SCM, que é o Supply Chain Manager, gerencia da cadeia de suprimento, o software
+948680	953320	de gerencia de cadeia de suprimento é complexo, pra caramba, e é o...
+953320	957160	Assim, porque a parte do Erp e tal era um pouco chata, né?
+957160	958160	Ah, é?
+958160	959160	Como é?
+959160	963040	É, porque basicamente é só processos da empresa, essas coisas assim, não tem muita
+963040	965680	que atividade no processo, basicamente crude.
+965680	972640	E o SCM é onde a gente pode aplicar bastante data warehouse, pode data mining, um monte
+972640	978160	de parte de inteligência artificial, a gente pode aplicar em SCM, porque o SCM ele controla
+978160	984920	desde o repacotamento do produto que tu pediu até a chegada desse produto na loja e ele
+984920	985920	ser vendido.
+985920	986920	Entendeu?
+986920	987920	Ah, entendi.
+987920	992200	Você falou duas palavras aí que eu acharia legal a gente falar pelo menos definição
+992200	999200	e pro pessoal, que é os DMs, né, Data Mart e o Data Warehouse, né, também o Business
+999200	1000200	Intelligence, BI.
+1000200	1001200	Então, a parte de...
+1001200	1005000	Eu tento até o professor, que seria bom a gente falar disso, cara.
+1005000	1006000	Podem.
+1006000	1007000	Vamos ligar pra ele?
+1007000	1013520	Eu vou ver se eu consigo uma entrevista com ele pra ele falar, respeito, eu vou gravar
+1013520	1014520	com ele.
+1014520	1016520	Então, vamos à entrevista com o André Obey.
+1023200	1024200	E aí, Sebastião?
+1024200	1025200	E aí, pessoal?
+1025200	1026200	Tudo bem?
+1026200	1027200	Tranquilo.
+1027200	1028200	Lembra da faculdade?
+1028200	1032200	Uma vez que a gente fez uma galera furada lá que foi dar uma palestra de gênica e falava
+1032200	1036200	de sistemas empresariais, não sei o que, e na verdade a gente tava vendendo um curso...
+1036200	1037200	Fazendo uma palestra, né?
+1037200	1040200	Fazendo uma palestra do curso e emiou a palestra que ele ia fazer.
+1040200	1042200	É, e depois a gente salvou a lá, né?
+1042200	1043200	Foi.
+1043200	1045200	Eu só fiz lá um desenho lá.
+1045200	1048200	Você só vai conseguir impressar só falando, né?
+1048200	1052200	Seu desenho do que defendia pra empresa que conseguiam viajar.
+1052200	1053200	Ah, certo.
+1053200	1056200	Não, aquele esquema gratos lá ele explica muito bem.
+1056200	1062200	É, o seguinte, o R&D, ele é o integrador das áreas internas de um empresa.
+1062200	1066200	Então, por exemplo, se ele era de finance, se ele fosse de uma ano de produção, ó, que
+1066200	1071200	vendas e mais, todas essas áreas internas, elas vão ser integradas através do R&D.
+1071200	1076200	É, que é um enterprise reforçante ou planejamente em recursos empresariais.
+1076200	1079200	Chamado por nós aqui, sistema de gestão empresarial.
+1079200	1083200	É, que é um sistema transacional, trabalha com transações, fazem todos os registros
+1083200	1084200	do dia a dia.
+1084200	1085200	É.
+1085200	1089200	E utilizam, geralmente, um banco de cidade, esse banco de cidade também é um banco de
+1089200	1093200	cidade transacional e recebe todas essas informações.
+1093200	1094200	Ele é volátil, né?
+1094200	1097200	Porque as informações são alteradas a todo momento, então...
+1097200	1098200	É, é o volátil.
+1098200	1100200	Não, aí nesse caso, não.
+1100200	1102200	Esse é o banco de cidade transacional.
+1102200	1105200	O banco de cidade do Olato é o banco de cidade analítica.
+1105200	1107200	E é justamente o Data Warehouse.
+1107200	1110200	O Olato, ele roda em cima de Data Warehouse e Data Warehouse.
+1110200	1112200	Porque o Olato é online.
+1112200	1117200	Só que é online, em cima de bancos já pré-formatados para consultas, né?
+1117200	1118200	Ele é uma ferramenta analítica.
+1118200	1119200	Entendi.
+1119200	1122200	E que, geralmente, trabalha em cima de dados históricos, né?
+1122200	1123200	Ou seja, de ontem para trás.
+1123200	1126200	Muito dados de hoje, que está sendo alterado hoje.
+1126200	1127200	Isso.
+1127200	1128200	Certo?
+1128200	1132200	Tem outras ferramentas que auxiliam esse ERP, né?
+1132200	1136200	Esse sistema de gestão, que são ferramentas de ex-flighting,
+1136200	1138200	como já foi mencionado anteriormente.
+1138200	1140200	E trabalha em cima da cadeia de suprimentos.
+1140200	1144200	A cadeia de suprimentos de empresa ou parte de logística de uma empresa,
+1144200	1147200	elas vêm desde o planejamento da compra, né?
+1147200	1150200	O contato com o seu fornecedor, o planejamento da compra,
+1150200	1155200	a compra, manufatura, atendimento, venda e pós-menda, né?
+1155200	1159200	Então, a entrega de perfum de muito logística,
+1159200	1163200	só com o transporte da mercadoria até o cliente, né?
+1163200	1164200	E não é.
+1164200	1166200	Na verdade, é todo esse processo que compreende essa cadeia.
+1166200	1167200	Eu te falo isso.
+1167200	1169200	Eu faz vezes eu não sabia.
+1169200	1174200	É, a pós-menda também, inclusive, casado com apoio à pós-menda, né?
+1174200	1175200	Exato.
+1175200	1176200	Apoio à pós-menda.
+1176200	1177200	Não é o pós-menda em si.
+1177200	1182200	Pós-menda em si ele é feito através de um outro software também integrado,
+1182200	1185200	o body-se integrado R&P, que é o CRN,
+1185200	1187200	Tanto na relationship management,
+1187200	1189200	que é a gestão do relacionamento com o cliente.
+1189200	1193200	É, ou quem a gente faz, inclusive, é integrado com a parte de prediário, né?
+1193200	1195200	Também com a parte de marketing.
+1195200	1199200	Esse é a importância desses sistemas serem integrados,
+1199200	1204200	é que até o planejamento da compra que é feito pelo supply chain, né?
+1204200	1209200	Ele pode ser utilizado a dados do serem integrados com o CRN
+1209200	1211200	e utilizado a dados desse R&P.
+1211200	1215200	Como, por exemplo, você definir perfil de compra do seu consumidor.
+1215200	1218200	Pra você planejar que tipo de produto que você vai ter que comprar.
+1218200	1222200	Ah, tá. Tenho o meu preço médio, o tipo médio.
+1222200	1225200	Até o poder auditivo do seu consumidor.
+1225200	1229200	O que é que... o consumo médio daquele perfil de consumidor que você tem?
+1229200	1232200	É, envolve também bastante coisa do prediário mesmo, né?
+1232200	1233200	Sim.
+1233200	1237200	Inclusive, a parte de gestão empresarial, né?
+1237200	1242200	Utilizou muito esse tipo de informação pra montar sua estratégia de niche mercado,
+1242200	1245200	que é o público-alvo, é uma das estratégias empresariais, né?
+1245200	1248200	Que define o público que você vai atender por essa empresa.
+1248200	1250200	Agora, quanto ao BI, né?
+1250200	1251200	Business Intelligente.
+1251200	1256200	Nós temos aí a parte de bancos de dados analíticos, né?
+1256200	1258200	Que não se difere do transacional.
+1258200	1264200	Ele não é normalizado, porque no banco de dados transacional você tem que normalizar,
+1264200	1269200	você tem que dividir, ou seja, fazer todo o projeto de um banco de dados voltado
+1269200	1273200	para as transações dos BDRs, dinâmicas transações dos BDRs, né?
+1273200	1276200	E ele é todo normalizado, todos os paradinhos, as tabelas e tudo mais.
+1276200	1280200	E pelas tecnologias, hoje, dos bancos de dados não resquelem, né?
+1280200	1283200	Eu acho que seria até mais adequado do que os bancos de dados resquelem, né?
+1283200	1288200	Que são aqueles bancos de dados que são orientados à coluna e não orientados à tabela.
+1288200	1292200	E, na verdade, esses bancos de dados mais antigos, esses baseiam no hierarco, né?
+1292200	1295200	E tem o MapReduce, né?
+1295200	1299200	Porque eles têm esse conceito de que as pessoas são muito canudas, né?
+1299200	1306200	E aí, continuando a parte de BI, você vai extrair dados desse banco de dados transacional
+1306200	1308200	ou de outras fontes de dados.
+1308200	1316200	Também você pode pegar aqui os pesos, planilhele, e tal, com ferramentas chamadas ferramentas ETL, né?
+1316200	1318200	Extract Transform Load.
+1318200	1324200	Ou seja, os ferramentas fazem extração de dados, transformação desses dados e a carne desses dados
+1324200	1325200	em um outro dos dados.
+1325200	1331200	Previamente, ao uso dessa ferramenta, você tem que ter preparado a sua DSA, DSTG area,
+1331200	1334200	ou seja, a área de estágio dos dados, onde você vai fazer o quê?
+1334200	1339200	Toda a padronização dessas múltiples fontes que você utilizou como origem, né?
+1339200	1345200	Aí você padroniza em uma única base de dados, faz a carga em cima dessa área de estágio dos dados
+1345200	1351200	e faz também o tratamento, tirando as redundâncias que são desnecessárias
+1351200	1355200	e em consistência também que vão afetar o seu resultado final.
+1355200	1359200	É semelhante à preparação para fazer o DataMine, né?
+1359200	1365200	É, não. Na verdade, é um dos processos para se montar o DataMart e o DataWareHouse.
+1365200	1371200	O DataMine também se baseia em cima desses tipos de vacidades que você monta para a análise.
+1371200	1372200	Tem uma coisa interessante, né?
+1372200	1378200	Para me executar uma millenação de dados, é que você está preparado e almoide o ambiente,
+1378200	1379200	né?
+1379200	1381200	Quando parte em cima da massa completa, né?
+1381200	1385200	Não, você faz em cima da massa, porque esses bancos dados são orientados ao assunto.
+1385200	1388200	Você tem que, por exemplo, fazer, ah, eu quero fazer planejamento de vendos.
+1388200	1390200	Então, o quê que você vai mapear?
+1390200	1392200	Tudo aquilo que envolve vendos, só.
+1392200	1395200	Você não precisa pegar outras coisas que não tem nada a ver.
+1395200	1398200	Aí você monta a tabela de fato,
+1398200	1402200	que é a tabela central da sua análise, que é a venda.
+1402200	1407200	E aí você tem ligado-se a ela a tabela de dimensões, que é assim que se monta um DataMart,
+1407200	1409200	que é o DataWareHouse.
+1409200	1412200	É só montar o cubo que você está achando, né?
+1412200	1413200	Exatamente.
+1413200	1418200	Então, aí você vai ter, em volta dessa tabela, se for um diagrama de forma estrela, né?
+1418200	1419200	Um modelo estrela.
+1419200	1422200	Você vai ter em volta dela a tabela de dimensões, como o tempo, né?
+1422200	1425200	Que aí vai todos os dados de ano, trimestre, trimestre.
+1425200	1428200	A forma que você quiser controlar o período da venda,
+1428200	1430200	fazer planejamento de vendos para o período,
+1430200	1433200	você vai ter, por exemplo, lojas ou região,
+1433200	1438200	produto, são aí, você vai descobrindo, vai montando relatórios,
+1438200	1440200	através aí, sim, agora, do Alapaz,
+1440200	1444200	você vai montando relatórios multidimensionais com esses dados.
+1444200	1447200	E aí, em cima desse DataWareHouse, ou desse DataMart,
+1447200	1451200	é que você vai rodar também a mineração de dados para descobrir o quê?
+1451200	1452200	Padrões.
+1452200	1453200	Padrões.
+1453200	1455200	E, geralmente, a ferramenta de mineração de dados,
+1455200	1458200	ela utiliza técnicas de estatística,
+1458200	1461200	ou, principalmente, de inteligência artificial.
+1461200	1463200	O pessoal vai fazer reconhecimento de padrões,
+1463200	1464200	na outra massilhada, a cena.
+1464200	1465200	Exatamente.
+1465200	1468200	É uma planação rápida de todos os ferramentas,
+1468200	1470200	que como ela se faz, né?
+1470200	1474200	Cada assunto dele se daria em um pôr de teste novo.
+1474200	1476200	Qualquer coisa, pôr de solução.
+1476200	1477200	É, eu sei tudo.
+1477200	1481200	A gente vai ter que marcar um pouco, fazer um complexo.
+1481200	1482200	Não.
+1482200	1483200	Tranquilo.
+1483200	1486200	A gente pode, inclusive, disponibilizar material para vocês,
+1486200	1488200	no site, na Trilho do Saí.
+1488200	1489200	Aham.
+1489200	1490200	Ok?
+1490200	1491200	Não, o velhou.
+1491200	1492200	Valeu.
+1492200	1494200	A gente pode montar um projeto de apoio,
+1494200	1495200	por exemplo, aos estudantes,
+1495200	1497200	a área de computação, aos curiosos.
+1497200	1499200	É, porque esse pôr de teste,
+1499200	1502200	esse episódio a gente fez, não só para quem,
+1502200	1505200	por exemplo, para aquela pessoa que está querendo entrar na área,
+1505200	1508200	como também aquela pessoa que tem,
+1508200	1510200	por exemplo, o cara tem a empresa,
+1510200	1511200	ele tem a parte...
+1511200	1513200	A necessidade desse tipo de...
+1513200	1514200	Aham.
+1514200	1516200	Ele fez, pelo menos, o que que ele está trabalhando,
+1516200	1517200	né?
+1517200	1520200	É, até a pessoa do TI lá que trabalha pelo desenvolvimento,
+1520200	1521200	mas o que que eles fazem, né?
+1521200	1522200	Aham.
+1522200	1526200	E não, e agora é interessante que eu estava até participando
+1526200	1530200	de um projeto da federação do comércio.
+1530200	1532200	São projetos do federação nacional
+1532200	1534200	e com federação nacional do comércio.
+1534200	1535200	Aham.
+1535200	1537200	Que estavam funcionando aqui em Goiânia.
+1537200	1540200	E é oferecida para os sindicatos,
+1540200	1541200	né?
+1541200	1544200	Os cursos de automação comercial e conexão de serviços.
+1544200	1546200	E não importa o tamanho da empresa.
+1546200	1548200	Hoje, para se utilizar a tecnologia,
+1548200	1551200	porque a empresa pode utilizar.
+1551200	1554200	Aí dimensiona essa tecnologia a realidade da empresa.
+1554200	1555200	Aham.
+1555200	1556200	Eu até...
+1556200	1558200	Eu até fui numa dessas palestras.
+1558200	1559200	Eu lembro.
+1559200	1560200	Isso, exatamente.
+1560200	1562200	Na verdade, eu sou menos de lá que quer.
+1562200	1563200	Isso, eu sou menos.
+1563200	1564200	Isso, né?
+1564200	1565200	Valeu, então.
+1565200	1566200	Obrigado.
+1566200	1567200	Eu tenho uma vez para...
+1567200	1569200	Eu amo o seu businesses.
+1569200	1570200	Aham.
+1583200	1585200	Outro boring também.
+1585200	1587200	Outro parte chato também.
+1587200	1588200	Entendido.
+1588200	1589200	Não é muito chato.
+1589200	1592200	Então hoje, mesmo deixa de ser chato,
+1592200	1593200	mais pago leitinho das crianças,
+1593200	1594200	é os PDVs, né?
+1594200	1597200	Que basicamente são os pontos deles,
+1597200	1598200	vendo?
+1598200	1601200	Que, na verdade,
+1601200	1604200	se você for pegar, assim, a maioria das siglas,
+1604200	1608200	as conjuções e ligações entre uma palavra e outra,
+1608200	1610200	não entra na sigla, né?
+1610200	1612200	O PDV é uma exceção.
+1612200	1615200	Que o díduo que liga o ponto e venda,
+1615200	1616200	entrou na sigla.
+1616200	1618200	Mas foi para deixar um pouco mais legível, né?
+1618200	1620200	O PDV é ponto de venda.
+1620200	1622200	Eu acho que é por causa da sigla inglês.
+1622200	1624200	Sabe como é que é inglês?
+1624200	1625200	Mine of sale.
+1625200	1626200	Então é essa aí.
+1626200	1627200	Traz de direção, exatamente.
+1627200	1628200	O pedalete.
+1628200	1629200	Bem ao pedalete.
+1629200	1631200	Então, como funciona aí o PDV?
+1631200	1633200	O PDV tem alguns modelos diferentes,
+1633200	1635200	mas basicamente é o controle de venta, né?
+1635200	1637200	O pessoal chega para a efetória.
+1637200	1638200	O stock?
+1638200	1640200	Creio que a parte chata do stock
+1640200	1642200	seria mais agenciamente doante dada.
+1642200	1643200	Estou errado?
+1643200	1646200	É porque coloquei aqui na pauta
+1646200	1648200	boring stocking, né?
+1648200	1650200	Porque eu falo que esse tipo de stock chato
+1650200	1652200	é porque eles são bastante comuns, né?
+1652200	1654200	Então, 90% dos softwares que você vai encontrar,
+1654200	1657200	pelo menos os comerciais, eles são tão relacionados.
+1657200	1659200	Então, e em contramão, assim,
+1659200	1662200	outros tipos de softwares que eu já tive experiência,
+1662200	1664200	são várias formas de software,
+1664200	1666200	mas os que eu já tive experiência
+1666200	1668200	foram também o Full Software Disk,
+1668200	1670200	que é Geographic Information System, né?
+1670200	1672200	Ou em português SIG,
+1672200	1674200	que é sistema de formação geográfica.
+1674200	1675200	Conhece alguma coisa?
+1675200	1677200	Tipo, relação a Google Maps?
+1677200	1679200	É bem roots, né?
+1679200	1681200	O que eu trabalhei é roots,
+1681200	1683200	é que desistiu o Google Maps.
+1683200	1685200	Ele é o conceito de banco de dados.
+1685200	1687200	Na época que eu trabalhava com o Disk,
+1687200	1689200	a gente mapeava um banco normal,
+1689200	1691200	a entidade relacional,
+1691200	1693200	para ser um banco de G.
+1693200	1695200	Vocês usavam o quadro negro?
+1695200	1697200	Graças a caramba.
+1697200	1699200	Você vai lá.
+1699200	1701200	Vou falar, então, espacial, tá bom?
+1701200	1703200	Não, vai lá.
+1703200	1705200	Vou falar hoje.
+1705200	1707200	Eu não sou astróbio.
+1707200	1709200	Eu sou acésio programador astróbio.
+1709200	1711200	É basicamente assim,
+1711200	1713200	eu tenho uma informação geográfica,
+1713200	1715200	por exemplo,
+1715200	1717200	no projeto que eu trabalhei por mais tempo,
+1717200	1719200	a gente fez, são companhias de energia elétrica.
+1719200	1721200	Então, assim, as informações
+1721200	1723200	que ela tem
+1723200	1725200	é de uma extensão territorial muito grande.
+1725200	1727200	Então, ela podia fazer planejamento,
+1727200	1729200	o controle de estoque dela,
+1729200	1731200	o armazém, o almoçoarefato dela,
+1731200	1733200	é o país inteiro, né?
+1733200	1735200	Então, para identificar isso é bastante complicado.
+1735200	1737200	Então, tipo assim, eu tinha
+1737200	1739200	cada ponto de geografia,
+1739200	1741200	eu tinha informações,
+1741200	1743200	por exemplo, que poderia ser um poste,
+1743200	1745200	e nesse poste eu saberia todos os equipamentos
+1745200	1747200	que estão instalados nesse software.
+1747200	1749200	Com esse software eu poderia fazer
+1749200	1751200	esse planejamento bastante intuitivo
+1751200	1753200	desses materiais que eu tenho em campo,
+1753200	1755200	eu pensei. Ah, entendi.
+1755200	1757200	É legal, assim, é tipo, é a medição
+1757200	1759200	de energia da CELB também,
+1759200	1761200	do pessoal das empresas de energia.
+1761200	1763200	Cada casa tem um metrônomo
+1763200	1765200	e seria, mais ou menos, você?
+1765200	1767200	Cada casa de música tem um metrônomo.
+1767200	1769200	Cada...
+1769200	1771200	Não, cada casa tem um relógio,
+1771200	1773200	um padrão de energia.
+1773200	1775200	É um medidor que chama. Eu não queria falar mais
+1775200	1777200	uma das empresas que eu trabalhei a CELB,
+1777200	1779200	para mexer com isso. CELB é a ela
+1779200	1781200	Tropaulo de Goiagem. E outra empresa que eu trabalhei a CELB
+1781200	1783200	foi... Vou ficar fazendo propaganda, não? Não, vai não.
+1783200	1785200	No dia que elas pagar a gente, a gente fala.
+1785200	1787200	Eu posso cantar a música?
+1787200	1789200	Lá no blurro,
+1789200	1791200	quando a luz da light pierce. Agora,
+1791200	1793200	nós vamos falar sobre as tecnologias.
+1793200	1795200	É uma parte interessante.
+1795200	1797200	Foi a mesma forma como a Madonna.
+1797200	1799200	A gente falou, é, sobre...
+1799200	1801200	sobre esses modelos de software e tal. A gente
+1801200	1803200	tem vários outros. Tem aquela parada do E-Commerce,
+1803200	1805200	que é para... para compra
+1805200	1807200	pela internet e tal. A gente não poderia
+1807200	1809200	ficar citando aqui vários exemplos. Vamos...
+1809200	1811200	Vamos só para... Foi só
+1811200	1813200	para exemplificar, mesmo, para não passar em branco.
+1813200	1815200	Porque é a parte que interessa, mesmo a parte das
+1815200	1817200	tecnologias. Acho que eu quis comentar
+1817200	1819200	só, pelo menos, o que eu tive a experiência
+1819200	1821200	tentando ficar aquela coisa, só...
+1821200	1823200	Mais como uma troca de experiência, mesmo.
+1823200	1825200	Ah, só queria.
+1829200	1831200	E na hora de...
+1831200	1833200	de experimentar
+1833200	1835200	toda essa ideologia que eu tenho na cabeça.
+1835200	1837200	O que é que eu... Um computador?
+1837200	1839200	Às vezes.
+1839200	1841200	Serramentos de desenvolvimento
+1841200	1843200	tem vários categorias que a gente pode
+1843200	1845200	especificar, né?
+1845200	1847200	Tem as ideias, que são os ambientes de desenvolvimento
+1847200	1849200	integrado. A primeira é a linguagem
+1849200	1851200	de programação que você vai usar, né?
+1851200	1853200	É, né? Depois...
+1853200	1855200	Depois você escolhe a linguagem de programação
+1855200	1857200	e você, possivelmente, vai escolher
+1857200	1859200	uma ideia, né? Isso é um...
+1859200	1861200	Eu acho que isso pode ser até um...
+1861200	1863200	Isso pode ser tema para um outro
+1863200	1865200	broadcast, mas é coisa que eu acho
+1865200	1867200	interessante. Porque tem o RubyWay, né?
+1867200	1869200	Que é o modo Ruby
+1869200	1871200	programado. Eu acho que um grande erro que
+1871200	1873200	o pessoal é acostumado a dizer, é que
+1873200	1875200	ah, aprendi uma linguagem de programação
+1875200	1877200	e as outras é a mesma coisa.
+1877200	1879200	Isso acontece por causa...
+1879200	1881200	que existem muitas linguagens, ser like, né?
+1881200	1883200	Então, eu... No meu pensamento
+1883200	1885200	isso acontece por causa disso, porque
+1885200	1887200	às vezes você aprende a programar em C,
+1887200	1889200	daí você já aprende... Já é bem mais fácil
+1889200	1891200	programar em Java, em C mais mais, e por aí vai.
+1891200	1893200	Então, é o que eu vejo isso de uma outra forma,
+1893200	1895200	assim, por exemplo, se você programa em
+1895200	1897200	VisualBeats e quer programar em Delfo,
+1897200	1899200	ou vice-versa, e você tentar mapear
+1899200	1901200	o que você fazia na tecnologia anterior,
+1901200	1903200	esses são... Tecnologia bem comum, né?
+1903200	1905200	Então, você acaba tendo uma perca muito grande.
+1905200	1907200	Toda linguagem tem seu modo
+1907200	1909200	de programar, né? Todo tem...
+1909200	1911200	todo tem o RubyWay, tem o DelfoWay.
+1911200	1913200	É, porque às vezes você pode falar
+1913200	1915200	que tem questão de ferramenta também, né?
+1915200	1917200	Porque... Na forma de
+1917200	1919200	trabalhar, que às vezes você pega, por exemplo,
+1919200	1921200	o Java, tudo ali é separado,
+1921200	1923200	aí tem ali... Você tem que usar API pra isso,
+1923200	1925200	API pra aquilo e tal, é tudo bem
+1925200	1927200	mais separado, assim, bem mais genérico.
+1927200	1929200	Isso também seria outro tema, caramba,
+1929200	1931200	eu só estou acumulando tema pra
+1931200	1933200	o podcast, mas esse seria
+1933200	1935200	os paradigmas de desenvolvimento,
+1935200	1937200	né? Que são paradigmas orientadas
+1937200	1939200	do objeto, do procedural, e assim por diante
+1939200	1941200	o orientado aspecto, né?
+1941200	1943200	Que é o mais novo, ok? Então,
+1943200	1945200	seria uma API... Aplication Programming
+1945200	1947200	Interface. Português, Interface
+1947200	1949200	de Programação de Aplicativo. Espera,
+1957200	1959200	Se eu tivesse pedido em latinha, eu até falaria,
+1959200	1961200	eu não pedi, não. Não, beleza. Mas as
+1961200	1963200	APIs, é, por exemplo, é... Eu vou
+1963200	1965200	compartilhar minha experiência de novo com o
+1965200	1967200	Tb6? Ha! Que foda!
+1967200	1969200	É porque assim, tudo que o Windows
+1969200	1971200	consegue fazer, é possível fazer no
+1971200	1973200	Vb6 por causa da API doindo. É porque
+1973200	1975200	a API seria mais ou menos...
+1975200	1977200	É como o próprio não diz, né? É o
+1977200	1979200	Interface, né? Interface entre...
+1979200	1981200	É porque foi... Eu creio
+1981200	1983200	que a API foi uma...
+1983200	1985200	uma evolução do...
+1985200	1987200	da própria programação, porque às vezes
+1987200	1989200	a evolução, é você usar ali um...
+1989200	1991200	um procedimento, ou um método, né?
+1991200	1993200	Pra você não ficar escrevendo aquilo e
+1993200	1995200	repetir das vezes no seu código.
+1995200	1997200	Daí, você precisa de fazer isso,
+1997200	1999200	esse mesmo método, em vários outros programas.
+1999200	2001200	Daí, você, de acordo com o que vai crescendo,
+2001200	2003200	você, em vez de você
+2003200	2005200	escrever um método, uma vez pra cada
+2005200	2007200	programa, você cria um API, daí você
+2007200	2009200	só implementa essa API de um
+2009200	2011200	programa pro outro, e você economiza
+2011200	2013200	crita de software no seu
+2013200	2015200	processo de envolvimento.
+2017200	2021200	Eu acho que foi isso que eu
+2021200	2023200	falava também do padrão de
+2023200	2025200	projeto, né? O design
+2025200	2027200	de parto. Padrão de
+2027200	2029200	projeto, uma coisa que tá no meu
+2029200	2031200	tio do list, já tem um ano e
+2031200	2033200	tanto, e até hoje eu não
+2033200	2035200	peguei pra estudar. Eu... Eu
+2035200	2037200	resumiria o padrão de
+2037200	2039200	projeto na arte de
+2039200	2041200	não errei e ventar a rota. Padrão
+2041200	2043200	de projeto, pra quem se lembra da
+2043200	2045200	minha frase, que eu falei no começo
+2045200	2047200	do podcast, principal
+2047200	2049200	criador, assim, eu acho que foi
+2049200	2051200	até o criador do termo, né,
+2051200	2053200	design pattern, foi o pessoal da
+2053200	2055200	gangue dos quatro, né, gangue
+2055200	2057200	of four, que tem até o livro, né,
+2057200	2059200	design patterns, tal.
+2059200	2061200	Então, o Goff, ele fez
+2061200	2063200	a bíblia do padrão de
+2063200	2065200	projeto. Quer dizer, no caso do
+2065200	2067200	Goff, eles fizeram o documento
+2067200	2069200	base, né, que seria a bíblia do
+2069200	2071200	padrão de projeto. É, através
+2071200	2073200	desse livro, você aplicando aquelas
+2073200	2075200	gangues dos quatro, a gente fala gangue
+2075200	2077200	dos quatro, porque eram quatro
+2077200	2079200	pessoas, né, o Eric Gamma, o Richard
+2079200	2081200	Helm, o Ralph Johnson
+2081200	2083200	e o John Glissie, ah, não sei se
+2083200	2085200	pronuncia dessa forma, mas
+2085200	2087200	essas quatro pessoas se reuniram pra
+2087200	2089200	desenvolver ali os padrões de
+2089200	2091200	projetos, seria um padrão
+2091200	2093200	para o desenvolvimento de só. O que assim,
+2093200	2095200	cara, né? Caso a Géria de Solter, quando
+2095200	2097200	você construir, por exemplo, uma
+2097200	2099200	janela, não faz sentido você ficar
+2099200	2101200	reconstruindo essa mesma janela,
+2101200	2103200	porque vocês são um pouco diferentes.
+2103200	2105200	É, seria uma boa leitura pra quem
+2105200	2107200	quiser seguir essa carreira
+2107200	2109200	de desenvolvedor, você precisa
+2109200	2111200	saber design patterns, né, que é
+2111200	2113200	os padrões de desenvolvimento. Se é a
+2113200	2115200	Géria, a gente vai deixar um link falando
+2115200	2117200	sobre design pattern e a gangue dos
+2117200	2119200	quatro no post, aí vocês visitam lá
+2119200	2121200	o post, vão ficar sabendo mais, poderão
+2121200	2123200	pesquisar sobre isso aí. Acho que pra
+2123200	2125200	ver o projeto, tem um assunto pra um
+2125200	2127200	podcast diferente, né, através desse
+2127200	2129200	podcast, já surgiram cinco podcasts
+2129200	2131200	e agora seguindo pra
+2131200	2133200	uma outra área,
+2133200	2135200	pra uma outra perspectiva,
+2135200	2137200	a gente pode falar
+2137200	2139200	sobre o segredo do sucesso
+2139200	2141200	ou não, né, do desenvolvimento
+2141200	2143200	de só. Como o desenvolvimento
+2143200	2145200	de só é relativamente uma coisa nova,
+2145200	2147200	tipo assim, né, tão antigo como
+2147200	2149200	a Géria Civil e
+2149200	2151200	essas outras medicinas,
+2151200	2153200	e a Géria já é milenar, né,
+2153200	2155200	a Géria Civil já é milenar
+2155200	2157200	enquanto a computação
+2157200	2159200	que a Géria Civil tem aí, 20 anos.
+2159200	2161200	A Géria Civil tem eu.
+2161200	2163200	Eu tô falando da computação, como
+2163200	2165200	o desenvolvimento de só, do jeito
+2165200	2167200	que ele é visto hoje, tem bem menos
+2167200	2169200	tempo do que 20 anos.
+2169200	2171200	Então, outra coisa que eu até
+2171200	2173200	comentar no podcast anterior,
+2173200	2175200	mas aí o Sheldon, que eu vou falar
+2175200	2177200	que era no caso desse GML, aí eu vou
+2177200	2179200	brincar com ele, que eu tava falando
+2179200	2181200	da minha palta e acabei se não falando
+2181200	2183200	na respeito. Esse GML, ele nasceu na
+2183200	2185200	década de 70, né, cara, ou seja,
+2185200	2187200	eu vou me deixar a música dos anos 70,
+2187200	2189200	que eu acho que é caramba.
+2189200	2191200	Mas esse GML,
+2191200	2193200	que no caso, foi que
+2193200	2195200	surgiu o conceito do CSS,
+2195200	2197200	né, só uma dentro da respeito
+2197200	2199200	do podcast anterior. Mas assim,
+2199200	2201200	muita coisa, por exemplo, o programação
+2201200	2203200	orientado ao objeto, queria comentar que
+2203200	2205200	nas décadas de 70 isso já existia, né,
+2205200	2207200	então não é uma coisa tão nova, não entendi.
+2207200	2209200	Mas assim, como que seria
+2209200	2211200	bom, qual que é o segredo, assim,
+2211200	2213200	você que já tem bem mais experiência
+2213200	2215200	qual que é o segredo, assim, de ter um
+2215200	2217200	sucesso no desenvolvimento de software
+2217200	2219200	em geral, tanto no comprimento de prazo
+2219200	2221200	quanto no comprimento
+2221200	2223200	do escopo, do projeto em si
+2223200	2225200	e o que você tem a dizer
+2225200	2227200	sobre si? Então, assim, porque o
+2227200	2229200	desenvolvimento de software
+2229200	2231200	é um processo de produção
+2231200	2233200	dos menos tangíveis, é uma
+2233200	2235200	grande dificuldade a você mesurar
+2235200	2237200	tempo e mesurar até mesmo
+2237200	2239200	sucesso, por isso que existe o project.
+2239200	2241200	No caso do software, o software como
+2241200	2243200	ele é uma forma, um processo
+2243200	2245200	produtivo, menos tangíveis que
+2245200	2247200	existe, é bastante complicado você
+2247200	2249200	gerenciar o projeto. Claro, o que comentou
+2249200	2251200	o project, né, que uma carne tira esse
+2251200	2253200	projeto, ela pode ser usada em
+2253200	2255200	vários tipos de projetos, não só do
+2255200	2257200	desenvolvimento de software. A gerenciamento
+2257200	2259200	de projeto não é tão diferente do
+2259200	2261200	gerenciamento de projeto de software para
+2261200	2263200	um gerenciamento de uma viagem, por exemplo,
+2263200	2265200	gerenciamento de uma usina hidrelétrica,
+2265200	2267200	gerenciamento da pretrobragem, etc.
+2267200	2269200	Vou deixar o link do post para o podcast
+2269200	2271200	do 5 minutes p.m.
+2271200	2273200	podcast do Ricardo Vargas,
+2273200	2275200	que é um podcast de maneira
+2275200	2277200	sobre gerenciamento de projeto. Legal.
+2277200	2279200	Uma coisa interessante, como a gente
+2279200	2281200	falou, sobre esses problemas
+2281200	2283200	do desenvolvimento de software,
+2283200	2285200	para ter um sucesso do desenvolvimento
+2285200	2287200	do projeto e ter um bom processo de
+2287200	2289200	desenvolvimento, tem que seguir, você
+2289200	2291200	quer uma metodologia em cascata, então
+2291200	2293200	você tem que seguir a risca, se você
+2293200	2295200	quer uma metodologia XP,
+2295200	2297200	uma metodologia Scrum,
+2297200	2299200	então você tem que seguir a risca mesmo,
+2299200	2301200	tem que ter um bom treinamento de sua
+2301200	2303200	equipe. Claro que a função
+2303200	2305200	crucial no desenvolvimento
+2305200	2307200	é a função do gerenciamento, né?
+2307200	2309200	Ele tem que ser um bom gerenciamento, tem que
+2309200	2311200	ter uma boa tomada de decisão,
+2311200	2313200	tem que ter várias características que um
+2313200	2315200	bom gerenciamento tem que ter. Concluindo
+2315200	2317200	o que eu estava falando, sobre a
+2317200	2319200	tangibilidade do software, mais uma
+2319200	2321200	palavra para falar em reunião. 5 palavras, né?
+2321200	2323200	Existe forma de medir
+2323200	2325200	fimétricas de software que pode ser
+2325200	2327200	utilizado. Então
+2327200	2329200	a mais conhecida
+2329200	2331200	é a análise de ponto de função,
+2331200	2333200	que é uma das formas
+2333200	2335200	até hoje mais precisas de
+2335200	2337200	se menstruar um software, mas
+2337200	2339200	ela assim como tudo na vida
+2339200	2341200	não serve para tudo, é uma pena.
+2341200	2343200	Dependendo de si, por exemplo, um exemplo
+2343200	2345200	que não funciona
+2345200	2347200	o análise de ponto de função
+2347200	2349200	é quando você vai fazer um software
+2349200	2351200	por exemplo de back end, que ele faz
+2351200	2353200	consolidação de dados, por exemplo, o
+2353200	2355200	análise de ponto de função, ela usa
+2355200	2357200	bastante a interação com o usuário
+2357200	2359200	de entrada de dados e
+2359200	2361200	também as fontes de dados que ela
+2361200	2363200	pega. Então no modelo
+2363200	2365200	um tipo de software diferente do
+2365200	2367200	um RP, por exemplo, de folha de
+2367200	2369200	pagamento, talvez a análise de ponto de
+2369200	2371200	função ela não se adequa. Quando a
+2371200	2373200	complexidade do software é muito grande
+2373200	2375200	também, não é interessante fazer
+2375200	2377200	análise de ponto de função. Um análise bem
+2377200	2379200	interessante de se fazer também é a análise do
+2379200	2381200	programador, que é uma das peças principais
+2381200	2383200	que eu estou falando, porque o programador
+2383200	2385200	tem que ser um cabra bem mágico.
+2389200	2391200	Então, eu acho que
+2391200	2393200	pegando essa deixa do Sheldon
+2393200	2395200	a gente pode falar nas metodologias
+2395200	2397200	ágeis que o pessoal fala que
+2397200	2399200	é a teoria das restrições, sabe
+2399200	2401200	que é a perida restrições?
+2401200	2403200	Estou restrito a isso. E assim, você tem
+2403200	2405200	um modo de produzir software
+2405200	2407200	comum, né? Você tem tarefas
+2407200	2409200	corriqueiras no desenvolvimento
+2409200	2411200	Então, essas tarefas, elas são
+2411200	2413200	fáceis de mesurar. Ou seja, tarefas que
+2413200	2415200	eu costumo fazer, é assim, eu tenho
+2415200	2417200	uma funcionalidade não muito diferente
+2417200	2419200	das que eu já desenvolvo, eu consigo
+2419200	2421200	mesurar o tempo que eu vou gastar
+2421200	2423200	nessas tarefas. Ou quanto, por exemplo,
+2423200	2425200	eu vou gastar dois dias e tal. Então,
+2425200	2427200	a análise nas teoria das restrições
+2427200	2429200	tem um esquema que é você não pode
+2429200	2431200	ir. Tem alguma coisa que é muito
+2431200	2433200	discrepante, que você não vai conseguir
+2433200	2435200	mesurar ela, então fica complicado
+2435200	2437200	dar prazo para esse tipo de funcionalidade,
+2437200	2439200	uma coisa que você nunca desenvolveu,
+2439200	2441200	você não tem experiência naquilo, então
+2441200	2443200	você não sabe quanto tempo você gastaria.
+2443200	2445200	Às vezes, pode ter um risco que pode
+2445200	2447200	acontecer no meio de desenvolvimento, que pode
+2447200	2449200	acarretar no atraso significante
+2449200	2451200	para a entrega do produto, né?
+2451200	2453200	Eu acredito que essa maioria das vezes,
+2453200	2455200	se isso acontece em requisitos, não funcionais,
+2455200	2457200	cara. Entendi. É porque
+2457200	2459200	comecei a pensar nisso e comecei a viajar aqui.
+2459200	2461200	É, tipo assim, o cliente queria que
+2461200	2463200	aparecesse uma bolinha azul piscando,
+2463200	2465200	que fosse do canto até o outro.
+2465200	2467200	Isso não vai implicar no funcionamento
+2467200	2469200	do insílio do software. Realmente
+2469200	2471200	isso que eu fiquei imaginando, porque geralmente
+2471200	2473200	quando você vai desenvolver, é bastante
+2473200	2475200	dividido na parte do interface, né? Quem sofre
+2475200	2477200	mais com isso aí é o website, tal, o pessoal
+2477200	2479200	que mexe com o software de
+2479200	2481200	sites aí. Sofrem porque às vezes vê um
+2481200	2483200	site, vai lá e desenha, passa tempos e
+2483200	2485200	tempos fazendo o site, e quando chega
+2485200	2487200	lá no cliente, o cara fala assim, ah, mas eu
+2487200	2489200	queria um botão assim, ah, mas eu queria
+2489200	2491200	não sei o que e tal, e isso
+2491200	2493200	gera um desgaste de
+2493200	2495200	todas as partes. Então, vamos para o próximo
+2495200	2497200	item. O próximo item é os cuidados
+2497200	2499200	que se devem ter na
+2499200	2501200	processos de desenvolvimento do software.
+2501200	2503200	Ah, mas por que eu queria esses tópicos, cara?
+2503200	2505200	Porque nos stakeholders, isso aí, usando
+2505200	2507200	ou desenvolvidos num projeto, todo mundo
+2507200	2509200	tem um interesse diferente, né? É porque
+2509200	2511200	tipo assim, às vezes um
+2511200	2513200	o cara do uma banda, por exemplo,
+2513200	2515200	é igual, sabe o que era a história lá
+2515200	2517200	do Edson Yield, que o
+2517200	2519200	parece que é um, eu não entendo direito
+2519200	2521200	dessas coisas não, só sei que parece que um
+2521200	2523200	é o primeiro, o outro gosta de
+2523200	2525200	sertanejo, coisa assim. É por isso que
+2525200	2527200	separar, você ficou sabendo, né?
+2527200	2529200	O que o pessoal chama de divergências
+2529200	2531200	artísticas, né? Então, eu acho que
+2531200	2533200	você pode passar isso aí por parte do
+2533200	2535200	software, né? Que às vezes um programador
+2535200	2537200	quer fazer de um jeito, o programador
+2537200	2539200	pensa de outra forma, tem tipo igual,
+2539200	2541200	uma parte da equipe gosta de software
+2541200	2543200	livre, quer usar produtos livres,
+2543200	2545200	outra parte já gosta de produtos da
+2545200	2547200	microsoft, às vezes você pode estar
+2547200	2549200	já na uma briga, não uma briga
+2549200	2551200	com morte, mas
+2551200	2553200	às vezes pode ter alguns problemas
+2553200	2555200	aí de encontro de
+2555200	2557200	ideia. Divergências criativas aí que
+2557200	2559200	a gente citou é porque também tem
+2559200	2561200	influencia muita coisa assim, porque
+2561200	2563200	nos processos ágeis, no manifesto
+2563200	2565200	ágil também, tem um esquema lá que fala que
+2565200	2567200	todos os envolvidos, eles têm que estar
+2567200	2569200	foco principal, tem que ser que o
+2569200	2571200	projeto vai funcionar, tá? Então, tem que
+2571200	2573200	estar todo mundo alinhado mesmo, tá focado
+2573200	2575200	no sucesso do projeto. Então, assim, eu
+2575200	2577200	como desenvolvedor, assim,
+2577200	2579200	já me caiu muito no caso de
+2579200	2581200	eu estar fazendo desenvolvimento
+2581200	2583200	pelo desenvolvimento, sabe? Eu entendo
+2583200	2585200	eu entendo muito bem, assim.
+2585200	2587200	É o que acontece, por exemplo, quando você
+2587200	2589200	aprende tocar guitarra,
+2589200	2591200	quando você é músico, em geral, e você
+2591200	2593200	escuta música que só música escuta, então
+2593200	2595200	é, se eu chegar em você aqui
+2595200	2597200	falar que sobre a vida de
+2597200	2599200	sei lá, de Stradivário,
+2599200	2601200	ou se eu falar sobre algum
+2601200	2603200	concerto que o Zach Perman tocou,
+2603200	2605200	você poderia até ficar boiando, não entendendo
+2605200	2607200	falar. É igual aquele dia que você veio falar
+2607200	2609200	pra mim sobre Jimi Hendrix, né?
+2609200	2611200	Eu não quero falar, cara, que o
+2611200	2613200	conhece Jimi Hendrix. Eu já me caiu
+2613200	2615200	muitas vezes de eu ir fazer um
+2615200	2617200	projeto de... No caso, os projetos
+2617200	2619200	particulares, né? Mas que eu demorava
+2619200	2621200	90% desenvolvendo um esquema
+2621200	2623200	pra mim fazer o projeto, e quando eu
+2623200	2625200	começava a fazer o projeto, eu pedia
+2625200	2627200	vontade. É, porque geralmente
+2627200	2629200	acontece nos projetos pessoais, né?
+2629200	2631200	Que você tenha, você já
+2631200	2633200	faz todas as partes, né?
+2633200	2635200	Então, você acaba, é, vira um
+2635200	2637200	programa de programador, né? Programa
+2637200	2639200	que só quem é programador, que vai
+2639200	2641200	conseguir usar. E o que que eu vou fazer?
+2641200	2643200	Se eu ser um programador, que eu não
+2643200	2645200	quero ficar programando o control
+2645200	2647200	de estoque, essas coisas seriam
+2647200	2649200	mais voltadas pros usuários, não, né?
+2649200	2651200	Vai trabalhar na Google, na Microsoft,
+2651200	2653200	na época. Existe esses projetos
+2653200	2655200	de... Nesse caso, é o cara que faz
+2655200	2657200	ciência da computação, ele deveria estar
+2657200	2659200	focado em fazer esse tipo de
+2659200	2661200	software, né? Ciência da computação
+2661200	2663200	até pode ser uma ação
+2663200	2665200	pra um próximo...
+2667200	2669200	Vou pra frente lá. Tem uma coisa
+2669200	2671200	que eu, que eu particularmente
+2671200	2673200	odeio, na parte de um
+2673200	2675200	desenvolvimento de um software, é quando
+2675200	2677200	tipo, você tá lá dando
+2677200	2679200	a manutenção, aí, às vezes, você vai
+2679200	2681200	substituindo o código, aí, você vai
+2681200	2683200	simplesmente, comenta,
+2683200	2685200	sei lá, 200 linhas de código,
+2685200	2687200	deixe ele lá dentro, e
+2687200	2689200	você programa o resto, e, às
+2689200	2691200	vezes, se você comenta o código,
+2691200	2693200	se você fala assim, não, pode dar errado,
+2693200	2695200	e a gente volta, tira
+2695200	2697200	os comentários, volta tudo como era antes.
+2697200	2699200	Eu, praticamente, eu acho que
+2699200	2701200	muitas pessoas compartilham essa raiva
+2701200	2703200	junto comigo, eu odeio esse tipo
+2703200	2705200	de coisa, porque além de deixar
+2705200	2707200	o código muito grande, deixe ele
+2707200	2709200	muito sujo, e pra que é que existe o
+2709200	2711200	subversa? É, os caras deixam o histórico
+2711200	2713200	pro dino no código, já aconteceu muito
+2713200	2715200	nítico, meio como foi, é isso aí,
+2715200	2717200	que eu queria falar. A gente fala dos
+2717200	2719200	programadores, né, eu não sei que o cara, a motivação
+2719200	2721200	do cara, seja só o ganhagueiro do salário,
+2721200	2723200	é só o salário dele no final.
+2731200	2733200	Agora, e na parte do usuário?
+2733200	2735200	Bom, a parte do usuário, uma das
+2735200	2737200	quatro palavras, né, que é a usabilidade,
+2737200	2739200	olha aí, vai lá pra lá aí,
+2739200	2741200	é, porque assim, o usuário,
+2741200	2743200	cara, ele só quer, ele só quer
+2743200	2745200	usar o software da maneira mais fácil
+2745200	2747200	possível, que facilita o trabalho dele,
+2747200	2749200	e que ele praticamente não tem que pensar, né.
+2749200	2751200	Uma coisa interessantíssima
+2751200	2753200	que eu trabalhei no projeto de
+2753200	2755200	software comercial, foi
+2755200	2757200	o uso do mouse, que o
+2757200	2759200	projeto de softwares comerciais,
+2759200	2761200	geralmente não usam muito mouse,
+2761200	2763200	porque eu achei interessante isso aí,
+2763200	2765200	porque eu sempre ficava
+2765200	2767200	debatendo aí, o pessoal lá, os analisos
+2767200	2769200	e sistemas, chegaram em mim conversaram,
+2769200	2771200	senão a gente tá, programa aqui,
+2771200	2773200	a gente foca no interesse do usuário,
+2773200	2775200	é sempre usar mais o teclado,
+2775200	2777200	usar menos o possível o mouse.
+2777200	2779200	Acho que isso é uma herança
+2779200	2781200	dos softwares legais, né, do software que
+2781200	2783200	eram feitos na época em Clip,
+2783200	2785200	e Cobol com interfaces não gráficas,
+2785200	2787200	né, o pessoal usava bastante o
+2787200	2789200	não usava sempre o ato teclado, né.
+2789200	2791200	Eu penso por outra forma,
+2791200	2793200	que às vezes o Kim vai usar, esse é um cara
+2793200	2795200	que é vendedor, e tá ali, com
+2795200	2797200	uma porrada de clientes, xingando ele ali,
+2797200	2799200	e tal, às vezes a loja tá
+2799200	2801200	cheia, dia 24 de dezembro,
+2801200	2803200	então até ele ficar levando a mão no mouse
+2803200	2805200	pra clicar no botão, e até ele ficar
+2805200	2807200	fazendo todos esses movimentos, eu acho que
+2807200	2809200	ele perde ali, mesmo que questão de
+2809200	2811200	milésimo de segundo, mas, ele perde
+2811200	2813200	um tempo que pode ser crucial pra ele mais
+2813200	2815200	na frente, então, o uso
+2815200	2817200	do teclado, ele faz pouco movimento
+2817200	2819200	com o braço, movimenta mais os dedos,
+2819200	2821200	eu acho que isso ajuda mais, e deixa ele mais
+2821200	2823200	confortável na hora de usar um computador.
+2823200	2825200	O legal é esse negócio de milésimo de segundo aí,
+2825200	2827200	e aí a gente fez outro queime que eu tenho,
+2827200	2829200	porque assim, eu programava pra
+2829200	2831200	fazer isso, Pocket PC
+2831200	2833200	pra, nos casos do softgis lá né,
+2833200	2835200	e uma coisa que o cara
+2835200	2837200	falou lá que era muito interessante,
+2837200	2839200	por exemplo, tem um que for levantar 100 mil
+2839200	2841200	post, e esse 100 mil post, eu tenho
+2841200	2843200	uma ferramente lá que eu tenho que clicar no menu,
+2843200	2845200	clicar no submenú, e clicar na
+2845200	2847200	ferramente, né, foram quantos cliques?
+2847200	2849200	Esqueci, não foram três cliques,
+2849200	2851200	nesses três cliques, por exemplo,
+2851200	2853200	eu uso meio
+2853200	2855200	segundo para cada clica, e eu for
+2855200	2857200	levantar 100 mil post,
+2857200	2859200	e meio segundo,
+2859200	2861200	não vou fazer as contas corretas,
+2861200	2863200	mas quero que vocês entendam.
+2863200	2865200	Meio segundo,
+2865200	2867200	em 100 mil post,
+2867200	2869200	que eu economizo, eu ganho dois meses
+2869200	2871200	de projetos, e isso é um custo
+2871200	2873200	que é muito grande,
+2873200	2875200	no total do software.
+2875200	2877200	Às vezes você não pensa nisso, né?
+2877200	2879200	Mentira!
+2879200	2881200	É sério?
+2881200	2883200	Não, essas coisas eu achei muito
+2883200	2885200	interessante. Outra coisa interessante
+2885200	2887200	é que quando você vai fazer uma tela,
+2887200	2889200	às vezes,
+2889200	2891200	na sequência de navegação, você altera
+2891200	2893200	o tamanho do botão. Você acredita que
+2893200	2895200	até isso é contado na hora de fazer
+2895200	2897200	um software? É que
+2897200	2899200	o usuário faz um mapa mental, né,
+2899200	2901200	do que ele está trabalhando, então
+2901200	2903200	se muda alguma coisa até no visual,
+2903200	2905200	ele pode ter dificuldade. Tem um pessoal
+2905200	2907200	trabalhando por trás disso, que eles
+2907200	2909200	veem o tamanho do botão, ver a cor,
+2909200	2911200	ver o tamanho da fonte, ver a fonte
+2911200	2913200	que está sendo usado, tudo isso conta
+2913200	2915200	nos pontos na hora de desenvolver um software.
+2915200	2917200	É uma coisa assim, muito interessante.
+2917200	2919200	Isso pode ser assunto para o próximo.
+2927200	2929200	Então, vamos para o próximo item,
+2929200	2931200	que a gente já falou do interesse do programador,
+2931200	2933200	do usuário, e agora
+2933200	2935200	vamos falar da pessoa que está patrocinando
+2935200	2937200	essa parada, né? A pessoa que está patrocinando
+2937200	2939200	o que ela quer, ela quer a redução
+2939200	2941200	de custo e quer que faça menos tempo,
+2941200	2943200	quer ganhar mais, né? Que é o custo
+2943200	2945200	do produto final. Tempa dinheiro, é isso aí.
+2945200	2947200	Isso me leva a um outro ponto
+2947200	2949200	que pode ser assunto para o próximo.
+2949200	2951200	Caraca, a gente vai ter que interromper
+2951200	2953200	aqui, senão ele tem podcast por próximos
+2953200	2955200	três anos. Ainda bem, né?
+2955200	2957200	É bom que a gente vai precisar de ficar
+2957200	2959200	pensando e tal para um assunto.
+2959200	2961200	Acredita que eu fiz esse podcast
+2961200	2963200	para chegar nesse ponto em uma tecnologia
+2963200	2965200	que engloba todos os seus interesses.
+2965200	2967200	Ah, é? Qual que é? O Rubin Rayus.
+2967200	2969200	Ah, maluco!
+2969200	2971200	Vejam vocês aí!
+2971200	2973200	O Rubin Rayus funciona para tudo, véio?
+2973200	2975200	O Rubin Rayus está na minha atitude
+2975200	2977200	do lixo, junto com o design pattern.
+2977200	2979200	É, pois é. Então, nesse caso, como
+2979200	2981200	felizmente, tudo na vida não, né?
+2981200	2983200	É, o Rubin Rayus, no caso,
+2983200	2985200	o programador está desenvolvendo a mesma coisa
+2985200	2987200	e ficar aquela chatice de desenvolvimento
+2987200	2989200	e eu acabo tendo uma perda
+2989200	2991200	de produção muito grande, entendeu?
+2991200	2993200	É bom para ninguém, nem para o usuário final
+2993200	2995200	que eu não vou ter tempo para trabalhar nas habilidades
+2995200	2997200	e eu vou ficar desmotivado, vou ficar
+2997200	2999200	dormindo, vou para o patrocinador também
+2999200	3001200	porque eu vou demorar mais tempo
+3001200	3003200	para desenvolver o software e a qualidade
+3003200	3005200	não vai ser tão grande, entendeu?
+3009200	3011200	Há argumentos para você falar com o seu patrocinador,
+3011200	3013200	por exemplo, as palavras mais
+3013200	3015200	que tipo os habilidades, terapelabilidade,
+3015200	3017200	por exemplo, e você faz um projeto
+3017200	3019200	já teve casas de sucesso,
+3019200	3021200	de projeto em Rubin Rayus?
+3021200	3023200	Não é que eu tenho que fazer só pagando em Rayus, né?
+3023200	3025200	Nada, só que é muito bom. Então, é,
+3025200	3027200	por exemplo, eu já vi um
+3027200	3029200	queijo de sucesso e o grupo
+3029200	3031200	de desenvolvimento, o tempo
+3031200	3033200	que ele levou para aprender
+3033200	3035200	e implementar o projeto, foi quase
+3035200	3037200	que um terço do tempo do projeto
+3037200	3039200	que teria feito em Java. Caraca, mano!
+3039200	3041200	E aí que um conceito
+3041200	3043200	interessante, que a gente poderia abandonar
+3043200	3045200	melhor num outro pô de cara.
+3045200	3047200	Dessa vez eu ia falar isso, mano.
+3047200	3049200	E é o caso do...
+3049200	3051200	Ainda voltando um pouco nos interesses
+3051200	3053200	do programador, né?
+3053200	3055200	É uma maneira que eu acho assim
+3055200	3057200	de manter
+3057200	3059200	desenvolvedor motivado, que é o dry.
+3059200	3061200	Conheço o dry? Não, conheço o dry
+3061200	3063200	que é dirigir e tal, que é joguinho, sabe?
+3063200	3065200	O dry é o dry, né?
+3065200	3067200	Que seria don't repeat yourself,
+3067200	3069200	ou seja, para você não ficar se repetindo.
+3069200	3071200	É porque assim, o
+3071200	3073200	ecossistema, no caso do Ruby,
+3073200	3075200	ele existe uma parte
+3075200	3077200	filosófica muito grande, sabe? Pessoal, assim, fala que
+3077200	3079200	ah, mas Rubin Ray,
+3079200	3081200	só lembrei da minha melola.
+3081200	3083200	Ah, Rubin Ray, você quer lá, sabe?
+3083200	3085200	O Rubin Ray?
+3085200	3087200	Então, eu fiquei mostrando a caminhada.
+3087200	3089200	Então, é porque assim, no caso,
+3089200	3091200	o pessoal fala que quando se está
+3091200	3093200	falando de Rubin Ray, é muito fantasioso,
+3093200	3095200	e tal, mas, cara,
+3095200	3097200	é verdade, cara. Que falar sobre o Rubin Ray
+3097200	3099200	pode ser um assunto para um próximo pô de cara.
+3099200	3101200	Então, no final de tudo mesmo
+3101200	3103200	é que ele engloba isso.
+3103200	3105200	Você tem que achar uma...
+3105200	3107200	É claro que os conceitos de que eu acaberei
+3107200	3109200	aprendendo pesquisando sobre o Rubin Ray
+3109200	3111200	e eu acabo aplicando, meu dia-a-dia, até mesmo
+3111200	3113200	com o VVC, sabe? Ah, é? É, esse negócio,
+3113200	3115200	por exemplo, o Dry e essas outras coisas,
+3115200	3117200	é tipo assim, agora a gente ensina um projeto
+3117200	3119200	novo, um sucesso. É, um projeto
+3119200	3121200	maluco? É, lá na empresa a gente
+3121200	3123200	começou um projeto em Java, usando os flex.
+3123200	3125200	Oh, é porque no outro
+3125200	3127200	episódio eu comentei, né? Aqui estava
+3127200	3129200	complicado, né, de ensinar o projeto. Ah,
+3129200	3131200	eu lembro que você até falou. Essas maneiras de deixar
+3131200	3133200	o software melhor tanto para o usuário, quanto
+3133200	3135200	para o programador, quanto para quem está patrocinando
+3135200	3137200	isso, pode ser aplicado em qualquer tecnologia
+3137200	3139200	que você tiver trabalhando. É, é verdade
+3139200	3141200	que às vezes você pega a experiência de uma
+3141200	3143200	linguagem e se transporta para outra, mesmo
+3143200	3145200	que às vezes a forma de programar é diferente
+3145200	3147200	mas alguns conceitos podem ser usados, né?
+3147200	3149200	Então, a continha lá que eu queria fazer era assim,
+3149200	3151200	se você, às vezes o pessoal fala
+3151200	3153200	de performance, é tipo assim, é
+3153200	3155200	para mim, claro né?
+3155200	3157200	Para mim implementar
+3157200	3159200	uma parada que, por exemplo,
+3159200	3161200	um programador que, vamos colocar as variáveis,
+3161200	3163200	um programador que ganha 2.000 por
+3163200	3165200	mês para você manter ele
+3165200	3167200	por 6 meses, ele te custa
+3167200	3169200	2.000, isso. Quanto que é
+3169200	3171200	um servidor bom? 5.000? É,
+3171200	3173200	mais ou menos, né? 5.000.
+3173200	3175200	Se você pega uma tecnologia
+3175200	3177200	que você desenvolveria
+3177200	3179200	em 3, 2 meses, por outra
+3179200	3181200	que você desenvolve em 6 meses
+3181200	3183200	mas que teria uma performance maior, que
+3183200	3185200	você teria que escalar essa aplicação, qual que
+3185200	3187200	sair mais barato? Seria, por exemplo,
+3187200	3189200	se eu gasto 3.000 com
+3189200	3191200	servidor novo, só por causa que
+3191200	3193200	essa aplicação nova é mais
+3193200	3195200	fácil de programar, mais demanda, mais
+3195200	3197200	processamento, eu acabo economizando
+3197200	3199200	no projeto final, entendeu? Você aumenta
+3199200	3201200	a infraestrutura, mas em compensação você
+3201200	3203200	diminui na gás com desenvolvimento.
+3203200	3205200	E, ou seja, eu gastaria
+3205200	3207200	só 2 meses do meu desenvolvedor,
+3207200	3209200	seria 4.000, é, gastaria
+3209200	3211200	3.000 com meu novo servidor,
+3211200	3213200	no total eu teria 7.000, enquanto
+3213200	3215200	que se eu fosse fazer esse projeto
+3215200	3217200	demorando os 6 meses, eu teria
+3217200	3219200	fora o gasto com a infraestrutura,
+3219200	3221200	ainda mais esses 12.000
+3221200	3223200	só, o cara lá está programando
+3223200	3225200	coisa que não é interessante.
+3225200	3227200	Como a empresa está pouco se lixando
+3227200	3229200	para o cara, ela prefere a primeira opção.
+3229200	3231200	São dicas que, assim, que você, como
+3231200	3233200	desenvolvedor, acaba tendo que fazer
+3233200	3235200	não só o seu papel, né? Mas como
+3235200	3237200	você vai defender uma nova tecnologia
+3237200	3239200	no ambiente, que o importante é só
+3239200	3241200	e quando isso vai me custar, entendeu? Você
+3241200	3243200	pode usar esse tipo de argumento. É, porque
+3243200	3245200	programador, ele é aquele cara
+3245200	3247200	idealista, né? Ele está pouco se fudendo
+3247200	3249200	o que vai gastar, o que vai ter, o que
+3249200	3251200	vai usar a linguagem preferida dele para
+3251200	3253200	tudo. Às vezes, o cara usa Java
+3253200	3255200	para fazer, sei lá, um
+3255200	3257200	projeto onde o PHP
+3257200	3259200	seria mais interessante. Às vezes, ele
+3259200	3261200	usa o PHP a um lugar onde o
+3261200	3263200	Ruby seria mais interessante. Às vezes,
+3263200	3265200	o cara quer usar a sepa, desenhar
+3265200	3267200	uma coisa que não existe, uma coisa
+3267200	3269200	que seria totalmente viável. É, sabe como é
+3269200	3271200	que era uma prática algum tempo atrás
+3271200	3273200	para o pessoal fazer? Ahn. O cara desenvolveu
+3273200	3275200	o protótipo em VB6, que o software
+3275200	3277200	mesmo desenvolveu em C. Caraca.
+3277200	3279200	Acho que, com várias pontas, né? Que a gente
+3279200	3281200	pode unir num próprio vídeo.
+3281200	3283200	Ahn.
+3283200	3285200	Ahn.
+3285200	3287200	Ahn.
+3287200	3289200	Ahn.
+3289200	3291200	Ahn.
+3291200	3293200	Ahn.
+3293200	3295200	Esse podcast poderia
+3295200	3297200	gerar filhos, como filhos,
+3297200	3299200	vários outros n-podcasts.
+3299200	3301200	Por hoje é só, mas eu não faço
+3301200	3303200	até aqui. Se você quiser saber
+3303200	3305200	mais alguma coisa sobre esse assunto,
+3305200	3307200	se você não quiser pesquisar, mande
+3307200	3309200	um e-mail para
+3309200	3311200	podcastarrobatribudusei.net
+3311200	3313200	Se você não, é, se você não
+3313200	3315200	souber como se escreve podcast,
+3315200	3317200	vai no post que no final tem lá, né?
+3317200	3319200	Se você estiver compregui-se no post,
+3319200	3321200	eu só leto para você. Então é eu, né?
+3321200	3323200	P de
+3323200	3325200	Paralelepipodo, O de
+3325200	3327200	Ovo, D de Dadinho, C de
+3327200	3329200	Caramelo, R, D, A, B, S
+3329200	3331200	de Sebastian Health, T de
+3331200	3333200	Tribudusei.
+3333200	3335200	A gente queria agradecer para vocês
+3335200	3337200	que se escutaram até agora, e que a gente
+3337200	3339200	queria lembrar, a gente tem o usuário
+3339200	3341200	também da Tribudusei,
+3341200	3343200	onde você pode colocar também os seus
+3343200	3345200	e-mails de voz e mandar para a gente.
+3345200	3347200	Quer, se também você não quer escrever,
+3347200	3349200	só fala lá para a gente.
+3349200	3351200	A gente cola aí nos próximos episódios.
+3351200	3353200	É, a gente é legal. É um cara legal.
+3353200	3355200	Valeu, galera! Muito obrigado por
+3355200	3357200	ter se escutado até agora.
+3357200	3359200	E fiquem de olho, assinem o nosso feed
+3359200	3361200	para que vocês possam ficar
+3361200	3363200	dentro de todas as novidades do nosso site.
+3363200	3365200	Valeu, e até o próximo episódio.
+3385200	3387200	Andará-lo isso?
+3387200	3389200	Opa!
+3389200	3391200	Opa!
+3391200	3393200	Opa!
+3393200	3395200	Você chegou a ver
+3395200	3397200	os e-mails lá?
+3397200	3399200	Estava vendo aqui agora.
+3399200	3401200	Estava vendo aqui agora.
+3401200	3403200	Eu vi ontem, né?
+3403200	3405200	Eu vi hoje aqui o Sheldon
+3405200	3407200	estar na minha lista negra.
+3407200	3409200	Eu acho que vou matar um
+3409200	3411200	do componente.
+3411200	3413200	Foi falar do professor
+3413200	3415200	desde a bandida, e foi eu não, né?
+3415200	3417200	Não, não.
+3417200	3419200	Não foi o Sheldon, né?
+3419200	3421200	É, o Sheldon.
+3421200	3423200	Não, ele é da...
+3423200	3425200	Ele estuda na Universo.
+3425200	3427200	É na Universo?
+3427200	3429200	É.

@@ -1,0 +1,2390 @@
+VOCÊ ESTÃO VINDO A TRÍMPO DO C.I. PODCAST
+Trímpo do C.I. Episódio 5, para o dia 24 de setembro de 2010, redes de computadores.
+Aqui é o Sebastian Hells, o senhor na agueta mais ouvir nos TCCs, definição de vírus, worms e o que é hacker, cara.
+Meu nome é Sheldon Led e a internet não é uma rede de computadores que sim uma rede de pessoas.
+Meu nome é Marcelo Fleuri e a internet é uma rede híbrida, de pessoas e computadoras.
+Tá certo disso?
+Queria que uma rede heterogênea.
+Eu diria que é uma rede.
+Queria que era uma internet.
+Eu diria que não é só Orkut em MSN.
+Eu não digo mais nada, porque tá chato.
+Esse futebol de Twitter também.
+No princípio, a internet era Orkut MSN.
+Ex, agora, Facebook e Twitter na parada.
+Como é que o pessoal esqueceu do YouTube?
+Então, chegando aqui na leitura dos meios.
+O que você acha?
+De redes?
+É segurança de redes ou sua rede, né?
+Ah, eu quero falar sobre isso, cara.
+Eu tenho um monte de dúvidas.
+Eu quero ver se eu tiro também uns 10.
+Antes de começar a ler os meios de verdade,
+eu queria, primeiramente, já lembrar
+que hoje nós temos outro participante,
+que é o Marcelo Fleuri.
+Opa, prazer.
+Então, Marcelo Fleuri vai estar aí dando participação pra gente, como vocês viram.
+E...
+Ele vai falar sobre redes.
+Eu tenho um background bem legal aí de sobre redes.
+Vai falar depois.
+A gente vai falar depois também sobre o CIPROX,
+que é o projeto dele de redes.
+Mas isso vai ser um assunto no próximo podcast.
+Só que dessa vez vai ser o próximo podcast mesmo.
+Mesmo que vem, nós vamos falar sobre o CIPROX.
+Já tá marcado, já.
+E o...
+O que é esse blog sem nome?
+Ah, esse é um brother aí que eu conheci.
+Aí ele tem um...
+um blog dele.
+Ele é daqui de Goiânia também.
+O blog sem nome.
+Porque, na verdade, é um blog pra galera...
+Não dizer assim...
+Adolescente, né?
+Porque...
+Se considerar adolescente entre...
+12 e 18, é uma coisa assim, né?
+É uma lação de Goiânia.
+Uma lação de Goiânia.
+Você fala sobre esses assuntos,
+os teenagers aí.
+Aí a gente...
+resolveu falar sobre ele também,
+porque nosso público querendo ou não,
+um público mais novo, né?
+Então...
+Bota sem nome.
+Não tem nome de nome.
+E vai estar o link lá no podcast, tá?
+Pra esse blog.
+Sem nome.
+Você fala sobre...
+podcast de microfonia e filhos da...
+Sim, o Filhos da Pauta
+é um podcast da galera da Unibank.
+Infelizmente, os caras deram uma...
+cara de férias, né?
+E o pessoal tem um tempo sem gravar,
+mas é um podcast legal pra caramba, lá,
+sobre assuntos diversos.
+É um podcast...
+é do pessoal,
+se não me engano,
+eu sou um estudante de...
+na área de comunicação.
+É bem interessante o podcast lá.
+E o outro podcast que eu queria falar aqui
+é do microfonia, cara.
+É o podcast que tá me dando um ódio também,
+grande.
+É esse gráfico microfone ruim, Goiânia?
+Não, os cara...
+os cara é do Cifra Club.
+Então assim,
+o som do cara sou perfeito desde o início.
+Nossa, que foda, hein?
+Não vai me dizer que você tá com o ódio deles,
+que eles estão colocando de oiça atriânea.
+Pior, cara.
+Eles colocaram simple red,
+colocaram um monte de coisas.
+Eu tô tendo que gastar as balas,
+porque às vezes, por exemplo,
+o podcast teria o que eu não participei.
+Algumas músicas...
+eu deixei pro próximo que eu participei.
+E assim, os caras, todos eram as músicas
+que eu acho massa também, cara.
+Isso não era boa pra caramba dele.
+Não só assunto aqui.
+Pra quem é musica, é bom o assunto também, né?
+Quem gosta de musica, quem é musica,
+eu recomendo aí o microfonia.
+Querendo ou não, a gente...
+Claro que a gente vai colocar,
+vai, tipo, meio que ligar o fôtes
+e colocar nas nossas coisas também.
+A gente só tá querendo deixar claro
+que não estamos copiando de ninguém,
+tá fazendo isso, né?
+São muito mais mesmo.
+É, o chefe de inspiração também.
+É.
+Pra leitura de meios de verdade,
+a gente recebeu em meio...
+a gente tá recebendo bastante de meios
+pessoal reclamando da duração
+e da qualidade do som.
+Aí nós temos a resposta para ambas as questões.
+Qualidade do som, eu vou deixar pro Nelson,
+que ele sabe ficar melhor se eu parar a fernade,
+que ele comprou aqui, que eu tô segurando.
+Eu não sei o que que é direito,
+só sei que eu tô parecendo falso,
+tão segurando um microfone aqui, grande.
+Qual que é o relógio na mão direita também.
+Explica aí.
+O louco, meu.
+Não, a gente comprou um equipamento
+maneiro aqui pro tribo do CI,
+a gente tem um microfone sem profissional,
+mas, tipo...
+e...
+a gente tem um pré-amplificador também,
+que te vai melhorar
+consideravelmente a qualidade
+de som do nosso podcast aí.
+Espero que vocês gostem.
+A gente é legal.
+E sobre a duração,
+eu até conversando com o Joelys,
+que é o meu brother aí,
+sobre a duração do podcast,
+porque você pode pegar.
+A gente baseia bastante o nosso podcast,
+no podcast do Nerdcast,
+também na época que a gente começou,
+as duas bases era o Nerdcast e o PathTake.
+E hoje a gente já escuta bastante
+o Bonacast, tal,
+falou sobre o Filhos da Pauta Livre,
+que você baixou e falou sobre o microfone também.
+Sim, você pode perceber que a característica
+desses podcasts,
+no caso, os que a gente pegou de base,
+são a duração.
+Geralmente, em torno de uma hora,
+uma hora e pouco.
+Por quê?
+Quando você vai assistir uma palestra,
+terminar da assunto,
+uma palestra, a duração dela
+é de uma hora à aula,
+que é 50 minutos.
+Então, sim,
+pra você falar de um assunto,
+um certo nível de detalhe,
+razoável,
+você precisa de ter um tempo, né?
+Tem que ter um tempo legal.
+Eu acho que 50 minutos
+é um tempo legal,
+visto que a gente tem que ler
+sobre os emails,
+falar sobre o podcast anterior,
+com feedback que a gente teve,
+tal.
+Então, sim, a gente tá reservando
+cerca de 10 minutos
+pra essa área de feedback.
+E uns 40 minutos,
+um pouco mais sobre o assunto
+em questão.
+A gente pede até a ajuda
+de vocês, assim,
+porque esse podcast agora
+a gente também tentou ser breve
+pra dar uma diminuída no tempo,
+mas, infelizmente,
+parece que vai ser bem
+um pouco maior, né?
+E, assim,
+dos assuntos específicos,
+a gente pede o feedback
+da galera,
+pra que daí a gente faz
+um podcast mais específico
+de cada assunto.
+Eu acho que a gente consegue
+das minhas horas,
+40 minutos.
+É, porque igual eu falei
+no podcast anterior, né?
+Eu falei, pessoal,
+mandar feedback,
+enquanto eles não mandam
+feedback, a gente vai fazendo
+a nossa maneira.
+É igual quando o cara tá na fila
+do banco, né?
+O cara vai lá e olha,
+pura na fila,
+faz um pouco,
+porque o cara foi na fila,
+não sei o que.
+Fica resmungando,
+vai lá, chega no cara.
+O que você já falou?
+Quer vergonha,
+vai pro final da fila.
+Sim, eu tô dando esse exemplo,
+mas tem vários outros exemplos.
+Se você chega,
+o cara tá conversando
+lá demais,
+faz um cara conversar
+lá demais.
+O que você não chega lá
+e pede pro cara
+pra ele conversar mais lá?
+Do mesmo modo,
+o cara não chega na gente,
+manda o endêvio,
+seja mais civilizado.
+E vai tá ajudando a gente
+e os outros ouvintes também.
+A questão da duração,
+no e-mail que recebeu da Mácia,
+que é aquela,
+gostou do conteúdo,
+é divertido,
+mas ela retomou um pouco
+da duração, né?
+Esse é o,
+como você,
+você mesmo falou
+no podcast anterior,
+eu não lembro qual foi,
+é que é o conceito
+da nova mídia, né?
+Então,
+é um conteúdo
+passado de uma forma mais leve,
+não tem aquela seriedade
+de uma palestra,
+tanto é que é uma conversa
+com as pessoas
+e tem a música de fundo
+e tá pra descontrair.
+E não é uma coisa
+que você tem,
+ou é uma palestra que você
+para ali pra assistir.
+Você pode ouvir o podcast
+quando você tá na fila do banco,
+quando você tá dirigindo seu caço,
+tá fazendo uma viagem,
+pô, vou ouvir aqui uns podcasts,
+você seleciona uns cinco,
+vai viajando, escutando.
+Sim, sim,
+você tá na academia,
+você põe,
+em vez de você escutar música,
+você escuta um podcast.
+Às vezes,
+quando você exerce
+alguma atividade
+e demanda tempo,
+porém,
+não existe, por exemplo,
+da leitura,
+você pode ouvir,
+porque,
+se eu ouvir um podcast,
+seria que você tá além,
+eu tô fazendo alguma coisa do tipo,
+que é geralmente trapada.
+É, eu trabalho ouvindo podcasts.
+Fala os podcasts
+quando eu não tô codificando.
+E se eu codificar,
+eu não consigo prestar atenção
+no podcast, não.
+Se você não tiver ouvido o podcast,
+eu não consigo prestar atenção
+na programação.
+Nossa!
+Você é viciado no podcast, mesmo.
+O nosso email é
+www.tribudusei.com
+e www.podcastarobudusei.net
+O cliente,
+você pode mandar
+email pros dois,
+a gente olha os dois,
+mas o do Gmail
+é pra você enviar
+aquelas emails por voz,
+aquelas coisas tudo lá,
+que, se você usar o serviço
+do Google,
+fica mais fácil.
+Também, tem o grupo do Google,
+aquelas coisas tudo lá.
+Essas coisas do Gmail,
+sabe o que é?
+Então, galera,
+manda seus feedbacks
+dos assuntos que
+vocês são mais interessados,
+né?
+Só reforçam.
+É, porque a gente gravar
+podcast mais específico,
+podcast aí,
+com a participação
+da nossa amigão.
+Conheci ele hoje,
+mas é amigão,
+um Marcelo.
+Reuri.
+Pois é, Marcelo Reuri.
+Então, chama aí.
+Vamos para a segunda parte.
+Então, a segunda parte,
+foda-me.
+Foda-me.
+Foda-me.
+Foda-me.
+Então, passando o Marcelo
+Feoria,
+foi quando a gente foi para o FIS,
+né?
+Encontrei com ele lá.
+Daí, eu vou assistir a palestra
+dele sobre o CIPROJ,
+que a gente vai falar no outro
+podcast no mês que vem.
+E daí,
+como a gente estava programado
+para falar sobre redes
+esse mês,
+eu convidei ele como o
+projeto dele
+sobre redes,
+também.
+Então, para ele participar
+desse podcast de redes
+e pegar um adeixo
+de falar sobre o projeto
+dele também,
+que é uma forma de enriquecer
+o nosso podcast
+e de publicar o projeto dele
+também.
+E vocês não vão saber agora
+nesse podcast
+sobre o projeto dele.
+Vocês vão ter que esperar
+até o mês que vem
+para saber.
+Mas ele vai ajudar bastante
+no conteúdo
+desse podcast
+sobre redes.
+Assim,
+qual que é o background
+de cada um, assim,
+com relação a redes?
+Sim.
+Sem esquecer
+que o Marcelo
+é mais uma vez
+o nosso convidado
+VIP
+no podcast.
+Vamos agora
+fazer aquela pergunta
+que a gente fez um a outro
+no podcast
+1,
+que é
+como foi sua iniciação
+no mundo
+da computação
+e
+já aproveitando
+para você falar
+sobre o seu background
+de redes também.
+Desde muito pequeno,
+eu já tenho contato
+com o computador,
+e nisso comecei
+a mexer
+com
+jogar,
+né,
+marcar o combate,
+no DOS,
+com o Prince of Persia
+e tudo aí vai.
+A questão é
+é
+noventa e eu comecei
+a programar um pouquinho
+dela,
+um pouquinho em aspo,
+porque meu pai
+é desenvolvedor
+nessas linguagens
+e eu achava legal.
+E aí, em 2000,
+eu comecei a trabalhar
+como
+como administrador
+de redes Linux
+e
+trabalhei quatro anos
+com meu pai,
+depois trabalhei
+em um provedor,
+de redes,
+pressava consultoria,
+e em 2006
+eu comecei a trabalhar
+no nada de desenvolvimento
+em Java e PHP.
+E aí, agora,
+esse ano,
+eu retomei
+a parte de
+consultoria
+em redes,
+segurança
+pela empresa.
+É sinal.
+Cara, é foda, né?
+Você vai ficar certo.
+Às vezes,
+eu queria te convidar,
+o cara,
+você acha que o tribo de C
+já é
+aquela coisa, né?
+Não, cara.
+Primeiro, eu pergunto,
+você programou em C?
+Cara, é só por diversão.
+Mas programa, né?
+Programa, mas...
+Então, pode continuar
+gravar o podcast?
+Tá, tem sim caixa
+nos caras que a gente considera, né?
+É.
+O que a gente só considera
+é quem programa em C.
+Se você não programar em C,
+já pode desligar,
+pode ir embora.
+Omente, né?
+A gente acredita.
+Como eu já falei,
+até no episódio 1,
+mas preciso ouvir não.
+Eu formei
+em redes
+no custo técnico de redes,
+com êfase...
+no custo técnico de informática,
+com êfase em rede,
+comunicação.
+E eu trabalhei,
+na época,
+na Universidade Federal
+do Tolkien Kings,
+como administrador...
+Na verdade,
+eu era encarregador de informática,
+né?
+Acabei trabalhando muito
+com a administração de redes
+e as paradas, assim.
+Foi quando eu tive o maior contato
+com o Lênus
+e a administração de redes.
+Eu vi um contador
+na minha vida,
+mais ou menos,
+quando eu tinha 6 anos de idade,
+na final, você já sabe,
+não quer, né?
+E minha formação
+é só
+que eu tenho
+preparado da faculdade mesmo.
+E...
+eu entendo de redes
+usando o jeito que vocês entendem
+de mecânicas desfacionáveis.
+Então,
+acho que
+já dá pra...
+se tem uma noção
+do meu conhecimento de redes.
+Até pra acertar um IP,
+às vezes,
+eu tenho dificuldade,
+não mentira.
+Cara,
+eu sempre tenho que consultar
+o homem
+e eu vou fazer aí,
+ficou fico.
+Cara,
+eu podia ser monitorador
+do...
+do clio, né?
+A ver,
+pra que um mando do clio.
+Eu sabia como é que funciona,
+e retinha e tal.
+Quais as opções
+que eu digito no clio.
+Então,
+eu volto no podcast.
+Finalmente,
+no podcast.
+Na verdade,
+esse podcast
+não seria nem
+de rede de computadores,
+seria mais
+na parte de segurança de redes.
+Aqui é uma rede de computadores.
+Leoria,
+pode falar isso
+melhor pra gente.
+Contei essa história
+com 5 minutos.
+É com vocês que eu...
+Contei essa história
+com não ser historiador,
+não, mano.
+Contei essa história
+com 5 minutos.
+Tempo!
+Então,
+como eu sou lá com a Arplanete,
+e tal,
+mas enfim,
+rede de computadores
+é o que...
+é fazer um computador
+se comunique
+com o outro, não é?
+E é isso.
+Tem várias maneiras de fazer isso.
+Tem vários protocolos,
+vários RFCs,
+que são os padrões
+dos protocolos
+que descrevem os protocolos,
+e...
+e vários serviços
+que implementam os protocolos.
+E no final das contas,
+são vários protocolos,
+vários serviços,
+vários computadores
+que conversam entre si.
+Ah, agradeço.
+De redes,
+até que
+não entendo muito sim,
+mas a história da internet,
+eu...
+eu sei bastante, sim,
+um nível legal,
+mas...
+é...
+eu queria saber assim,
+pela...
+a história da internet,
+a internet é a rede, né?
+E...
+a história da internet
+é a história
+da rede de computadores,
+porque assim,
+você vê lá o cara que
+ela foi surgindo na guerra e tal,
+foi usada...
+começou a ser usada
+nas universidades,
+depois passou
+para o mundo comercial e tal.
+E a rede de computadores já surgiu
+desse mesmo...
+foi com essa mesma linha de tempo,
+ou tem alguma história aí
+que...
+que tá à parte da internet?
+Eu acho que tem um...
+um período anterior
+bem...
+interessante.
+Eu acho que,
+é... quando a gente vai estudar redes,
+a primeira coisa que a gente tuda
+são as topologias de redes.
+Saca que topologias de redes.
+É, só voltando um pouquinho a...
+a história, né?
+Uma...
+uma parte underground que teve,
+foram as BBS.
+Infelizmente,
+eu não vivi isso
+para ter a minha BBS,
+para as pessoas conectarem.
+E eu compartilhar
+com a informação, né?
+Mas,
+é uma história que a galera mais antiga
+comenta muito
+e fala que era muito divertido e tudo mais.
+É, com relação...
+as topologias de redes
+vai muito de acordo
+com a necessidade da empresa,
+com a necessidade sua, né?
+Então, tem topologia estreia,
+lá, né?
+O barra.
+Então,
+a questão é você conseguir posicionar
+os roteadores, o suite,
+os firewalls, né?
+De acordo com a sua necessidade.
+De acordo com a sua demanda.
+Para entender o seu negócio.
+É, sim, para entender melhor.
+Eu estou aqui com o meu computador.
+Por exemplo,
+a rede em si,
+ela seria a comunicação, né?
+O princípio básico da rede.
+E se eu tomo um...
+independente de qual seja o cliente
+e qual seja o protocolo de comunicação.
+Se eu tomo um...
+um dashboard,
+um serviço de mensagem instantâneo.
+Quais são as etapas?
+Por onde faz?
+Eu estou falando isso porque...
+não sei se vocês já assistiram,
+eu tenho aquele vídeozinho lá do guerreiro
+da internet.
+Vocês já viram
+que eles mostram os protocolos,
+os pacotes e tal.
+Todo o decorrer da informação
+ao longo da internet.
+Então,
+vai estar no link do post também,
+se eu conseguir achar no YouTube.
+A partir do momento que eu clico aqui,
+o enter,
+que o meu texto vai sair daqui
+da minha área de texto,
+vai ir para outra pessoa.
+Quais são as...
+por onde que ele passa?
+Quais são os aparelhos?
+Quais são os serviços?
+Então esse trajetório
+para sair do meu computador
+e chegar no computador da outra pessoa,
+lá do outro lado do mundo, sei lá.
+É, no caso,
+para comunicar com outra pessoa,
+você vai estar comunicando utilizando um serviço.
+Você vai estar usando um cliente,
+que implementa um protocolo.
+E essa outra pessoa,
+ela vai estar acessando
+o mesmo serviço que você,
+mas pode usar um outro cliente,
+por exemplo, o MSN.
+Apesar de ser um protocolo propietário,
+tem vários clientes.
+Então, a pessoa pode estar no MIBO,
+no próprio cliente da Microsoft,
+Pigeon, Gaim, etc.
+Mas isso funciona por quê?
+Porque existe o protocolo.
+E aí, esses caras implementam o protocolo.
+Então, basicamente,
+toda essa conversação
+se dá certo por causa desse padrão,
+por causa desse protocolo.
+E nesse caso,
+do instant message,
+é um protocolo em cima de um protocolo.
+Por exemplo, o protocolo de rede
+seria o TCP e P
+e os próprios clientes,
+o instant message,
+eles têm os próprios protocolos
+de comunicação deles.
+Então, seria um protocolo
+em cima de outro protocolo.
+Exatamente isso.
+Então, você tem um modelo OS
+que tem sete camadas,
+começa pela camada de aplicação
+e vai ter a camada física,
+que é realmente
+onde vai o fudado.
+E aí, esse protocolo,
+esse modelo,
+ele é abstraído
+pelo modelo TCP e P
+que já são quatro camadas
+e que é o modelo da internet.
+Que é o padrão da internet.
+É abstraído porque
+a parte de enlace
+e a parte física,
+você nem sempre vai estar compartilhando
+com uma outra pessoa
+que está no outro mundo.
+Por isso que existe o modelo TCP e P
+que vai ter a camada de rede.
+E aí, como o Sebastião disse,
+tem a implementação do serviço,
+que são os protocolos
+que rodam em cima dessas outras camadas.
+Então, o pacote sai da sua máquina,
+vai para o seu roteador,
+ou para o seu switch,
+o seu switch para o seu roteador,
+para o seu roteador para o roteador da telecom
+e aí vai passando pelos ropes,
+que a gente fala.
+Então, o pacote,
+ele sai da sua máquina,
+a cada rope,
+a cada nova máquina,
+novo equipamento, roteador, switch,
+que ele passa,
+e isso pode ser observado
+com o traceroute.
+Então,
+o pacote vai para lá
+e ele volta para cá.
+E aí, como o Sebastião disse,
+tem várias outras,
+basicamente,
+implementação de protocolo
+em cima de implementação de protocolo,
+que vai abstraindo os outros protocolos.
+Porque a internet, basicamente,
+são vários computadores interligados,
+tem um servidor que genencia aquilo.
+Por exemplo, você pode montar
+uma parte,
+fazer um site de rodada
+só dentro da sua casa, por exemplo.
+Você tem vários computadores na sua casa
+e aí você monta um site no seu computador.
+Aí, o seu computador vai funcionar
+como servidor. Então,
+através daquela rede interna ali,
+alguém vai acessar
+o IP do seu computador
+com o endereço do site.
+Ele vai
+sair um cabo de rede,
+vai para o roteador
+e depois
+o roteador vai identificar
+o que ele está chamando
+uma requisição do meu computador.
+Vai lá pedir, o servidor vai processar.
+Então, ele devolve uma página HTML
+e ele é mostrado no meu computador.
+Então, assim, tem um certo
+trajetório aí. É fácil de imaginar
+esse IP numa rede local.
+Você vê seu computador estar ali do outro lado,
+você viu que ele passou ali
+de uma comunicação, basicamente, entre um computador
+e outro. Dúvida que sempre ele tem é o seguinte,
+porque você acessa o site
+e pode acessar um site
+em qualquer lugar do mundo.
+Mas aí, você paga para um empresa,
+geralmente um empresa de seu país.
+Eu pago, sei lá, a
+Brasilecom ou a
+Net, sei lá,
+para ter internet em casa. Eu pago uma mensalidade
+e eles fornecem internet
+para mim. E aí, eu conecto
+em alguma coisa que é deles
+para acessar o site, sendo que
+eu poderia
+simplesmente conectar um cabo e esse cabo ir
+para algum lugar, conectar
+várias conexões de cabos, que seria
+como se fosse a rede interna
+lá de casa, só que ali a ser por mundo inteiro.
+Com a respeito da história da internet
+ficou uma ponta solta aí, mas
+tem o netcast falando da
+história da internet, que a gente pode colocar o link
+no post para a gente não fazer conteúdo
+repetido, redundante. Tem também
+várias podcasts do
+Guanabara.info
+que fala a respeito para o potencial
+e pode colocar o link também.
+Uma coisa que eu não ouvi falar
+nesse podcast é sobre a
+citopologia de rede que a gente acabou falando,
+que
+e o trunfo de como funciona
+o IP, que foi, quer dizer,
+o protocolo da CPIP.
+No caso da citopologia de rede
+que o Marcelo até chegou a comentar,
+antes eles usavam
+como não era o RJ45,
+é um cabo coaxial.
+E nessa citopologia de rede
+a gente tinha um problema, por exemplo, no caso do anel
+e do barra,
+é que para uma informação
+por exemplo, eu tenho um computador A, B e C.
+A citopologia de anel ainda é usada em redes
+FTDI, né,
+fibra óptica,
+para distribuir carga e tudo mais.
+A questão é que
+plasticizar, como o Sheldon disse
+o simples fato de você acessar uma página
+na internet
+já envolve vários modelos
+e vários protocolos
+e todos os protocolos têm que funcionar
+harmonicamente.
+Quer dizer, você digitou lá
+www.cellside.com.br
+Quando você
+vai envolver
+o protocolo ARC
+acho que primeiro envolve o ARC
+que se você não tiver
+uma tabela ARC identificando quem é
+o seu roteador e tudo mais
+e aí envolve o protocolo DNS
+para traduzir aquele nome no IP
+e você vê aí que já envolve
+não só o protocolo HPP
+mas o protocolo DNS,
+tabela ARC, então
+é isso, acho que funciona tudo meio harmônico.
+E como funciona? Eu ditei ali o nome do site
+e eu coloquei enter. A partir daí
+que ele vai para o roteador, mas como que
+ele vai saber? Porque o site, na verdade, o nome
+do site, isso não é usado
+para identificar o site.
+Tem um IP do site, assim como tem um IP
+do seu computador, o site também tem um IP dele.
+Qual que seria o caminho
+para ele sair dali?
+O que que o provedor de internet tem a ver
+com servir internet?
+Sendo que internet é uma rede de computadores
+por que tem que ter um empresa
+para servir internet
+para mim? Sendo que seria
+no caso eu ligar no computador do vizinho
+e ligar no computador e fazer
+a ideia básica seria essa.
+Por que que eu preciso de uma empresa?
+Como que funciona? Na partir do momento que
+o dito tem um site,
+ele saiu do meu computador,
+para onde que ele vai,
+o que que vai acontecer até
+ir à informação e voltar
+a página HTML por mim. O que acontece
+nesse meio? Posso voltar lá no raciocínio
+da topologia de rede? Que é topologia de rede?
+É porque, como eu estava falando,
+nessas topologias
+de anel e barra que
+antigamente se usava até no cabo Quaxal
+eu tinha um problema
+de voltar no exemplo lá
+para eu ter um computador ABC
+e eu quero mandar
+eles estão ligados em barra no caso
+e era até assim
+eu tinha um
+o conector, ele era conector do tipo T
+porque ele é como se fosse
+é, porque eu conecto
+na placa de rede, tenho duas saídas
+eu ligo o cabo Quaxal
+em uma ponta e na outra
+e ligo no outro computador
+então, por exemplo, se eu tenho
+dois computadores assim, ABC
+eu vou mandar
+uma informação do computador A
+para o computador C
+eu preciso do computador B
+está ligado, é como se fosse
+ponta a ponta, então ele passa pelo computador A
+passa pelo B e passa pelo C
+se um desses pontos
+da rede cair, eu perco para rede
+no caso da topologia de estrela
+é que eu tenho isso
+de centralizado
+que também foi um grande trunfo do
+protocolo TCP e P
+e no protocolo TCP e P
+cada máquina
+é um cliente e um servidor
+então, quando eu mando um pacote
+usando protocolo TCP e P
+que ele passa pelo meu switch
+lá de repente
+todas as máquinas recebem aquele pacote
+mas na camada
+ele já dropa o pacote
+por exemplo, ele vê o pacote
+é, esse pacote não é para essa máquina?
+não, então ele já dropa o pacote
+por isso que eu consigo funcionar os SNIFFER
+porque ele não
+deixa eu dropar esses pacotes que não vê pra ele
+e agora a gente pode entrar
+na parte do TCP e P
+que é como está hoje
+eu já nasci na era Ethernet
+então o conhecimento que eu tenho
+referente a cabo coaxial e tudo mais
+até hoje, agora
+como o Sebastian disse
+com o modelo TCP e P, com a vinda do switch
+com a vinda da utilização
+da tabela A, você
+manda um pacote para o seu switch
+ele vai ser
+aquele pacote através do MAC address
+ele vai ser dedicionado
+a máquina que tem aquele MAC address
+e não ser
+distribuído para todos os computadores
+como era antigamente com a utilização de hub
+e aí é onde o Sebastian falou
+que são dos SNIFFERS
+um SNIFFER é uma aplicação que vai estar monitorando
+o tráfico na rede, antigamente
+você poderia SNIFFAR uma rede
+simplesmente deixando a sua placa de rede
+em modo promisco e dessa forma
+você poderia receber todos os pacotes da rede
+você iria analisar todos os pacotes da rede
+caso fosse um hub
+hoje isso é feito
+não da mesma maneira
+mas a gente continua podendo
+infectar a tabela ARP
+do nosso switch
+e de modo
+a tabela ARP da rede
+porque a tabela ARP é compartilhada entre os computadores
+que estão no switch
+e de modo que aquele pacote
+vai ser entregue para a gente também
+então você cona o MAC address
+do seu roteador
+e aí o switch vai entregar aquele pacote
+não só para o roteador
+mas para a sua máquina também
+então você continua podendo SNIFFAR
+o que é o MAC address?
+o MAC address é um número
+que identifica o fabricante
+da sua placa de rede
+informações sobre as plas de rede
+acho que os três primeiros
+as três primeiros campos
+são referentes à fabricação
+são os três primeiros
+mas tem essa parte lá
+e os outros
+é que só a sua placa de rede tem
+então por isso que às vezes
+algumas redes corporativas sem problema
+porque as placas de rede são conadas
+fisicamente e tem o mesmo MAC address
+e assim é normal
+você chegar numa rede
+e aparecer
+duas placas de rede que tem o mesmo MAC address
+e que isso não foi feito propositalmente
+mas sim, já a nível de hardware
+mas aí tem como você pegar
+por exemplo, se um cara clonar
+são MAC address, hoje já é possível
+tem como? porque apesar
+do MAC address ser o regiço físico
+da placa de rede, quando ele vai trafegar
+ele vai
+de maneira virtual
+ele não vai fisicamente
+então você pode
+envenenar a tabela rápido
+da rede e transtrafegar
+o pacote por aquele MAC address
+estou tendo
+muito lindo
+o esquema do MAC address
+teoricamente
+teria que ser
+um número
+único que identificasse aquele hardware
+único no mundo inteiro
+só que acontece
+que o pessoal compra uma placa de singulings
+e elas vêm com o mesmo MAC address
+então às vezes um problema
+de rede é porque
+o cara não consegue descobrir
+o que está dando problema na rede
+na placa você tem o mesmo MAC
+e para descobrir isso
+é bem complicado
+no episódio anterior
+no episódio anterior
+o pessoal esqueceu
+de comentar que o
+o Jojo reclamou que eu não
+falo mais um pouco não
+mas especialmente para ele eu estou
+falando ou não
+tabela AR
+é onde fica gravado
+os MAC address dos computadores
+estão naquela rede física
+então
+o MAC address como o Sebastião disse
+é o número único da placa de rede
+e essa tabela pode ser envenenada
+você pode falar que um determinado IP
+tem o mesmo MAC address do roteador
+o que acontece
+e que tem como muitas vezes fazer
+é você vincular
+a porta internet do seu suíte
+a um IP
+dessa maneira
+você vai estar se resguardando
+de um envenenamento para tabela
+mas isso não é muito feito
+o esquema do clone do MAC address
+às vezes inclusive é necessário
+para alguns roteados
+moderns
+de internet eles não funcionam
+é preciso clonar o MAC address
+do seu roteado arias
+para poder funcionar
+para fazer o esquema que o Marcelo
+falou eu preciso ter um suíte gerenciável
+e a maioria do suíte
+é quase que um hub
+nem todos
+é só muda o nome mesmo
+mas o suíte seria o suíte
+a minha dúvida ainda não foi
+esperecida mas eu vou
+depois eu pergunto de novo
+agora eu fico com outro dúvida
+qual é a diferença entre hub e suíte?
+o hub ele repassa
+chega a informação para ele
+e ele replica aquela informação
+de internet
+então aquele pacote
+vai chegar para todo mundo
+o suíte ele entrega
+para
+internet que tem aquele MAC address
+isso é feito através de um protocolo
+é o LLC
+você tem
+a montagem da tabela
+falando do padrão Ethernet
+o que a gente usa
+que é aquele cabo
+RJ45
+para o padrão Ethernet
+ele tem por exemplo
+se eu for usar
+uma rede de 10 barras
+10 barras 10
+de 10 megabytes
+eu só utilizo
+4
+o cabo par transado
+são 8 fiozinhos
+se eu estiver usando uma rede de 10 megabytes
+eu só utilizo 4 fiozinhos
+se eu estiver usando uma 10 barras 100
+eu utilizo 6
+se eu estiver usando uma
+10 barras 100
+aí sim que vai ser necessário
+eu utilizar os 8 fios
+porque quando eu faço um cabo cross over
+se eu vou utilizar uma rede de 10 barras 100
+eu não preciso nem
+tem 4 cabis lá que eu não preciso nem me preocupar
+se eu for usar uma 1 gigabyte
+eu só tenho que verter esses cabos
+porque assim
+no padrão
+eu tenho
+se for uma gigabyte
+4 cabos que enviam
+4 cabos que recebem
+quando eu faço um cabo cross over
+ele tem que estar investido
+seria legal se pudesse ver o gesto que eu estou fazendo
+ele tem que ser investido
+e é uma formação
+mas é porque
+eu tenho os canais que são os tx
+e os rx
+tx que são de transmissão
+e os rx que não se vê
+por isso que eu tenho esses cabos investidos
+porque um tx
+que é um cabo cross over
+o meu tx
+vai ligar com o rx
+e da outra interface
+só sei que minha dúvida vai ficando atrás
+quero saber todos os caminhos
+de uma informação dudo
+o que a gente está falando é para preparar
+para responder essa pergunta do show
+e se simplificar isso a questão é
+tem um protocolo A
+você pluga primeiro e tem que ter um cab de edge
+ou está conectado numa rede sem fio
+e aí se tiver um switch
+você vai saber qual são o macadras
+e através disso os pacotes vão chegar até você
+e você vai mandar pacotes
+você vai saber o macadras do roteador
+você vai enviar pacotes
+para o roteador
+chega o pacote do roteador
+o roteador vai enviar para o roteador dele
+que é o nash hope dele
+e esse pacote vai se propagando
+para o modem, para o seu modem
+vai para o roteador do telecom
+do roteador do telecom para o roteador
+e assim sucessivamente
+a pergunta é por que existe as empresas
+as empresas existem
+justamente para você conseguir
+interligar todas essas redes
+domésticas e essas redes
+empresariais
+e é um conceito importante que eu queria chegar
+que é o conceito de gateway
+o gateway basicamente
+a definição dele é para
+um gateway serve
+para interligar outras redes
+seja ela interno ou externo
+no caso do
+provedor da internet presa para o provedor
+que eu contratei o serviço
+ela é meu gateway para o mundo
+e isso é exatamente isso aí
+a sua telecom, o seu provedor, não o seu provedor
+no brasil os provedores
+só fazem a parte de autenticação
+e basicamente o provedor
+tem uma interligação com o telecom
+que é brasil do lecom e brato
+é o que seja, que repassa
+e ele repassa o seu pacote
+para o telecom
+quer dizer, no final das contas
+você não precisaria dos provedores
+porque eles basicamente
+só servem para autenticar
+se você montar uma empresa que não vende internet
+o que você vai fazer?
+para vender internet você precisaria
+ter link
+link grande
+você precisaria ser uma S
+que é um sistema autônomo
+que nesse caso você iria compartilhar
+a tabela de uteamento com outras AS
+e isso aí é interessante
+porque isso é feito
+para o protocolo BGP
+e isso é interessante porque você vai estar
+compartilhando tabela de uteamento
+com o mundo inteiro
+basicamente é isso
+você precisa ter banda
+você precisa ter vínculo com a telecom
+para ser uma S
+nem sempre você precisa ser uma S na verdade
+mas você precisa ter vínculo
+pelo menos para fazer autenticação
+que aí normalmente é feita via protocolo
+radius
+no caso para você ter
+tem duas opções
+pode ser um getter
+fazer uma sub rede a partir da tua rede
+no caso se você está se fazer uma conexão
+com o roxo não conseguiria
+porque ele iria conectar a tua empresa
+ou então pegar um range de
+IP
+para cada pessoa que se conectar
+ela recebeu um IP
+eu lembro até na época da internet
+de escada que eu montei um servidor
+com HTTP
+na época eu estava fazendo frio
+no Japão e ele fez uma conexão
+direta com minha máquina e HTTP
+eu montei o servidor
+e ele acessou a página
+que eu tinha hospedado na minha marca
+o que acontece muito que a gente não consegue fazer isso hoje
+é porque essas empresas
+bloqueia algumas portas ventrantes
+no caso do protocolo HTTP
+a porta padrão é 80
+então geralmente
+a sua telecom
+ela vai
+bloquear a porta 80
+para evitar usos empresariais
+da internet
+então o cara vai tentar conectar na sua porta 80
+e vai estar bloqueado lá
+pode desbloquear
+o mais fácil é só hospedar em outra porta
+é isso aí a questão do sabachão
+passei por um processo
+interessante, trabalhava numa empresa
+eu comecei a trabalhar com meu pai
+e a gente recebia
+ligação
+dos clientes
+então a gente tinha moldeis externos
+de 56k
+e tinha um link com a Embratel
+eu não sei quantos k, e tinha alguns
+e tinha um servidor
+dial-up que ficava recebendo
+essas ligações
+os clientes conectavam na nossa
+infraestrutura via
+conexão dial-up
+a gente tinha alguns IPs fixos
+com a Embratel
+mas tudo isso para o cara
+acessar
+a nossa infraestrutura
+como a gente não queria expor esse servidor
+na internet
+a gente usava esse artifício
+da conexão dial-up
+era interessante essa época
+na época da era discada
+que por exemplo, o joguinho como o eji
+foi em paz você conseguia fazer a conexão
+direto via modem, modem é modem
+é ao invés de digital
+o IP do rapaz
+do jovem
+que estava do outro lado querendo jogar
+a sexta-feira no nosso caso
+de manhã gravando podcast
+o cara digitava o número de telefone
+do maluco
+então fazer a conexão modem é modem
+e não travava um jogo
+ah, quem?
+vai para o vídeo de história
+cheio de cem
+o último caramba
+internet studio elevador
+por que vocês explicassem
+a diferença no caso entre HPP e STP
+que eu acho que
+o HPP é o
+high-press
+transporte protocolo
+e o FTP
+a diferença básica
+eu não sei
+e o app é o address resolution
+o HPTP foi criado para você
+compartilhar a informação
+via html
+ou html
+hoje tem flash
+mas compartilhar a informação
+e não transferência de arquivos
+foi criado com um tuto
+somente de transferência de arquivos binários
+de transferência de arquivos
+realmente
+então por isso que existe o FTP
+hoje já existe o SFTP
+que é o FTP
+em cima de SSL
+então
+por que isso? porque
+antigamente teria como você
+começar a
+monitorar uma transação FTP
+do início ao fim
+aquele arquivo binário
+aquela imagem
+seja o que for
+inclusive tem um projeto muito legal
+para fazer forenze
+na parte network
+que chama explico
+então esse cara fica esnifando a rede
+você faz uma posição e ele vai
+estar monitorando, vai estar capturando os pacotes
+e aí ele remonta todos os arquivos da rede
+então você está vendo um vídeo, ele remonta o vídeo
+você está vendo uma imagem, ele remonta a imagem
+um arquivo Zipada, ele remonta o arquivo Zipada
+e isso é algo bem legal
+ou não
+isso não é preso
+o cara deve ser muito engraçado
+o cara pede o arquivo que eu baixei na internet
+não tem um pkp
+mas hoje
+por exemplo
+se você editar um arquivo pdf
+p3, você coloca no seu servidor
+do seu site lá, se você
+joga um link do arquivo
+vai estar lá gattp, o nome do site
+barraarchivos, barraarchivo.pdf
+por exemplo
+você consegue baixar o arquivo
+então acho que foge
+do conceito da diferença de gattp ftp
+você está certo
+o servidor da ftp você pode enviar
+arquivos também
+por um protocolo gattp
+se você não tiver uma aplicação
+que usa uma linguagem de serviçagem
+a princípio você não consegue enviar arquivos
+somente pelo protocolo
+agora com protocolo ftp você pode
+enviar e receber arquivos
+a questão
+é a finalidade do protocolo
+protocolo gattp você pode estudar
+a finalidade dele no início foi essa
+não foi
+por isso que existe o ftp
+o ftp e o gattp se só são os seguros
+não
+por isso que existe gattp s, ftp, s, ftp
+são finalidades distintas
+é a mesma coisa só que diferente
+lembrei do
+professor sanderley e ele falava isso
+é a mesma coisa só que diferente
+é a mesma coisa
+não posso fazer
+eslipar até ssl
+não sei se isso é isso, mas são notícias
+bombasques
+mas se o
+computador que está em difano
+ele
+pega desde o handshake
+e você está monitorando
+então ele consegue ver
+todo o que está acontecendo
+e existe o tunnelamento
+no ssl
+ele também pode ter pego desde
+o início da negociação
+mesmo esse sendo protocolo tão seguro
+está certo você baixar o mesmo ssl
+é fácil de ser monitorado
+e aí como você disse
+se você capturar o handshake ssl
+você pode fechar um canal
+criptografado entre você
+o servidor e entre você
+e a vítima
+então você vai
+ser criptografado com o servidor
+mas você vai decryptar o dado
+e vai fechar outra
+ponte criptografada
+com a vítima
+porém isso
+é possível de ser detectado
+com certificação digital
+então por isso que sempre que você
+vai acessar um site htps
+se o browser da
+aquele aviso
+fique ligado
+porque aquele site
+não está sendo certificado
+por uma autoridade
+certificadora
+o usuário tem que ficar atento pra não
+sofrer de ataque
+mesmo coisa o servidor ssh
+às vezes você está
+acontece muito você conecta no servidor
+você vai pra uma outra rede interna
+que tem o mesmo IP
+você conecta e ele vai reclamar
+possivelmente você está sofrendo um ataque
+porque o IP daquele
+a chave
+daquele IP
+é diferente da chave
+que você já tinha armazenada
+por isso que ele reclame
+e apagar a chave do
+ponte ssh do seu home
+quando você é de certificado
+você nem olha nada, você vai lá e manda
+aceitar e pronto
+nem se preocupa com as coisas
+mas já que a gente toca o nosso um dia ssl
+e de mem demira em cima de ssl
+é interessante falar de uma palestra que teve na Defcon
+ano passado
+e ssl strip
+então
+strip ssl
+primeiro ponte cache quando o deis
+então
+o que que o cara faz
+o cara
+ele manda todas as conexões
+e aí onde tiver os
+ele tira
+se você tiver ssl
+www.https.com.br
+www.seubanto.com.br
+ele vai
+ver essa requisição
+e antes de fechar o túnel criptografado
+ele tira o ssl
+se o usuário não ficar atento
+que tem um cadeadinho lá e tudo mais
+ele vai ser
+comprometido
+ele vai estar trafegando
+em texto puro
+simbolo desse ataque é um cabo de polidência
+assim né
+eu me perca a vez de ssl
+tudo tem que usar um
+filival
+então um firewall
+ele te protege
+existem vertentes de firewalls
+então assim um firewall de rede
+basicamente ele bloqueia
+conexões
+a nível de rede
+e de p de porta
+a arp
+para o acolho tcp para o acolho dp
+pode limitar tamanho de pacotes
+para fazer uma série de coisas
+a questão
+que é importante observar
+é que no firewall de rede
+a parte de aplicação dele
+um firewall de aplicação
+mesmo um firewall de aplicação
+ele pode ser bypassado
+como?
+você liberou
+para os seus funcionários acessarem a porta 80
+hptp então está liberado
+tem como o seu firewall
+se ele não for um firewall de aplicação decente
+ele não vai identificar
+que só trafega o protocolo hptp na porta 80
+então as vezes
+as pessoas vinculam muito o protocolo
+a porta
+mas a porta 80 pode ser usada
+para trafegar ssh
+para trafegar
+qualquer outra coisa que não seja hptp
+então um firewall
+ele tem que se preocupar com isso também
+ele tem que garantir que o que vai trafegar na porta 80
+seja realmente
+trato do hptp
+a questão é
+mesmo fazendo esses tratamentos
+tem como você vai passar isso
+com os convergenios
+que você vai
+tunelar uma conexão
+ssh
+em cima de um protocolo hptp
+então basicamente
+você
+um firewall só infelizmente
+não vai te proteger
+então se você não acredita nisso
+tem um artigo
+de um amigo
+é o Igor Parreira
+no clubos dos mercenados
+no clubos dos mercenados
+convergenio
+hptp em cima de ssh
+então é um total bacana
+que o cara faz trafegar hptp
+em cima do protocolo ssh
+que é o protocolo usado para ping
+eixo fico extra
+eixo fico reply
+então pensa
+que você pode trafegar hptp
+e qualquer outro protocolo
+a gente acha esse artigo e a gente põe no posto
+como que funciona o firewall
+em um minuto
+então é basicamente
+você tem várias portas
+que estão escutando seu computador
+e o firewall basicamente
+que ele faz
+quando ele simplesmente
+é assim, o serviço importa
+ele só não deixa que uma conexão
+seja feita
+nessa porta
+por exemplo
+na porta do tente que é o de casa da
+o padrão do protocolo hptp
+assim
+tem por exemplo
+até, eu falei por exemplo
+no caso do
+aí você me pergunta
+eu tenho, acho que a gente
+seria interessante a gente falar
+de só que a gente entender do que a gente está falando
+passou de um minuto mas pra falar
+tem aquelas palavras de tv4
+tv6 que elas pararam lá
+agora eu passo por mais
+o que é a socket?
+não, socket no contexto de rede
+é você
+colocar o seu computador
+pra escutar numa porta
+e quando você faz isso, você está bindando uma porta
+você está abrindo um socket
+isso quer dizer que
+outros computadores, se não tiver um bloqueio
+no caminho, vão poder comunicar
+com você através daquela porta
+vai
+por exemplo
+a gente testa, muitas vezes pra testar
+uma porta tctp
+ver se ela está aberta
+é comum a gente dar telnet na porta
+telnet, espaço roxo, espaço porta
+pode usar em cima da porta 80, em cima de qualquer porta
+a questão é, se você não
+utilizar os métodos
+que aquele serviço espera, que aquela porta está esperando
+então você usa um porta scan
+a questão é que, se você não usar
+os métodos
+daquele serviço, não tem sentido
+então por exemplo, você pode dar
+telnet num servidor de 100 ptp
+você pode autenticar nele, usando telnet
+você pode dar telnet num servidor
+de http
+você pode usar os métodos get, post
+pult delet
+pra trafegar a http
+o servidor vai entender
+mesmo você usando o telnet
+e não um browser
+e o IP
+para você
+poder de cintas
+eu estou longe aqui da rede
+então o protocolo
+tcp-p
+são dois protocolos
+não só, porque o tcp
+é o transverses counter apretagal
+status loose
+e o ip é o internet protocol
+mas uma coisa
+eu já falei uma coisa um milhão de vezes
+também
+porque a gente pode observar
+que o tcp é usado exclusivo
+no
+x11
+x11 é o ambiente gráfico do link
+um ponto puxado
+então
+ele usa o protocolo tcp
+o x11 que você está falando
+é do ambiente gráfico
+é exatamente
+pensei que era só um trocadil
+trocadalho do carinho
+acertei na cagada
+exclusivo?
+exclusivo não tem problema
+você consegue
+fazer facilmente
+sem nenhum malabarismo
+muito grande
+é você usar
+o servidor
+no caso
+o x11 usa uma plataforma
+acerte servidor
+você consegue usar o servidor x11
+de uma outra máquina
+facilmente
+inclusive em cima de ssh
+é interessante você deixar o seu x11
+exposto para o internet
+tem um lugar
+de um firewall
+é aquela história do portão gigante
+com a cerquinha viva de 30 centímetros
+e o x11
+é bem interessante
+é um exemplo clássico de comunicação
+e aquela parada
+do pv4
+pv6
+o que está acabando no mundo
+é porque
+o pv4
+ele tem
+4 octetos
+que vai de 0 a 255
+e tem
+são várias limitações no caso de
+número de endereço disponível
+porque
+para você
+é porque para você criar um IP
+ele tem as classes de IP
+que são class A, B, C, E, D
+e cada uma dessas
+class pega um range de IP
+diferente
+é uma
+na classe A
+o primeiro octet
+vou estar falando deste termo
+cada classe
+tem uma quantidade
+de octetos
+reservada para a rede
+e outra quantidade reservada para a root
+como seria isso, por exemplo
+é uma classe que eu utilize
+só o primeiro octet para a rede
+vai ser 10
+na rede 10.0.0.1
+o primeiro octet
+ele é para a rede
+eu posso ter uma rede
+que começa com 11
+do 10
+para a frente vai ser de root
+então posso ter
+de 0 a 255
+em cada um daqueles octetos
+de máquinas dentro daquela rede
+quando eu crio uma sub rede
+eu crio uma ramificação daquela rede
+eu preciso do geth
+que eu falei anteriormente
+para interligar essa rede
+dentro dessa sub rede
+eu posso ter mais um outro número
+de root
+no caso
+da internet
+essa quantidade
+de IP reservados
+já está acabando
+o IPv6 usa uma outra metodologia
+o IPv6 é quase um MAC address
+na época em 2004
+eu vi uma palestra
+falando sobre IPv6
+e lá a mulher palestrante
+falava que para acabar
+a quantidade de IP
+para esgotar a quantidade de IPv6
+eu precisaria ter
+uma rede de tamanho da internet
+cada roche que tem hoje na internet
+deu para acabar a quantidade
+do IPv6
+então a gente pode fazer até interligação interplanetária
+usando IPv6
+que vai sobrar
+sobrar IP
+isso é uma coisa que se torna
+bastante viável, por exemplo, ter os IPv6
+com dispositivos móveis
+até ser o mais capaz que pode ter um IP
+então como eu falei
+no começo do podcast que eu queria
+abrir uma empresa
+porque agora o IPv6 fica melhor
+porque eu posso vender internet
+não só para os terracos
+eu posso vender para os marcianos
+você já está reagindo
+você já está reagindo
+tem uma...
+nesse negócio de paro isso, ok?
+tem uma palavra que não sai da boca
+daqueles meninos empolgados com os meninos
+que é o tal do IPv6
+aí eu queria que vocês explicassem
+o que inconsiste o IPv6
+o IPv6
+antes do IPv6
+antes do IPv6
+o IPv6 é o epilógio
+foi chegar no IPv6
+vou deixar para o Marcelo
+inclusive usava um carinho de redir
+que fazia NAT
+com IPv6
+e o NAT fazia com redir
+porque IPv6 não tinha nada
+mas enfim
+só com relação ao IPv6
+o que o pessoal anda fazendo por aí
+é adquirindo IPv6
+e convertendo para IPv4
+para você ter interoperabilidade
+entre as duas redes
+tem até alguns projetos
+ou pensantes que fazem isso
+eu infelizmente não sei o nome
+mas quem quiser pode procurar
+saber isso dentro
+então, com relação ao IPT
+o IPT é um firewall estetico
+isso quer dizer que ele checa
+e rastreia
+os estados da conexão no firewall
+então
+uma conexão ela tem um estado
+de entrada, por exemplo
+nova conexão
+estabilizada ou relacionada
+por exemplo
+ou finalizada
+quer dizer
+um firewall estetico
+consegue
+monitorar os estados da conexão
+e trabalhar com esses estados
+então, por exemplo
+eu posso falar que eu quero liberar
+todo o tráfico para a porta 80
+de entrada
+tudo que tiver entrado no porta 80 liberado
+e tudo que tiver saindo
+e que for
+estado estabilizado ou relacionado
+vai aceitar também
+tá liberado
+e aí quer dizer, eu não vou precisar ficar
+criando
+para cada regra de entrada
+de tráfico uma regra de saída
+então
+essa é uma ideia legal
+de se trabalhar com estado
+outro exemplo
+eu vou falar que
+você não pode ter um pacote entrando
+que um estado new
+um novo pacote entrando
+um novo pacote entrando tcp
+sem
+sem ser sim
+porque no treeway handshake
+de tcp você tem um sim
+devolve um sim AC
+e responde um AC
+então quer dizer
+dá para fazer uma série de controles
+mais refinados com firewall estetico
+e o pt eu vou usar estético
+por isso ele é interessante
+ele realiza NAT
+que é você
+traduzir redes
+então você pode falar, você tem uma rede
+e isso, network address translation
+e aí você pode
+por exemplo, criar uma DMZ
+que você vai ter uma rede interna
+que vai estar sendo exposta para a internet
+é, zona desmilitarizada
+que você vai ter
+uma requisição
+da rede externa
+que vai ser redirecionado para o IP da sua DMZ
+e isso tudo está separado da sua rede interna
+então isso é importante
+por que?
+porque se você sofrer um ataque na DMZ
+vai estar só na DMZ
+a nível de firewall
+você vai estar fisicamente
+protegido do
+o que ele descreveu inclusive
+é o que
+chegou a ser o nome do firewall
+chamado de firewall
+é aquelas paredes que
+quando ele tivesse um incêndio
+no certo local
+ele evitava que
+se incêndio se alaste para outro
+como do prego, por exemplo
+só para a gente terminar com o IPTables
+o IPTables, essa ferramenta
+não tem
+o que seria de front end
+o IPTables em si ele não tem front end
+tem que instalar um outro software
+que seja o front end do IPTables
+inclusive
+o
+tem uma aplicação
+que é o cprojet
+nós vamos falar sobre ele
+que uma das funcionalidades do cprojet
+é ser front end para o IPTables
+e só existem outras
+front end
+agora com relação a IPTables
+eu queria só fazer mais uma observação
+que é com relação
+ele tem as três tabelas
+a filter
+que é passado por ele
+e também tem a tabela na arte
+que é de tradução de endereço
+e também tem a tabela
+que você pode manipular os pacotes
+você pode setar uma prioridade
+maior para um pacote
+marcar um pacote
+isso tudo para fazer redundância de serviço
+para criar um ambiente
+de alta disponibilidade
+coisa desse tipo
+outra coisa que é importante falar
+e que o IPTables deixa um pouco a desejar
+é a questão de
+file a nível de
+a camada de aplicação
+porque é aquilo que eu falei
+você libera a porta 80
+você realmente chega a ser aquele tráfico e HTTP
+né
+você consegue identificar
+se está toda fegando um orme e bloquear
+então o IPTables
+tem lá o seu módulo layer 7
+para você escalar
+mas não tem muitos padrões
+de mallers
+não tem muitos padrões
+e isso é ruim
+porque os files corporativos
+como checkpoints
+eles já têm isso
+já bem difundido
+então sai um novo orme
+que está destruindo tudo
+a galera já lança uma assinatura
+e já coloca no file a nível de aplicação
+e isso não é feito
+comunitariamente
+pela comunidade de IPTables
+não tem um repositório de assinaturas
+ou de aplicações de mallers
+tem muito pouco
+então isso é uma área que eu acho que ainda vai crescer muito
+ainda para a gente
+da comunidade a pensar
+você não conhece o ODE?
+o ODE são zero guias
+já ouvi falar em halter fire?
+halter fire ou é o fire o que você faz na arte?
+não sei
+porque assim, eu quando era jojo
+lá na minha juventude
+eu colecionava na revista Hacker
+e ela tinha um artigo especial
+que falava do halter fire
+porque é halter fire
+é o princípio básico
+já vi falar aquela frase que
+um computador seguro
+é um computador desligado
+então pois é
+no halter fire
+ele sobe o fire
+e desliga todos os outros serviços
+então
+se a pessoa for atacar
+aquela máquina
+ela não consegue porque
+qualquer outro serviço que poderia
+trazer alguma vulnerabilidade
+daquela máquina
+a vulnerabilidade é uma palavra do corpo
+qualquer uma vulnerabilidade
+ele não vai conseguir esforar porque eu só tenho
+o fire ligado
+a vulnerabilidade é atrapalhar a interoperabilidade
+que destrói as habilidades
+e a vulnerabilidade também
+um dos problemas que eu tenho a halter de fire
+é que eu não consigo perder nada no computador
+se eu precisar fazer alguma outra configuração
+eu tenho que reiniciar a máquina
+mas seria basicamente isso
+eu subo o fire e desligo tudo que até outro serviço
+é que eu estiver na máquina
+eu sou o fire e a pessoa não consegue
+explorar qualquer outra falha
+que estiver na máquina de outro serviço
+vamos para as perguntas rápidas
+vamos fazer duas perguntas e você tem
+um segundo para responder
+o que é um proxy?
+um proxy é uma aplicação que vai
+receber um tráfego de um determinado serviço
+e vai repassar
+essa informação, vai fazer algum tipo de tratamento
+seja de bloqueio
+qualquer tipo de tratamento
+e vai repassar para o destino
+tem proxy aqui da tp
+proxy
+sntp
+batch de proxy
+até proxy de torne
+é você interligar
+redes cada 100 segundos
+então tá, vpn
+você interliga redes privadas
+de modo que o tráfego
+que vai ser passado
+entre uma rede e outra
+vai ser criptografado
+então você pode ligar uma rede privada
+a outra rede privada
+e fazer com que essas
+redes se comuniquem
+com tráfego criptografado
+e isso seria uma rede vpn
+e isso sempre depende também
+para um usuário
+que seja a parte de chaves
+uma chave ficando servidor, outra para o usuário
+e aí o usuário
+conecta na sua rede
+e vai estar tratando tudo criptografado
+ele vai estar comunicando com a sua rede
+através de um canal segundo
+que vai estar criptografado
+na faculdade
+acho que eu nunca falei onde que é
+na igual, nem falar também
+falei que eu falei na episódio anterior
+e eu falei a faculdade errada
+
+falou a faculdade errada
+ou seja, a universo não é minha faculdade
+mas eu não vou falar também qual é
+mas tem como descobrir também
+por lá eles têm, se você
+editar um endereço que tiver a palavra
+blog por exemplo
+só a palavra blog, aí ele bloqueia
+se eu editar, por exemplo, o blog
+eu tenho um blog do blogspot
+a tributoci é um blog
+e eu consigo acessar
+os blogs que eu acesso do blogspot
+eu consigo acessar
+agora o nerdson por exemplo, que é nerdson.com.br
+blog, aí eu já não acesso
+porque tem a palavra blog, que seria isso?
+seria o filtro
+dessa palavra
+seja não RL ou no conteúdo
+da resposta
+a questão é que além do que não foi comentado
+é que o proxy pode fazer cache
+então você
+vai estar economizando o banda
+então que você já tenha armazenado
+localmente no seu servidor
+você já distribuir para os seus
+usuários e tudo
+então isso é feito
+tem como bypassar isso
+por exemplo
+usando um outro proxy
+se caso, dependendo de como
+cada configurou o servidor proxy dele
+e como está o firewall dele
+se você achar alguma porta que você consegue
+comunicar externamente
+você pode montar o servidor proxy e comunicar com ele
+essa é uma maneira de bypassar isso
+outra maneira de bypassar isso
+vai passar isso
+é com tonelamento de conexões
+com o meu pouco conhecimento que eu tenho de rede
+eu acho que isso não é uma boa e prática
+às vezes você tem um conteúdo interessante
+para ser acessado na faculdade
+e é bloqueado por causa que ele tenha
+tal palavra na RL
+por exemplo, esse site até é site pornô
+que eu consigo acessar tranquilamente lá
+por causa que não tem nenhuma palavra que
+não que eu fique acessando site pornô na faculdade
+tá bom, a gente vai acreditar
+porque eu sou um parafim científico
+é, foi só como exemplo, claro
+outro exemplo para ficar científico
+é, no caso que o shouter falou
+seria
+uma palavra que está na lista negrina
+caso você descubra
+que tem alguma palavra que está na lista branca
+aí vira um teste
+por exemplo, para usar o Google
+se eu tenho a palavra full
+que ela é liberada
+eu vou lá e digito a pesquisa que eu quero
+menos full, entendeu?
+ignora a palavra que é uma palavra liberada
+a pesquisa é normal
+e tiver uma palavra na lista negrina
+já é?
+vai dar precedência
+é, depende da precedência lá
+aí, por exemplo, eu consegui acessar
+várias coisas, tipo assim
+eu queria ver uma foto
+aí colocava
+interrogação
+full, igual
+a palavra liberada
+tudo assim
+é como se tivesse internet livre pra mim
+mas assim, existe uma prática
+melhor
+porque isso eu acho meio pouco, sei lá
+a minha noção de rede
+é pouca, mas eu acho que isso é meio pouco
+é, como você
+como vocês disseram, você pode ter
+um proxy que bloqueia tudo
+e você libera só o que você quer
+como você pode ter um proxy
+blacklist, né? então você pode ter uma lista negrina
+como você pode ter uma lista branca
+a questão é que no ambiente corporativo
+realmente já atrapalha a produtividade
+dos funcionários
+eu acho que a melhor da alternativa
+seria monitorar os acessos
+né?
+e cortando aos poucos
+não que isso seja a melhor alternativa
+a alternativa mais trabalhosa
+mas se você tem, isso depende muito
+da editoria da empresa, se a empresa tem
+esse espírito
+ela vai fazer isso, não é? ela vai bloquear tudo
+e vai liberando aos poucos
+é, eu sinceramente
+não tenho
+bastante incomodado, quando eu cadastrar alguma coisa
+não tem como
+por isso que, eu acho legal
+difundir as práticas de bypass
+eu falei isso porque o seguinte, as vezes
+é bloqueado por palavra
+eu acho que deveria fazer uma lista
+uma blacklist, em vez de ser
+dependendo do site, se o site vai para a lava blog
+ele já bloqueia, dependendo do site
+se o site vai para a palavra software, já bloqueia
+então, às vezes é ruim
+imagina, você entrar no próprio site da faculdade
+e ter uma palavra
+e detalhe, eles bloqueiam
+pelo que eu já percebi usando
+a internet lá, eles bloqueiam
+só a URL
+então, se tiver blog no conteúdo
+do site, não passe direto, só verificar
+o URL, aí eu acho que isso
+seria legal
+eles poderiam também
+bloquear o metapag
+no caso dos sites proibidos
+para a menor de 18, ele tem
+umas tags no cabeçalha HPVP
+que informa que aquele
+site é
+com aquele conteúdo
+seria outra maneira de bloqueio
+do próprio site
+a gente já falou sobre VPN
+agora seria interessante a gente falar
+sobre
+NH, IDS
+IDS
+assim, o que eu faço falar de IDS
+que é nos ferramentos de detecção de intruso
+intrusão?
+intrusão, intruso, cordão
+intrusão, mega intruso
+ex
+ela verifica
+são ferramentas que
+é no caso do IDS
+de acordo com
+o comportamento do
+intruso
+que assim
+detecta se aquele lá pode ser um ataque
+ou não, uma ferramenta
+inclusive, não é IDS
+mas está no mesmo
+no mesmo campo
+que ela consegue
+uma ferramenta que foi feita pelo
+cara da Digerat
+o nome do cara é Marcelo
+alguma coisa, vou procurar e colocar o link no post
+tem até uns vídeos
+Marcelo Fiorino
+que ela conseguia
+essa ferramenta
+ela conseguia
+num chat, por exemplo, IRC
+só usa muito o Mi
+ela conseguia conversar com pessoas
+a
+ferramenta sozinha, sabe, não é um
+mano, era um bot
+ele conversaria com pessoa
+e ela
+conseguia detectar perfis de pessoas
+que seriam invasores
+seria um cracker, entendeu
+e ela conversava sozinha, batia um papo
+com a pessoa e ela conseguia identificar
+se a pessoa seria um
+possível entre os de rede
+atacante. Aqui no Brasil tem
+projeto desse de robô conversar
+também, que há sete, não sei se
+você já vai falar, que há sete
+até outro podcast, a gente falar
+sobre a inteligência artificial
+a gente vai citar mais sobre isso
+mas continua aí com
+os IDS
+hoje o normal das ferraments open source, como os Nord
+ou Cicapa
+o que eles fazem é analisar o tráfilo
+de rede, um IDS
+e bloquear através de assinaturas
+como Sebastião disse
+a análise comportamental vai
+acho que é o futuro dos IDS e IPS
+mas hoje o que realmente
+fundido é
+o bloqueio, a detecção
+do ataque através de assinaturas
+então você tem expressões regulares
+que identificam o pacote malicioso
+e aí esse pacote
+ele é gerado alerta
+se for um IPS já bloqueio
+se for um IDS só gerado
+alerta e se for um IDS ativo
+você vai
+sofrer o ataque mas vai ser
+bloqueado a conexão também. Então você tem
+o network IDS, que por exemplo
+os Nord, mas tem também
+os host IDS, por exemplo Osec
+que ele faz checagem
+de logs, analisa logs
+integridade de arquivos
+é algo mais relacionado
+ao estão tradicional mesmo
+e ao serviço que estão rodando lá
+então ele analisa
+essas informações
+e bloqueia
+pode ser usado de maneira ativa também
+para bloquear o atacante
+esse host
+ele é, por exemplo, um host invulnerável
+ele é conhecido como
+Boticast
+Então, é isso aí pessoal
+o Boticast ficou longo
+pra caramba, como sempre
+vai outros Boticast ser parte desses
+ficaram bastante assuntos
+sem entrar a muitos detalhes
+mas assim, como a gente disse na leitura de mesa
+imagina que o
+Boticast era como se fosse uma palestra
+onde você vai simplesmente ouvir
+e um conteúdo de forma interativa
+e de forma diferente
+você fica numa palestra normal
+quando você fala de um assunto com uma palestra
+você fica durante 50 minutos
+então o Boticast de uma hora
+não estaria tão diferente de você assistir uma palestra
+você pode assistir
+de várias formas
+pode estar no carro dirigindo
+pode estar no trabalho
+às vezes se você não estiver lendo
+se estiver trabalhando fazendo
+alguma coisa que não exige a leitura
+então é fácil você prestar atenção no Boticast
+participação do
+Marcelo Fiori
+e no outro Boticast
+no mês que vem que a gente vai falar
+sobre o C-Project
+a gente vai ter a participação dele também
+disponibilizando esse espaço físico
+e espaço de tempo também
+tomou bastante tempo dele
+e agradecer por essa participação
+e contribuição física e intelectual
+vai dizer que ele tem todo nosso respeito tecnológico
+bem, que a força esteja com você
+eu que agradeço
+o fato de vocês terem me convidado
+é um prazer participar do Boticast
+desejo sucesso
+é algo inovador aqui em Goiás
+o que vocês estão fazendo
+então realmente tem tudo pra dar certo
+e tá dando certo
+e eu fico feliz, espero ter contribuído
+de alguma forma
+mas na camada lá
+eu acho que na camada aqui
+eu não sei nem a camada específica
+e
+e
+e aí
+nesse caso
+a gente já chegou
+no
+uma cela tá
+isso não é feito
+comunitariamente
+existe, já estou falando
+como
+o Brasil que diz
+que é que é fresco
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e

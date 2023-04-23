@@ -1,0 +1,778 @@
+start	end	text
+0	6400	Mulheres na Tecnologia, você está ouvindo Tribu do CEI Podcast.
+6400	9440	Aqui é Cley Van Koff e eu já estou terminando.
+9440	12960	Aqui é Sebastião Helso e meu lema é compilou, comitou.
+12960	17040	Oi, sou a programadora BR para falar um pouco da minha vida, ó.
+17040	20160	Antes que alguém pergunte, eu não faço o sistema.
+24160	26960	Episódio 13, a programadora BR.
+30000	43120	Para esclarecer para o pessoal que está ouvindo, o perfil é um fake de você mesmo?
+43120	44720	Como é que esse negócio aí fala pra real?
+44720	50720	Então, na verdade, o perfil do Twitter eu falo coisas da minha vida, do meu dia a dia,
+50720	55520	acontecimentos lá na empresa que eu trabalho e também de alguns filas que eu faço.
+55520	59920	Só que no meu perfil, com o meu nome verdadeiro, estava me causando alguns transtornos,
+59920	62560	por eu trabalhar em uma empresa grande com bastante funcionário,
+62560	67440	às vezes eu queria desabafar com alguma situação e o povo que me acompanhava,
+67440	71040	que me seguia e que me conhecia pessoalmente, eles ficavam meio chateados.
+71040	75840	Então, quer dizer, eu queria continuar falando as mesmas coisas, mas eu não queria me identificar.
+75840	81920	Aí eu peguei, exclui o meu perfil anterior e criei esse perfil, o login, foi meio que automático.
+81920	85920	A hora que fui criar lá, eu já pensei, ah, eu vou falar de programação e dar um programador.
+85920	89120	Eu não vou criar só uma programadora, vou colocar alguma outra poesinha.
+89120	93920	Eu não quis colocar a sigla do meu estalo, porque aqui no meu estalo eu não conheço mais nenhuma programadora.
+93920	100000	E aí foi programadora BR para ficar uma coisa maior e para focar mesmo no lado da programação.
+100000	102880	É tipo um entretenimento para mim mesmo, assim.
+102880	104320	Vou desabar pelo lado.
+104320	105680	Eu sou válvula de escada.
+105680	106160	Isso.
+106160	107600	Programadora BR, e aí?
+107600	110080	Conta para a gente, como você decidiu virar a programadora?
+110080	116000	Eu nem me lembro de uma casa da minha vida que eu, tipo, eu falei, não, você é programadora.
+116000	117200	Isso nunca existiu para mim.
+117200	118400	Foi uma coisa automática.
+118400	124800	Sempre gostei de informática, desde pequeno, e assim, nunca pensei na minha vida trabalhar com outra coisa.
+124800	128400	Mas também nunca parei para pensar que eu fosse escolher esse programador.
+128400	130080	Foi na base da curiosidade.
+130080	134960	Meu pai era comerciante, tinha uns computadores antigos daqueles dois, oito, meio e tal.
+135040	140240	E aí eu sempre mexi nesses computadores, com 14, 15 anos, o que tinha que montado,
+140240	142640	e a ver como funcionava, com a curiosidade de treino.
+142640	146720	Assim, eu me lembro de um certo estado de outra coisa, eu não sei, eu mexei com um computador,
+146720	148080	desde pequeno.
+148080	153520	Então, aí, quando o meu pai, ele foi trocando as máquinas da empresa, essas velhas foram ficando comigo.
+153520	156480	Naquela época na internet, não tinha na minha cidade nada, né?
+156480	158640	E assim, a princípio começou com hardware mesmo.
+158640	161440	Eu comecei montando computador, assim, de pequeno.
+161440	167920	E aí, foi passando o P, eu já com uns 16, 17 anos, me lembro muito bem, exatamente.
+167920	173280	Minha mãe também comerciante, ela tinha uma videococadora, e não tinha software nenhum para gerenciar.
+173280	175600	Aí eu me deu uma assilha, deve existir alguma coisa.
+175600	179120	Aí eu peguei, fui atrás, e a gente comprou uma licença de um só.
+179120	181920	Eu olhava aqui no live, falava, meu Deus, como funciona isso?
+181920	184000	Eu era assim, eu já tinha internet.
+184000	186880	Eu lembro que é como desenvolver um programa.
+186880	188800	E aí, foi assim que começou tudo.
+188880	192800	Eu fui pro primeiro, fui fazendo o segundo, sem estudo secado,
+192800	197200	sem nunca tinha conhecido um programador, e assim, eu tava chamada do que eu faço.
+197200	198400	Conheço que começou tudo.
+198400	200640	O programa de locador é clássico, né?
+201440	206800	E uma entinha, uma locadora, aí eu pensava, vou fazer um, e ficou super assim.
+206800	212080	Claro, né, naquela condição de totalmente iniciante, totalmente sem base,
+212080	215120	mas eu consegui fazer, né, estudando na internet,
+215120	219200	e deu pra usar, e ela usou ano na locadora dela, até que vendeu e continuaram usando.
+219200	220480	Foi assim que foi meu pessoal.
+220480	222000	Olhando um, eu fiz um.
+222000	223600	E fez em qual linguagem, né?
+223600	226400	Então, eu já comecei com um delto, né, como questão de só.
+226400	228960	Eu peguei e pesquisei no Google, isso que eu já falei,
+228960	232000	e apareceu o delfe, e um monte de coisa sobre del,
+232000	235600	e foi, eu olhei em casca, na verdade, em casca, né?
+235600	240240	Eu olhei já aquilo, eu olhava, eu entendi, é uma coisa assim que eu gostei de cada.
+240240	241360	E eu comecei assim.
+241360	244000	Então, eu não lembro, assim, quantos anos ela tá minte,
+244080	248000	mas assim, eu tomo como base no acontecimento pessoal na minha vida, que tem dez anos.
+248000	250320	E antes disso, eu já mentia com programação.
+250320	252720	Então, por isso que eu dei uma redondada de dez anos,
+252720	255040	mas assim, exatamente a época, eu não me lembro.
+255040	259200	E uma coisa incomum é ter uma mulher desenvolvendo software.
+259200	260560	Teve algum preconceito?
+260560	264480	Então, preconceito da parte de cliente pode até parecer estranho,
+264480	265600	mas eu nunca sofri.
+265600	269680	Mas eu sofri preconceito da parte da equipe de programadores,
+269680	271760	entendeu, os homens com preconceito comigo.
+271840	273360	E saindo no começo eu sofri um pouco,
+273360	277280	mas depois de tanto tempo, aconteceu que eles me tratam como um homem mesmo,
+277280	279600	né? Nós somos uma equipe e a gente respeita muito.
+279600	281600	Não tem mais disto de preconceito comigo.
+281600	283360	Tem preconceito no tweet.
+283360	284880	As pessoas querem me testar.
+285760	287840	Tipo assim, eu não ligo, eu levo na brincadeira,
+287840	290800	mas tipo assim, eles não colocam muita fé em mim.
+290800	292880	Então, porque não tem o que ficar provando, né?
+292880	293840	É, não, entendeu?
+293840	297280	Eu levo no lado esportivo, porque eles também não conhecem minha vida,
+297280	299760	não sabem com o que eu trabalho com poucos ali, sabe?
+299760	303600	Mas assim, preconceito de cliente, eu não me lembro de teto,
+303600	304640	não me lembro do mesmo.
+304640	306960	Eles não ouviram o podcast, né, para saber a sua história.
+308480	311600	E da parte de colegas de trabalho, talvez é isso.
+311600	312160	Não.
+312160	312880	É isso.
+312880	313520	Chefes, não.
+313520	315360	Gente, meu chefe, incrível.
+315360	317920	Eu trabalhei dois anos e meio em uma outra empresa,
+317920	320960	do mesmo ano, uma concorrente dessa que eu trabalho hoje, né?
+320960	323360	Nessa outra empresa, eu fazia de tudo, até cobrou.
+323360	327120	Dava suporte, programava, era uma empresa, sabe, daquela tipo, né?
+327120	330000	E tinha bastante cliente, mas uma desorganização tremenda,
+330000	331600	e eu acabava o que fazia tudo.
+331600	334080	E assim, o povo que me via na rua dando suporte,
+334080	337120	não sabia que era eu que desenvolvia e sim foi, né?
+337120	340320	Até hoje eu me gosto muito de que as pessoas saibam que sou eu que faço.
+340320	342240	Daí eu entrei nessa outra empresa, né?
+342240	344560	Meu patrão, ele foi muito 100% comigo.
+344560	346480	Nunca teve preconceito pelo fato de eu ser melhor,
+346480	349120	tanto que ele foi atrás de mim para eu entrar nessa empresa.
+349120	351520	Então, assim, eu sempre me dei muito bem ali,
+351520	355200	só com alguns desenvolvedores mesmo, da equipe que no começo tiver.
+355200	356880	Tipo assim, não confiaram muito.
+356880	358880	Aí depois, passaram a confiar.
+358880	362480	Como está sendo a repercussão do perfil do Twitter, da programadora e berra, hein?
+362480	364800	Você não tem, assim, uma história para contar de mulheres,
+364800	366480	que nem eu que entrou em contar com você, né?
+366480	367760	Que fala que é legal, né?
+367760	370400	É tão incrível, gente, no Twitter mesmo,
+370400	374400	estou tendo, assim, uma resposta super positiva das mulheres da TI mesmo.
+374400	377120	Todas, assim, super legais, até quando algum homem,
+377120	380400	eles tentam testar a gente, aí postam alguma coisa,
+380400	384000	assim, as meninas entram em defesa, eu acho super legal isso.
+384000	386320	Eles ficam querendo que eu derrar, entendeu?
+386320	388640	Sempre assim, eles são uma coisa para ver se eu derrar.
+388640	392560	Aí eu não ligo de derrapar, eu nunca falei que eu sou a melhor programadora que ninguém.
+392560	395280	O único dado, o fato é que eu sou programadora.
+395280	397040	Eu não sou melhor do que ninguém ali,
+397040	399200	tanto que eu não conheço o serviço de ninguém,
+399200	401920	mas, assim, eu acho muito legal da parte das meninas.
+401920	403680	Eu não conhecia programadoras.
+403680	405840	Aí o Twitter me proporcionou isso também,
+405840	407440	bastante contato com as meninas.
+407440	408560	Ali no Twitter, né?
+408560	411040	E com a coiviana agora, fora do Twitter.
+416640	420080	Eu sei que programador ter vida pessoal é um medo,
+420080	422080	mas o que você faz quando não está programado?
+422080	425280	Pratico bastante esporte, eu gosto de ler bastante.
+425280	428480	Assim, mas o que eu gosto mais mesmo é de ficar na internet, né?
+428480	431360	Final de semana para mim, apesar de eu ficar bastante online,
+431360	432960	é porque eu tenho um talento, né?
+432960	435920	Aí eu levo para onde eu for ter internet,
+435920	438160	mas eu estou sempre praticando algum esporte.
+438160	440240	Pratico é basquete, adoro jogar,
+440240	442160	e eu gosto de ler bastante também.
+442160	444240	Livros de bilhões, de bilhões de bilhões,
+444240	446080	e eu gosto de ler bastante também.
+446080	449120	Livros da Zili e a Gasparia são os dos que eu mais gosto de ler.
+449120	451440	E assim, um hobby, eu me lembro, pode parecer estranho,
+451440	452960	mas meu hobby é programar.
+452960	455600	Então, assim, quando eu estou em casa, eu estou estudando,
+455600	458320	eu estou investindo, porque assim, eu acho 8 horas.
+458320	461360	8 horas que eu estou trabalhando lá, eu não estou aprendendo nada novo.
+461360	462960	Eu estou em função de uma empresa,
+462960	465200	então eu procure investir em mim.
+465200	466880	Nesse horário que eu estou em casa, é assim,
+466880	468320	é loucura as coisas que eu faço, né?
+468320	470640	De trabalhar de madrugada, de ficar estudando,
+470640	473840	tipo, às vezes eu pego das 11 e até as 4 da manhã,
+473840	475680	eu fico estudando, e aí eu pego duro,
+475680	477920	umas 3 horas, acordo, vou trabalhar.
+477920	481200	Mas é uma questão que eu quero investir em conhecimento mesmo,
+481200	483200	quero estudar, para aprender coisas novas,
+483200	486080	que eu me sinto um pouco assim, como a gente trabalha nessa área,
+486080	488960	e é muito corrido, fica difícil para você estudar.
+488960	491360	Então, assim, em casa, estou procurando fazer isso.
+491360	493520	Que na verdade, isso faz parte do trabalho, né?
+493520	494240	Mhm.
+494240	497760	Interessante que a gente até gravou nos episódios passados,
+497760	499520	o bate-papo com a Yara Sandy,
+499520	501600	e ela falou dessas 4 horas a mais.
+502080	504400	Vai estar o link do post lá do episódio.
+504400	506560	Eu comecei programando com VBC, né?
+506560	508720	Tu falou que estava com medo do pessoal te estrolar,
+508720	511440	porque você programa com Delphi, Foxpro.
+511440	513040	Na época que eu comecei a aprender VBC,
+513040	514480	VBC já era o risuleto.
+514480	516480	E eu estava sempre estudando outras coisas, né?
+516480	518800	Uma das coisas que eu estudava era o Java.
+518800	521920	Daí, quando eu trabalhava com VBC, eu estudava Java.
+521920	524480	Agora eu trabalho com Java, eu estudo Ruby,
+524480	525840	eu estudo Python, né?
+525840	528000	Sempre quando eu começo a trabalhar com uma coisa
+528000	531440	que eu sempre estudei, eu acabo aprendendo outra coisa também.
+531600	533840	Então, essa questão de eu trabalhar com Fox,
+533840	535680	é assim, eu já trabalhava com Delphi,
+535680	538320	eu tive que, tipo, ao invés de evoluir,
+538320	539600	eu tive que voltar no tempo.
+539600	541680	O que acontece é que foi uma proposta recusada.
+541680	543120	O povo me critica, sabe?
+543120	545280	Fala assim, nossa, mas por que programar em Delphi?
+545280	546800	Mas por que programar em Fox?
+546800	549280	Assim, no começo eu ficava meio chateada com essas perguntas.
+549280	549920	Mas agora eu penso,
+549920	551920	po, uma pessoa que faz uma pergunta dessa,
+551920	554080	provavelmente ela não vive de programação.
+554080	556400	Porque você tem a oportunidade,
+556400	558560	você quer crescer na sua profissão,
+558560	560560	você recebe uma proposta recusada,
+560560	563520	e você vai recusar por causa que a linguagem está indiscusa?
+563520	564160	Eu não.
+564160	565440	Igual na empresa que eu trabalho,
+565440	567440	fomos por que tem a 20 programadores.
+567440	569360	A empresa tem 500 anos de mercado.
+569360	572000	O diretor da empresa, ele estava procurando alguém
+572000	573920	para substituir ele nesse software,
+573920	575600	que é um software da nível nacional,
+575600	577760	que tinha que ter muita responsabilidade.
+577760	579600	E eu pedi para ele, eu falei assim,
+579600	581360	olha, me dá esse software,
+581360	582880	eu quero tomar conta dele,
+582880	584240	eu quero essa responsabilidade.
+584240	585920	É em Fox, eu nunca programei em Fox,
+585920	587440	não estou nem aí, eu vou aprender.
+587440	589840	Um deu 2, 3 meses, eu assumi esse produto,
+589840	591120	ele é a nível nacional,
+591120	592800	ele tem uns 5 mil usuários,
+592800	594400	é muita responsabilidade,
+594400	596560	mas eu gosto, eu gosto de fazer isso,
+596560	599040	eu gosto de ter essa responsabilidade para mim.
+599040	600320	E outro foi um aprendizado,
+600320	602160	é não tem mais programador em Fox.
+602160	604640	Então na verdade, onde não tem,
+604640	606320	é onde que eu vou mesmo.
+606320	608000	É lógico que eu quero aprender Java,
+608000	610480	eu quero desenvolver para dispositivos modos,
+610480	612640	mas no momento, o que tem para mim,
+612640	614320	que foi uma proposta recusada,
+614320	615680	foi trabalhar com Fox.
+615680	616720	Então eu aceitei,
+616720	619120	e para mim foi assim, uma realização.
+619120	621760	Aí eu recebi uma outra proposta na mesma empresa,
+621760	623520	que eu já era responsável por esse só,
+623520	626320	de desenvolver o mesmo software e deu.
+626320	628800	Porque a gente trabalha com pequenas empresas,
+628800	630400	só a gente ganha, é na massa,
+630400	632080	então é para uma formação comercial.
+632080	633600	A gente desenvolva um Delft,
+633600	635520	e a gente vai trocar aos poucos,
+635520	637600	que os clientes, eles não querem saber a linguagem,
+637600	639120	eles querem saber se o produto é bom,
+639120	641040	se o produto é bom, está satisfazendo,
+641040	642160	vai indo só, claro,
+642160	643840	como o Fox tem muita limitação,
+643840	645200	a gente resolveu trocar,
+645200	646960	e a gente está trocando aos poucos.
+646960	648560	Trabalhando uma empresa,
+648560	652640	que eles usavam o Fox Pro e o Unix,
+652640	656800	tanto é que eles usavam a versão 2.0 do kernel do Linux,
+656800	657760	e eles o migraram,
+657760	659760	porque não ia funcionar mais nada.
+659760	661440	Então, outra questão que o pessoal,
+661440	663600	eles não entendem essa questão,
+663600	665920	de programador usar o Inbox.
+665920	669120	Gente, como que eu vou usar outro sistema operacional,
+669120	671760	se eu desenvolvo para as pessoas que usam o In?
+671760	674240	É lógico que eu gostaria, com certeza,
+674240	675920	eu instalar o Inbox e usar.
+676000	678560	Tem esse lixo do mercado das pequenas empresas,
+678560	680080	que eles não entendem, eles são legros,
+680080	683280	a infraestrutura das empresas é muito ruim ainda.
+683280	685920	Então, a gente desenvolve para o In,
+685920	687440	que de jeito que eu não vou usar o In,
+687440	690240	se eu desenvolvo um software para esse sistema operacional.
+690240	692880	Hoje, o meu computador de trabalho só tem Linux,
+692880	696240	mas eu falo que hoje eu posso me dar o luxo de usar Linux,
+696240	699760	mas é porque eu desenvolvo um sistema bem específico,
+699760	701440	e como eu estou utilizando Java,
+701440	703520	é independente de plataforma.
+703520	705120	Então, eu não tenho essas limitações.
+705120	706480	É isso mesmo.
+706480	707760	Se você citar lá,
+707760	708800	nosso Zen Windows,
+708800	710880	pronto, você vai ver que te aguarda.
+710880	712480	A maioria da galera que fala isso,
+712480	713440	é meio usam Windows.
+713440	715120	Sei, e é isso que eu estou risado,
+715120	716640	enquanto a gente não é possível.
+716640	719120	Presas que têm vários departamentos,
+719120	721600	é comum acontecer de a galera suporte,
+721600	723520	ficar com risca com a galera de desenvolvimento,
+723520	725040	isso acontece na tua realidade?
+725040	726640	O entanto é, a empresa é muito grande,
+726640	727760	apesar do seu trabalho,
+727760	731440	e tem departamento afluxial, suporte,
+731440	734240	os testes têm até contabilidade,
+734320	736800	gerente financeiro, tem o setor de desenvolvimento,
+736800	739120	e tem, sim, essa risca de suporte.
+739120	741520	Hoje, eu procuro lidar melhor com isso,
+741520	743280	mas até um tempo atrás,
+743280	745600	assim, era até uma coisa ruim da minha parte.
+745600	747520	De todos aqueles que reclamavam pra mim,
+747520	748960	eu comecei a evitar,
+748960	751680	mas acabei conversando com eles recentemente,
+751680	753120	eu resolvi, tá, que sei lá.
+753120	755280	Então, hoje, as famílias todo mundo lá dentro,
+755280	756480	eu me dou super bem com eles.
+756480	758960	Como eu estou lá nessa minha empresa, tem seis anos,
+758960	760640	então eu não passei por cada coisa lá,
+760640	764800	até hoje, eu posso dizer que a gente está estudando super bem.
+764800	766240	A Ciara, a bandeirinha branca?
+766240	767760	Aham, a gente conversou,
+767760	769920	para, assim, chegar para mim e falar,
+769920	772880	esse artículo também suportável.
+772880	774080	Eles mesmo, sabe?
+774080	775920	A gente encontrou mais com algum que tem bastante,
+775920	776800	gente, no suporte.
+776800	778960	E aí, a gente começou a conversar mais,
+778960	779760	e a gente começou a, então,
+779760	781600	vamos fazer coisas no final de semana,
+781600	783040	para a gente ficar mais nu,
+783040	783680	viver a dia,
+783680	784640	e a gente começou a, tipo,
+784640	786000	jogar a bola, esses negócios,
+786000	786880	fazer coisa em grupo,
+786880	788400	para a gente ficar mais unido.
+789360	790400	E eu,
+790400	792160	assim, eu chamei, então, gente,
+792160	793600	então, vamos, vamos jogar a bola,
+793600	795040	e vamos fazer um xirrasquinho,
+795040	797840	vamos fazer alguma coisa para a gente se unir,
+797840	799520	mas agora, quase no final de semana,
+799520	801440	a gente se encontra sábado a tarde,
+801440	802960	para a gente jogar a bola,
+802960	804320	e conversar com a Matereré,
+804320	805840	e agora está tudo em uma bola.
+805840	807360	Matereré já deu uma dica, hein?
+818400	827360	E agora você tem a sua atividade na sua empresa?
+827360	829200	Sempre rola alguém chegando e pedindo
+829200	830640	para você fazer um programinha,
+830640	831600	fazer um sistema.
+831600	833040	Você pega para fazer também?
+833040	835760	Então, eu procuro agora não pegar,
+835760	838320	porque eu estou sem tempo mesmo,
+838320	839520	mas, assim, já fiz muitos,
+839520	840880	eu fiz programas, tipo,
+840880	842720	para vários acordes, não sei,
+842720	844400	e saias também, desenvolvo,
+844400	845520	mas, sinceramente,
+845520	847040	isso aí só dá prejuízo para a gente,
+847040	848480	e dor de cabeça,
+848480	850320	porque a gente não tem uma equipe
+850320	851520	para trabalhar com a gente,
+851520	852480	e não adianta falar,
+852480	854480	por melhor que o software seja,
+854480	855680	ele dá suporte,
+855680	856720	porque quem vai usar,
+856720	859120	geralmente, são usuários do ebis.
+859120	861280	Então, você não tem uma disponibilidade
+861280	862880	de tempo para dar suporte
+862880	863680	para esse software,
+863680	865600	por menor que ele seja.
+865600	867200	Então, eu procuro não fazer.
+867200	868320	Tipo, antigamente,
+868320	869280	nossa, apareceu o programa,
+869280	870720	eu ia lá, que ficava fazendo,
+870720	874000	fazia todos os vossos do cliente,
+874000	875120	agradável e tal,
+875200	876160	e nunca estava bom,
+876160	877120	e nunca estava bom,
+877120	878240	e não sei o que,
+878240	879840	eu cansei dessa vida aí.
+879840	881680	Agora, eu tenho lá meu emprego,
+881680	882880	eu, meus amigos,
+882880	883840	pessoal, é isso, claro,
+883840	885360	sabe, eu sou programadora,
+885360	887280	estou formada no sistema de informação,
+887280	889440	então, eles pedem site,
+889440	890560	pedem algumas coisas assim,
+890560	891920	e eu passo, assim, para mim,
+891920	892960	de fazer isso, sabe?
+892960	893760	Eu falo assim,
+893760	894240	você quer?
+894240	895840	Então, eu conheço tal pessoa,
+895840	896880	eu passo o contato,
+896880	897920	porque, no momento,
+897920	899520	eu não tenho tempo para nada.
+899520	900320	Meu tempo livre,
+900320	901840	eu quero fazer coisas para mim,
+901840	902720	mesmo, entendeu?
+902720	904320	Esse negócio de fazer programinha,
+904320	905360	é só prejuízo.
+905360	907040	Quem tem uma experiência,
+907040	908160	já, nessa área,
+908160	909520	quem não tem, vai passar por isso,
+909520	911200	vai chegar essa conclusão,
+911200	913760	que é melhor você ter um emprego fixo,
+913760	915280	ou você ter uma empresa,
+915280	916720	do que você sair,
+916720	917440	fazer programinha,
+917440	918640	para agradar todo mundo.
+918640	919920	Assim que o meu filho nasceu,
+919920	921200	eu entrei nessa,
+921200	922800	de fazer programinha,
+922800	923760	então, quase todo dia,
+923760	924800	até 3 horas da manhã,
+924800	926800	daí, acabava que eu não rendia mais,
+926800	928160	nem na empresa que eu trabalhava,
+928160	930160	nem nos bicos que eu estava fazendo,
+930160	931600	conseguia cumprir prazo,
+931600	932720	nem um, nem outro.
+932800	933920	Olha, eu consegui,
+933920	935040	eu fiquei um ano,
+935040	936880	um ano, assim, eu gostei, sim.
+936880	938480	Eu pegava, eu trabalhava,
+938480	939680	apesar de eu não ter um horário,
+939680	940960	eu gosto de estar lá na empresa,
+940960	943760	eu gosto de, eu tenho muita responsabilidade,
+943760	945200	então, eu sempre gosto de estar por lá.
+945200	946320	Então, eu trabalhava, geralmente,
+946320	947360	das 8h a 6h,
+947360	949680	chegar em casa, descansava umas 2 horas,
+949680	950960	pegava, trabalhava,
+950960	952080	virava a noite,
+952080	954160	até umas 4, 5 da manhã,
+954160	956000	dormia umas 2, 3 horas,
+956000	957120	ia trabalhar, virava,
+957120	958160	que tipo, um ano, assim.
+958160	959040	E eu falei que, essa vez,
+959040	959920	isso não é vida,
+959920	961120	não quero mais,
+961200	962080	e parei,
+962080	963040	pra bem parei.
+963040	964240	Isso é engraçado,
+964240	966080	porque quando você é jovem,
+966080	967600	uma semana tu aguenta, sabe,
+967600	969440	ficar dormindo 2 horas pro dia.
+969440	970880	Tá bom que eu só tenho 25 anos,
+970880	972800	mas, assim, a gente já viu o peso
+972800	974880	de ter perdido essas noites de sono,
+974880	976560	assim, um pouco tempo de profissão.
+976560	978320	E o que faz mal pra...
+978320	979200	É isso?
+979200	980800	Nossa, como a gente, assim,
+980800	982800	envelhece se a gente não dorme.
+982800	985120	Então, eu procuro fazer,
+985120	986240	lógico, trabalhar em casa,
+986240	987280	isso é tudo,
+987280	988480	mas não fazer aquela loucura
+988480	990320	que eu fazia um ano atrás,
+990400	991440	2, 3 anos atrás,
+991440	992640	eu não faço mais.
+992640	993440	Cada hora que passa,
+993440	995440	envelhecemos 10 semanas.
+1009600	1011120	É um problema que,
+1011120	1012880	eu acho que todo programador passa,
+1012880	1014720	eu acho que nem sei o que deveria passar,
+1014720	1016880	mas é o problema de
+1016880	1018320	não conseguir definir prazo.
+1018320	1019920	Isso acontece só comigo.
+1019920	1023360	Ó, realmente, eu nunca compro prazo.
+1023360	1024640	Então, assim,
+1024640	1028160	quando o analista tem alguma solicitação,
+1028160	1029920	porque, assim, o sófico que a gente trabalha,
+1029920	1032320	ele, independentemente de qualquer coisa,
+1032320	1033840	ele só coloca uma versão
+1033840	1035120	com uns 3 entre isso,
+1035120	1037120	com acertos e sugestões.
+1037120	1038160	Então, a gente tem,
+1038160	1039680	a gente não faz nada na correria,
+1039680	1041920	a gente tem 3 meses pra fazer,
+1041920	1042720	a gente tem uma lista,
+1042720	1043600	geralmente, a gente faz
+1043600	1045360	umas 3 páginas de sugestões,
+1045360	1047040	e nesses 3 meses,
+1047040	1048640	a gente passa desenvolvendo isso,
+1048640	1049360	e testando.
+1049360	1051200	Tipo, um mês antes de soltar a versão,
+1051200	1053600	a gente joga pra departamento de test,
+1053600	1054640	e aí eles testam,
+1054640	1056000	e aí retornam pra gente,
+1056000	1057520	porque, se a gente soltar
+1057520	1059120	uma versão com algum problema,
+1059120	1061200	você imagina o trono e o prejuízo,
+1061200	1063280	que é a de 5 mil usuários
+1063280	1064640	achando isso no site,
+1064640	1066080	e na próxima programa.
+1066080	1067360	A gente tem, assim,
+1067360	1068320	uma rotina.
+1068320	1069280	Solta uma versão,
+1069280	1070080	a gente já começa
+1070080	1070800	a desenvolver a outra,
+1070800	1071600	e vai testando,
+1071600	1072480	e vai desenvolvendo,
+1072480	1073600	e como se esticou,
+1073600	1075360	geralmente, é de a 10,
+1075360	1077040	vai só outra versão.
+1077440	1078560	Não tem problema com o prazo,
+1078560	1079280	mas por causa disso,
+1079280	1080640	mas quem me pediu alguma coisa assim,
+1080640	1082000	mas não é fácil,
+1082000	1083440	daqui a pouco, não.
+1083440	1084640	Não vou fazer daqui a pouco.
+1084640	1085600	Porque eu falo,
+1085600	1086640	que uma hora eu te entrego,
+1086640	1088640	mas pode sentar, esperar e dormir,
+1088640	1091040	que não tem condições.
+1091760	1093040	Eu já trabalhei na empresa assim,
+1093040	1095040	que não vinha pra gente nada,
+1095040	1096400	com menos de 40 horas
+1096400	1098240	de desenvolvimento pra ser feito, sabe?
+1098240	1099520	Em outras empresas,
+1099520	1101440	o pessoal fala que são absurdos, né?
+1101440	1103280	É, mas só que tinha toda uma burocracia
+1103280	1103840	pra passar,
+1103840	1104800	não uma burocracia,
+1104800	1105680	mas todo um processo
+1105680	1107680	só a ser respeitado no desenvolvimento,
+1107680	1109680	que foi exatamente o que tu falou, né?
+1109680	1111680	Desenvolvimento, teste,
+1111680	1113680	volta pra desenvolvimento...
+1113680	1115280	Aí tem uma análise de negócio, né?
+1115280	1117280	Que vê, ver com o cliente,
+1117280	1118480	tudo que está precisando,
+1118480	1119680	aí passa,
+1119680	1120880	aí tem um só,
+1120880	1122480	de atividade,
+1122480	1124880	que gerencia isso tudo,
+1124880	1126480	e tem que se organizar.
+1126480	1128080	É uma empresa grande, hein?
+1128080	1128880	Tem que se organizar.
+1128880	1130480	É, esse está quase por um hotel,
+1130480	1132080	esquema de não saber mesurar.
+1132080	1133680	Só porque eu não sei,
+1133680	1135280	porque, tipo assim,
+1135280	1138080	é, às vezes, uma coisa que parece simples,
+1138080	1139680	na hora que você vai desenvolvendo,
+1139680	1141280	não é tão simples como parece.
+1141280	1143280	Às vezes, um aqui você acha que é complicado,
+1143280	1144480	é mais simples.
+1144480	1146480	Às vezes, inverte a sua coisa, né?
+1146480	1147680	Então, por isso, assim,
+1147680	1149280	eu acho que esse negócio de prazo...
+1149280	1150480	Eu dou prazo, geralmente,
+1150480	1152480	depois que eu já terminei.
+1152480	1153680	Só...
+1153680	1155680	Tipo, espera só um pouquinho,
+1155680	1157280	porque eu vou ter muito tempo, eu demoro,
+1157280	1159280	aí eu vou em saço, mais ou menos, né?
+1159280	1160480	Olha só, uma super organização,
+1160480	1161680	aí eu faço, mais ou menos,
+1161680	1163280	e falo, ó, tal dia tá pronto,
+1163280	1164880	mas já tá pronto, entendeu?
+1164880	1166080	Geralmente, eu falo sim,
+1166080	1167280	mas não deu um melado.
+1167280	1168480	Aí, tipo assim, eu fico assim,
+1168480	1170480	como se eu fosse super rápido, né?
+1170480	1172080	Nessa empresa específica
+1172080	1173680	que eu tava falando que eu trabalhei,
+1173680	1175280	o projeto que eu tava trabalhando,
+1175280	1178880	já tinha dois anos de projeto pra frente,
+1178880	1180480	feito análise, sabe?
+1180480	1181680	O software tava desenvolvimento.
+1181680	1183680	É bem diferente do que programar
+1183680	1186880	no lugar onde a demanda vem com tempo, né?
+1186880	1188880	Cada semana eu tenho uma demanda nova,
+1188880	1191680	e em um mês, aquela primeira demanda,
+1191680	1193280	já nem faz mais sentido.
+1193280	1195680	Tem também, porque eu fiz sistemas de informação,
+1195680	1197680	eu me formei assim, tem, é recente,
+1197680	1199280	eu me formei em 2006 só,
+1199280	1202480	porque depois eu não pensava que eu resolvi fazer essa pudade.
+1202480	1203680	Como é que foi?
+1215680	1217280	Então, assim, eu tava cansada
+1217280	1219280	daquela famosa pergunta,
+1219280	1220480	é formada?
+1220480	1221280	É formada?
+1221280	1223280	Então, sei, um dia falei acordei,
+1223280	1224480	levou para o estado de estudar,
+1224480	1226480	vou fazer logo essa pudade,
+1226480	1227680	vou parar de me encher o sapo.
+1227680	1231680	Foi esse o motivo que eu resolvi fazer faculdade.
+1231680	1233280	Porque, assim, na nossa área,
+1233280	1236080	nosso conhecimento é nossa ferramenta de trabalho.
+1236080	1238080	Então, assim, se você tem facilidade,
+1238080	1240080	se você gosta de programar,
+1240080	1241680	e tem aquilo pra você,
+1241680	1242880	você vai programar.
+1242880	1244880	Não importa se você tem faculdade,
+1244880	1245680	ou não tem faculdade.
+1245680	1247280	E mais, eu resolvi fazer uma,
+1247280	1248880	que o válvio da frente é só um sapo,
+1248880	1250480	também, porque, futuramente,
+1250480	1252880	se tivesse bestado algum custo da nível superior,
+1252880	1254880	aí eu poderia prestar, né?
+1254880	1255680	Estava na mão.
+1255680	1257680	E fez alguma diferença antes e depois, ou não?
+1257680	1258880	Não, não.
+1258880	1260080	Não conheço, não fiz.
+1260080	1261280	Não fiz, simplesmente.
+1261280	1262880	Eu fiz uma faculdade bem fraca,
+1262880	1264480	e, assim, eu não tinha tempo, né?
+1264480	1265680	Pra me dedicar.
+1265680	1267680	Então, assim, eu fiz, fui fazendo.
+1267680	1269280	Até me formar, assim,
+1269280	1270480	eu não leram, assim, de uma coisa,
+1270480	1272080	assim, que eu tenha aprendido, assim,
+1272080	1274480	que, nossa, como mudou minha vida, isso aqui.
+1274480	1276480	Infelizmente, a minha faculdade foi bem fraca.
+1276480	1278480	Eu, mesmo, trabalhando.
+1278480	1280080	Como você aprende de trabalhando, né?
+1280080	1281280	Você sai da faculdade,
+1281280	1283280	você cai no mercado de cavalo,
+1283280	1284480	a realidade é outra.
+1284480	1288480	Então, é tanto que começou duas turmas de 50,
+1288480	1290080	e se formou 20 alunos.
+1290080	1292480	Desses 20, três liminas.
+1292480	1295280	E desses 20, nenhuma programador.
+1295280	1296080	E isso que era...
+1296080	1296880	É só eu, né?
+1296880	1298880	E isso que era a faculdade de desenvolvimento
+1298880	1300480	de sistemas de informação.
+1300480	1302080	A minha também foi parecida,
+1302080	1303680	mas a minha foi senso da computação.
+1303680	1305680	E eram, tipo, 80 pessoas.
+1305680	1307680	Na turma formou uns três.
+1307680	1310280	Pois é, assim, é que as pessoas entram
+1310280	1311680	naquela ilusão.
+1311680	1312880	Nossa, adora o computador.
+1312880	1314280	Adora o Orkut.
+1314280	1315280	Adora MSN.
+1315280	1317280	E vou fazer esses sistemas de informação.
+1317280	1318280	Para que eles entram lá,
+1318280	1320680	que eles começam a ver algoritmos,
+1320680	1321880	o algoritmo de ação.
+1321880	1323280	E ainda há dois meses,
+1323280	1324880	que eles dizem que tem amarria, né?
+1324880	1326080	E quem gosta um pouco mais,
+1326080	1327480	vai até o final.
+1330480	1331880	A gente pode ver o último top aí.
+1331880	1333480	Mania, você pegou um problema para tudo?
+1333480	1334480	Vai, como eu tenho?
+1334480	1335880	Eu, pelo menos, tenho essa mania.
+1335880	1337680	Eu preciso de uma calculadora.
+1337680	1339480	A calculadora do Windows
+1339480	1341280	não faz uma coisa que eu preciso.
+1341280	1342880	Eu desenvolvo uma calculadora inteira.
+1342880	1344480	Eu sou de fase, assim, sabe?
+1344480	1346480	Tem época que eu estou me fazendo assim.
+1346480	1347680	Preciso fazer recivo.
+1347680	1349080	De vez em vez de eu fazer Orkut,
+1349080	1351480	eu faço um só para ver recivo, assim.
+1351480	1353680	E eu odeio usar softwares terceiros,
+1353680	1355280	coisas que eu posso fazer, assim.
+1355280	1357280	Coisa que eu não tenho capacidade,
+1357280	1358080	que eu não vou...
+1358080	1358880	Nem tempo.
+1358880	1359880	Não é da minha área, tá?
+1359880	1361680	Mas se for uma coisa que eu vejo,
+1361680	1363080	que vai dar certo,
+1363680	1365280	não vai te evitar nada.
+1376680	1378280	Isso é uma parceria do
+1378280	1380880	Mulheres na Tecnologia e da Tribu de C.I.
+1380880	1381680	Ou não.
+1381680	1383080	Galera que quiser entrar em contato
+1383080	1384480	com a programadora BR,
+1384480	1386480	é só mandar o email para contato,
+1386480	1388480	rola programadorbr.com
+1388480	1389880	ou através do meu Twitter,
+1389880	1391680	arroba programador BR.
+1391680	1393480	Eu queria agradecer a Cleviane
+1393480	1394680	pela dica de pauta.
+1394680	1397680	Eu queria agradecer a programadora BR.
+1397680	1401080	E eu que agradeço, é uma honra ter participado
+1401080	1404080	e espero que todo mundo que goste.
+1404080	1405480	Eu queria agradecer a participação
+1405480	1407480	do programador e ter pedido, né,
+1407480	1409480	um pouquinho do seu preço aos tempos para a gente.
+1409480	1410880	Eu poderia estar programando,
+1410880	1411680	divulgando...
+1411680	1413080	Teria estar programando, divulgando,
+1413080	1414280	mas estar aqui...
+1414280	1415680	Gravando podcast.
+1415680	1417080	Gravando podcast.
+1417080	1418680	Gravando a gente. Gravando a vocês.
+1422680	1425680	Ficamos aos créditos de mais um episódio
+1425680	1427680	da Tribu do C.I. Podcast.
+1427680	1429680	E como tem sido de praxe,
+1429680	1433680	vamos finalizar com os recadinhos e abraços.
+1433680	1435680	Começando pelo
+1435680	1438680	Fora Ongoiano de Software Livre.
+1438680	1440680	Dia 18 e 19 de novembro,
+1440680	1443680	oitava edição do Fora Ongoiano de Software Livre.
+1443680	1445680	Socialmente justo, economicamente viável,
+1445680	1447680	tecnologicamente sustentável.
+1447680	1449680	Para mais informações,
+1449680	1456680	visite fgesl.asljo.org.br.
+1456680	1458680	Eu queria também falar
+1458680	1463680	sobre o circuito goiano de Software Livre.
+1463680	1466680	Eu participei da quarta e da quinta etapa
+1466680	1468680	que aconteceram em Itaberaí
+1468680	1470680	e Santa Helena, respectivamente.
+1470680	1472680	Como você sabe mais,
+1472680	1476680	softwarelivre.goiais.gov.br.
+1476680	1478680	Eu queria também mandar um abraço
+1478680	1480680	para o pessoal do Twitter
+1480680	1483680	que mencionou o Arroba Tribu do C.I.
+1483680	1487680	Vamos começar pelo Arroba W Porfírio,
+1487680	1489680	que é o Wesley Porfírio.
+1489680	1491680	Ele disse que escutou o episódio 12
+1491680	1493680	que falou exatamente sobre o dia a dia
+1493680	1495680	na área comercial MPI,
+1495680	1497680	que é o que acontece no dia a dia dele
+1497680	1499680	na software host.
+1499680	1502680	E o outro foi da programadora BR
+1502680	1504680	que acabou de participar com a gente.
+1504680	1505680	Aqui do episódio,
+1505680	1507680	recomendando o episódio número 12 também.
+1507680	1510680	A Marcia Santos do Barra Emene Tec
+1510680	1512680	que deu uma força para a gente lá também.
+1512680	1515680	O Arroba Ivan Pedê,
+1515680	1517680	o Neveu Luu, não sei como pronunciar.
+1517680	1520680	Tweetou lá que estava ouvindo o episódio.
+1520680	1522680	Também ao podcasteiro.
+1522680	1524680	Arroba podcasteiro,
+1524680	1526680	que recomendou o podcast.
+1526680	1528680	Ele estava falando que
+1528680	1530680	queima das link de podcasts lá.
+1530680	1533680	Ele estaria retweetando e recomendando.
+1533680	1535680	E também a Loiane,
+1535680	1537680	Loiane Groner, que foi a entrevistada
+1537680	1539680	do episódio 11.
+1539680	1541680	E também eu queria mandar um abraço
+1541680	1543680	para o Vinicius Menezes,
+1543680	1545680	que fez vários comentários comigo
+1545680	1547680	a respeito do episódio passado.
+1547680	1549680	Também eu queria mandar um abraço
+1549680	1551680	aos podcasteiro, AspiraCache,
+1551680	1553680	podcasteiro do Boris Deprela
+1553680	1555680	do site Aspirante Profissional.
+1555680	1557680	O MachinaCache
+1557680	1559680	e o Descontrole Podcast
+1559680	1561680	que é do Jo, do Almof
+1561680	1562680	e da Lily.
+1562680	1564680	E eu sempre confundo o Jo com Almof.
+1564680	1566680	Eu nunca sei quem é quem.
+1566680	1568680	Valeu, um abraço.
+1568680	1570680	Seguindo aqui, mande seus feedbacks
+1570680	1572680	mencionando no Twitter
+1572680	1574680	o Arroba Tribu do CI
+1574680	1576680	ou curta nossa página no Facebook.
+1576680	1578680	Facebook.com.br
+1578680	1580680	Tribuador CI
+1580680	1582680	ou mande-nos um e-mail
+1582680	1584680	para o podcast
+1584680	1586680	arrobatribuducei.match
+1586680	1588680	ou mande seu recadinho de voz
+1588680	1590680	ou e-mail também para a Tribu de CI
+1590680	1592680	arrobagmail.com
+1592680	1594680	para o episódio.
+1594680	1596680	Gravão
+1596680	1598680	só cabeça.
+1598680	1600680	Por que não está chão?
+1600680	1602680	Oi, são?
+1602680	1604680	Todo mundo ouvindo?
+1604680	1606680	São ouvindo também?
+1606680	1608680	Tá legal.
+1608680	1610680	Ah, pois
+1610680	1612680	já escolheram para a Univindade?
+1616680	1618680	Fricado.
+1618680	1620680	Será que deu para perceber?
+1620680	1622680	Não, grivado.
+1622680	1624680	Ah, entendi, privada.
+1626680	1628680	Não, entendi, privada.
+1636680	1638680	Eu queria fazer uma pausa para me lavar
+1638680	1640680	a bunda do meu menino, pode ser?
+1640680	1642680	Poupe nos detalhes, por favor.
+1642680	1644680	Vou fazer a higiene de ação
+1644680	1646680	do meu filhinho.
+1646680	1648680	Eu vou lá daqui um pouquinho.
+1648680	1650680	Tá lá minha bunda?
+1660680	1662680	Eu estou brincando, papai.
+1662680	1664680	Papai, eu estou brincando.
+1664680	1666680	Alô?
+1670680	1672680	Alô?
+1674680	1676680	Alô?
+1676680	1678680	Já acabou, está tão bom.

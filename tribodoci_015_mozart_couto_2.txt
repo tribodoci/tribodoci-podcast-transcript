@@ -1,0 +1,1595 @@
+Mó mó mó, mó mó mó, mó mó n Cosooo
+bike�
+Mó mó mó, boso boso, boso, boso, boso, boso, boso
+ESSIM Ensign nap Joinningen
+OS R着 has a la vida
+APRETEIRA
+APRETEIRA
+opportunities
+CODE
+ME DELAÇÃO
+O Quanto você precisa de mim
+Episode 15, entrevista com Mozart e Couto
+Parte 2 de 2
+Saudações e ouvidos, vamos dar início à segunda parte da entrevista com Mozart e Couto
+Se você ainda não assistiu a a primeira parte, confira lá no site, na catinguaria e podcast
+e nessa introdução eu estou com 2 convidados, esses especiais aqui
+e eu que sou para a plancha, especiais como o Nibb
+Eu sou o Nibb Caís
+Você já precisa de que eu me estragulei, dá onde é esse?
+Então tá isso, poderia fazer uma pequena apresentação de quem é a nossa entrevista?
+Mozart e Couto é um inseridor e ilustrador que atua no mercado desde 1979
+com publicações em editoras no Brasil e exterior
+sendo também um dos grandes colaboradores de conteúdo sobre arte digital
+utilizando software livre em especial o Nibb, além de projetos como tradução no GPS, Nibb, Punch, Studio
+para o português do Brasil
+Acho que você não estuma
+Então no primeiro episódio a gente falou bastante do seu carreiro e tal
+como pessoa, informática
+e na segunda parte a gente já começa falando do mercado de trabalho no Nibb
+Vamos lá então para a entrevista?
+Ah, pode soltar não?
+Estou meio desanimado
+Vamos ver lá
+Ele foi perguntar se você já teve alguma dificuldade
+essa questão de relação com as gráficas, com as editoras
+sobre o trabalho em RGB, CMIC, coloração
+Não, ainda não aconteceu não
+Agora eu te falei, já tem esse esquema de
+ninguém nunca me exigiu o CMY, um poucas vezes
+e não deu problema de impressão para eu enviar em RGB
+e a pessoa, na hora que vai montar, converte
+aí nos programas propietários que eles usam, faz a conversão e não dá problema nenhum, não
+fica muito bom
+O cara do birou sempre se vira
+Lá tem aquele equipe que vai fazer a preparação da imagem, no meu caso
+mas assim, eu nunca peguei
+aquele caso que o cara vai, eu preciso de imprimir aqui em Offset
+um arquivo PDF fechado, uma coisa assim, entendeu?
+que aí eu vou ter que fazer a separação lá, isso eu nunca peguei
+até estou pesquisando para ver quem já fez
+tem umas notícias aí, de que dá para usar aquele CMY-K2
+vocês viram no meu blog Luciano Lorenzo
+que é o criador do símbolo do Curumin
+ele comentou isso, pois é, aí comentou isso
+então eu sei que a gente vai, a gente vai procurando saber
+e vamos para em prática depois para ver
+Eu tenho uma história interessante
+em meados de 1905, eu vi um tutorial sobre coloração utilizando o GIMP
+e eu lembro bem que era o Quarteto Fantástico, lembro desse tutorial?
+e a minha agradável surpresa é que o autor do artigo
+era alguém que eu já seguia muito tempo as dicas e tutoriais com revistinhas
+e era um moso acordo
+ali eu ainda estava aprendendo também as coisas
+eu também sempre procurei não complicar muito
+porque tem aquelas técnicas de vários leias
+que eu acho bom, determinado ponto
+mas para mim às vezes não dá muito certo
+que como eu te falei, eu trabalho muito rápido
+mais sobre o impacto emocional do que pensando as coisas tecnicamente
+então eu coloro leia que não é para a coloria, no lugar do outro
+aquilo acaba me confundindo, é muito chato, eu evito isso
+mas ali eu já fazia uma técnica que eu tentei mostrar
+as possibilidades de fazer seleção, que é uma coisa chata
+coisa mais enjoada que tem, seleção
+migrou aquele ditado para não usar borracha e só lápis
+para o computador também
+ainda bem que eu já mudei de emprego
+mas eu lembro que eu passei a parte da manhã inteira colorindo
+o negócio brincando com o companhia de ver a possibilidade
+eu lembro que tinha até uma guerreira que estava lá só os traços
+e eu fui pintar elas
+eu cabulei metade do meu trabalho
+e eu fazia esse negócio
+ainda mais usando mouse
+é, usando mouse
+de bolinha
+mas lá os computadores eram até bom
+nessa época eu programava em cima do AutoCard
+então as máquinas tinham que ser um pouco melhores
+e os mouse também eram um pouco melhores
+foi bem interessante o historial que eu vi lá
+para mim foi um marca interessante
+nessa parte de coloração digital
+é, legal
+eu vou tentando fazer os vídeos também
+eu tento fazer de uma forma para que a pessoa vá olhando
+ter pause e vai aprender
+agora mesmo estou preparando de arte final
+eu vou começar a fazer mais de desenho
+porque eu não sou pintor, colorista
+eu faço expo necessidade
+eu sou mesmo desenhista
+então eu estou fazendo uma série agora
+mostrando o desenho feito no lápis
+vídeo tutorial, né?
+vou fazer três tipos de arte final
+já fiz duas
+para mostrar como é que tudo usando aquela ferramenta
+tinta do gamepad
+para mostrar como ela é útil
+como o traço fica bonito para arte final
+estudo digitalmente
+ou técnico de desenho digital
+agora eu tenho feito muita coisa já direto, né?
+já desde o início do trabalho
+já faço o lápis
+em uma camada
+depois jogo a outra camada branca em cima
+diminuo a opacidade dela
+para enxergar o lápis embaixo bem fraco
+lápis digital, né?
+e aí eu venho com a outra camada e faço arte final
+depois eu apago aquele fundo
+e mesco a parte de baixo
+com a camada branca
+com o desenho já arte finalizado
+e é interessante que a gente pode desenhar bem grande, né?
+dá o zoom e desenha bem grande
+e vai mais rápido até
+o que é desagradável é a luz do monitor
+eu fico sonhando
+no dia que eles fizerem monitores
+que você não tenha essa luz assim, né?
+que seja tipo aqueles leitores de e-books, né?
+e aí?
+se tiver isso aí, acabou
+e sai mais da frente
+temos um tablet da Wakonde, viu?
+que desenha no próprio...
+quer dizer, o tablet é um computador por tudo, né?
+tem um novo também
+que você desenha no papel e ele grau
+tem, hoje já tem isso
+inclusive tem a Duopem
+que ela é muito parecida com essa
+que a Wakonde lançou agora
+você pode desenhar tanto na tela do notebook
+você desenha ela como uma tablet
+só que ela não tem pressão, né?
+pra fazer esboços, é... quebra um galho
+interessante, chama Duopem
+e ela é muito barata
+você encontra ela no Brasil
+era coreana
+eu acredito que quando eles melhorarem ela
+começar a ter pressão
+e que ela venha até começar a substituir
+as graficas tábicas comuns
+pra mim, esse negócio de desenhar na tela
+foi uma vantagem, sabe?
+porque o lápis não fica na frente do desenho, sabe?
+daí eu consigo estar sempre visualizando o desenho
+eu ainda não tive essa experiência de desenhar
+nessas mesas, tipo a sentir que não
+eu acho que deve ser muito confortável, né?
+mas eu já vi falar que é muito quente
+você tem que trabalhar com uma luva também
+porque a mão ali, né?
+aquela coisa, né?
+parece que fica suando
+então tem lá suas vantagens de desvantagem
+o que importa mais é pra mim...
+é, ali quando você desenha, quando ela te obedece
+e como aquele cursor te obedece, entendeu?
+ele tem que ser de um jeito
+que ele tem que te fazer esquecer de tudo
+que você tá segurando alguma coisa
+e comigo, assim, eu uso na posição do mouse
+a minha tablet, né?
+mas eu não olho pra minha mão, né?
+não vejo o que eu tô fazendo
+ali, cada tablet, dependendo
+de variações
+das linhas por polegadas
+do nível de pressão
+e da velocidade dos dados
+da caneta pra mesa, né?
+a junção dessas coisas, combinações delas
+varia muito trás
+eu já comprei várias tabras pra mim
+eu acho que eu já tive
+ao todo mais umas 12
+algumas delas eu devolvia
+da marca líder de mercado
+porque eu não gostei, que não me dava
+desenvoltura que eu precisava
+e eu encontrei em uma tablet
+baratíssima, ali eu faço
+o desenho e é o meu desenho
+as outras eu tenho, porque eu gosto
+mesmo se não existe
+o fotógrafo que uma câmera só não existe
+o músico com instrumento só não tem
+a gente é fascinado, a gente já comprou no monte, né?
+desculpa perguntar qual a marca que é
+mas só pra saber, talvez é igual
+a minha, né?
+a minha foi doação, eu...
+a minha foi comprada
+e na esquina também, talvez é a mesma
+agênios, é...
+agênios, é igual a minha
+nós bem seis por um, hein, tu é
+olha, e aqui tem um traço
+mais certo
+o cursor tá
+exatamente no ponto
+onde traça, velocidade do cursor
+na tela é perfeita
+não é muito rápido, não é muito lento
+porque tem tablets maiores
+que o cursor fica um pouco lento
+isso atrapalha muito e as pequenininhas
+são muito rápido, eu já notei que
+eu não entendo isso profundamente
+mas pesquisia alguma coisa e eu vi
+se ela tivesse essa passagem de dados
+abaixo de 200 rps
+ela não vai te dar uma precisão
+muito grande na hora de desenhar
+mas ela vai, vamos dizer assim, soltar
+mais tinta, entendeu?
+então ela fica sendo como se fosse
+um pincel pra pintar
+e as tablets que todo mundo compra
+que fala que a linda de mercado e adora
+elas são assim, elas não te dão
+um controle absoluto
+alguns modelos têm um modo de precisão
+mas pra você dar um detalhe
+em determinado ponto pequeno
+aquilo ali não abrange a tela toda
+então tem essas variações
+que é difícil a pessoa saber, mas quem pega
+a primeira vez, quase todas elas funcionam
+muito bem, os fabricantes
+acho que o principal eles já dominaram
+que eles estão competindo agora
+com as perfumarias, os botõezinhos
+as outras funções
+mas o principal ali
+são três fabricantes só que tem no mundo
+dois na China e o Japones
+e eles já dominaram o principal
+eu lembro que a dificuldade que eu tive
+quando eu fui usar uma tablet
+é porque o seguinte, com o mouse
+qualquer ponto é relativo né
+qualquer ponto que você tiver, se você andar com um lado
+e ele anda de onde está o curso lá na tela
+para onde você foi né
+o tablet, ele mapeia
+a tela inteira naquela área
+de desenho do tablet, então se você
+triscar no cantinho da tablet
+no seu cantinho esquerdo
+o mouse vai lá pro seu cantinho esquerdo
+se você clicar lá no cantinho direito
+ele vai lá pro seu cantinho direito
+e eu lembro que eu recebi a doação
+foi exatamente a Gênios que falou
+é mouse pen
+o drive dela é mouse pen
+o modelo dela escrito lá é diferente
+mas lá está mouse pen
+achei interessante porque exatamente isso
+eu estava achando ela até grande demais
+porque eu tenho um monitor
+de 22 polegadas
+e aí ele mapeia aquilo lá né
+e ela não tem um formato widescreen
+então é como se fica distorcido
+no Windows tem a opção de
+colocar assim, ele reduzia a área de desenho
+do tablet, para a área de desenho
+ficar widescreen também sabe
+é certinho, se você fizer uma bola
+aqui na tablet lá sai uma bola também
+mas a sua é a 8 por 6
+a 6 por 8 melhor não?
+acho que a 6 por 8
+e você usa no
+débio né, que você falou ou não né
+é, eu usava ela no
+junto
+não, porque pra mim não tem problema não
+o widescreen aqui da tudo
+funciona tudo direitinho
+mas entendeu qual o problema?
+se eu fizer uma bola o widescreen
+no tablet, certinho, se eu pegar uma
+moeda e circular ela
+lá na tela vai aparecer ela
+chatada, quer dizer
+é esticada entendeu
+é complicado você fazer alguma coisa
+na tablet, assim, seguindo
+uma orientação, vamos falar que você coloca
+um traço embaixo do
+plástico ali da tablet, desenho por cima
+aí já começa
+um monte de complicação
+eu lembro que no Windows, eu resolvi isso no Windows
+lá no drive
+o pacotezinho do drive, ele tem a opção de você
+reduzir a área de desenho
+da tablet pra ficar mapeada
+exatamente wide screen, sabe
+tem, isso tem essa variação
+eu nunca achei isso no Linux
+é, parece que eles ainda estão preocupados
+em fazer outras coisas nos drives
+não dá tanta opção
+já vi alguns drives
+alguns programis
+acho que não sei se vocês já viram do
+que nome apps, mas não argaram pra lá
+tchau
+tinha um drive pra itek
+que era muito bom com
+o Face Graph, mas ficou abandonado
+é uma pena
+a última versão do Ubuntu tem até
+uma parte lá só de OACON
+eu nunca me achei porque a minha agenda, eu não sei se funciona
+não funciona, agora tá
+o Ubuntu tá uma beleza
+o Mint também, no CD
+se você colocar essas tablets
+funciona, é só essas tipo
+IpTek e a C3Tek
+modelos gênios
+não parece que o Gepens
+7.12
+que elas são feitas com
+uma mesma companhia
+que é dispensável, que não tem jeito
+quer mexer com Gimp
+até com Inkscape mesmo
+fazer algum desenho, alguma coisa
+que dá pra fazer muita coisa legal
+e MyPaint então, tem jeito
+tem que ser tablet
+eu lembro que eu tive muito problema com Gimp
+pra calibrar lá, mas quando eu estalei o MyPaint
+funcionou tudo pressão, tudo tranquilo
+é, ele é o mais tranquilo
+de todos pra funcionar
+e não precisou fazer nada
+tem tablet até que tem
+além da pressão, ela tem a sensibilidade
+do ângulo que tá do papel
+isso é bom, mas
+às vezes não é
+depende muito do estilo que a pessoa trabalha
+às vezes até eu trabalho um pouco
+ela inclina o traço
+da inclinação
+você não tem muito controle
+pra uma pincelada bem solta
+talvez seja legal, alguma coisa mais experimental
+depende do caso
+que você vai usar sempre
+não sei, que seja o estilo da pessoa
+que pegou aquilo, ele gostou
+e explora né, que no geral
+não é uma coisa que faça tanta falta
+não, o que faz falta mesmo
+é a pressão e essa precisão
+acho que isso é importante
+e a borrifada da tinta
+tem que sair um fluxo legal
+sobre o seu Gimp
+se ele é muito customizado, se você baixa algum
+plugin ou aquele Gimp
+mesmo que você entra lá no site
+e baixos já começam a usar
+ou se você usa um
+é legal se perguntar isso
+o meu eu uso junto
+com o Gimp Painter
+e o Gimp Paint Studio
+eu acho indispensável
+o Gimp Paint Studio indispensável
+pra quem quer fazer um trabalho
+com vincéis
+um defeito de coisa artística
+bonito, tem que colocar o Gimp Paint Studio
+vocês conhecem né, que é o pacote
+de presets
+que já se desenvolveu
+que ele é um ilustrador espanhol
+e o Gimp Paint, que aquele japonês
+se desenvolveu também
+eu acho que é um forque né, do Gimp
+ele tem uns recursos
+de aprimoramento
+da pressão, da força
+da pressão, da mínima
+e a máxima, que ajuda demais
+também, muito bom
+e tem a ferramenta MixBrush
+a Gpen eu não uso muito não
+pra dar um efeito bem de pena
+mas eu não uso muito não
+o MixBrush eu gosto mais
+que dá aquele efeito de misturar
+o fundo do papel, seja o branco, qualquer cor
+com as cores que você tá usando
+e da melhora mais ainda ser feita
+se eu usar as cores do degradê
+é muito interessante
+então eu uso isso e coloquei lá
+vários filtros também
+aquele FX
+Foundry, não sei como é que chama
+mas quase não use né, esses filtros
+eu fico tentando, uma hora eu vou aprender
+e eu vou mexer, mas quase não uso
+4 horas configurando e usa
+15 minutos em jogo
+mas a sua ferramenta
+chodó mesmo é o Gimp
+você usa mais ela no diadio
+ou você usa outras
+assim, a mais
+um Escape, MyPaint
+os vetoriais
+eu não uso não, é muito raro
+eu uso mais é o Gimp mesmo
+MyPaint eu gosto dele
+ainda acho o Gimp mais fácil
+de eu acessar ferramentas
+e eu não sei, eu acho que
+ele flui melhor
+tirando a parte de configuração
+de pincelis que é muito complexa
+muito vasta
+ele ser muito fácil de pegar
+mas eu acho o Gimp melhor
+já tem esses recursos de edição
+eu uso muito aquela distorção interativa
+e eu tô ansioso
+pra que vem as novas versões
+eu acho, sempre pensei
+3.0 vai ficar
+uma coisa muito boa
+um problema muito forte
+tomaram aquele coctu no gênero
+só né
+eu não sei, eu já fiz
+os meus esquemas aqui
+que funcionam, é meio parecido com aquele padrão
+que eu costumei muito, mas funciona
+fica legal manter a janela sempre em cima
+ou então deixa ela naquele modo
+utilidade lá e ela fica ser visível
+as paletas futuantes que eu digo
+e a janela também fica lá embaixo delas
+paradinho, então é tranquilo
+qualquer coisa eu tab ali e as paletas desaparecem
+e o F11 trabalha na tela cheio
+que repõe isso também, mas é tranquilo
+primeiro é tranquilo
+hoje, qual que é a proporção do teu tempo de trabalho
+e com o GIMP?
+eu tô direto no linux e no GIMP
+eu tava, aquele negócio assim
+de ficava testando
+aí um dia eu falei, não, eu tenho que ficar
+pelo menos uma semana pra me ver
+pra testar como é que funciona os programas
+pra aprender
+e depois dessa semana eu não voltei mais
+não entendi, porque eu gostei muito
+é a coisa de ser customizável
+também, você poder mudar muito
+até cara, eu gosto
+de visual, eu gosto de ver uma coisa
+que tem um visual bonito ali na minha frente
+e daí tem muito tema
+né, pode mexer em borda de janela
+eu gosto muito disso, então
+aí fui começando a aprender, eu senti alguma falta
+de programas pra conversão
+de vídeo que eu não conhecia
+nossa, achei tanta coisa
+então, não tô sentindo mais falta de nada
+acho que isso é muito legal
+entrar nessa parte
+de proprietar o livre
+os seus trabalhos têm algum
+restrição sobre a licença
+quando você publica alguma coisa
+essas coisas que estão no problema
+com as instituições que você manda
+os trabalhos que eu faço
+profissionalmente, ainda é dentro
+desse padrão do mercado mesmo
+alguma coisa é direito autoral meu
+outras coisas são negociadas
+o direito
+sessão total, porque no brasil ainda tem
+muito isso, que é uma coisa assim que
+não tem lá fora praticamente
+é uma coisa, não era pra ter
+um artista tech cd
+direito total da obra dele por 70 anos
+ainda tem isso no brasil
+infelizmente
+apesar dos ilustradores
+pessoal se unir e foi feito aquele
+guia do ilustrador, pode se baixar
+grátis na internet, é muito bom
+todo mundo debateu muito isso
+tentou ver se mudava isso
+mas aos pouquinhos é que tá mudando
+ainda tem muita essa coisa
+o cara chegar com contrato
+te oferecendo pra você ceder o direito total
+e tem situação que a pessoa cede
+tem outras que não dá pra se negociar
+complicado ainda
+agora o que eu faço pra software livre
+geralmente eu deixo pra
+compartilhar né, a pessoa poder compartilhar
+só não dou permissão da venda
+eu acho que é até errado falar isso
+mas eu baixei umas reviscinhas
+sua pela internet, talvez foi até você
+que disponibilizou não?
+isso aí não tem jeito, tem que descobrir
+uma maneira legal que as pessoas
+possam baixar, que o artista ganha
+mesmo que um pouco, eu gostei muito
+com aquela ideia que o stalman deu
+uma vez eu coloquei no meu blog
+uma carta para Dilma
+que vocês leram isso né, ele propondo
+a divisão, eu achei muito legal
+uma coisa interessante
+então eu acho que pode seguir por aí
+eu acho que não dá pra controlar mais
+só lembrando aqui, eu completo
+todas as reviscinhas
+desculpe mas eu contribui
+pra pirataria
+ah não é isso aí
+não dá pra controlar
+as coisas, foi compensado
+eu to querendo fazer experiência
+de produzir alguma coisa
+e deixar ela na net e pedir pra
+só dar uma surda
+eu não lembro se tem link de paypal
+no teu blog tem não né
+não, tem que pô, paypal ainda não tem
+eu tenho um bag seguro
+o Richard Stalman, quando ele fez o manifest
+lá do software livre, ele falou
+como que seria a liberdade né, a liberdade
+de alterar, a liberdade de distribuir
+liberdade de usar pra qualquer fim
+tem dicas de vários modelos de negócio
+que poderia ser seguido em cima
+desse modelo de desenvolvimento
+no caso de software, agora o criativo ficou como de produção
+de arte né, tu viu uma palestra dele
+falando muito de hardware livre
+a ideia dele vai por aí
+e eu acho que vai acabar
+afetando toda a sociedade
+porque ele tá mexendo aí
+com o Centra nossa
+sociedade atual tecnológica
+tudo se faz hoje com software e hardware
+e quando você tenta mudar o padrão
+que tinha, dá uma outra opção
+totalmente nova igual a essa
+que tem gente que não consegue entender
+não é uma coisa complicada
+mas é tão diferente do que era
+como é que o cara teve essa ideia
+de fazer uma coisa
+que é legal, é resguardada judicialmente
+mas todo mundo pode usar
+e dá pra ganhar dinheiro também
+se não quiser também, não ganha dinheiro
+muito legal
+e uma irmã
+muito hermosa
+que se chama
+Liberta
+eu vi os trabalhos do cara
+que faz o GPS, o cara é muito bom
+os trabalhos da gente, viu?
+ele é um retratista
+também muito bom
+e ele pinta abstrato
+também muito bem
+mas a gente sente falta ainda
+que tá havendo uma certa articulação
+assim, dos artistas
+que usam esses programas
+a gente tá começando a se conhecer
+e a gente tá fazendo isso
+e a gente tá fazendo isso
+mas a gente tá começando a se conhecer
+e fazer mais contato
+e alguns programadores também
+aquele Peter
+acho que não sei se é Peter Sike
+ou Peter Sikking
+ele é uma pessoa que ajuda ele
+no trabalho que ele tá fazendo
+de redesign do GIMP
+eles começaram a entrevistar alguns
+artistas que usam o GIMP
+inclusive já me entrevistaram
+Minho, Ramon e o David
+Revoia, aquele francês daquela animação
+de fundação Blender, segunda
+e eles entrevistaram a gente
+como é que a gente trabalha
+todos os dados técnicos, como é que a gente usa o GIMP
+eu acho que vai começar a aparecer
+coisa nova aí
+eu vou fazer um contato também com outros artistas
+a gente vai trocando ideia
+e eu acho que muita coisa boa vai aparecer
+porque precisa disso, né?
+precisa gente que usa, usa bastante
+usa bem pra dar um retorno pro desenvolvedor
+e ter esse contato com o desenvolvedor
+também porque às vezes tem alguma coisa escondida
+que a gente não percebeu
+mudando de
+papacacete
+você já foi convidado pra
+participar de alguma animação
+pelo menos na arte conceitual
+não ainda não
+falar nisso, tu viu o pessoal lá do Hobbit
+os caras fizeram arte conceitual
+em 3D, cara?
+eu sou artista 2D mesmo, ainda não consegui
+me adaptar a 3D
+eu sempre vou querer estudar
+mas eu acho muito trabalhoso
+eu pensei seriamente em comprar a revista da Larissa
+Rickam, que ela vem com a 3D
+pra
+fazer umas coisas dessas
+eu gosto mais do 2D mesmo
+vamos ver, até quando nós vamos ter
+espaço
+espero que tenham tempo
+tem uma coisa que eu deixei passar
+é porque tem o Rodney Bukemi
+que é lá do MDM também
+que ele também é de Belo Horizonte
+tem, ele tem vários outros
+o Vilmar com o Rado
+também de Belo Horizonte
+tem o
+Ed Barrow, o Eduard
+ele não é de Belo Horizonte, mas eu acho que
+ele mora lá ainda, não sei
+que também todo mundo trabalha no mercado americano
+a saída do quadrenista
+brasileiro foi essa, né?
+para o mercado americano
+fazer o Offshore, que eu chamo, né?
+é, porque tem muito disso pra quem trabalha com um Rub
+aqui no Brasil, o mercado brasileiro
+é muito, quer dizer, tem crescido bastante
+mas a maioria da galera
+que trabalhava pra fora, né?
+aí tem sempre os olheiros
+é, mas é uma pena
+porque o Brasil é cheio de talentos
+eu acho que
+o governo podia investir muito mais
+muito em empresas, né?
+tinha que mudar esse mecanismo
+que a gente vive hoje aqui
+no mundo ocidental, viu?
+é igual você disse, né?
+na década de 70 ainda algumas coisas
+muitas coisas
+eu, assim, compartilhar uma história
+colocar uma trilha
+eu vou colocar uma musiquinha do Hulk depois
+mas
+é, porque assim, embora hoje
+eu trabalhe com o programador e essa seja
+a minha atividade principal
+em 2004 eu conheci pela horizonte
+e eu fui
+naquele, pera aí deixa eu passar a polícia aqui
+ah, eu perguntei, eu perguntei
+ah, eu perguntei, eu perguntei
+ah, eu perguntei, eu perguntei, eu perguntei
+e você toca com instrumento, herdou
+alguma coisa do pai, sobre instrumento
+é, eu fiquei violão
+aprendi com o meu pai durante um tempo
+mas depois deixei porque
+tinha que desenhar 8, 9 horas
+por dia e não dava pra treinar o violão
+o violão também tinha que
+treinar ao mesmo tempo
+mas eu gosto muito de música
+e sinto muita falta
+então, tio
+continuar com a minha história?
+começo do começo de novo
+então
+eu já falei com o programador
+em 2004 eu conheci
+Belo Horizonte, exatamente na Olimpíada do Conhecimento
+eu fui depois da trabalho
+eu conheci, eu fui na Olimpíada do Conhecimento
+e eu fui concorrer
+exatamente como design grato
+sabe isso aí, né?
+interessante
+arquivo confidencial, Sebastian Reus
+e aí a gente conheceu Ouro Preto
+e aí a galera parece que respira a arte
+o tempo inteiro, né?
+acho que tem uma influência
+e aí tem bastante profissional que trabalha com isso
+quadrinho
+ilustração, muito forte
+Belo Horizonte, tem um ou outro que tá fora
+em meu caso, por exemplo, que eu tô fora
+da capital, né?
+a maioria é de lá mesmo, né?
+tem bastante gente, sim
+eu lembro que a dinâmica que a gente fez lá
+porque teve algumas atividades lá
+a pessoa fazia umas dinâmicas e tal
+e tinha galera ensinando como fazer desenho
+eu nunca tinha visto aquela borracha
+que parece uma meleca
+aquela borracha
+né?
+é, vou lá
+isso, pois é, eu nunca tinha visto aquela borracha
+inclusive, será até
+uma coisa interessante, que me empolgou muito
+quando eu fui fazer o curso do Instituto Universal
+que ele tinha um material de idade
+pra vir um material de idade que tinha que pagar
+alguma coisa
+eu ainda tenho essa
+como é que se diz? que nem há uma penada
+que tá esperando, tem que fazer alguma coisa
+é, essa pendência pra gente resolver
+ainda vou fazer esse curso
+outro ponto interessante
+que hoje o meu filho
+eu tenho um moleque de 3 anos
+eu já falei isso 100 vezes por mês
+mas ele praticamente
+não que ele começou a desenhar
+no tablet, mas hoje ele faz muito
+a gente pega o
+desenho, eu coloco pra pintar no tablet
+então ele melhorou muito
+a distresa dele
+depois que ele começou a utilizar o tablet
+porque não precisa ficar gastando papel
+até até
+falando lá no
+pano mata no robô gigantes
+que tem essa função
+é, de responsabilidade
+responsabilidade
+responsabilidade ambiental
+porque ele pode ficar brincando
+lá o tempo todo e hoje
+ele desenha bem cara, ele desenha
+o meu moleque lá, ele fez um batman
+ele fez um homem-aranha lá que eu fiquei assustado assim
+eu acredito que essa geração aí
+se eles mexerem
+com as técnicas condicionais
+você só por curiosidade
+pode gostar, vão gostar, claro
+mas a coisa do digital
+não tem mais volta, né
+pra produção, é
+pra você produzir, consertar trabalhos
+porque você tem que alterar
+trabalho digital
+é muito menos complicado
+grande vantagem do mundo digital
+para o mundo real
+é que existe o controle
+eu só não sei o que vai dar
+a gente é disposto a tanta onda
+de me sei que vai lá
+pra lá, pra cá
+não sei o que vai dar
+achei até interessante
+que você falou lá no mdm
+que falou que as possibilidades
+são tão grandes
+que você acaba trabalhando mais
+que seria a ferramenta para fazer
+e você, ao invés de trabalhar menos
+você acaba trabalhando mais
+trabalha bem mais
+porque dá inúmeras
+possibilidades
+então você fica paralisado
+que você vê tanta coisa
+essa próxima versão do game
+as possibilidades de configuração
+de pincés
+vão ser tantas que difícil
+não dá, não tem como
+abarcar aqui
+é que naquele negócio
+que eu não faço na hora de usar
+é, na hora de usar
+eu fazia isso muito com
+eu já até contei a história
+mas na hora de desenvolver um software
+tem que fazer um framework
+que é tipo um correio de ferramentas
+que eu vou reutilizar várias vezes
+aí eu terminei de fazer o framework
+que eu já acabou o meu tesão
+agora que eu tinha que reutilizar
+o que eu fiz
+e vocês não mexem nenhum de vocês
+mexem com software gráfico
+para fazer alguma coisa
+para se vocês quiserem
+se vocês atuam nessa área também
+de implementar alguma coisa
+algum software livre gráfico
+se a gente contribuir em termo de código
+não
+a não ser o health mesh
+que está de história oculta dele
+tem várias histórias
+a minha realização
+no termo de programação
+de computação gráfica foi quando eu trabalhei
+com essa galera lá do AutoCAD que eu comentei
+e teve uma época em que a gente estava migrando
+do AutoCAD
+para uma ferramenta que a gente tinha que fazer tudo
+que o AutoCAD fazia
+trabalhava com georreferenciamento
+então não era muito artístico
+mas tinha a ver com computação gráfica
+eu já tentei contribuir
+para um projeto programando mesmo
+era para um projeto de desenvolvimento
+de fazer o ML
+que era em Java
+e eu sempre programei em Java
+e esse projeto eu tentei acompanhar
+na expectativa
+eu consegui fazer alguma coisa
+imagina que deve ser complicado
+tem vários critérios
+é porque não é bagunçado
+até a equipe de desenvolvimento
+aprovada é difícil
+o joeliz até comentou
+porque o pessoal falou que a software livre é aberto
+mas tem todo um critério
+para que se mantém a qualidade
+acho que software livre é bagunça
+você está pensando o que? que tranvesti é bagunça?
+você sabe que o software livre é bagunça?
+você acha que pode ser
+agora tem umas coisas assim
+que parece que podia
+sei lá, não é complicado
+igual um AutoSave para o GIMP
+uma vez eu tive que recorrer
+um conhecido meu
+que é desenvolvedor
+e o GIMP é um cara conhecido
+eu tinha falado que ele fez um rapidinho
+porque na época que eu usava o GIMP no Windows
+ele vivia dando problemas
+eu falei que eu desenhei muito de pressa
+desce dois comandos muito próximos
+dava um toque na tela
+e encostava lá num pincel para um trabalho
+e eu pedi o trabalho
+que eu sempre esqueço de salvar
+aí ele fez um AutoSave assim
+instantaneamente para mim
+eu fiquei usando um bom tempo até porque eu passei para o Linux
+e aí é tranquilo, não tem essas coisas
+e outra coisa também que eu vi ontem
+um script
+da janela única para o GIMP
+você tem até um ambificação
+eu acho que não sei se é forte
+GIMPBOX
+que é um script
+mas ele entrou
+e ele mudou minha configuração
+porque ele só funciona com aquele jeito
+onde as opções de ferramentas
+ficam do lado de esquerdo
+abaixo da caixa de ferramentas
+e eu não trabalho com as opções de ferramentas
+ali, trabalho com ela do lado direito
+junto com as outras paletas
+que eu montei ali
+e daí ele muda isso
+daí fica meio bagunçado quando você volta
+para o GIMP
+se abrir a caixa de lançar o programa de
+GIMPBOX ele entra com essa cara
+mas depois quando você volta
+para o GIMP normal
+já dá um probleminha
+então é uma coisinha que talvez tenha como
+você deve saber como é que é isso
+ele aceitar
+uma variação sem alterar
+muito
+mas ele faz a janela única e fica legal
+dos dois lados assim as paletas
+muito bacana embaixo
+das paletas que você abre
+é interessante
+é isso que é um lado do feedback
+de quem está usando
+tem muita coisa em Python
+a pessoa pode ficar assim até com receio
+de querer contribuir em alguma coisa
+mas vou ter que aprender mais mais
+vou ter que aprender mais
+mas o GIMP mesmo
+tem que funcionar muita coisa com Python
+GIMP
+GIMP
+GIMP
+GIMP
+GIMP
+GIMP
+GIMP
+é isso que é interessante falar
+acho que é toda a preocupação de grandes
+artistas igual você
+querendo pegar mesmo
+é
+igual o Cicero Moraes
+você conhece o Cicero Moraes?
+é, ele mexe com 3D
+e ele aprendeu
+o software também
+ele precisa de aprofundar mais
+em certas coisas, algo não é feito
+então ele precisou de aprender
+programação para mexer em alguma coisa específica
+que ele precisa
+ele já está no nível de customização tão grande
+é o Cicero da Coditas
+isso aí é muito legal
+pois é, como é que você vai conseguir isso
+com o proprietário
+é, esse script
+você colocar na mão de uma pessoa
+ela pode fazer uma adaptação
+um desenvolvedor que sabe mexer
+e o negócio voltar a funcionar é legal
+e quem está bem jogado
+Cicero em 2010, quase ninguém usou
+talvez
+tem essa coisa, precisa organizar
+precisa ter um grupo de gente que trabalha bem
+que eu igual falei
+e todos eles usarem pacotes de coisas
+divulgar aquilo
+eu acho que isso ajuda pra caramba
+o GPS por exemplo está aí
+falando a ser conhecido
+não é tanto como deveria
+mas já na Europa já está começando
+tem outras coisas
+tinha que juntar um grupo assim
+e para todo mundo ver como é que é que funcionam
+os caras fisitoriais
+aqui em Goiás a gente tem uma comunidade
+forte de fomento do software livre
+daí a gente sempre faz palestras
+participei agora do circuito Goiânido
+software livre e a gente foi no interior
+fazer vários cidades
+são dez etapas, a gente fez
+cidades, divulgando, fazendo palestras
+nas universidades e assim o pessoal vai
+conhecendo, quanto mais gente conhecer
+você acha que fica muito interessado
+tem uma galera que fica muito
+interessada, até a palestra
+que eu fiz com o alemão, a galera ficou
+bastante interessada também
+é até uma dica para a galera da organização
+do PSOL, a Niki vem trazer um boso
+é Goiânico, é o problema que eu sou ruim de
+viajar pra cara
+ou não
+às vezes me convido
+na Latina Oé, me convido
+eu sou ruim de viajar
+vou ver se o dia ainda vou
+ah é, lá na Latina Oé teve
+uma galeria de pessoas que usam
+que utilizam
+se fizeram espainéis
+ficou interessante, eu acho que vou
+receber uma alona daqui
+eu quero ver como é que vai ficar aquela impressão
+que eu fiquei curioso pra ver a impressão
+na alona né, perto, como é que é
+mas hoje como é que tá
+trabalhando muito
+eu fiz um
+esquema que eu tenho
+já tentei 30 anos de profissão
+então eu já não fico
+mais me estressando
+faço
+um negócio que dá um
+ritmo humano
+que hoje em dia todo mundo tá correndo demais
+acho que perder o ritmo, isso não é bom
+perder o ritmo, então eu tenho meus
+trabalhos, tenho uns clientes que eu fui
+conseguindo durante um decorrer
+do tempo
+eu fui utilizando software livre
+eles foram gostando, eles têm sem saber
+agora é que por causa do blog
+e porque eu acabei ficando usando
+direto mesmo, não teve jeito
+é que as pessoas vão sabendo mais
+inclusive o blog também
+é pra isso né, é pra divulgação
+dá um retorno
+pra aquilo que eu recebo né
+a intenção primeira foi essa
+é porque tem várias formas de monetizar isso
+não precisa ser diretamente com trabalho
+tem gente que ganha com a decência
+publicando né, tem as próprias doações
+no site, essas coisas, hoje que tem algum
+retorno disso que faz
+não, eu ainda não fiz um trabalho dirigido
+nesse sentido, aquilo ali
+a ideia que eu tive foi essa mesmo
+dá em retribuição aquilo que eu recebo
+pelo uso do gimp
+que eu ganho dinheiro com o gimp
+sobrevivo com o gimp, então eu quis
+passar uma coisa com os tutoriais
+mais nesse sentido ainda não pensei
+um esquema
+comercial pra usar no blog
+não, eu tenho um plano
+de vender reproduções
+de ilustrações, mas é
+o outro trabalho que eu tenho no dia a dia
+ele me absorve né, acabo
+esses outros projetos vão ficando todos encostados
+e vai indo, você deixa pra lá
+você tem que dar a prioridade mesmo
+o que você faz pra sobreviver
+tem aquele esquema de sketchbook
+não tem, porque o pessoal vem de sketchbook?
+é, tem, pode fazer um monte
+coisa né, tanta coisa né
+só parar, sentar, pensar e conseguir
+ter um tempo pra fazer
+possibilidade no falco
+tem que pensar direitinho
+colocar no papel e fazer
+às vezes eu penso começar com essa coisa
+da história em quadrim
+ou da história ilustrada
+tipo um quadrim
+e ver como é que dá pra veicular isso
+pelo blog, em alguma forma
+e da venda de reprodução dos meus trabalhos
+eu até também comendo
+se a pessoa quiser
+mas hoje tu chega a ensinar
+era um workshop?
+não, não, porque eu rindo mais
+eu sou aquela pessoa que mais
+ficasse sentada ali com atenção fixa
+no desenho, eu rindo mais
+eu acho que a coisa sai melhor assim
+é a primeira vez que você faz esses vídeos?
+é, no youtube
+eu botei o meu nome
+contrário, com o tumose
+não tem lá vários vídeos já
+então já tem um bom tempo que eu estou fazendo
+mas, infelizmente, não dá pra fazer mais
+passa uns espaços assim
+de tempo muito grande
+gostaria que fossem menores
+mas
+eu tenho feito bastante coisa
+ensinando o que eu aprendi
+mostrando como eu faço o meu jeito
+é o considerações finais?
+eu acho que
+é essa coisa de
+pedir
+pessoal pra usar
+usar, conhecer
+entender
+a ideia do software
+livre
+eu acho que é interessante
+entender
+a ideia do software
+livre
+eu acho que é interessante
+eu acho que é interessante
+conhecer isso
+eu tenho um problema com o teu nome
+porque eu tenho dois ídolos com o mesmo nome
+é o Mozart Couto
+e o Mozart Mela
+ele é guitarrista
+daí eu confundi
+eu estava procurando sobre Mozart Mela
+e achava sobre Mozart Couto
+quer dizer, eu queria achar sobre Mozart Couto
+e procurava sobre Mozart Mela
+mas, eu queria agradecer
+cara, eu estou de disponibilidade
+a gente enrolou pra caramba pra conseguir fazer
+tem problema não
+mas eu estou mega agradecido
+estou apogadão
+espero que tenha tido as informações boas
+nossa, valeu a pena demais
+qualquer coisa nós estamos aí
+tem mais alguma
+quem está começando
+quem está começando
+qual é a sua dica?
+no digital, no desenho mesmo
+acho que no geral
+seguindo seus passos
+o ideal seria fazer um curso
+uma coisa bem estruturada
+com bons professores
+mas, depois
+depende mesmo da pessoa
+muita disciplina
+muita prática
+estudar sempre
+ter recepção
+porque isso é muito importante
+mas, eu acho que você tem que ter uma coisa
+que é o tal do talento nato
+não é que quem não tenha isso
+não vá se dar bem não
+mas, o talento nato
+é que faz aquela pessoa desenvolver
+aquela arte assim
+que toca mesmo, que é uma coisa assim inexplicável
+o cara pode fazer até um rabisco
+que é diferente de todo mundo
+um rabisco que ele fez
+então, estudar muito, praticar muito
+hoje em dia, nossa, tem um campo
+tão aberto para fazer tanta coisa
+tem muita coisa para ser feita
+mas sem disciplina, sem prática
+sem estudo, é difícil
+isso é interessante porque
+você aprendeu alto de data
+mas mesmo assim, era assim
+em cima de livro
+e com disciplina de horário
+para estudar, para desenhar
+com aquela prática constante
+e sempre de tempos em tempos
+que ele começa a me incomodar
+eu vou mudar aquilo de alguma forma
+sempre tem
+essa visão crítica, a respeito
+do seu próprio trabalho
+nem esperar que os outros tenham
+a ideia que você tenha antes
+assim como o cara do GPS
+eu fazia retratos
+eu tinha um problema
+que tinha vezes que eu fazia retratos
+de alguma pessoa e até se eu perguntava
+quem era
+e já era um termômetro
+para ver que não estava muito bem
+não estava muito bem
+porque a galera pô, teve gente
+que ficou até grilado, assim, não
+escutei comigo, não
+sempre parece comigo não, mas é tu mesmo
+eu não, tinha visto o Nux
+H.K. Nux do Alemão?
+Tiringa, eu acho legal essa arte
+dessa desenvolvedor mesmo
+que eu tenho na edição
+é muito interessante
+se as suas figuras
+que as coisas me lembram
+mesmo essa coisa
+desenvolvedor, gente, que mexe
+com o Nets
+é muito legal, eu gosto muito
+eu também acho interessante pra caramba
+ele faz tudo com o Xcape
+é outro case de maneiras
+Música
+Música
+Música
+Mô, obrigadão cara
+desculpem
+desculpem qualquer coisa
+eu vou lá ver mais pot que essa
+não, beleza
+toda semana, como é que...
+era todo mês, né
+depois foi aumentando a cada dois meses
+tava quase que virando semestral
+então será que tem coisa nova?
+não, tem sim, é sexta-feira passada
+eu publiquei
+inclusive foi bem em cima porque
+eu fiz o anúncio do FGSL
+que é um evento que ia acontecer
+e eu fiz o anúncio do dia do evento
+o evento começava de noite
+eu publiquei
+eu consegui publicar o podcast
+eu achei meio dia
+não é fácil dar conta dessas coisas de internet
+porque assim a metodividade principal
+não é essa, né
+mas nem porque é um hobby
+é assim mesmo, meu blog
+não é mole não
+atualizar ele, manter ele
+é difícil
+tem alguma consideração final alemão?
+é uma honra, né
+entrevistar um ícone desse
+um íscone
+eu fico até, sei lá
+ainda adequado
+ainda apropriado
+então é isso, muito obrigado
+até a boa, gente
+qualquer coisa nós estamos aí
+abração pra vocês
+até mais
+e aí
+Então alegam ao Robo Parmei por produzir a casa e agradecimentos desse episódio
+Vamos!
+Muito original gente!
+Começando para quem mencionou a roba tribo do C.I. Notovieteira
+Agradecemos a roba Cezinha, Anderline Anjos
+A roba Marcos, Anderline Cunha
+A roba Otiago M
+A roba Emerson, Anderline Nerd
+A roba Pinheiro, Felipe
+A roba Ju Felix
+Ju com H, né?
+Ju, H, é Ju com H, né?
+É Ju, J, U, H, Anderline, Felix
+O Felix, F, L, X
+Vê levar a Dalemão agora, vamos agora para quem comentou no Poxi do episódio
+O Lucas comentou no título correria precoço
+O que que é isso?
+Esse aqui é um dos jovens que eu conheci lá em Santa Helena
+E isso?
+No circuito goiano de Softair Livre
+Basicamente, eu tenho que informar o Sr. Rafael Ct
+Que ele perdeu o título de correria precoço
+Esse é o título que eu inventei, sabe?
+Pessoal Juventude que tá aí vindo com tudo
+Coço umificado em correria precoço
+É porque ele já tá aí na correria e é o cara novo pra caramba, sabe?
+Belo título, belo título
+Então, o título correria precoço desse episódio
+Quer dizer, a gente não tinha falado ainda do Rafael, né?
+O primeiro título correria precoço vai pro Rafael Ct
+E agora, quem ganha, é o Lucas, lá de Santa Helena
+Um abraço, o Lucas, alias
+Começa a fazer um torneio aí, né?
+Até um troféu, um prêmio e tal
+Os podcasts geralmente dão o prêmio pra o primeiro comentário, né?
+E a gente aqui tem o título correria precoço
+Deixe seu comentário com idade
+E o que você faz, né?
+Nesse caso, o Lucas, ele programa IPHP
+Direto ele tá lá, tirando dúvidas comigo
+Assim, eu ajudo na medida do possível, né?
+Aí, Lucas, título correria precoço desse episódio
+Mas, Rafael, você foi o primeiro
+Então, você tem um lugar especial aí, né?
+No hall da fama dos correrias precoços
+Beijo, Rafael
+Até a próxima
+Um abraço ali na boca
+E o comentário dele no post foi
+Muito bom podcast
+Outro perfect
+Foi ele falar em inglês
+E o health...
+É o health...
+Health...
+O que é que é o health?
+A gente só...
+Tenho um pênchum
+Cara, muito bom
+Continui assim
+Valeu, cara, obrigado aí pela força
+E é verdade, ainda tenho um pênchum
+E tô rodando débil à squeeze
+Só como versão texto, né?
+Modo texto, não, cara
+Eu tô tendo todos os recursos pra eu dar uma placa em vídeo
+64 megas
+Nossa!
+Cara, e essa placa tem uma história interessante, cara
+Quanto pra nós?
+A minha mãe, ela ia fazer uma festa de aniversário pra mim, sabe?
+Isso em meados de 2003
+2002 ou 2003, eu não lembro
+E ela pediu pra eu escolher
+Ela fazia a festa de aniversário
+Eu comprava uma placa de vídeo
+Adivinha qual que eu escolhi
+Preciso nem a gente falar, né?
+Placa em vídeo, a vermelha da cor da minha placa, mano
+Antes eu tinha uma PC chips
+Aí a minha PC chips queimou
+Aí eu escolhi uma MSI só pra cada cor da placa
+Eu posso deixar de ter uma placa vermelha
+Pra pegar uma placa vermelha?
+Dica em vídeo
+Vocês tem que começar a fazer placa de vídeo rosa
+Então, pra mentar as vendas
+Nesse caso, a minha placa de vídeo
+Ela dá a manufaturada pela MSI também
+Então, eu tenho a placa mãe MSI
+E a placa de vídeo da NVIDIA
+Também da MSI
+E todas as vermelhas, que é o mais legal
+Tô te falando
+Daqui a uns dias a NVIDIA faz uma placa de vídeo rosa
+As mulheres vão comprar só por causa da cor, né?
+Vamos da continidade, né?
+Que a gente já perdeu o foco
+José Américo Globo
+Opa!
+Globo
+José Américo Globo comentou no nosso post do podcast
+É isso aí, Mozut
+Na luta para divulgar o soft lift nas artes gráficos
+Ótimo entrevista, ótimo papo
+Continue assim
+Valeu, Ida
+A Ellen é Fernanda, agradeceu
+Que a gente lembrou dela
+A Ellen do HTML
+Um abraço, Ellen
+Esse GTL, Ellen
+Essa pessoa, que não dá pra saber, né?
+Pelo pelo nome
+Você é homem ou mulher
+Fiz um comentário no episódio da programadora BR
+Conheci o site hoje, muito bom
+Vou começar a ouvir os mais antigos agora
+RS
+Pelo jeito...
+Eu falei o grande do Sul
+Sabe aquela piadinha?
+Não
+Tinha duas pessoas conversando no bate-papo
+Aí eu falei, de onde você é?
+Eu falei, sou de RS
+E você?
+Sou de kakaká
+Continuando aqui o comentário
+Pelo jeito não tem como sacrificar
+As madrugadas nessa profissão
+Legal saber que não estou sozinho
+Continue com o podcast
+Que está muito bom
+E, se possível, falando de programação
+Rises, parabéns
+Valeu aí
+E se você quiser mandar dicas de pauta
+Dicas de pessoas a serem entrevistadas
+Dicas de como ganhar dinheiro
+O Nucs agora está no Twitter
+Twitter.com.hknux
+Para quem não conhece o Nucs
+Eu sou o ator das tirinhas sobre tecnologia
+Acesse o site Nucs.org
+E seja feliz
+Deixa seu comentário lá também
+Compartilhe em busca do conhecimento
+E agora, queria falar de um projeto muito legal
+Que é um projeto do Arroba Eduardo Bayão
+Que é um player
+O projeto dele é um aplicativo para iPhone
+É o Megaboga Cache
+Eu estou sendo beta-test desse software
+Você está sendo um Megaboga Tester
+Olha que legal
+Pois é, e eu já coloquei a tribo do sei lá
+A página personalizada do tribo do sei ficou bem legal
+Tu viu lá, acho que eu mandei esse post no Twitter
+Depois vocês dão uma olhada lá
+Se você quiser também ser beta-test
+Por enquanto, ele está agarrando beta-test
+Para esse projeto
+E também ele convida aos podcasters
+Adicionar seus feeds
+E você também que se quiser ser beta-test
+Entre contato lá com o Arroba Eduardo Bayão
+Tudo junto
+Sem assento, é baial
+Mas tem que fazer para Android também
+Só para iPhone
+É um pouco muito restrito
+Cara, é uma boa dica
+Vamos esperar ele terminar, né
+Primeiro do iPhone
+Mas isso seria uma dica importante
+Porque são poucos players específicos
+Para tocar podcast
+Que tem essa gerencia de fias e essas coisas assim
+Então fica aí a dica também
+Como é que estão os planos
+Mas uma edição para Android
+Seria bem legal
+Falta no mercado
+Com certeza
+Eu queria mandar um abraço aí
+Para o Goiano Geek
+É o Tiago Eterno
+Do extinto site Goiano Geek
+Eu fiquei meio boladão
+Que eles acabaram com Goiano Geek
+Tu conheceu Goiano Geek
+Mas era bem interessante
+Eu fiquei...
+Eu até tentei ajudar
+Mas como era por causa de tempo e tal
+E aí não rolou não
+Mas Tiago Eterno
+Eu seria eternamente grande
+E fica convidado aí
+Se você quiser fazer postes
+Lá na tribo do CI
+Fica à vontade
+Cara, se quiser fazer review e tal
+Um abraço aliás
+Então não deixe de mandar seus feedbacks
+Comentando o arroba
+Tribo do CI no Twitter
+Ou curtindo nossas...
+A gente poderia falar
+Começam a falar também as pessoas
+Que curtiram, né
+No Facebook lá
+Teve o Enrique Woznik
+Enrique Woznik
+Cê é esse aqui?
+Tipo estivo Woznik?
+Foi Vinícius Reis
+Lloyd Maravirds
+Mas será Lloyd ou Lloyd Senna?
+Eu chamaria de Lloyd, né
+Lloyd Maravirds
+Daniel Buriê Holandine
+Felipe de Freitas
+O Emerson no Januário
+Esse cara é um grande esferas do
+XJS no Goiás
+Um abraço aí o Emerson
+A gente codificou muita coisa junto
+Ludmilla Silva
+Que pena que tá compromissada
+Valeu, um abraço a todo mundo
+Que curtiu a gente no Facebook
+Se você não curtiu, curta lá
+Nós falaremos de seu nome
+Isso é um grande...
+Grande coisa
+Então um abraço a todo mundo
+A todos os miguxos do Facebook
+Quer dizer, do Facebook
+Não se esqueça de mandar o seu feedback
+Para podcastarrobatribudosci.net
+Ou www.tribudosciarrobatremeio.com
+Ou então mencionando
+Arrobatribudosci no Twitter
+Ou se não curtindo a página do Facebook
+www.facebook.com.br
+www.tribudosci
+Ou porque não comentando
+No post do episódio
+Tudo tá valendo
+É isso aí pessoal, valeu e até o próximo episódio
+Falou
+Pode falar que eu não ligo
+Agora amigo
+Eu tô em outra
+José Américo Gogo
+Naquele monstro da Star Trek
+Star Trek?
+Como é que é o nome dele?
+O que?
+Aquele que o amigo do Spock
+Lá luta com ele
+Ah, né? O Chewbacca?
+Não
+Isso é Star Wars
+Esse nerd é tudo um fiasco
+O outro
+O outro do sorte livre
+José Américo
+Agora é a editar essa parada
+Eu acho que vai dar em duas partes porque tá bem comprido
+É
+Mineiro tem muita conversa
+Mineiro gosta de causa
+É de muito causa
+Eu só posso interagir
+Não, ele tinha uma atras
+Foi ele tudo
+Foi a minha morada, não?
+É o cliente
+Tá aqui
+Eu não salvei cara, até agora eu não salvei nada
+Nossa, você clica a pauzinho
+Vai até falar mais sobre o Gogo do Bacca no final
+Agora deu na minha hora de gravação
+Nossa
+Se nem ver, passando
+Eu não vou falar mais pra gente
+Eu decava você de lá cara
+É muita nostalgia
+Meu padrinho tinha um radinho que ficava a noite inteira
+Obrigado
+Rádio Nacional da Amazônia
+Um abraço a você
+A gente mandava cartinha pra ele
+Eles mandavam um calendário
+Com os locutores
+Então se você tem calendário
+Ou se você foi ouvinte da Rádio Nacional da Amazônia
+Não se esqueça de mandar seu feedback
+Que hoje eu passei
+Batom vermelho
+Eu venho te dar
+Alegria como dom
+Em cada canto eu vejo
+O lado bom

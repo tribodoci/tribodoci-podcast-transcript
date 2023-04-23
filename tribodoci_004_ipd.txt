@@ -1,0 +1,1435 @@
+Você está ouvindo a Fribo do CRI FODECAST!
+Fribo do CRI FODECAST, episódio 4 para o dia 27 e do 8 de 2010, Arquitetura de Computadores.
+Meu nome é Sheldon Led e meu cérebro funciona segundo a arquitetura de Von Neumann.
+Meu nome é Alemão, sou o substituto do Sebastian Hellsum e neste podcast vamos falar sobre o que rola dentro do computador e como é trabalho.
+Fribo do CRI FODECAST, episódio 4 para o dia 27 e do 8 de 2010, Arquitetura de Computadores.
+Fribo do CRI FODECAST, episódio 4 para o dia 27 e do 8 de 2010, Arquitetura de Computadores.
+Bom, como pessoal pode perceber aí, o podcast está sendo gravado todo o final do mês.
+Então a gente decidiu ser eu mais o Sebastian Hellsum fazendo uma reunião ali e decidimos fazer dessa maneira nosso intuito é entregar o podcast toda a última sexta-feira do mês.
+Pelo menos até o final do ano está projetado para ser assim.
+No mês passado teve um atraso, a gente entregou no sábado e esse mês nós vamos tentar entregar no horário certo.
+Mas eu não prometo, se vocês estiveram ouvindo e agora, no dia que não é o dia 27 de agosto, então vocês podem culpar na gente aí porque realmente é muito complicado.
+É muito comum você ver pessoal da área de programação atrasar nos projetos aí.
+Não vai ser diferente na hora das nossas coisas que a gente faz por prazer também.
+Eu queria falar também que a gente gravou o podcast no meio do mês passado e ele foi entregue só quando já tinha voltado do Fizz.
+Então ficou assim até às vezes um pouco desconexto assim, eu não tenho falado do Fizz sendo que eu já tinha ido e tinha voltado e no podcast não falei nada do Fizz.
+Então está aí a explicação que é porque realmente a gente gravou bem no começo, mais ou menos no meio do mês.
+E foi por causa disso que a gente não falou no Fizz. Fala sobre as gatilhas de lá no Fizz né?
+Rapaz do céu!
+Te contava aí, porque o povo fala lá do Rio Grande do Sul, realmente tem muita uma é bonita lá.
+Quando eu cheguei lá eu ia fazer um álbum gigante com todos os meninos bonitos que eu vi esse lá e ia tirar uma foto e ia colocar no site.
+Mas eu fiquei meio frusado que eu chegava em um, tanto é vergonha que a gente tinha coragem de pedir uma foto pra ela.
+Mas para as modelas eu não tinha vergonha não, era fácil né?
+É só namorada, por causa de só namorada né?
+Ah não, mas ela sabe que eu sou fiel a ela.
+Já aquela história lá da sua foto que você tirou sem dúzia de frio, você tirou o sonor da foto?
+Não, aquilo lá foi o seguinte, o pessoal que me segue no Twitter aí viu lá que eu tirei a foto e coloquei no tweet pic,
+deu sem dúzia de frio a 12 graus Celsius.
+A verdade é que quando eu fui pra lá o pessoal fez tanta polêmica que lá tava tão frio, mas tão frio,
+eu não ia aguentar só com dúzia de frio normal e tal.
+E eu comprei um monte de dúzia de frio, levei pra lá e eu consegui ficar lá razoavelmente bem até os 10 graus Celsius mais ou menos.
+Só que aí eu sempre tava de dúzia pra evitar que a temperatura caísse demais, eu não morri de frio lá.
+Mas realmente a gente teve sorte, o pessoal que foi com fizes aí, que não acostumado com frio,
+teve sorte que lá no Rio Grande do Sul, na semana anterior, já teve temperatura negativa lá.
+Quando a gente tava lá, a temperatura tava bem agradável em relação aos outros dias, né?
+Aí foi tão complicado lá.
+Mas sabe o que eu mais gostei lá?
+O que foi?
+Rapaz, eu virei nerd verdade agora.
+Ué, que história é assim?
+Pois é, quem viu aí no YouTube eu lancei no Twitter também, eu lancei aqui no blog,
+como muitas pessoas sabem, né?
+Tem aquela teoria de que a pessoa só é nerd, se um outro nerd chama de nerd.
+Aí eu usando a minha astúcia, eu fui lá no John Mad Dog How, que é o presidente da Linnos Internacional,
+ele tava lá e tava um cara, né?
+Tá pensando o quê?
+Aí eu fui lá e falei com ele, conversei com ele lá um pouquinho e tal, eu pedi pra ele falar.
+Conselho, nerd!
+Obrigado!
+É um conhecimento de informática, você acha?
+Isso é muito bom, até eu mesmo sou muito lumber nessa parte, então eu tô aprendendo, você tá aprendendo.
+É igual aquela história, né?
+Se eu tô ensinando, você tá aprendendo essas coisas.
+Gente, quando a gente tem ensinando, a gente aprende cada vez mais.
+Eu fuçando na internet esse negócio de podcast, eu acho um podcast que é bem iniciante mesmo,
+bem pra pessoa que não tem nenhum conhecimento de informática, que é o papobjpenet.
+A URL pra você acessar o podcast é http www.papo.bjpenet.com.br
+Vai tá no post lá, você acessa o post do nosso podcast que vai tá o link lá embaixo pra você acessar.
+Agora, vai realmente ver o e-mail, né? Teve um e-mail do Georgia.
+A gente recebeu também um e-mail do Rafael Coltinho, parabenizando o podcast também, o nosso blog, todo o conteúdo, o podcast.
+Muito obrigado e Rafael Coltinho.
+Também recebemos um e-mail do Georgia, que a gente tinha comentado no podcast anterior, que eu tinha feito a paródia, né?
+E aí ele esqueceu de mandar pra gente, ele mandou uma letra aqui, mas a gente não conseguiu aquele apoio de gravação pra gente disponibilizar e as paródias.
+Mas estamos trabalhando nisso também.
+O Georgian também falou, corrigindo lá que a gente falou sobre RIA, que é Reach Interface Application, que é aplicações de interface rica.
+Na verdade, segundo Georgian, é Reach Internet Application, aplicações ricas para internet.
+Então, aquela hora que eu tava falando lá no podcast, segundo Georgian, eu tava certo, que era Reach Internet Application.
+Também ele falou assim que no segundo podcast a gente falou que o mundo vai acabar em 2012, e segundo ele, uma pesquisa realizada pela própria NASA devido à polêmica do caso,
+provou que os cálculos anteriores estavam incorretos, mas não preveram o fim para 5.126 anos após o fim do último período do calendário Maya,
+que foi calculado em 3.114 anos de crise, mas novas pesquisas provaram que o último período do calendário Maya foi depois de 2.000 anos de Cristo.
+Sendo assim, o mundo está previsto para depois do ano 3.000.
+Segundo o Georgian, isso foi explicado pelo Discovery Channel, pelo fantástico jornal da Globo e outros, e não é ele que tá inventando.
+Eu sempre invento a desculpa, né? Quando tá perto de chegar na data, eu sempre invento a desculpa, igual que na época de 2.000.
+Não sei se vocês lembram dessa parada de 2.000, que falar que o mundo ia acabar também.
+Ah, é, lembra? Lembra? Você não teve um pessoal aí que se matou, tá?
+Pois é.
+E aí, sempre acontece essas coisas mesmo. O mundo já era pra ter acabado umas 10 vezes até hoje não é nada.
+Eu só enviei de esperar o mundo acabar, porque eu quero inventar a história.
+Quanto a 21 de dezembro de 2012, segundo o Georgian terminando a explicação dele,
+ocorrerá um alinhamento dos planetas no sistema solar contra o Sol, causando uma eclipsa solar, o mesmo que ocorreu em agosto de 1998.
+O resultado disso é alguns meteoros na Terra devido à perda da proteção de Júpiter, que não os deixa cair na Terra.
+Uma pequena alteração no eixo da rotação da Terra, e a destruição de alguns satélites como ocorreu antes.
+O máximo que pode ocorrer é a queda no setor de comunicação e perjuízo de alguns milhões para muitos empresas, o resto do planeta ficar inteiro.
+Ou não.
+Ah, essa parada deve ser o alinhamento das estrelas de Cucã, quem assistiu Tatarugas Ninjas 3 e vai entender que eu falei.
+Como eu não assisti, então não entendi.
+É beleza.
+Então, fiquem espertos.
+O fim está próximo.
+E eu queria pedir para o pessoal ir mandar o feedback dos nossos podcasts sobre o blog inteiro.
+O email é www.tribudosciarrobagmail.com
+E para você mandar o feedback dos podcasts, é o podcast www.arrobatribudosci.net
+Então, a gente disponibilizou tanto o e-mail do nosso site quanto o e-mail do Gmail também.
+Porque tem alguns ferramentos do Google que são mais fácil de trabalhar com o e-mail próprio deles mesmo.
+Então, a gente disponibilizou, assim, os dois e-mails também, porque às vezes a gente fica online pelo getal e tal, e todas as coisas estão lá.
+Então, agora vamos para a segunda parte.
+Introdução, parte teórica e ideológica.
+Então, vamos lá. Agora a gente vai para a introdução, né?
+A primeira coisa que eu quero falar aqui nesse podcast é como que surgiu a necessidade de um computador.
+Você sabe como foi?
+Olha, véi, dizendo para o meu professor do primário, ela me falou que na época de Cristo o povo tinha as ovelhinhas, aí contava nos pausinhos e tal.
+A gente tinha a necessidade de gravar essas informações em algum lugar para saber quando as ovelhinhas sim.
+É isso aí?
+Bom, basicamente, essa é mais a história para crianças, assim, pessoal que tem pouco conhecimento do mundo ainda, né?
+Porque, na verdade, o computador, como você vê hoje, ele é um... o surgimento dele deu-se da necessidade que é uma breve história que eu contarei para vocês agora.
+No início, havia-se a filosofia.
+Com o aumento da quantidade de conhecimento, houve a especificação das áreas de pesquisa surgindo à física.
+Com o crescimento da física e seus cálculos complexos, surgiu a necessidade de pessoas especializadas em matemática.
+Porém, os cálculos precisavam ser calculados mais rápidos e com menos eras,
+por da onde surgiu-se a informática, que seria informação mais matemática.
+Isso é anotado ao ver que os primeiros nomes da história da informática eram nomes de grandes matemáticos,
+pois os especialistas em informática foram surgir apenas imerrados de 1970.
+Então, como vocês podem ver nessa história, foi basicamente isso aí que aconteceu.
+E vocês podem ver como eu falei na minha frase de inicialização,
+John Von Neumann foi um dos primeiros, vamos dizer assim, um dos primeiros Vicks da área da informática.
+Então, a gente não vai citar pouquíssima coisa sobre a história da informática,
+porque nós cremos que um dia nós vamos fazer um podcast bastante completo sobre a história da informática.
+John Von Neumann também foi o idealizador da máquina, como vocês veem hoje,
+uma máquina que tem processador, placa-mãe, memória, foi a partir dele que surgiu esse conceito.
+E ele era um matemático, você sabia?
+Não, eu não sabia.
+Pois é, eu achava que lá era o DJ.
+Ah, me vambiu.
+Ah não, é Von Neumann.
+Nada a ver.
+Pois é.
+Então, a criatura básica de um computador, funcionamento básico, você sabe como funciona?
+Sei não, eu explico mais nada.
+Então tá bom.
+A entrada de dados, funcionamento básico do computador é basicamente o seguinte,
+você entra com os dados, ele processa os dados e saia alguma informação que você deseja.
+Simples, né?
+Demais, eu não sabia que era tão simples assim.
+Tudo aquilo que você vê, que você gasta 3 mil reais para comprar, basicamente isso aí.
+Você entra com os dados, ele processa os dados e sai informação.
+E isso aí, você pode ver assim, às vezes você pensa, ah, mas eu estou assistindo o filme,
+eu nem estou entrando com dados, nem nada.
+Mas tudo que você, por exemplo, para você assistir um filme, você teve que entrar com os dados,
+que eram os arquivos do filme.
+O processador teve que processar a imagem do filme, teve que mandar para a placa de vídeo,
+ser processado para mandar para o monitor para desenhar a imagem na tela.
+Então tudo isso aí, você entrou com os dados, houve um processamento ali dentro,
+e ele devolveu o filme com o áudio e vídeo para você assistir e se divertir com a sua namorada.
+Hmm, é, tá vendo aí?
+Ah, mas, e se eu estiver digitando lá no meu computador, e quando ele faz bam,
+é saída de informação ou é saída de erro?
+Ah, então às vezes acontece o seguinte, porque o computador, assim como todo sistema,
+ele tem duas saídas, ou é saída desejada ou uma saída de erro.
+Isso é bastante estudado na matéria de cálculo numérico,
+onde você calcula exatamente, até certo nível de precisão,
+onde o seu sistema vai dar um erro, certo?
+Hmm, agora eu entendi.
+As duas palavras que a gente mais ouve falar de computador,
+é hardware e software.
+Você sabe o que é hardware e software?
+É hardware que você chuta e software que você tira.
+Eu ouvi bastante falar, essa brincadeira aí que o pessoal faz,
+mas pra falar a verdade, eu só xingo mesmo quando eu tô usando Windows.
+Hahaha, brincadeiras à parte.
+Então, mas o meu monitor eu xingo e bato nele?
+Não, tem gente que bate no monitor, pensando que vai adiantar alguma coisa,
+mas pra quem usa computador, eu já tenho dois anos que eu não uso computador,
+eu só uso notebook, mas tem gente que vai usar o computador,
+aquelas telões de CRT.
+Quase todo mundo, assim, que não tem muito conhecimento de informática,
+pensa que a parte principal do computador é o monitor,
+sendo que não é o monitor, a única coisa que ele faz é jogar imagem pra você.
+O que fica mesmo, o que é o computador mesmo, é o gabinete,
+que as pessoas costumam chamar de CPU.
+É, tanto é que você pode mexer no computador com monitor desligado,
+você puder saber o que você fez com monitor desligado,
+aí você vai ver que não precisou de um monitor pra você mexer nele.
+É isso, cara. Eu já fiz isso já.
+Eu já brinquei de ficar mexendo com o computador sem monitor.
+Um dos conceitos básicos do computador também
+é a arquitetura chamada de código binário, ou números binários.
+Meu computador é digital, ele só tem dois níveis de compreensão,
+que é o 01, que são os códigos binários,
+que seria basicamente 0V e 5V, 0V e 3V.
+Na verdade, 3V até 7V ele entende como 5V,
+e pra baixo de 3V, até menos 1V, mais ou menos,
+ele entende como 0V.
+Ele é igual a esse aí, pra não ter problema, porque imagina,
+às vezes, dependendo do jeito que sua fonte leva energia pra placa mãe,
+vai entender uma informação diferente e tal,
+aí você pode ter problema também.
+Então, ele é igual a esse aí, pra ele,
+ele só entende o 01, que é 5V, e o 0, que é 0V.
+O que vier perto de um ou perto de outro, ele arredonda,
+pra facilitar o conhecimento, pra facilitar também na hora de trabalhar.
+Eu imagino, um engenheiro de computação,
+foi mexer lá na arquitetura do computador,
+e ter que ficar pensando em cada tensão que vier diferente,
+seria bastante complexo, e seria impossível ser conversar
+na minha ciência do que sua tia.
+E aquelas paradas das letrinas descendo o Matrix,
+aqui lá, seria pra representar os alienes,
+aquele negócio do Matrix lá, que lá foi bem na época
+que o Linus sentava no auge, né, porque o Matrix 1,
+ele foi lançado no ano 2009, foi no cinema.
+A interface gráfica do Linus foi crescendo muito depois,
+não muito depois, mas ele ficou mais...
+O que o Linus era pra servidor, né?
+Então, ele não precisava de uma interface gráfica muito legal.
+O pessoal usava mesmo uma interface de texto mesmo,
+que é o Shell.
+Então, o Matrix ele dava a entender esse aí,
+que o pessoal usava só a interface de texto,
+e não precisava de interface gráfica.
+Pra você, como o pessoal que tava fora da Matrix,
+era considerado os hackers da Matrix,
+e hacker México-Linus,
+então eles queriam identificar mais ou menos isso aí.
+Aí, eu tô só hacker, tô...
+Vai, desde que você tenha um conhecimento avançado,
+não muito avançado, mas que seja um pouco acima do nível,
+é hacker, você sabia que hacker aí?
+Eu achava que hacker era quem sabia hacker MSN,
+o culto, você faz isso aí.
+Não, pelo amor de Deus, não, cara, não mesmo.
+Quem pensa que hacker é aquela pessoa que faz códigos malignos,
+tipo invadir sem alguma coisa assim,
+pegar sendo os outros,
+esses tipos de programas que fazem essas coisas,
+não são hackers.
+Pelo amor de Deus, não pensem isso.
+A palavra hacker, ela vem pra definir uma pessoa
+que sabe muito sobre uma determinada coisa.
+Ou seja, se você sabe muito costurar,
+você é hacker da costura.
+E assim vai.
+O conceito de hacker é mais ou menos assim,
+hoje, depois, no século XXI e tal,
+aí o conceito de hacker foi só pra área da computação, né?
+Só que, na verdade, o pessoal tenta...
+Tem pessoas que defendem hacker como simplesmente a pessoa
+que entende bem, e as pessoas que usam a inteligência
+pro mal são os crackers.
+Tem pessoas que não, que pensam que hacker
+é o cara do mal mesmo, e tal.
+Sem variando de pessoa.
+Agora, ao meu ver, hacker é aquela pessoa
+que simplesmente sabe bem.
+Da área da computação.
+Vamos deixar de papo, vamos continuar
+com a edificação da arquitetura.
+Bom, mas não sei se você já explicou,
+mas como é que o computador
+ele interpreta o 0 e o 1?
+O que cada um faz?
+O que o 0 representa, o que o 1 representa?
+Ah, tá.
+Então, o computador, ele entende 0 e 1.
+Só que é impossível você trabalhar com 0 e 1 apendo.
+Então, a pessoa, o computador, ele agrupa,
+faz agrupamentos de 0 e 1
+e formam os outros códigos,
+que são os níveis assim.
+Então, o 0 e 1 é a linguagem de máquina.
+Depois, da linguagem de máquina,
+você tem a linguagem, a primeira linguagem
+de baixo nível, que é o assemble.
+Através desse linguagem, você pode programar
+os dispositivos que tem no computador.
+E aí, sim, você pode realmente mexer
+com o computador a um nível mais humano.
+E assim, você pode conseguir fazer
+o seu computador trabalhar da forma
+que ele realmente trabalha.
+Porque o computador, na verdade,
+ele somente entende 0 e 1.
+Ele somente soma e subtrai.
+Tudo o que o computador faz,
+através de zeros e uns,
+agrupados de diferentes formas,
+e operação de soma e subtração.
+Mas você pode pensar assim,
+ah, mas e a raiz quadrada?
+Ah, mas e as outras, sei lá,
+logaritmo, multiplicação, divisão.
+Por exemplo, a multiplicação,
+elas são somas consecutivas.
+A divisão são serviderações consecutivas.
+Então, o computador, ele só entende si.
+Porque, através dessas duas operações básicas,
+você pode montar qualquer outra operação
+dentro da matemática.
+Ah, agora entendi.
+Mas o zero, ele é representado
+como sim ou não?
+Você tinha falado mais ou menos isso,
+um golinho?
+Isso depende muito da implementação.
+Você pode identificar o 1 como não,
+o zero como sim.
+Defende da pessoa.
+Mas existem padrões para desenvolvimento.
+E é padrão que o zero,
+ele é considerado como não,
+e o 1 como sim.
+Até mesmo o seu comportamento na arquitetura básica,
+que o zero é ausência de energia,
+e o 1 existe energia dentro.
+Quem vê número binário,
+zero e um, pode achar bastante parecido
+com um conceito de programação,
+que são os números boleandres.
+Na verdade, o número boleano,
+ele trabalha bem semelhante
+com os zeros e uns.
+Ele só tem duas opções,
+o verdadeiro ou o falso.
+Assim como o código binário,
+ele trabalha com zero e com um.
+Então, é isso aí que você pode ter
+como semelhança da linguagem de programação
+de alto nível para uma de baixo nível.
+Quem não sabia, o Únix,
+de primeiro, foi feito em linguagem de baixo nível.
+Eu prometi que não ia falar de história.
+Então, não vou falar história,
+mas é esse mesmo.
+Vou deixar um sabor
+no ar de história do Únix,
+no caso que o Únix foi feito
+a princípio com a linguagem de acêndio.
+E depois,
+Vennus Rich e o Ken Thompson
+se transportaram o Únix todinho
+para a linguagem C.
+E aí foi quando surgiu o software livre,
+que foi deixando essa história
+para o próximo podcast.
+Então, todo podcast a gente fala
+que vai ter uma história sobre outro podcast.
+Eu acho que, antes que vem,
+a gente vai pegar esse podcast desse ano
+que vem em terim.
+A gente falou que o computador
+tem três níveis.
+Entrada, processamento e saída.
+Geralmente, quem faz o primeiro período
+de alguma cuja informática vê muito isso aí.
+E agora, quem não faz,
+às vezes fica entendendo por que
+entrada, processamento e saída,
+como funciona esse aí.
+Então, vamos falar agora sobre os dispositivos de entrada.
+Entrada
+É como você entra dados no computador.
+Então, vamos ver várias formas
+de como entrar dados no computador.
+Para você gerar entrada
+de processamento
+para dentro do computador,
+você pode usar vários dispositivos
+que alguns são bem padrões.
+Sem ele, você não tem como entrar
+dados dentro do computador.
+A não ser que você chute ele
+ou dê uma carga de energia bem forte.
+Você vai estar entrando dados.
+Lembra aquela frase
+que você chuta.
+Qual seriam as peças
+que a gente entra
+dados no computador através dessas peças?
+Bom, há mais padrão
+que eu acho que todo mundo conhece,
+que é impossível não conhecer o teclado.
+É um chip, uma placa
+com vários entradas,
+vários circuitos, que você quando
+tecla, ele manda um
+sinal para o computador
+usar aquela tecla, e se você tiver
+monitor, tiver um editor
+de texto aberto, por exemplo, ele vai
+aparecer a tecla que você digitou.
+Tem o mouse também, que historicamente
+se juntou ao teclado para auxiliar
+no processamento de entrada de dados.
+Especialmente usado
+para interferir esse gráfico.
+Dependendo do programa, o seu uso
+precisa de só de um teclado. Agora tem
+programas como o Photoshop, por exemplo.
+É impossível você fazer alguma coisa no Photoshop sem um mouse.
+Eu consigo.
+O scanner
+é um periférico de entradas responsável
+para digitalizar as imagens.
+Ou o que o povo diz é
+escanhar a imagem.
+Fotos, textos, impressos,
+tudo que cabe dentro do scanner
+você pode mandar para o teclado com o talão.
+O scanner, ele faz o processo
+inverso da impressora.
+O scanner é o dispositivo de entrada
+e o impressora é um dispositivo de saída.
+Hoje, o scanner
+vem junto com a impressora, que são aquelas impressoras
+multifuncionais.
+Tem o scanner que você entra dados no computador
+tem a impressora que tira dados no computador
+e tem as impressoras
+multifuncionais.
+Tem a opção de você tirar a cópia na hora
+de um documento, por exemplo.
+É, que ao invés de mandar para a tela
+você manda com papel
+o xerox.
+É o microfone que a gente está usando
+para gravar o podcast.
+Converte o som
+em dados elétricos
+para dados digitais.
+O microfone
+transforma dados analógicos
+em dados digitais.
+É um conceito bastante interessante
+que é bastante falado na computação.
+Dado analógico, você sabe o que é um dado analógico?
+O que é o mundo analógico e o mundo digital?
+O que eu sei é o relógico
+que tem no ponteirinho.
+O relógico do ponteiro
+pode ser usado como exemplo
+para ilustrar essa diferença entre
+o mundo digital e o mundo analógico.
+Tem aqueles relógios
+quando você está passando
+um ponteiro de 1 minuto, você não sabe
+se é 1 minuto, 2 minuto, 3 minuto.
+O ponteiro, ele vai passando ali
+ele passa por vários pontos.
+Você não pode identificar se é
+realmente 1 minuto em ponto
+ou se é 2 minutos em ponto
+ou se é 1 minuto e meio. Não tem como descrever
+aquilo ali. Agora no relógio digital
+você vê que lá é 2.
+Quando está 2, então é 2 minutos, independente do segundo.
+O mundo analógico você pode ver da segunda forma.
+Por exemplo, é aquela teoria matemática
+que entre o 0 e o 1
+ou entre o 1 e o 2 existe
+infinitos números. Entre 1
+e 1,1 existe infinitos números.
+Aí eu vou falar de teoria matemática
+que senão eu vou assustar também, né?
+É, porque eu já não estou entendendo mais nada
+do que você está falando.
+Então eu só vou encerrar aqui.
+No mundo analógico você
+não tem precisão de
+tamanho. Por exemplo, ele pode ter
+se você mede com a régua 10 centímetros
+na verdade ele pode ter 10 centímetros
+1,1,2,3,3,3 infinitos números
+depois da vígula de milímetros
+por exemplo. Então você não pode
+medir precisamente. O mundo
+digital ele cria
+essa precisão. Você tem
+a precisão do 0 e 1, não tem
+espaço, ele é 0, ou é 1, ou é 2,
+ou é 3. Então essa é a
+diferença entre o mundo digital e o mundo analógico.
+A nossa voz, ela é gravada,
+ela é um formato analógico.
+Quando você passa ela para o computador
+ela entra no formato digital.
+E é isso que acontece, porque o computador
+só entende o mundo digital.
+A gente esqueceu de falar sobre o
+todoscreen, você poderia falar sobre
+o todoscreen, por que com um monitor
+normal você clica e não funciona?
+Então o todoscreen ele é bastante
+novo assim na área. Eles dizem 3 tipos
+de todoscreen. Eu vou falar assim
+do que é mais comum e
+também o mais fácil de explicar. O monitor
+ele é constituído de um painel de
+vidro normal recoberto com uma camada
+metálica, condutora e outra
+resistiva. Aí essas duas camadas
+são mantidas afastadas por os
+passadores e uma camada resistente
+a riscos é colocada por
+cima de todo o conjunto.
+Uma corrente elétrica passa através
+das duas camadas enquanto o monitor está
+operando, no caso. Quando o usuário
+toca a tela, aí encosta uma camada
+na outra, porque ele tocou na tela
+e vai diminuir o espaço e encosta
+Então ali, a malha que tem no monitor
+ela reconhece que se tocou
+e ali, naquele ponto
+é exato. Por exemplo, no ponto 33
+do campo x e 20 do
+campo y. Então ele considera
+aquele campo ali, aquele ponto
+ali no software, significa
+tal coisa. Aí
+ah, então o monitor tem
+um software ou o próprio
+computador faz esses dados?
+Não, o monitor ele faz
+todos esses calcos. O que
+o software precisa entender só
+é como manipular quando o usuário
+toca naquele ponto ali.
+Se você pegar um seu operacional
+que não tem suporte a todoscreen, ele
+não vai funcionar o todoscreen, porque
+ele não vai entender o que você está
+clicando. Ele vai receber aquele sinal
+e não vai entender. Vai receber
+aquela entrada, porém ele é incapaz de
+processar aquela entrada. Ah, então
+o todoscreen funciona mais ou menos igual ao
+mouse? É, quase igual ao mouse.
+O software do mouse é mais ou menos
+um mouse e você
+percorre o mouse e clica
+com, você clica nele.
+O todoscreen, ele não tem
+a opção de percorrer. Você só
+simplesmente clica, determinado ponto.
+Ah, entendi.
+É, temos aqui também as mídias removíveis
+CD, DVD.
+Ah, o CD, DVD, CD, DVD.
+Disquete, pendrive, etc.
+Essa classe
+é armazenamento
+secundário, porém removível
+ao contrário do HD. Por que ao contrário do HD?
+Porque o HD não é removível, né?
+Ah, mas se você arrancar
+do cabuflete, ele remove.
+Se você arrancar seu braço, ele sai também.
+Em seu corpo.
+Obrigado.
+Bom, agora vamos falar
+sobre os dispositivos de saída.
+Que é a saída. Tenho
+a entrada, o processamento
+e a saída. A dispositiva de saída
+são quando você já tem os dados
+processados e ele já vai te devolver
+uma informação. Como quem está usando
+computador geralmente é um ser humano?
+Então, os dispositivos de saída
+se prendem
+aos sentidos humanos, né?
+Que é visão, audição, tato.
+E infelizmente, ainda está em pesquisa
+dispositivos de saída
+para cheiro, né? Que tem
+projetos para criar televisão com cheiro e tal.
+Mas isso ainda não está
+no mundo comercial ainda, né?
+É, eu vi esse projeto, parece que foi em
+2002, 2003,
+essa televisão de cheiro até hoje
+eu não vi no mercado. É, porque
+tem coisas que são bastante complexas
+e não dá para implementar no mercado tão
+rapidamente.
+Às vezes, pode ser até alguns protótipos prontos.
+Às vezes, o pessoal pode até mandar em neve
+e falar, já tem isso pronto, não sei o que.
+Realmente, mas no mundo comercial, que é um mundo
+onde você pode ir lá no mercado, independente do preço
+e lá comprar, eu ainda não tenho notícia
+de que existe aparelhos que exploram
+esse sentido humano do cheiro.
+Sim, os dispositivos de saída
+aprendem a visão, a audição, então
+tem o monitor, né? Que é onde você vê
+as informações saindo, a caixa de som,
+o headphone, que é o que você escuta,
+uma música, uma fala, qualquer coisa do tipo
+e tem a impressora também. Quando você
+precisa de um documento e tal,
+uma foto, qualquer coisa que você
+precisa de guardar de forma
+permanente,
+você usa a impressora, que ela
+vai pintar um papel e
+ali você vai usar esse papel para alguma coisa.
+É, igual nós falamos anteriormente
+a xerox, né? E a xerox
+é como se fosse um dispositivo de entrada
+e saída. As impressoras
+tem vários modelos, acho que a mais
+conhecida que tem em trabalho do mundo comercial
+é aquela de...
+Como é que eu não dou? Aquela é a matricial,
+que são as impressoras de impacto.
+Elas baseam no princípio
+da calcação, por exemplo, você colide
+uma agulha, uma fita de tinta,
+aí ele vai reproduzir os caracteres
+e sai na impressão,
+que geralmente você vê nos mercados
+aí. Elas têm um interessante
+por elas ser de impacto, elas podem
+imprimir em dois papéis ao mesmo tempo,
+sem os benefícios de se ter um impressor
+impacto. Também a impressora já de tinta,
+que eu acho que é a mais conhecida,
+mais do que a matricial,
+que tem dois cartuchos,
+geralmente, ele joga as tintas,
+as gotinhas de tinta, bem minúsculos
+até formar
+pontos claros, pontos escuros e até formar
+por um todo a imagem,
+do jeito que você quer, imprimir.
+Esse é o processamento
+que o computador
+faz mais impressora,
+que regula o tanto de tinta que cai
+e, também, determinado ponto
+da folha.
+Você quer design, você tem que explicar
+as paradas, hein? Eu não sou muito bom
+para explicar.
+Bom, as impressoras
+são laser, são de laser
+literalmente, praticamente,
+queima o papel,
+mas, assim, elas são um pouco mais caras
+pela sua
+qualidade e tudo mais
+e são usados muito
+para aqueles banners.
+Impressora térmica, o que
+que é a impressora térmica? Eu não gostaria de falar, não?
+Impressora térmica são aquelas impressoras
+usadas para imprimir notas fiscais.
+A própria nota que se dá mesmo, que elas saem
+em papel marélinho, porque o papel marélinho
+é o papel térmico, ali a impressora
+ela aquece o papel
+em determinados pontos e vai formando
+o que você quer, né? Geralmente são só
+palavras.
+E elas são as melhores
+questão de benefício,
+que elas são mais rápidas, mais econômicas,
+mais silenciosas que os outros modelos.
+Porém, o que ela peca
+é que o papel rapidamente
+vai perdendo, vai desbotando, aí você
+tem que utilizar outro tipo
+de mídia para armazenar
+o seu documento. No caso, geralmente
+a pessoa tira xérex numa impressora
+a laser, né? Para manter,
+a laser é imprimida no papel, então
+fica de
+teoricamente, né? Eternamente, mas o papel
+não dura eternamente, então
+fica ali por um período maior.
+Ah, que esse papelzinho de cedo
+que ele tem que imprimindo nos bancos, né?
+É, sim mesmo. Ah,
+os olhos é para outra coisa.
+É, né? Papelzinho de cedo,
+entender, né?
+Contar sua mãe sabe.
+Ela não vai ouvir mesmo.
+Então, agora vamos
+final. A gente falou
+entrada, processamento e saída, né?
+Então, a gente falou de entrada e saída, agora
+vamos falar de profissão.
+O computador, na verdade,
+ele constitui
+basicamente na placa mãe, né?
+O computador mesmo. A parte principal do computador
+que o resto são dispositivos, como vocês viram, né?
+O restante do computador
+são dispositivos de entrada, dispositivos de saída.
+O computador mesmo é a placa mãe.
+É aquilo que está dentro do
+gabinete. Tem que ser placa rainha, né?
+Tem que dar uma nas formiga.
+Não é a placa mãe, porque era a mãe de
+todos. Mas por que ela
+tem esse conceito de
+nome de placa mãe?
+Porque não é outro nome, e tal. Então,
+a placa mãe, ela foi um conceito
+de IBM, quando ela lançou o IBM PC
+e tal, como também o
+nome PC foi criado pela IBM também.
+Que é o personal compira, né?
+E esses dois conceitos, que são
+placa mãe e PC, foram
+difundidos no mercado.
+Quando a IBM, principalmente
+o conceito de placa mãe, foi
+é... o mercado
+se difundiu mais quando a IBM abriu
+seu projeto. Aí o pessoal viu como funcionava
+a arquitetura da placa mãe, e começou a
+desenvolver. Aí ela é a placa
+mãe, sim, porque a mãe, geralmente,
+ela que... o pai, geralmente
+o pai não consegue cuidar de todos os
+filhos. Um dos conceitos
+de ser placa mãe, é que, por exemplo,
+o pai não consegue
+conter todos os filhos, não consegue
+cuidar de todos os filhos. Às vezes, ele rapidinho
+estresse e tal, não quer nem saber. Agora, a mãe
+não, a mãe sempre... é igual a
+que ela é ditada, é coração de mãe, que sempre cabe mais um.
+Então, a placa mãe, ela abriga todos
+os componentes, abriga os slots
+das outras placas, é, a conexão
+com todos os outros placos
+e todos os outros dispositivos
+e é onde que ela abriga o processador, também.
+Então, assim, a placa mãe
+recebe o nome de mãe por causa disso, por causa
+daquela coisa de todo mundo sozinho.
+Querem mais ou menos isso. Ah,
+aqui que é um slot, hein? Pra mim, slot é um
+doidão que tá na esquina, que eu conheci,
+é muito louco. Slot é...
+são entradas
+para modos para expandir a capacidade
+da placa mãe.
+Por exemplo, se você tem uma placa mãe
+e você... antigamente
+você não tinha, por exemplo, a placa mãe
+vinha sem...
+sem comunicação de rede.
+Aí você comprava uma placa de rede, colocava na mãe,
+é a parte de então, ela tinha
+a capacidade de comunicar
+pela rede. A arquitetura
+do computador, ela é baseada na
+arquitetura de Von Neumann.
+Porque Von Neumann criou essa
+arquitetura que é usada até hoje.
+Que ela é caracterizada pela possibilidade
+de uma máquina digital armazenar
+os programas no mesmo espaço
+de memória que os dados. Ou seja, você tem
+ali no HD, ao mesmo tempo que você tem
+seus arquivos, você tem um programa.
+Quando você vê lá alguma coisa, ponto XZ
+quando você tá no Windows, né? Você vê
+alguma coisa, ponto XZ, que lá é um
+programa. Você pode executar, dependendo
+da finalidade do programa, ele vai executar
+o que ele tem que fazer. E essa arquitetura
+ela é dividida
+em alguns tópicos básicos, que é a memória
+que ela...
+a memória do computador
+é no caso falando da memória principal,
+né?
+Que a gente geralmente fala memória RAM.
+Que ela é basicamente assim, ela é
+como se fosse uma mesa de escritório.
+Você tá no escritório,
+aí tem um HD que seria a estante, por exemplo.
+Aí na estante ela é armazendo todos
+os seus livros. Aí você quer letar
+o livro, você vai lá na estante, pega o
+livro e coloca em cima da mesa.
+Aí você precisa de outro livro, você vai lá
+na estante, pega outro livro e deixa o antigo
+em cima da mesa, porque você vai precisar dele
+Então assim, o que você vai deixando na mesa
+seria a mesma coisa que você
+dos programas que estão em execução
+que você vai guardando a memória RAM.
+Que aí você vai trabalhando com ele durante
+o uso do seu computador. A memória RAM
+ela é volátil. Quando você desliga
+o computador, ela
+também perde o seu... tudo
+que tá armazenada dela, some.
+Aí o que tinha no seu computador,
+o que tem no seu HD,
+o HD não é volátil. Então você pode
+desligar, pode tirar o seu HD,
+você vai continuar lá.
+Mas não é aconselho de tirar o HD
+com ele ligado, com o computador ligado.
+Não é aconselho de tirar nenhuma peça do
+computador com o computador ligado.
+É, menos o pedraio, o CD.
+É, mas isso aí são mídias removidas.
+É, desculpa.
+Como o próprio nome já diz, você pode
+remover. Não, mas voltando
+a aquele conceito lá
+da mesa, da estante,
+cara, eu acho interessante,
+tem razão, vou te chamar
+de nunca ter vençado do ângulo desse jeito,
+digo. Ah, desse jeito eu fumei cinco
+dos nojados.
+Pois é.
+Além da memória principal,
+tem também a ULA, que é a unidade
+lógica aritmética,
+que é a unidade que realiza os cálculos.
+Tem a CPU, que é onde
+executa os programas,
+ela processa os programas,
+e tem os registradores.
+Olha, cara, mas como assim,
+pra mim, a CPU é aquela caixa
+toda, que tinha no HD, do lado do
+dentro. Pois é, o grande erro
+do pessoal pensar é que
+a CPU é aquela caixona, que fica
+já no meio do lado, que vem junto
+com o monitor, né. Mas não, que lá
+o gabinete. Dentro do gabinete tem a
+placa mãe, todas essas
+parafernagens que a gente falou, que fica
+lá dentro do gabinete. E a CPU,
+ela é um pedaço
+do processador, sabia disso?
+Não, sabia não.
+Tem gente que pensa,
+quando o pessoal pensa
+que a gente pensar
+errado dizendo que a CPU
+é aquela caixona, tem gente que pensa
+errado pensando que a CPU
+é o processador. Mas não, o processador
+dentro do processador fica a CPU, os
+registradores, a unidade de controle
+e a unidade lógica aritmética.
+Tudo isso fica dentro do processador.
+E você pensa que o processador é daquele
+tamanho, mas você já reparou que dentro do
+processador, quando você tira ele da placa mãe
+com um negócio preto lá no meizinho?
+É, já vi sim. Então, que lá
+apenas o que o lá é o processador.
+Nossa, mesmo?
+Achei que era aquela caixona de todo dia.
+Que lá é o seguinte, é porque
+o processador, ele tem,
+ele precisa de fazer várias comunicações. Como
+ele é o centro da máquina,
+ele precisa de comunicar com a placa
+mãe inteira. Então, ele precisa de
+vários pontos de comunicação. Então,
+por isso que ele é maior, porque
+só aquele bichinho daquele tamanho
+estava para fazer aquele monte de pinim.
+Então, eles estenderam para fazer
+os pinos com um pinim no tocar no outro.
+Então, só para terminar aí,
+a gente falou sobre a memória, né? Sobre a
+ula, que é a unidade lógica aritmética.
+A CPU, que na verdade seria
+o CPU, que é a unidade
+central de processamento, é o CPU.
+Mas eu acho mais legal a sigla inglesa,
+que é a CPU, que seria
+Central Process Unit.
+Tem os registradores, que eu não expliquei
+ainda. Lembra que eu te falei
+no exemplo da mesa do escritório?
+A mesa do escritório,
+imagina você,
+toda hora, você tem que ir lá na estante
+pegar e voltar, e lá na estante
+pegar e voltar, e você vai organizando
+ali na sua mesa, e vai ficando
+cada vez mais complicado de organizar
+seus livros em cima da mesa.
+Acho que eu já estou entendendo.
+Aí, entra o estagiário, né?
+Então, o estagiário,
+na verdade, o estagiário, você pede
+para buscar os livros na memória RAM,
+por exemplo. No caso de estagiário,
+você pediria ele para buscar o livro
+na estante.
+E trazer para você.
+Quem faz esse trabalho de estagiário
+no computador, são os registradores.
+A CPU,
+ela se desenvolveu muito mais rápido que a memória.
+E a memória, inclusive,
+ela é muito mais neta que o CPU.
+Então, às vezes, acontece do CPU ficar
+ocioso. Então, o que o pessoal fez?
+Fez a memória cache,
+que é uma memória rápida e
+mais olátil. E fez
+registradores.
+Esses dois são memórias
+que ficam dentro do registrador, que auxiliam
+a velocidade
+de tráfico entre a memória RAM e o processador.
+Para facilitar para o processador
+ficar cada vez menos tempo
+ocioso.
+Quando você liga para...
+Então, é como se fizesse duas pessoas, né?
+Eu fico perto
+da estante uns 10 metros,
+em vez de uma pessoa pegar
+o livro e levar na minha estante,
+aí tem duas pessoas.
+Passa uma, passa para outra.
+É, seria mais ou menos isso mesmo.
+Aí o registrador, só para você ter uma ideia,
+ilustrar melhor o registrador.
+Quando você, por exemplo,
+alguém te liga e fala, só liga para fulano.
+Aí você vai e fala,
+qual que é o número?
+Aí a pessoa fala, tá o número.
+Aí você está armazendo o número e liga para a pessoa.
+Quando está chamando a ligação,
+você já esqueceu um, né?
+Daí na hora.
+Então, quer dizer que seu registrador
+está estragado, que você não consegue
+armazenar nem por um pouco tempo.
+Mas o registrador do nosso cérebro
+é bastante parecido
+com o registrador do computador.
+Você armazena
+por uma quantidade de tempo muito pequena,
+porém essa memória é muito rápida.
+Você está lembrando de todo o tempo que o número é aquele.
+Você lembra na hora,
+mas também você esquece rapidamente.
+É assim que funciona o registrador.
+Então, quer dizer que os peixes são até registrados.
+Só não tem um cérebro de memórias.
+Dizem que o peixe esquece na mesma hora, né?
+Então,
+e agora...
+Você é piada.
+Agora, a unidade de controle.
+A unidade de controle é você
+no exemplo
+do escritório.
+Porque você mandou o estagiário lá
+pegar o livro, você mandou
+você manda
+pegar as coisas na memória
+na mesa e tal.
+Então, você está mandando, cada um fazer uma coisa
+e tal, faz isso, faz aquilo.
+Ou seja, você está controlando a sequência de execuções.
+E é a mesma coisa.
+A unidade de controle, ela faz no processador.
+Ela controla a sequência de execuções.
+Então, é isso que é a função.
+Por exemplo, para como se fosse uma pessoa do meio, né?
+Até chegar no mim.
+Ele vira e fica sublimitar, certo?
+Não, ele é você mesmo.
+Ele controla, por exemplo.
+Chega uma instrução
+no processador.
+Aí você faz...
+Não, esse...
+Por exemplo, esse livro que eu não vou ler ele agora,
+eu vou ler... eu preciso ler o outro.
+Não, agora eu preciso pegar tal livro.
+Não, agora eu tenho que voltar naquele livro.
+Não, agora eu preciso fazer aquilo.
+Não, agora eu não posso ler o livro nenhum.
+Agora eu tenho que fazer uns pontos.
+Não, agora eu vou anotar.
+Então, você está controlando a sequência
+o básico da arquitetura de convívio.
+E o processador
+é a parte que fica CPUs, registradores
+a unidade de controle
+e a unidade lógica.
+É lítimética e é o cérebro do computador.
+Aí você lembra do estagiário?
+Ou seja, eu fui estagiar no bom tempo.
+Então, esse estagiário...
+Tem outro estagiário.
+Sabe aquele estagiário que você vai lá
+e chama o fulano.
+Não, a visa para o fulano faz isso.
+Não, faz o cara que
+você vai lá.
+Então, essa é o chipset.
+No computador também existe.
+Ele se chama chipset.
+Ah, achei que era um boto bom.
+Então, chipset, como o próprio não diz,
+ele é um conjunto de chips.
+Chipset, conjuntos de chips.
+Eles são pequenos processadores
+que fazem trabalhos específicos, por exemplo.
+No computador tem dois chipsets
+base, que é a ponte norte
+e a ponte sul. E a ponte norte
+é o chipset
+que fica mais perto da CPU.
+Ele conecta a CPU
+até a memória principal.
+Ele é o que faz
+aquele trabalho, a ligação
+de levar dados da memória principal
+para a memória cache, por exemplo.
+Ele serve para auxiliar na rapidez
+do processador não ficar
+ocioso, né? Aquela mesma história de sempre.
+E tem a ponte sul, que é a south bright.
+Ela comunica com a north bright,
+que é a ponte norte,
+através do barramento.
+Ela controla o barramento CCI,
+a placa de vídeo onboard,
+o controlador de CD,
+o HD, a porta USB,
+a placa de rede,
+a placa de áudio.
+Vou terminar os fabricantes de chipset,
+mas
+as empresas que fabricam chipsets
+são Intel, AMD, NVIDIA,
+ASSIS e Avia.
+Só um conselho
+para deixar aí como dica.
+É altamente conselhado
+que não comprem chipsets
+nem da ASSIS e nem da Avia.
+Eu, particularmente,
+nunca tive problema, mas muitas pessoas já
+já teve um problema por ter chipset
+dessas empresas, que são de
+uma qualidade mais ruim.
+Podia ter me falado antes.
+Agora você lembra
+daquela história lá
+mais uma vez, falando
+do estagiário
+que pegava o livro,
+você é aonde, aquela coisa toda?
+Não sei, não sei o que tem.
+Aqui lá,
+tem vários níveis para melhorar
+o caminho entre a memória principal
+e a CPU.
+A gente já falou do North Bride,
+da memória cache, do registrador
+e isso tudo está entre
+o processador e a memória principal.
+Agora mais um
+conceito
+a entrar no meio do caminho
+seria o FSB,
+que é o Frontside Bus.
+É o ônibus, né?
+Não.
+O frontside bus é o caminho
+entre a CPU e a ponte Norte.
+Por exemplo, às vezes você vê lá
+a placa Mãe e tal, 1.66MHz,
+1.800MHz,
+que é lá o frontside bus,
+que é a comunicação
+em termos de ciclos.
+Significa que em um segundo
+ele faz 1.666 ciclos.
+Mas aqui, na verdade, não influencia muito
+na velocidade, porque realmente influencia
+os milhões de transferências por segundo,
+que é o MTR.
+Agora para terminar,
+vamos falar de alguns conceitos
+da placa Mãe, né? Como a gente já falou,
+que ela foi criada...
+O conceito de placa Mãe foi criado pelo IBM
+e tal,
+e foi difundido porque a IBM, na época,
+ela abriu o projeto da placa Mãe,
+explicando e tal,
+toda a documentação de como era feita
+na IBM PC. Assim, as outras empresas
+fabricantes de computador pessoal
+pegaram esse modelo e começaram a implementar.
+A placa Mãe é caracterizada
+por ter vários componentes integrados
+e a capacidade
+de expansão, como falei. Então, tem os
+slots lá na placa Mãe,
+e você pode comprar uma placa extra
+com a funcionalidade extra,
+quando é que está lá na placa Mãe, e ela vai saber
+através dos padrões, como falei
+no princípio,
+através dos padrões, você vai ter
+uma capacidade a mais na sua placa Mãe.
+Por exemplo,
+você coloca lá uma placa de vídeo
+de melhor qualidade,
+o vídeo vai conectar
+na placa Mãe,
+e ali ele vai ter as trilhas
+até o CPU.
+A CPU, ela vai mandar os dados
+para a placa de vídeo,
+e a placa de vídeo vai processar a imagem
+e mandar para o monitor.
+É, só que hoje em dia, as posibilidades
+estão melhores por causa da GPU,
+que é o próprio dispositivo de vídeo.
+É, porque o vídeo
+para ele ser processado,
+ele depende muito
+para se processar um vídeo bom
+de boa qualidade, ele depende muito de processamento.
+Então, as placas de vídeo
+você vê as placas de vídeo
+para jogo, por exemplo, tem uma memória RAM
+dedicada só para elas.
+Você vê placa de vídeo com
+802M, 1G,
+memória RAM só para elas.
+Então, a placa de vídeo
+exige muito de hardware.
+Então, o pessoal
+está, principalmente,
+você é mais conhecido pessoal que joga, eu faço um jogo,
+então, não sei se
+falar com detalhes sobre placa de vídeo.
+Mas, assim, placa de vídeo
+geralmente, tem esse
+detalhe aí de
+desempenho que exige muito hardware.
+Então, eles estão desenvolvendo cada vez mais.
+É, se você quiser comprar uma placa
+de vídeo boa, olha principalmente
+a memória dela e a GPU,
+que é o GP
+no português Unidade, de gráficos
+de processamento, aí você
+faz a comparação, aí
+você vai obter o resultado
+da sua placa desejada.
+Então, depende.
+Se você não joga, ou se você joga
+um jogo simples, se você joga só
+Counter Strike, por exemplo, você não precisa
+de uma placa de vídeo boa, você precisa
+de uma placa de vídeo razoável. Agora, se
+você joga lá aqueles jogos mais pesados,
+então, você vai precisar de uma placa
+de vídeo, você tem que levar em conta isso aí também.
+Não adianta nada, você gastar uma grana
+para comprar uma placa de vídeo, que você não vai
+usar todo o recurso dela, vai ter gastado
+dinheiro à toa. É, pesado que ele fala,
+não é pesado de que, não é pesado
+um dado, não. É, em processamento,
+que o jogo pesado, ele vai
+exigir mais hardware para processar a imagem
+do jogo, não é?
+Então, assim, para
+encerrar essa parte da architecture
+a Bills, é bicho
+inútil operando o sistema, coisa assim.
+Tem várias, várias implementáveis
+para essa sigla, de forma engraçada.
+A verdade, que ele é
+o basic input-output
+system, que é o
+software, é burro idiota operando
+o sistema. É, tem
+várias tipos de coisas também. Mas a
+verdade é que é basic input-output
+system, que é o sistema
+básico de entrada e saída. A Bills,
+ela é um software, na verdade,
+que é o primeiro software que existe no
+computador. Ela é um software gravado
+num chip, que é, o chip
+geralmente é EEPROM, que é
+ELETRONICALY ERRAISABLE PROGRAMABLE
+RED ONLY MEMORIES.
+Que é, são memoras,
+somente leitura, mas são
+programáveis, apagáveis, e tudo isso
+é feito eletronicamente.
+É isso que significa a sigla.
+A Bills, ela é responsável pelo
+POST, que é
+ONSELF TEST. Ela auto
+testa, né, no momento de
+ligar, que ela vai testar a memória,
+testar os discos, previstar tudo
+inteiro, e aí ele vai dar
+o boot no sistema, que é
+onde ele dá a carga no
+sistema operacional. E o Spick,
+ele faz parte da Bills, ele é
+um rádio de
+entrada, saída, como é que é?
+Então, o Spick, é aquele
+micro autopalante que tem lá dentro,
+geralmente tem os computadores
+da um PEMP lá, quando
+está tudo ok, né. Então
+quando, por exemplo, porque os
+três, os três
+básicos de um computador, que um
+computador tem que ter para funcionar,
+é a memória RAM,
+o processador, e a
+a placa-mãe, né. Então,
+ele vai ser, se
+tiver faltando um desses três, ele
+vai ficar apitando incessantemente.
+É, uma vez eu
+dormi demais na House,
+eu me derrumei no gênero, achei ele estar
+ficando...
+Então, esse aí acontece, porque, na
+verdade, a Bills, ela
+lança igual, eu falei, né.
+Ele dá a saída desejada
+ou a saída de erro.
+O BIP apitando,
+significa uma saída de erro. Agora,
+ele dá um sinal para a saída,
+porque é interpretado pelo BIP,
+depende do BIP.
+Agora, a gente falou sobre
+todas essas coisas aí e tal,
+uma coisa que eu quero
+desmistificar também, em questão de
+computador. Que pessoa pensa, igual,
+muita gente chega a mim falando assim,
+quando que foi criado o computador?
+E lá na mente deles, eles estão
+imaginando, quando que foi criado, aquele
+bichinho, que tem uma televisão, um
+teclado, um mouse e uma caixa do lado.
+Aqui lá, é um computador
+pessoal, foi um conceito
+criado pela IBM e foi adequado
+pelas empresas, porque seria
+uma melhor distribuição de hardware
+para pessoas comuns
+usarem. Mas, na verdade,
+o computador não é só isso. Por exemplo,
+o seu celular é um computador,
+um chip é um computador,
+uma calculadora é um computador,
+um relógio digital é um computador.
+Tudo que tem um processamento,
+tudo que você envolve
+uma entrada, ele processa,
+se te devolve uma saída, é um computador.
+Ah, mas,
+é como se fosse eu ligar
+no meu computador e falar
+para esse outro problema aqui nas minhas
+finanças, será que você pode
+dar uma olhada aí? Aí,
+depois ele vai lá e fala assim, não, beleza.
+Agora eu te ligo aí,
+vou computar aqui, e agora
+eu te ligo para te dar os resultados.
+O que seria computar? Ele vai
+colocar no computador dele, e o que eu
+falei? Fiquei isso.
+Não fui entender direito. Então, é
+igual, as pessoas falam assim,
+eu vou computar. Não, eu vou computar
+isso aqui, eu preciso de os dados
+computados e tal. O que seria
+os dados computados? É exatamente
+esse conceito, os dados trabalhados,
+dados processados. Você pega
+lá, por exemplo, um
+contador, ele vai pegar o que a
+empresa gastou, que a empresa teve de
+receita, ele vai computar aquilo ali,
+e a saída é, se a empresa
+vai estar ganhando dinheiro,
+se a empresa está dando todo o juízo,
+são essas coisas, são as respostas,
+o cara quer, o que o usuário final
+quer, o usuário final sendo o
+empresário. Você quer saber se a empresa
+dele está dando lucro, está dando juízo,
+a empresa dele vai morrer ou não. Então, ele
+vai computar esses dados, que são os
+dados, o que são os dados, o que que a
+empresa vendeu, o que que a empresa comprou,
+o que que ela paga para funcionar, o que que
+ela teve de despesa, o que que ela teve de
+ganho. E ele vai computar esses dados,
+e vai retornar a resposta para o
+empresário. Ele vai saber se a empresa
+dele foi superávit ou se foi déficit.
+Ele vai pegar os dados, guardar no papel
+e passar informação
+para mim, igualzinho o computador
+faz. Só que
+ele não é computador, ele é uma pessoa,
+ele vai pegar os dados que recebeu
+processar e jogar
+para fora, que no caso é falar para mim.
+É igual eu falei, a arquitetura
+de Von Nielmann, e a
+arquitetura do computador em si,
+ela está presente no mundo
+inteiro, em tudo quanto é lugar.
+Hoje, se você, por exemplo, quando você
+é um empresarador no carro, ele gira
+o motor mais rápido.
+Ele teve uma ação,
+ele processou o que que você estava querendo
+e devolveu o que você quis.
+Tudo isso, todo
+todo a máquina, tudo que foi
+criado de tecnologia pelo homem,
+ele tem esse conselho de entrar e de dar
+processamento e saída.
+E tudo que você vê que é
+que tem esse comportamento, que
+tem um processamento digital,
+ele é um computador. Por isso que
+às vezes você fala assim, é um computador de
+board num carro, você já imagina um
+notebook grudado no painel
+ali, mas não é assim, funciona?
+Eu pensava isso, pois é, então,
+não é assim funcionando. Então é isso aí,
+eu queria deixar para vocês.
+É isso aí pessoal,
+muito obrigado por
+ouvirem o nosso podcast,
+está chegando ao fim mais uma vez,
+o Sebastião Hellsson não pôde participar
+dessa gravação, gravamos
+eu e o João Felipe, o alemão
+que é o nosso colaborador
+que estamos aí, talvez vamos ser
+mais alguns colaboradores para o trigo de C.I.
+Estamos tentando
+ver de qual que é aí
+para a gente melhorar o nosso
+conteúdo para que
+agradar vocês, que são os nossos ouvintes
+e as pessoas que acessam o nosso blog.
+Então a gente está visando
+melhorar para vocês.
+Sim pessoal, eu queria agradecer
+o Shodownled pela oportunidade de
+gravar esse podcast com ele
+e infelizmente o Sebastião Hellsson não pôde
+mandar um abraço para ele aí.
+Queria mandar um abraço para o meu mano
+Slot aí, beleza?
+Que que é Slot?
+O mano de 10 que nem que eu conheço
+de 10 Slot
+E também, eu ver se
+você não toma o microfone de mim, eu quero fazer a propaganda
+do meu blog. Acessa lá, alemão.tk
+Falou. O cara está fazendo
+mexandais aqui, mas pode pagar, hein?
+Então esse aí pessoal,
+a gente vai lembrar mais uma vez
+o pessoal mandar e-mail, reclamação,
+sugestão. A gente
+sugere
+os nossos assuntos a ser falados, os podcasts
+mas vocês podem também sugerir.
+Fazer, ah, podia falar sobre isso,
+ah, podia falar sobre aquilo. Se ninguém falar
+nada a gente vai fazer do jeito que a gente pensa, né?
+Mas assim, a gente quer que é interatividade.
+É para isso que existe a
+internet. Que a internet, ela é uma
+linha de mão duplo. A gente
+fala, mas também quer a resposta de vocês.
+Queria lembrar vocês, a gente
+tem um e-mail, né?
+podcastarobotriboci.net
+tem o tribo de C.I. Arrobogemail.com
+Se vocês quiserem mandar e-mail de voz
+a gente põe aqui também. A gente
+vai tentar falar no próximo podcast
+já vou deixar assim para vocês
+sobre redes. Nós estamos
+tendo aí contatos com
+algumas pessoas pra gravar
+no podcast, mais convidados aí também
+e espero que vocês fiquem sempre
+ligados na tribo de C.I.
+e nos novidades.
+Então, falou pessoal, muito obrigado
+até a próxima.
+Parte teórica e ideológica.
+Introdução.
+Parte teórica e ideológica.
+Introdução.
+Parte teórica e ideológica.
+Introdução.
+Parte teórica e ideológica.
+Introdução.
+Parte teórica e ideológica.
+Então tem que comprar um...
+Aí pessoal, vamos juntar um
+engenheiro e abrir uma doação
+para pagar um
+um final de jogo para a pessoal
+da tribo de C.I.

@@ -1,0 +1,5604 @@
+1
+00:00:00,000 --> 00:00:21,620
+Alô! E aí, de rock, certo?
+
+2
+00:00:21,620 --> 00:00:24,600
+Oh, Brão, e aí, certo? Mano, tá esperando você me ligar mesmo?
+
+3
+00:00:24,600 --> 00:00:26,540
+Qual é a nova? É sobre mulher e tal.
+
+4
+00:00:26,540 --> 00:00:28,560
+Mulher? Que tipo de mulher?
+
+5
+00:00:28,560 --> 00:00:29,560
+Se liga aí, mano.
+
+6
+00:00:29,560 --> 00:00:34,560
+Mulheres na tecnologia, você está ouvindo o Tribu do CEI Podcast.
+
+7
+00:00:34,560 --> 00:00:36,560
+Você fica mesmo, hein?
+
+8
+00:00:36,560 --> 00:00:37,560
+Ok.
+
+9
+00:00:37,560 --> 00:00:42,560
+Tribu do CEI, episódio 9, para o dia 18 do 2º de 2011.
+
+10
+00:00:42,560 --> 00:00:44,560
+Mulheres na tecnologia.
+
+11
+00:00:44,560 --> 00:00:48,560
+Meu nome é Sheldon Led, e se temos informação, eu curso para mulherzinha.
+
+12
+00:00:48,560 --> 00:00:51,560
+Aqui é a Seba Sean Hellsum, e eu fiz um curso para Homem de Verdade.
+
+13
+00:00:51,560 --> 00:00:53,560
+Cês da computação.
+
+14
+00:00:53,560 --> 00:00:57,560
+Ah, fazendo engenharia da computação, que isso é para máfio mesmo.
+
+15
+00:00:58,560 --> 00:01:01,560
+É claro que é brincadeira, né, gente?
+
+16
+00:01:01,560 --> 00:01:03,560
+É brincadeira, gente. Você nem o preconceito, né?
+
+17
+00:01:03,560 --> 00:01:07,560
+É, mas eu estou falando nisso, é porque a gente está gravando hoje, né?
+
+18
+00:01:07,560 --> 00:01:11,560
+De noite, depois que eu cheguei da alta, eu estou pegando o material com o pessoal de semos de informação.
+
+19
+00:01:11,560 --> 00:01:16,560
+E lá tem três garotos na sala, e todas as três são bem, digamos, que aparentáveis.
+
+20
+00:01:16,560 --> 00:01:18,560
+Tem uma aparência agradável aos olhos.
+
+21
+00:01:18,560 --> 00:01:20,560
+E coisa que não acontece na engenharia, né?
+
+22
+00:01:20,560 --> 00:01:21,560
+Ah, tá ligado.
+
+23
+00:01:21,560 --> 00:01:24,560
+Então é por isso que eu falei assim, brincadeira, tá?
+
+24
+00:01:24,560 --> 00:01:27,560
+É, não tem nem um estudo científico.
+
+25
+00:01:27,560 --> 00:01:29,560
+Com o próprio.
+
+26
+00:01:29,560 --> 00:01:30,560
+Isso.
+
+27
+00:01:30,560 --> 00:01:31,560
+Então tá bom.
+
+28
+00:01:31,560 --> 00:01:35,560
+Nesse podcast, nós vamos falar sobre... sobre... sobre quem mesmo?
+
+29
+00:01:35,560 --> 00:01:36,560
+Sou mulher.
+
+30
+00:01:36,560 --> 00:01:37,560
+Sou mulher.
+
+31
+00:01:37,560 --> 00:01:38,560
+Mulher.
+
+32
+00:01:38,560 --> 00:01:39,560
+Com mulher.
+
+33
+00:01:39,560 --> 00:01:40,560
+Com a de mulher.
+
+34
+00:01:40,560 --> 00:01:41,560
+Com a beleza.
+
+35
+00:01:41,560 --> 00:01:48,560
+Então, antes da gente falar sobre o podcast em si, nós devemos satisfação para os nossos espectadores.
+
+36
+00:01:48,560 --> 00:01:52,560
+Nossos ouvintes ácidos, que não maldem mesmo.
+
+37
+00:01:53,560 --> 00:01:54,560
+Nem o joinha.
+
+38
+00:01:54,560 --> 00:01:55,560
+Nem o joinha.
+
+39
+00:01:55,560 --> 00:01:56,560
+Nem comentário.
+
+40
+00:01:56,560 --> 00:02:00,560
+Nem comentário, mas a gente... tá aí, né?
+
+41
+00:02:00,560 --> 00:02:03,560
+Então, no mês de janeiro, não teve podcast.
+
+42
+00:02:03,560 --> 00:02:04,560
+Devido?
+
+43
+00:02:04,560 --> 00:02:09,560
+Devido a circunstâncias ortogonais, científicamente, não qualificadas.
+
+44
+00:02:09,560 --> 00:02:10,560
+E é diverso.
+
+45
+00:02:10,560 --> 00:02:11,560
+E é diverso.
+
+46
+00:02:11,560 --> 00:02:13,560
+Estrogonoficamente sensível.
+
+47
+00:02:13,560 --> 00:02:16,560
+Então, no mês de janeiro, não teve podcast.
+
+48
+00:02:16,560 --> 00:02:25,560
+Porque eu viajei, e aí depois eu voltei, e aí depois eu viajei de novo, e depois eu viajei outra vez, e depois eu fui para campus party.
+
+49
+00:02:25,560 --> 00:02:26,560
+E assim por diante, né?
+
+50
+00:02:26,560 --> 00:02:27,560
+Sim.
+
+51
+00:02:27,560 --> 00:02:30,560
+E aí, quando eu voltei da campus party, eu tava com... que o pessoal já sabe.
+
+52
+00:02:30,560 --> 00:02:33,560
+Quem é o ouvintes ácido, já sabe, porque eu sou home office.
+
+53
+00:02:33,560 --> 00:02:34,560
+Estava com...
+
+54
+00:02:34,560 --> 00:02:35,560
+Home office?
+
+55
+00:02:35,560 --> 00:02:36,560
+Home office.
+
+56
+00:02:36,560 --> 00:02:37,560
+Home office.
+
+57
+00:02:37,560 --> 00:02:38,560
+Home office.
+
+58
+00:02:38,560 --> 00:02:41,560
+É pra falar nisso, a gente tem... o alemão agora tá trabalhando, né?
+
+59
+00:02:41,560 --> 00:02:42,560
+É verdade.
+
+60
+00:02:42,560 --> 00:02:43,560
+Fichado.
+
+61
+00:02:43,560 --> 00:02:45,560
+São coisas muito importantes.
+
+62
+00:02:45,560 --> 00:02:47,560
+Sim, que nem eu.
+
+63
+00:02:47,560 --> 00:02:48,560
+Então, surpresente, hein?
+
+64
+00:02:48,560 --> 00:02:50,560
+Sabe, eu sou boy office, né?
+
+65
+00:02:50,560 --> 00:02:51,560
+E diferente.
+
+66
+00:02:51,560 --> 00:02:53,560
+Ou ao contrário, assim.
+
+67
+00:02:53,560 --> 00:02:55,560
+Como assim, boy office?
+
+68
+00:02:59,560 --> 00:03:00,560
+Então, aí...
+
+69
+00:03:00,560 --> 00:03:01,560
+O que aconteceu?
+
+70
+00:03:01,560 --> 00:03:07,560
+Como... quando eu voltei da campus party, eu tinha um... o projeto lá tava um pouquinho atrasado.
+
+71
+00:03:07,560 --> 00:03:14,560
+E eu tava trabalhando meio que quase de noite, assim, pra voltar ao normal.
+
+72
+00:03:14,560 --> 00:03:19,560
+E aí, como eu tava trabalhando muito, eu não tive tempo pra gravar o podcast.
+
+73
+00:03:19,560 --> 00:03:22,560
+E como o Sebastião não viu isso em mim, aí...
+
+74
+00:03:22,560 --> 00:03:23,560
+É, pro tempo...
+
+75
+00:03:23,560 --> 00:03:24,560
+Música do hook.
+
+76
+00:03:24,560 --> 00:03:25,560
+Por dia de vez.
+
+77
+00:03:26,560 --> 00:03:27,560
+Então, pessoal...
+
+78
+00:03:27,560 --> 00:03:30,560
+O podcast... o podcast é uma unidade, cara.
+
+79
+00:03:30,560 --> 00:03:31,560
+Pois é, cara.
+
+80
+00:03:31,560 --> 00:03:33,560
+Qual tá algum descoponente?
+
+81
+00:03:33,560 --> 00:03:35,560
+É, mole, é mandade aqui, cara.
+
+82
+00:03:35,560 --> 00:03:37,560
+Mó firmezons, mole, firmezons.
+
+83
+00:03:37,560 --> 00:03:38,560
+Pode ter certeza.
+
+84
+00:03:39,560 --> 00:03:40,560
+Então...
+
+85
+00:03:40,560 --> 00:03:43,560
+Mas é isso aí, então... pra...
+
+86
+00:03:44,560 --> 00:03:45,560
+Compensar?
+
+87
+00:03:45,560 --> 00:03:49,560
+Então, pra compensar os nossos ouvintes fiéis, que nem mandem meio...
+
+88
+00:03:49,560 --> 00:03:50,560
+A gente...
+
+89
+00:03:51,560 --> 00:03:52,560
+Mas tem problema, né?
+
+90
+00:03:52,560 --> 00:03:53,560
+Oi?
+
+91
+00:03:53,560 --> 00:03:54,560
+Tem problema, não?
+
+92
+00:03:54,560 --> 00:03:56,560
+É, ouvindo, tá bom.
+
+93
+00:03:56,560 --> 00:03:58,560
+Mas é bom mandar um e-mail, comentar...
+
+94
+00:03:58,560 --> 00:03:59,560
+Joinha...
+
+95
+00:03:59,560 --> 00:04:00,560
+Estraninha.
+
+96
+00:04:00,560 --> 00:04:02,560
+A gente tem estraninha agora no podcast.
+
+97
+00:04:02,560 --> 00:04:05,560
+É, tem várias novidades pra 2011, hein.
+
+98
+00:04:05,560 --> 00:04:08,560
+Tribus sale leves, como sempre, prometendo muito.
+
+99
+00:04:08,560 --> 00:04:09,560
+Com certeza.
+
+100
+00:04:09,560 --> 00:04:10,560
+E realizando agora.
+
+101
+00:04:10,560 --> 00:04:11,560
+A gente realizando.
+
+102
+00:04:11,560 --> 00:04:13,560
+E... nós temos...
+
+103
+00:04:13,560 --> 00:04:14,560
+Comunidade no Orkut?
+
+104
+00:04:14,560 --> 00:04:15,560
+Tem.
+
+105
+00:04:15,560 --> 00:04:18,560
+É, felizmente eu vou fazer parte dessa comunidade, mas...
+
+106
+00:04:18,560 --> 00:04:22,560
+Pois é, nós temos página no Facebook, como dá no Orkut, Twitter.
+
+107
+00:04:22,560 --> 00:04:23,560
+Da Tribus Sale.
+
+108
+00:04:23,560 --> 00:04:24,560
+Twitter.
+
+109
+00:04:24,560 --> 00:04:25,560
+Tem que tweetar.
+
+110
+00:04:25,560 --> 00:04:28,560
+É, não, mas tem um link já no site pra isso.
+
+111
+00:04:29,560 --> 00:04:32,560
+Tanto do Orkut, quanto do Twitter, quanto do Facebook.
+
+112
+00:04:32,560 --> 00:04:33,560
+A gente vai gravar...
+
+113
+00:04:33,560 --> 00:04:35,560
+Vai ter dois episódios esse mês, né, esse mês?
+
+114
+00:04:35,560 --> 00:04:37,560
+Dois episódios!
+
+115
+00:04:38,560 --> 00:04:41,560
+Cara, a gente tem que gravar com Rafael.
+
+116
+00:04:41,560 --> 00:04:42,560
+Com certeza.
+
+117
+00:04:42,560 --> 00:04:46,560
+Esse episódio de gênero, o episódio de gênero a gente tem que gravar com Rafael.
+
+118
+00:04:46,560 --> 00:04:48,560
+Rafael OCT do block sem nome.
+
+119
+00:04:48,560 --> 00:04:49,560
+Isso.
+
+120
+00:04:49,560 --> 00:04:50,560
+O CT é de quem?
+
+121
+00:04:50,560 --> 00:04:51,560
+Carvalho Teodoro.
+
+122
+00:04:51,560 --> 00:04:52,560
+Teodoro.
+
+123
+00:04:52,560 --> 00:04:53,560
+Pois é.
+
+124
+00:04:53,560 --> 00:04:54,560
+Aí não deu.
+
+125
+00:04:54,560 --> 00:04:57,560
+É estranho, né, essas pessoas que a gente conhece só, lendo.
+
+126
+00:04:57,560 --> 00:04:58,560
+Verdade.
+
+127
+00:04:58,560 --> 00:05:00,560
+Que falando não fica tão legal, né, Rafael OCT.
+
+128
+00:05:00,560 --> 00:05:01,560
+É verdade.
+
+129
+00:05:01,560 --> 00:05:03,560
+Eu sempre me referi a ele a Rafinha.
+
+130
+00:05:03,560 --> 00:05:04,560
+Rafinha?
+
+131
+00:05:04,560 --> 00:05:05,560
+É.
+
+132
+00:05:05,560 --> 00:05:06,560
+É porque ele é novinho, de menor.
+
+133
+00:05:06,560 --> 00:05:08,560
+É jovem, né, é jovem.
+
+134
+00:05:09,560 --> 00:05:10,560
+Então.
+
+135
+00:05:10,560 --> 00:05:19,560
+E esse mês vai ter dois podcasts e dois episódios com a entrevista das MNT.
+
+136
+00:05:19,560 --> 00:05:21,560
+MNT é mano na tecnologia?
+
+137
+00:05:21,560 --> 00:05:24,560
+É, os mano firmazão na tecnologia, amor.
+
+138
+00:05:24,560 --> 00:05:26,560
+É, meninos na tecnologia.
+
+139
+00:05:26,560 --> 00:05:27,560
+Então.
+
+140
+00:05:27,560 --> 00:05:28,560
+Que aconteceu?
+
+141
+00:05:28,560 --> 00:05:30,560
+Teve um bate-papo.
+
+142
+00:05:30,560 --> 00:05:35,560
+Quer dizer, a princípio a gente ia gravar um episódio específico falando do grupo, né.
+
+143
+00:05:35,560 --> 00:05:39,560
+Mas acabou que rolou um bate-papo.
+
+144
+00:05:39,560 --> 00:05:40,560
+A gente aproveitou.
+
+145
+00:05:40,560 --> 00:05:48,560
+A gente aproveitou a oportunidade e a gente fez dois podcasts numa gravação só.
+
+146
+00:05:48,560 --> 00:05:50,560
+É, ficou bem da hora.
+
+147
+00:05:50,560 --> 00:05:55,560
+Foi porque foi assim, no último sábado, no caso para quem a gente ouvi recentemente,
+
+148
+00:05:55,560 --> 00:05:59,560
+então o podcast, foi dia 12 de fevereiro de 2011.
+
+149
+00:05:59,560 --> 00:06:02,560
+Teve o bate-papo com as meninas na tecnologia.
+
+150
+00:06:02,560 --> 00:06:04,560
+Ou mulheres na tecnologia.
+
+151
+00:06:04,560 --> 00:06:08,560
+E participou lá do bate-papo, Sebastian Hells.
+
+152
+00:06:08,560 --> 00:06:09,560
+Conhece?
+
+153
+00:06:09,560 --> 00:06:10,560
+Que é o lado da tributo C.
+
+154
+00:06:10,560 --> 00:06:12,560
+C, C.
+
+155
+00:06:12,560 --> 00:06:13,560
+Inclusive.
+
+156
+00:06:13,560 --> 00:06:16,560
+Teve a Yara Sanger.
+
+157
+00:06:16,560 --> 00:06:18,560
+Yara Sanger.
+
+158
+00:06:18,560 --> 00:06:20,560
+Evangelista Global Cod.
+
+159
+00:06:20,560 --> 00:06:23,560
+Ela se apresenta.
+
+160
+00:06:23,560 --> 00:06:28,560
+Todos se apresentaram, que estavam apresentes lá, mas o áudio ficou meio ruim.
+
+161
+00:06:28,560 --> 00:06:32,560
+Então eu acabei deixando o sol da Marcia e da Yara.
+
+162
+00:06:32,560 --> 00:06:33,560
+Pois é.
+
+163
+00:06:33,560 --> 00:06:38,560
+E teve também a Flávia Suáez, do Gojava, Lucas Fragaumini.
+
+164
+00:06:38,560 --> 00:06:39,560
+Quem é isso, Lucas Fragaumini?
+
+165
+00:06:39,560 --> 00:06:42,560
+É porque estava acontecendo o Arduino Hackday.
+
+166
+00:06:42,560 --> 00:06:44,560
+E o que é Arduino?
+
+167
+00:06:44,560 --> 00:06:46,560
+Arduino é um toolkit para a robótica.
+
+168
+00:06:46,560 --> 00:06:47,560
+E o que?
+
+169
+00:06:47,560 --> 00:06:51,560
+Faz tudo o que o proéctodo Jojoan faz.
+
+170
+00:06:51,560 --> 00:06:54,560
+Só que bem mais simples.
+
+171
+00:06:54,560 --> 00:06:56,560
+Eu conheço o Arduino.
+
+172
+00:06:56,560 --> 00:06:57,560
+Eu conheço o Jojoan.
+
+173
+00:06:57,560 --> 00:06:58,560
+Ah, legal.
+
+174
+00:06:58,560 --> 00:06:59,560
+Eu não conheço.
+
+175
+00:06:59,560 --> 00:07:05,560
+Vai estar um link no post para o episódio sobre o Arduino no Graco Podcast.
+
+176
+00:07:05,560 --> 00:07:10,560
+Então, teve o Lucas Emanuel, também, que estava sempre envolvido na comunidade do software livre em Goiás.
+
+177
+00:07:10,560 --> 00:07:12,560
+Ele participou até do Pequenico com a gente?
+
+178
+00:07:12,560 --> 00:07:13,560
+Com certeza.
+
+179
+00:07:13,560 --> 00:07:17,560
+Ele é o cara que sempre faz o site do Flissó, do Foram Goiã e tal.
+
+180
+00:07:17,560 --> 00:07:20,560
+Ah, não sabia não, só sabia do Alemão.
+
+181
+00:07:20,560 --> 00:07:22,560
+Sim, ele é da parte do desenvolvimento.
+
+182
+00:07:22,560 --> 00:07:26,560
+Ele, a Ana Flávia, tem o outro pessoal aí também, que eu não estou lembrado agora.
+
+183
+00:07:26,560 --> 00:07:28,560
+E assim por diante.
+
+184
+00:07:28,560 --> 00:07:31,560
+E tem a Ingrid Castro.
+
+185
+00:07:31,560 --> 00:07:33,560
+Acho que ela é a namorada do Rafael Adrien, né?
+
+186
+00:07:33,560 --> 00:07:34,560
+Do Gorjava.
+
+187
+00:07:34,560 --> 00:07:35,560
+Ah, é verdade.
+
+188
+00:07:35,560 --> 00:07:38,560
+Teve também a Cleviane, que é do grupo...
+
+189
+00:07:38,560 --> 00:07:43,560
+Se você não estiver a namorada do Rafael Adrien, aí, desculpe aí.
+
+190
+00:07:43,560 --> 00:07:46,560
+E como é que é mesmo?
+
+191
+00:07:46,560 --> 00:07:48,560
+Tem a Cleviane.
+
+192
+00:07:48,560 --> 00:07:50,560
+A gente não está falando da Cleviane, não?
+
+193
+00:07:50,560 --> 00:07:51,560
+Não.
+
+194
+00:07:51,560 --> 00:07:53,560
+A Cleviane é analista de teste.
+
+195
+00:07:53,560 --> 00:07:54,560
+Uma legal.
+
+196
+00:07:54,560 --> 00:07:57,560
+A maioria das mulheres vai para essa área de teste, né?
+
+197
+00:07:57,560 --> 00:08:01,560
+Eu vou fazer até um monte das coisas que a gente comentou no final do episódio.
+
+198
+00:08:01,560 --> 00:08:02,560
+Pois é.
+
+199
+00:08:02,560 --> 00:08:04,560
+É interessante ser mulher e geralmente vai para essa área.
+
+200
+00:08:04,560 --> 00:08:07,560
+Mulheres na tecnologia.
+
+201
+00:08:07,560 --> 00:08:08,560
+Então.
+
+202
+00:08:08,560 --> 00:08:12,560
+Tem a Marianne também da Porta 22.
+
+203
+00:08:18,560 --> 00:08:24,560
+Queremos lembrar mais uma vez para o pessoal que quer participar da organização do Flissó 2011.
+
+204
+00:08:24,560 --> 00:08:25,560
+Acontecendo.
+
+205
+00:08:25,560 --> 00:08:26,560
+Nós vamos precisar.
+
+206
+00:08:26,560 --> 00:08:28,560
+Até no dia do evento a gente vai precisar.
+
+207
+00:08:28,560 --> 00:08:31,560
+O evento está marcado para 9 de abril de 2011.
+
+208
+00:08:31,560 --> 00:08:33,560
+Nós estamos começando agora o desenvolvimento.
+
+209
+00:08:33,560 --> 00:08:36,560
+Eu estou participando da área da organização também.
+
+210
+00:08:36,560 --> 00:08:38,560
+Estou fazendo parte da divulgação.
+
+211
+00:08:38,560 --> 00:08:40,560
+E quem está organizando é o Marcos Carvalho.
+
+212
+00:08:40,560 --> 00:08:45,560
+Eu vou colocar o e-mail dele no post para quem quiser ajudar na organização.
+
+213
+00:08:45,560 --> 00:08:46,560
+Manda o e-mail para ele.
+
+214
+00:08:46,560 --> 00:08:47,560
+Falou tal.
+
+215
+00:08:47,560 --> 00:08:48,560
+Me ajude aí.
+
+216
+00:08:48,560 --> 00:08:50,560
+Entra no grupo do Flissó.
+
+217
+00:08:50,560 --> 00:08:53,560
+O Flissó precisa de ajuda de qualquer forma.
+
+218
+00:08:53,560 --> 00:08:55,560
+O Flissó precisa de você.
+
+219
+00:08:55,560 --> 00:08:57,560
+É isso aí.
+
+220
+00:08:57,560 --> 00:09:01,560
+E nós queremos falar também mais um jabá aí.
+
+221
+00:09:01,560 --> 00:09:03,560
+Jabá.
+
+222
+00:09:03,560 --> 00:09:05,560
+Dessa vez não tem nem um jabá para o George White.
+
+223
+00:09:05,560 --> 00:09:07,560
+George White nem link ele coloca pra quem.
+
+224
+00:09:07,560 --> 00:09:08,560
+É verdade.
+
+225
+00:09:10,560 --> 00:09:13,560
+Nós vamos falar sobre o Hakenux.
+
+226
+00:09:13,560 --> 00:09:15,560
+É Hakenux muito language.
+
+227
+00:09:15,560 --> 00:09:19,560
+Hakenux está em inglês e português disponível aí para a galera.
+
+228
+00:09:19,560 --> 00:09:22,560
+Em breve eu vou disponibilizar a versão de Tupi.
+
+229
+00:09:23,560 --> 00:09:38,560
+Hakenux está participando da Top 100 Webcomics Brasil.
+
+230
+00:09:38,560 --> 00:09:39,560
+E precisa de você.
+
+231
+00:09:39,560 --> 00:09:41,560
+E precisa do seu voto.
+
+232
+00:09:41,560 --> 00:09:43,560
+Que é muito mais importante do que você.
+
+233
+00:09:43,560 --> 00:09:53,560
+A gente é brincadeira para poder.
+
+234
+00:09:53,560 --> 00:09:55,560
+Cadê ele?
+
+235
+00:09:55,560 --> 00:09:58,560
+Ele deu um estourado aqui no áudio.
+
+236
+00:09:58,560 --> 00:10:01,560
+Então a gente tem novo vinheta.
+
+237
+00:10:01,560 --> 00:10:03,560
+Novo vinheta.
+
+238
+00:10:03,560 --> 00:10:05,560
+Qual que é a nova vinheta?
+
+239
+00:10:05,560 --> 00:10:07,560
+Eu vou falar.
+
+240
+00:10:07,560 --> 00:10:09,560
+Coloca aí agora.
+
+241
+00:10:09,560 --> 00:10:13,560
+Você está ouvindo o tribo do C.I. Podcast.
+
+242
+00:10:17,560 --> 00:10:19,560
+Mas foi feito com a TT Ribeiro.
+
+243
+00:10:19,560 --> 00:10:21,560
+Deve abraço para a TT Ribeiro.
+
+244
+00:10:21,560 --> 00:10:23,560
+Amém.
+
+245
+00:10:25,560 --> 00:10:29,560
+A gente pensava que a gente era rute do podcast.
+
+246
+00:10:29,560 --> 00:10:31,560
+E há uns dois anos atrás ela já tinha o podcast.
+
+247
+00:10:31,560 --> 00:10:33,560
+Nossa.
+
+248
+00:10:33,560 --> 00:10:35,560
+Feito por mulheres.
+
+249
+00:10:35,560 --> 00:10:37,560
+Que legal.
+
+250
+00:10:37,560 --> 00:10:39,560
+Você pegou o nome do podcast?
+
+251
+00:10:39,560 --> 00:10:41,560
+Mulheres no podcast.
+
+252
+00:10:43,560 --> 00:10:45,560
+Mulheres no podcast?
+
+253
+00:10:45,560 --> 00:10:47,560
+Não.
+
+254
+00:10:47,560 --> 00:10:49,560
+Pink Rock.
+
+255
+00:10:49,560 --> 00:10:51,560
+Interessante.
+
+256
+00:10:51,560 --> 00:10:53,560
+Podcast.
+
+257
+00:10:53,560 --> 00:10:55,560
+Feito por mulheres.
+
+258
+00:10:55,560 --> 00:10:57,560
+Começando.
+
+259
+00:10:57,560 --> 00:10:59,560
+Pink Rock.
+
+260
+00:10:59,560 --> 00:11:01,560
+Tudo o que você precisa saber de Rock.
+
+261
+00:11:01,560 --> 00:11:03,560
+Legal.
+
+262
+00:11:03,560 --> 00:11:05,560
+Um abraço para a TT Ribeiro.
+
+263
+00:11:05,560 --> 00:11:07,560
+Do nosso respeito tecnológico.
+
+264
+00:11:09,560 --> 00:11:11,560
+O podcast é um ofensimento...
+
+265
+00:11:11,560 --> 00:11:13,560
+Pequê Linux.
+
+266
+00:11:13,560 --> 00:11:15,560
+Daquilo.
+
+267
+00:11:15,560 --> 00:11:17,560
+Global Code.
+
+268
+00:11:17,560 --> 00:11:19,560
+R3.T.I.
+
+269
+00:11:19,560 --> 00:11:21,560
+Mulheres na tecnologia.
+
+270
+00:11:21,560 --> 00:11:23,560
+Tribo do C.I. Podcast.
+
+271
+00:11:27,560 --> 00:11:29,560
+A gente tem que se promover.
+
+272
+00:11:29,560 --> 00:11:31,560
+A gente tem que se promover.
+
+273
+00:11:31,560 --> 00:11:33,560
+A gente está com equipamento bom agora.
+
+274
+00:11:33,560 --> 00:11:35,560
+A gente comprou um...
+
+275
+00:11:35,560 --> 00:11:37,560
+A gente vai colocar no meio do ofensimento.
+
+276
+00:11:37,560 --> 00:11:39,560
+O ofensimento.
+
+277
+00:11:39,560 --> 00:11:41,560
+Não dá o microfone.
+
+278
+00:11:41,560 --> 00:11:43,560
+O que a TT Ribeiro comprou.
+
+279
+00:11:43,560 --> 00:11:45,560
+Mais um.
+
+280
+00:11:45,560 --> 00:11:47,560
+Mais um.
+
+281
+00:11:47,560 --> 00:11:49,560
+Então é isso aí galera.
+
+282
+00:11:49,560 --> 00:11:51,560
+Não, tem o BR Office.
+
+283
+00:11:51,560 --> 00:11:53,560
+O Libre Office. Eu gostava.
+
+284
+00:11:53,560 --> 00:11:55,560
+Vocês vão entender porque é um ofensimento.
+
+285
+00:11:55,560 --> 00:11:57,560
+Pega em Leandro.
+
+286
+00:11:57,560 --> 00:11:59,560
+É isso aí.
+
+287
+00:11:59,560 --> 00:12:01,560
+E para falar no final do episódio.
+
+288
+00:12:01,560 --> 00:12:03,560
+Um bate-papo das mulheres na tecnologia.
+
+289
+00:12:03,560 --> 00:12:05,560
+Um bate-papo de meninas.
+
+290
+00:12:05,560 --> 00:12:07,560
+Um bate-papo de mulherzinha.
+
+291
+00:12:07,560 --> 00:12:09,560
+Isso é coisa de menina.
+
+292
+00:12:09,560 --> 00:12:11,560
+Então é isso aí galera.
+
+293
+00:12:11,560 --> 00:12:13,560
+Valeu.
+
+294
+00:12:13,560 --> 00:12:15,560
+Valeu.
+
+295
+00:12:23,560 --> 00:12:25,560
+Oi, sou a Marcia.
+
+296
+00:12:25,560 --> 00:12:27,560
+Sou formada em sistema de informação.
+
+297
+00:12:27,560 --> 00:12:29,560
+Atualmente estou no grupo mulheres da tecnologia.
+
+298
+00:12:29,560 --> 00:12:31,560
+Estou na área de comunicação.
+
+299
+00:12:31,560 --> 00:12:33,560
+Então a parte de comunicação estou cuidando.
+
+300
+00:12:33,560 --> 00:12:35,560
+Trabalhar ainda não trabalho na área.
+
+301
+00:12:35,560 --> 00:12:37,560
+Felizmente.
+
+302
+00:12:37,560 --> 00:12:39,560
+Mas parte daqui hoje eu acho que vai ter.
+
+303
+00:12:39,560 --> 00:12:41,560
+Muito proveito pra mim.
+
+304
+00:12:41,560 --> 00:12:43,560
+Meu nome é Yara Sanger.
+
+305
+00:12:43,560 --> 00:12:45,560
+Eu tenho trabalhado com TI há vários anos.
+
+306
+00:12:45,560 --> 00:12:47,560
+Tenho trabalhado profissionalmente desde 2001.
+
+307
+00:12:47,560 --> 00:12:49,560
+Conheço uma série de outras mulheres
+
+308
+00:12:49,560 --> 00:12:51,560
+que trabalham nessa área.
+
+309
+00:12:51,560 --> 00:12:53,560
+Que são bem sucedidas.
+
+310
+00:12:53,560 --> 00:12:55,560
+Na Global Code tem outras várias instrutoras mulheres.
+
+311
+00:12:55,560 --> 00:12:57,560
+O que eu acho que acaba sendo
+
+312
+00:12:57,560 --> 00:12:59,560
+uma coisa bacana.
+
+313
+00:12:59,560 --> 00:13:01,560
+Uma maneira de marcar um território.
+
+314
+00:13:01,560 --> 00:13:03,560
+Ou de expandir o seu conhecimento.
+
+315
+00:13:03,560 --> 00:13:05,560
+E gostei da ideia do grupo.
+
+316
+00:13:05,560 --> 00:13:07,560
+Mulheres na TI.
+
+317
+00:13:07,560 --> 00:13:09,560
+Tenho visto uma atenção especial pra mulher.
+
+318
+00:13:09,560 --> 00:13:11,560
+No último Java One.
+
+319
+00:13:11,560 --> 00:13:13,560
+Eles tinham um brochinho especial pra mulheres.
+
+320
+00:13:13,560 --> 00:13:15,560
+Eu fiquei muito feliz com o convite
+
+321
+00:13:15,560 --> 00:13:17,560
+de fazer esse bate-papo de menina.
+
+322
+00:13:17,560 --> 00:13:19,560
+Pois disso.
+
+323
+00:13:19,560 --> 00:13:21,560
+Outras pessoas de outras unidades da Global Code
+
+324
+00:13:21,560 --> 00:13:23,560
+falaram gostei, gostei.
+
+325
+00:13:23,560 --> 00:13:25,560
+Eu também quero fazer um bate-papo de menina.
+
+326
+00:13:25,560 --> 00:13:27,560
+As iniciativas do grupo, com certeza,
+
+327
+00:13:27,560 --> 00:13:29,560
+são um incentivo bem legal pra outras mulheres.
+
+328
+00:13:29,560 --> 00:13:31,560
+Entrar na área.
+
+329
+00:13:31,560 --> 00:13:33,560
+Muito obrigada pelo convite.
+
+330
+00:13:49,560 --> 00:13:51,560
+Um grupo de mulheres na tecnologia.
+
+331
+00:13:51,560 --> 00:13:53,560
+Ele tem três anos agora.
+
+332
+00:13:53,560 --> 00:13:55,560
+Ele começou com três mocinhas.
+
+333
+00:13:55,560 --> 00:13:57,560
+A Luciana.
+
+334
+00:13:57,560 --> 00:13:59,560
+A Andressa.
+
+335
+00:13:59,560 --> 00:14:01,560
+E também a Nahrira.
+
+336
+00:14:01,560 --> 00:14:03,560
+Fizeram uma reunião.
+
+337
+00:14:03,560 --> 00:14:05,560
+Vamos discutir porque tem pouco a mulher nessa área.
+
+338
+00:14:05,560 --> 00:14:07,560
+Uma área tão boa.
+
+339
+00:14:07,560 --> 00:14:09,560
+surgiu a ideia de criar um grupo pra mulheres
+
+340
+00:14:09,560 --> 00:14:11,560
+da área de tecnologia de informação.
+
+341
+00:14:11,560 --> 00:14:13,560
+A partir daí foi criada a lista.
+
+342
+00:14:13,560 --> 00:14:15,560
+Foi criada o site.
+
+343
+00:14:15,560 --> 00:14:17,560
+Estamos no Twitter também.
+
+344
+00:14:17,560 --> 00:14:19,560
+E estão crescendo ainda.
+
+345
+00:14:19,560 --> 00:14:21,560
+Desenvolvei alguns projetos.
+
+346
+00:14:21,560 --> 00:14:23,560
+Desenvolvei um lado dela.
+
+347
+00:14:23,560 --> 00:14:25,560
+Valorizar o conhecimento dela.
+
+348
+00:14:25,560 --> 00:14:27,560
+E a gente tem uns princípios.
+
+349
+00:14:27,560 --> 00:14:29,560
+A gente determinou alguns princípios.
+
+350
+00:14:29,560 --> 00:14:31,560
+Que é a missão, a visão e os valores do grupo.
+
+351
+00:14:31,560 --> 00:14:33,560
+É importante a gente saber.
+
+352
+00:14:33,560 --> 00:14:35,560
+A missão do grupo, mulheres da tecnologia
+
+353
+00:14:35,560 --> 00:14:37,560
+é colaborar pro reconhecimento
+
+354
+00:14:37,560 --> 00:14:39,560
+do potencial feminino
+
+355
+00:14:39,560 --> 00:14:41,560
+na área de tecnologia de informação.
+
+356
+00:14:41,560 --> 00:14:43,560
+E a visão que foi definida
+
+357
+00:14:43,560 --> 00:14:45,560
+é ser um grupo de referência nacional
+
+358
+00:14:45,560 --> 00:14:47,560
+na busca pela equidade de gênero
+
+359
+00:14:47,560 --> 00:14:49,560
+na tecnologia de informação.
+
+360
+00:14:49,560 --> 00:14:51,560
+Então, a visão do grupo hoje
+
+361
+00:14:51,560 --> 00:14:53,560
+é valorizar a equidade de gênero.
+
+362
+00:14:53,560 --> 00:14:55,560
+Que a tecnologia não é só pra homem.
+
+363
+00:14:55,560 --> 00:14:57,560
+Tem mulher também.
+
+364
+00:14:57,560 --> 00:14:59,560
+Uma mulher muito boa.
+
+365
+00:14:59,560 --> 00:15:01,560
+Que entende e gosta da área.
+
+366
+00:15:01,560 --> 00:15:03,560
+Um dos princípios que o grupo tem
+
+367
+00:15:03,560 --> 00:15:05,560
+é através da lista.
+
+368
+00:15:05,560 --> 00:15:07,560
+Tanto homem quanto mulher
+
+369
+00:15:07,560 --> 00:15:09,560
+pode participar da lista de discussão.
+
+370
+00:15:09,560 --> 00:15:11,560
+Tem gente que entra na lista e fala que era um grupo só de mulher.
+
+371
+00:15:11,560 --> 00:15:13,560
+Tem um homem que participa.
+
+372
+00:15:13,560 --> 00:15:15,560
+Homo eslógico que valoriza esse conhecimento da mulher.
+
+373
+00:15:15,560 --> 00:15:17,560
+Os objetivos do grupo
+
+374
+00:15:17,560 --> 00:15:19,560
+hoje é promover
+
+375
+00:15:19,560 --> 00:15:21,560
+a troca de experiência
+
+376
+00:15:21,560 --> 00:15:23,560
+entre os membros, como agora
+
+377
+00:15:23,560 --> 00:15:25,560
+a gente está trocando a experiência.
+
+378
+00:15:25,560 --> 00:15:27,560
+Também qualificar.
+
+379
+00:15:27,560 --> 00:15:29,560
+A gente pretende fazer alguns cursos,
+
+380
+00:15:29,560 --> 00:15:31,560
+mini cursos, workshops pra mulher
+
+381
+00:15:31,560 --> 00:15:33,560
+na área de tecnologia.
+
+382
+00:15:33,560 --> 00:15:35,560
+Então, levar a formação pra pessoas da área
+
+383
+00:15:35,560 --> 00:15:37,560
+a igualdade de tratamento pelo mercado de trabalho.
+
+384
+00:15:37,560 --> 00:15:39,560
+A gente sabe que às vezes
+
+385
+00:15:39,560 --> 00:15:41,560
+isso quase novo não vai mais falar.
+
+386
+00:15:41,560 --> 00:15:43,560
+Mas ainda há uma diferença
+
+387
+00:15:43,560 --> 00:15:45,560
+do tratamento de salarial
+
+388
+00:15:45,560 --> 00:15:47,560
+do trabalho, referente a mulher e homem.
+
+389
+00:15:47,560 --> 00:15:49,560
+Principalmente na área, porque a maioria
+
+390
+00:15:49,560 --> 00:15:51,560
+prefere o homem, né, na tecnologia.
+
+391
+00:15:51,560 --> 00:15:53,560
+O homem vai saber mais, vai entender mais.
+
+392
+00:15:53,560 --> 00:15:55,560
+Um objetivo de capacitar e disseminar
+
+393
+00:15:55,560 --> 00:15:57,560
+tecnologia das mulheres, no geral.
+
+394
+00:15:57,560 --> 00:15:59,560
+Né?
+
+395
+00:15:59,560 --> 00:16:01,560
+A indígena falou com o trabalho na área
+
+396
+00:16:01,560 --> 00:16:03,560
+mas ela vai, em parte do discernimento
+
+397
+00:16:03,560 --> 00:16:05,560
+que agora ela vai começar.
+
+398
+00:16:05,560 --> 00:16:07,560
+É tendencial.
+
+399
+00:16:07,560 --> 00:16:09,560
+É igual.
+
+400
+00:16:09,560 --> 00:16:11,560
+Ela mais é capacitada
+
+401
+00:16:11,560 --> 00:16:13,560
+pra atuar na área de tecnologia.
+
+402
+00:16:13,560 --> 00:16:15,560
+Tá?
+
+403
+00:16:15,560 --> 00:16:17,560
+Promover a inclusão de mulheres também na área,
+
+404
+00:16:17,560 --> 00:16:19,560
+né, importante.
+
+405
+00:16:19,560 --> 00:16:21,560
+E também colaborar no desenvolvimento
+
+406
+00:16:21,560 --> 00:16:23,560
+da sociedade. Né?
+
+407
+00:16:23,560 --> 00:16:25,560
+Na atuação das mulheres na tecnologia.
+
+408
+00:16:25,560 --> 00:16:27,560
+É um filosofio bem bonito pra não dizer assim, né?
+
+409
+00:16:27,560 --> 00:16:29,560
+É que a mulher tem de bom
+
+410
+00:16:29,560 --> 00:16:31,560
+que pode agregar
+
+411
+00:16:31,560 --> 00:16:33,560
+a tecnologia.
+
+412
+00:16:33,560 --> 00:16:35,560
+O que a gente pode fazer, dando nessa área,
+
+413
+00:16:35,560 --> 00:16:37,560
+toando nessa área, pra melhorar a sociedade.
+
+414
+00:16:37,560 --> 00:16:39,560
+E um dos princípios que o grupo
+
+415
+00:16:39,560 --> 00:16:41,560
+trabalha hoje é a equidade, né?
+
+416
+00:16:41,560 --> 00:16:43,560
+A união.
+
+417
+00:16:43,560 --> 00:16:45,560
+E liberdade de conhecimento.
+
+418
+00:16:45,560 --> 00:16:47,560
+Então, apesar do grupo ter começado assim
+
+419
+00:16:47,560 --> 00:16:49,560
+no meio do software livre, né?
+
+420
+00:16:49,560 --> 00:16:51,560
+Nós participamos de um dos comunidades
+
+421
+00:16:51,560 --> 00:16:53,560
+do software livre, mas assim,
+
+422
+00:16:53,560 --> 00:16:55,560
+grupo é aberto pra quem quiser partilhar
+
+423
+00:16:55,560 --> 00:16:57,560
+conhecimento, seja software livre ou proprietário
+
+424
+00:16:57,560 --> 00:16:59,560
+e bem-vindo. Bom, o grupo
+
+425
+00:16:59,560 --> 00:17:01,560
+tem essa história, não dizer assim,
+
+426
+00:17:01,560 --> 00:17:03,560
+participou de poucos eventos até hoje,
+
+427
+00:17:03,560 --> 00:17:05,560
+promoveu poucos eventos até hoje.
+
+428
+00:17:05,560 --> 00:17:07,560
+Esse eu acho que é o terceiro ou segundo
+
+429
+00:17:07,560 --> 00:17:09,560
+mas a gente tende mesmo a crescer.
+
+430
+00:17:09,560 --> 00:17:11,560
+A levar o grupo de mulheres daqui a hoje
+
+431
+00:17:11,560 --> 00:17:13,560
+é realmente conhecido nacionalmente
+
+432
+00:17:13,560 --> 00:17:15,560
+ser uma referência mesmo, né?
+
+433
+00:17:15,560 --> 00:17:17,560
+Pra levar conhecimento, levar
+
+434
+00:17:17,560 --> 00:17:19,560
+oportunidade, né?
+
+435
+00:17:19,560 --> 00:17:21,560
+Crescimento pra qualquer tipo de
+
+436
+00:17:21,560 --> 00:17:23,560
+pessoa que já é interessada na área.
+
+437
+00:17:39,560 --> 00:17:41,560
+O grupo existe desde 2009.
+
+438
+00:17:41,560 --> 00:17:43,560
+Tem isso, desde 2009.
+
+439
+00:17:43,560 --> 00:17:45,560
+É comum aqui em Goé,
+
+440
+00:17:45,560 --> 00:17:47,560
+a gente ter vários grupos nos locais, né?
+
+441
+00:17:47,560 --> 00:17:49,560
+Tem o Go Android, que é pra usuários
+
+442
+00:17:49,560 --> 00:17:51,560
+Android, Go Java pra Java
+
+443
+00:17:51,560 --> 00:17:53,560
+e eu achei interessante que o grupo
+
+444
+00:17:53,560 --> 00:17:55,560
+ele é nacional, né?
+
+445
+00:17:55,560 --> 00:17:57,560
+Ele é um grupo que tem
+
+446
+00:17:57,560 --> 00:17:59,560
+um grupo que tem um grupo que
+
+447
+00:17:59,560 --> 00:18:01,560
+tem um grupo que tem um grupo que
+
+448
+00:18:01,560 --> 00:18:03,560
+tem um grupo que tem um grupo que
+
+449
+00:18:03,560 --> 00:18:05,560
+tem um grupo que tem um grupo que
+
+450
+00:18:05,560 --> 00:18:07,560
+tem um grupo que tem um grupo que
+
+451
+00:18:07,560 --> 00:18:09,560
+tem um grupo que é nacional, né?
+
+452
+00:18:09,560 --> 00:18:11,560
+Ele não é voltado só pra
+
+453
+00:18:11,560 --> 00:18:13,560
+embora ele tenha uma força regional
+
+454
+00:18:13,560 --> 00:18:15,560
+mas ele é um grupo
+
+455
+00:18:15,560 --> 00:18:17,560
+como foi dito de referência nacional, né?
+
+456
+00:18:17,560 --> 00:18:19,560
+É interessante essa parte.
+
+457
+00:18:19,560 --> 00:18:21,560
+É, começou aqui realmente Goé
+
+458
+00:18:21,560 --> 00:18:23,560
+e as meninas começaram o grupo foi daqui, né?
+
+459
+00:18:23,560 --> 00:18:25,560
+Então, às vezes fica mais centralizado aqui, né?
+
+460
+00:18:25,560 --> 00:18:27,560
+Mas agora com a ajuda
+
+461
+00:18:27,560 --> 00:18:29,560
+da Twitter, por exemplo,
+
+462
+00:18:29,560 --> 00:18:31,560
+o site a gente tá conseguindo
+
+463
+00:18:31,560 --> 00:18:33,560
+alcançar várias outras pessoas.
+
+464
+00:18:33,560 --> 00:18:35,560
+As meninas de São Paulo tão mandando
+
+465
+00:18:35,560 --> 00:18:37,560
+a gente quer do Sul, a gente
+
+466
+00:18:37,560 --> 00:18:39,560
+quer fazer um evento aqui também
+
+467
+00:18:39,560 --> 00:18:41,560
+e tá participando do grupo, tá dando ideia
+
+468
+00:18:41,560 --> 00:18:43,560
+escrevendo post no site, né?
+
+469
+00:18:43,560 --> 00:18:45,560
+Isso é legal. Então a gente realmente
+
+470
+00:18:45,560 --> 00:18:47,560
+tende a, assim, ser
+
+471
+00:18:47,560 --> 00:18:49,560
+crescer mesmo, né?
+
+472
+00:18:49,560 --> 00:18:51,560
+Sobre esse interesse
+
+473
+00:18:51,560 --> 00:18:53,560
+de garotas, né?
+
+474
+00:18:53,560 --> 00:18:55,560
+De mulheres de outros lugares
+
+475
+00:18:55,560 --> 00:18:57,560
+pra se juntar a gente, né?
+
+476
+00:18:57,560 --> 00:18:59,560
+E eu percebi, falei, comentei com ela, né?
+
+477
+00:18:59,560 --> 00:19:01,560
+Que é uma certa carência
+
+478
+00:19:01,560 --> 00:19:03,560
+que tem de, como diz a gente
+
+479
+00:19:03,560 --> 00:19:05,560
+que tem uma unidade
+
+480
+00:19:05,560 --> 00:19:07,560
+pra mudar a realidade hoje, né?
+
+481
+00:19:07,560 --> 00:19:09,560
+Da pouca participação das mulheres na tecnologia.
+
+482
+00:19:09,560 --> 00:19:11,560
+Então a gente vê que é uma ideia
+
+483
+00:19:11,560 --> 00:19:13,560
+uma ideia boa, uma ideia que
+
+484
+00:19:13,560 --> 00:19:15,560
+chama atenção, né? Que todo mundo quer participar
+
+485
+00:19:15,560 --> 00:19:17,560
+as mulheres, né? Nossa, um lugar
+
+486
+00:19:17,560 --> 00:19:19,560
+ali onde tem gente que é como eu, né?
+
+487
+00:19:19,560 --> 00:19:21,560
+Mulher da tecnologia, porque
+
+488
+00:19:21,560 --> 00:19:23,560
+querendo ou não, a gente é um pouco
+
+489
+00:19:23,560 --> 00:19:25,560
+sozinha, né? Porque a empresa
+
+490
+00:19:25,560 --> 00:19:27,560
+que a gente trabalha tem
+
+491
+00:19:27,560 --> 00:19:29,560
+maioria homem, né?
+
+492
+00:19:29,560 --> 00:19:31,560
+Então é legal a gente encontrar, assim, um ambiente
+
+493
+00:19:31,560 --> 00:19:33,560
+que a gente tem até a parte lá que chama
+
+494
+00:19:33,560 --> 00:19:35,560
+Papo de Mulherzinha, que fala sobre coisas de
+
+495
+00:19:35,560 --> 00:19:37,560
+mulheres mesmo, a maquiagem,
+
+496
+00:19:37,560 --> 00:19:39,560
+essas coisas, assuntos femininos, né?
+
+497
+00:19:39,560 --> 00:19:41,560
+Porque a gente
+
+498
+00:19:41,560 --> 00:19:43,560
+mesmo sendo da área técnica, né?
+
+499
+00:19:43,560 --> 00:19:45,560
+Temos toda a feminilidade ainda
+
+500
+00:19:45,560 --> 00:19:47,560
+e a gente
+
+501
+00:19:47,560 --> 00:19:49,560
+comentou isso, né? Que seria legal
+
+502
+00:19:49,560 --> 00:19:51,560
+e que a gente tem de mesmo que
+
+503
+00:19:51,560 --> 00:19:53,560
+que o grupo
+
+504
+00:19:53,560 --> 00:19:55,560
+a partir de que todo mundo
+
+505
+00:19:55,560 --> 00:19:57,560
+de outros lugares
+
+506
+00:19:57,560 --> 00:19:59,560
+vem ajudando, né?
+
+507
+00:19:59,560 --> 00:20:01,560
+E participando
+
+508
+00:20:01,560 --> 00:20:03,560
+da gente como um site
+
+509
+00:20:03,560 --> 00:20:05,560
+Quais que seriam as vertentes, assim?
+
+510
+00:20:05,560 --> 00:20:07,560
+Porque eu vi que tem um pessoal
+
+511
+00:20:07,560 --> 00:20:09,560
+que mexe com automação
+
+512
+00:20:09,560 --> 00:20:11,560
+de robótica, tem robótica livre
+
+513
+00:20:11,560 --> 00:20:13,560
+tem um pessoal da
+
+514
+00:20:13,560 --> 00:20:15,560
+que mexe com programação, tem um
+
+515
+00:20:15,560 --> 00:20:17,560
+esse negócio de vertente, assim, de várias
+
+516
+00:20:17,560 --> 00:20:19,560
+áreas ou é geral mesmo?
+
+517
+00:20:19,560 --> 00:20:21,560
+É geral, no caso da tecnologia de formação
+
+518
+00:20:21,560 --> 00:20:23,560
+tem mulher realmente que, né, vai saber
+
+519
+00:20:23,560 --> 00:20:25,560
+ele mais parte técnica, né? A gente tem
+
+520
+00:20:25,560 --> 00:20:27,560
+Andressa dela agora, nossa de
+
+521
+00:20:27,560 --> 00:20:29,560
+robótica, né? Ela adora robótica e tal
+
+522
+00:20:29,560 --> 00:20:31,560
+e tem já
+
+523
+00:20:31,560 --> 00:20:33,560
+a Cleviane que é analista de teste, né?
+
+524
+00:20:33,560 --> 00:20:35,560
+Tem a parte meninas que trabalham
+
+525
+00:20:35,560 --> 00:20:37,560
+na área de tecnologia mesmo
+
+526
+00:20:37,560 --> 00:20:39,560
+de gerencial, com a Flávia, então assim
+
+527
+00:20:39,560 --> 00:20:41,560
+é...
+
+528
+00:20:41,560 --> 00:20:43,560
+tudo que envolve tecnologia, né?
+
+529
+00:20:43,560 --> 00:20:45,560
+Dependente da atuação, no caso
+
+530
+00:20:45,560 --> 00:20:47,560
+é bem-vindo, no caso a grupo. Tem só um
+
+531
+00:20:47,560 --> 00:20:49,560
+ponto específico, né?
+
+532
+00:20:57,560 --> 00:20:59,560
+O que é importante?
+
+533
+00:21:13,560 --> 00:21:15,560
+Você sabe que eu vou
+
+534
+00:21:15,560 --> 00:21:17,560
+No ponto que eu acho que é interessante,
+
+535
+00:21:17,560 --> 00:21:19,560
+que é importante
+
+536
+00:21:19,560 --> 00:21:21,560
+que é a questão da vaidade.
+
+537
+00:21:21,560 --> 00:21:23,560
+Eu acho que a vaidade é a metade
+
+538
+00:21:23,560 --> 00:21:25,560
+do nosso problema. Muitas vezes, né,
+
+539
+00:21:25,560 --> 00:21:27,560
+então, de falar
+
+540
+00:21:27,560 --> 00:21:29,560
+a vaidade na vida da mulher
+
+541
+00:21:29,560 --> 00:21:31,560
+eventualmente ela toma um tempo muito grande
+
+542
+00:21:31,560 --> 00:21:33,560
+que faz com que a gente fique
+
+543
+00:21:33,560 --> 00:21:35,560
+atrás realmente dos homens
+
+544
+00:21:35,560 --> 00:21:37,560
+tecnicamente. Então, é muito comum
+
+545
+00:21:37,560 --> 00:21:39,560
+que um homem, ele esteja no final
+
+546
+00:21:39,560 --> 00:21:41,560
+do semana, ou à noite, ou no seu
+
+547
+00:21:41,560 --> 00:21:43,560
+tempo livre, se dedicando
+
+548
+00:21:43,560 --> 00:21:45,560
+ao estudo, aprender uma nova tecnologia,
+
+549
+00:21:45,560 --> 00:21:47,560
+a fuçar, na hora que
+
+550
+00:21:47,560 --> 00:21:49,560
+encontra um problema, ele tá lá,
+
+551
+00:21:49,560 --> 00:21:51,560
+ele muda, ele instala de novo, ele briga com
+
+552
+00:21:51,560 --> 00:21:53,560
+Windows e tudo isso
+
+553
+00:21:53,560 --> 00:21:55,560
+e a mulher, na vida dela, acaba
+
+554
+00:21:55,560 --> 00:21:57,560
+tendo um espaço pra vaidade muito grande.
+
+555
+00:21:57,560 --> 00:21:59,560
+Então, você pega o número de compromissos
+
+556
+00:21:59,560 --> 00:22:01,560
+que você tem, você fala, olha, porque
+
+557
+00:22:01,560 --> 00:22:03,560
+eu quero ir maquiar, então, pra eu poder
+
+558
+00:22:03,560 --> 00:22:05,560
+ir para o trabalho, eu preciso
+
+559
+00:22:05,560 --> 00:22:07,560
+acordar uma hora mais cedo
+
+560
+00:22:07,560 --> 00:22:09,560
+pra poder fazer esse couro, pra poder fazer
+
+561
+00:22:09,560 --> 00:22:11,560
+maquiagem. Pronto, é uma hora menos,
+
+562
+00:22:11,560 --> 00:22:13,560
+é um sobre vinte e quatro, né, do seu dia,
+
+563
+00:22:13,560 --> 00:22:15,560
+mas na verdade, tem uma parte que a gente
+
+564
+00:22:15,560 --> 00:22:17,560
+dorme, então é mais do que isso.
+
+565
+00:22:17,560 --> 00:22:19,560
+É quase 10% do seu tempo que você tá
+
+566
+00:22:19,560 --> 00:22:21,560
+investindo numa outra coisa
+
+567
+00:22:21,560 --> 00:22:23,560
+enquanto os homens, eventualmente, estão estudando.
+
+568
+00:22:23,560 --> 00:22:25,560
+Todos os homens estão estudando?
+
+569
+00:22:25,560 --> 00:22:27,560
+Não, né, mas
+
+570
+00:22:27,560 --> 00:22:29,560
+tem uma dedicação grande pra isso daí.
+
+571
+00:22:29,560 --> 00:22:31,560
+Depois, tem uma série
+
+572
+00:22:31,560 --> 00:22:33,560
+de outros impecilhos que são colocados na
+
+573
+00:22:33,560 --> 00:22:35,560
+nossa vida e que, eventualmente,
+
+574
+00:22:35,560 --> 00:22:37,560
+eles podem ser um impecilho. Então,
+
+575
+00:22:37,560 --> 00:22:39,560
+você pega as mulheres com uma
+
+576
+00:22:39,560 --> 00:22:41,560
+vaidade muito grande, então,
+
+577
+00:22:41,560 --> 00:22:43,560
+você tá num ambiente de trabalho.
+
+578
+00:22:43,560 --> 00:22:45,560
+Se os homens do seu trabalho passam a te achar
+
+579
+00:22:45,560 --> 00:22:47,560
+gostosa, tá certo?
+
+580
+00:22:47,560 --> 00:22:49,560
+Você tá com um diferencial contra
+
+581
+00:22:49,560 --> 00:22:51,560
+você, né?
+
+582
+00:22:51,560 --> 00:22:53,560
+Eventualmente, as mulheres confundem,
+
+583
+00:22:53,560 --> 00:22:55,560
+elas acham se todo mundo me achar linda,
+
+584
+00:22:55,560 --> 00:22:57,560
+maravilhosa, gostosa, isso vai a favor
+
+585
+00:22:57,560 --> 00:22:59,560
+de mim. Mas, a partir do momento
+
+586
+00:22:59,560 --> 00:23:01,560
+que você não responde
+
+587
+00:23:01,560 --> 00:23:03,560
+aquele desejo, aquela ansiedade,
+
+588
+00:23:03,560 --> 00:23:05,560
+eventualmente aquilo passa a ser contra você.
+
+589
+00:23:05,560 --> 00:23:07,560
+Então, se você é gostosa
+
+590
+00:23:07,560 --> 00:23:09,560
+no seu trabalho, mas você não tá dando
+
+591
+00:23:09,560 --> 00:23:11,560
+bola pra aqueles homens,
+
+592
+00:23:11,560 --> 00:23:13,560
+a sua beleza pode se voltar contra você,
+
+593
+00:23:13,560 --> 00:23:15,560
+né? Eu já vi
+
+594
+00:23:15,560 --> 00:23:17,560
+várias pessoas que falaram, nossa, eu tentei
+
+595
+00:23:17,560 --> 00:23:19,560
+uma relação de uma secretária, mas ela
+
+596
+00:23:19,560 --> 00:23:21,560
+apareceu aqui com um decote tão grande
+
+597
+00:23:21,560 --> 00:23:23,560
+que, se ela espirrasse
+
+598
+00:23:23,560 --> 00:23:25,560
+o peito pular para fora, eu falei, nossa,
+
+599
+00:23:25,560 --> 00:23:27,560
+né? Mas, é verdade,
+
+600
+00:23:27,560 --> 00:23:29,560
+né? E, muitas vezes,
+
+601
+00:23:29,560 --> 00:23:31,560
+tem uma ilusão
+
+602
+00:23:31,560 --> 00:23:33,560
+de que aquele decote
+
+603
+00:23:33,560 --> 00:23:35,560
+ele está a seu favor, mas, muitas vezes,
+
+604
+00:23:35,560 --> 00:23:37,560
+ele está contra você.
+
+605
+00:23:37,560 --> 00:23:39,560
+Se, por acaso, ele está a seu favor
+
+606
+00:23:39,560 --> 00:23:41,560
+naquele momento, ele passa a estar
+
+607
+00:23:41,560 --> 00:23:43,560
+contra você no seu crescimento.
+
+608
+00:23:43,560 --> 00:23:45,560
+Se aquela pessoa que tá te contratando,
+
+609
+00:23:45,560 --> 00:23:47,560
+por aquilo,
+
+610
+00:23:47,560 --> 00:23:49,560
+então, quer dizer que
+
+611
+00:23:49,560 --> 00:23:51,560
+você não tem uma contratação por mérito,
+
+612
+00:23:51,560 --> 00:23:53,560
+por competência, né?
+
+613
+00:23:53,560 --> 00:23:55,560
+Você entra numa zona de conforto.
+
+614
+00:23:55,560 --> 00:23:57,560
+Então, eu acho hoje que
+
+615
+00:23:57,560 --> 00:23:59,560
+eu não acho que as mulheres
+
+616
+00:23:59,560 --> 00:24:01,560
+tem que ser feias, tem que ser mal cuidadas,
+
+617
+00:24:01,560 --> 00:24:03,560
+tem que, né,
+
+618
+00:24:03,560 --> 00:24:05,560
+perder a sua vaidade, mas tem que
+
+619
+00:24:05,560 --> 00:24:07,560
+entender qual é o papel da vaidade
+
+620
+00:24:07,560 --> 00:24:09,560
+dentro da sua vida, qual é o tanto
+
+621
+00:24:09,560 --> 00:24:11,560
+de tempo que você quer se dedicar
+
+622
+00:24:11,560 --> 00:24:13,560
+à aquilo, né? Eu tenho
+
+623
+00:24:13,560 --> 00:24:15,560
+de 18 anos,
+
+624
+00:24:15,560 --> 00:24:17,560
+17 anos, no outro dia
+
+625
+00:24:17,560 --> 00:24:19,560
+ela falou assim pra mim,
+
+626
+00:24:19,560 --> 00:24:21,560
+Crado, pelo amor de Deus,
+
+627
+00:24:21,560 --> 00:24:23,560
+que horror, você tem que tirar isso
+
+628
+00:24:23,560 --> 00:24:25,560
+sobrancelho, eu falei, raca, né? Você tem
+
+629
+00:24:25,560 --> 00:24:27,560
+17 anos, você tá falando?
+
+630
+00:24:27,560 --> 00:24:29,560
+Então, eu acho que essa
+
+631
+00:24:29,560 --> 00:24:31,560
+coisa, essa questão dos valores
+
+632
+00:24:31,560 --> 00:24:33,560
+da vaidade, eventualmente,
+
+633
+00:24:33,560 --> 00:24:35,560
+eu vejo atrapalhar
+
+634
+00:24:35,560 --> 00:24:37,560
+em colaboradores, não só na TI,
+
+635
+00:24:37,560 --> 00:24:39,560
+mas de ser uma coisa excessiva
+
+636
+00:24:39,560 --> 00:24:41,560
+que toma o tempo
+
+637
+00:24:41,560 --> 00:24:43,560
+demais e eventualmente
+
+638
+00:24:43,560 --> 00:24:45,560
+acaba, né, fazendo com que
+
+639
+00:24:45,560 --> 00:24:47,560
+você esteja buscando a beleza
+
+640
+00:24:47,560 --> 00:24:49,560
+e não a competência. Então,
+
+641
+00:24:49,560 --> 00:24:51,560
+eu acho que é muito importante pra
+
+642
+00:24:51,560 --> 00:24:53,560
+as mulheres que querem
+
+643
+00:24:53,560 --> 00:24:55,560
+se dar bem
+
+644
+00:24:55,560 --> 00:24:57,560
+e crescer no mercado de trabalho
+
+645
+00:24:57,560 --> 00:24:59,560
+lembrar que o que vai fazer uma
+
+646
+00:24:59,560 --> 00:25:01,560
+promoção, que o que vai fazer um
+
+647
+00:25:01,560 --> 00:25:03,560
+crescimento profissional é a competência
+
+648
+00:25:03,560 --> 00:25:05,560
+e a competência, ela não vem
+
+649
+00:25:05,560 --> 00:25:07,560
+de graça, a competência vem
+
+650
+00:25:07,560 --> 00:25:09,560
+de uma dedicação de horas
+
+651
+00:25:09,560 --> 00:25:11,560
+e chegar em casa e estudar
+
+652
+00:25:11,560 --> 00:25:13,560
+é encontrar um problema, eu mesmo
+
+653
+00:25:13,560 --> 00:25:15,560
+tenho problema na hora que vem a minha
+
+654
+00:25:15,560 --> 00:25:17,560
+máquina e dá um problema com o sistema
+
+655
+00:25:17,560 --> 00:25:19,560
+operacional, etc. Primeira coisa que eu
+
+656
+00:25:19,560 --> 00:25:21,560
+falo é o seguinte, não, coisa chata,
+
+657
+00:25:21,560 --> 00:25:23,560
+eu não queria investir em isso
+
+658
+00:25:23,560 --> 00:25:25,560
+tudo mais e a gente acaba
+
+659
+00:25:25,560 --> 00:25:27,560
+ficando atravancada naquilo, né? Então,
+
+660
+00:25:27,560 --> 00:25:29,560
+você tem que falar, bom, vou ganhar
+
+661
+00:25:29,560 --> 00:25:31,560
+isso daqui, né? Eu vou desafiar
+
+662
+00:25:31,560 --> 00:25:33,560
+esse problema que eu tô tendo
+
+663
+00:25:33,560 --> 00:25:35,560
+e vou conquistar esse espaço.
+
+664
+00:25:35,560 --> 00:25:37,560
+Então, não sei, não sei o que
+
+665
+00:25:37,560 --> 00:25:39,560
+vai fazer, mas eu não sei o que
+
+666
+00:25:39,560 --> 00:25:41,560
+vai fazer, não sei o que
+
+667
+00:25:41,560 --> 00:25:43,560
+vai fazer.
+
+668
+00:26:07,560 --> 00:26:09,560
+Com relação à vaidade, eu vejo isso
+
+669
+00:26:09,560 --> 00:26:11,560
+não só com mulheres, mas com homem
+
+670
+00:26:11,560 --> 00:26:13,560
+também dependendo do cargo, por exemplo.
+
+671
+00:26:13,560 --> 00:26:15,560
+E também dependendo da equipe mista,
+
+672
+00:26:15,560 --> 00:26:17,560
+num escritório que eu tenho
+
+673
+00:26:17,560 --> 00:26:19,560
+bastante problema da
+
+674
+00:26:19,560 --> 00:26:21,560
+roupa que eu vou usar. Eu particularmente
+
+675
+00:26:21,560 --> 00:26:23,560
+não gosto, nem tenho roupa social.
+
+676
+00:26:23,560 --> 00:26:25,560
+Mas dependendo do escritório
+
+677
+00:26:25,560 --> 00:26:27,560
+que eu tô, eu tenho que usar uma roupa
+
+678
+00:26:27,560 --> 00:26:29,560
+mais ou menos de acordo com o resto
+
+679
+00:26:29,560 --> 00:26:31,560
+da equipe. Eu conheço empresas, inclusive
+
+680
+00:26:31,560 --> 00:26:33,560
+que quer deixar a parte técnica
+
+681
+00:26:33,560 --> 00:26:35,560
+separada da parte comercial
+
+682
+00:26:35,560 --> 00:26:37,560
+porque
+
+683
+00:26:37,560 --> 00:26:39,560
+pra não ter esse
+
+684
+00:26:39,560 --> 00:26:41,560
+problema, né? O cara vai
+
+685
+00:26:41,560 --> 00:26:43,560
+programar. Ele não precisa estar num
+
+686
+00:26:43,560 --> 00:26:45,560
+terno, numa roupa social,
+
+687
+00:26:45,560 --> 00:26:47,560
+pra poder desempenhar o papel
+
+688
+00:26:47,560 --> 00:26:49,560
+dele, mas o cara que tá no comercial
+
+689
+00:26:49,560 --> 00:26:51,560
+ele tá sempre, tem que
+
+690
+00:26:51,560 --> 00:26:53,560
+usar da aparência como
+
+691
+00:26:53,560 --> 00:26:55,560
+ferramenta do trabalho dele.
+
+692
+00:26:55,560 --> 00:26:57,560
+Eu acho outra coisa que achei interessante
+
+693
+00:26:57,560 --> 00:26:59,560
+também, que eu já vi mulheres
+
+694
+00:26:59,560 --> 00:27:01,560
+comentando comigo. Ah, eu tava
+
+695
+00:27:01,560 --> 00:27:03,560
+numa entrevista de emprego e quando
+
+696
+00:27:03,560 --> 00:27:05,560
+falei que eu era noiva
+
+697
+00:27:05,560 --> 00:27:07,560
+o cara desinteressou pela minha
+
+698
+00:27:07,560 --> 00:27:09,560
+estágio, minha coisa assim. Então
+
+699
+00:27:09,560 --> 00:27:11,560
+eu também acho que
+
+700
+00:27:11,560 --> 00:27:13,560
+tem muito disso na contratação
+
+701
+00:27:13,560 --> 00:27:15,560
+de mulheres. A pessoa confundir
+
+702
+00:27:15,560 --> 00:27:17,560
+é contratar mulher com
+
+703
+00:27:17,560 --> 00:27:19,560
+seguros intenções, né? Que eu acho que seria
+
+704
+00:27:19,560 --> 00:27:21,560
+seria desleal. Que seria na contratação
+
+705
+00:27:21,560 --> 00:27:23,560
+não pela competência, mas sim
+
+706
+00:27:23,560 --> 00:27:25,560
+o objetivo seria outro, né? Ter uma mulher
+
+707
+00:27:25,560 --> 00:27:27,560
+na equipe, sei lá, só pra melhorar
+
+708
+00:27:27,560 --> 00:27:29,560
+o cheiro do escritório.
+
+709
+00:27:29,560 --> 00:27:31,560
+É verdade, né?
+
+710
+00:27:31,560 --> 00:27:33,560
+Ela até comentou isso naquele vídeo
+
+711
+00:27:33,560 --> 00:27:35,560
+e eu também acho que a ansiedade
+
+712
+00:27:35,560 --> 00:27:37,560
+do casamento, ela vai contra a mulher
+
+713
+00:27:37,560 --> 00:27:39,560
+em muitas situações, né? Assim,
+
+714
+00:27:39,560 --> 00:27:41,560
+independente da mulher na TI, ou não
+
+715
+00:27:41,560 --> 00:27:43,560
+na TI, eu conheço
+
+716
+00:27:43,560 --> 00:27:45,560
+pessoas que perdem uma produtividade
+
+717
+00:27:45,560 --> 00:27:47,560
+gigante numa época de casamento, né? Então
+
+718
+00:27:47,560 --> 00:27:49,560
+a mulher vai casar em outubro do ano que
+
+719
+00:27:49,560 --> 00:27:51,560
+vem e ela tá desde agora
+
+720
+00:27:51,560 --> 00:27:53,560
+o dia todo no celular, ligando atrás
+
+721
+00:27:53,560 --> 00:27:55,560
+do bife, etc, etc, né?
+
+722
+00:27:55,560 --> 00:27:57,560
+Isso aí acaba causando uma coisa
+
+723
+00:27:57,560 --> 00:27:59,560
+quando você fala, pera aí, tá noiva, né?
+
+724
+00:27:59,560 --> 00:28:01,560
+Eu mesmo hoje, se eu for
+
+725
+00:28:01,560 --> 00:28:03,560
+fazer uma contratação, e a pessoa chega pra
+
+726
+00:28:03,560 --> 00:28:05,560
+me falar que tá noiva, vou falar, puxa, essa
+
+727
+00:28:05,560 --> 00:28:07,560
+pessoa aí, infelizmente
+
+728
+00:28:07,560 --> 00:28:09,560
+a 90%, né? Não vou nem
+
+729
+00:28:09,560 --> 00:28:11,560
+falar porcentagem porque é desleal,
+
+730
+00:28:11,560 --> 00:28:13,560
+mas uma porcentagem muito grande das mulheres
+
+731
+00:28:13,560 --> 00:28:15,560
+perde um tempo muito grande
+
+732
+00:28:15,560 --> 00:28:17,560
+mesmo nisso, enquanto eu não
+
+733
+00:28:17,560 --> 00:28:19,560
+vejo o homem perder a mesma produtividade.
+
+734
+00:28:19,560 --> 00:28:21,560
+Então assim, de novo,
+
+735
+00:28:21,560 --> 00:28:23,560
+é, eu acho que
+
+736
+00:28:23,560 --> 00:28:25,560
+cada um de nós, que quer crescer
+
+737
+00:28:25,560 --> 00:28:27,560
+e que quer ter sucesso
+
+738
+00:28:27,560 --> 00:28:29,560
+profissional, você pode ter toda a ansiedade
+
+739
+00:28:29,560 --> 00:28:31,560
+do mundo que você quiser em relação
+
+740
+00:28:31,560 --> 00:28:33,560
+ao seu casamento, né? Fazer todos os planos
+
+741
+00:28:33,560 --> 00:28:35,560
+que quer planejar cinco anos antes, pode
+
+742
+00:28:35,560 --> 00:28:37,560
+planejar, mas dentro do ambiente
+
+743
+00:28:37,560 --> 00:28:39,560
+de trabalho, né? O teu casamento
+
+744
+00:28:39,560 --> 00:28:41,560
+tá fora de foco.
+
+745
+00:28:41,560 --> 00:28:43,560
+Eu acho que isso aí, muitas vezes
+
+746
+00:28:43,560 --> 00:28:45,560
+é um erro que as próprias mulheres
+
+747
+00:28:45,560 --> 00:28:47,560
+estão cometendo. Particularmente
+
+748
+00:28:47,560 --> 00:28:49,560
+eu não vejo uma coisa do tipo
+
+749
+00:28:49,560 --> 00:28:51,560
+muito preconceito contra as mulheres
+
+750
+00:28:51,560 --> 00:28:53,560
+hoje, pra mim mesmo, eu já tive
+
+751
+00:28:53,560 --> 00:28:55,560
+pessoas que quiseram me contratar exatamente
+
+752
+00:28:55,560 --> 00:28:57,560
+porque eu era mulher, elas falaram, olha,
+
+753
+00:28:57,560 --> 00:28:59,560
+é legal ter uma mulher evangelista,
+
+754
+00:28:59,560 --> 00:29:01,560
+é legal, coisas desse
+
+755
+00:29:01,560 --> 00:29:03,560
+tipo, desde que a gente consiga
+
+756
+00:29:03,560 --> 00:29:05,560
+infelizmente, com a média
+
+757
+00:29:05,560 --> 00:29:07,560
+eventualmente a gente tem que provar
+
+758
+00:29:07,560 --> 00:29:09,560
+um pouco mais a nossa seriedade,
+
+759
+00:29:09,560 --> 00:29:11,560
+né? E relçar isso
+
+760
+00:29:11,560 --> 00:29:13,560
+e refletir sobre isso no momento de
+
+761
+00:29:13,560 --> 00:29:15,560
+entrevista, ou... E a nossa
+
+762
+00:29:15,560 --> 00:29:17,560
+nossa roupa
+
+763
+00:29:17,560 --> 00:29:19,560
+é importante pra mostrar isso, né?
+
+764
+00:29:19,560 --> 00:29:21,560
+Nossa expressão, o nosso discurso
+
+765
+00:29:21,560 --> 00:29:23,560
+então a gente acaba tendo que ter um pouco mais
+
+766
+00:29:23,560 --> 00:29:25,560
+cuidado em relação a isso
+
+767
+00:29:25,560 --> 00:29:27,560
+pra que a gente consiga mostrar
+
+768
+00:29:27,560 --> 00:29:29,560
+que tipo de mulher cada um é, né?
+
+769
+00:29:29,560 --> 00:29:31,560
+Eu não quero ser preconceituosa
+
+770
+00:29:31,560 --> 00:29:33,560
+nesse momento e falar que nenhum homem
+
+771
+00:29:33,560 --> 00:29:35,560
+perde foco de nada, né? O homem
+
+772
+00:29:35,560 --> 00:29:37,560
+também perde seu foco no futebol,
+
+773
+00:29:37,560 --> 00:29:39,560
+na balada, ou em
+
+774
+00:29:39,560 --> 00:29:41,560
+muitas outras coisas, mas
+
+775
+00:29:41,560 --> 00:29:43,560
+nesse momento a gente tá discutindo
+
+776
+00:29:43,560 --> 00:29:45,560
+problema da mulher.
+
+777
+00:29:53,560 --> 00:30:07,560
+...
+
+778
+00:30:07,560 --> 00:30:09,560
+Yara, é...
+
+779
+00:30:09,560 --> 00:30:11,560
+uma coisa que eu vejo assim, né?
+
+780
+00:30:11,560 --> 00:30:13,560
+Eu tenho uma esposa que ela é feminista
+
+781
+00:30:13,560 --> 00:30:15,560
+por profissão, né? Ela trabalha
+
+782
+00:30:15,560 --> 00:30:17,560
+com igualdade de gênero.
+
+783
+00:30:17,560 --> 00:30:19,560
+É uma coisa que eu
+
+784
+00:30:19,560 --> 00:30:21,560
+não percebia antes de ver ela falar,
+
+785
+00:30:21,560 --> 00:30:23,560
+mas esse problema eu acho
+
+786
+00:30:23,560 --> 00:30:25,560
+que é um problema da divisão dos papéis,
+
+787
+00:30:25,560 --> 00:30:27,560
+divisão das tarefas, né?
+
+788
+00:30:27,560 --> 00:30:29,560
+Que tem muitos usuários, as mulheres
+
+789
+00:30:29,560 --> 00:30:31,560
+elas têm dupla jornada, elas trabalham
+
+790
+00:30:31,560 --> 00:30:33,560
+o dia inteiro e chegar à noite não tem
+
+791
+00:30:33,560 --> 00:30:35,560
+que cuidar das crianças, de manhã cedo,
+
+792
+00:30:35,560 --> 00:30:37,560
+a porta mais cedo que o homem, não sei o que,
+
+793
+00:30:37,560 --> 00:30:39,560
+porque que lá o papel da mulher, né?
+
+794
+00:30:39,560 --> 00:30:41,560
+Isso que é ensinado a mulher quando ela nasce
+
+795
+00:30:41,560 --> 00:30:43,560
+que dão pra ela frigiderinha, dão pra
+
+796
+00:30:43,560 --> 00:30:45,560
+ela bonequinha, vai cuidar do bebê,
+
+797
+00:30:45,560 --> 00:30:47,560
+vai brincar de fazer comida
+
+798
+00:30:47,560 --> 00:30:49,560
+enquanto o homem
+
+799
+00:30:49,560 --> 00:30:51,560
+tem uma coisa que eu vi no meu casamento,
+
+800
+00:30:51,560 --> 00:30:53,560
+eu casei, tem um ano e três meses,
+
+801
+00:30:53,560 --> 00:30:55,560
+seis meses.
+
+802
+00:30:55,560 --> 00:30:57,560
+A gente dividia as tarefas
+
+803
+00:30:57,560 --> 00:30:59,560
+eu até tentava empurrar essa de
+
+804
+00:30:59,560 --> 00:31:01,560
+escolar, assim, ah não, isso é coisa de mulher
+
+805
+00:31:01,560 --> 00:31:03,560
+dela é coisa de maior caramba.
+
+806
+00:31:03,560 --> 00:31:05,560
+Você tá tão interessado na questão quanto eu
+
+807
+00:31:05,560 --> 00:31:07,560
+então você tem que participar, tem que ver bebê
+
+808
+00:31:07,560 --> 00:31:09,560
+e você vai comigo ver bebê.
+
+809
+00:31:09,560 --> 00:31:11,560
+Então assim,
+
+810
+00:31:11,560 --> 00:31:13,560
+desde o começo já sabia quem eu tava casando,
+
+811
+00:31:13,560 --> 00:31:15,560
+então essa questão, isso é uma desculpa
+
+812
+00:31:15,560 --> 00:31:17,560
+que não cola lá em casa, papel da mulher
+
+813
+00:31:17,560 --> 00:31:19,560
+coisa de mulher e coisa de homem.
+
+814
+00:31:19,560 --> 00:31:21,560
+É questão assim, que papel,
+
+815
+00:31:21,560 --> 00:31:23,560
+qual ajuda que você tá disposto a dar
+
+816
+00:31:23,560 --> 00:31:25,560
+em casa também. Então isso parte
+
+817
+00:31:25,560 --> 00:31:27,560
+do homem também colaborar.
+
+818
+00:31:27,560 --> 00:31:29,560
+Essa questão que o Lucas levantou,
+
+819
+00:31:29,560 --> 00:31:31,560
+eu acho que ela é fundamental, né?
+
+820
+00:31:31,560 --> 00:31:33,560
+Antes de você chegar, Lucas, eu presentei
+
+821
+00:31:33,560 --> 00:31:35,560
+uma TED tal que eu gosto muito aqui, que fala
+
+822
+00:31:35,560 --> 00:31:37,560
+porque tem tão poucas mulheres nos cargos
+
+823
+00:31:37,560 --> 00:31:39,560
+mais importantes, né?
+
+824
+00:31:39,560 --> 00:31:41,560
+Ela fala exatamente isso, ela fala, bom,
+
+825
+00:31:41,560 --> 00:31:43,560
+tem essa divisão de papéis, né?
+
+826
+00:31:43,560 --> 00:31:45,560
+Como é que fica o homem, a mulher
+
+827
+00:31:45,560 --> 00:31:47,560
+e ele fala lá, por exemplo,
+
+828
+00:31:47,560 --> 00:31:49,560
+fizeram várias pesquisas nos Estados Unidos
+
+829
+00:31:49,560 --> 00:31:51,560
+e dois terços das atividades
+
+830
+00:31:51,560 --> 00:31:53,560
+domésticas e filhos são feitas pela mulher
+
+831
+00:31:53,560 --> 00:31:55,560
+e apenas um terço
+
+832
+00:31:55,560 --> 00:31:57,560
+é feita pelo homem, né?
+
+833
+00:31:57,560 --> 00:31:59,560
+Mas hoje você sabe que uma das
+
+834
+00:31:59,560 --> 00:32:01,560
+coisas que eu acredito muito
+
+835
+00:32:01,560 --> 00:32:03,560
+é na determinação pessoal
+
+836
+00:32:03,560 --> 00:32:05,560
+de cada mulher, né? De como é
+
+837
+00:32:05,560 --> 00:32:07,560
+independente de qual é a estatística
+
+838
+00:32:07,560 --> 00:32:09,560
+do mundo, a sua mulher, por exemplo,
+
+839
+00:32:09,560 --> 00:32:11,560
+decidiu que no mundo dela
+
+840
+00:32:11,560 --> 00:32:13,560
+independente dessa estatística
+
+841
+00:32:13,560 --> 00:32:15,560
+o mais importante do que o casamento
+
+842
+00:32:15,560 --> 00:32:17,560
+era ter
+
+843
+00:32:17,560 --> 00:32:19,560
+os dois seriões iguais, então
+
+844
+00:32:19,560 --> 00:32:21,560
+ela inverter o filtro, ela falou
+
+845
+00:32:21,560 --> 00:32:23,560
+eu quero casar, mas eu quero que meu marido entenda
+
+846
+00:32:23,560 --> 00:32:25,560
+não quer, né?
+
+847
+00:32:25,560 --> 00:32:27,560
+Bye bye, né? E é uma força difícil
+
+848
+00:32:27,560 --> 00:32:29,560
+culturalmente, é difícil que a mulher
+
+849
+00:32:29,560 --> 00:32:31,560
+coloque o homem
+
+850
+00:32:31,560 --> 00:32:33,560
+num segundo plano, coloque
+
+851
+00:32:33,560 --> 00:32:35,560
+exija isso daí, né?
+
+852
+00:32:35,560 --> 00:32:37,560
+Normalmente se acaba sedendo
+
+853
+00:32:37,560 --> 00:32:39,560
+ou assumindo naturalmente e tudo isso
+
+854
+00:32:39,560 --> 00:32:41,560
+Mas em T.I. específicamente
+
+855
+00:32:41,560 --> 00:32:43,560
+você falta sede na mulher, sabe?
+
+856
+00:32:43,560 --> 00:32:45,560
+Uma coisa de chegar em casa e falar
+
+857
+00:32:45,560 --> 00:32:47,560
+eu vou chegar em casa cansada
+
+858
+00:32:47,560 --> 00:32:49,560
+como todas as outras pessoas
+
+859
+00:32:49,560 --> 00:32:51,560
+mas eu não vou assistir Big Brother, né?
+
+860
+00:32:51,560 --> 00:32:53,560
+Eu não vou assistir, aquele assistir
+
+861
+00:32:53,560 --> 00:32:55,560
+o Big Brother significa uma hora e meia
+
+862
+00:32:55,560 --> 00:32:57,560
+das suas dez horas do dia
+
+863
+00:32:57,560 --> 00:32:59,560
+que você está fazendo isso
+
+864
+00:32:59,560 --> 00:33:01,560
+enquanto uma parte
+
+865
+00:33:01,560 --> 00:33:03,560
+dos homens estão estudando a P.I., né?
+
+866
+00:33:03,560 --> 00:33:05,560
+Então, assim, eu acho que é a mulher
+
+867
+00:33:05,560 --> 00:33:07,560
+que ela quer se dar bem, hoje eu não vejo
+
+868
+00:33:07,560 --> 00:33:09,560
+nenhum impecilho para uma mulher
+
+869
+00:33:09,560 --> 00:33:11,560
+e eu não consigo ver uma pessoa
+
+870
+00:33:11,560 --> 00:33:13,560
+aqui no Brasil, em T.I. específicamente
+
+871
+00:33:13,560 --> 00:33:15,560
+acho que para as outras áreas
+
+872
+00:33:15,560 --> 00:33:17,560
+é totalmente diferente
+
+873
+00:33:17,560 --> 00:33:19,560
+chegar a presidente da empresa, né?
+
+874
+00:33:19,560 --> 00:33:21,560
+Ou chegar aos cargos top
+
+875
+00:33:21,560 --> 00:33:23,560
+também é uma outra realidade, né?
+
+876
+00:33:23,560 --> 00:33:25,560
+Nesse vídeo ela está falando de mudar
+
+877
+00:33:25,560 --> 00:33:27,560
+essa realidade que é bem mais difícil
+
+878
+00:33:27,560 --> 00:33:29,560
+de você fazer as mulheres
+
+879
+00:33:29,560 --> 00:33:31,560
+chegarem no mesmo nível de cargo top
+
+880
+00:33:31,560 --> 00:33:33,560
+que os homens chegam
+
+881
+00:33:33,560 --> 00:33:35,560
+isso já é um problema bem mais difícil
+
+882
+00:33:35,560 --> 00:33:37,560
+Mas você fala hoje que uma mulher
+
+883
+00:33:37,560 --> 00:33:39,560
+de pessoas capacitadas
+
+884
+00:33:39,560 --> 00:33:41,560
+que a gente tem hoje
+
+885
+00:33:41,560 --> 00:33:43,560
+eu não acredito que é verdade, né?
+
+886
+00:33:43,560 --> 00:33:45,560
+Uma mulher que saiba programar bem hoje
+
+887
+00:33:45,560 --> 00:33:47,560
+ela vai ter emprego aqui em Goiânia
+
+888
+00:33:47,560 --> 00:33:49,560
+em São Paulo, ou em praticamente
+
+889
+00:33:49,560 --> 00:33:51,560
+qualquer um dos lugares
+
+890
+00:33:51,560 --> 00:33:53,560
+então, acho que hoje, dentro do mundo
+
+891
+00:33:53,560 --> 00:33:55,560
+de T.I., a mulher que falar
+
+892
+00:33:55,560 --> 00:33:57,560
+eu quero, ela vai conseguir
+
+893
+00:33:57,560 --> 00:33:59,560
+né? Então, não sei,
+
+894
+00:33:59,560 --> 00:34:01,560
+eu vejo um pouco disso assim
+
+895
+00:34:01,560 --> 00:34:03,560
+que eu gostaria de mudar mais nas mulheres
+
+896
+00:34:03,560 --> 00:34:05,560
+do que na sociedade
+
+897
+00:34:05,560 --> 00:34:07,560
+mas eu me sinto capaz de mudar um pouco
+
+898
+00:34:07,560 --> 00:34:09,560
+a filosofia da mulher
+
+899
+00:34:09,560 --> 00:34:11,560
+e por isso eu estou encontrando os erros
+
+900
+00:34:11,560 --> 00:34:13,560
+na mulher e não na sociedade
+
+901
+00:34:13,560 --> 00:34:15,560
+eu vejo que a sua esposa vai mudar
+
+902
+00:34:15,560 --> 00:34:17,560
+a sociedade
+
+903
+00:34:17,560 --> 00:34:19,560
+É, uma coisa que ela fala que eu acho fantástico também
+
+904
+00:34:19,560 --> 00:34:21,560
+que eu não percebi
+
+905
+00:34:21,560 --> 00:34:23,560
+ela fala de um
+
+906
+00:34:23,560 --> 00:34:25,560
+preconceito velado que a gente não vê
+
+907
+00:34:25,560 --> 00:34:27,560
+que não é claro assim, às vezes eu falo
+
+908
+00:34:27,560 --> 00:34:29,560
+isso é inerente
+
+909
+00:34:29,560 --> 00:34:31,560
+a mulher, isso é biológico
+
+910
+00:34:31,560 --> 00:34:33,560
+já falei isso alguns anos atrás
+
+911
+00:34:33,560 --> 00:34:35,560
+e também umas patadas feias
+
+912
+00:34:35,560 --> 00:34:37,560
+o que eu estou vendo
+
+913
+00:34:37,560 --> 00:34:39,560
+que eu vejo dessa preocupação
+
+914
+00:34:39,560 --> 00:34:41,560
+porque tem muito mais homem, eu acho, na área de T.I.
+
+915
+00:34:41,560 --> 00:34:43,560
+do que mulher? Talvez por causa dos estímulos
+
+916
+00:34:43,560 --> 00:34:45,560
+que a gente recebe quando a gente está crescendo
+
+917
+00:34:45,560 --> 00:34:47,560
+então, para a mulher, talvez seja mais difícil
+
+918
+00:34:47,560 --> 00:34:49,560
+mas não porque ela não é capaz
+
+919
+00:34:49,560 --> 00:34:51,560
+mas porque ela cresceu com outro estímulo
+
+920
+00:34:51,560 --> 00:34:53,560
+que não o de brincar
+
+921
+00:34:53,560 --> 00:34:55,560
+com uma coisa mais lógica
+
+922
+00:34:55,560 --> 00:34:57,560
+assim, mais...
+
+923
+00:34:57,560 --> 00:34:59,560
+geralmente são estímulos mais emocionais
+
+924
+00:34:59,560 --> 00:35:01,560
+talvez do que lógicos, não sei, estou chutando
+
+925
+00:35:01,560 --> 00:35:03,560
+mas eu acredito que seja cultural
+
+926
+00:35:03,560 --> 00:35:05,560
+o que são os estímulos que a mulher recebe
+
+927
+00:35:05,560 --> 00:35:07,560
+e os estímulos que o homem recebe
+
+928
+00:35:07,560 --> 00:35:09,560
+que no final das contas facilita o dificulta
+
+929
+00:35:09,560 --> 00:35:11,560
+ela trabalhar com a área T.I.
+
+930
+00:35:11,560 --> 00:35:13,560
+você vê que no dia a dia, sei lá
+
+931
+00:35:13,560 --> 00:35:15,560
+onde a trabalho tem
+
+932
+00:35:15,560 --> 00:35:17,560
+sei lá, 20 homens
+
+933
+00:35:17,560 --> 00:35:19,560
+e uma mulher na área T.I.
+
+934
+00:35:19,560 --> 00:35:21,560
+meio absurdo isso
+
+935
+00:35:21,560 --> 00:35:23,560
+não, o estímulo que não estava falando
+
+936
+00:35:23,560 --> 00:35:25,560
+a mulher, quando ela é criança
+
+937
+00:35:25,560 --> 00:35:27,560
+ela recebe o que? Recebe boneca para brincar
+
+938
+00:35:27,560 --> 00:35:29,560
+recebe um quente de cozinha para brincar
+
+939
+00:35:29,560 --> 00:35:31,560
+e o homem vai lá jogar bola
+
+940
+00:35:31,560 --> 00:35:33,560
+quebra a cabeça
+
+941
+00:35:33,560 --> 00:35:35,560
+vai mexer com computador
+
+942
+00:35:35,560 --> 00:35:37,560
+jogar joguinho
+
+943
+00:35:37,560 --> 00:35:39,560
+mas comigo foi assim, eu tenho uma irmã
+
+944
+00:35:39,560 --> 00:35:41,560
+somos dois irmãos e uma irmã
+
+945
+00:35:41,560 --> 00:35:43,560
+minha irmã ela é super artista
+
+946
+00:35:43,560 --> 00:35:45,560
+mas também, eu vi que ela ganhava boneca
+
+947
+00:35:45,560 --> 00:35:47,560
+ela ganhava roupinha, hoje ela trabalha com modo
+
+948
+00:35:47,560 --> 00:35:49,560
+tudo a ver, sabe
+
+949
+00:35:49,560 --> 00:35:51,560
+eu com 5 anos de idade já brincava com um computador
+
+950
+00:35:51,560 --> 00:35:53,560
+T.K. 85
+
+951
+00:35:53,560 --> 00:35:55,560
+gostava de quebra a cabeça, dessas coisas assim
+
+952
+00:35:55,560 --> 00:35:57,560
+lego, era fascinado por lego
+
+953
+00:35:57,560 --> 00:35:59,560
+e hoje que eu faço, às vezes eu brinco
+
+954
+00:35:59,560 --> 00:36:01,560
+assim, então eu tenho que fazer
+
+955
+00:36:01,560 --> 00:36:03,560
+documentação, essas duas semanas lá do projeto
+
+956
+00:36:03,560 --> 00:36:05,560
+então assim, claro que saco, quando eu brincava com lego
+
+957
+00:36:05,560 --> 00:36:07,560
+eu não tinha que documentar nada do que eu fazia
+
+958
+00:36:07,560 --> 00:36:09,560
+então assim,
+
+959
+00:36:09,560 --> 00:36:11,560
+esse tipo de estímulos
+
+960
+00:36:11,560 --> 00:36:13,560
+que estou falando assim, com o que que a gente cresce
+
+961
+00:36:13,560 --> 00:36:15,560
+eu acho que isso tem que fazer a gente pensar
+
+962
+00:36:15,560 --> 00:36:17,560
+também que a gente vai dar para os nossos filhos
+
+963
+00:36:17,560 --> 00:36:19,560
+para eles brincarem, você vai ficar falando para sua filha
+
+964
+00:36:19,560 --> 00:36:21,560
+que ela tem que brincar de boneca
+
+965
+00:36:21,560 --> 00:36:23,560
+que ela tem que brincar de cozinha, que ela não pode
+
+966
+00:36:23,560 --> 00:36:25,560
+brincar com os meninos
+
+967
+00:36:25,560 --> 00:36:27,560
+e ela fala que nada criança, ela gostava de brincar
+
+968
+00:36:27,560 --> 00:36:29,560
+de carrinho com os meninos
+
+969
+00:36:29,560 --> 00:36:31,560
+eu falo assim, ela tá explicado, porque você tem
+
+970
+00:36:31,560 --> 00:36:33,560
+essa visão tão diferente, porque você não precisa
+
+971
+00:36:33,560 --> 00:36:35,560
+simplesmente engolir isso
+
+972
+00:36:35,560 --> 00:36:37,560
+mas é engraçado que você sabe, hoje eu tenho um menino e
+
+973
+00:36:37,560 --> 00:36:39,560
+uma menina, e os bichos são diferentes
+
+974
+00:36:39,560 --> 00:36:41,560
+assim, eu olho e falo, nossa, não é que
+
+975
+00:36:41,560 --> 00:36:43,560
+tem umas coisas mesmas que é de homem, mulher
+
+976
+00:36:49,560 --> 00:36:51,560
+assim, tem umas coisas, eu entendo
+
+977
+00:36:51,560 --> 00:36:53,560
+falando em ótimo estímulo, a gente acaba dando
+
+978
+00:36:53,560 --> 00:36:55,560
+sem nem perceber que a gente está dando
+
+979
+00:36:55,560 --> 00:36:57,560
+esse estímulo, mas por exemplo
+
+980
+00:36:57,560 --> 00:36:59,560
+a Maria, ela jamais tentou
+
+981
+00:36:59,560 --> 00:37:01,560
+enfiar uma coisa dentro da tomada
+
+982
+00:37:01,560 --> 00:37:03,560
+não tinha essa curiosidade
+
+983
+00:37:03,560 --> 00:37:05,560
+de pegar uma
+
+984
+00:37:05,560 --> 00:37:07,560
+coisa que colocar dentro da tomada
+
+985
+00:37:07,560 --> 00:37:09,560
+Rafael, ele pega
+
+986
+00:37:09,560 --> 00:37:11,560
+ele quer colocar uma coisa, ele quer encaixar
+
+987
+00:37:11,560 --> 00:37:13,560
+o cabo USB do computador na tomada
+
+988
+00:37:13,560 --> 00:37:15,560
+ele tem uma coisa que eu falo
+
+989
+00:37:15,560 --> 00:37:17,560
+gente, o que é que os dois são diferentes
+
+990
+00:37:17,560 --> 00:37:19,560
+existe uma curiosidade
+
+991
+00:37:19,560 --> 00:37:21,560
+uma coisa nesse sentido
+
+992
+00:37:21,560 --> 00:37:23,560
+que eu acho que reflete muito
+
+993
+00:37:23,560 --> 00:37:25,560
+na computação, que é essa questão do desafio
+
+994
+00:37:25,560 --> 00:37:27,560
+que eu falei antes, na hora
+
+995
+00:37:27,560 --> 00:37:29,560
+você tem um desafio, por exemplo, você não conseguiu configurar
+
+996
+00:37:29,560 --> 00:37:31,560
+o driver da impressora, eu não sinto
+
+997
+00:37:31,560 --> 00:37:33,560
+que é natural da mulher ficar ali
+
+998
+00:37:33,560 --> 00:37:35,560
+45 minutos brigando, e falar
+
+999
+00:37:35,560 --> 00:37:37,560
+eu vou configurar essa porcaria
+
+1000
+00:37:37,560 --> 00:37:39,560
+desse driver aqui da impressora
+
+1001
+00:37:39,560 --> 00:37:41,560
+eu particularmente, eventualmente
+
+1002
+00:37:41,560 --> 00:37:43,560
+eu não configuro a porcaria do impressora
+
+1003
+00:37:43,560 --> 00:37:45,560
+em primo e outro lugar, e pronto
+
+1004
+00:37:45,560 --> 00:37:47,560
+assim, essa sede
+
+1005
+00:37:47,560 --> 00:37:49,560
+de você conseguir resolver aquele desafio
+
+1006
+00:37:49,560 --> 00:37:51,560
+e bater a cabeça, eu acho que é um estímulo
+
+1007
+00:37:51,560 --> 00:37:53,560
+que eventualmente
+
+1008
+00:37:53,560 --> 00:37:55,560
+não está sendo dado a mulher
+
+1009
+00:37:55,560 --> 00:37:57,560
+ao longo da vida e tudo mais
+
+1010
+00:37:57,560 --> 00:37:59,560
+agora é engraçado
+
+1011
+00:37:59,560 --> 00:38:01,560
+que esse estímulo da computação
+
+1012
+00:38:01,560 --> 00:38:03,560
+ela tem um monte de áreas, mas ela sempre teve
+
+1013
+00:38:03,560 --> 00:38:05,560
+associada
+
+1014
+00:38:05,560 --> 00:38:07,560
+a um homem nerd
+
+1015
+00:38:07,560 --> 00:38:09,560
+a figura do nerd
+
+1016
+00:38:09,560 --> 00:38:11,560
+ela sempre foi
+
+1017
+00:38:11,560 --> 00:38:13,560
+uma figura não atraente
+
+1018
+00:38:13,560 --> 00:38:15,560
+uma mulher não fica atraída, você fala
+
+1019
+00:38:15,560 --> 00:38:17,560
+assim, eu também quero ser nerd
+
+1020
+00:38:17,560 --> 00:38:19,560
+agora que o ser nerd
+
+1021
+00:38:19,560 --> 00:38:21,560
+está ficando um pouco mais
+
+1022
+00:38:21,560 --> 00:38:23,560
+com um pouco mais divertido, mas
+
+1023
+00:38:23,560 --> 00:38:25,560
+o parâmetro de sucesso para a mulher
+
+1024
+00:38:25,560 --> 00:38:27,560
+é ser uma médica
+
+1025
+00:38:27,560 --> 00:38:29,560
+é ser uma advogada
+
+1026
+00:38:29,560 --> 00:38:31,560
+o mais audacioso
+
+1027
+00:38:31,560 --> 00:38:33,560
+é aquela mulher que dirige
+
+1028
+00:38:33,560 --> 00:38:35,560
+eu lembro quando eu era jovem, eu falava
+
+1029
+00:38:35,560 --> 00:38:37,560
+nossa, eu quero dirigir uma caminhonete
+
+1030
+00:38:37,560 --> 00:38:39,560
+quando foi mais velha
+
+1031
+00:38:39,560 --> 00:38:41,560
+e aquela coisa assim, meio
+
+1032
+00:38:41,560 --> 00:38:43,560
+então, eu acho que
+
+1033
+00:38:43,560 --> 00:38:45,560
+o estímulo ATI, ou entender
+
+1034
+00:38:45,560 --> 00:38:47,560
+as áreas de você pode trabalhar
+
+1035
+00:38:47,560 --> 00:38:49,560
+o que é o nerd
+
+1036
+00:38:49,560 --> 00:38:51,560
+e tudo isso
+
+1037
+00:38:51,560 --> 00:38:53,560
+eu não sei como ele é dado, eu não vejo
+
+1038
+00:38:53,560 --> 00:38:55,560
+hoje mesmo os jovens, a gente está fazendo
+
+1039
+00:38:55,560 --> 00:38:57,560
+alguns programas com as crianças
+
+1040
+00:38:57,560 --> 00:38:59,560
+de quinto, oitavo, até primeiro coletão
+
+1041
+00:38:59,560 --> 00:39:01,560
+eu não vejo as pessoas falando, eu quero fazer TI
+
+1042
+00:39:01,560 --> 00:39:03,560
+apesar de ter o iPhone
+
+1043
+00:39:03,560 --> 00:39:05,560
+apesar de ter o iPad, apesar de ter tudo isso
+
+1044
+00:39:05,560 --> 00:39:07,560
+uma série dessas tarefas, elas podem ser
+
+1045
+00:39:07,560 --> 00:39:09,560
+meio femininas
+
+1046
+00:39:09,560 --> 00:39:11,560
+eu não vejo esse estímulo
+
+1047
+00:39:11,560 --> 00:39:13,560
+não saberia dizer como estimular
+
+1048
+00:39:13,560 --> 00:39:15,560
+mais uma menina para TI
+
+1049
+00:39:15,560 --> 00:39:17,560
+a não ser
+
+1050
+00:39:17,560 --> 00:39:19,560
+vendo esses estímulos
+
+1051
+00:39:19,560 --> 00:39:21,560
+femininos, mas eu gostaria
+
+1052
+00:39:21,560 --> 00:39:23,560
+de ter essa discussão sobre como estimular
+
+1053
+00:39:23,560 --> 00:39:25,560
+as crianças e jovens, mulheres
+
+1054
+00:39:25,560 --> 00:39:27,560
+a prestar exatas
+
+1055
+00:39:27,560 --> 00:39:29,560
+eu vi uma coisa recente
+
+1056
+00:39:29,560 --> 00:39:31,560
+que fala que não só as mulheres, mas
+
+1057
+00:39:31,560 --> 00:39:33,560
+a burguesia, a classe média alta
+
+1058
+00:39:33,560 --> 00:39:35,560
+não quer mais fazer exatas
+
+1059
+00:39:35,560 --> 00:39:37,560
+a classe média alta quer fazer humanas
+
+1060
+00:39:37,560 --> 00:39:39,560
+a administração direito
+
+1061
+00:39:39,560 --> 00:39:41,560
+direito internacional
+
+1062
+00:39:41,560 --> 00:39:43,560
+você vê a classe média alta
+
+1063
+00:39:43,560 --> 00:39:45,560
+falando que eu não quero ser engenheiro
+
+1064
+00:39:45,560 --> 00:39:47,560
+achei engraçado que foi aqui a questão dos nerds
+
+1065
+00:39:47,560 --> 00:39:49,560
+mas aquela wire de magazine
+
+1066
+00:39:49,560 --> 00:39:51,560
+às vezes possam as top 10
+
+1067
+00:39:51,560 --> 00:39:53,560
+geek girls
+
+1068
+00:39:53,560 --> 00:39:55,560
+estão valorizando um pouco mais
+
+1069
+00:39:55,560 --> 00:39:57,560
+as mulheres
+
+1070
+00:39:57,560 --> 00:39:59,560
+na moda hoje, eu falei
+
+1071
+00:39:59,560 --> 00:40:01,560
+praticamente outro dia eu inseria um oferto
+
+1072
+00:40:01,560 --> 00:40:03,560
+uma empresa grande, uma empresa bacana
+
+1073
+00:40:03,560 --> 00:40:05,560
+que queriam contratar e
+
+1074
+00:40:05,560 --> 00:40:07,560
+80% é porque
+
+1075
+00:40:07,560 --> 00:40:09,560
+é bacana hoje você ter uma mulher
+
+1076
+00:40:09,560 --> 00:40:11,560
+evangelista
+
+1077
+00:40:11,560 --> 00:40:13,560
+tem uma pessoa
+
+1078
+00:40:13,560 --> 00:40:15,560
+da hora, quando ela caiu
+
+1079
+00:40:15,560 --> 00:40:17,560
+já veio aqui pra Goiânia, que é um exemplo
+
+1080
+00:40:17,560 --> 00:40:19,560
+você fala, pô, vem a mulher pra cá
+
+1081
+00:40:19,560 --> 00:40:21,560
+ela começa a falar tecnicamente no tal
+
+1082
+00:40:21,560 --> 00:40:23,560
+que chama atenção, da Igóquia
+
+1083
+00:40:23,560 --> 00:40:25,560
+e as mulheres, e ela não é uma mulher
+
+1084
+00:40:25,560 --> 00:40:27,560
+você olha e fala, nossa, espetáculo de mulher
+
+1085
+00:40:27,560 --> 00:40:29,560
+ela é bonita, ela é tudo
+
+1086
+00:40:29,560 --> 00:40:31,560
+mas é interessante
+
+1087
+00:40:31,560 --> 00:40:33,560
+hoje tem esse lixo, mas tem esse lixo
+
+1088
+00:40:33,560 --> 00:40:35,560
+a mulher, ela pode aproveitar isso
+
+1089
+00:40:35,560 --> 00:40:37,560
+a verussa e minha esposa
+
+1090
+00:40:37,560 --> 00:40:39,560
+a sem dúvida
+
+1091
+00:40:39,560 --> 00:40:41,560
+minha esposa, quando eu falei pra ela
+
+1092
+00:40:41,560 --> 00:40:43,560
+que você já era o evangelista, comentando
+
+1093
+00:40:43,560 --> 00:40:45,560
+uma coisa, ela não é, mas ela trabalha com o Javo
+
+1094
+00:40:45,560 --> 00:40:47,560
+e eu falei, é, o Javo é bom de usar o alto
+
+1095
+00:40:47,560 --> 00:40:49,560
+legal, assim, as pessoas são espantadas
+
+1096
+00:40:49,560 --> 00:40:51,560
+agora eu respondendo que você falou
+
+1097
+00:40:51,560 --> 00:40:53,560
+sobre como estimular a mulher
+
+1098
+00:40:53,560 --> 00:40:55,560
+na área de ter
+
+1099
+00:40:55,560 --> 00:40:57,560
+eu não sei se a pergunta seria
+
+1100
+00:40:57,560 --> 00:40:59,560
+necessariamente como estimular
+
+1101
+00:40:59,560 --> 00:41:01,560
+direcionada a uma área
+
+1102
+00:41:01,560 --> 00:41:03,560
+mas talvez como não estimular
+
+1103
+00:41:03,560 --> 00:41:05,560
+já carregando
+
+1104
+00:41:05,560 --> 00:41:07,560
+uma questão cultural
+
+1105
+00:41:07,560 --> 00:41:09,560
+que não é natural da mulher
+
+1106
+00:41:09,560 --> 00:41:11,560
+é uma questão cultural
+
+1107
+00:41:11,560 --> 00:41:13,560
+é não empurrar pra mulher
+
+1108
+00:41:13,560 --> 00:41:15,560
+umas coisas que a sociedade nos fala
+
+1109
+00:41:15,560 --> 00:41:17,560
+que como a mulher tem que ser
+
+1110
+00:41:17,560 --> 00:41:19,560
+mas sim a gente, antes de estimular
+
+1111
+00:41:19,560 --> 00:41:21,560
+qualquer coisa a pensar
+
+1112
+00:41:21,560 --> 00:41:23,560
+será que ela gosta mesmo disso
+
+1113
+00:41:23,560 --> 00:41:25,560
+ou será que eu estou empurrando isso pra ela
+
+1114
+00:41:25,560 --> 00:41:27,560
+não tem que deixar a porta aberta, de certa forma
+
+1115
+00:41:27,560 --> 00:41:29,560
+estimular com todos os estímulos
+
+1116
+00:41:29,560 --> 00:41:31,560
+comprar um conjunto de brinquedos
+
+1117
+00:41:31,560 --> 00:41:33,560
+e dar para os dois filhos brincarem
+
+1118
+00:41:33,560 --> 00:41:35,560
+e ela não vai escolher o que quiser
+
+1119
+00:41:35,560 --> 00:41:37,560
+eu acho que a chance da Maria
+
+1120
+00:41:37,560 --> 00:41:39,560
+querendo enfiar as coisas na tomada
+
+1121
+00:41:39,560 --> 00:41:41,560
+em vez do Rafael
+
+1122
+00:41:41,560 --> 00:41:43,560
+é 50 a 50%
+
+1123
+00:41:43,560 --> 00:41:45,560
+de chance, sabe
+
+1124
+00:41:45,560 --> 00:41:47,560
+é só uma questão de personalidade
+
+1125
+00:41:47,560 --> 00:41:49,560
+então acho que quanto menos a gente
+
+1126
+00:41:49,560 --> 00:41:51,560
+moldar essa personalidade
+
+1127
+00:41:51,560 --> 00:41:53,560
+dentro dessa cultura
+
+1128
+00:41:53,560 --> 00:41:55,560
+pra estabelecer mais maior a chance
+
+1129
+00:41:55,560 --> 00:41:57,560
+da mulher escolher uma outra área
+
+1130
+00:41:57,560 --> 00:41:59,560
+eu estou trabalhando com Arduino agora
+
+1131
+00:41:59,560 --> 00:42:01,560
+quando Jesus uma menina me procurou
+
+1132
+00:42:01,560 --> 00:42:03,560
+e ela falou
+
+1133
+00:42:03,560 --> 00:42:05,560
+sábado a noite estou a fim de ficar
+
+1134
+00:42:05,560 --> 00:42:07,560
+mexendo com a Arduino, as minhas amigas não entendem
+
+1135
+00:42:07,560 --> 00:42:09,560
+eu quero ficar aqui nerrando, acho massa
+
+1136
+00:42:09,560 --> 00:42:11,560
+eu falei
+
+1137
+00:42:11,560 --> 00:42:13,560
+bizarro né, é diferente
+
+1138
+00:42:13,560 --> 00:42:15,560
+é muito raro, recebo 20 mil de homem
+
+1139
+00:42:15,560 --> 00:42:17,560
+e um de mulher
+
+1140
+00:42:17,560 --> 00:42:19,560
+certamente chega uma mulher
+
+1141
+00:42:19,560 --> 00:42:21,560
+pra dar uma aula de robótica
+
+1142
+00:42:21,560 --> 00:42:23,560
+vai lotar a sala na hora
+
+1143
+00:42:23,560 --> 00:42:25,560
+esse cara fala assim, ova!
+
+1144
+00:42:25,560 --> 00:42:27,560
+eu já vi algumas matérias falando que
+
+1145
+00:42:27,560 --> 00:42:29,560
+de fato homens e mulheres têm
+
+1146
+00:42:29,560 --> 00:42:31,560
+aquelas criações pra coisas diferentes
+
+1147
+00:42:31,560 --> 00:42:33,560
+por exemplo, o homem tem
+
+1148
+00:42:33,560 --> 00:42:35,560
+uma noção espacial melhor do que a mulher
+
+1149
+00:42:35,560 --> 00:42:37,560
+tem um histórico que prova isso
+
+1150
+00:42:37,560 --> 00:42:39,560
+por exemplo, o homem na antiguidade
+
+1151
+00:42:39,560 --> 00:42:41,560
+ele saia pra caçar
+
+1152
+00:42:41,560 --> 00:42:43,560
+e voltava pra casa enquanto a mulher
+
+1153
+00:42:43,560 --> 00:42:45,560
+ficava tomando conta da caverna
+
+1154
+00:42:45,560 --> 00:42:47,560
+e então o homem
+
+1155
+00:42:47,560 --> 00:42:49,560
+ele desenvolveu
+
+1156
+00:42:49,560 --> 00:42:51,560
+essa habilidade espacial melhor
+
+1157
+00:42:51,560 --> 00:42:53,560
+mas isso é só uma
+
+1158
+00:42:53,560 --> 00:42:55,560
+facilidade né, então a gente não pode usar
+
+1159
+00:42:55,560 --> 00:42:57,560
+isso, agora por causa disso
+
+1160
+00:42:57,560 --> 00:42:59,560
+mulher não pode ser motorista
+
+1161
+00:42:59,560 --> 00:43:01,560
+o ser humano
+
+1162
+00:43:01,560 --> 00:43:03,560
+tem essa capacidade de ir embora
+
+1163
+00:43:03,560 --> 00:43:05,560
+não ter uma facilidade pra uma coisa
+
+1164
+00:43:05,560 --> 00:43:07,560
+ele conseguir trabalhar isso
+
+1165
+00:43:07,560 --> 00:43:09,560
+e isso ser uma habilidade
+
+1166
+00:43:09,560 --> 00:43:11,560
+equiparada a de outra pessoa
+
+1167
+00:43:11,560 --> 00:43:13,560
+que teve a facilidade inicial
+
+1168
+00:43:13,560 --> 00:43:15,560
+de começar alguma coisa
+
+1169
+00:43:15,560 --> 00:43:17,560
+interessante também
+
+1170
+00:43:17,560 --> 00:43:19,560
+sobre a outra matéria que eu vi sobre crianças
+
+1171
+00:43:19,560 --> 00:43:21,560
+eu também tenho um menino
+
+1172
+00:43:21,560 --> 00:43:23,560
+falando 3 anos
+
+1173
+00:43:23,560 --> 00:43:25,560
+e assim, eles falam que
+
+1174
+00:43:25,560 --> 00:43:27,560
+nesse período de 2 a 4 anos
+
+1175
+00:43:27,560 --> 00:43:29,560
+o meio que ela vive
+
+1176
+00:43:29,560 --> 00:43:31,560
+influencia bastante no que ela vai crescer
+
+1177
+00:43:31,560 --> 00:43:33,560
+quando adulta, então por exemplo
+
+1178
+00:43:33,560 --> 00:43:35,560
+se dos 2 a 4 anos ela tem uma
+
+1179
+00:43:35,560 --> 00:43:37,560
+mora numa casa
+
+1180
+00:43:37,560 --> 00:43:39,560
+que tem bastante gente que toca música
+
+1181
+00:43:39,560 --> 00:43:41,560
+se quando ela adulta
+
+1182
+00:43:41,560 --> 00:43:43,560
+se ela tiver uma oportunidade de ser
+
+1183
+00:43:43,560 --> 00:43:45,560
+de ser músico, ela vai ser, entendeu
+
+1184
+00:43:45,560 --> 00:43:47,560
+não que significa que ela
+
+1185
+00:43:47,560 --> 00:43:49,560
+vai ser músico, mas ela tem
+
+1186
+00:43:49,560 --> 00:43:51,560
+uma predisposição a ser música
+
+1187
+00:43:51,560 --> 00:43:53,560
+quando estiver na idade adulta
+
+1188
+00:43:53,560 --> 00:43:55,560
+isso vale pra mulher também
+
+1189
+00:43:55,560 --> 00:43:57,560
+eu já vi motoristas de ônibus, mulheres
+
+1190
+00:43:57,560 --> 00:43:59,560
+e assim, tudo que eu observe
+
+1191
+00:43:59,560 --> 00:44:01,560
+é a mesma coisa, não faz diferença
+
+1192
+00:44:01,560 --> 00:44:03,560
+embora tenha facilidade inicial
+
+1193
+00:44:03,560 --> 00:44:05,560
+isso não significa que possa ser trabalhada
+
+1194
+00:44:05,560 --> 00:44:07,560
+se a pessoa não tem facilidade
+
+1195
+00:44:07,560 --> 00:44:09,560
+com matemática
+
+1196
+00:44:09,560 --> 00:44:11,560
+não significa que ela tem que nunca
+
+1197
+00:44:11,560 --> 00:44:13,560
+aprender matemática a vida inteira
+
+1198
+00:44:13,560 --> 00:44:15,560
+só aproveitando essa parte que o pessoal
+
+1199
+00:44:15,560 --> 00:44:17,560
+tá falando aí, dessa questão de
+
+1200
+00:44:17,560 --> 00:44:19,560
+ah, mulher tem mais afinidade pra isso
+
+1201
+00:44:19,560 --> 00:44:21,560
+homem tem mais afinidade pra aquilo
+
+1202
+00:44:21,560 --> 00:44:23,560
+isso não pode ficar como sendo
+
+1203
+00:44:23,560 --> 00:44:25,560
+uma desculpa pra mulher não querer entrar
+
+1204
+00:44:25,560 --> 00:44:27,560
+na tecnologia, uma desculpa pra ela
+
+1205
+00:44:27,560 --> 00:44:29,560
+não vou me dar bem na tecnologia porque
+
+1206
+00:44:29,560 --> 00:44:31,560
+eu não gosto disso
+
+1207
+00:44:31,560 --> 00:44:33,560
+eu não gosto de configurar um drive
+
+1208
+00:44:33,560 --> 00:44:35,560
+do impressora, tudo bem, mas isso não te impede
+
+1209
+00:44:35,560 --> 00:44:37,560
+de fazer outras coisas e de ser bem sucedido
+
+1210
+00:44:37,560 --> 00:44:39,560
+como a Iaraé, porque ela não gosta
+
+1211
+00:44:39,560 --> 00:44:41,560
+de configurar uma impressora
+
+1212
+00:44:41,560 --> 00:44:43,560
+que acabou o mundo dela
+
+1213
+00:44:43,560 --> 00:44:45,560
+então que a gente não pode usar isso como
+
+1214
+00:44:45,560 --> 00:44:47,560
+deixar isso atrapalhar
+
+1215
+00:44:47,560 --> 00:44:49,560
+a participação e o envolvimento das mulheres
+
+1216
+00:44:49,560 --> 00:44:51,560
+eu não posso usar como desculpa
+
+1217
+00:44:51,560 --> 00:44:53,560
+é mulher
+
+1218
+00:44:53,560 --> 00:44:55,560
+é homem
+
+1219
+00:45:01,560 --> 00:45:03,560
+tá, homem tem facilidade
+
+1220
+00:45:03,560 --> 00:45:05,560
+com localização, consciência de direção
+
+1221
+00:45:05,560 --> 00:45:07,560
+mulher tem a facilidade de cuidar da casa
+
+1222
+00:45:07,560 --> 00:45:09,560
+não, isso não é pra disposição pra nada
+
+1223
+00:45:09,560 --> 00:45:11,560
+é dedicar, quando você tem talento
+
+1224
+00:45:11,560 --> 00:45:13,560
+pra alguma coisa, se você se dedica
+
+1225
+00:45:13,560 --> 00:45:15,560
+você consegue o que você quer
+
+1226
+00:45:15,560 --> 00:45:17,560
+eu não nasci pensando
+
+1227
+00:45:17,560 --> 00:45:19,560
+no computador, eu não cresci com o computador
+
+1228
+00:45:19,560 --> 00:45:21,560
+mas quando eu
+
+1229
+00:45:21,560 --> 00:45:23,560
+descobri que era computador, eu falei legal isso aqui
+
+1230
+00:45:23,560 --> 00:45:25,560
+quero descobrir como é que mexe
+
+1231
+00:45:25,560 --> 00:45:27,560
+quero saber como funciona e eu quero trabalhar com isso
+
+1232
+00:45:27,560 --> 00:45:29,560
+aí se você se dedica
+
+1233
+00:45:29,560 --> 00:45:31,560
+eu saí da faculdade de administração
+
+1234
+00:45:31,560 --> 00:45:33,560
+crua, crua, crua, fui direto
+
+1235
+00:45:33,560 --> 00:45:35,560
+pra um curso de segurança da informação
+
+1236
+00:45:35,560 --> 00:45:37,560
+sabia nada, eu falei eu vou aprender
+
+1237
+00:45:37,560 --> 00:45:39,560
+enquanto o povo estava dormindo
+
+1238
+00:45:39,560 --> 00:45:41,560
+eu estava estudando e eu consegui
+
+1239
+00:45:41,560 --> 00:45:43,560
+conseguir me informar, então é dedicação
+
+1240
+00:45:43,560 --> 00:45:45,560
+sem dedicação a gente não chega no lugar e não tem que estudar
+
+1241
+00:45:45,560 --> 00:45:47,560
+tem que batalhar
+
+1242
+00:45:47,560 --> 00:45:49,560
+do esforço é o principal fator pra você poder
+
+1243
+00:45:49,560 --> 00:45:51,560
+conquistar alguma coisa
+
+1244
+00:45:51,560 --> 00:45:53,560
+você não fica naquela assim, ah, eu
+
+1245
+00:45:53,560 --> 00:45:55,560
+acho que eu não gosto
+
+1246
+00:45:55,560 --> 00:45:57,560
+de tudo isso aqui, eu vou
+
+1247
+00:45:57,560 --> 00:45:59,560
+relaxar a chave da cheste de lá, não
+
+1248
+00:45:59,560 --> 00:46:01,560
+se você gosta daquela área, por exemplo, da área de T.I.
+
+1249
+00:46:01,560 --> 00:46:03,560
+ou da área mesmo
+
+1250
+00:46:03,560 --> 00:46:05,560
+se você quer se destacar nela, você tem que se esforçar
+
+1251
+00:46:05,560 --> 00:46:07,560
+pra você ser reconhecido nela
+
+1252
+00:46:07,560 --> 00:46:09,560
+porque tem muita gente, ah, o ralo, ralo, ralo
+
+1253
+00:46:09,560 --> 00:46:11,560
+nunca cresce, mas o que é o ralo a dele
+
+1254
+00:46:11,560 --> 00:46:13,560
+faz a mesma coisa todo dia
+
+1255
+00:46:13,560 --> 00:46:15,560
+se você tenta funder coisas novas, ou não
+
+1256
+00:46:15,560 --> 00:46:17,560
+se esforça pra evoluir
+
+1257
+00:46:17,560 --> 00:46:19,560
+daqueles taxos que ele está atualmente
+
+1258
+00:46:19,560 --> 00:46:21,560
+e tanto o homem quanto a mulher
+
+1259
+00:46:21,560 --> 00:46:23,560
+do mesmo jeito que você observa que tem mulheres
+
+1260
+00:46:23,560 --> 00:46:25,560
+que evoluem, são aquelas mulheres extremamente esforçadas
+
+1261
+00:46:25,560 --> 00:46:27,560
+elas tiveram muita dificuldade
+
+1262
+00:46:27,560 --> 00:46:29,560
+pra
+
+1263
+00:46:29,560 --> 00:46:31,560
+conquistar os seus objetivos, mas o
+
+1264
+00:46:31,560 --> 00:46:33,560
+que fez elas crescer mesmo foi a
+
+1265
+00:46:33,560 --> 00:46:35,560
+persistência, é a famosa história
+
+1266
+00:46:35,560 --> 00:46:37,560
+se você é persistente, você consegue chegar ao nível
+
+1267
+00:46:37,560 --> 00:46:39,560
+que você muitas vezes se surpreende
+
+1268
+00:46:39,560 --> 00:46:41,560
+ao que você imaginava
+
+1269
+00:46:41,560 --> 00:46:43,560
+você não fica só naquele nível de
+
+1270
+00:46:43,560 --> 00:46:45,560
+de acomodação
+
+1271
+00:46:45,560 --> 00:46:47,560
+você não fica só acomodado, você sempre quer
+
+1272
+00:46:47,560 --> 00:46:49,560
+estar crescendo, isso não importa o gênero
+
+1273
+00:46:49,560 --> 00:46:51,560
+da pessoa, isso tem que valer de cada um
+
+1274
+00:46:51,560 --> 00:46:53,560
+pensar assim, ah, vou rasgar
+
+1275
+00:46:53,560 --> 00:46:55,560
+a cara, mas eu vou resolver
+
+1276
+00:46:55,560 --> 00:46:57,560
+esse trem, vou virar a noite, eu vou
+
+1277
+00:46:57,560 --> 00:46:59,560
+mais se achar outra solução
+
+1278
+00:46:59,560 --> 00:47:01,560
+é bom, mas se não achar
+
+1279
+00:47:01,560 --> 00:47:03,560
+tem um amigo que ele fala, uma vez foi com ele
+
+1280
+00:47:03,560 --> 00:47:05,560
+então eu estou assim, o que é que é talento?
+
+1281
+00:47:05,560 --> 00:47:07,560
+eu não sei, eu perguntei se ele acreditava
+
+1282
+00:47:07,560 --> 00:47:09,560
+em talento, alguma coisa assim a conversa
+
+1283
+00:47:09,560 --> 00:47:11,560
+eu não acredito em prática, você pode ter
+
+1284
+00:47:11,560 --> 00:47:13,560
+uma predisposição a algo, talento não
+
+1285
+00:47:13,560 --> 00:47:15,560
+deixa de ser a predisposição, mas ainda assim
+
+1286
+00:47:15,560 --> 00:47:17,560
+você tem que praticar, eu acho que a mesma coisa
+
+1287
+00:47:17,560 --> 00:47:19,560
+se talvez hoje, no Brasil
+
+1288
+00:47:19,560 --> 00:47:21,560
+a mulher ainda não tem essa predisposição
+
+1289
+00:47:21,560 --> 00:47:23,560
+talvez uma falta de estímulo
+
+1290
+00:47:23,560 --> 00:47:25,560
+aí ela vai ter que se forçar ainda mais, ter que
+
+1291
+00:47:25,560 --> 00:47:27,560
+praticar ainda mais do que aquela pessoa que
+
+1292
+00:47:27,560 --> 00:47:29,560
+tem aquele talento. Lucas, eu acho que
+
+1293
+00:47:29,560 --> 00:47:31,560
+isso que você falou dessa questão de estímulo
+
+1294
+00:47:31,560 --> 00:47:33,560
+tem muito sentido, só que assim
+
+1295
+00:47:33,560 --> 00:47:35,560
+eu acho que se a gente for pensar numa questão
+
+1296
+00:47:35,560 --> 00:47:37,560
+mais sociológica, eu acho que a mulher
+
+1297
+00:47:37,560 --> 00:47:39,560
+já entrou no mercado de trabalho e até
+
+1298
+00:47:39,560 --> 00:47:41,560
+nesse área de TI, que é uma área
+
+1299
+00:47:41,560 --> 00:47:43,560
+desatas que dizem que a mulher
+
+1300
+00:47:43,560 --> 00:47:45,560
+não tem tanta facilidade assim, muito rápido
+
+1301
+00:47:45,560 --> 00:47:47,560
+porque se você for pensar, nós temos
+
+1302
+00:47:47,560 --> 00:47:49,560
+uma influência muito grande sobre
+
+1303
+00:47:49,560 --> 00:47:51,560
+nossos avós, que hoje ainda estão vivos
+
+1304
+00:47:51,560 --> 00:47:53,560
+e que são pessoas super conservadoras
+
+1305
+00:47:53,560 --> 00:47:55,560
+e assim, há 60 anos atrás
+
+1306
+00:47:55,560 --> 00:47:57,560
+já não era comum uma mulher entrar
+
+1307
+00:47:57,560 --> 00:47:59,560
+no faculdade e tal, agora olha só
+
+1308
+00:47:59,560 --> 00:48:01,560
+o tanto que foi rápido de 60 anos
+
+1309
+00:48:01,560 --> 00:48:03,560
+a mulher já conseguiu, se inserir no
+
+1310
+00:48:03,560 --> 00:48:05,560
+mercado de trabalho, já entrou na faculdade
+
+1311
+00:48:05,560 --> 00:48:07,560
+e que é uma área assim, que
+
+1312
+00:48:07,560 --> 00:48:09,560
+nossos avós e muitos dos nossos pais
+
+1313
+00:48:09,560 --> 00:48:11,560
+pensam que é uma área só pra homem
+
+1314
+00:48:11,560 --> 00:48:13,560
+então hoje eu observo que
+
+1315
+00:48:13,560 --> 00:48:15,560
+meus primos e irmãos mais novos
+
+1316
+00:48:15,560 --> 00:48:17,560
+que eu tenho na escola, eles
+
+1317
+00:48:17,560 --> 00:48:19,560
+a própria escola já tá
+
+1318
+00:48:19,560 --> 00:48:21,560
+voltando assim, o ensino
+
+1319
+00:48:21,560 --> 00:48:23,560
+já não tá tendo mais tanta divisão
+
+1320
+00:48:23,560 --> 00:48:25,560
+assim de homem e mulher, já aprende a jogar
+
+1321
+00:48:25,560 --> 00:48:27,560
+xadrez, tudo isso assim, pensando no
+
+1322
+00:48:27,560 --> 00:48:29,560
+desenvolvimento mesmo, na
+
+1323
+00:48:29,560 --> 00:48:31,560
+a futura profissão que eles vão ter
+
+1324
+00:48:31,560 --> 00:48:33,560
+então, eu acho que na
+
+1325
+00:48:33,560 --> 00:48:35,560
+geração dos nossos filhos
+
+1326
+00:48:35,560 --> 00:48:37,560
+e dos nossos netos, mas ainda
+
+1327
+00:48:37,560 --> 00:48:39,560
+já não vai ter mais essa divisão
+
+1328
+00:48:39,560 --> 00:48:41,560
+porque eu particularmente
+
+1329
+00:48:41,560 --> 00:48:43,560
+achei rápido demais essa evolução
+
+1330
+00:48:43,560 --> 00:48:45,560
+e a inserção da mulher, principalmente
+
+1331
+00:48:45,560 --> 00:48:47,560
+nessa área de exatas, assim
+
+1332
+00:48:47,560 --> 00:48:49,560
+que é uma coisa que todo mundo tem
+
+1333
+00:48:49,560 --> 00:48:51,560
+um preconceito, as pessoas mais
+
+1334
+00:48:51,560 --> 00:48:53,560
+velhas, um preconceito de ser coisa de homem
+
+1335
+00:48:53,560 --> 00:48:55,560
+e que na verdade
+
+1336
+00:48:55,560 --> 00:48:57,560
+não tem valor em cima
+
+1337
+00:49:03,560 --> 00:49:05,560
+e aí
+
+1338
+00:49:11,560 --> 00:49:13,560
+só, eu quero mandar um abraço
+
+1339
+00:49:13,560 --> 00:49:15,560
+para o pessoal que tá acompanhando a gente pela internet
+
+1340
+00:49:15,560 --> 00:49:17,560
+tem aqui o Gustavo
+
+1341
+00:49:17,560 --> 00:49:19,560
+que é de Goiânia, o Jonathan
+
+1342
+00:49:19,560 --> 00:49:21,560
+também tá acompanhando, mandando um abraço
+
+1343
+00:49:21,560 --> 00:49:23,560
+e pedir para perguntar se
+
+1344
+00:49:23,560 --> 00:49:25,560
+alguém aqui conhece a distribuição do piquilinux
+
+1345
+00:49:25,560 --> 00:49:27,560
+aqui em Goiás
+
+1346
+00:49:27,560 --> 00:49:29,560
+querendo promover
+
+1347
+00:49:29,560 --> 00:49:31,560
+remais
+
+1348
+00:49:31,560 --> 00:49:33,560
+tem aqui o Leandro Roberto
+
+1349
+00:49:33,560 --> 00:49:35,560
+tá fazendo a pergunta
+
+1350
+00:49:35,560 --> 00:49:37,560
+na opinião de vocês, qual
+
+1351
+00:49:37,560 --> 00:49:39,560
+área de TI tem mais mulheres
+
+1352
+00:49:39,560 --> 00:49:41,560
+e qual tem menos?
+
+1353
+00:49:51,560 --> 00:49:53,560
+certo
+
+1354
+00:49:55,560 --> 00:49:57,560
+são raras
+
+1355
+00:49:59,560 --> 00:50:01,560
+não sei
+
+1356
+00:50:03,560 --> 00:50:05,560
+vou mandar um abraço também para
+
+1357
+00:50:05,560 --> 00:50:07,560
+Tainara, Tainara tá acompanhando a gente
+
+1358
+00:50:07,560 --> 00:50:09,560
+ao vivo também
+
+1359
+00:50:09,560 --> 00:50:11,560
+o Leandro Roberto
+
+1360
+00:50:11,560 --> 00:50:13,560
+mandou um abraço pra gente, adorou
+
+1361
+00:50:13,560 --> 00:50:15,560
+a ideia de garotas geeks
+
+1362
+00:50:15,560 --> 00:50:17,560
+aqui
+
+1363
+00:50:17,560 --> 00:50:19,560
+o Gustavo tá pedindo pra divulgar
+
+1364
+00:50:19,560 --> 00:50:21,560
+também o projeto BROffice
+
+1365
+00:50:21,560 --> 00:50:23,560
+no caso
+
+1366
+00:50:25,560 --> 00:50:27,560
+o Hugo se abra
+
+1367
+00:50:27,560 --> 00:50:29,560
+tá acompanhando a gente, amigo da gente do grupo
+
+1368
+00:50:31,560 --> 00:50:33,560
+tem um monte de gente aqui também
+
+1369
+00:50:33,560 --> 00:50:35,560
+conseguindo ver todo mundo, mas abraço a todo mundo
+
+1370
+00:50:35,560 --> 00:50:37,560
+tá acompanhando a gente
+
+1371
+00:50:57,560 --> 00:50:59,560
+só um teste
+
+1372
+00:50:59,560 --> 00:51:01,560
+um, dois, três
+
+1373
+00:51:01,560 --> 00:51:03,560
+testando
+
+1374
+00:51:03,560 --> 00:51:05,560
+você pode falar isso
+
+1375
+00:51:05,560 --> 00:51:07,560
+merece todo nosso respeito
+
+1376
+00:51:07,560 --> 00:51:09,560
+tecnológico
+
+1377
+00:51:09,560 --> 00:51:11,560
+então é isso pessoal
+
+1378
+00:51:11,560 --> 00:51:13,560
+que nós temos para falar
+
+1379
+00:51:13,560 --> 00:51:15,560
+eu já felizmente
+
+1380
+00:51:15,560 --> 00:51:17,560
+tem que falar
+
+1381
+00:51:17,560 --> 00:51:19,560
+a inteira
+
+1382
+00:51:21,560 --> 00:51:23,560
+então vou felizmente
+
+1383
+00:51:23,560 --> 00:51:25,560
+depois quero que eu felizmente
+
+1384
+00:51:25,560 --> 00:51:27,560
+então
+
+1385
+00:51:27,560 --> 00:51:29,560
+eu vim gravar os opcados do felizmente
+
+1386
+00:51:29,560 --> 00:51:31,560
+depois quero que eu felizmente
+
+1387
+00:51:37,560 --> 00:51:39,560
+na Campos Parry
+
+1388
+00:51:39,560 --> 00:51:41,560
+rolou
+
+1389
+00:51:41,560 --> 00:51:43,560
+enfim
+
+1390
+00:51:43,560 --> 00:51:45,560
+todas essas coisas
+
+1391
+00:51:45,560 --> 00:51:47,560
+todas essas coisas
+
+1392
+00:51:47,560 --> 00:51:49,560
+e muito mais
+
+1393
+00:51:49,560 --> 00:51:51,560
+e ai tem esses problemas
+
+1394
+00:51:51,560 --> 00:51:53,560
+então agora
+
+1395
+00:51:53,560 --> 00:51:55,560
+é, lembra aí
+
+1396
+00:51:55,560 --> 00:51:57,560
+então corta esses 10 minutos
+
+1397
+00:51:57,560 --> 00:51:59,560
+corta
+
+1398
+00:51:59,560 --> 00:52:01,560
+é
+
+1399
+00:52:01,560 --> 00:52:03,560
+em compensação
+
+1400
+00:52:05,560 --> 00:52:07,560
+é zero cheio dos vocais
+
+1401
+00:52:07,560 --> 00:52:09,560
+em compensação
+

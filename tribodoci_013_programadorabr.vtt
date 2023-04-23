@@ -1,0 +1,2333 @@
+WEBVTT
+
+00:00.000 --> 00:06.400
+Mulheres na Tecnologia, você está ouvindo Tribu do CEI Podcast.
+
+00:06.400 --> 00:09.440
+Aqui é Cley Van Koff e eu já estou terminando.
+
+00:09.440 --> 00:12.960
+Aqui é Sebastião Helso e meu lema é compilou, comitou.
+
+00:12.960 --> 00:17.040
+Oi, sou a programadora BR para falar um pouco da minha vida, ó.
+
+00:17.040 --> 00:20.160
+Antes que alguém pergunte, eu não faço o sistema.
+
+00:24.160 --> 00:26.960
+Episódio 13, a programadora BR.
+
+00:30.000 --> 00:43.120
+Para esclarecer para o pessoal que está ouvindo, o perfil é um fake de você mesmo?
+
+00:43.120 --> 00:44.720
+Como é que esse negócio aí fala pra real?
+
+00:44.720 --> 00:50.720
+Então, na verdade, o perfil do Twitter eu falo coisas da minha vida, do meu dia a dia,
+
+00:50.720 --> 00:55.520
+acontecimentos lá na empresa que eu trabalho e também de alguns filas que eu faço.
+
+00:55.520 --> 00:59.920
+Só que no meu perfil, com o meu nome verdadeiro, estava me causando alguns transtornos,
+
+00:59.920 --> 01:02.560
+por eu trabalhar em uma empresa grande com bastante funcionário,
+
+01:02.560 --> 01:07.440
+às vezes eu queria desabafar com alguma situação e o povo que me acompanhava,
+
+01:07.440 --> 01:11.040
+que me seguia e que me conhecia pessoalmente, eles ficavam meio chateados.
+
+01:11.040 --> 01:15.840
+Então, quer dizer, eu queria continuar falando as mesmas coisas, mas eu não queria me identificar.
+
+01:15.840 --> 01:21.920
+Aí eu peguei, exclui o meu perfil anterior e criei esse perfil, o login, foi meio que automático.
+
+01:21.920 --> 01:25.920
+A hora que fui criar lá, eu já pensei, ah, eu vou falar de programação e dar um programador.
+
+01:25.920 --> 01:29.120
+Eu não vou criar só uma programadora, vou colocar alguma outra poesinha.
+
+01:29.120 --> 01:33.920
+Eu não quis colocar a sigla do meu estalo, porque aqui no meu estalo eu não conheço mais nenhuma programadora.
+
+01:33.920 --> 01:40.000
+E aí foi programadora BR para ficar uma coisa maior e para focar mesmo no lado da programação.
+
+01:40.000 --> 01:42.880
+É tipo um entretenimento para mim mesmo, assim.
+
+01:42.880 --> 01:44.320
+Vou desabar pelo lado.
+
+01:44.320 --> 01:45.680
+Eu sou válvula de escada.
+
+01:45.680 --> 01:46.160
+Isso.
+
+01:46.160 --> 01:47.600
+Programadora BR, e aí?
+
+01:47.600 --> 01:50.080
+Conta para a gente, como você decidiu virar a programadora?
+
+01:50.080 --> 01:56.000
+Eu nem me lembro de uma casa da minha vida que eu, tipo, eu falei, não, você é programadora.
+
+01:56.000 --> 01:57.200
+Isso nunca existiu para mim.
+
+01:57.200 --> 01:58.400
+Foi uma coisa automática.
+
+01:58.400 --> 02:04.800
+Sempre gostei de informática, desde pequeno, e assim, nunca pensei na minha vida trabalhar com outra coisa.
+
+02:04.800 --> 02:08.400
+Mas também nunca parei para pensar que eu fosse escolher esse programador.
+
+02:08.400 --> 02:10.080
+Foi na base da curiosidade.
+
+02:10.080 --> 02:14.960
+Meu pai era comerciante, tinha uns computadores antigos daqueles dois, oito, meio e tal.
+
+02:15.040 --> 02:20.240
+E aí eu sempre mexi nesses computadores, com 14, 15 anos, o que tinha que montado,
+
+02:20.240 --> 02:22.640
+e a ver como funcionava, com a curiosidade de treino.
+
+02:22.640 --> 02:26.720
+Assim, eu me lembro de um certo estado de outra coisa, eu não sei, eu mexei com um computador,
+
+02:26.720 --> 02:28.080
+desde pequeno.
+
+02:28.080 --> 02:33.520
+Então, aí, quando o meu pai, ele foi trocando as máquinas da empresa, essas velhas foram ficando comigo.
+
+02:33.520 --> 02:36.480
+Naquela época na internet, não tinha na minha cidade nada, né?
+
+02:36.480 --> 02:38.640
+E assim, a princípio começou com hardware mesmo.
+
+02:38.640 --> 02:41.440
+Eu comecei montando computador, assim, de pequeno.
+
+02:41.440 --> 02:47.920
+E aí, foi passando o P, eu já com uns 16, 17 anos, me lembro muito bem, exatamente.
+
+02:47.920 --> 02:53.280
+Minha mãe também comerciante, ela tinha uma videococadora, e não tinha software nenhum para gerenciar.
+
+02:53.280 --> 02:55.600
+Aí eu me deu uma assilha, deve existir alguma coisa.
+
+02:55.600 --> 02:59.120
+Aí eu peguei, fui atrás, e a gente comprou uma licença de um só.
+
+02:59.120 --> 03:01.920
+Eu olhava aqui no live, falava, meu Deus, como funciona isso?
+
+03:01.920 --> 03:04.000
+Eu era assim, eu já tinha internet.
+
+03:04.000 --> 03:06.880
+Eu lembro que é como desenvolver um programa.
+
+03:06.880 --> 03:08.800
+E aí, foi assim que começou tudo.
+
+03:08.880 --> 03:12.800
+Eu fui pro primeiro, fui fazendo o segundo, sem estudo secado,
+
+03:12.800 --> 03:17.200
+sem nunca tinha conhecido um programador, e assim, eu tava chamada do que eu faço.
+
+03:17.200 --> 03:18.400
+Conheço que começou tudo.
+
+03:18.400 --> 03:20.640
+O programa de locador é clássico, né?
+
+03:21.440 --> 03:26.800
+E uma entinha, uma locadora, aí eu pensava, vou fazer um, e ficou super assim.
+
+03:26.800 --> 03:32.080
+Claro, né, naquela condição de totalmente iniciante, totalmente sem base,
+
+03:32.080 --> 03:35.120
+mas eu consegui fazer, né, estudando na internet,
+
+03:35.120 --> 03:39.200
+e deu pra usar, e ela usou ano na locadora dela, até que vendeu e continuaram usando.
+
+03:39.200 --> 03:40.480
+Foi assim que foi meu pessoal.
+
+03:40.480 --> 03:42.000
+Olhando um, eu fiz um.
+
+03:42.000 --> 03:43.600
+E fez em qual linguagem, né?
+
+03:43.600 --> 03:46.400
+Então, eu já comecei com um delto, né, como questão de só.
+
+03:46.400 --> 03:48.960
+Eu peguei e pesquisei no Google, isso que eu já falei,
+
+03:48.960 --> 03:52.000
+e apareceu o delfe, e um monte de coisa sobre del,
+
+03:52.000 --> 03:55.600
+e foi, eu olhei em casca, na verdade, em casca, né?
+
+03:55.600 --> 04:00.240
+Eu olhei já aquilo, eu olhava, eu entendi, é uma coisa assim que eu gostei de cada.
+
+04:00.240 --> 04:01.360
+E eu comecei assim.
+
+04:01.360 --> 04:04.000
+Então, eu não lembro, assim, quantos anos ela tá minte,
+
+04:04.080 --> 04:08.000
+mas assim, eu tomo como base no acontecimento pessoal na minha vida, que tem dez anos.
+
+04:08.000 --> 04:10.320
+E antes disso, eu já mentia com programação.
+
+04:10.320 --> 04:12.720
+Então, por isso que eu dei uma redondada de dez anos,
+
+04:12.720 --> 04:15.040
+mas assim, exatamente a época, eu não me lembro.
+
+04:15.040 --> 04:19.200
+E uma coisa incomum é ter uma mulher desenvolvendo software.
+
+04:19.200 --> 04:20.560
+Teve algum preconceito?
+
+04:20.560 --> 04:24.480
+Então, preconceito da parte de cliente pode até parecer estranho,
+
+04:24.480 --> 04:25.600
+mas eu nunca sofri.
+
+04:25.600 --> 04:29.680
+Mas eu sofri preconceito da parte da equipe de programadores,
+
+04:29.680 --> 04:31.760
+entendeu, os homens com preconceito comigo.
+
+04:31.840 --> 04:33.360
+E saindo no começo eu sofri um pouco,
+
+04:33.360 --> 04:37.280
+mas depois de tanto tempo, aconteceu que eles me tratam como um homem mesmo,
+
+04:37.280 --> 04:39.600
+né? Nós somos uma equipe e a gente respeita muito.
+
+04:39.600 --> 04:41.600
+Não tem mais disto de preconceito comigo.
+
+04:41.600 --> 04:43.360
+Tem preconceito no tweet.
+
+04:43.360 --> 04:44.880
+As pessoas querem me testar.
+
+04:45.760 --> 04:47.840
+Tipo assim, eu não ligo, eu levo na brincadeira,
+
+04:47.840 --> 04:50.800
+mas tipo assim, eles não colocam muita fé em mim.
+
+04:50.800 --> 04:52.880
+Então, porque não tem o que ficar provando, né?
+
+04:52.880 --> 04:53.840
+É, não, entendeu?
+
+04:53.840 --> 04:57.280
+Eu levo no lado esportivo, porque eles também não conhecem minha vida,
+
+04:57.280 --> 04:59.760
+não sabem com o que eu trabalho com poucos ali, sabe?
+
+04:59.760 --> 05:03.600
+Mas assim, preconceito de cliente, eu não me lembro de teto,
+
+05:03.600 --> 05:04.640
+não me lembro do mesmo.
+
+05:04.640 --> 05:06.960
+Eles não ouviram o podcast, né, para saber a sua história.
+
+05:08.480 --> 05:11.600
+E da parte de colegas de trabalho, talvez é isso.
+
+05:11.600 --> 05:12.160
+Não.
+
+05:12.160 --> 05:12.880
+É isso.
+
+05:12.880 --> 05:13.520
+Chefes, não.
+
+05:13.520 --> 05:15.360
+Gente, meu chefe, incrível.
+
+05:15.360 --> 05:17.920
+Eu trabalhei dois anos e meio em uma outra empresa,
+
+05:17.920 --> 05:20.960
+do mesmo ano, uma concorrente dessa que eu trabalho hoje, né?
+
+05:20.960 --> 05:23.360
+Nessa outra empresa, eu fazia de tudo, até cobrou.
+
+05:23.360 --> 05:27.120
+Dava suporte, programava, era uma empresa, sabe, daquela tipo, né?
+
+05:27.120 --> 05:30.000
+E tinha bastante cliente, mas uma desorganização tremenda,
+
+05:30.000 --> 05:31.600
+e eu acabava o que fazia tudo.
+
+05:31.600 --> 05:34.080
+E assim, o povo que me via na rua dando suporte,
+
+05:34.080 --> 05:37.120
+não sabia que era eu que desenvolvia e sim foi, né?
+
+05:37.120 --> 05:40.320
+Até hoje eu me gosto muito de que as pessoas saibam que sou eu que faço.
+
+05:40.320 --> 05:42.240
+Daí eu entrei nessa outra empresa, né?
+
+05:42.240 --> 05:44.560
+Meu patrão, ele foi muito 100% comigo.
+
+05:44.560 --> 05:46.480
+Nunca teve preconceito pelo fato de eu ser melhor,
+
+05:46.480 --> 05:49.120
+tanto que ele foi atrás de mim para eu entrar nessa empresa.
+
+05:49.120 --> 05:51.520
+Então, assim, eu sempre me dei muito bem ali,
+
+05:51.520 --> 05:55.200
+só com alguns desenvolvedores mesmo, da equipe que no começo tiver.
+
+05:55.200 --> 05:56.880
+Tipo assim, não confiaram muito.
+
+05:56.880 --> 05:58.880
+Aí depois, passaram a confiar.
+
+05:58.880 --> 06:02.480
+Como está sendo a repercussão do perfil do Twitter, da programadora e berra, hein?
+
+06:02.480 --> 06:04.800
+Você não tem, assim, uma história para contar de mulheres,
+
+06:04.800 --> 06:06.480
+que nem eu que entrou em contar com você, né?
+
+06:06.480 --> 06:07.760
+Que fala que é legal, né?
+
+06:07.760 --> 06:10.400
+É tão incrível, gente, no Twitter mesmo,
+
+06:10.400 --> 06:14.400
+estou tendo, assim, uma resposta super positiva das mulheres da TI mesmo.
+
+06:14.400 --> 06:17.120
+Todas, assim, super legais, até quando algum homem,
+
+06:17.120 --> 06:20.400
+eles tentam testar a gente, aí postam alguma coisa,
+
+06:20.400 --> 06:24.000
+assim, as meninas entram em defesa, eu acho super legal isso.
+
+06:24.000 --> 06:26.320
+Eles ficam querendo que eu derrar, entendeu?
+
+06:26.320 --> 06:28.640
+Sempre assim, eles são uma coisa para ver se eu derrar.
+
+06:28.640 --> 06:32.560
+Aí eu não ligo de derrapar, eu nunca falei que eu sou a melhor programadora que ninguém.
+
+06:32.560 --> 06:35.280
+O único dado, o fato é que eu sou programadora.
+
+06:35.280 --> 06:37.040
+Eu não sou melhor do que ninguém ali,
+
+06:37.040 --> 06:39.200
+tanto que eu não conheço o serviço de ninguém,
+
+06:39.200 --> 06:41.920
+mas, assim, eu acho muito legal da parte das meninas.
+
+06:41.920 --> 06:43.680
+Eu não conhecia programadoras.
+
+06:43.680 --> 06:45.840
+Aí o Twitter me proporcionou isso também,
+
+06:45.840 --> 06:47.440
+bastante contato com as meninas.
+
+06:47.440 --> 06:48.560
+Ali no Twitter, né?
+
+06:48.560 --> 06:51.040
+E com a coiviana agora, fora do Twitter.
+
+06:56.640 --> 07:00.080
+Eu sei que programador ter vida pessoal é um medo,
+
+07:00.080 --> 07:02.080
+mas o que você faz quando não está programado?
+
+07:02.080 --> 07:05.280
+Pratico bastante esporte, eu gosto de ler bastante.
+
+07:05.280 --> 07:08.480
+Assim, mas o que eu gosto mais mesmo é de ficar na internet, né?
+
+07:08.480 --> 07:11.360
+Final de semana para mim, apesar de eu ficar bastante online,
+
+07:11.360 --> 07:12.960
+é porque eu tenho um talento, né?
+
+07:12.960 --> 07:15.920
+Aí eu levo para onde eu for ter internet,
+
+07:15.920 --> 07:18.160
+mas eu estou sempre praticando algum esporte.
+
+07:18.160 --> 07:20.240
+Pratico é basquete, adoro jogar,
+
+07:20.240 --> 07:22.160
+e eu gosto de ler bastante também.
+
+07:22.160 --> 07:24.240
+Livros de bilhões, de bilhões de bilhões,
+
+07:24.240 --> 07:26.080
+e eu gosto de ler bastante também.
+
+07:26.080 --> 07:29.120
+Livros da Zili e a Gasparia são os dos que eu mais gosto de ler.
+
+07:29.120 --> 07:31.440
+E assim, um hobby, eu me lembro, pode parecer estranho,
+
+07:31.440 --> 07:32.960
+mas meu hobby é programar.
+
+07:32.960 --> 07:35.600
+Então, assim, quando eu estou em casa, eu estou estudando,
+
+07:35.600 --> 07:38.320
+eu estou investindo, porque assim, eu acho 8 horas.
+
+07:38.320 --> 07:41.360
+8 horas que eu estou trabalhando lá, eu não estou aprendendo nada novo.
+
+07:41.360 --> 07:42.960
+Eu estou em função de uma empresa,
+
+07:42.960 --> 07:45.200
+então eu procure investir em mim.
+
+07:45.200 --> 07:46.880
+Nesse horário que eu estou em casa, é assim,
+
+07:46.880 --> 07:48.320
+é loucura as coisas que eu faço, né?
+
+07:48.320 --> 07:50.640
+De trabalhar de madrugada, de ficar estudando,
+
+07:50.640 --> 07:53.840
+tipo, às vezes eu pego das 11 e até as 4 da manhã,
+
+07:53.840 --> 07:55.680
+eu fico estudando, e aí eu pego duro,
+
+07:55.680 --> 07:57.920
+umas 3 horas, acordo, vou trabalhar.
+
+07:57.920 --> 08:01.200
+Mas é uma questão que eu quero investir em conhecimento mesmo,
+
+08:01.200 --> 08:03.200
+quero estudar, para aprender coisas novas,
+
+08:03.200 --> 08:06.080
+que eu me sinto um pouco assim, como a gente trabalha nessa área,
+
+08:06.080 --> 08:08.960
+e é muito corrido, fica difícil para você estudar.
+
+08:08.960 --> 08:11.360
+Então, assim, em casa, estou procurando fazer isso.
+
+08:11.360 --> 08:13.520
+Que na verdade, isso faz parte do trabalho, né?
+
+08:13.520 --> 08:14.240
+Mhm.
+
+08:14.240 --> 08:17.760
+Interessante que a gente até gravou nos episódios passados,
+
+08:17.760 --> 08:19.520
+o bate-papo com a Yara Sandy,
+
+08:19.520 --> 08:21.600
+e ela falou dessas 4 horas a mais.
+
+08:22.080 --> 08:24.400
+Vai estar o link do post lá do episódio.
+
+08:24.400 --> 08:26.560
+Eu comecei programando com VBC, né?
+
+08:26.560 --> 08:28.720
+Tu falou que estava com medo do pessoal te estrolar,
+
+08:28.720 --> 08:31.440
+porque você programa com Delphi, Foxpro.
+
+08:31.440 --> 08:33.040
+Na época que eu comecei a aprender VBC,
+
+08:33.040 --> 08:34.480
+VBC já era o risuleto.
+
+08:34.480 --> 08:36.480
+E eu estava sempre estudando outras coisas, né?
+
+08:36.480 --> 08:38.800
+Uma das coisas que eu estudava era o Java.
+
+08:38.800 --> 08:41.920
+Daí, quando eu trabalhava com VBC, eu estudava Java.
+
+08:41.920 --> 08:44.480
+Agora eu trabalho com Java, eu estudo Ruby,
+
+08:44.480 --> 08:45.840
+eu estudo Python, né?
+
+08:45.840 --> 08:48.000
+Sempre quando eu começo a trabalhar com uma coisa
+
+08:48.000 --> 08:51.440
+que eu sempre estudei, eu acabo aprendendo outra coisa também.
+
+08:51.600 --> 08:53.840
+Então, essa questão de eu trabalhar com Fox,
+
+08:53.840 --> 08:55.680
+é assim, eu já trabalhava com Delphi,
+
+08:55.680 --> 08:58.320
+eu tive que, tipo, ao invés de evoluir,
+
+08:58.320 --> 08:59.600
+eu tive que voltar no tempo.
+
+08:59.600 --> 09:01.680
+O que acontece é que foi uma proposta recusada.
+
+09:01.680 --> 09:03.120
+O povo me critica, sabe?
+
+09:03.120 --> 09:05.280
+Fala assim, nossa, mas por que programar em Delphi?
+
+09:05.280 --> 09:06.800
+Mas por que programar em Fox?
+
+09:06.800 --> 09:09.280
+Assim, no começo eu ficava meio chateada com essas perguntas.
+
+09:09.280 --> 09:09.920
+Mas agora eu penso,
+
+09:09.920 --> 09:11.920
+po, uma pessoa que faz uma pergunta dessa,
+
+09:11.920 --> 09:14.080
+provavelmente ela não vive de programação.
+
+09:14.080 --> 09:16.400
+Porque você tem a oportunidade,
+
+09:16.400 --> 09:18.560
+você quer crescer na sua profissão,
+
+09:18.560 --> 09:20.560
+você recebe uma proposta recusada,
+
+09:20.560 --> 09:23.520
+e você vai recusar por causa que a linguagem está indiscusa?
+
+09:23.520 --> 09:24.160
+Eu não.
+
+09:24.160 --> 09:25.440
+Igual na empresa que eu trabalho,
+
+09:25.440 --> 09:27.440
+fomos por que tem a 20 programadores.
+
+09:27.440 --> 09:29.360
+A empresa tem 500 anos de mercado.
+
+09:29.360 --> 09:32.000
+O diretor da empresa, ele estava procurando alguém
+
+09:32.000 --> 09:33.920
+para substituir ele nesse software,
+
+09:33.920 --> 09:35.600
+que é um software da nível nacional,
+
+09:35.600 --> 09:37.760
+que tinha que ter muita responsabilidade.
+
+09:37.760 --> 09:39.600
+E eu pedi para ele, eu falei assim,
+
+09:39.600 --> 09:41.360
+olha, me dá esse software,
+
+09:41.360 --> 09:42.880
+eu quero tomar conta dele,
+
+09:42.880 --> 09:44.240
+eu quero essa responsabilidade.
+
+09:44.240 --> 09:45.920
+É em Fox, eu nunca programei em Fox,
+
+09:45.920 --> 09:47.440
+não estou nem aí, eu vou aprender.
+
+09:47.440 --> 09:49.840
+Um deu 2, 3 meses, eu assumi esse produto,
+
+09:49.840 --> 09:51.120
+ele é a nível nacional,
+
+09:51.120 --> 09:52.800
+ele tem uns 5 mil usuários,
+
+09:52.800 --> 09:54.400
+é muita responsabilidade,
+
+09:54.400 --> 09:56.560
+mas eu gosto, eu gosto de fazer isso,
+
+09:56.560 --> 09:59.040
+eu gosto de ter essa responsabilidade para mim.
+
+09:59.040 --> 10:00.320
+E outro foi um aprendizado,
+
+10:00.320 --> 10:02.160
+é não tem mais programador em Fox.
+
+10:02.160 --> 10:04.640
+Então na verdade, onde não tem,
+
+10:04.640 --> 10:06.320
+é onde que eu vou mesmo.
+
+10:06.320 --> 10:08.000
+É lógico que eu quero aprender Java,
+
+10:08.000 --> 10:10.480
+eu quero desenvolver para dispositivos modos,
+
+10:10.480 --> 10:12.640
+mas no momento, o que tem para mim,
+
+10:12.640 --> 10:14.320
+que foi uma proposta recusada,
+
+10:14.320 --> 10:15.680
+foi trabalhar com Fox.
+
+10:15.680 --> 10:16.720
+Então eu aceitei,
+
+10:16.720 --> 10:19.120
+e para mim foi assim, uma realização.
+
+10:19.120 --> 10:21.760
+Aí eu recebi uma outra proposta na mesma empresa,
+
+10:21.760 --> 10:23.520
+que eu já era responsável por esse só,
+
+10:23.520 --> 10:26.320
+de desenvolver o mesmo software e deu.
+
+10:26.320 --> 10:28.800
+Porque a gente trabalha com pequenas empresas,
+
+10:28.800 --> 10:30.400
+só a gente ganha, é na massa,
+
+10:30.400 --> 10:32.080
+então é para uma formação comercial.
+
+10:32.080 --> 10:33.600
+A gente desenvolva um Delft,
+
+10:33.600 --> 10:35.520
+e a gente vai trocar aos poucos,
+
+10:35.520 --> 10:37.600
+que os clientes, eles não querem saber a linguagem,
+
+10:37.600 --> 10:39.120
+eles querem saber se o produto é bom,
+
+10:39.120 --> 10:41.040
+se o produto é bom, está satisfazendo,
+
+10:41.040 --> 10:42.160
+vai indo só, claro,
+
+10:42.160 --> 10:43.840
+como o Fox tem muita limitação,
+
+10:43.840 --> 10:45.200
+a gente resolveu trocar,
+
+10:45.200 --> 10:46.960
+e a gente está trocando aos poucos.
+
+10:46.960 --> 10:48.560
+Trabalhando uma empresa,
+
+10:48.560 --> 10:52.640
+que eles usavam o Fox Pro e o Unix,
+
+10:52.640 --> 10:56.800
+tanto é que eles usavam a versão 2.0 do kernel do Linux,
+
+10:56.800 --> 10:57.760
+e eles o migraram,
+
+10:57.760 --> 10:59.760
+porque não ia funcionar mais nada.
+
+10:59.760 --> 11:01.440
+Então, outra questão que o pessoal,
+
+11:01.440 --> 11:03.600
+eles não entendem essa questão,
+
+11:03.600 --> 11:05.920
+de programador usar o Inbox.
+
+11:05.920 --> 11:09.120
+Gente, como que eu vou usar outro sistema operacional,
+
+11:09.120 --> 11:11.760
+se eu desenvolvo para as pessoas que usam o In?
+
+11:11.760 --> 11:14.240
+É lógico que eu gostaria, com certeza,
+
+11:14.240 --> 11:15.920
+eu instalar o Inbox e usar.
+
+11:16.000 --> 11:18.560
+Tem esse lixo do mercado das pequenas empresas,
+
+11:18.560 --> 11:20.080
+que eles não entendem, eles são legros,
+
+11:20.080 --> 11:23.280
+a infraestrutura das empresas é muito ruim ainda.
+
+11:23.280 --> 11:25.920
+Então, a gente desenvolve para o In,
+
+11:25.920 --> 11:27.440
+que de jeito que eu não vou usar o In,
+
+11:27.440 --> 11:30.240
+se eu desenvolvo um software para esse sistema operacional.
+
+11:30.240 --> 11:32.880
+Hoje, o meu computador de trabalho só tem Linux,
+
+11:32.880 --> 11:36.240
+mas eu falo que hoje eu posso me dar o luxo de usar Linux,
+
+11:36.240 --> 11:39.760
+mas é porque eu desenvolvo um sistema bem específico,
+
+11:39.760 --> 11:41.440
+e como eu estou utilizando Java,
+
+11:41.440 --> 11:43.520
+é independente de plataforma.
+
+11:43.520 --> 11:45.120
+Então, eu não tenho essas limitações.
+
+11:45.120 --> 11:46.480
+É isso mesmo.
+
+11:46.480 --> 11:47.760
+Se você citar lá,
+
+11:47.760 --> 11:48.800
+nosso Zen Windows,
+
+11:48.800 --> 11:50.880
+pronto, você vai ver que te aguarda.
+
+11:50.880 --> 11:52.480
+A maioria da galera que fala isso,
+
+11:52.480 --> 11:53.440
+é meio usam Windows.
+
+11:53.440 --> 11:55.120
+Sei, e é isso que eu estou risado,
+
+11:55.120 --> 11:56.640
+enquanto a gente não é possível.
+
+11:56.640 --> 11:59.120
+Presas que têm vários departamentos,
+
+11:59.120 --> 12:01.600
+é comum acontecer de a galera suporte,
+
+12:01.600 --> 12:03.520
+ficar com risca com a galera de desenvolvimento,
+
+12:03.520 --> 12:05.040
+isso acontece na tua realidade?
+
+12:05.040 --> 12:06.640
+O entanto é, a empresa é muito grande,
+
+12:06.640 --> 12:07.760
+apesar do seu trabalho,
+
+12:07.760 --> 12:11.440
+e tem departamento afluxial, suporte,
+
+12:11.440 --> 12:14.240
+os testes têm até contabilidade,
+
+12:14.320 --> 12:16.800
+gerente financeiro, tem o setor de desenvolvimento,
+
+12:16.800 --> 12:19.120
+e tem, sim, essa risca de suporte.
+
+12:19.120 --> 12:21.520
+Hoje, eu procuro lidar melhor com isso,
+
+12:21.520 --> 12:23.280
+mas até um tempo atrás,
+
+12:23.280 --> 12:25.600
+assim, era até uma coisa ruim da minha parte.
+
+12:25.600 --> 12:27.520
+De todos aqueles que reclamavam pra mim,
+
+12:27.520 --> 12:28.960
+eu comecei a evitar,
+
+12:28.960 --> 12:31.680
+mas acabei conversando com eles recentemente,
+
+12:31.680 --> 12:33.120
+eu resolvi, tá, que sei lá.
+
+12:33.120 --> 12:35.280
+Então, hoje, as famílias todo mundo lá dentro,
+
+12:35.280 --> 12:36.480
+eu me dou super bem com eles.
+
+12:36.480 --> 12:38.960
+Como eu estou lá nessa minha empresa, tem seis anos,
+
+12:38.960 --> 12:40.640
+então eu não passei por cada coisa lá,
+
+12:40.640 --> 12:44.800
+até hoje, eu posso dizer que a gente está estudando super bem.
+
+12:44.800 --> 12:46.240
+A Ciara, a bandeirinha branca?
+
+12:46.240 --> 12:47.760
+Aham, a gente conversou,
+
+12:47.760 --> 12:49.920
+para, assim, chegar para mim e falar,
+
+12:49.920 --> 12:52.880
+esse artículo também suportável.
+
+12:52.880 --> 12:54.080
+Eles mesmo, sabe?
+
+12:54.080 --> 12:55.920
+A gente encontrou mais com algum que tem bastante,
+
+12:55.920 --> 12:56.800
+gente, no suporte.
+
+12:56.800 --> 12:58.960
+E aí, a gente começou a conversar mais,
+
+12:58.960 --> 12:59.760
+e a gente começou a, então,
+
+12:59.760 --> 13:01.600
+vamos fazer coisas no final de semana,
+
+13:01.600 --> 13:03.040
+para a gente ficar mais nu,
+
+13:03.040 --> 13:03.680
+viver a dia,
+
+13:03.680 --> 13:04.640
+e a gente começou a, tipo,
+
+13:04.640 --> 13:06.000
+jogar a bola, esses negócios,
+
+13:06.000 --> 13:06.880
+fazer coisa em grupo,
+
+13:06.880 --> 13:08.400
+para a gente ficar mais unido.
+
+13:09.360 --> 13:10.400
+E eu,
+
+13:10.400 --> 13:12.160
+assim, eu chamei, então, gente,
+
+13:12.160 --> 13:13.600
+então, vamos, vamos jogar a bola,
+
+13:13.600 --> 13:15.040
+e vamos fazer um xirrasquinho,
+
+13:15.040 --> 13:17.840
+vamos fazer alguma coisa para a gente se unir,
+
+13:17.840 --> 13:19.520
+mas agora, quase no final de semana,
+
+13:19.520 --> 13:21.440
+a gente se encontra sábado a tarde,
+
+13:21.440 --> 13:22.960
+para a gente jogar a bola,
+
+13:22.960 --> 13:24.320
+e conversar com a Matereré,
+
+13:24.320 --> 13:25.840
+e agora está tudo em uma bola.
+
+13:25.840 --> 13:27.360
+Matereré já deu uma dica, hein?
+
+13:38.400 --> 13:47.360
+E agora você tem a sua atividade na sua empresa?
+
+13:47.360 --> 13:49.200
+Sempre rola alguém chegando e pedindo
+
+13:49.200 --> 13:50.640
+para você fazer um programinha,
+
+13:50.640 --> 13:51.600
+fazer um sistema.
+
+13:51.600 --> 13:53.040
+Você pega para fazer também?
+
+13:53.040 --> 13:55.760
+Então, eu procuro agora não pegar,
+
+13:55.760 --> 13:58.320
+porque eu estou sem tempo mesmo,
+
+13:58.320 --> 13:59.520
+mas, assim, já fiz muitos,
+
+13:59.520 --> 14:00.880
+eu fiz programas, tipo,
+
+14:00.880 --> 14:02.720
+para vários acordes, não sei,
+
+14:02.720 --> 14:04.400
+e saias também, desenvolvo,
+
+14:04.400 --> 14:05.520
+mas, sinceramente,
+
+14:05.520 --> 14:07.040
+isso aí só dá prejuízo para a gente,
+
+14:07.040 --> 14:08.480
+e dor de cabeça,
+
+14:08.480 --> 14:10.320
+porque a gente não tem uma equipe
+
+14:10.320 --> 14:11.520
+para trabalhar com a gente,
+
+14:11.520 --> 14:12.480
+e não adianta falar,
+
+14:12.480 --> 14:14.480
+por melhor que o software seja,
+
+14:14.480 --> 14:15.680
+ele dá suporte,
+
+14:15.680 --> 14:16.720
+porque quem vai usar,
+
+14:16.720 --> 14:19.120
+geralmente, são usuários do ebis.
+
+14:19.120 --> 14:21.280
+Então, você não tem uma disponibilidade
+
+14:21.280 --> 14:22.880
+de tempo para dar suporte
+
+14:22.880 --> 14:23.680
+para esse software,
+
+14:23.680 --> 14:25.600
+por menor que ele seja.
+
+14:25.600 --> 14:27.200
+Então, eu procuro não fazer.
+
+14:27.200 --> 14:28.320
+Tipo, antigamente,
+
+14:28.320 --> 14:29.280
+nossa, apareceu o programa,
+
+14:29.280 --> 14:30.720
+eu ia lá, que ficava fazendo,
+
+14:30.720 --> 14:34.000
+fazia todos os vossos do cliente,
+
+14:34.000 --> 14:35.120
+agradável e tal,
+
+14:35.200 --> 14:36.160
+e nunca estava bom,
+
+14:36.160 --> 14:37.120
+e nunca estava bom,
+
+14:37.120 --> 14:38.240
+e não sei o que,
+
+14:38.240 --> 14:39.840
+eu cansei dessa vida aí.
+
+14:39.840 --> 14:41.680
+Agora, eu tenho lá meu emprego,
+
+14:41.680 --> 14:42.880
+eu, meus amigos,
+
+14:42.880 --> 14:43.840
+pessoal, é isso, claro,
+
+14:43.840 --> 14:45.360
+sabe, eu sou programadora,
+
+14:45.360 --> 14:47.280
+estou formada no sistema de informação,
+
+14:47.280 --> 14:49.440
+então, eles pedem site,
+
+14:49.440 --> 14:50.560
+pedem algumas coisas assim,
+
+14:50.560 --> 14:51.920
+e eu passo, assim, para mim,
+
+14:51.920 --> 14:52.960
+de fazer isso, sabe?
+
+14:52.960 --> 14:53.760
+Eu falo assim,
+
+14:53.760 --> 14:54.240
+você quer?
+
+14:54.240 --> 14:55.840
+Então, eu conheço tal pessoa,
+
+14:55.840 --> 14:56.880
+eu passo o contato,
+
+14:56.880 --> 14:57.920
+porque, no momento,
+
+14:57.920 --> 14:59.520
+eu não tenho tempo para nada.
+
+14:59.520 --> 15:00.320
+Meu tempo livre,
+
+15:00.320 --> 15:01.840
+eu quero fazer coisas para mim,
+
+15:01.840 --> 15:02.720
+mesmo, entendeu?
+
+15:02.720 --> 15:04.320
+Esse negócio de fazer programinha,
+
+15:04.320 --> 15:05.360
+é só prejuízo.
+
+15:05.360 --> 15:07.040
+Quem tem uma experiência,
+
+15:07.040 --> 15:08.160
+já, nessa área,
+
+15:08.160 --> 15:09.520
+quem não tem, vai passar por isso,
+
+15:09.520 --> 15:11.200
+vai chegar essa conclusão,
+
+15:11.200 --> 15:13.760
+que é melhor você ter um emprego fixo,
+
+15:13.760 --> 15:15.280
+ou você ter uma empresa,
+
+15:15.280 --> 15:16.720
+do que você sair,
+
+15:16.720 --> 15:17.440
+fazer programinha,
+
+15:17.440 --> 15:18.640
+para agradar todo mundo.
+
+15:18.640 --> 15:19.920
+Assim que o meu filho nasceu,
+
+15:19.920 --> 15:21.200
+eu entrei nessa,
+
+15:21.200 --> 15:22.800
+de fazer programinha,
+
+15:22.800 --> 15:23.760
+então, quase todo dia,
+
+15:23.760 --> 15:24.800
+até 3 horas da manhã,
+
+15:24.800 --> 15:26.800
+daí, acabava que eu não rendia mais,
+
+15:26.800 --> 15:28.160
+nem na empresa que eu trabalhava,
+
+15:28.160 --> 15:30.160
+nem nos bicos que eu estava fazendo,
+
+15:30.160 --> 15:31.600
+conseguia cumprir prazo,
+
+15:31.600 --> 15:32.720
+nem um, nem outro.
+
+15:32.800 --> 15:33.920
+Olha, eu consegui,
+
+15:33.920 --> 15:35.040
+eu fiquei um ano,
+
+15:35.040 --> 15:36.880
+um ano, assim, eu gostei, sim.
+
+15:36.880 --> 15:38.480
+Eu pegava, eu trabalhava,
+
+15:38.480 --> 15:39.680
+apesar de eu não ter um horário,
+
+15:39.680 --> 15:40.960
+eu gosto de estar lá na empresa,
+
+15:40.960 --> 15:43.760
+eu gosto de, eu tenho muita responsabilidade,
+
+15:43.760 --> 15:45.200
+então, eu sempre gosto de estar por lá.
+
+15:45.200 --> 15:46.320
+Então, eu trabalhava, geralmente,
+
+15:46.320 --> 15:47.360
+das 8h a 6h,
+
+15:47.360 --> 15:49.680
+chegar em casa, descansava umas 2 horas,
+
+15:49.680 --> 15:50.960
+pegava, trabalhava,
+
+15:50.960 --> 15:52.080
+virava a noite,
+
+15:52.080 --> 15:54.160
+até umas 4, 5 da manhã,
+
+15:54.160 --> 15:56.000
+dormia umas 2, 3 horas,
+
+15:56.000 --> 15:57.120
+ia trabalhar, virava,
+
+15:57.120 --> 15:58.160
+que tipo, um ano, assim.
+
+15:58.160 --> 15:59.040
+E eu falei que, essa vez,
+
+15:59.040 --> 15:59.920
+isso não é vida,
+
+15:59.920 --> 16:01.120
+não quero mais,
+
+16:01.200 --> 16:02.080
+e parei,
+
+16:02.080 --> 16:03.040
+pra bem parei.
+
+16:03.040 --> 16:04.240
+Isso é engraçado,
+
+16:04.240 --> 16:06.080
+porque quando você é jovem,
+
+16:06.080 --> 16:07.600
+uma semana tu aguenta, sabe,
+
+16:07.600 --> 16:09.440
+ficar dormindo 2 horas pro dia.
+
+16:09.440 --> 16:10.880
+Tá bom que eu só tenho 25 anos,
+
+16:10.880 --> 16:12.800
+mas, assim, a gente já viu o peso
+
+16:12.800 --> 16:14.880
+de ter perdido essas noites de sono,
+
+16:14.880 --> 16:16.560
+assim, um pouco tempo de profissão.
+
+16:16.560 --> 16:18.320
+E o que faz mal pra...
+
+16:18.320 --> 16:19.200
+É isso?
+
+16:19.200 --> 16:20.800
+Nossa, como a gente, assim,
+
+16:20.800 --> 16:22.800
+envelhece se a gente não dorme.
+
+16:22.800 --> 16:25.120
+Então, eu procuro fazer,
+
+16:25.120 --> 16:26.240
+lógico, trabalhar em casa,
+
+16:26.240 --> 16:27.280
+isso é tudo,
+
+16:27.280 --> 16:28.480
+mas não fazer aquela loucura
+
+16:28.480 --> 16:30.320
+que eu fazia um ano atrás,
+
+16:30.400 --> 16:31.440
+2, 3 anos atrás,
+
+16:31.440 --> 16:32.640
+eu não faço mais.
+
+16:32.640 --> 16:33.440
+Cada hora que passa,
+
+16:33.440 --> 16:35.440
+envelhecemos 10 semanas.
+
+16:49.600 --> 16:51.120
+É um problema que,
+
+16:51.120 --> 16:52.880
+eu acho que todo programador passa,
+
+16:52.880 --> 16:54.720
+eu acho que nem sei o que deveria passar,
+
+16:54.720 --> 16:56.880
+mas é o problema de
+
+16:56.880 --> 16:58.320
+não conseguir definir prazo.
+
+16:58.320 --> 16:59.920
+Isso acontece só comigo.
+
+16:59.920 --> 17:03.360
+Ó, realmente, eu nunca compro prazo.
+
+17:03.360 --> 17:04.640
+Então, assim,
+
+17:04.640 --> 17:08.160
+quando o analista tem alguma solicitação,
+
+17:08.160 --> 17:09.920
+porque, assim, o sófico que a gente trabalha,
+
+17:09.920 --> 17:12.320
+ele, independentemente de qualquer coisa,
+
+17:12.320 --> 17:13.840
+ele só coloca uma versão
+
+17:13.840 --> 17:15.120
+com uns 3 entre isso,
+
+17:15.120 --> 17:17.120
+com acertos e sugestões.
+
+17:17.120 --> 17:18.160
+Então, a gente tem,
+
+17:18.160 --> 17:19.680
+a gente não faz nada na correria,
+
+17:19.680 --> 17:21.920
+a gente tem 3 meses pra fazer,
+
+17:21.920 --> 17:22.720
+a gente tem uma lista,
+
+17:22.720 --> 17:23.600
+geralmente, a gente faz
+
+17:23.600 --> 17:25.360
+umas 3 páginas de sugestões,
+
+17:25.360 --> 17:27.040
+e nesses 3 meses,
+
+17:27.040 --> 17:28.640
+a gente passa desenvolvendo isso,
+
+17:28.640 --> 17:29.360
+e testando.
+
+17:29.360 --> 17:31.200
+Tipo, um mês antes de soltar a versão,
+
+17:31.200 --> 17:33.600
+a gente joga pra departamento de test,
+
+17:33.600 --> 17:34.640
+e aí eles testam,
+
+17:34.640 --> 17:36.000
+e aí retornam pra gente,
+
+17:36.000 --> 17:37.520
+porque, se a gente soltar
+
+17:37.520 --> 17:39.120
+uma versão com algum problema,
+
+17:39.120 --> 17:41.200
+você imagina o trono e o prejuízo,
+
+17:41.200 --> 17:43.280
+que é a de 5 mil usuários
+
+17:43.280 --> 17:44.640
+achando isso no site,
+
+17:44.640 --> 17:46.080
+e na próxima programa.
+
+17:46.080 --> 17:47.360
+A gente tem, assim,
+
+17:47.360 --> 17:48.320
+uma rotina.
+
+17:48.320 --> 17:49.280
+Solta uma versão,
+
+17:49.280 --> 17:50.080
+a gente já começa
+
+17:50.080 --> 17:50.800
+a desenvolver a outra,
+
+17:50.800 --> 17:51.600
+e vai testando,
+
+17:51.600 --> 17:52.480
+e vai desenvolvendo,
+
+17:52.480 --> 17:53.600
+e como se esticou,
+
+17:53.600 --> 17:55.360
+geralmente, é de a 10,
+
+17:55.360 --> 17:57.040
+vai só outra versão.
+
+17:57.440 --> 17:58.560
+Não tem problema com o prazo,
+
+17:58.560 --> 17:59.280
+mas por causa disso,
+
+17:59.280 --> 18:00.640
+mas quem me pediu alguma coisa assim,
+
+18:00.640 --> 18:02.000
+mas não é fácil,
+
+18:02.000 --> 18:03.440
+daqui a pouco, não.
+
+18:03.440 --> 18:04.640
+Não vou fazer daqui a pouco.
+
+18:04.640 --> 18:05.600
+Porque eu falo,
+
+18:05.600 --> 18:06.640
+que uma hora eu te entrego,
+
+18:06.640 --> 18:08.640
+mas pode sentar, esperar e dormir,
+
+18:08.640 --> 18:11.040
+que não tem condições.
+
+18:11.760 --> 18:13.040
+Eu já trabalhei na empresa assim,
+
+18:13.040 --> 18:15.040
+que não vinha pra gente nada,
+
+18:15.040 --> 18:16.400
+com menos de 40 horas
+
+18:16.400 --> 18:18.240
+de desenvolvimento pra ser feito, sabe?
+
+18:18.240 --> 18:19.520
+Em outras empresas,
+
+18:19.520 --> 18:21.440
+o pessoal fala que são absurdos, né?
+
+18:21.440 --> 18:23.280
+É, mas só que tinha toda uma burocracia
+
+18:23.280 --> 18:23.840
+pra passar,
+
+18:23.840 --> 18:24.800
+não uma burocracia,
+
+18:24.800 --> 18:25.680
+mas todo um processo
+
+18:25.680 --> 18:27.680
+só a ser respeitado no desenvolvimento,
+
+18:27.680 --> 18:29.680
+que foi exatamente o que tu falou, né?
+
+18:29.680 --> 18:31.680
+Desenvolvimento, teste,
+
+18:31.680 --> 18:33.680
+volta pra desenvolvimento...
+
+18:33.680 --> 18:35.280
+Aí tem uma análise de negócio, né?
+
+18:35.280 --> 18:37.280
+Que vê, ver com o cliente,
+
+18:37.280 --> 18:38.480
+tudo que está precisando,
+
+18:38.480 --> 18:39.680
+aí passa,
+
+18:39.680 --> 18:40.880
+aí tem um só,
+
+18:40.880 --> 18:42.480
+de atividade,
+
+18:42.480 --> 18:44.880
+que gerencia isso tudo,
+
+18:44.880 --> 18:46.480
+e tem que se organizar.
+
+18:46.480 --> 18:48.080
+É uma empresa grande, hein?
+
+18:48.080 --> 18:48.880
+Tem que se organizar.
+
+18:48.880 --> 18:50.480
+É, esse está quase por um hotel,
+
+18:50.480 --> 18:52.080
+esquema de não saber mesurar.
+
+18:52.080 --> 18:53.680
+Só porque eu não sei,
+
+18:53.680 --> 18:55.280
+porque, tipo assim,
+
+18:55.280 --> 18:58.080
+é, às vezes, uma coisa que parece simples,
+
+18:58.080 --> 18:59.680
+na hora que você vai desenvolvendo,
+
+18:59.680 --> 19:01.280
+não é tão simples como parece.
+
+19:01.280 --> 19:03.280
+Às vezes, um aqui você acha que é complicado,
+
+19:03.280 --> 19:04.480
+é mais simples.
+
+19:04.480 --> 19:06.480
+Às vezes, inverte a sua coisa, né?
+
+19:06.480 --> 19:07.680
+Então, por isso, assim,
+
+19:07.680 --> 19:09.280
+eu acho que esse negócio de prazo...
+
+19:09.280 --> 19:10.480
+Eu dou prazo, geralmente,
+
+19:10.480 --> 19:12.480
+depois que eu já terminei.
+
+19:12.480 --> 19:13.680
+Só...
+
+19:13.680 --> 19:15.680
+Tipo, espera só um pouquinho,
+
+19:15.680 --> 19:17.280
+porque eu vou ter muito tempo, eu demoro,
+
+19:17.280 --> 19:19.280
+aí eu vou em saço, mais ou menos, né?
+
+19:19.280 --> 19:20.480
+Olha só, uma super organização,
+
+19:20.480 --> 19:21.680
+aí eu faço, mais ou menos,
+
+19:21.680 --> 19:23.280
+e falo, ó, tal dia tá pronto,
+
+19:23.280 --> 19:24.880
+mas já tá pronto, entendeu?
+
+19:24.880 --> 19:26.080
+Geralmente, eu falo sim,
+
+19:26.080 --> 19:27.280
+mas não deu um melado.
+
+19:27.280 --> 19:28.480
+Aí, tipo assim, eu fico assim,
+
+19:28.480 --> 19:30.480
+como se eu fosse super rápido, né?
+
+19:30.480 --> 19:32.080
+Nessa empresa específica
+
+19:32.080 --> 19:33.680
+que eu tava falando que eu trabalhei,
+
+19:33.680 --> 19:35.280
+o projeto que eu tava trabalhando,
+
+19:35.280 --> 19:38.880
+já tinha dois anos de projeto pra frente,
+
+19:38.880 --> 19:40.480
+feito análise, sabe?
+
+19:40.480 --> 19:41.680
+O software tava desenvolvimento.
+
+19:41.680 --> 19:43.680
+É bem diferente do que programar
+
+19:43.680 --> 19:46.880
+no lugar onde a demanda vem com tempo, né?
+
+19:46.880 --> 19:48.880
+Cada semana eu tenho uma demanda nova,
+
+19:48.880 --> 19:51.680
+e em um mês, aquela primeira demanda,
+
+19:51.680 --> 19:53.280
+já nem faz mais sentido.
+
+19:53.280 --> 19:55.680
+Tem também, porque eu fiz sistemas de informação,
+
+19:55.680 --> 19:57.680
+eu me formei assim, tem, é recente,
+
+19:57.680 --> 19:59.280
+eu me formei em 2006 só,
+
+19:59.280 --> 20:02.480
+porque depois eu não pensava que eu resolvi fazer essa pudade.
+
+20:02.480 --> 20:03.680
+Como é que foi?
+
+20:15.680 --> 20:17.280
+Então, assim, eu tava cansada
+
+20:17.280 --> 20:19.280
+daquela famosa pergunta,
+
+20:19.280 --> 20:20.480
+é formada?
+
+20:20.480 --> 20:21.280
+É formada?
+
+20:21.280 --> 20:23.280
+Então, sei, um dia falei acordei,
+
+20:23.280 --> 20:24.480
+levou para o estado de estudar,
+
+20:24.480 --> 20:26.480
+vou fazer logo essa pudade,
+
+20:26.480 --> 20:27.680
+vou parar de me encher o sapo.
+
+20:27.680 --> 20:31.680
+Foi esse o motivo que eu resolvi fazer faculdade.
+
+20:31.680 --> 20:33.280
+Porque, assim, na nossa área,
+
+20:33.280 --> 20:36.080
+nosso conhecimento é nossa ferramenta de trabalho.
+
+20:36.080 --> 20:38.080
+Então, assim, se você tem facilidade,
+
+20:38.080 --> 20:40.080
+se você gosta de programar,
+
+20:40.080 --> 20:41.680
+e tem aquilo pra você,
+
+20:41.680 --> 20:42.880
+você vai programar.
+
+20:42.880 --> 20:44.880
+Não importa se você tem faculdade,
+
+20:44.880 --> 20:45.680
+ou não tem faculdade.
+
+20:45.680 --> 20:47.280
+E mais, eu resolvi fazer uma,
+
+20:47.280 --> 20:48.880
+que o válvio da frente é só um sapo,
+
+20:48.880 --> 20:50.480
+também, porque, futuramente,
+
+20:50.480 --> 20:52.880
+se tivesse bestado algum custo da nível superior,
+
+20:52.880 --> 20:54.880
+aí eu poderia prestar, né?
+
+20:54.880 --> 20:55.680
+Estava na mão.
+
+20:55.680 --> 20:57.680
+E fez alguma diferença antes e depois, ou não?
+
+20:57.680 --> 20:58.880
+Não, não.
+
+20:58.880 --> 21:00.080
+Não conheço, não fiz.
+
+21:00.080 --> 21:01.280
+Não fiz, simplesmente.
+
+21:01.280 --> 21:02.880
+Eu fiz uma faculdade bem fraca,
+
+21:02.880 --> 21:04.480
+e, assim, eu não tinha tempo, né?
+
+21:04.480 --> 21:05.680
+Pra me dedicar.
+
+21:05.680 --> 21:07.680
+Então, assim, eu fiz, fui fazendo.
+
+21:07.680 --> 21:09.280
+Até me formar, assim,
+
+21:09.280 --> 21:10.480
+eu não leram, assim, de uma coisa,
+
+21:10.480 --> 21:12.080
+assim, que eu tenha aprendido, assim,
+
+21:12.080 --> 21:14.480
+que, nossa, como mudou minha vida, isso aqui.
+
+21:14.480 --> 21:16.480
+Infelizmente, a minha faculdade foi bem fraca.
+
+21:16.480 --> 21:18.480
+Eu, mesmo, trabalhando.
+
+21:18.480 --> 21:20.080
+Como você aprende de trabalhando, né?
+
+21:20.080 --> 21:21.280
+Você sai da faculdade,
+
+21:21.280 --> 21:23.280
+você cai no mercado de cavalo,
+
+21:23.280 --> 21:24.480
+a realidade é outra.
+
+21:24.480 --> 21:28.480
+Então, é tanto que começou duas turmas de 50,
+
+21:28.480 --> 21:30.080
+e se formou 20 alunos.
+
+21:30.080 --> 21:32.480
+Desses 20, três liminas.
+
+21:32.480 --> 21:35.280
+E desses 20, nenhuma programador.
+
+21:35.280 --> 21:36.080
+E isso que era...
+
+21:36.080 --> 21:36.880
+É só eu, né?
+
+21:36.880 --> 21:38.880
+E isso que era a faculdade de desenvolvimento
+
+21:38.880 --> 21:40.480
+de sistemas de informação.
+
+21:40.480 --> 21:42.080
+A minha também foi parecida,
+
+21:42.080 --> 21:43.680
+mas a minha foi senso da computação.
+
+21:43.680 --> 21:45.680
+E eram, tipo, 80 pessoas.
+
+21:45.680 --> 21:47.680
+Na turma formou uns três.
+
+21:47.680 --> 21:50.280
+Pois é, assim, é que as pessoas entram
+
+21:50.280 --> 21:51.680
+naquela ilusão.
+
+21:51.680 --> 21:52.880
+Nossa, adora o computador.
+
+21:52.880 --> 21:54.280
+Adora o Orkut.
+
+21:54.280 --> 21:55.280
+Adora MSN.
+
+21:55.280 --> 21:57.280
+E vou fazer esses sistemas de informação.
+
+21:57.280 --> 21:58.280
+Para que eles entram lá,
+
+21:58.280 --> 22:00.680
+que eles começam a ver algoritmos,
+
+22:00.680 --> 22:01.880
+o algoritmo de ação.
+
+22:01.880 --> 22:03.280
+E ainda há dois meses,
+
+22:03.280 --> 22:04.880
+que eles dizem que tem amarria, né?
+
+22:04.880 --> 22:06.080
+E quem gosta um pouco mais,
+
+22:06.080 --> 22:07.480
+vai até o final.
+
+22:10.480 --> 22:11.880
+A gente pode ver o último top aí.
+
+22:11.880 --> 22:13.480
+Mania, você pegou um problema para tudo?
+
+22:13.480 --> 22:14.480
+Vai, como eu tenho?
+
+22:14.480 --> 22:15.880
+Eu, pelo menos, tenho essa mania.
+
+22:15.880 --> 22:17.680
+Eu preciso de uma calculadora.
+
+22:17.680 --> 22:19.480
+A calculadora do Windows
+
+22:19.480 --> 22:21.280
+não faz uma coisa que eu preciso.
+
+22:21.280 --> 22:22.880
+Eu desenvolvo uma calculadora inteira.
+
+22:22.880 --> 22:24.480
+Eu sou de fase, assim, sabe?
+
+22:24.480 --> 22:26.480
+Tem época que eu estou me fazendo assim.
+
+22:26.480 --> 22:27.680
+Preciso fazer recivo.
+
+22:27.680 --> 22:29.080
+De vez em vez de eu fazer Orkut,
+
+22:29.080 --> 22:31.480
+eu faço um só para ver recivo, assim.
+
+22:31.480 --> 22:33.680
+E eu odeio usar softwares terceiros,
+
+22:33.680 --> 22:35.280
+coisas que eu posso fazer, assim.
+
+22:35.280 --> 22:37.280
+Coisa que eu não tenho capacidade,
+
+22:37.280 --> 22:38.080
+que eu não vou...
+
+22:38.080 --> 22:38.880
+Nem tempo.
+
+22:38.880 --> 22:39.880
+Não é da minha área, tá?
+
+22:39.880 --> 22:41.680
+Mas se for uma coisa que eu vejo,
+
+22:41.680 --> 22:43.080
+que vai dar certo,
+
+22:43.680 --> 22:45.280
+não vai te evitar nada.
+
+22:56.680 --> 22:58.280
+Isso é uma parceria do
+
+22:58.280 --> 23:00.880
+Mulheres na Tecnologia e da Tribu de C.I.
+
+23:00.880 --> 23:01.680
+Ou não.
+
+23:01.680 --> 23:03.080
+Galera que quiser entrar em contato
+
+23:03.080 --> 23:04.480
+com a programadora BR,
+
+23:04.480 --> 23:06.480
+é só mandar o email para contato,
+
+23:06.480 --> 23:08.480
+rola programadorbr.com
+
+23:08.480 --> 23:09.880
+ou através do meu Twitter,
+
+23:09.880 --> 23:11.680
+arroba programador BR.
+
+23:11.680 --> 23:13.480
+Eu queria agradecer a Cleviane
+
+23:13.480 --> 23:14.680
+pela dica de pauta.
+
+23:14.680 --> 23:17.680
+Eu queria agradecer a programadora BR.
+
+23:17.680 --> 23:21.080
+E eu que agradeço, é uma honra ter participado
+
+23:21.080 --> 23:24.080
+e espero que todo mundo que goste.
+
+23:24.080 --> 23:25.480
+Eu queria agradecer a participação
+
+23:25.480 --> 23:27.480
+do programador e ter pedido, né,
+
+23:27.480 --> 23:29.480
+um pouquinho do seu preço aos tempos para a gente.
+
+23:29.480 --> 23:30.880
+Eu poderia estar programando,
+
+23:30.880 --> 23:31.680
+divulgando...
+
+23:31.680 --> 23:33.080
+Teria estar programando, divulgando,
+
+23:33.080 --> 23:34.280
+mas estar aqui...
+
+23:34.280 --> 23:35.680
+Gravando podcast.
+
+23:35.680 --> 23:37.080
+Gravando podcast.
+
+23:37.080 --> 23:38.680
+Gravando a gente. Gravando a vocês.
+
+23:42.680 --> 23:45.680
+Ficamos aos créditos de mais um episódio
+
+23:45.680 --> 23:47.680
+da Tribu do C.I. Podcast.
+
+23:47.680 --> 23:49.680
+E como tem sido de praxe,
+
+23:49.680 --> 23:53.680
+vamos finalizar com os recadinhos e abraços.
+
+23:53.680 --> 23:55.680
+Começando pelo
+
+23:55.680 --> 23:58.680
+Fora Ongoiano de Software Livre.
+
+23:58.680 --> 24:00.680
+Dia 18 e 19 de novembro,
+
+24:00.680 --> 24:03.680
+oitava edição do Fora Ongoiano de Software Livre.
+
+24:03.680 --> 24:05.680
+Socialmente justo, economicamente viável,
+
+24:05.680 --> 24:07.680
+tecnologicamente sustentável.
+
+24:07.680 --> 24:09.680
+Para mais informações,
+
+24:09.680 --> 24:16.680
+visite fgesl.asljo.org.br.
+
+24:16.680 --> 24:18.680
+Eu queria também falar
+
+24:18.680 --> 24:23.680
+sobre o circuito goiano de Software Livre.
+
+24:23.680 --> 24:26.680
+Eu participei da quarta e da quinta etapa
+
+24:26.680 --> 24:28.680
+que aconteceram em Itaberaí
+
+24:28.680 --> 24:30.680
+e Santa Helena, respectivamente.
+
+24:30.680 --> 24:32.680
+Como você sabe mais,
+
+24:32.680 --> 24:36.680
+softwarelivre.goiais.gov.br.
+
+24:36.680 --> 24:38.680
+Eu queria também mandar um abraço
+
+24:38.680 --> 24:40.680
+para o pessoal do Twitter
+
+24:40.680 --> 24:43.680
+que mencionou o Arroba Tribu do C.I.
+
+24:43.680 --> 24:47.680
+Vamos começar pelo Arroba W Porfírio,
+
+24:47.680 --> 24:49.680
+que é o Wesley Porfírio.
+
+24:49.680 --> 24:51.680
+Ele disse que escutou o episódio 12
+
+24:51.680 --> 24:53.680
+que falou exatamente sobre o dia a dia
+
+24:53.680 --> 24:55.680
+na área comercial MPI,
+
+24:55.680 --> 24:57.680
+que é o que acontece no dia a dia dele
+
+24:57.680 --> 24:59.680
+na software host.
+
+24:59.680 --> 25:02.680
+E o outro foi da programadora BR
+
+25:02.680 --> 25:04.680
+que acabou de participar com a gente.
+
+25:04.680 --> 25:05.680
+Aqui do episódio,
+
+25:05.680 --> 25:07.680
+recomendando o episódio número 12 também.
+
+25:07.680 --> 25:10.680
+A Marcia Santos do Barra Emene Tec
+
+25:10.680 --> 25:12.680
+que deu uma força para a gente lá também.
+
+25:12.680 --> 25:15.680
+O Arroba Ivan Pedê,
+
+25:15.680 --> 25:17.680
+o Neveu Luu, não sei como pronunciar.
+
+25:17.680 --> 25:20.680
+Tweetou lá que estava ouvindo o episódio.
+
+25:20.680 --> 25:22.680
+Também ao podcasteiro.
+
+25:22.680 --> 25:24.680
+Arroba podcasteiro,
+
+25:24.680 --> 25:26.680
+que recomendou o podcast.
+
+25:26.680 --> 25:28.680
+Ele estava falando que
+
+25:28.680 --> 25:30.680
+queima das link de podcasts lá.
+
+25:30.680 --> 25:33.680
+Ele estaria retweetando e recomendando.
+
+25:33.680 --> 25:35.680
+E também a Loiane,
+
+25:35.680 --> 25:37.680
+Loiane Groner, que foi a entrevistada
+
+25:37.680 --> 25:39.680
+do episódio 11.
+
+25:39.680 --> 25:41.680
+E também eu queria mandar um abraço
+
+25:41.680 --> 25:43.680
+para o Vinicius Menezes,
+
+25:43.680 --> 25:45.680
+que fez vários comentários comigo
+
+25:45.680 --> 25:47.680
+a respeito do episódio passado.
+
+25:47.680 --> 25:49.680
+Também eu queria mandar um abraço
+
+25:49.680 --> 25:51.680
+aos podcasteiro, AspiraCache,
+
+25:51.680 --> 25:53.680
+podcasteiro do Boris Deprela
+
+25:53.680 --> 25:55.680
+do site Aspirante Profissional.
+
+25:55.680 --> 25:57.680
+O MachinaCache
+
+25:57.680 --> 25:59.680
+e o Descontrole Podcast
+
+25:59.680 --> 26:01.680
+que é do Jo, do Almof
+
+26:01.680 --> 26:02.680
+e da Lily.
+
+26:02.680 --> 26:04.680
+E eu sempre confundo o Jo com Almof.
+
+26:04.680 --> 26:06.680
+Eu nunca sei quem é quem.
+
+26:06.680 --> 26:08.680
+Valeu, um abraço.
+
+26:08.680 --> 26:10.680
+Seguindo aqui, mande seus feedbacks
+
+26:10.680 --> 26:12.680
+mencionando no Twitter
+
+26:12.680 --> 26:14.680
+o Arroba Tribu do CI
+
+26:14.680 --> 26:16.680
+ou curta nossa página no Facebook.
+
+26:16.680 --> 26:18.680
+Facebook.com.br
+
+26:18.680 --> 26:20.680
+Tribuador CI
+
+26:20.680 --> 26:22.680
+ou mande-nos um e-mail
+
+26:22.680 --> 26:24.680
+para o podcast
+
+26:24.680 --> 26:26.680
+arrobatribuducei.match
+
+26:26.680 --> 26:28.680
+ou mande seu recadinho de voz
+
+26:28.680 --> 26:30.680
+ou e-mail também para a Tribu de CI
+
+26:30.680 --> 26:32.680
+arrobagmail.com
+
+26:32.680 --> 26:34.680
+para o episódio.
+
+26:34.680 --> 26:36.680
+Gravão
+
+26:36.680 --> 26:38.680
+só cabeça.
+
+26:38.680 --> 26:40.680
+Por que não está chão?
+
+26:40.680 --> 26:42.680
+Oi, são?
+
+26:42.680 --> 26:44.680
+Todo mundo ouvindo?
+
+26:44.680 --> 26:46.680
+São ouvindo também?
+
+26:46.680 --> 26:48.680
+Tá legal.
+
+26:48.680 --> 26:50.680
+Ah, pois
+
+26:50.680 --> 26:52.680
+já escolheram para a Univindade?
+
+26:56.680 --> 26:58.680
+Fricado.
+
+26:58.680 --> 27:00.680
+Será que deu para perceber?
+
+27:00.680 --> 27:02.680
+Não, grivado.
+
+27:02.680 --> 27:04.680
+Ah, entendi, privada.
+
+27:06.680 --> 27:08.680
+Não, entendi, privada.
+
+27:16.680 --> 27:18.680
+Eu queria fazer uma pausa para me lavar
+
+27:18.680 --> 27:20.680
+a bunda do meu menino, pode ser?
+
+27:20.680 --> 27:22.680
+Poupe nos detalhes, por favor.
+
+27:22.680 --> 27:24.680
+Vou fazer a higiene de ação
+
+27:24.680 --> 27:26.680
+do meu filhinho.
+
+27:26.680 --> 27:28.680
+Eu vou lá daqui um pouquinho.
+
+27:28.680 --> 27:30.680
+Tá lá minha bunda?
+
+27:40.680 --> 27:42.680
+Eu estou brincando, papai.
+
+27:42.680 --> 27:44.680
+Papai, eu estou brincando.
+
+27:44.680 --> 27:46.680
+Alô?
+
+27:50.680 --> 27:52.680
+Alô?
+
+27:54.680 --> 27:56.680
+Alô?
+
+27:56.680 --> 27:58.680
+Já acabou, está tão bom.
+

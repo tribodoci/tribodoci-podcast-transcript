@@ -1,0 +1,9560 @@
+1
+00:00:00,000 --> 00:00:03,500
+VOCÊ ESTÃO VINDO A TRÍMPO DO C.I. PODCAST
+
+2
+00:00:13,000 --> 00:00:17,500
+Trímpo do C.I. Episódio 5, para o dia 24 de setembro de 2010, redes de computadores.
+
+3
+00:00:21,000 --> 00:00:27,000
+Aqui é o Sebastian Hells, o senhor na agueta mais ouvir nos TCCs, definição de vírus, worms e o que é hacker, cara.
+
+4
+00:00:27,000 --> 00:00:32,000
+Meu nome é Sheldon Led e a internet não é uma rede de computadores que sim uma rede de pessoas.
+
+5
+00:00:32,000 --> 00:00:37,000
+Meu nome é Marcelo Fleuri e a internet é uma rede híbrida, de pessoas e computadoras.
+
+6
+00:00:37,000 --> 00:00:39,000
+Tá certo disso?
+
+7
+00:00:40,000 --> 00:00:42,000
+Queria que uma rede heterogênea.
+
+8
+00:00:42,000 --> 00:00:44,000
+Eu diria que é uma rede.
+
+9
+00:00:44,000 --> 00:00:46,000
+Queria que era uma internet.
+
+10
+00:00:46,000 --> 00:00:48,000
+Eu diria que não é só Orkut em MSN.
+
+11
+00:00:50,000 --> 00:00:52,000
+Eu não digo mais nada, porque tá chato.
+
+12
+00:00:52,000 --> 00:00:54,000
+Esse futebol de Twitter também.
+
+13
+00:00:54,000 --> 00:00:57,000
+No princípio, a internet era Orkut MSN.
+
+14
+00:00:57,000 --> 00:01:00,000
+Ex, agora, Facebook e Twitter na parada.
+
+15
+00:01:01,000 --> 00:01:03,000
+Como é que o pessoal esqueceu do YouTube?
+
+16
+00:01:09,000 --> 00:01:11,000
+Então, chegando aqui na leitura dos meios.
+
+17
+00:01:11,000 --> 00:01:13,000
+O que você acha?
+
+18
+00:01:13,000 --> 00:01:14,000
+De redes?
+
+19
+00:01:14,000 --> 00:01:16,000
+É segurança de redes ou sua rede, né?
+
+20
+00:01:16,000 --> 00:01:18,000
+Ah, eu quero falar sobre isso, cara.
+
+21
+00:01:18,000 --> 00:01:19,000
+Eu tenho um monte de dúvidas.
+
+22
+00:01:19,000 --> 00:01:21,000
+Eu quero ver se eu tiro também uns 10.
+
+23
+00:01:21,000 --> 00:01:23,000
+Antes de começar a ler os meios de verdade,
+
+24
+00:01:23,000 --> 00:01:25,000
+eu queria, primeiramente, já lembrar
+
+25
+00:01:25,000 --> 00:01:27,000
+que hoje nós temos outro participante,
+
+26
+00:01:27,000 --> 00:01:29,000
+que é o Marcelo Fleuri.
+
+27
+00:01:29,000 --> 00:01:31,000
+Opa, prazer.
+
+28
+00:01:31,000 --> 00:01:34,000
+Então, Marcelo Fleuri vai estar aí dando participação pra gente, como vocês viram.
+
+29
+00:01:34,000 --> 00:01:36,000
+E...
+
+30
+00:01:36,000 --> 00:01:38,000
+Ele vai falar sobre redes.
+
+31
+00:01:38,000 --> 00:01:40,000
+Eu tenho um background bem legal aí de sobre redes.
+
+32
+00:01:40,000 --> 00:01:41,000
+Vai falar depois.
+
+33
+00:01:41,000 --> 00:01:43,000
+A gente vai falar depois também sobre o CIPROX,
+
+34
+00:01:43,000 --> 00:01:45,000
+que é o projeto dele de redes.
+
+35
+00:01:45,000 --> 00:01:47,000
+Mas isso vai ser um assunto no próximo podcast.
+
+36
+00:01:47,000 --> 00:01:49,000
+Só que dessa vez vai ser o próximo podcast mesmo.
+
+37
+00:01:49,000 --> 00:01:51,000
+Mesmo que vem, nós vamos falar sobre o CIPROX.
+
+38
+00:01:51,000 --> 00:01:53,000
+Já tá marcado, já.
+
+39
+00:01:53,000 --> 00:01:54,000
+E o...
+
+40
+00:01:54,000 --> 00:01:56,000
+O que é esse blog sem nome?
+
+41
+00:01:56,000 --> 00:01:58,000
+Ah, esse é um brother aí que eu conheci.
+
+42
+00:01:58,000 --> 00:02:00,000
+Aí ele tem um...
+
+43
+00:02:00,000 --> 00:02:01,000
+um blog dele.
+
+44
+00:02:01,000 --> 00:02:03,000
+Ele é daqui de Goiânia também.
+
+45
+00:02:03,000 --> 00:02:04,000
+O blog sem nome.
+
+46
+00:02:04,000 --> 00:02:07,000
+Porque, na verdade, é um blog pra galera...
+
+47
+00:02:07,000 --> 00:02:08,000
+Não dizer assim...
+
+48
+00:02:08,000 --> 00:02:09,000
+Adolescente, né?
+
+49
+00:02:09,000 --> 00:02:10,000
+Porque...
+
+50
+00:02:10,000 --> 00:02:12,000
+Se considerar adolescente entre...
+
+51
+00:02:12,000 --> 00:02:14,000
+12 e 18, é uma coisa assim, né?
+
+52
+00:02:14,000 --> 00:02:16,000
+É uma lação de Goiânia.
+
+53
+00:02:16,000 --> 00:02:17,000
+Uma lação de Goiânia.
+
+54
+00:02:17,000 --> 00:02:19,000
+Você fala sobre esses assuntos,
+
+55
+00:02:19,000 --> 00:02:20,000
+os teenagers aí.
+
+56
+00:02:20,000 --> 00:02:22,000
+Aí a gente...
+
+57
+00:02:22,000 --> 00:02:24,000
+resolveu falar sobre ele também,
+
+58
+00:02:24,000 --> 00:02:26,000
+porque nosso público querendo ou não,
+
+59
+00:02:26,000 --> 00:02:27,000
+um público mais novo, né?
+
+60
+00:02:27,000 --> 00:02:28,000
+Então...
+
+61
+00:02:28,000 --> 00:02:29,000
+Bota sem nome.
+
+62
+00:02:29,000 --> 00:02:30,000
+Não tem nome de nome.
+
+63
+00:02:30,000 --> 00:02:31,000
+E vai estar o link lá no podcast, tá?
+
+64
+00:02:31,000 --> 00:02:32,000
+Pra esse blog.
+
+65
+00:02:32,000 --> 00:02:33,000
+Sem nome.
+
+66
+00:02:34,000 --> 00:02:35,000
+Você fala sobre...
+
+67
+00:02:35,000 --> 00:02:37,000
+podcast de microfonia e filhos da...
+
+68
+00:02:37,000 --> 00:02:39,000
+Sim, o Filhos da Pauta
+
+69
+00:02:39,000 --> 00:02:41,000
+é um podcast da galera da Unibank.
+
+70
+00:02:41,000 --> 00:02:43,000
+Infelizmente, os caras deram uma...
+
+71
+00:02:43,000 --> 00:02:45,000
+cara de férias, né?
+
+72
+00:02:45,000 --> 00:02:47,000
+E o pessoal tem um tempo sem gravar,
+
+73
+00:02:47,000 --> 00:02:49,000
+mas é um podcast legal pra caramba, lá,
+
+74
+00:02:49,000 --> 00:02:51,000
+sobre assuntos diversos.
+
+75
+00:02:51,000 --> 00:02:52,000
+É um podcast...
+
+76
+00:02:52,000 --> 00:02:53,000
+é do pessoal,
+
+77
+00:02:53,000 --> 00:02:54,000
+se não me engano,
+
+78
+00:02:54,000 --> 00:02:55,000
+eu sou um estudante de...
+
+79
+00:02:55,000 --> 00:02:56,000
+na área de comunicação.
+
+80
+00:02:56,000 --> 00:02:58,000
+É bem interessante o podcast lá.
+
+81
+00:02:58,000 --> 00:03:00,000
+E o outro podcast que eu queria falar aqui
+
+82
+00:03:00,000 --> 00:03:02,000
+é do microfonia, cara.
+
+83
+00:03:02,000 --> 00:03:04,000
+É o podcast que tá me dando um ódio também,
+
+84
+00:03:04,000 --> 00:03:05,000
+grande.
+
+85
+00:03:05,000 --> 00:03:06,000
+É esse gráfico microfone ruim, Goiânia?
+
+86
+00:03:06,000 --> 00:03:07,000
+Não, os cara...
+
+87
+00:03:07,000 --> 00:03:08,000
+os cara é do Cifra Club.
+
+88
+00:03:08,000 --> 00:03:09,000
+Então assim,
+
+89
+00:03:09,000 --> 00:03:11,000
+o som do cara sou perfeito desde o início.
+
+90
+00:03:11,000 --> 00:03:13,000
+Nossa, que foda, hein?
+
+91
+00:03:13,000 --> 00:03:15,000
+Não vai me dizer que você tá com o ódio deles,
+
+92
+00:03:15,000 --> 00:03:17,000
+que eles estão colocando de oiça atriânea.
+
+93
+00:03:17,000 --> 00:03:18,000
+Pior, cara.
+
+94
+00:03:18,000 --> 00:03:19,000
+Eles colocaram simple red,
+
+95
+00:03:19,000 --> 00:03:21,000
+colocaram um monte de coisas.
+
+96
+00:03:21,000 --> 00:03:23,000
+Eu tô tendo que gastar as balas,
+
+97
+00:03:23,000 --> 00:03:24,000
+porque às vezes, por exemplo,
+
+98
+00:03:24,000 --> 00:03:26,000
+o podcast teria o que eu não participei.
+
+99
+00:03:26,000 --> 00:03:27,000
+Algumas músicas...
+
+100
+00:03:27,000 --> 00:03:29,000
+eu deixei pro próximo que eu participei.
+
+101
+00:03:29,000 --> 00:03:31,000
+E assim, os caras, todos eram as músicas
+
+102
+00:03:31,000 --> 00:03:33,000
+que eu acho massa também, cara.
+
+103
+00:03:33,000 --> 00:03:34,000
+Isso não era boa pra caramba dele.
+
+104
+00:03:34,000 --> 00:03:35,000
+Não só assunto aqui.
+
+105
+00:03:35,000 --> 00:03:37,000
+Pra quem é musica, é bom o assunto também, né?
+
+106
+00:03:37,000 --> 00:03:38,000
+Quem gosta de musica, quem é musica,
+
+107
+00:03:38,000 --> 00:03:40,000
+eu recomendo aí o microfonia.
+
+108
+00:03:40,000 --> 00:03:41,000
+Querendo ou não, a gente...
+
+109
+00:03:41,000 --> 00:03:42,000
+Claro que a gente vai colocar,
+
+110
+00:03:42,000 --> 00:03:44,000
+vai, tipo, meio que ligar o fôtes
+
+111
+00:03:44,000 --> 00:03:46,000
+e colocar nas nossas coisas também.
+
+112
+00:03:46,000 --> 00:03:47,000
+A gente só tá querendo deixar claro
+
+113
+00:03:47,000 --> 00:03:48,000
+que não estamos copiando de ninguém,
+
+114
+00:03:48,000 --> 00:03:49,000
+tá fazendo isso, né?
+
+115
+00:03:49,000 --> 00:03:51,000
+São muito mais mesmo.
+
+116
+00:03:51,000 --> 00:03:53,000
+É, o chefe de inspiração também.
+
+117
+00:03:53,000 --> 00:03:54,000
+É.
+
+118
+00:03:54,000 --> 00:03:56,000
+Pra leitura de meios de verdade,
+
+119
+00:03:56,000 --> 00:03:57,000
+a gente recebeu em meio...
+
+120
+00:03:57,000 --> 00:03:59,000
+a gente tá recebendo bastante de meios
+
+121
+00:03:59,000 --> 00:04:01,000
+pessoal reclamando da duração
+
+122
+00:04:01,000 --> 00:04:03,000
+e da qualidade do som.
+
+123
+00:04:03,000 --> 00:04:06,000
+Aí nós temos a resposta para ambas as questões.
+
+124
+00:04:06,000 --> 00:04:08,000
+Qualidade do som, eu vou deixar pro Nelson,
+
+125
+00:04:08,000 --> 00:04:10,000
+que ele sabe ficar melhor se eu parar a fernade,
+
+126
+00:04:10,000 --> 00:04:12,000
+que ele comprou aqui, que eu tô segurando.
+
+127
+00:04:12,000 --> 00:04:13,000
+Eu não sei o que que é direito,
+
+128
+00:04:13,000 --> 00:04:14,000
+só sei que eu tô parecendo falso,
+
+129
+00:04:14,000 --> 00:04:16,000
+tão segurando um microfone aqui, grande.
+
+130
+00:04:16,000 --> 00:04:18,000
+Qual que é o relógio na mão direita também.
+
+131
+00:04:18,000 --> 00:04:19,000
+Explica aí.
+
+132
+00:04:19,000 --> 00:04:20,000
+O louco, meu.
+
+133
+00:04:20,000 --> 00:04:22,000
+Não, a gente comprou um equipamento
+
+134
+00:04:22,000 --> 00:04:24,000
+maneiro aqui pro tribo do CI,
+
+135
+00:04:24,000 --> 00:04:26,000
+a gente tem um microfone sem profissional,
+
+136
+00:04:26,000 --> 00:04:28,000
+mas, tipo...
+
+137
+00:04:28,000 --> 00:04:29,000
+e...
+
+138
+00:04:29,000 --> 00:04:32,000
+a gente tem um pré-amplificador também,
+
+139
+00:04:32,000 --> 00:04:34,000
+que te vai melhorar
+
+140
+00:04:34,000 --> 00:04:36,000
+consideravelmente a qualidade
+
+141
+00:04:36,000 --> 00:04:38,000
+de som do nosso podcast aí.
+
+142
+00:04:38,000 --> 00:04:39,000
+Espero que vocês gostem.
+
+143
+00:04:39,000 --> 00:04:40,000
+A gente é legal.
+
+144
+00:04:40,000 --> 00:04:41,000
+E sobre a duração,
+
+145
+00:04:41,000 --> 00:04:43,000
+eu até conversando com o Joelys,
+
+146
+00:04:43,000 --> 00:04:44,000
+que é o meu brother aí,
+
+147
+00:04:44,000 --> 00:04:46,000
+sobre a duração do podcast,
+
+148
+00:04:46,000 --> 00:04:47,000
+porque você pode pegar.
+
+149
+00:04:47,000 --> 00:04:49,000
+A gente baseia bastante o nosso podcast,
+
+150
+00:04:49,000 --> 00:04:51,000
+no podcast do Nerdcast,
+
+151
+00:04:51,000 --> 00:04:53,000
+também na época que a gente começou,
+
+152
+00:04:53,000 --> 00:04:55,000
+as duas bases era o Nerdcast e o PathTake.
+
+153
+00:04:55,000 --> 00:04:57,000
+E hoje a gente já escuta bastante
+
+154
+00:04:57,000 --> 00:04:58,000
+o Bonacast, tal,
+
+155
+00:04:58,000 --> 00:04:59,000
+falou sobre o Filhos da Pauta Livre,
+
+156
+00:04:59,000 --> 00:05:01,000
+que você baixou e falou sobre o microfone também.
+
+157
+00:05:01,000 --> 00:05:03,000
+Sim, você pode perceber que a característica
+
+158
+00:05:03,000 --> 00:05:04,000
+desses podcasts,
+
+159
+00:05:04,000 --> 00:05:06,000
+no caso, os que a gente pegou de base,
+
+160
+00:05:06,000 --> 00:05:07,000
+são a duração.
+
+161
+00:05:07,000 --> 00:05:08,000
+Geralmente, em torno de uma hora,
+
+162
+00:05:08,000 --> 00:05:09,000
+uma hora e pouco.
+
+163
+00:05:09,000 --> 00:05:10,000
+Por quê?
+
+164
+00:05:10,000 --> 00:05:11,000
+Quando você vai assistir uma palestra,
+
+165
+00:05:11,000 --> 00:05:12,000
+terminar da assunto,
+
+166
+00:05:12,000 --> 00:05:13,000
+uma palestra, a duração dela
+
+167
+00:05:13,000 --> 00:05:14,000
+é de uma hora à aula,
+
+168
+00:05:14,000 --> 00:05:15,000
+que é 50 minutos.
+
+169
+00:05:15,000 --> 00:05:16,000
+Então, sim,
+
+170
+00:05:16,000 --> 00:05:18,000
+pra você falar de um assunto,
+
+171
+00:05:18,000 --> 00:05:20,000
+um certo nível de detalhe,
+
+172
+00:05:20,000 --> 00:05:21,000
+razoável,
+
+173
+00:05:21,000 --> 00:05:22,000
+você precisa de ter um tempo, né?
+
+174
+00:05:22,000 --> 00:05:23,000
+Tem que ter um tempo legal.
+
+175
+00:05:23,000 --> 00:05:25,000
+Eu acho que 50 minutos
+
+176
+00:05:25,000 --> 00:05:26,000
+é um tempo legal,
+
+177
+00:05:26,000 --> 00:05:27,000
+visto que a gente tem que ler
+
+178
+00:05:27,000 --> 00:05:28,000
+sobre os emails,
+
+179
+00:05:28,000 --> 00:05:29,000
+falar sobre o podcast anterior,
+
+180
+00:05:29,000 --> 00:05:30,000
+com feedback que a gente teve,
+
+181
+00:05:30,000 --> 00:05:31,000
+tal.
+
+182
+00:05:31,000 --> 00:05:32,000
+Então, sim, a gente tá reservando
+
+183
+00:05:32,000 --> 00:05:33,000
+cerca de 10 minutos
+
+184
+00:05:33,000 --> 00:05:35,000
+pra essa área de feedback.
+
+185
+00:05:35,000 --> 00:05:37,000
+E uns 40 minutos,
+
+186
+00:05:37,000 --> 00:05:39,000
+um pouco mais sobre o assunto
+
+187
+00:05:39,000 --> 00:05:40,000
+em questão.
+
+188
+00:05:40,000 --> 00:05:41,000
+A gente pede até a ajuda
+
+189
+00:05:41,000 --> 00:05:42,000
+de vocês, assim,
+
+190
+00:05:42,000 --> 00:05:44,000
+porque esse podcast agora
+
+191
+00:05:44,000 --> 00:05:46,000
+a gente também tentou ser breve
+
+192
+00:05:46,000 --> 00:05:47,000
+pra dar uma diminuída no tempo,
+
+193
+00:05:47,000 --> 00:05:48,000
+mas, infelizmente,
+
+194
+00:05:48,000 --> 00:05:50,000
+parece que vai ser bem
+
+195
+00:05:50,000 --> 00:05:51,000
+um pouco maior, né?
+
+196
+00:05:51,000 --> 00:05:52,000
+E, assim,
+
+197
+00:05:52,000 --> 00:05:53,000
+dos assuntos específicos,
+
+198
+00:05:53,000 --> 00:05:55,000
+a gente pede o feedback
+
+199
+00:05:55,000 --> 00:05:56,000
+da galera,
+
+200
+00:05:56,000 --> 00:05:57,000
+pra que daí a gente faz
+
+201
+00:05:57,000 --> 00:05:59,000
+um podcast mais específico
+
+202
+00:05:59,000 --> 00:06:00,000
+de cada assunto.
+
+203
+00:06:00,000 --> 00:06:01,000
+Eu acho que a gente consegue
+
+204
+00:06:01,000 --> 00:06:02,000
+das minhas horas,
+
+205
+00:06:02,000 --> 00:06:03,000
+40 minutos.
+
+206
+00:06:03,000 --> 00:06:04,000
+É, porque igual eu falei
+
+207
+00:06:04,000 --> 00:06:05,000
+no podcast anterior, né?
+
+208
+00:06:05,000 --> 00:06:06,000
+Eu falei, pessoal,
+
+209
+00:06:06,000 --> 00:06:07,000
+mandar feedback,
+
+210
+00:06:07,000 --> 00:06:08,000
+enquanto eles não mandam
+
+211
+00:06:08,000 --> 00:06:09,000
+feedback, a gente vai fazendo
+
+212
+00:06:09,000 --> 00:06:10,000
+a nossa maneira.
+
+213
+00:06:10,000 --> 00:06:11,000
+É igual quando o cara tá na fila
+
+214
+00:06:11,000 --> 00:06:12,000
+do banco, né?
+
+215
+00:06:12,000 --> 00:06:13,000
+O cara vai lá e olha,
+
+216
+00:06:13,000 --> 00:06:14,000
+pura na fila,
+
+217
+00:06:14,000 --> 00:06:15,000
+faz um pouco,
+
+218
+00:06:15,000 --> 00:06:16,000
+porque o cara foi na fila,
+
+219
+00:06:16,000 --> 00:06:17,000
+não sei o que.
+
+220
+00:06:17,000 --> 00:06:18,000
+Fica resmungando,
+
+221
+00:06:18,000 --> 00:06:19,000
+vai lá, chega no cara.
+
+222
+00:06:19,000 --> 00:06:20,000
+O que você já falou?
+
+223
+00:06:20,000 --> 00:06:21,000
+Quer vergonha,
+
+224
+00:06:21,000 --> 00:06:22,000
+vai pro final da fila.
+
+225
+00:06:22,000 --> 00:06:23,000
+Sim, eu tô dando esse exemplo,
+
+226
+00:06:23,000 --> 00:06:24,000
+mas tem vários outros exemplos.
+
+227
+00:06:24,000 --> 00:06:25,000
+Se você chega,
+
+228
+00:06:25,000 --> 00:06:26,000
+o cara tá conversando
+
+229
+00:06:26,000 --> 00:06:27,000
+lá demais,
+
+230
+00:06:27,000 --> 00:06:28,000
+faz um cara conversar
+
+231
+00:06:28,000 --> 00:06:29,000
+lá demais.
+
+232
+00:06:29,000 --> 00:06:30,000
+O que você não chega lá
+
+233
+00:06:30,000 --> 00:06:31,000
+e pede pro cara
+
+234
+00:06:31,000 --> 00:06:32,000
+pra ele conversar mais lá?
+
+235
+00:06:32,000 --> 00:06:33,000
+Do mesmo modo,
+
+236
+00:06:33,000 --> 00:06:34,000
+o cara não chega na gente,
+
+237
+00:06:34,000 --> 00:06:35,000
+manda o endêvio,
+
+238
+00:06:35,000 --> 00:06:36,000
+seja mais civilizado.
+
+239
+00:06:36,000 --> 00:06:37,000
+E vai tá ajudando a gente
+
+240
+00:06:37,000 --> 00:06:39,000
+e os outros ouvintes também.
+
+241
+00:06:39,000 --> 00:06:40,000
+A questão da duração,
+
+242
+00:06:40,000 --> 00:06:42,000
+no e-mail que recebeu da Mácia,
+
+243
+00:06:42,000 --> 00:06:43,000
+que é aquela,
+
+244
+00:06:43,000 --> 00:06:44,000
+gostou do conteúdo,
+
+245
+00:06:44,000 --> 00:06:45,000
+é divertido,
+
+246
+00:06:45,000 --> 00:06:46,000
+mas ela retomou um pouco
+
+247
+00:06:46,000 --> 00:06:47,000
+da duração, né?
+
+248
+00:06:47,000 --> 00:06:48,000
+Esse é o,
+
+249
+00:06:48,000 --> 00:06:49,000
+como você,
+
+250
+00:06:49,000 --> 00:06:50,000
+você mesmo falou
+
+251
+00:06:50,000 --> 00:06:51,000
+no podcast anterior,
+
+252
+00:06:51,000 --> 00:06:52,000
+eu não lembro qual foi,
+
+253
+00:06:52,000 --> 00:06:53,000
+é que é o conceito
+
+254
+00:06:53,000 --> 00:06:54,000
+da nova mídia, né?
+
+255
+00:06:54,000 --> 00:06:55,000
+Então,
+
+256
+00:06:55,000 --> 00:06:56,000
+é um conteúdo
+
+257
+00:06:56,000 --> 00:06:57,000
+passado de uma forma mais leve,
+
+258
+00:06:57,000 --> 00:06:58,000
+não tem aquela seriedade
+
+259
+00:06:58,000 --> 00:06:59,000
+de uma palestra,
+
+260
+00:06:59,000 --> 00:07:00,000
+tanto é que é uma conversa
+
+261
+00:07:00,000 --> 00:07:01,000
+com as pessoas
+
+262
+00:07:01,000 --> 00:07:02,000
+e tem a música de fundo
+
+263
+00:07:02,000 --> 00:07:03,000
+e tá pra descontrair.
+
+264
+00:07:03,000 --> 00:07:04,000
+E não é uma coisa
+
+265
+00:07:04,000 --> 00:07:05,000
+que você tem,
+
+266
+00:07:05,000 --> 00:07:06,000
+ou é uma palestra que você
+
+267
+00:07:06,000 --> 00:07:07,000
+para ali pra assistir.
+
+268
+00:07:07,000 --> 00:07:08,000
+Você pode ouvir o podcast
+
+269
+00:07:08,000 --> 00:07:09,000
+quando você tá na fila do banco,
+
+270
+00:07:09,000 --> 00:07:11,000
+quando você tá dirigindo seu caço,
+
+271
+00:07:11,000 --> 00:07:12,000
+tá fazendo uma viagem,
+
+272
+00:07:12,000 --> 00:07:14,000
+pô, vou ouvir aqui uns podcasts,
+
+273
+00:07:14,000 --> 00:07:16,000
+você seleciona uns cinco,
+
+274
+00:07:16,000 --> 00:07:17,000
+vai viajando, escutando.
+
+275
+00:07:17,000 --> 00:07:18,000
+Sim, sim,
+
+276
+00:07:18,000 --> 00:07:19,000
+você tá na academia,
+
+277
+00:07:19,000 --> 00:07:20,000
+você põe,
+
+278
+00:07:20,000 --> 00:07:21,000
+em vez de você escutar música,
+
+279
+00:07:21,000 --> 00:07:22,000
+você escuta um podcast.
+
+280
+00:07:22,000 --> 00:07:23,000
+Às vezes,
+
+281
+00:07:23,000 --> 00:07:24,000
+quando você exerce
+
+282
+00:07:24,000 --> 00:07:25,000
+alguma atividade
+
+283
+00:07:25,000 --> 00:07:26,000
+e demanda tempo,
+
+284
+00:07:26,000 --> 00:07:27,000
+porém,
+
+285
+00:07:27,000 --> 00:07:28,000
+não existe, por exemplo,
+
+286
+00:07:28,000 --> 00:07:29,000
+da leitura,
+
+287
+00:07:29,000 --> 00:07:30,000
+você pode ouvir,
+
+288
+00:07:30,000 --> 00:07:31,000
+porque,
+
+289
+00:07:31,000 --> 00:07:32,000
+se eu ouvir um podcast,
+
+290
+00:07:32,000 --> 00:07:33,000
+seria que você tá além,
+
+291
+00:07:33,000 --> 00:07:34,000
+eu tô fazendo alguma coisa do tipo,
+
+292
+00:07:34,000 --> 00:07:35,000
+que é geralmente trapada.
+
+293
+00:07:35,000 --> 00:07:36,000
+É, eu trabalho ouvindo podcasts.
+
+294
+00:07:36,000 --> 00:07:37,000
+Fala os podcasts
+
+295
+00:07:37,000 --> 00:07:38,000
+quando eu não tô codificando.
+
+296
+00:07:38,000 --> 00:07:39,000
+E se eu codificar,
+
+297
+00:07:39,000 --> 00:07:40,000
+eu não consigo prestar atenção
+
+298
+00:07:40,000 --> 00:07:41,000
+no podcast, não.
+
+299
+00:07:41,000 --> 00:07:42,000
+Se você não tiver ouvido o podcast,
+
+300
+00:07:42,000 --> 00:07:44,000
+eu não consigo prestar atenção
+
+301
+00:07:44,000 --> 00:07:45,000
+na programação.
+
+302
+00:07:45,000 --> 00:07:46,000
+Nossa!
+
+303
+00:07:46,000 --> 00:07:48,000
+Você é viciado no podcast, mesmo.
+
+304
+00:07:48,000 --> 00:07:49,000
+O nosso email é
+
+305
+00:07:49,000 --> 00:07:51,000
+www.tribudusei.com
+
+306
+00:07:51,000 --> 00:07:53,000
+e www.podcastarobudusei.net
+
+307
+00:07:53,000 --> 00:07:54,000
+O cliente,
+
+308
+00:07:54,000 --> 00:07:55,000
+você pode mandar
+
+309
+00:07:55,000 --> 00:07:56,000
+email pros dois,
+
+310
+00:07:56,000 --> 00:07:57,000
+a gente olha os dois,
+
+311
+00:07:57,000 --> 00:07:58,000
+mas o do Gmail
+
+312
+00:07:58,000 --> 00:08:00,000
+é pra você enviar
+
+313
+00:08:00,000 --> 00:08:01,000
+aquelas emails por voz,
+
+314
+00:08:01,000 --> 00:08:02,000
+aquelas coisas tudo lá,
+
+315
+00:08:02,000 --> 00:08:03,000
+que, se você usar o serviço
+
+316
+00:08:03,000 --> 00:08:04,000
+do Google,
+
+317
+00:08:04,000 --> 00:08:05,000
+fica mais fácil.
+
+318
+00:08:05,000 --> 00:08:06,000
+Também, tem o grupo do Google,
+
+319
+00:08:06,000 --> 00:08:07,000
+aquelas coisas tudo lá.
+
+320
+00:08:07,000 --> 00:08:08,000
+Essas coisas do Gmail,
+
+321
+00:08:08,000 --> 00:08:09,000
+sabe o que é?
+
+322
+00:08:09,000 --> 00:08:10,000
+Então, galera,
+
+323
+00:08:10,000 --> 00:08:11,000
+manda seus feedbacks
+
+324
+00:08:11,000 --> 00:08:12,000
+dos assuntos que
+
+325
+00:08:12,000 --> 00:08:13,000
+vocês são mais interessados,
+
+326
+00:08:13,000 --> 00:08:14,000
+né?
+
+327
+00:08:14,000 --> 00:08:15,000
+Só reforçam.
+
+328
+00:08:15,000 --> 00:08:16,000
+É, porque a gente gravar
+
+329
+00:08:16,000 --> 00:08:17,000
+podcast mais específico,
+
+330
+00:08:17,000 --> 00:08:18,000
+podcast aí,
+
+331
+00:08:18,000 --> 00:08:19,000
+com a participação
+
+332
+00:08:19,000 --> 00:08:20,000
+da nossa amigão.
+
+333
+00:08:20,000 --> 00:08:21,000
+Conheci ele hoje,
+
+334
+00:08:21,000 --> 00:08:22,000
+mas é amigão,
+
+335
+00:08:22,000 --> 00:08:23,000
+um Marcelo.
+
+336
+00:08:23,000 --> 00:08:24,000
+Reuri.
+
+337
+00:08:24,000 --> 00:08:25,000
+Pois é, Marcelo Reuri.
+
+338
+00:08:25,000 --> 00:08:26,000
+Então, chama aí.
+
+339
+00:08:26,000 --> 00:08:27,000
+Vamos para a segunda parte.
+
+340
+00:08:27,000 --> 00:08:28,000
+Então, a segunda parte,
+
+341
+00:08:28,000 --> 00:08:29,000
+foda-me.
+
+342
+00:08:29,000 --> 00:08:30,000
+Foda-me.
+
+343
+00:08:30,000 --> 00:08:31,000
+Foda-me.
+
+344
+00:08:31,000 --> 00:08:32,000
+Foda-me.
+
+345
+00:08:37,000 --> 00:08:38,000
+Então, passando o Marcelo
+
+346
+00:08:38,000 --> 00:08:39,000
+Feoria,
+
+347
+00:08:39,000 --> 00:08:40,000
+foi quando a gente foi para o FIS,
+
+348
+00:08:40,000 --> 00:08:41,000
+né?
+
+349
+00:08:41,000 --> 00:08:42,000
+Encontrei com ele lá.
+
+350
+00:08:42,000 --> 00:08:43,000
+Daí, eu vou assistir a palestra
+
+351
+00:08:43,000 --> 00:08:44,000
+dele sobre o CIPROJ,
+
+352
+00:08:44,000 --> 00:08:45,000
+que a gente vai falar no outro
+
+353
+00:08:45,000 --> 00:08:46,000
+podcast no mês que vem.
+
+354
+00:08:46,000 --> 00:08:47,000
+E daí,
+
+355
+00:08:47,000 --> 00:08:48,000
+como a gente estava programado
+
+356
+00:08:48,000 --> 00:08:49,000
+para falar sobre redes
+
+357
+00:08:49,000 --> 00:08:50,000
+esse mês,
+
+358
+00:08:50,000 --> 00:08:51,000
+eu convidei ele como o
+
+359
+00:08:51,000 --> 00:08:52,000
+projeto dele
+
+360
+00:08:52,000 --> 00:08:53,000
+sobre redes,
+
+361
+00:08:53,000 --> 00:08:54,000
+também.
+
+362
+00:08:54,000 --> 00:08:55,000
+Então, para ele participar
+
+363
+00:08:55,000 --> 00:08:56,000
+desse podcast de redes
+
+364
+00:08:56,000 --> 00:08:57,000
+e pegar um adeixo
+
+365
+00:08:57,000 --> 00:08:58,000
+de falar sobre o projeto
+
+366
+00:08:58,000 --> 00:08:59,000
+dele também,
+
+367
+00:08:59,000 --> 00:09:00,000
+que é uma forma de enriquecer
+
+368
+00:09:00,000 --> 00:09:01,000
+o nosso podcast
+
+369
+00:09:01,000 --> 00:09:02,000
+e de publicar o projeto dele
+
+370
+00:09:02,000 --> 00:09:03,000
+também.
+
+371
+00:09:03,000 --> 00:09:04,000
+E vocês não vão saber agora
+
+372
+00:09:04,000 --> 00:09:05,000
+nesse podcast
+
+373
+00:09:05,000 --> 00:09:06,000
+sobre o projeto dele.
+
+374
+00:09:06,000 --> 00:09:07,000
+Vocês vão ter que esperar
+
+375
+00:09:07,000 --> 00:09:08,000
+até o mês que vem
+
+376
+00:09:08,000 --> 00:09:09,000
+para saber.
+
+377
+00:09:09,000 --> 00:09:10,000
+Mas ele vai ajudar bastante
+
+378
+00:09:10,000 --> 00:09:11,000
+no conteúdo
+
+379
+00:09:11,000 --> 00:09:12,000
+desse podcast
+
+380
+00:09:12,000 --> 00:09:13,000
+sobre redes.
+
+381
+00:09:22,000 --> 00:09:23,000
+Assim,
+
+382
+00:09:23,000 --> 00:09:24,000
+qual que é o background
+
+383
+00:09:24,000 --> 00:09:25,000
+de cada um, assim,
+
+384
+00:09:25,000 --> 00:09:26,000
+com relação a redes?
+
+385
+00:09:26,000 --> 00:09:27,000
+Sim.
+
+386
+00:09:27,000 --> 00:09:28,000
+Sem esquecer
+
+387
+00:09:28,000 --> 00:09:29,000
+que o Marcelo
+
+388
+00:09:29,000 --> 00:09:30,000
+é mais uma vez
+
+389
+00:09:30,000 --> 00:09:31,000
+o nosso convidado
+
+390
+00:09:31,000 --> 00:09:32,000
+VIP
+
+391
+00:09:32,000 --> 00:09:33,000
+no podcast.
+
+392
+00:09:36,000 --> 00:09:37,000
+Vamos agora
+
+393
+00:09:37,000 --> 00:09:38,000
+fazer aquela pergunta
+
+394
+00:09:38,000 --> 00:09:39,000
+que a gente fez um a outro
+
+395
+00:09:39,000 --> 00:09:40,000
+no podcast
+
+396
+00:09:40,000 --> 00:09:41,000
+1,
+
+397
+00:09:41,000 --> 00:09:42,000
+que é
+
+398
+00:09:42,000 --> 00:09:43,000
+como foi sua iniciação
+
+399
+00:09:43,000 --> 00:09:44,000
+no mundo
+
+400
+00:09:44,000 --> 00:09:45,000
+da computação
+
+401
+00:09:45,000 --> 00:09:46,000
+e
+
+402
+00:09:46,000 --> 00:09:47,000
+já aproveitando
+
+403
+00:09:47,000 --> 00:09:48,000
+para você falar
+
+404
+00:09:48,000 --> 00:09:49,000
+sobre o seu background
+
+405
+00:09:49,000 --> 00:09:50,000
+de redes também.
+
+406
+00:09:50,000 --> 00:09:51,000
+Desde muito pequeno,
+
+407
+00:09:51,000 --> 00:09:52,000
+eu já tenho contato
+
+408
+00:09:52,000 --> 00:09:53,000
+com o computador,
+
+409
+00:09:53,000 --> 00:09:54,000
+e nisso comecei
+
+410
+00:09:54,000 --> 00:09:55,000
+a mexer
+
+411
+00:09:55,000 --> 00:09:56,000
+com
+
+412
+00:09:56,000 --> 00:09:57,000
+jogar,
+
+413
+00:09:57,000 --> 00:09:58,000
+né,
+
+414
+00:09:58,000 --> 00:09:59,000
+marcar o combate,
+
+415
+00:09:59,000 --> 00:10:00,000
+no DOS,
+
+416
+00:10:00,000 --> 00:10:01,000
+com o Prince of Persia
+
+417
+00:10:01,000 --> 00:10:02,000
+e tudo aí vai.
+
+418
+00:10:02,000 --> 00:10:03,000
+A questão é
+
+419
+00:10:03,000 --> 00:10:04,000
+é
+
+420
+00:10:04,000 --> 00:10:05,000
+noventa e eu comecei
+
+421
+00:10:05,000 --> 00:10:06,000
+a programar um pouquinho
+
+422
+00:10:06,000 --> 00:10:07,000
+dela,
+
+423
+00:10:07,000 --> 00:10:08,000
+um pouquinho em aspo,
+
+424
+00:10:08,000 --> 00:10:09,000
+porque meu pai
+
+425
+00:10:09,000 --> 00:10:10,000
+é desenvolvedor
+
+426
+00:10:10,000 --> 00:10:11,000
+nessas linguagens
+
+427
+00:10:11,000 --> 00:10:13,000
+e eu achava legal.
+
+428
+00:10:13,000 --> 00:10:14,000
+E aí, em 2000,
+
+429
+00:10:14,000 --> 00:10:15,000
+eu comecei a trabalhar
+
+430
+00:10:15,000 --> 00:10:16,000
+como
+
+431
+00:10:16,000 --> 00:10:17,000
+como administrador
+
+432
+00:10:17,000 --> 00:10:18,000
+de redes Linux
+
+433
+00:10:18,000 --> 00:10:19,000
+e
+
+434
+00:10:19,000 --> 00:10:20,000
+trabalhei quatro anos
+
+435
+00:10:20,000 --> 00:10:21,000
+com meu pai,
+
+436
+00:10:21,000 --> 00:10:22,000
+depois trabalhei
+
+437
+00:10:22,000 --> 00:10:23,000
+em um provedor,
+
+438
+00:10:23,000 --> 00:10:24,000
+de redes,
+
+439
+00:10:24,000 --> 00:10:25,000
+pressava consultoria,
+
+440
+00:10:26,000 --> 00:10:27,000
+e em 2006
+
+441
+00:10:27,000 --> 00:10:28,000
+eu comecei a trabalhar
+
+442
+00:10:28,000 --> 00:10:29,000
+no nada de desenvolvimento
+
+443
+00:10:29,000 --> 00:10:31,000
+em Java e PHP.
+
+444
+00:10:31,000 --> 00:10:32,000
+E aí, agora,
+
+445
+00:10:32,000 --> 00:10:33,000
+esse ano,
+
+446
+00:10:33,000 --> 00:10:34,000
+eu retomei
+
+447
+00:10:34,000 --> 00:10:35,000
+a parte de
+
+448
+00:10:35,000 --> 00:10:36,000
+consultoria
+
+449
+00:10:36,000 --> 00:10:37,000
+em redes,
+
+450
+00:10:37,000 --> 00:10:38,000
+segurança
+
+451
+00:10:38,000 --> 00:10:39,000
+pela empresa.
+
+452
+00:10:39,000 --> 00:10:40,000
+É sinal.
+
+453
+00:10:40,000 --> 00:10:41,000
+Cara, é foda, né?
+
+454
+00:10:41,000 --> 00:10:42,000
+Você vai ficar certo.
+
+455
+00:10:42,000 --> 00:10:43,000
+Às vezes,
+
+456
+00:10:43,000 --> 00:10:44,000
+eu queria te convidar,
+
+457
+00:10:44,000 --> 00:10:45,000
+o cara,
+
+458
+00:10:45,000 --> 00:10:46,000
+você acha que o tribo de C
+
+459
+00:10:46,000 --> 00:10:47,000
+já é
+
+460
+00:10:49,000 --> 00:10:50,000
+aquela coisa, né?
+
+461
+00:10:51,000 --> 00:10:52,000
+Não, cara.
+
+462
+00:10:54,000 --> 00:10:55,000
+Primeiro, eu pergunto,
+
+463
+00:10:55,000 --> 00:10:56,000
+você programou em C?
+
+464
+00:10:56,000 --> 00:10:57,000
+Cara, é só por diversão.
+
+465
+00:10:57,000 --> 00:10:58,000
+Mas programa, né?
+
+466
+00:10:58,000 --> 00:10:59,000
+Programa, mas...
+
+467
+00:10:59,000 --> 00:11:00,000
+Então, pode continuar
+
+468
+00:11:00,000 --> 00:11:01,000
+gravar o podcast?
+
+469
+00:11:03,000 --> 00:11:04,000
+Tá, tem sim caixa
+
+470
+00:11:04,000 --> 00:11:05,000
+nos caras que a gente considera, né?
+
+471
+00:11:05,000 --> 00:11:06,000
+É.
+
+472
+00:11:06,000 --> 00:11:07,000
+O que a gente só considera
+
+473
+00:11:07,000 --> 00:11:08,000
+é quem programa em C.
+
+474
+00:11:08,000 --> 00:11:09,000
+Se você não programar em C,
+
+475
+00:11:09,000 --> 00:11:10,000
+já pode desligar,
+
+476
+00:11:10,000 --> 00:11:11,000
+pode ir embora.
+
+477
+00:11:11,000 --> 00:11:12,000
+Omente, né?
+
+478
+00:11:12,000 --> 00:11:13,000
+A gente acredita.
+
+479
+00:11:13,000 --> 00:11:14,000
+Como eu já falei,
+
+480
+00:11:14,000 --> 00:11:15,000
+até no episódio 1,
+
+481
+00:11:15,000 --> 00:11:16,000
+mas preciso ouvir não.
+
+482
+00:11:17,000 --> 00:11:18,000
+Eu formei
+
+483
+00:11:18,000 --> 00:11:19,000
+em redes
+
+484
+00:11:19,000 --> 00:11:21,000
+no custo técnico de redes,
+
+485
+00:11:21,000 --> 00:11:22,000
+com êfase...
+
+486
+00:11:22,000 --> 00:11:24,000
+no custo técnico de informática,
+
+487
+00:11:24,000 --> 00:11:25,000
+com êfase em rede,
+
+488
+00:11:25,000 --> 00:11:26,000
+comunicação.
+
+489
+00:11:27,000 --> 00:11:28,000
+E eu trabalhei,
+
+490
+00:11:28,000 --> 00:11:29,000
+na época,
+
+491
+00:11:29,000 --> 00:11:31,000
+na Universidade Federal
+
+492
+00:11:31,000 --> 00:11:32,000
+do Tolkien Kings,
+
+493
+00:11:33,000 --> 00:11:34,000
+como administrador...
+
+494
+00:11:34,000 --> 00:11:35,000
+Na verdade,
+
+495
+00:11:35,000 --> 00:11:36,000
+eu era encarregador de informática,
+
+496
+00:11:36,000 --> 00:11:37,000
+né?
+
+497
+00:11:37,000 --> 00:11:38,000
+Acabei trabalhando muito
+
+498
+00:11:38,000 --> 00:11:39,000
+com a administração de redes
+
+499
+00:11:39,000 --> 00:11:41,000
+e as paradas, assim.
+
+500
+00:11:41,000 --> 00:11:43,000
+Foi quando eu tive o maior contato
+
+501
+00:11:43,000 --> 00:11:44,000
+com o Lênus
+
+502
+00:11:44,000 --> 00:11:46,000
+e a administração de redes.
+
+503
+00:11:46,000 --> 00:11:47,000
+Eu vi um contador
+
+504
+00:11:47,000 --> 00:11:48,000
+na minha vida,
+
+505
+00:11:48,000 --> 00:11:49,000
+mais ou menos,
+
+506
+00:11:49,000 --> 00:11:50,000
+quando eu tinha 6 anos de idade,
+
+507
+00:11:50,000 --> 00:11:51,000
+na final, você já sabe,
+
+508
+00:11:51,000 --> 00:11:52,000
+não quer, né?
+
+509
+00:11:52,000 --> 00:11:53,000
+E minha formação
+
+510
+00:11:53,000 --> 00:11:54,000
+é só
+
+511
+00:11:54,000 --> 00:11:55,000
+que eu tenho
+
+512
+00:11:55,000 --> 00:11:57,000
+preparado da faculdade mesmo.
+
+513
+00:11:57,000 --> 00:11:58,000
+E...
+
+514
+00:11:58,000 --> 00:12:00,000
+eu entendo de redes
+
+515
+00:12:00,000 --> 00:12:01,000
+usando o jeito que vocês entendem
+
+516
+00:12:01,000 --> 00:12:03,000
+de mecânicas desfacionáveis.
+
+517
+00:12:03,000 --> 00:12:04,000
+Então,
+
+518
+00:12:04,000 --> 00:12:05,000
+acho que
+
+519
+00:12:05,000 --> 00:12:06,000
+já dá pra...
+
+520
+00:12:06,000 --> 00:12:07,000
+se tem uma noção
+
+521
+00:12:07,000 --> 00:12:08,000
+do meu conhecimento de redes.
+
+522
+00:12:09,000 --> 00:12:10,000
+Até pra acertar um IP,
+
+523
+00:12:10,000 --> 00:12:11,000
+às vezes,
+
+524
+00:12:11,000 --> 00:12:12,000
+eu tenho dificuldade,
+
+525
+00:12:12,000 --> 00:12:13,000
+não mentira.
+
+526
+00:12:13,000 --> 00:12:14,000
+Cara,
+
+527
+00:12:14,000 --> 00:12:15,000
+eu sempre tenho que consultar
+
+528
+00:12:15,000 --> 00:12:16,000
+o homem
+
+529
+00:12:16,000 --> 00:12:17,000
+e eu vou fazer aí,
+
+530
+00:12:17,000 --> 00:12:18,000
+ficou fico.
+
+531
+00:12:19,000 --> 00:12:20,000
+Cara,
+
+532
+00:12:20,000 --> 00:12:21,000
+eu podia ser monitorador
+
+533
+00:12:21,000 --> 00:12:22,000
+do...
+
+534
+00:12:22,000 --> 00:12:23,000
+do clio, né?
+
+535
+00:12:26,000 --> 00:12:27,000
+A ver,
+
+536
+00:12:27,000 --> 00:12:28,000
+pra que um mando do clio.
+
+537
+00:12:28,000 --> 00:12:29,000
+Eu sabia como é que funciona,
+
+538
+00:12:29,000 --> 00:12:30,000
+e retinha e tal.
+
+539
+00:12:30,000 --> 00:12:31,000
+Quais as opções
+
+540
+00:12:31,000 --> 00:12:32,000
+que eu digito no clio.
+
+541
+00:12:32,000 --> 00:12:33,000
+Então,
+
+542
+00:12:33,000 --> 00:12:34,000
+eu volto no podcast.
+
+543
+00:12:37,000 --> 00:12:38,000
+Finalmente,
+
+544
+00:12:38,000 --> 00:12:39,000
+no podcast.
+
+545
+00:12:39,000 --> 00:12:40,000
+Na verdade,
+
+546
+00:12:40,000 --> 00:12:41,000
+esse podcast
+
+547
+00:12:41,000 --> 00:12:42,000
+não seria nem
+
+548
+00:12:42,000 --> 00:12:43,000
+de rede de computadores,
+
+549
+00:12:43,000 --> 00:12:44,000
+seria mais
+
+550
+00:12:44,000 --> 00:12:45,000
+na parte de segurança de redes.
+
+551
+00:12:45,000 --> 00:12:46,000
+Aqui é uma rede de computadores.
+
+552
+00:12:46,000 --> 00:12:47,000
+Leoria,
+
+553
+00:12:47,000 --> 00:12:48,000
+pode falar isso
+
+554
+00:12:48,000 --> 00:12:49,000
+melhor pra gente.
+
+555
+00:12:57,000 --> 00:12:58,000
+Contei essa história
+
+556
+00:12:58,000 --> 00:12:59,000
+com 5 minutos.
+
+557
+00:12:59,000 --> 00:13:00,000
+É com vocês que eu...
+
+558
+00:13:00,000 --> 00:13:01,000
+Contei essa história
+
+559
+00:13:01,000 --> 00:13:02,000
+com não ser historiador,
+
+560
+00:13:02,000 --> 00:13:03,000
+não, mano.
+
+561
+00:13:03,000 --> 00:13:04,000
+Contei essa história
+
+562
+00:13:04,000 --> 00:13:05,000
+com 5 minutos.
+
+563
+00:13:05,000 --> 00:13:06,000
+Tempo!
+
+564
+00:13:06,000 --> 00:13:07,000
+Então,
+
+565
+00:13:07,000 --> 00:13:08,000
+como eu sou lá com a Arplanete,
+
+566
+00:13:08,000 --> 00:13:09,000
+e tal,
+
+567
+00:13:09,000 --> 00:13:10,000
+mas enfim,
+
+568
+00:13:10,000 --> 00:13:11,000
+rede de computadores
+
+569
+00:13:11,000 --> 00:13:12,000
+é o que...
+
+570
+00:13:12,000 --> 00:13:13,000
+é fazer um computador
+
+571
+00:13:13,000 --> 00:13:14,000
+se comunique
+
+572
+00:13:14,000 --> 00:13:15,000
+com o outro, não é?
+
+573
+00:13:15,000 --> 00:13:16,000
+E é isso.
+
+574
+00:13:16,000 --> 00:13:18,000
+Tem várias maneiras de fazer isso.
+
+575
+00:13:18,000 --> 00:13:19,000
+Tem vários protocolos,
+
+576
+00:13:19,000 --> 00:13:21,000
+vários RFCs,
+
+577
+00:13:21,000 --> 00:13:23,000
+que são os padrões
+
+578
+00:13:23,000 --> 00:13:24,000
+dos protocolos
+
+579
+00:13:24,000 --> 00:13:26,000
+que descrevem os protocolos,
+
+580
+00:13:26,000 --> 00:13:28,000
+e...
+
+581
+00:13:28,000 --> 00:13:29,000
+e vários serviços
+
+582
+00:13:29,000 --> 00:13:31,000
+que implementam os protocolos.
+
+583
+00:13:31,000 --> 00:13:33,000
+E no final das contas,
+
+584
+00:13:33,000 --> 00:13:34,000
+são vários protocolos,
+
+585
+00:13:34,000 --> 00:13:35,000
+vários serviços,
+
+586
+00:13:35,000 --> 00:13:36,000
+vários computadores
+
+587
+00:13:36,000 --> 00:13:37,000
+que conversam entre si.
+
+588
+00:13:37,000 --> 00:13:38,000
+Ah, agradeço.
+
+589
+00:13:39,000 --> 00:13:40,000
+De redes,
+
+590
+00:13:40,000 --> 00:13:41,000
+até que
+
+591
+00:13:41,000 --> 00:13:42,000
+não entendo muito sim,
+
+592
+00:13:42,000 --> 00:13:43,000
+mas a história da internet,
+
+593
+00:13:43,000 --> 00:13:44,000
+eu...
+
+594
+00:13:44,000 --> 00:13:46,000
+eu sei bastante, sim,
+
+595
+00:13:46,000 --> 00:13:48,000
+um nível legal,
+
+596
+00:13:48,000 --> 00:13:49,000
+mas...
+
+597
+00:13:49,000 --> 00:13:50,000
+é...
+
+598
+00:13:50,000 --> 00:13:51,000
+eu queria saber assim,
+
+599
+00:13:51,000 --> 00:13:52,000
+pela...
+
+600
+00:13:52,000 --> 00:13:53,000
+a história da internet,
+
+601
+00:13:53,000 --> 00:13:55,000
+a internet é a rede, né?
+
+602
+00:13:55,000 --> 00:13:56,000
+E...
+
+603
+00:13:56,000 --> 00:13:57,000
+a história da internet
+
+604
+00:13:57,000 --> 00:13:58,000
+é a história
+
+605
+00:13:58,000 --> 00:14:00,000
+da rede de computadores,
+
+606
+00:14:00,000 --> 00:14:01,000
+porque assim,
+
+607
+00:14:01,000 --> 00:14:02,000
+você vê lá o cara que
+
+608
+00:14:02,000 --> 00:14:04,000
+ela foi surgindo na guerra e tal,
+
+609
+00:14:04,000 --> 00:14:05,000
+foi usada...
+
+610
+00:14:05,000 --> 00:14:06,000
+começou a ser usada
+
+611
+00:14:06,000 --> 00:14:07,000
+nas universidades,
+
+612
+00:14:07,000 --> 00:14:08,000
+depois passou
+
+613
+00:14:08,000 --> 00:14:10,000
+para o mundo comercial e tal.
+
+614
+00:14:10,000 --> 00:14:12,000
+E a rede de computadores já surgiu
+
+615
+00:14:12,000 --> 00:14:13,000
+desse mesmo...
+
+616
+00:14:13,000 --> 00:14:15,000
+foi com essa mesma linha de tempo,
+
+617
+00:14:15,000 --> 00:14:16,000
+ou tem alguma história aí
+
+618
+00:14:16,000 --> 00:14:17,000
+que...
+
+619
+00:14:17,000 --> 00:14:18,000
+que tá à parte da internet?
+
+620
+00:14:18,000 --> 00:14:19,000
+Eu acho que tem um...
+
+621
+00:14:19,000 --> 00:14:20,000
+um período anterior
+
+622
+00:14:20,000 --> 00:14:21,000
+bem...
+
+623
+00:14:21,000 --> 00:14:22,000
+interessante.
+
+624
+00:14:22,000 --> 00:14:23,000
+Eu acho que,
+
+625
+00:14:23,000 --> 00:14:25,000
+é... quando a gente vai estudar redes,
+
+626
+00:14:25,000 --> 00:14:26,000
+a primeira coisa que a gente tuda
+
+627
+00:14:26,000 --> 00:14:28,000
+são as topologias de redes.
+
+628
+00:14:28,000 --> 00:14:29,000
+Saca que topologias de redes.
+
+629
+00:14:29,000 --> 00:14:32,000
+É, só voltando um pouquinho a...
+
+630
+00:14:32,000 --> 00:14:33,000
+a história, né?
+
+631
+00:14:33,000 --> 00:14:34,000
+Uma...
+
+632
+00:14:34,000 --> 00:14:36,000
+uma parte underground que teve,
+
+633
+00:14:36,000 --> 00:14:37,000
+foram as BBS.
+
+634
+00:14:37,000 --> 00:14:38,000
+Infelizmente,
+
+635
+00:14:38,000 --> 00:14:39,000
+eu não vivi isso
+
+636
+00:14:39,000 --> 00:14:40,000
+para ter a minha BBS,
+
+637
+00:14:40,000 --> 00:14:41,000
+para as pessoas conectarem.
+
+638
+00:14:41,000 --> 00:14:42,000
+E eu compartilhar
+
+639
+00:14:42,000 --> 00:14:44,000
+com a informação, né?
+
+640
+00:14:44,000 --> 00:14:45,000
+Mas,
+
+641
+00:14:45,000 --> 00:14:47,000
+é uma história que a galera mais antiga
+
+642
+00:14:47,000 --> 00:14:48,000
+comenta muito
+
+643
+00:14:48,000 --> 00:14:50,000
+e fala que era muito divertido e tudo mais.
+
+644
+00:14:50,000 --> 00:14:51,000
+É, com relação...
+
+645
+00:14:51,000 --> 00:14:52,000
+as topologias de redes
+
+646
+00:14:52,000 --> 00:14:54,000
+vai muito de acordo
+
+647
+00:14:54,000 --> 00:14:56,000
+com a necessidade da empresa,
+
+648
+00:14:56,000 --> 00:14:58,000
+com a necessidade sua, né?
+
+649
+00:14:58,000 --> 00:14:59,000
+Então, tem topologia estreia,
+
+650
+00:14:59,000 --> 00:15:00,000
+lá, né?
+
+651
+00:15:00,000 --> 00:15:01,000
+O barra.
+
+652
+00:15:01,000 --> 00:15:02,000
+Então,
+
+653
+00:15:02,000 --> 00:15:04,000
+a questão é você conseguir posicionar
+
+654
+00:15:04,000 --> 00:15:06,000
+os roteadores, o suite,
+
+655
+00:15:06,000 --> 00:15:07,000
+os firewalls, né?
+
+656
+00:15:07,000 --> 00:15:09,000
+De acordo com a sua necessidade.
+
+657
+00:15:09,000 --> 00:15:11,000
+De acordo com a sua demanda.
+
+658
+00:15:11,000 --> 00:15:13,000
+Para entender o seu negócio.
+
+659
+00:15:13,000 --> 00:15:14,000
+É, sim, para entender melhor.
+
+660
+00:15:14,000 --> 00:15:16,000
+Eu estou aqui com o meu computador.
+
+661
+00:15:16,000 --> 00:15:17,000
+Por exemplo,
+
+662
+00:15:17,000 --> 00:15:18,000
+a rede em si,
+
+663
+00:15:18,000 --> 00:15:20,000
+ela seria a comunicação, né?
+
+664
+00:15:20,000 --> 00:15:22,000
+O princípio básico da rede.
+
+665
+00:15:22,000 --> 00:15:23,000
+E se eu tomo um...
+
+666
+00:15:23,000 --> 00:15:25,000
+independente de qual seja o cliente
+
+667
+00:15:25,000 --> 00:15:27,000
+e qual seja o protocolo de comunicação.
+
+668
+00:15:27,000 --> 00:15:28,000
+Se eu tomo um...
+
+669
+00:15:28,000 --> 00:15:29,000
+um dashboard,
+
+670
+00:15:29,000 --> 00:15:31,000
+um serviço de mensagem instantâneo.
+
+671
+00:15:31,000 --> 00:15:32,000
+Quais são as etapas?
+
+672
+00:15:32,000 --> 00:15:33,000
+Por onde faz?
+
+673
+00:15:33,000 --> 00:15:35,000
+Eu estou falando isso porque...
+
+674
+00:15:35,000 --> 00:15:36,000
+não sei se vocês já assistiram,
+
+675
+00:15:36,000 --> 00:15:38,000
+eu tenho aquele vídeozinho lá do guerreiro
+
+676
+00:15:38,000 --> 00:15:39,000
+da internet.
+
+677
+00:15:39,000 --> 00:15:40,000
+Vocês já viram
+
+678
+00:15:40,000 --> 00:15:42,000
+que eles mostram os protocolos,
+
+679
+00:15:42,000 --> 00:15:43,000
+os pacotes e tal.
+
+680
+00:15:43,000 --> 00:15:45,000
+Todo o decorrer da informação
+
+681
+00:15:45,000 --> 00:15:47,000
+ao longo da internet.
+
+682
+00:15:47,000 --> 00:15:48,000
+Então,
+
+683
+00:15:48,000 --> 00:15:50,000
+vai estar no link do post também,
+
+684
+00:15:50,000 --> 00:15:51,000
+se eu conseguir achar no YouTube.
+
+685
+00:15:51,000 --> 00:15:53,000
+A partir do momento que eu clico aqui,
+
+686
+00:15:53,000 --> 00:15:54,000
+o enter,
+
+687
+00:15:54,000 --> 00:15:56,000
+que o meu texto vai sair daqui
+
+688
+00:15:56,000 --> 00:15:58,000
+da minha área de texto,
+
+689
+00:15:58,000 --> 00:15:59,000
+vai ir para outra pessoa.
+
+690
+00:15:59,000 --> 00:16:00,000
+Quais são as...
+
+691
+00:16:00,000 --> 00:16:01,000
+por onde que ele passa?
+
+692
+00:16:01,000 --> 00:16:02,000
+Quais são os aparelhos?
+
+693
+00:16:02,000 --> 00:16:04,000
+Quais são os serviços?
+
+694
+00:16:04,000 --> 00:16:05,000
+Então esse trajetório
+
+695
+00:16:05,000 --> 00:16:06,000
+para sair do meu computador
+
+696
+00:16:06,000 --> 00:16:08,000
+e chegar no computador da outra pessoa,
+
+697
+00:16:08,000 --> 00:16:10,000
+lá do outro lado do mundo, sei lá.
+
+698
+00:16:10,000 --> 00:16:12,000
+É, no caso,
+
+699
+00:16:12,000 --> 00:16:14,000
+para comunicar com outra pessoa,
+
+700
+00:16:14,000 --> 00:16:16,000
+você vai estar comunicando utilizando um serviço.
+
+701
+00:16:16,000 --> 00:16:18,000
+Você vai estar usando um cliente,
+
+702
+00:16:18,000 --> 00:16:21,000
+que implementa um protocolo.
+
+703
+00:16:21,000 --> 00:16:23,000
+E essa outra pessoa,
+
+704
+00:16:23,000 --> 00:16:24,000
+ela vai estar acessando
+
+705
+00:16:24,000 --> 00:16:26,000
+o mesmo serviço que você,
+
+706
+00:16:26,000 --> 00:16:28,000
+mas pode usar um outro cliente,
+
+707
+00:16:28,000 --> 00:16:30,000
+por exemplo, o MSN.
+
+708
+00:16:30,000 --> 00:16:31,000
+Apesar de ser um protocolo propietário,
+
+709
+00:16:31,000 --> 00:16:32,000
+tem vários clientes.
+
+710
+00:16:32,000 --> 00:16:34,000
+Então, a pessoa pode estar no MIBO,
+
+711
+00:16:34,000 --> 00:16:36,000
+no próprio cliente da Microsoft,
+
+712
+00:16:36,000 --> 00:16:39,000
+Pigeon, Gaim, etc.
+
+713
+00:16:39,000 --> 00:16:40,000
+Mas isso funciona por quê?
+
+714
+00:16:40,000 --> 00:16:42,000
+Porque existe o protocolo.
+
+715
+00:16:42,000 --> 00:16:44,000
+E aí, esses caras implementam o protocolo.
+
+716
+00:16:44,000 --> 00:16:46,000
+Então, basicamente,
+
+717
+00:16:46,000 --> 00:16:48,000
+toda essa conversação
+
+718
+00:16:48,000 --> 00:16:50,000
+se dá certo por causa desse padrão,
+
+719
+00:16:50,000 --> 00:16:52,000
+por causa desse protocolo.
+
+720
+00:16:52,000 --> 00:16:53,000
+E nesse caso,
+
+721
+00:16:53,000 --> 00:16:54,000
+do instant message,
+
+722
+00:16:54,000 --> 00:16:56,000
+é um protocolo em cima de um protocolo.
+
+723
+00:16:56,000 --> 00:16:58,000
+Por exemplo, o protocolo de rede
+
+724
+00:16:58,000 --> 00:17:01,000
+seria o TCP e P
+
+725
+00:17:01,000 --> 00:17:04,000
+e os próprios clientes,
+
+726
+00:17:04,000 --> 00:17:06,000
+o instant message,
+
+727
+00:17:06,000 --> 00:17:08,000
+eles têm os próprios protocolos
+
+728
+00:17:08,000 --> 00:17:09,000
+de comunicação deles.
+
+729
+00:17:09,000 --> 00:17:10,000
+Então, seria um protocolo
+
+730
+00:17:10,000 --> 00:17:11,000
+em cima de outro protocolo.
+
+731
+00:17:11,000 --> 00:17:13,000
+Exatamente isso.
+
+732
+00:17:13,000 --> 00:17:15,000
+Então, você tem um modelo OS
+
+733
+00:17:15,000 --> 00:17:16,000
+que tem sete camadas,
+
+734
+00:17:16,000 --> 00:17:18,000
+começa pela camada de aplicação
+
+735
+00:17:18,000 --> 00:17:20,000
+e vai ter a camada física,
+
+736
+00:17:20,000 --> 00:17:22,000
+que é realmente
+
+737
+00:17:22,000 --> 00:17:25,000
+onde vai o fudado.
+
+738
+00:17:25,000 --> 00:17:26,000
+E aí, esse protocolo,
+
+739
+00:17:26,000 --> 00:17:27,000
+esse modelo,
+
+740
+00:17:27,000 --> 00:17:28,000
+ele é abstraído
+
+741
+00:17:28,000 --> 00:17:30,000
+pelo modelo TCP e P
+
+742
+00:17:30,000 --> 00:17:32,000
+que já são quatro camadas
+
+743
+00:17:32,000 --> 00:17:35,000
+e que é o modelo da internet.
+
+744
+00:17:35,000 --> 00:17:38,000
+Que é o padrão da internet.
+
+745
+00:17:38,000 --> 00:17:39,000
+É abstraído porque
+
+746
+00:17:39,000 --> 00:17:41,000
+a parte de enlace
+
+747
+00:17:41,000 --> 00:17:44,000
+e a parte física,
+
+748
+00:17:44,000 --> 00:17:46,000
+você nem sempre vai estar compartilhando
+
+749
+00:17:46,000 --> 00:17:48,000
+com uma outra pessoa
+
+750
+00:17:48,000 --> 00:17:49,000
+que está no outro mundo.
+
+751
+00:17:49,000 --> 00:17:51,000
+Por isso que existe o modelo TCP e P
+
+752
+00:17:51,000 --> 00:17:54,000
+que vai ter a camada de rede.
+
+753
+00:17:54,000 --> 00:17:58,000
+E aí, como o Sebastião disse,
+
+754
+00:17:58,000 --> 00:18:00,000
+tem a implementação do serviço,
+
+755
+00:18:00,000 --> 00:18:02,000
+que são os protocolos
+
+756
+00:18:02,000 --> 00:18:04,000
+que rodam em cima dessas outras camadas.
+
+757
+00:18:04,000 --> 00:18:06,000
+Então, o pacote sai da sua máquina,
+
+758
+00:18:06,000 --> 00:18:07,000
+vai para o seu roteador,
+
+759
+00:18:07,000 --> 00:18:08,000
+ou para o seu switch,
+
+760
+00:18:08,000 --> 00:18:10,000
+o seu switch para o seu roteador,
+
+761
+00:18:10,000 --> 00:18:12,000
+para o seu roteador para o roteador da telecom
+
+762
+00:18:12,000 --> 00:18:14,000
+e aí vai passando pelos ropes,
+
+763
+00:18:14,000 --> 00:18:16,000
+que a gente fala.
+
+764
+00:18:16,000 --> 00:18:18,000
+Então, o pacote,
+
+765
+00:18:18,000 --> 00:18:20,000
+ele sai da sua máquina,
+
+766
+00:18:20,000 --> 00:18:21,000
+a cada rope,
+
+767
+00:18:21,000 --> 00:18:23,000
+a cada nova máquina,
+
+768
+00:18:23,000 --> 00:18:25,000
+novo equipamento, roteador, switch,
+
+769
+00:18:25,000 --> 00:18:26,000
+que ele passa,
+
+770
+00:18:26,000 --> 00:18:28,000
+e isso pode ser observado
+
+771
+00:18:28,000 --> 00:18:30,000
+com o traceroute.
+
+772
+00:18:30,000 --> 00:18:32,000
+Então,
+
+773
+00:18:32,000 --> 00:18:34,000
+o pacote vai para lá
+
+774
+00:18:34,000 --> 00:18:36,000
+e ele volta para cá.
+
+775
+00:18:36,000 --> 00:18:38,000
+E aí, como o Sebastião disse,
+
+776
+00:18:38,000 --> 00:18:39,000
+tem várias outras,
+
+777
+00:18:39,000 --> 00:18:40,000
+basicamente,
+
+778
+00:18:40,000 --> 00:18:42,000
+implementação de protocolo
+
+779
+00:18:42,000 --> 00:18:44,000
+em cima de implementação de protocolo,
+
+780
+00:18:44,000 --> 00:18:46,000
+que vai abstraindo os outros protocolos.
+
+781
+00:18:46,000 --> 00:18:48,000
+Porque a internet, basicamente,
+
+782
+00:18:48,000 --> 00:18:50,000
+são vários computadores interligados,
+
+783
+00:18:50,000 --> 00:18:52,000
+tem um servidor que genencia aquilo.
+
+784
+00:18:52,000 --> 00:18:54,000
+Por exemplo, você pode montar
+
+785
+00:18:54,000 --> 00:18:56,000
+uma parte,
+
+786
+00:18:56,000 --> 00:18:58,000
+fazer um site de rodada
+
+787
+00:18:58,000 --> 00:19:00,000
+só dentro da sua casa, por exemplo.
+
+788
+00:19:00,000 --> 00:19:02,000
+Você tem vários computadores na sua casa
+
+789
+00:19:02,000 --> 00:19:04,000
+e aí você monta um site no seu computador.
+
+790
+00:19:04,000 --> 00:19:06,000
+Aí, o seu computador vai funcionar
+
+791
+00:19:06,000 --> 00:19:08,000
+como servidor. Então,
+
+792
+00:19:08,000 --> 00:19:10,000
+através daquela rede interna ali,
+
+793
+00:19:10,000 --> 00:19:12,000
+alguém vai acessar
+
+794
+00:19:12,000 --> 00:19:14,000
+o IP do seu computador
+
+795
+00:19:14,000 --> 00:19:16,000
+com o endereço do site.
+
+796
+00:19:16,000 --> 00:19:18,000
+Ele vai
+
+797
+00:19:18,000 --> 00:19:20,000
+sair um cabo de rede,
+
+798
+00:19:20,000 --> 00:19:22,000
+vai para o roteador
+
+799
+00:19:22,000 --> 00:19:24,000
+e depois
+
+800
+00:19:24,000 --> 00:19:26,000
+o roteador vai identificar
+
+801
+00:19:26,000 --> 00:19:28,000
+o que ele está chamando
+
+802
+00:19:28,000 --> 00:19:30,000
+uma requisição do meu computador.
+
+803
+00:19:30,000 --> 00:19:32,000
+Vai lá pedir, o servidor vai processar.
+
+804
+00:19:32,000 --> 00:19:34,000
+Então, ele devolve uma página HTML
+
+805
+00:19:34,000 --> 00:19:36,000
+e ele é mostrado no meu computador.
+
+806
+00:19:36,000 --> 00:19:38,000
+Então, assim, tem um certo
+
+807
+00:19:38,000 --> 00:19:40,000
+trajetório aí. É fácil de imaginar
+
+808
+00:19:40,000 --> 00:19:42,000
+esse IP numa rede local.
+
+809
+00:19:42,000 --> 00:19:44,000
+Você vê seu computador estar ali do outro lado,
+
+810
+00:19:44,000 --> 00:19:46,000
+você viu que ele passou ali
+
+811
+00:19:46,000 --> 00:19:48,000
+de uma comunicação, basicamente, entre um computador
+
+812
+00:19:48,000 --> 00:19:50,000
+e outro. Dúvida que sempre ele tem é o seguinte,
+
+813
+00:19:50,000 --> 00:19:52,000
+porque você acessa o site
+
+814
+00:19:52,000 --> 00:19:54,000
+e pode acessar um site
+
+815
+00:19:54,000 --> 00:19:56,000
+em qualquer lugar do mundo.
+
+816
+00:19:56,000 --> 00:19:58,000
+Mas aí, você paga para um empresa,
+
+817
+00:19:58,000 --> 00:20:00,000
+geralmente um empresa de seu país.
+
+818
+00:20:00,000 --> 00:20:02,000
+Eu pago, sei lá, a
+
+819
+00:20:02,000 --> 00:20:04,000
+Brasilecom ou a
+
+820
+00:20:04,000 --> 00:20:06,000
+Net, sei lá,
+
+821
+00:20:06,000 --> 00:20:08,000
+para ter internet em casa. Eu pago uma mensalidade
+
+822
+00:20:08,000 --> 00:20:10,000
+e eles fornecem internet
+
+823
+00:20:10,000 --> 00:20:12,000
+para mim. E aí, eu conecto
+
+824
+00:20:12,000 --> 00:20:14,000
+em alguma coisa que é deles
+
+825
+00:20:14,000 --> 00:20:16,000
+para acessar o site, sendo que
+
+826
+00:20:16,000 --> 00:20:18,000
+eu poderia
+
+827
+00:20:18,000 --> 00:20:20,000
+simplesmente conectar um cabo e esse cabo ir
+
+828
+00:20:20,000 --> 00:20:22,000
+para algum lugar, conectar
+
+829
+00:20:22,000 --> 00:20:24,000
+várias conexões de cabos, que seria
+
+830
+00:20:24,000 --> 00:20:26,000
+como se fosse a rede interna
+
+831
+00:20:26,000 --> 00:20:28,000
+lá de casa, só que ali a ser por mundo inteiro.
+
+832
+00:20:28,000 --> 00:20:30,000
+Com a respeito da história da internet
+
+833
+00:20:30,000 --> 00:20:32,000
+ficou uma ponta solta aí, mas
+
+834
+00:20:32,000 --> 00:20:34,000
+tem o netcast falando da
+
+835
+00:20:34,000 --> 00:20:36,000
+história da internet, que a gente pode colocar o link
+
+836
+00:20:36,000 --> 00:20:38,000
+no post para a gente não fazer conteúdo
+
+837
+00:20:38,000 --> 00:20:40,000
+repetido, redundante. Tem também
+
+838
+00:20:40,000 --> 00:20:42,000
+várias podcasts do
+
+839
+00:20:42,000 --> 00:20:44,000
+Guanabara.info
+
+840
+00:20:44,000 --> 00:20:46,000
+que fala a respeito para o potencial
+
+841
+00:20:46,000 --> 00:20:48,000
+e pode colocar o link também.
+
+842
+00:20:54,000 --> 00:20:56,000
+Uma coisa que eu não ouvi falar
+
+843
+00:20:56,000 --> 00:20:58,000
+nesse podcast é sobre a
+
+844
+00:20:58,000 --> 00:21:00,000
+citopologia de rede que a gente acabou falando,
+
+845
+00:21:00,000 --> 00:21:02,000
+que
+
+846
+00:21:02,000 --> 00:21:04,000
+e o trunfo de como funciona
+
+847
+00:21:04,000 --> 00:21:06,000
+o IP, que foi, quer dizer,
+
+848
+00:21:06,000 --> 00:21:08,000
+o protocolo da CPIP.
+
+849
+00:21:08,000 --> 00:21:10,000
+No caso da citopologia de rede
+
+850
+00:21:10,000 --> 00:21:12,000
+que o Marcelo até chegou a comentar,
+
+851
+00:21:12,000 --> 00:21:14,000
+antes eles usavam
+
+852
+00:21:14,000 --> 00:21:16,000
+como não era o RJ45,
+
+853
+00:21:16,000 --> 00:21:18,000
+é um cabo coaxial.
+
+854
+00:21:18,000 --> 00:21:20,000
+E nessa citopologia de rede
+
+855
+00:21:20,000 --> 00:21:22,000
+a gente tinha um problema, por exemplo, no caso do anel
+
+856
+00:21:22,000 --> 00:21:24,000
+e do barra,
+
+857
+00:21:24,000 --> 00:21:26,000
+é que para uma informação
+
+858
+00:21:26,000 --> 00:21:28,000
+por exemplo, eu tenho um computador A, B e C.
+
+859
+00:21:28,000 --> 00:21:30,000
+A citopologia de anel ainda é usada em redes
+
+860
+00:21:30,000 --> 00:21:32,000
+FTDI, né,
+
+861
+00:21:32,000 --> 00:21:34,000
+fibra óptica,
+
+862
+00:21:34,000 --> 00:21:36,000
+para distribuir carga e tudo mais.
+
+863
+00:21:36,000 --> 00:21:38,000
+A questão é que
+
+864
+00:21:38,000 --> 00:21:40,000
+plasticizar, como o Sheldon disse
+
+865
+00:21:40,000 --> 00:21:42,000
+o simples fato de você acessar uma página
+
+866
+00:21:42,000 --> 00:21:44,000
+na internet
+
+867
+00:21:44,000 --> 00:21:46,000
+já envolve vários modelos
+
+868
+00:21:46,000 --> 00:21:48,000
+e vários protocolos
+
+869
+00:21:48,000 --> 00:21:50,000
+e todos os protocolos têm que funcionar
+
+870
+00:21:50,000 --> 00:21:52,000
+harmonicamente.
+
+871
+00:21:52,000 --> 00:21:54,000
+Quer dizer, você digitou lá
+
+872
+00:21:54,000 --> 00:21:56,000
+www.cellside.com.br
+
+873
+00:21:56,000 --> 00:21:58,000
+Quando você
+
+874
+00:21:58,000 --> 00:22:00,000
+vai envolver
+
+875
+00:22:00,000 --> 00:22:02,000
+o protocolo ARC
+
+876
+00:22:02,000 --> 00:22:04,000
+acho que primeiro envolve o ARC
+
+877
+00:22:04,000 --> 00:22:06,000
+que se você não tiver
+
+878
+00:22:06,000 --> 00:22:08,000
+uma tabela ARC identificando quem é
+
+879
+00:22:08,000 --> 00:22:10,000
+o seu roteador e tudo mais
+
+880
+00:22:10,000 --> 00:22:12,000
+e aí envolve o protocolo DNS
+
+881
+00:22:12,000 --> 00:22:14,000
+para traduzir aquele nome no IP
+
+882
+00:22:14,000 --> 00:22:16,000
+e você vê aí que já envolve
+
+883
+00:22:16,000 --> 00:22:18,000
+não só o protocolo HPP
+
+884
+00:22:18,000 --> 00:22:20,000
+mas o protocolo DNS,
+
+885
+00:22:20,000 --> 00:22:22,000
+tabela ARC, então
+
+886
+00:22:22,000 --> 00:22:24,000
+é isso, acho que funciona tudo meio harmônico.
+
+887
+00:22:24,000 --> 00:22:26,000
+E como funciona? Eu ditei ali o nome do site
+
+888
+00:22:26,000 --> 00:22:28,000
+e eu coloquei enter. A partir daí
+
+889
+00:22:28,000 --> 00:22:30,000
+que ele vai para o roteador, mas como que
+
+890
+00:22:30,000 --> 00:22:32,000
+ele vai saber? Porque o site, na verdade, o nome
+
+891
+00:22:32,000 --> 00:22:34,000
+do site, isso não é usado
+
+892
+00:22:34,000 --> 00:22:36,000
+para identificar o site.
+
+893
+00:22:36,000 --> 00:22:38,000
+Tem um IP do site, assim como tem um IP
+
+894
+00:22:38,000 --> 00:22:40,000
+do seu computador, o site também tem um IP dele.
+
+895
+00:22:40,000 --> 00:22:42,000
+Qual que seria o caminho
+
+896
+00:22:42,000 --> 00:22:44,000
+para ele sair dali?
+
+897
+00:22:44,000 --> 00:22:46,000
+O que que o provedor de internet tem a ver
+
+898
+00:22:46,000 --> 00:22:48,000
+com servir internet?
+
+899
+00:22:48,000 --> 00:22:50,000
+Sendo que internet é uma rede de computadores
+
+900
+00:22:50,000 --> 00:22:52,000
+por que tem que ter um empresa
+
+901
+00:22:52,000 --> 00:22:54,000
+para servir internet
+
+902
+00:22:54,000 --> 00:22:56,000
+para mim? Sendo que seria
+
+903
+00:22:56,000 --> 00:22:58,000
+no caso eu ligar no computador do vizinho
+
+904
+00:22:58,000 --> 00:23:00,000
+e ligar no computador e fazer
+
+905
+00:23:00,000 --> 00:23:02,000
+a ideia básica seria essa.
+
+906
+00:23:02,000 --> 00:23:04,000
+Por que que eu preciso de uma empresa?
+
+907
+00:23:04,000 --> 00:23:06,000
+Como que funciona? Na partir do momento que
+
+908
+00:23:06,000 --> 00:23:08,000
+o dito tem um site,
+
+909
+00:23:08,000 --> 00:23:10,000
+ele saiu do meu computador,
+
+910
+00:23:10,000 --> 00:23:12,000
+para onde que ele vai,
+
+911
+00:23:12,000 --> 00:23:14,000
+o que que vai acontecer até
+
+912
+00:23:14,000 --> 00:23:16,000
+ir à informação e voltar
+
+913
+00:23:16,000 --> 00:23:18,000
+a página HTML por mim. O que acontece
+
+914
+00:23:18,000 --> 00:23:20,000
+nesse meio? Posso voltar lá no raciocínio
+
+915
+00:23:20,000 --> 00:23:22,000
+da topologia de rede? Que é topologia de rede?
+
+916
+00:23:22,000 --> 00:23:24,000
+É porque, como eu estava falando,
+
+917
+00:23:24,000 --> 00:23:26,000
+nessas topologias
+
+918
+00:23:26,000 --> 00:23:28,000
+de anel e barra que
+
+919
+00:23:28,000 --> 00:23:30,000
+antigamente se usava até no cabo Quaxal
+
+920
+00:23:30,000 --> 00:23:32,000
+eu tinha um problema
+
+921
+00:23:32,000 --> 00:23:34,000
+de voltar no exemplo lá
+
+922
+00:23:34,000 --> 00:23:36,000
+para eu ter um computador ABC
+
+923
+00:23:36,000 --> 00:23:38,000
+e eu quero mandar
+
+924
+00:23:38,000 --> 00:23:40,000
+eles estão ligados em barra no caso
+
+925
+00:23:40,000 --> 00:23:42,000
+e era até assim
+
+926
+00:23:42,000 --> 00:23:44,000
+eu tinha um
+
+927
+00:23:44,000 --> 00:23:46,000
+o conector, ele era conector do tipo T
+
+928
+00:23:46,000 --> 00:23:48,000
+porque ele é como se fosse
+
+929
+00:23:48,000 --> 00:23:50,000
+é, porque eu conecto
+
+930
+00:23:50,000 --> 00:23:52,000
+na placa de rede, tenho duas saídas
+
+931
+00:23:52,000 --> 00:23:54,000
+eu ligo o cabo Quaxal
+
+932
+00:23:54,000 --> 00:23:56,000
+em uma ponta e na outra
+
+933
+00:23:56,000 --> 00:23:58,000
+e ligo no outro computador
+
+934
+00:23:58,000 --> 00:24:00,000
+então, por exemplo, se eu tenho
+
+935
+00:24:00,000 --> 00:24:02,000
+dois computadores assim, ABC
+
+936
+00:24:02,000 --> 00:24:04,000
+eu vou mandar
+
+937
+00:24:04,000 --> 00:24:06,000
+uma informação do computador A
+
+938
+00:24:06,000 --> 00:24:08,000
+para o computador C
+
+939
+00:24:08,000 --> 00:24:10,000
+eu preciso do computador B
+
+940
+00:24:10,000 --> 00:24:12,000
+está ligado, é como se fosse
+
+941
+00:24:12,000 --> 00:24:14,000
+ponta a ponta, então ele passa pelo computador A
+
+942
+00:24:14,000 --> 00:24:16,000
+passa pelo B e passa pelo C
+
+943
+00:24:16,000 --> 00:24:18,000
+se um desses pontos
+
+944
+00:24:18,000 --> 00:24:20,000
+da rede cair, eu perco para rede
+
+945
+00:24:20,000 --> 00:24:22,000
+no caso da topologia de estrela
+
+946
+00:24:22,000 --> 00:24:24,000
+é que eu tenho isso
+
+947
+00:24:24,000 --> 00:24:26,000
+de centralizado
+
+948
+00:24:26,000 --> 00:24:28,000
+que também foi um grande trunfo do
+
+949
+00:24:28,000 --> 00:24:30,000
+protocolo TCP e P
+
+950
+00:24:30,000 --> 00:24:32,000
+e no protocolo TCP e P
+
+951
+00:24:32,000 --> 00:24:34,000
+cada máquina
+
+952
+00:24:34,000 --> 00:24:36,000
+é um cliente e um servidor
+
+953
+00:24:36,000 --> 00:24:38,000
+então, quando eu mando um pacote
+
+954
+00:24:38,000 --> 00:24:40,000
+usando protocolo TCP e P
+
+955
+00:24:40,000 --> 00:24:42,000
+que ele passa pelo meu switch
+
+956
+00:24:42,000 --> 00:24:44,000
+lá de repente
+
+957
+00:24:44,000 --> 00:24:46,000
+todas as máquinas recebem aquele pacote
+
+958
+00:24:46,000 --> 00:24:48,000
+mas na camada
+
+959
+00:24:48,000 --> 00:24:50,000
+ele já dropa o pacote
+
+960
+00:24:50,000 --> 00:24:52,000
+por exemplo, ele vê o pacote
+
+961
+00:24:52,000 --> 00:24:54,000
+é, esse pacote não é para essa máquina?
+
+962
+00:24:54,000 --> 00:24:56,000
+não, então ele já dropa o pacote
+
+963
+00:24:56,000 --> 00:24:58,000
+por isso que eu consigo funcionar os SNIFFER
+
+964
+00:24:58,000 --> 00:25:00,000
+porque ele não
+
+965
+00:25:00,000 --> 00:25:02,000
+deixa eu dropar esses pacotes que não vê pra ele
+
+966
+00:25:02,000 --> 00:25:04,000
+e agora a gente pode entrar
+
+967
+00:25:04,000 --> 00:25:06,000
+na parte do TCP e P
+
+968
+00:25:06,000 --> 00:25:08,000
+que é como está hoje
+
+969
+00:25:08,000 --> 00:25:10,000
+eu já nasci na era Ethernet
+
+970
+00:25:10,000 --> 00:25:12,000
+então o conhecimento que eu tenho
+
+971
+00:25:12,000 --> 00:25:14,000
+referente a cabo coaxial e tudo mais
+
+972
+00:25:14,000 --> 00:25:16,000
+até hoje, agora
+
+973
+00:25:16,000 --> 00:25:18,000
+como o Sebastian disse
+
+974
+00:25:18,000 --> 00:25:20,000
+com o modelo TCP e P, com a vinda do switch
+
+975
+00:25:20,000 --> 00:25:22,000
+com a vinda da utilização
+
+976
+00:25:22,000 --> 00:25:24,000
+da tabela A, você
+
+977
+00:25:24,000 --> 00:25:26,000
+manda um pacote para o seu switch
+
+978
+00:25:26,000 --> 00:25:28,000
+ele vai ser
+
+979
+00:25:28,000 --> 00:25:30,000
+aquele pacote através do MAC address
+
+980
+00:25:30,000 --> 00:25:32,000
+ele vai ser dedicionado
+
+981
+00:25:32,000 --> 00:25:34,000
+a máquina que tem aquele MAC address
+
+982
+00:25:34,000 --> 00:25:36,000
+e não ser
+
+983
+00:25:36,000 --> 00:25:38,000
+distribuído para todos os computadores
+
+984
+00:25:38,000 --> 00:25:40,000
+como era antigamente com a utilização de hub
+
+985
+00:25:40,000 --> 00:25:42,000
+e aí é onde o Sebastian falou
+
+986
+00:25:42,000 --> 00:25:44,000
+que são dos SNIFFERS
+
+987
+00:25:44,000 --> 00:25:46,000
+um SNIFFER é uma aplicação que vai estar monitorando
+
+988
+00:25:46,000 --> 00:25:48,000
+o tráfico na rede, antigamente
+
+989
+00:25:48,000 --> 00:25:50,000
+você poderia SNIFFAR uma rede
+
+990
+00:25:50,000 --> 00:25:52,000
+simplesmente deixando a sua placa de rede
+
+991
+00:25:52,000 --> 00:25:54,000
+em modo promisco e dessa forma
+
+992
+00:25:54,000 --> 00:25:56,000
+você poderia receber todos os pacotes da rede
+
+993
+00:25:56,000 --> 00:25:58,000
+você iria analisar todos os pacotes da rede
+
+994
+00:25:58,000 --> 00:26:00,000
+caso fosse um hub
+
+995
+00:26:00,000 --> 00:26:02,000
+hoje isso é feito
+
+996
+00:26:02,000 --> 00:26:04,000
+não da mesma maneira
+
+997
+00:26:04,000 --> 00:26:06,000
+mas a gente continua podendo
+
+998
+00:26:06,000 --> 00:26:08,000
+infectar a tabela ARP
+
+999
+00:26:08,000 --> 00:26:10,000
+do nosso switch
+
+1000
+00:26:10,000 --> 00:26:12,000
+e de modo
+
+1001
+00:26:12,000 --> 00:26:14,000
+a tabela ARP da rede
+
+1002
+00:26:14,000 --> 00:26:16,000
+porque a tabela ARP é compartilhada entre os computadores
+
+1003
+00:26:16,000 --> 00:26:18,000
+que estão no switch
+
+1004
+00:26:18,000 --> 00:26:20,000
+e de modo que aquele pacote
+
+1005
+00:26:20,000 --> 00:26:22,000
+vai ser entregue para a gente também
+
+1006
+00:26:22,000 --> 00:26:24,000
+então você cona o MAC address
+
+1007
+00:26:24,000 --> 00:26:26,000
+do seu roteador
+
+1008
+00:26:26,000 --> 00:26:28,000
+e aí o switch vai entregar aquele pacote
+
+1009
+00:26:28,000 --> 00:26:30,000
+não só para o roteador
+
+1010
+00:26:30,000 --> 00:26:32,000
+mas para a sua máquina também
+
+1011
+00:26:32,000 --> 00:26:34,000
+então você continua podendo SNIFFAR
+
+1012
+00:26:34,000 --> 00:26:36,000
+o que é o MAC address?
+
+1013
+00:26:36,000 --> 00:26:38,000
+o MAC address é um número
+
+1014
+00:26:38,000 --> 00:26:40,000
+que identifica o fabricante
+
+1015
+00:26:40,000 --> 00:26:42,000
+da sua placa de rede
+
+1016
+00:26:42,000 --> 00:26:44,000
+informações sobre as plas de rede
+
+1017
+00:26:44,000 --> 00:26:46,000
+acho que os três primeiros
+
+1018
+00:26:46,000 --> 00:26:48,000
+as três primeiros campos
+
+1019
+00:26:48,000 --> 00:26:50,000
+são referentes à fabricação
+
+1020
+00:26:50,000 --> 00:26:52,000
+são os três primeiros
+
+1021
+00:26:52,000 --> 00:26:54,000
+mas tem essa parte lá
+
+1022
+00:26:54,000 --> 00:26:56,000
+e os outros
+
+1023
+00:26:56,000 --> 00:26:58,000
+é que só a sua placa de rede tem
+
+1024
+00:26:58,000 --> 00:27:00,000
+então por isso que às vezes
+
+1025
+00:27:00,000 --> 00:27:02,000
+algumas redes corporativas sem problema
+
+1026
+00:27:02,000 --> 00:27:04,000
+porque as placas de rede são conadas
+
+1027
+00:27:04,000 --> 00:27:06,000
+fisicamente e tem o mesmo MAC address
+
+1028
+00:27:06,000 --> 00:27:08,000
+e assim é normal
+
+1029
+00:27:08,000 --> 00:27:10,000
+você chegar numa rede
+
+1030
+00:27:10,000 --> 00:27:12,000
+e aparecer
+
+1031
+00:27:12,000 --> 00:27:14,000
+duas placas de rede que tem o mesmo MAC address
+
+1032
+00:27:14,000 --> 00:27:16,000
+e que isso não foi feito propositalmente
+
+1033
+00:27:16,000 --> 00:27:18,000
+mas sim, já a nível de hardware
+
+1034
+00:27:18,000 --> 00:27:20,000
+mas aí tem como você pegar
+
+1035
+00:27:20,000 --> 00:27:22,000
+por exemplo, se um cara clonar
+
+1036
+00:27:22,000 --> 00:27:24,000
+são MAC address, hoje já é possível
+
+1037
+00:27:24,000 --> 00:27:26,000
+tem como? porque apesar
+
+1038
+00:27:26,000 --> 00:27:28,000
+do MAC address ser o regiço físico
+
+1039
+00:27:28,000 --> 00:27:30,000
+da placa de rede, quando ele vai trafegar
+
+1040
+00:27:30,000 --> 00:27:32,000
+ele vai
+
+1041
+00:27:32,000 --> 00:27:34,000
+de maneira virtual
+
+1042
+00:27:34,000 --> 00:27:36,000
+ele não vai fisicamente
+
+1043
+00:27:36,000 --> 00:27:38,000
+então você pode
+
+1044
+00:27:38,000 --> 00:27:40,000
+envenenar a tabela rápido
+
+1045
+00:27:40,000 --> 00:27:42,000
+da rede e transtrafegar
+
+1046
+00:27:42,000 --> 00:27:44,000
+o pacote por aquele MAC address
+
+1047
+00:27:44,000 --> 00:27:46,000
+estou tendo
+
+1048
+00:27:46,000 --> 00:27:48,000
+muito lindo
+
+1049
+00:27:48,000 --> 00:27:50,000
+o esquema do MAC address
+
+1050
+00:27:50,000 --> 00:27:52,000
+teoricamente
+
+1051
+00:27:52,000 --> 00:27:54,000
+teria que ser
+
+1052
+00:27:54,000 --> 00:27:56,000
+um número
+
+1053
+00:27:56,000 --> 00:27:58,000
+único que identificasse aquele hardware
+
+1054
+00:27:58,000 --> 00:28:00,000
+único no mundo inteiro
+
+1055
+00:28:00,000 --> 00:28:02,000
+só que acontece
+
+1056
+00:28:02,000 --> 00:28:04,000
+que o pessoal compra uma placa de singulings
+
+1057
+00:28:04,000 --> 00:28:06,000
+e elas vêm com o mesmo MAC address
+
+1058
+00:28:06,000 --> 00:28:08,000
+então às vezes um problema
+
+1059
+00:28:08,000 --> 00:28:10,000
+de rede é porque
+
+1060
+00:28:10,000 --> 00:28:12,000
+o cara não consegue descobrir
+
+1061
+00:28:12,000 --> 00:28:14,000
+o que está dando problema na rede
+
+1062
+00:28:14,000 --> 00:28:16,000
+na placa você tem o mesmo MAC
+
+1063
+00:28:16,000 --> 00:28:18,000
+e para descobrir isso
+
+1064
+00:28:18,000 --> 00:28:20,000
+é bem complicado
+
+1065
+00:28:20,000 --> 00:28:22,000
+no episódio anterior
+
+1066
+00:28:22,000 --> 00:28:24,000
+no episódio anterior
+
+1067
+00:28:24,000 --> 00:28:26,000
+o pessoal esqueceu
+
+1068
+00:28:26,000 --> 00:28:28,000
+de comentar que o
+
+1069
+00:28:28,000 --> 00:28:30,000
+o Jojo reclamou que eu não
+
+1070
+00:28:30,000 --> 00:28:32,000
+falo mais um pouco não
+
+1071
+00:28:32,000 --> 00:28:34,000
+mas especialmente para ele eu estou
+
+1072
+00:28:34,000 --> 00:28:36,000
+falando ou não
+
+1073
+00:28:36,000 --> 00:28:38,000
+tabela AR
+
+1074
+00:28:38,000 --> 00:28:40,000
+é onde fica gravado
+
+1075
+00:28:40,000 --> 00:28:42,000
+os MAC address dos computadores
+
+1076
+00:28:42,000 --> 00:28:44,000
+estão naquela rede física
+
+1077
+00:28:44,000 --> 00:28:46,000
+então
+
+1078
+00:28:46,000 --> 00:28:48,000
+o MAC address como o Sebastião disse
+
+1079
+00:28:48,000 --> 00:28:50,000
+é o número único da placa de rede
+
+1080
+00:28:50,000 --> 00:28:52,000
+e essa tabela pode ser envenenada
+
+1081
+00:28:52,000 --> 00:28:54,000
+você pode falar que um determinado IP
+
+1082
+00:28:54,000 --> 00:28:56,000
+tem o mesmo MAC address do roteador
+
+1083
+00:28:56,000 --> 00:28:58,000
+o que acontece
+
+1084
+00:28:58,000 --> 00:29:00,000
+e que tem como muitas vezes fazer
+
+1085
+00:29:00,000 --> 00:29:02,000
+é você vincular
+
+1086
+00:29:02,000 --> 00:29:04,000
+a porta internet do seu suíte
+
+1087
+00:29:04,000 --> 00:29:06,000
+a um IP
+
+1088
+00:29:06,000 --> 00:29:08,000
+dessa maneira
+
+1089
+00:29:08,000 --> 00:29:10,000
+você vai estar se resguardando
+
+1090
+00:29:10,000 --> 00:29:12,000
+de um envenenamento para tabela
+
+1091
+00:29:12,000 --> 00:29:14,000
+mas isso não é muito feito
+
+1092
+00:29:14,000 --> 00:29:16,000
+o esquema do clone do MAC address
+
+1093
+00:29:16,000 --> 00:29:18,000
+às vezes inclusive é necessário
+
+1094
+00:29:18,000 --> 00:29:20,000
+para alguns roteados
+
+1095
+00:29:20,000 --> 00:29:22,000
+moderns
+
+1096
+00:29:22,000 --> 00:29:24,000
+de internet eles não funcionam
+
+1097
+00:29:24,000 --> 00:29:26,000
+é preciso clonar o MAC address
+
+1098
+00:29:26,000 --> 00:29:28,000
+do seu roteado arias
+
+1099
+00:29:28,000 --> 00:29:30,000
+para poder funcionar
+
+1100
+00:29:36,000 --> 00:29:38,000
+para fazer o esquema que o Marcelo
+
+1101
+00:29:38,000 --> 00:29:40,000
+falou eu preciso ter um suíte gerenciável
+
+1102
+00:29:40,000 --> 00:29:42,000
+e a maioria do suíte
+
+1103
+00:29:42,000 --> 00:29:44,000
+é quase que um hub
+
+1104
+00:29:44,000 --> 00:29:46,000
+nem todos
+
+1105
+00:29:46,000 --> 00:29:48,000
+é só muda o nome mesmo
+
+1106
+00:29:48,000 --> 00:29:50,000
+mas o suíte seria o suíte
+
+1107
+00:29:50,000 --> 00:29:52,000
+a minha dúvida ainda não foi
+
+1108
+00:29:52,000 --> 00:29:54,000
+esperecida mas eu vou
+
+1109
+00:29:54,000 --> 00:29:56,000
+depois eu pergunto de novo
+
+1110
+00:29:56,000 --> 00:29:58,000
+agora eu fico com outro dúvida
+
+1111
+00:29:58,000 --> 00:30:00,000
+qual é a diferença entre hub e suíte?
+
+1112
+00:30:00,000 --> 00:30:02,000
+o hub ele repassa
+
+1113
+00:30:02,000 --> 00:30:04,000
+chega a informação para ele
+
+1114
+00:30:04,000 --> 00:30:06,000
+e ele replica aquela informação
+
+1115
+00:30:06,000 --> 00:30:08,000
+de internet
+
+1116
+00:30:08,000 --> 00:30:10,000
+então aquele pacote
+
+1117
+00:30:10,000 --> 00:30:12,000
+vai chegar para todo mundo
+
+1118
+00:30:12,000 --> 00:30:14,000
+o suíte ele entrega
+
+1119
+00:30:14,000 --> 00:30:16,000
+para
+
+1120
+00:30:16,000 --> 00:30:18,000
+internet que tem aquele MAC address
+
+1121
+00:30:18,000 --> 00:30:20,000
+isso é feito através de um protocolo
+
+1122
+00:30:20,000 --> 00:30:22,000
+é o LLC
+
+1123
+00:30:22,000 --> 00:30:24,000
+você tem
+
+1124
+00:30:24,000 --> 00:30:26,000
+a montagem da tabela
+
+1125
+00:30:26,000 --> 00:30:28,000
+falando do padrão Ethernet
+
+1126
+00:30:28,000 --> 00:30:30,000
+o que a gente usa
+
+1127
+00:30:30,000 --> 00:30:32,000
+que é aquele cabo
+
+1128
+00:30:32,000 --> 00:30:34,000
+RJ45
+
+1129
+00:30:34,000 --> 00:30:36,000
+para o padrão Ethernet
+
+1130
+00:30:36,000 --> 00:30:38,000
+ele tem por exemplo
+
+1131
+00:30:38,000 --> 00:30:40,000
+se eu for usar
+
+1132
+00:30:40,000 --> 00:30:42,000
+uma rede de 10 barras
+
+1133
+00:30:42,000 --> 00:30:44,000
+10 barras 10
+
+1134
+00:30:44,000 --> 00:30:46,000
+de 10 megabytes
+
+1135
+00:30:46,000 --> 00:30:48,000
+eu só utilizo
+
+1136
+00:30:48,000 --> 00:30:50,000
+4
+
+1137
+00:30:50,000 --> 00:30:52,000
+o cabo par transado
+
+1138
+00:30:52,000 --> 00:30:54,000
+são 8 fiozinhos
+
+1139
+00:30:54,000 --> 00:30:56,000
+se eu estiver usando uma rede de 10 megabytes
+
+1140
+00:30:56,000 --> 00:30:58,000
+eu só utilizo 4 fiozinhos
+
+1141
+00:30:58,000 --> 00:31:00,000
+se eu estiver usando uma 10 barras 100
+
+1142
+00:31:00,000 --> 00:31:02,000
+eu utilizo 6
+
+1143
+00:31:02,000 --> 00:31:04,000
+se eu estiver usando uma
+
+1144
+00:31:04,000 --> 00:31:06,000
+10 barras 100
+
+1145
+00:31:06,000 --> 00:31:08,000
+aí sim que vai ser necessário
+
+1146
+00:31:08,000 --> 00:31:10,000
+eu utilizar os 8 fios
+
+1147
+00:31:10,000 --> 00:31:12,000
+porque quando eu faço um cabo cross over
+
+1148
+00:31:12,000 --> 00:31:14,000
+se eu vou utilizar uma rede de 10 barras 100
+
+1149
+00:31:14,000 --> 00:31:16,000
+eu não preciso nem
+
+1150
+00:31:16,000 --> 00:31:18,000
+tem 4 cabis lá que eu não preciso nem me preocupar
+
+1151
+00:31:18,000 --> 00:31:20,000
+se eu for usar uma 1 gigabyte
+
+1152
+00:31:20,000 --> 00:31:22,000
+eu só tenho que verter esses cabos
+
+1153
+00:31:22,000 --> 00:31:24,000
+porque assim
+
+1154
+00:31:24,000 --> 00:31:26,000
+no padrão
+
+1155
+00:31:26,000 --> 00:31:28,000
+eu tenho
+
+1156
+00:31:28,000 --> 00:31:30,000
+se for uma gigabyte
+
+1157
+00:31:30,000 --> 00:31:32,000
+4 cabos que enviam
+
+1158
+00:31:32,000 --> 00:31:34,000
+4 cabos que recebem
+
+1159
+00:31:34,000 --> 00:31:36,000
+quando eu faço um cabo cross over
+
+1160
+00:31:36,000 --> 00:31:38,000
+ele tem que estar investido
+
+1161
+00:31:38,000 --> 00:31:40,000
+seria legal se pudesse ver o gesto que eu estou fazendo
+
+1162
+00:31:40,000 --> 00:31:42,000
+ele tem que ser investido
+
+1163
+00:31:42,000 --> 00:31:44,000
+e é uma formação
+
+1164
+00:31:44,000 --> 00:31:46,000
+mas é porque
+
+1165
+00:31:46,000 --> 00:31:48,000
+eu tenho os canais que são os tx
+
+1166
+00:31:48,000 --> 00:31:50,000
+e os rx
+
+1167
+00:31:50,000 --> 00:31:52,000
+tx que são de transmissão
+
+1168
+00:31:52,000 --> 00:31:54,000
+e os rx que não se vê
+
+1169
+00:31:54,000 --> 00:31:56,000
+por isso que eu tenho esses cabos investidos
+
+1170
+00:31:56,000 --> 00:31:58,000
+porque um tx
+
+1171
+00:31:58,000 --> 00:32:00,000
+que é um cabo cross over
+
+1172
+00:32:00,000 --> 00:32:02,000
+o meu tx
+
+1173
+00:32:02,000 --> 00:32:04,000
+vai ligar com o rx
+
+1174
+00:32:04,000 --> 00:32:06,000
+e da outra interface
+
+1175
+00:32:06,000 --> 00:32:08,000
+só sei que minha dúvida vai ficando atrás
+
+1176
+00:32:08,000 --> 00:32:10,000
+quero saber todos os caminhos
+
+1177
+00:32:10,000 --> 00:32:12,000
+de uma informação dudo
+
+1178
+00:32:12,000 --> 00:32:14,000
+o que a gente está falando é para preparar
+
+1179
+00:32:14,000 --> 00:32:16,000
+para responder essa pergunta do show
+
+1180
+00:32:16,000 --> 00:32:18,000
+e se simplificar isso a questão é
+
+1181
+00:32:18,000 --> 00:32:20,000
+tem um protocolo A
+
+1182
+00:32:20,000 --> 00:32:22,000
+você pluga primeiro e tem que ter um cab de edge
+
+1183
+00:32:22,000 --> 00:32:24,000
+ou está conectado numa rede sem fio
+
+1184
+00:32:24,000 --> 00:32:26,000
+e aí se tiver um switch
+
+1185
+00:32:26,000 --> 00:32:28,000
+você vai saber qual são o macadras
+
+1186
+00:32:28,000 --> 00:32:30,000
+e através disso os pacotes vão chegar até você
+
+1187
+00:32:30,000 --> 00:32:32,000
+e você vai mandar pacotes
+
+1188
+00:32:32,000 --> 00:32:34,000
+você vai saber o macadras do roteador
+
+1189
+00:32:34,000 --> 00:32:36,000
+você vai enviar pacotes
+
+1190
+00:32:36,000 --> 00:32:38,000
+para o roteador
+
+1191
+00:32:38,000 --> 00:32:40,000
+chega o pacote do roteador
+
+1192
+00:32:40,000 --> 00:32:42,000
+o roteador vai enviar para o roteador dele
+
+1193
+00:32:42,000 --> 00:32:44,000
+que é o nash hope dele
+
+1194
+00:32:44,000 --> 00:32:46,000
+e esse pacote vai se propagando
+
+1195
+00:32:46,000 --> 00:32:48,000
+para o modem, para o seu modem
+
+1196
+00:32:48,000 --> 00:32:50,000
+vai para o roteador do telecom
+
+1197
+00:32:50,000 --> 00:32:52,000
+do roteador do telecom para o roteador
+
+1198
+00:32:52,000 --> 00:32:54,000
+e assim sucessivamente
+
+1199
+00:32:54,000 --> 00:32:56,000
+a pergunta é por que existe as empresas
+
+1200
+00:32:56,000 --> 00:32:58,000
+as empresas existem
+
+1201
+00:32:58,000 --> 00:33:00,000
+justamente para você conseguir
+
+1202
+00:33:00,000 --> 00:33:02,000
+interligar todas essas redes
+
+1203
+00:33:02,000 --> 00:33:04,000
+domésticas e essas redes
+
+1204
+00:33:04,000 --> 00:33:06,000
+empresariais
+
+1205
+00:33:06,000 --> 00:33:08,000
+e é um conceito importante que eu queria chegar
+
+1206
+00:33:08,000 --> 00:33:10,000
+que é o conceito de gateway
+
+1207
+00:33:10,000 --> 00:33:12,000
+o gateway basicamente
+
+1208
+00:33:12,000 --> 00:33:14,000
+a definição dele é para
+
+1209
+00:33:14,000 --> 00:33:16,000
+um gateway serve
+
+1210
+00:33:16,000 --> 00:33:18,000
+para interligar outras redes
+
+1211
+00:33:18,000 --> 00:33:20,000
+seja ela interno ou externo
+
+1212
+00:33:20,000 --> 00:33:22,000
+no caso do
+
+1213
+00:33:22,000 --> 00:33:24,000
+provedor da internet presa para o provedor
+
+1214
+00:33:24,000 --> 00:33:26,000
+que eu contratei o serviço
+
+1215
+00:33:26,000 --> 00:33:28,000
+ela é meu gateway para o mundo
+
+1216
+00:33:28,000 --> 00:33:30,000
+e isso é exatamente isso aí
+
+1217
+00:33:30,000 --> 00:33:32,000
+a sua telecom, o seu provedor, não o seu provedor
+
+1218
+00:33:32,000 --> 00:33:34,000
+no brasil os provedores
+
+1219
+00:33:34,000 --> 00:33:36,000
+só fazem a parte de autenticação
+
+1220
+00:33:36,000 --> 00:33:38,000
+e basicamente o provedor
+
+1221
+00:33:38,000 --> 00:33:40,000
+tem uma interligação com o telecom
+
+1222
+00:33:40,000 --> 00:33:42,000
+que é brasil do lecom e brato
+
+1223
+00:33:42,000 --> 00:33:44,000
+é o que seja, que repassa
+
+1224
+00:33:44,000 --> 00:33:46,000
+e ele repassa o seu pacote
+
+1225
+00:33:46,000 --> 00:33:48,000
+para o telecom
+
+1226
+00:33:48,000 --> 00:33:50,000
+quer dizer, no final das contas
+
+1227
+00:33:50,000 --> 00:33:52,000
+você não precisaria dos provedores
+
+1228
+00:33:52,000 --> 00:33:54,000
+porque eles basicamente
+
+1229
+00:33:54,000 --> 00:33:56,000
+só servem para autenticar
+
+1230
+00:33:56,000 --> 00:33:58,000
+se você montar uma empresa que não vende internet
+
+1231
+00:33:58,000 --> 00:34:00,000
+o que você vai fazer?
+
+1232
+00:34:00,000 --> 00:34:02,000
+para vender internet você precisaria
+
+1233
+00:34:02,000 --> 00:34:04,000
+ter link
+
+1234
+00:34:04,000 --> 00:34:06,000
+link grande
+
+1235
+00:34:06,000 --> 00:34:08,000
+você precisaria ser uma S
+
+1236
+00:34:08,000 --> 00:34:10,000
+que é um sistema autônomo
+
+1237
+00:34:10,000 --> 00:34:12,000
+que nesse caso você iria compartilhar
+
+1238
+00:34:12,000 --> 00:34:14,000
+a tabela de uteamento com outras AS
+
+1239
+00:34:14,000 --> 00:34:16,000
+e isso aí é interessante
+
+1240
+00:34:16,000 --> 00:34:18,000
+porque isso é feito
+
+1241
+00:34:18,000 --> 00:34:20,000
+para o protocolo BGP
+
+1242
+00:34:20,000 --> 00:34:22,000
+e isso é interessante porque você vai estar
+
+1243
+00:34:22,000 --> 00:34:24,000
+compartilhando tabela de uteamento
+
+1244
+00:34:24,000 --> 00:34:26,000
+com o mundo inteiro
+
+1245
+00:34:26,000 --> 00:34:28,000
+basicamente é isso
+
+1246
+00:34:28,000 --> 00:34:30,000
+você precisa ter banda
+
+1247
+00:34:30,000 --> 00:34:32,000
+você precisa ter vínculo com a telecom
+
+1248
+00:34:32,000 --> 00:34:34,000
+para ser uma S
+
+1249
+00:34:34,000 --> 00:34:36,000
+nem sempre você precisa ser uma S na verdade
+
+1250
+00:34:36,000 --> 00:34:38,000
+mas você precisa ter vínculo
+
+1251
+00:34:38,000 --> 00:34:40,000
+pelo menos para fazer autenticação
+
+1252
+00:34:40,000 --> 00:34:42,000
+que aí normalmente é feita via protocolo
+
+1253
+00:34:42,000 --> 00:34:44,000
+radius
+
+1254
+00:34:44,000 --> 00:34:46,000
+no caso para você ter
+
+1255
+00:34:46,000 --> 00:34:48,000
+tem duas opções
+
+1256
+00:34:48,000 --> 00:34:50,000
+pode ser um getter
+
+1257
+00:34:50,000 --> 00:34:52,000
+fazer uma sub rede a partir da tua rede
+
+1258
+00:34:52,000 --> 00:34:54,000
+no caso se você está se fazer uma conexão
+
+1259
+00:34:54,000 --> 00:34:56,000
+com o roxo não conseguiria
+
+1260
+00:34:56,000 --> 00:34:58,000
+porque ele iria conectar a tua empresa
+
+1261
+00:34:58,000 --> 00:35:00,000
+ou então pegar um range de
+
+1262
+00:35:00,000 --> 00:35:02,000
+IP
+
+1263
+00:35:02,000 --> 00:35:04,000
+para cada pessoa que se conectar
+
+1264
+00:35:04,000 --> 00:35:06,000
+ela recebeu um IP
+
+1265
+00:35:06,000 --> 00:35:08,000
+eu lembro até na época da internet
+
+1266
+00:35:08,000 --> 00:35:10,000
+de escada que eu montei um servidor
+
+1267
+00:35:10,000 --> 00:35:12,000
+com HTTP
+
+1268
+00:35:12,000 --> 00:35:14,000
+na época eu estava fazendo frio
+
+1269
+00:35:14,000 --> 00:35:16,000
+no Japão e ele fez uma conexão
+
+1270
+00:35:16,000 --> 00:35:18,000
+direta com minha máquina e HTTP
+
+1271
+00:35:18,000 --> 00:35:20,000
+eu montei o servidor
+
+1272
+00:35:20,000 --> 00:35:22,000
+e ele acessou a página
+
+1273
+00:35:22,000 --> 00:35:24,000
+que eu tinha hospedado na minha marca
+
+1274
+00:35:24,000 --> 00:35:26,000
+o que acontece muito que a gente não consegue fazer isso hoje
+
+1275
+00:35:26,000 --> 00:35:28,000
+é porque essas empresas
+
+1276
+00:35:28,000 --> 00:35:30,000
+bloqueia algumas portas ventrantes
+
+1277
+00:35:30,000 --> 00:35:32,000
+no caso do protocolo HTTP
+
+1278
+00:35:32,000 --> 00:35:34,000
+a porta padrão é 80
+
+1279
+00:35:34,000 --> 00:35:36,000
+então geralmente
+
+1280
+00:35:36,000 --> 00:35:38,000
+a sua telecom
+
+1281
+00:35:38,000 --> 00:35:40,000
+ela vai
+
+1282
+00:35:40,000 --> 00:35:42,000
+bloquear a porta 80
+
+1283
+00:35:42,000 --> 00:35:44,000
+para evitar usos empresariais
+
+1284
+00:35:44,000 --> 00:35:46,000
+da internet
+
+1285
+00:35:46,000 --> 00:35:48,000
+então o cara vai tentar conectar na sua porta 80
+
+1286
+00:35:48,000 --> 00:35:50,000
+e vai estar bloqueado lá
+
+1287
+00:35:50,000 --> 00:35:52,000
+pode desbloquear
+
+1288
+00:35:52,000 --> 00:35:54,000
+o mais fácil é só hospedar em outra porta
+
+1289
+00:35:54,000 --> 00:35:56,000
+é isso aí a questão do sabachão
+
+1290
+00:35:56,000 --> 00:35:58,000
+passei por um processo
+
+1291
+00:35:58,000 --> 00:36:00,000
+interessante, trabalhava numa empresa
+
+1292
+00:36:00,000 --> 00:36:02,000
+eu comecei a trabalhar com meu pai
+
+1293
+00:36:02,000 --> 00:36:04,000
+e a gente recebia
+
+1294
+00:36:04,000 --> 00:36:06,000
+ligação
+
+1295
+00:36:06,000 --> 00:36:08,000
+dos clientes
+
+1296
+00:36:08,000 --> 00:36:10,000
+então a gente tinha moldeis externos
+
+1297
+00:36:10,000 --> 00:36:12,000
+de 56k
+
+1298
+00:36:12,000 --> 00:36:14,000
+e tinha um link com a Embratel
+
+1299
+00:36:14,000 --> 00:36:16,000
+eu não sei quantos k, e tinha alguns
+
+1300
+00:36:16,000 --> 00:36:18,000
+e tinha um servidor
+
+1301
+00:36:18,000 --> 00:36:20,000
+dial-up que ficava recebendo
+
+1302
+00:36:20,000 --> 00:36:22,000
+essas ligações
+
+1303
+00:36:22,000 --> 00:36:24,000
+os clientes conectavam na nossa
+
+1304
+00:36:24,000 --> 00:36:26,000
+infraestrutura via
+
+1305
+00:36:26,000 --> 00:36:28,000
+conexão dial-up
+
+1306
+00:36:28,000 --> 00:36:30,000
+a gente tinha alguns IPs fixos
+
+1307
+00:36:30,000 --> 00:36:32,000
+com a Embratel
+
+1308
+00:36:32,000 --> 00:36:34,000
+mas tudo isso para o cara
+
+1309
+00:36:34,000 --> 00:36:36,000
+acessar
+
+1310
+00:36:36,000 --> 00:36:38,000
+a nossa infraestrutura
+
+1311
+00:36:38,000 --> 00:36:40,000
+como a gente não queria expor esse servidor
+
+1312
+00:36:40,000 --> 00:36:42,000
+na internet
+
+1313
+00:36:42,000 --> 00:36:44,000
+a gente usava esse artifício
+
+1314
+00:36:44,000 --> 00:36:46,000
+da conexão dial-up
+
+1315
+00:36:46,000 --> 00:36:48,000
+era interessante essa época
+
+1316
+00:36:48,000 --> 00:36:50,000
+na época da era discada
+
+1317
+00:36:50,000 --> 00:36:52,000
+que por exemplo, o joguinho como o eji
+
+1318
+00:36:52,000 --> 00:36:54,000
+foi em paz você conseguia fazer a conexão
+
+1319
+00:36:54,000 --> 00:36:56,000
+direto via modem, modem é modem
+
+1320
+00:36:56,000 --> 00:36:58,000
+é ao invés de digital
+
+1321
+00:36:58,000 --> 00:37:00,000
+o IP do rapaz
+
+1322
+00:37:00,000 --> 00:37:02,000
+do jovem
+
+1323
+00:37:02,000 --> 00:37:04,000
+que estava do outro lado querendo jogar
+
+1324
+00:37:04,000 --> 00:37:06,000
+a sexta-feira no nosso caso
+
+1325
+00:37:06,000 --> 00:37:08,000
+de manhã gravando podcast
+
+1326
+00:37:08,000 --> 00:37:10,000
+o cara digitava o número de telefone
+
+1327
+00:37:10,000 --> 00:37:12,000
+do maluco
+
+1328
+00:37:12,000 --> 00:37:14,000
+então fazer a conexão modem é modem
+
+1329
+00:37:14,000 --> 00:37:16,000
+e não travava um jogo
+
+1330
+00:37:16,000 --> 00:37:18,000
+ah, quem?
+
+1331
+00:37:18,000 --> 00:37:20,000
+vai para o vídeo de história
+
+1332
+00:37:20,000 --> 00:37:22,000
+cheio de cem
+
+1333
+00:37:22,000 --> 00:37:24,000
+o último caramba
+
+1334
+00:37:24,000 --> 00:37:26,000
+internet studio elevador
+
+1335
+00:37:28,000 --> 00:37:30,000
+por que vocês explicassem
+
+1336
+00:37:30,000 --> 00:37:32,000
+a diferença no caso entre HPP e STP
+
+1337
+00:37:32,000 --> 00:37:34,000
+que eu acho que
+
+1338
+00:37:34,000 --> 00:37:36,000
+o HPP é o
+
+1339
+00:37:36,000 --> 00:37:38,000
+high-press
+
+1340
+00:37:38,000 --> 00:37:40,000
+transporte protocolo
+
+1341
+00:37:40,000 --> 00:37:42,000
+e o FTP
+
+1342
+00:37:42,000 --> 00:37:44,000
+a diferença básica
+
+1343
+00:37:44,000 --> 00:37:46,000
+eu não sei
+
+1344
+00:37:46,000 --> 00:37:48,000
+e o app é o address resolution
+
+1345
+00:37:48,000 --> 00:37:50,000
+o HPTP foi criado para você
+
+1346
+00:37:50,000 --> 00:37:52,000
+compartilhar a informação
+
+1347
+00:37:52,000 --> 00:37:54,000
+via html
+
+1348
+00:37:54,000 --> 00:37:56,000
+ou html
+
+1349
+00:37:56,000 --> 00:37:58,000
+hoje tem flash
+
+1350
+00:37:58,000 --> 00:38:00,000
+mas compartilhar a informação
+
+1351
+00:38:00,000 --> 00:38:02,000
+e não transferência de arquivos
+
+1352
+00:38:02,000 --> 00:38:04,000
+foi criado com um tuto
+
+1353
+00:38:04,000 --> 00:38:06,000
+somente de transferência de arquivos binários
+
+1354
+00:38:06,000 --> 00:38:08,000
+de transferência de arquivos
+
+1355
+00:38:08,000 --> 00:38:10,000
+realmente
+
+1356
+00:38:10,000 --> 00:38:12,000
+então por isso que existe o FTP
+
+1357
+00:38:12,000 --> 00:38:14,000
+hoje já existe o SFTP
+
+1358
+00:38:14,000 --> 00:38:16,000
+que é o FTP
+
+1359
+00:38:16,000 --> 00:38:18,000
+em cima de SSL
+
+1360
+00:38:18,000 --> 00:38:20,000
+então
+
+1361
+00:38:20,000 --> 00:38:22,000
+por que isso? porque
+
+1362
+00:38:22,000 --> 00:38:24,000
+antigamente teria como você
+
+1363
+00:38:24,000 --> 00:38:26,000
+começar a
+
+1364
+00:38:26,000 --> 00:38:28,000
+monitorar uma transação FTP
+
+1365
+00:38:28,000 --> 00:38:30,000
+do início ao fim
+
+1366
+00:38:30,000 --> 00:38:32,000
+aquele arquivo binário
+
+1367
+00:38:32,000 --> 00:38:34,000
+aquela imagem
+
+1368
+00:38:34,000 --> 00:38:36,000
+seja o que for
+
+1369
+00:38:36,000 --> 00:38:38,000
+inclusive tem um projeto muito legal
+
+1370
+00:38:38,000 --> 00:38:40,000
+para fazer forenze
+
+1371
+00:38:40,000 --> 00:38:42,000
+na parte network
+
+1372
+00:38:42,000 --> 00:38:44,000
+que chama explico
+
+1373
+00:38:44,000 --> 00:38:46,000
+então esse cara fica esnifando a rede
+
+1374
+00:38:46,000 --> 00:38:48,000
+você faz uma posição e ele vai
+
+1375
+00:38:48,000 --> 00:38:50,000
+estar monitorando, vai estar capturando os pacotes
+
+1376
+00:38:50,000 --> 00:38:52,000
+e aí ele remonta todos os arquivos da rede
+
+1377
+00:38:52,000 --> 00:38:54,000
+então você está vendo um vídeo, ele remonta o vídeo
+
+1378
+00:38:54,000 --> 00:38:56,000
+você está vendo uma imagem, ele remonta a imagem
+
+1379
+00:38:56,000 --> 00:38:58,000
+um arquivo Zipada, ele remonta o arquivo Zipada
+
+1380
+00:38:58,000 --> 00:39:00,000
+e isso é algo bem legal
+
+1381
+00:39:00,000 --> 00:39:02,000
+ou não
+
+1382
+00:39:02,000 --> 00:39:04,000
+isso não é preso
+
+1383
+00:39:04,000 --> 00:39:06,000
+o cara deve ser muito engraçado
+
+1384
+00:39:06,000 --> 00:39:08,000
+o cara pede o arquivo que eu baixei na internet
+
+1385
+00:39:08,000 --> 00:39:10,000
+não tem um pkp
+
+1386
+00:39:10,000 --> 00:39:12,000
+mas hoje
+
+1387
+00:39:12,000 --> 00:39:14,000
+por exemplo
+
+1388
+00:39:14,000 --> 00:39:16,000
+se você editar um arquivo pdf
+
+1389
+00:39:16,000 --> 00:39:18,000
+p3, você coloca no seu servidor
+
+1390
+00:39:18,000 --> 00:39:20,000
+do seu site lá, se você
+
+1391
+00:39:20,000 --> 00:39:22,000
+joga um link do arquivo
+
+1392
+00:39:22,000 --> 00:39:24,000
+vai estar lá gattp, o nome do site
+
+1393
+00:39:24,000 --> 00:39:26,000
+barraarchivos, barraarchivo.pdf
+
+1394
+00:39:26,000 --> 00:39:28,000
+por exemplo
+
+1395
+00:39:28,000 --> 00:39:30,000
+você consegue baixar o arquivo
+
+1396
+00:39:30,000 --> 00:39:32,000
+então acho que foge
+
+1397
+00:39:32,000 --> 00:39:34,000
+do conceito da diferença de gattp ftp
+
+1398
+00:39:34,000 --> 00:39:36,000
+você está certo
+
+1399
+00:39:36,000 --> 00:39:38,000
+o servidor da ftp você pode enviar
+
+1400
+00:39:38,000 --> 00:39:40,000
+arquivos também
+
+1401
+00:39:40,000 --> 00:39:42,000
+por um protocolo gattp
+
+1402
+00:39:42,000 --> 00:39:44,000
+se você não tiver uma aplicação
+
+1403
+00:39:44,000 --> 00:39:46,000
+que usa uma linguagem de serviçagem
+
+1404
+00:39:46,000 --> 00:39:48,000
+a princípio você não consegue enviar arquivos
+
+1405
+00:39:48,000 --> 00:39:50,000
+somente pelo protocolo
+
+1406
+00:39:50,000 --> 00:39:52,000
+agora com protocolo ftp você pode
+
+1407
+00:39:52,000 --> 00:39:54,000
+enviar e receber arquivos
+
+1408
+00:39:54,000 --> 00:39:56,000
+a questão
+
+1409
+00:39:56,000 --> 00:39:58,000
+é a finalidade do protocolo
+
+1410
+00:39:58,000 --> 00:40:00,000
+protocolo gattp você pode estudar
+
+1411
+00:40:00,000 --> 00:40:02,000
+a finalidade dele no início foi essa
+
+1412
+00:40:02,000 --> 00:40:04,000
+não foi
+
+1413
+00:40:04,000 --> 00:40:06,000
+por isso que existe o ftp
+
+1414
+00:40:06,000 --> 00:40:08,000
+o ftp e o gattp se só são os seguros
+
+1415
+00:40:08,000 --> 00:40:10,000
+não
+
+1416
+00:40:10,000 --> 00:40:12,000
+por isso que existe gattp s, ftp, s, ftp
+
+1417
+00:40:12,000 --> 00:40:14,000
+são finalidades distintas
+
+1418
+00:40:14,000 --> 00:40:16,000
+é a mesma coisa só que diferente
+
+1419
+00:40:16,000 --> 00:40:18,000
+lembrei do
+
+1420
+00:40:18,000 --> 00:40:20,000
+professor sanderley e ele falava isso
+
+1421
+00:40:20,000 --> 00:40:22,000
+é a mesma coisa só que diferente
+
+1422
+00:40:22,000 --> 00:40:24,000
+é a mesma coisa
+
+1423
+00:40:28,000 --> 00:40:30,000
+não posso fazer
+
+1424
+00:40:30,000 --> 00:40:32,000
+eslipar até ssl
+
+1425
+00:40:32,000 --> 00:40:34,000
+não sei se isso é isso, mas são notícias
+
+1426
+00:40:34,000 --> 00:40:36,000
+bombasques
+
+1427
+00:40:36,000 --> 00:40:38,000
+mas se o
+
+1428
+00:40:38,000 --> 00:40:40,000
+computador que está em difano
+
+1429
+00:40:40,000 --> 00:40:42,000
+ele
+
+1430
+00:40:42,000 --> 00:40:44,000
+pega desde o handshake
+
+1431
+00:40:44,000 --> 00:40:46,000
+e você está monitorando
+
+1432
+00:40:46,000 --> 00:40:48,000
+então ele consegue ver
+
+1433
+00:40:48,000 --> 00:40:50,000
+todo o que está acontecendo
+
+1434
+00:40:50,000 --> 00:40:52,000
+e existe o tunnelamento
+
+1435
+00:40:52,000 --> 00:40:54,000
+no ssl
+
+1436
+00:40:54,000 --> 00:40:56,000
+ele também pode ter pego desde
+
+1437
+00:40:56,000 --> 00:40:58,000
+o início da negociação
+
+1438
+00:40:58,000 --> 00:41:00,000
+mesmo esse sendo protocolo tão seguro
+
+1439
+00:41:00,000 --> 00:41:02,000
+está certo você baixar o mesmo ssl
+
+1440
+00:41:02,000 --> 00:41:04,000
+é fácil de ser monitorado
+
+1441
+00:41:04,000 --> 00:41:06,000
+e aí como você disse
+
+1442
+00:41:06,000 --> 00:41:08,000
+se você capturar o handshake ssl
+
+1443
+00:41:08,000 --> 00:41:10,000
+você pode fechar um canal
+
+1444
+00:41:10,000 --> 00:41:12,000
+criptografado entre você
+
+1445
+00:41:12,000 --> 00:41:14,000
+o servidor e entre você
+
+1446
+00:41:14,000 --> 00:41:16,000
+e a vítima
+
+1447
+00:41:16,000 --> 00:41:18,000
+então você vai
+
+1448
+00:41:18,000 --> 00:41:20,000
+ser criptografado com o servidor
+
+1449
+00:41:20,000 --> 00:41:22,000
+mas você vai decryptar o dado
+
+1450
+00:41:22,000 --> 00:41:24,000
+e vai fechar outra
+
+1451
+00:41:24,000 --> 00:41:26,000
+ponte criptografada
+
+1452
+00:41:26,000 --> 00:41:28,000
+com a vítima
+
+1453
+00:41:28,000 --> 00:41:30,000
+porém isso
+
+1454
+00:41:30,000 --> 00:41:32,000
+é possível de ser detectado
+
+1455
+00:41:32,000 --> 00:41:34,000
+com certificação digital
+
+1456
+00:41:34,000 --> 00:41:36,000
+então por isso que sempre que você
+
+1457
+00:41:36,000 --> 00:41:38,000
+vai acessar um site htps
+
+1458
+00:41:38,000 --> 00:41:40,000
+se o browser da
+
+1459
+00:41:40,000 --> 00:41:42,000
+aquele aviso
+
+1460
+00:41:42,000 --> 00:41:44,000
+fique ligado
+
+1461
+00:41:44,000 --> 00:41:46,000
+porque aquele site
+
+1462
+00:41:46,000 --> 00:41:48,000
+não está sendo certificado
+
+1463
+00:41:48,000 --> 00:41:50,000
+por uma autoridade
+
+1464
+00:41:50,000 --> 00:41:52,000
+certificadora
+
+1465
+00:41:52,000 --> 00:41:54,000
+o usuário tem que ficar atento pra não
+
+1466
+00:41:54,000 --> 00:41:56,000
+sofrer de ataque
+
+1467
+00:41:56,000 --> 00:41:58,000
+mesmo coisa o servidor ssh
+
+1468
+00:41:58,000 --> 00:42:00,000
+às vezes você está
+
+1469
+00:42:00,000 --> 00:42:02,000
+acontece muito você conecta no servidor
+
+1470
+00:42:02,000 --> 00:42:04,000
+você vai pra uma outra rede interna
+
+1471
+00:42:04,000 --> 00:42:06,000
+que tem o mesmo IP
+
+1472
+00:42:06,000 --> 00:42:08,000
+você conecta e ele vai reclamar
+
+1473
+00:42:08,000 --> 00:42:10,000
+possivelmente você está sofrendo um ataque
+
+1474
+00:42:10,000 --> 00:42:12,000
+porque o IP daquele
+
+1475
+00:42:12,000 --> 00:42:14,000
+a chave
+
+1476
+00:42:14,000 --> 00:42:16,000
+daquele IP
+
+1477
+00:42:16,000 --> 00:42:18,000
+é diferente da chave
+
+1478
+00:42:18,000 --> 00:42:20,000
+que você já tinha armazenada
+
+1479
+00:42:20,000 --> 00:42:22,000
+por isso que ele reclame
+
+1480
+00:42:22,000 --> 00:42:24,000
+e apagar a chave do
+
+1481
+00:42:24,000 --> 00:42:26,000
+ponte ssh do seu home
+
+1482
+00:42:26,000 --> 00:42:28,000
+quando você é de certificado
+
+1483
+00:42:28,000 --> 00:42:30,000
+você nem olha nada, você vai lá e manda
+
+1484
+00:42:30,000 --> 00:42:32,000
+aceitar e pronto
+
+1485
+00:42:32,000 --> 00:42:34,000
+nem se preocupa com as coisas
+
+1486
+00:42:34,000 --> 00:42:36,000
+mas já que a gente toca o nosso um dia ssl
+
+1487
+00:42:36,000 --> 00:42:38,000
+e de mem demira em cima de ssl
+
+1488
+00:42:38,000 --> 00:42:40,000
+é interessante falar de uma palestra que teve na Defcon
+
+1489
+00:42:40,000 --> 00:42:42,000
+ano passado
+
+1490
+00:42:42,000 --> 00:42:44,000
+e ssl strip
+
+1491
+00:42:44,000 --> 00:42:46,000
+então
+
+1492
+00:42:48,000 --> 00:42:50,000
+strip ssl
+
+1493
+00:42:50,000 --> 00:42:52,000
+primeiro ponte cache quando o deis
+
+1494
+00:42:52,000 --> 00:42:54,000
+então
+
+1495
+00:42:54,000 --> 00:42:56,000
+o que que o cara faz
+
+1496
+00:42:56,000 --> 00:42:58,000
+o cara
+
+1497
+00:42:58,000 --> 00:43:00,000
+ele manda todas as conexões
+
+1498
+00:43:00,000 --> 00:43:02,000
+e aí onde tiver os
+
+1499
+00:43:02,000 --> 00:43:04,000
+ele tira
+
+1500
+00:43:04,000 --> 00:43:06,000
+se você tiver ssl
+
+1501
+00:43:06,000 --> 00:43:08,000
+www.https.com.br
+
+1502
+00:43:08,000 --> 00:43:10,000
+www.seubanto.com.br
+
+1503
+00:43:10,000 --> 00:43:12,000
+ele vai
+
+1504
+00:43:12,000 --> 00:43:14,000
+ver essa requisição
+
+1505
+00:43:14,000 --> 00:43:16,000
+e antes de fechar o túnel criptografado
+
+1506
+00:43:16,000 --> 00:43:18,000
+ele tira o ssl
+
+1507
+00:43:18,000 --> 00:43:20,000
+se o usuário não ficar atento
+
+1508
+00:43:20,000 --> 00:43:22,000
+que tem um cadeadinho lá e tudo mais
+
+1509
+00:43:22,000 --> 00:43:24,000
+ele vai ser
+
+1510
+00:43:24,000 --> 00:43:26,000
+comprometido
+
+1511
+00:43:26,000 --> 00:43:28,000
+ele vai estar trafegando
+
+1512
+00:43:28,000 --> 00:43:30,000
+em texto puro
+
+1513
+00:43:30,000 --> 00:43:32,000
+simbolo desse ataque é um cabo de polidência
+
+1514
+00:43:32,000 --> 00:43:34,000
+assim né
+
+1515
+00:43:40,000 --> 00:43:42,000
+eu me perca a vez de ssl
+
+1516
+00:43:42,000 --> 00:43:44,000
+tudo tem que usar um
+
+1517
+00:43:44,000 --> 00:43:46,000
+filival
+
+1518
+00:43:46,000 --> 00:43:48,000
+então um firewall
+
+1519
+00:43:48,000 --> 00:43:50,000
+ele te protege
+
+1520
+00:43:50,000 --> 00:43:52,000
+existem vertentes de firewalls
+
+1521
+00:43:52,000 --> 00:43:54,000
+então assim um firewall de rede
+
+1522
+00:43:54,000 --> 00:43:56,000
+basicamente ele bloqueia
+
+1523
+00:43:56,000 --> 00:43:58,000
+conexões
+
+1524
+00:43:58,000 --> 00:44:00,000
+a nível de rede
+
+1525
+00:44:00,000 --> 00:44:02,000
+e de p de porta
+
+1526
+00:44:02,000 --> 00:44:04,000
+a arp
+
+1527
+00:44:04,000 --> 00:44:06,000
+para o acolho tcp para o acolho dp
+
+1528
+00:44:06,000 --> 00:44:08,000
+pode limitar tamanho de pacotes
+
+1529
+00:44:08,000 --> 00:44:10,000
+para fazer uma série de coisas
+
+1530
+00:44:10,000 --> 00:44:12,000
+a questão
+
+1531
+00:44:12,000 --> 00:44:14,000
+que é importante observar
+
+1532
+00:44:14,000 --> 00:44:16,000
+é que no firewall de rede
+
+1533
+00:44:16,000 --> 00:44:18,000
+a parte de aplicação dele
+
+1534
+00:44:18,000 --> 00:44:20,000
+um firewall de aplicação
+
+1535
+00:44:20,000 --> 00:44:22,000
+mesmo um firewall de aplicação
+
+1536
+00:44:22,000 --> 00:44:24,000
+ele pode ser bypassado
+
+1537
+00:44:24,000 --> 00:44:26,000
+como?
+
+1538
+00:44:26,000 --> 00:44:28,000
+você liberou
+
+1539
+00:44:28,000 --> 00:44:30,000
+para os seus funcionários acessarem a porta 80
+
+1540
+00:44:30,000 --> 00:44:32,000
+hptp então está liberado
+
+1541
+00:44:34,000 --> 00:44:36,000
+tem como o seu firewall
+
+1542
+00:44:36,000 --> 00:44:38,000
+se ele não for um firewall de aplicação decente
+
+1543
+00:44:38,000 --> 00:44:40,000
+ele não vai identificar
+
+1544
+00:44:40,000 --> 00:44:42,000
+que só trafega o protocolo hptp na porta 80
+
+1545
+00:44:42,000 --> 00:44:44,000
+então as vezes
+
+1546
+00:44:44,000 --> 00:44:46,000
+as pessoas vinculam muito o protocolo
+
+1547
+00:44:46,000 --> 00:44:48,000
+a porta
+
+1548
+00:44:48,000 --> 00:44:50,000
+mas a porta 80 pode ser usada
+
+1549
+00:44:50,000 --> 00:44:52,000
+para trafegar ssh
+
+1550
+00:44:52,000 --> 00:44:54,000
+para trafegar
+
+1551
+00:44:54,000 --> 00:44:56,000
+qualquer outra coisa que não seja hptp
+
+1552
+00:44:56,000 --> 00:44:58,000
+então um firewall
+
+1553
+00:44:58,000 --> 00:45:00,000
+ele tem que se preocupar com isso também
+
+1554
+00:45:00,000 --> 00:45:02,000
+ele tem que garantir que o que vai trafegar na porta 80
+
+1555
+00:45:02,000 --> 00:45:04,000
+seja realmente
+
+1556
+00:45:04,000 --> 00:45:06,000
+trato do hptp
+
+1557
+00:45:06,000 --> 00:45:08,000
+a questão é
+
+1558
+00:45:08,000 --> 00:45:10,000
+mesmo fazendo esses tratamentos
+
+1559
+00:45:10,000 --> 00:45:12,000
+tem como você vai passar isso
+
+1560
+00:45:12,000 --> 00:45:14,000
+com os convergenios
+
+1561
+00:45:14,000 --> 00:45:16,000
+que você vai
+
+1562
+00:45:16,000 --> 00:45:18,000
+tunelar uma conexão
+
+1563
+00:45:18,000 --> 00:45:20,000
+ssh
+
+1564
+00:45:20,000 --> 00:45:22,000
+em cima de um protocolo hptp
+
+1565
+00:45:22,000 --> 00:45:24,000
+então basicamente
+
+1566
+00:45:24,000 --> 00:45:26,000
+você
+
+1567
+00:45:26,000 --> 00:45:28,000
+um firewall só infelizmente
+
+1568
+00:45:28,000 --> 00:45:30,000
+não vai te proteger
+
+1569
+00:45:30,000 --> 00:45:32,000
+então se você não acredita nisso
+
+1570
+00:45:32,000 --> 00:45:34,000
+tem um artigo
+
+1571
+00:45:34,000 --> 00:45:36,000
+de um amigo
+
+1572
+00:45:36,000 --> 00:45:38,000
+é o Igor Parreira
+
+1573
+00:45:38,000 --> 00:45:40,000
+no clubos dos mercenados
+
+1574
+00:45:40,000 --> 00:45:42,000
+no clubos dos mercenados
+
+1575
+00:45:42,000 --> 00:45:44,000
+convergenio
+
+1576
+00:45:44,000 --> 00:45:46,000
+hptp em cima de ssh
+
+1577
+00:45:46,000 --> 00:45:48,000
+então é um total bacana
+
+1578
+00:45:48,000 --> 00:45:50,000
+que o cara faz trafegar hptp
+
+1579
+00:45:50,000 --> 00:45:52,000
+em cima do protocolo ssh
+
+1580
+00:45:52,000 --> 00:45:54,000
+que é o protocolo usado para ping
+
+1581
+00:45:54,000 --> 00:45:56,000
+eixo fico extra
+
+1582
+00:45:56,000 --> 00:45:58,000
+eixo fico reply
+
+1583
+00:45:58,000 --> 00:46:00,000
+então pensa
+
+1584
+00:46:00,000 --> 00:46:02,000
+que você pode trafegar hptp
+
+1585
+00:46:02,000 --> 00:46:04,000
+e qualquer outro protocolo
+
+1586
+00:46:04,000 --> 00:46:06,000
+a gente acha esse artigo e a gente põe no posto
+
+1587
+00:46:06,000 --> 00:46:08,000
+como que funciona o firewall
+
+1588
+00:46:08,000 --> 00:46:10,000
+em um minuto
+
+1589
+00:46:10,000 --> 00:46:12,000
+então é basicamente
+
+1590
+00:46:12,000 --> 00:46:14,000
+você tem várias portas
+
+1591
+00:46:14,000 --> 00:46:16,000
+que estão escutando seu computador
+
+1592
+00:46:16,000 --> 00:46:18,000
+e o firewall basicamente
+
+1593
+00:46:18,000 --> 00:46:20,000
+que ele faz
+
+1594
+00:46:20,000 --> 00:46:22,000
+quando ele simplesmente
+
+1595
+00:46:22,000 --> 00:46:24,000
+é assim, o serviço importa
+
+1596
+00:46:24,000 --> 00:46:26,000
+ele só não deixa que uma conexão
+
+1597
+00:46:26,000 --> 00:46:28,000
+seja feita
+
+1598
+00:46:28,000 --> 00:46:30,000
+nessa porta
+
+1599
+00:46:30,000 --> 00:46:32,000
+por exemplo
+
+1600
+00:46:32,000 --> 00:46:34,000
+na porta do tente que é o de casa da
+
+1601
+00:46:34,000 --> 00:46:36,000
+o padrão do protocolo hptp
+
+1602
+00:46:36,000 --> 00:46:38,000
+assim
+
+1603
+00:46:38,000 --> 00:46:40,000
+tem por exemplo
+
+1604
+00:46:40,000 --> 00:46:42,000
+até, eu falei por exemplo
+
+1605
+00:46:42,000 --> 00:46:44,000
+no caso do
+
+1606
+00:46:44,000 --> 00:46:46,000
+aí você me pergunta
+
+1607
+00:46:46,000 --> 00:46:48,000
+eu tenho, acho que a gente
+
+1608
+00:46:48,000 --> 00:46:50,000
+seria interessante a gente falar
+
+1609
+00:46:50,000 --> 00:46:52,000
+de só que a gente entender do que a gente está falando
+
+1610
+00:46:52,000 --> 00:46:54,000
+passou de um minuto mas pra falar
+
+1611
+00:46:54,000 --> 00:46:56,000
+tem aquelas palavras de tv4
+
+1612
+00:46:56,000 --> 00:46:58,000
+tv6 que elas pararam lá
+
+1613
+00:46:58,000 --> 00:47:00,000
+agora eu passo por mais
+
+1614
+00:47:06,000 --> 00:47:08,000
+o que é a socket?
+
+1615
+00:47:08,000 --> 00:47:10,000
+não, socket no contexto de rede
+
+1616
+00:47:10,000 --> 00:47:12,000
+é você
+
+1617
+00:47:12,000 --> 00:47:14,000
+colocar o seu computador
+
+1618
+00:47:14,000 --> 00:47:16,000
+pra escutar numa porta
+
+1619
+00:47:16,000 --> 00:47:18,000
+e quando você faz isso, você está bindando uma porta
+
+1620
+00:47:18,000 --> 00:47:20,000
+você está abrindo um socket
+
+1621
+00:47:20,000 --> 00:47:22,000
+isso quer dizer que
+
+1622
+00:47:22,000 --> 00:47:24,000
+outros computadores, se não tiver um bloqueio
+
+1623
+00:47:24,000 --> 00:47:26,000
+no caminho, vão poder comunicar
+
+1624
+00:47:26,000 --> 00:47:28,000
+com você através daquela porta
+
+1625
+00:47:28,000 --> 00:47:30,000
+vai
+
+1626
+00:47:30,000 --> 00:47:32,000
+por exemplo
+
+1627
+00:47:32,000 --> 00:47:34,000
+a gente testa, muitas vezes pra testar
+
+1628
+00:47:34,000 --> 00:47:36,000
+uma porta tctp
+
+1629
+00:47:36,000 --> 00:47:38,000
+ver se ela está aberta
+
+1630
+00:47:38,000 --> 00:47:40,000
+é comum a gente dar telnet na porta
+
+1631
+00:47:40,000 --> 00:47:42,000
+telnet, espaço roxo, espaço porta
+
+1632
+00:47:42,000 --> 00:47:44,000
+pode usar em cima da porta 80, em cima de qualquer porta
+
+1633
+00:47:44,000 --> 00:47:46,000
+a questão é, se você não
+
+1634
+00:47:46,000 --> 00:47:48,000
+utilizar os métodos
+
+1635
+00:47:48,000 --> 00:47:50,000
+que aquele serviço espera, que aquela porta está esperando
+
+1636
+00:47:50,000 --> 00:47:52,000
+então você usa um porta scan
+
+1637
+00:47:52,000 --> 00:47:54,000
+a questão é que, se você não usar
+
+1638
+00:47:54,000 --> 00:47:56,000
+os métodos
+
+1639
+00:47:56,000 --> 00:47:58,000
+daquele serviço, não tem sentido
+
+1640
+00:47:58,000 --> 00:48:00,000
+então por exemplo, você pode dar
+
+1641
+00:48:00,000 --> 00:48:02,000
+telnet num servidor de 100 ptp
+
+1642
+00:48:02,000 --> 00:48:04,000
+você pode autenticar nele, usando telnet
+
+1643
+00:48:04,000 --> 00:48:06,000
+você pode dar telnet num servidor
+
+1644
+00:48:06,000 --> 00:48:08,000
+de http
+
+1645
+00:48:08,000 --> 00:48:10,000
+você pode usar os métodos get, post
+
+1646
+00:48:10,000 --> 00:48:12,000
+pult delet
+
+1647
+00:48:12,000 --> 00:48:14,000
+pra trafegar a http
+
+1648
+00:48:14,000 --> 00:48:16,000
+o servidor vai entender
+
+1649
+00:48:16,000 --> 00:48:18,000
+mesmo você usando o telnet
+
+1650
+00:48:18,000 --> 00:48:20,000
+e não um browser
+
+1651
+00:48:22,000 --> 00:48:24,000
+e o IP
+
+1652
+00:48:24,000 --> 00:48:26,000
+para você
+
+1653
+00:48:26,000 --> 00:48:28,000
+poder de cintas
+
+1654
+00:48:28,000 --> 00:48:30,000
+eu estou longe aqui da rede
+
+1655
+00:48:30,000 --> 00:48:32,000
+então o protocolo
+
+1656
+00:48:32,000 --> 00:48:34,000
+tcp-p
+
+1657
+00:48:34,000 --> 00:48:36,000
+são dois protocolos
+
+1658
+00:48:36,000 --> 00:48:38,000
+não só, porque o tcp
+
+1659
+00:48:38,000 --> 00:48:40,000
+é o transverses counter apretagal
+
+1660
+00:48:40,000 --> 00:48:42,000
+status loose
+
+1661
+00:48:42,000 --> 00:48:44,000
+e o ip é o internet protocol
+
+1662
+00:48:44,000 --> 00:48:46,000
+mas uma coisa
+
+1663
+00:48:46,000 --> 00:48:48,000
+eu já falei uma coisa um milhão de vezes
+
+1664
+00:48:48,000 --> 00:48:50,000
+também
+
+1665
+00:48:50,000 --> 00:48:52,000
+porque a gente pode observar
+
+1666
+00:48:52,000 --> 00:48:54,000
+que o tcp é usado exclusivo
+
+1667
+00:48:54,000 --> 00:48:56,000
+no
+
+1668
+00:48:56,000 --> 00:48:58,000
+x11
+
+1669
+00:48:58,000 --> 00:49:00,000
+x11 é o ambiente gráfico do link
+
+1670
+00:49:00,000 --> 00:49:02,000
+um ponto puxado
+
+1671
+00:49:02,000 --> 00:49:04,000
+então
+
+1672
+00:49:04,000 --> 00:49:06,000
+ele usa o protocolo tcp
+
+1673
+00:49:06,000 --> 00:49:08,000
+o x11 que você está falando
+
+1674
+00:49:08,000 --> 00:49:10,000
+é do ambiente gráfico
+
+1675
+00:49:10,000 --> 00:49:12,000
+é exatamente
+
+1676
+00:49:12,000 --> 00:49:14,000
+pensei que era só um trocadil
+
+1677
+00:49:14,000 --> 00:49:16,000
+trocadalho do carinho
+
+1678
+00:49:16,000 --> 00:49:18,000
+acertei na cagada
+
+1679
+00:49:18,000 --> 00:49:20,000
+exclusivo?
+
+1680
+00:49:20,000 --> 00:49:22,000
+exclusivo não tem problema
+
+1681
+00:49:22,000 --> 00:49:24,000
+você consegue
+
+1682
+00:49:24,000 --> 00:49:26,000
+fazer facilmente
+
+1683
+00:49:26,000 --> 00:49:28,000
+sem nenhum malabarismo
+
+1684
+00:49:28,000 --> 00:49:30,000
+muito grande
+
+1685
+00:49:30,000 --> 00:49:32,000
+é você usar
+
+1686
+00:49:32,000 --> 00:49:34,000
+o servidor
+
+1687
+00:49:34,000 --> 00:49:36,000
+no caso
+
+1688
+00:49:36,000 --> 00:49:38,000
+o x11 usa uma plataforma
+
+1689
+00:49:38,000 --> 00:49:40,000
+acerte servidor
+
+1690
+00:49:40,000 --> 00:49:42,000
+você consegue usar o servidor x11
+
+1691
+00:49:42,000 --> 00:49:44,000
+de uma outra máquina
+
+1692
+00:49:44,000 --> 00:49:46,000
+facilmente
+
+1693
+00:49:46,000 --> 00:49:48,000
+inclusive em cima de ssh
+
+1694
+00:49:48,000 --> 00:49:50,000
+é interessante você deixar o seu x11
+
+1695
+00:49:50,000 --> 00:49:52,000
+exposto para o internet
+
+1696
+00:49:52,000 --> 00:49:54,000
+tem um lugar
+
+1697
+00:49:54,000 --> 00:49:56,000
+de um firewall
+
+1698
+00:49:56,000 --> 00:49:58,000
+é aquela história do portão gigante
+
+1699
+00:49:58,000 --> 00:50:00,000
+com a cerquinha viva de 30 centímetros
+
+1700
+00:50:00,000 --> 00:50:02,000
+e o x11
+
+1701
+00:50:02,000 --> 00:50:04,000
+é bem interessante
+
+1702
+00:50:04,000 --> 00:50:06,000
+é um exemplo clássico de comunicação
+
+1703
+00:50:06,000 --> 00:50:08,000
+e aquela parada
+
+1704
+00:50:08,000 --> 00:50:10,000
+do pv4
+
+1705
+00:50:10,000 --> 00:50:12,000
+pv6
+
+1706
+00:50:12,000 --> 00:50:14,000
+o que está acabando no mundo
+
+1707
+00:50:14,000 --> 00:50:16,000
+é porque
+
+1708
+00:50:16,000 --> 00:50:18,000
+o pv4
+
+1709
+00:50:18,000 --> 00:50:20,000
+ele tem
+
+1710
+00:50:20,000 --> 00:50:22,000
+4 octetos
+
+1711
+00:50:22,000 --> 00:50:24,000
+que vai de 0 a 255
+
+1712
+00:50:24,000 --> 00:50:26,000
+e tem
+
+1713
+00:50:26,000 --> 00:50:28,000
+são várias limitações no caso de
+
+1714
+00:50:28,000 --> 00:50:30,000
+número de endereço disponível
+
+1715
+00:50:30,000 --> 00:50:32,000
+porque
+
+1716
+00:50:32,000 --> 00:50:34,000
+para você
+
+1717
+00:50:34,000 --> 00:50:36,000
+é porque para você criar um IP
+
+1718
+00:50:36,000 --> 00:50:38,000
+ele tem as classes de IP
+
+1719
+00:50:38,000 --> 00:50:40,000
+que são class A, B, C, E, D
+
+1720
+00:50:40,000 --> 00:50:42,000
+e cada uma dessas
+
+1721
+00:50:42,000 --> 00:50:44,000
+class pega um range de IP
+
+1722
+00:50:44,000 --> 00:50:46,000
+diferente
+
+1723
+00:50:46,000 --> 00:50:48,000
+é uma
+
+1724
+00:50:48,000 --> 00:50:50,000
+na classe A
+
+1725
+00:50:50,000 --> 00:50:52,000
+o primeiro octet
+
+1726
+00:50:52,000 --> 00:50:54,000
+vou estar falando deste termo
+
+1727
+00:50:54,000 --> 00:50:56,000
+cada classe
+
+1728
+00:50:56,000 --> 00:50:58,000
+tem uma quantidade
+
+1729
+00:50:58,000 --> 00:51:00,000
+de octetos
+
+1730
+00:51:00,000 --> 00:51:02,000
+reservada para a rede
+
+1731
+00:51:02,000 --> 00:51:04,000
+e outra quantidade reservada para a root
+
+1732
+00:51:04,000 --> 00:51:06,000
+como seria isso, por exemplo
+
+1733
+00:51:06,000 --> 00:51:08,000
+é uma classe que eu utilize
+
+1734
+00:51:08,000 --> 00:51:10,000
+só o primeiro octet para a rede
+
+1735
+00:51:10,000 --> 00:51:12,000
+vai ser 10
+
+1736
+00:51:12,000 --> 00:51:14,000
+na rede 10.0.0.1
+
+1737
+00:51:14,000 --> 00:51:16,000
+o primeiro octet
+
+1738
+00:51:16,000 --> 00:51:18,000
+ele é para a rede
+
+1739
+00:51:18,000 --> 00:51:20,000
+eu posso ter uma rede
+
+1740
+00:51:20,000 --> 00:51:22,000
+que começa com 11
+
+1741
+00:51:22,000 --> 00:51:24,000
+do 10
+
+1742
+00:51:24,000 --> 00:51:26,000
+para a frente vai ser de root
+
+1743
+00:51:26,000 --> 00:51:28,000
+então posso ter
+
+1744
+00:51:28,000 --> 00:51:30,000
+de 0 a 255
+
+1745
+00:51:30,000 --> 00:51:32,000
+em cada um daqueles octetos
+
+1746
+00:51:32,000 --> 00:51:34,000
+de máquinas dentro daquela rede
+
+1747
+00:51:34,000 --> 00:51:36,000
+quando eu crio uma sub rede
+
+1748
+00:51:36,000 --> 00:51:38,000
+eu crio uma ramificação daquela rede
+
+1749
+00:51:38,000 --> 00:51:40,000
+eu preciso do geth
+
+1750
+00:51:40,000 --> 00:51:42,000
+que eu falei anteriormente
+
+1751
+00:51:42,000 --> 00:51:44,000
+para interligar essa rede
+
+1752
+00:51:44,000 --> 00:51:46,000
+dentro dessa sub rede
+
+1753
+00:51:46,000 --> 00:51:48,000
+eu posso ter mais um outro número
+
+1754
+00:51:48,000 --> 00:51:50,000
+de root
+
+1755
+00:51:50,000 --> 00:51:52,000
+no caso
+
+1756
+00:51:52,000 --> 00:51:54,000
+da internet
+
+1757
+00:51:54,000 --> 00:51:56,000
+essa quantidade
+
+1758
+00:51:56,000 --> 00:51:58,000
+de IP reservados
+
+1759
+00:51:58,000 --> 00:52:00,000
+já está acabando
+
+1760
+00:52:00,000 --> 00:52:02,000
+o IPv6 usa uma outra metodologia
+
+1761
+00:52:02,000 --> 00:52:04,000
+o IPv6 é quase um MAC address
+
+1762
+00:52:04,000 --> 00:52:06,000
+na época em 2004
+
+1763
+00:52:06,000 --> 00:52:08,000
+eu vi uma palestra
+
+1764
+00:52:08,000 --> 00:52:10,000
+falando sobre IPv6
+
+1765
+00:52:10,000 --> 00:52:12,000
+e lá a mulher palestrante
+
+1766
+00:52:12,000 --> 00:52:14,000
+falava que para acabar
+
+1767
+00:52:14,000 --> 00:52:16,000
+a quantidade de IP
+
+1768
+00:52:16,000 --> 00:52:18,000
+para esgotar a quantidade de IPv6
+
+1769
+00:52:18,000 --> 00:52:20,000
+eu precisaria ter
+
+1770
+00:52:20,000 --> 00:52:22,000
+uma rede de tamanho da internet
+
+1771
+00:52:22,000 --> 00:52:24,000
+cada roche que tem hoje na internet
+
+1772
+00:52:24,000 --> 00:52:26,000
+deu para acabar a quantidade
+
+1773
+00:52:26,000 --> 00:52:28,000
+do IPv6
+
+1774
+00:52:28,000 --> 00:52:30,000
+então a gente pode fazer até interligação interplanetária
+
+1775
+00:52:30,000 --> 00:52:32,000
+usando IPv6
+
+1776
+00:52:32,000 --> 00:52:34,000
+que vai sobrar
+
+1777
+00:52:34,000 --> 00:52:36,000
+sobrar IP
+
+1778
+00:52:36,000 --> 00:52:38,000
+isso é uma coisa que se torna
+
+1779
+00:52:38,000 --> 00:52:40,000
+bastante viável, por exemplo, ter os IPv6
+
+1780
+00:52:40,000 --> 00:52:42,000
+com dispositivos móveis
+
+1781
+00:52:42,000 --> 00:52:44,000
+até ser o mais capaz que pode ter um IP
+
+1782
+00:52:44,000 --> 00:52:46,000
+então como eu falei
+
+1783
+00:52:46,000 --> 00:52:48,000
+no começo do podcast que eu queria
+
+1784
+00:52:48,000 --> 00:52:50,000
+abrir uma empresa
+
+1785
+00:52:50,000 --> 00:52:52,000
+porque agora o IPv6 fica melhor
+
+1786
+00:52:52,000 --> 00:52:54,000
+porque eu posso vender internet
+
+1787
+00:52:54,000 --> 00:52:56,000
+não só para os terracos
+
+1788
+00:52:56,000 --> 00:52:58,000
+eu posso vender para os marcianos
+
+1789
+00:52:58,000 --> 00:53:00,000
+você já está reagindo
+
+1790
+00:53:00,000 --> 00:53:02,000
+você já está reagindo
+
+1791
+00:53:08,000 --> 00:53:10,000
+tem uma...
+
+1792
+00:53:10,000 --> 00:53:12,000
+nesse negócio de paro isso, ok?
+
+1793
+00:53:12,000 --> 00:53:14,000
+tem uma palavra que não sai da boca
+
+1794
+00:53:14,000 --> 00:53:16,000
+daqueles meninos empolgados com os meninos
+
+1795
+00:53:16,000 --> 00:53:18,000
+que é o tal do IPv6
+
+1796
+00:53:18,000 --> 00:53:20,000
+aí eu queria que vocês explicassem
+
+1797
+00:53:20,000 --> 00:53:22,000
+o que inconsiste o IPv6
+
+1798
+00:53:22,000 --> 00:53:24,000
+o IPv6
+
+1799
+00:53:24,000 --> 00:53:26,000
+antes do IPv6
+
+1800
+00:53:26,000 --> 00:53:28,000
+antes do IPv6
+
+1801
+00:53:28,000 --> 00:53:30,000
+o IPv6 é o epilógio
+
+1802
+00:53:30,000 --> 00:53:32,000
+foi chegar no IPv6
+
+1803
+00:53:32,000 --> 00:53:34,000
+vou deixar para o Marcelo
+
+1804
+00:53:34,000 --> 00:53:36,000
+inclusive usava um carinho de redir
+
+1805
+00:53:36,000 --> 00:53:38,000
+que fazia NAT
+
+1806
+00:53:38,000 --> 00:53:40,000
+com IPv6
+
+1807
+00:53:40,000 --> 00:53:42,000
+e o NAT fazia com redir
+
+1808
+00:53:42,000 --> 00:53:44,000
+porque IPv6 não tinha nada
+
+1809
+00:53:44,000 --> 00:53:46,000
+mas enfim
+
+1810
+00:53:46,000 --> 00:53:48,000
+só com relação ao IPv6
+
+1811
+00:53:48,000 --> 00:53:50,000
+o que o pessoal anda fazendo por aí
+
+1812
+00:53:50,000 --> 00:53:52,000
+é adquirindo IPv6
+
+1813
+00:53:52,000 --> 00:53:54,000
+e convertendo para IPv4
+
+1814
+00:53:54,000 --> 00:53:56,000
+para você ter interoperabilidade
+
+1815
+00:53:56,000 --> 00:53:58,000
+entre as duas redes
+
+1816
+00:53:58,000 --> 00:54:00,000
+tem até alguns projetos
+
+1817
+00:54:00,000 --> 00:54:02,000
+ou pensantes que fazem isso
+
+1818
+00:54:02,000 --> 00:54:04,000
+eu infelizmente não sei o nome
+
+1819
+00:54:04,000 --> 00:54:06,000
+mas quem quiser pode procurar
+
+1820
+00:54:06,000 --> 00:54:08,000
+saber isso dentro
+
+1821
+00:54:08,000 --> 00:54:10,000
+então, com relação ao IPT
+
+1822
+00:54:10,000 --> 00:54:12,000
+o IPT é um firewall estetico
+
+1823
+00:54:12,000 --> 00:54:14,000
+isso quer dizer que ele checa
+
+1824
+00:54:14,000 --> 00:54:16,000
+e rastreia
+
+1825
+00:54:16,000 --> 00:54:18,000
+os estados da conexão no firewall
+
+1826
+00:54:18,000 --> 00:54:20,000
+então
+
+1827
+00:54:20,000 --> 00:54:22,000
+uma conexão ela tem um estado
+
+1828
+00:54:22,000 --> 00:54:24,000
+de entrada, por exemplo
+
+1829
+00:54:24,000 --> 00:54:26,000
+nova conexão
+
+1830
+00:54:26,000 --> 00:54:28,000
+estabilizada ou relacionada
+
+1831
+00:54:28,000 --> 00:54:30,000
+por exemplo
+
+1832
+00:54:30,000 --> 00:54:32,000
+ou finalizada
+
+1833
+00:54:32,000 --> 00:54:34,000
+quer dizer
+
+1834
+00:54:34,000 --> 00:54:36,000
+um firewall estetico
+
+1835
+00:54:36,000 --> 00:54:38,000
+consegue
+
+1836
+00:54:38,000 --> 00:54:40,000
+monitorar os estados da conexão
+
+1837
+00:54:40,000 --> 00:54:42,000
+e trabalhar com esses estados
+
+1838
+00:54:42,000 --> 00:54:44,000
+então, por exemplo
+
+1839
+00:54:44,000 --> 00:54:46,000
+eu posso falar que eu quero liberar
+
+1840
+00:54:46,000 --> 00:54:48,000
+todo o tráfico para a porta 80
+
+1841
+00:54:48,000 --> 00:54:50,000
+de entrada
+
+1842
+00:54:50,000 --> 00:54:52,000
+tudo que tiver entrado no porta 80 liberado
+
+1843
+00:54:52,000 --> 00:54:54,000
+e tudo que tiver saindo
+
+1844
+00:54:54,000 --> 00:54:56,000
+e que for
+
+1845
+00:54:56,000 --> 00:54:58,000
+estado estabilizado ou relacionado
+
+1846
+00:54:58,000 --> 00:55:00,000
+vai aceitar também
+
+1847
+00:55:00,000 --> 00:55:02,000
+tá liberado
+
+1848
+00:55:02,000 --> 00:55:04,000
+e aí quer dizer, eu não vou precisar ficar
+
+1849
+00:55:04,000 --> 00:55:06,000
+criando
+
+1850
+00:55:06,000 --> 00:55:08,000
+para cada regra de entrada
+
+1851
+00:55:08,000 --> 00:55:10,000
+de tráfico uma regra de saída
+
+1852
+00:55:10,000 --> 00:55:12,000
+então
+
+1853
+00:55:12,000 --> 00:55:14,000
+essa é uma ideia legal
+
+1854
+00:55:14,000 --> 00:55:16,000
+de se trabalhar com estado
+
+1855
+00:55:16,000 --> 00:55:18,000
+outro exemplo
+
+1856
+00:55:18,000 --> 00:55:20,000
+eu vou falar que
+
+1857
+00:55:20,000 --> 00:55:22,000
+você não pode ter um pacote entrando
+
+1858
+00:55:22,000 --> 00:55:24,000
+que um estado new
+
+1859
+00:55:24,000 --> 00:55:26,000
+um novo pacote entrando
+
+1860
+00:55:26,000 --> 00:55:28,000
+um novo pacote entrando tcp
+
+1861
+00:55:28,000 --> 00:55:30,000
+sem
+
+1862
+00:55:30,000 --> 00:55:32,000
+sem ser sim
+
+1863
+00:55:32,000 --> 00:55:34,000
+porque no treeway handshake
+
+1864
+00:55:34,000 --> 00:55:36,000
+de tcp você tem um sim
+
+1865
+00:55:36,000 --> 00:55:38,000
+devolve um sim AC
+
+1866
+00:55:38,000 --> 00:55:40,000
+e responde um AC
+
+1867
+00:55:40,000 --> 00:55:42,000
+então quer dizer
+
+1868
+00:55:42,000 --> 00:55:44,000
+dá para fazer uma série de controles
+
+1869
+00:55:44,000 --> 00:55:46,000
+mais refinados com firewall estetico
+
+1870
+00:55:46,000 --> 00:55:48,000
+e o pt eu vou usar estético
+
+1871
+00:55:48,000 --> 00:55:50,000
+por isso ele é interessante
+
+1872
+00:55:50,000 --> 00:55:52,000
+ele realiza NAT
+
+1873
+00:55:52,000 --> 00:55:54,000
+que é você
+
+1874
+00:55:54,000 --> 00:55:56,000
+traduzir redes
+
+1875
+00:55:56,000 --> 00:55:58,000
+então você pode falar, você tem uma rede
+
+1876
+00:55:58,000 --> 00:56:00,000
+e isso, network address translation
+
+1877
+00:56:00,000 --> 00:56:02,000
+e aí você pode
+
+1878
+00:56:02,000 --> 00:56:04,000
+por exemplo, criar uma DMZ
+
+1879
+00:56:04,000 --> 00:56:06,000
+que você vai ter uma rede interna
+
+1880
+00:56:06,000 --> 00:56:08,000
+que vai estar sendo exposta para a internet
+
+1881
+00:56:08,000 --> 00:56:10,000
+é, zona desmilitarizada
+
+1882
+00:56:10,000 --> 00:56:12,000
+que você vai ter
+
+1883
+00:56:12,000 --> 00:56:14,000
+uma requisição
+
+1884
+00:56:14,000 --> 00:56:16,000
+da rede externa
+
+1885
+00:56:16,000 --> 00:56:18,000
+que vai ser redirecionado para o IP da sua DMZ
+
+1886
+00:56:18,000 --> 00:56:20,000
+e isso tudo está separado da sua rede interna
+
+1887
+00:56:20,000 --> 00:56:22,000
+então isso é importante
+
+1888
+00:56:22,000 --> 00:56:24,000
+por que?
+
+1889
+00:56:24,000 --> 00:56:26,000
+porque se você sofrer um ataque na DMZ
+
+1890
+00:56:26,000 --> 00:56:28,000
+vai estar só na DMZ
+
+1891
+00:56:28,000 --> 00:56:30,000
+a nível de firewall
+
+1892
+00:56:30,000 --> 00:56:32,000
+você vai estar fisicamente
+
+1893
+00:56:32,000 --> 00:56:34,000
+protegido do
+
+1894
+00:56:34,000 --> 00:56:36,000
+o que ele descreveu inclusive
+
+1895
+00:56:36,000 --> 00:56:38,000
+é o que
+
+1896
+00:56:38,000 --> 00:56:40,000
+chegou a ser o nome do firewall
+
+1897
+00:56:40,000 --> 00:56:42,000
+chamado de firewall
+
+1898
+00:56:42,000 --> 00:56:44,000
+é aquelas paredes que
+
+1899
+00:56:44,000 --> 00:56:46,000
+quando ele tivesse um incêndio
+
+1900
+00:56:46,000 --> 00:56:48,000
+no certo local
+
+1901
+00:56:48,000 --> 00:56:50,000
+ele evitava que
+
+1902
+00:56:50,000 --> 00:56:52,000
+se incêndio se alaste para outro
+
+1903
+00:56:52,000 --> 00:56:54,000
+como do prego, por exemplo
+
+1904
+00:56:54,000 --> 00:56:56,000
+só para a gente terminar com o IPTables
+
+1905
+00:56:56,000 --> 00:56:58,000
+o IPTables, essa ferramenta
+
+1906
+00:56:58,000 --> 00:57:00,000
+não tem
+
+1907
+00:57:00,000 --> 00:57:02,000
+o que seria de front end
+
+1908
+00:57:02,000 --> 00:57:04,000
+o IPTables em si ele não tem front end
+
+1909
+00:57:04,000 --> 00:57:06,000
+tem que instalar um outro software
+
+1910
+00:57:06,000 --> 00:57:08,000
+que seja o front end do IPTables
+
+1911
+00:57:08,000 --> 00:57:10,000
+inclusive
+
+1912
+00:57:10,000 --> 00:57:14,000
+o
+
+1913
+00:57:14,000 --> 00:57:16,000
+tem uma aplicação
+
+1914
+00:57:16,000 --> 00:57:18,000
+que é o cprojet
+
+1915
+00:57:18,000 --> 00:57:20,000
+nós vamos falar sobre ele
+
+1916
+00:57:20,000 --> 00:57:22,000
+que uma das funcionalidades do cprojet
+
+1917
+00:57:22,000 --> 00:57:24,000
+é ser front end para o IPTables
+
+1918
+00:57:24,000 --> 00:57:26,000
+e só existem outras
+
+1919
+00:57:26,000 --> 00:57:28,000
+front end
+
+1920
+00:57:28,000 --> 00:57:30,000
+agora com relação a IPTables
+
+1921
+00:57:30,000 --> 00:57:32,000
+eu queria só fazer mais uma observação
+
+1922
+00:57:32,000 --> 00:57:34,000
+que é com relação
+
+1923
+00:57:34,000 --> 00:57:36,000
+ele tem as três tabelas
+
+1924
+00:57:36,000 --> 00:57:38,000
+a filter
+
+1925
+00:57:38,000 --> 00:57:40,000
+que é passado por ele
+
+1926
+00:57:40,000 --> 00:57:42,000
+e também tem a tabela na arte
+
+1927
+00:57:42,000 --> 00:57:44,000
+que é de tradução de endereço
+
+1928
+00:57:44,000 --> 00:57:46,000
+e também tem a tabela
+
+1929
+00:57:46,000 --> 00:57:48,000
+que você pode manipular os pacotes
+
+1930
+00:57:48,000 --> 00:57:50,000
+você pode setar uma prioridade
+
+1931
+00:57:50,000 --> 00:57:52,000
+maior para um pacote
+
+1932
+00:57:52,000 --> 00:57:54,000
+marcar um pacote
+
+1933
+00:57:54,000 --> 00:57:56,000
+isso tudo para fazer redundância de serviço
+
+1934
+00:57:56,000 --> 00:57:58,000
+para criar um ambiente
+
+1935
+00:57:58,000 --> 00:58:00,000
+de alta disponibilidade
+
+1936
+00:58:00,000 --> 00:58:02,000
+coisa desse tipo
+
+1937
+00:58:02,000 --> 00:58:04,000
+outra coisa que é importante falar
+
+1938
+00:58:04,000 --> 00:58:06,000
+e que o IPTables deixa um pouco a desejar
+
+1939
+00:58:06,000 --> 00:58:08,000
+é a questão de
+
+1940
+00:58:08,000 --> 00:58:10,000
+file a nível de
+
+1941
+00:58:10,000 --> 00:58:12,000
+a camada de aplicação
+
+1942
+00:58:12,000 --> 00:58:14,000
+porque é aquilo que eu falei
+
+1943
+00:58:14,000 --> 00:58:16,000
+você libera a porta 80
+
+1944
+00:58:16,000 --> 00:58:18,000
+você realmente chega a ser aquele tráfico e HTTP
+
+1945
+00:58:18,000 --> 00:58:20,000
+né
+
+1946
+00:58:20,000 --> 00:58:22,000
+você consegue identificar
+
+1947
+00:58:22,000 --> 00:58:24,000
+se está toda fegando um orme e bloquear
+
+1948
+00:58:24,000 --> 00:58:26,000
+então o IPTables
+
+1949
+00:58:26,000 --> 00:58:28,000
+tem lá o seu módulo layer 7
+
+1950
+00:58:28,000 --> 00:58:30,000
+para você escalar
+
+1951
+00:58:30,000 --> 00:58:32,000
+mas não tem muitos padrões
+
+1952
+00:58:32,000 --> 00:58:34,000
+de mallers
+
+1953
+00:58:34,000 --> 00:58:36,000
+não tem muitos padrões
+
+1954
+00:58:36,000 --> 00:58:38,000
+e isso é ruim
+
+1955
+00:58:38,000 --> 00:58:40,000
+porque os files corporativos
+
+1956
+00:58:40,000 --> 00:58:42,000
+como checkpoints
+
+1957
+00:58:42,000 --> 00:58:44,000
+eles já têm isso
+
+1958
+00:58:44,000 --> 00:58:46,000
+já bem difundido
+
+1959
+00:58:46,000 --> 00:58:48,000
+então sai um novo orme
+
+1960
+00:58:48,000 --> 00:58:50,000
+que está destruindo tudo
+
+1961
+00:58:50,000 --> 00:58:52,000
+a galera já lança uma assinatura
+
+1962
+00:58:52,000 --> 00:58:54,000
+e já coloca no file a nível de aplicação
+
+1963
+00:58:54,000 --> 00:58:56,000
+e isso não é feito
+
+1964
+00:58:56,000 --> 00:58:58,000
+comunitariamente
+
+1965
+00:58:58,000 --> 00:59:00,000
+pela comunidade de IPTables
+
+1966
+00:59:00,000 --> 00:59:02,000
+não tem um repositório de assinaturas
+
+1967
+00:59:02,000 --> 00:59:04,000
+ou de aplicações de mallers
+
+1968
+00:59:04,000 --> 00:59:06,000
+tem muito pouco
+
+1969
+00:59:06,000 --> 00:59:08,000
+então isso é uma área que eu acho que ainda vai crescer muito
+
+1970
+00:59:08,000 --> 00:59:10,000
+ainda para a gente
+
+1971
+00:59:10,000 --> 00:59:12,000
+da comunidade a pensar
+
+1972
+00:59:12,000 --> 00:59:14,000
+você não conhece o ODE?
+
+1973
+00:59:14,000 --> 00:59:16,000
+o ODE são zero guias
+
+1974
+00:59:22,000 --> 00:59:24,000
+já ouvi falar em halter fire?
+
+1975
+00:59:24,000 --> 00:59:26,000
+halter fire ou é o fire o que você faz na arte?
+
+1976
+00:59:26,000 --> 00:59:28,000
+não sei
+
+1977
+00:59:28,000 --> 00:59:30,000
+porque assim, eu quando era jojo
+
+1978
+00:59:30,000 --> 00:59:32,000
+lá na minha juventude
+
+1979
+00:59:32,000 --> 00:59:34,000
+eu colecionava na revista Hacker
+
+1980
+00:59:38,000 --> 00:59:40,000
+e ela tinha um artigo especial
+
+1981
+00:59:40,000 --> 00:59:42,000
+que falava do halter fire
+
+1982
+00:59:42,000 --> 00:59:44,000
+porque é halter fire
+
+1983
+00:59:44,000 --> 00:59:46,000
+é o princípio básico
+
+1984
+00:59:46,000 --> 00:59:48,000
+já vi falar aquela frase que
+
+1985
+00:59:48,000 --> 00:59:50,000
+um computador seguro
+
+1986
+00:59:50,000 --> 00:59:52,000
+é um computador desligado
+
+1987
+00:59:52,000 --> 00:59:54,000
+então pois é
+
+1988
+00:59:54,000 --> 00:59:56,000
+no halter fire
+
+1989
+00:59:56,000 --> 00:59:58,000
+ele sobe o fire
+
+1990
+00:59:58,000 --> 01:00:00,000
+e desliga todos os outros serviços
+
+1991
+01:00:00,000 --> 01:00:02,000
+então
+
+1992
+01:00:02,000 --> 01:00:04,000
+se a pessoa for atacar
+
+1993
+01:00:04,000 --> 01:00:06,000
+aquela máquina
+
+1994
+01:00:06,000 --> 01:00:08,000
+ela não consegue porque
+
+1995
+01:00:08,000 --> 01:00:10,000
+qualquer outro serviço que poderia
+
+1996
+01:00:10,000 --> 01:00:12,000
+trazer alguma vulnerabilidade
+
+1997
+01:00:12,000 --> 01:00:14,000
+daquela máquina
+
+1998
+01:00:14,000 --> 01:00:16,000
+a vulnerabilidade é uma palavra do corpo
+
+1999
+01:00:16,000 --> 01:00:18,000
+qualquer uma vulnerabilidade
+
+2000
+01:00:18,000 --> 01:00:20,000
+ele não vai conseguir esforar porque eu só tenho
+
+2001
+01:00:20,000 --> 01:00:22,000
+o fire ligado
+
+2002
+01:00:22,000 --> 01:00:24,000
+a vulnerabilidade é atrapalhar a interoperabilidade
+
+2003
+01:00:24,000 --> 01:00:26,000
+que destrói as habilidades
+
+2004
+01:00:26,000 --> 01:00:28,000
+e a vulnerabilidade também
+
+2005
+01:00:28,000 --> 01:00:30,000
+um dos problemas que eu tenho a halter de fire
+
+2006
+01:00:30,000 --> 01:00:32,000
+é que eu não consigo perder nada no computador
+
+2007
+01:00:32,000 --> 01:00:34,000
+se eu precisar fazer alguma outra configuração
+
+2008
+01:00:34,000 --> 01:00:36,000
+eu tenho que reiniciar a máquina
+
+2009
+01:00:36,000 --> 01:00:38,000
+mas seria basicamente isso
+
+2010
+01:00:38,000 --> 01:00:40,000
+eu subo o fire e desligo tudo que até outro serviço
+
+2011
+01:00:40,000 --> 01:00:42,000
+é que eu estiver na máquina
+
+2012
+01:00:42,000 --> 01:00:44,000
+eu sou o fire e a pessoa não consegue
+
+2013
+01:00:44,000 --> 01:00:46,000
+explorar qualquer outra falha
+
+2014
+01:00:46,000 --> 01:00:48,000
+que estiver na máquina de outro serviço
+
+2015
+01:00:50,000 --> 01:00:52,000
+vamos para as perguntas rápidas
+
+2016
+01:00:52,000 --> 01:00:54,000
+vamos fazer duas perguntas e você tem
+
+2017
+01:00:54,000 --> 01:00:56,000
+um segundo para responder
+
+2018
+01:00:56,000 --> 01:00:58,000
+o que é um proxy?
+
+2019
+01:00:58,000 --> 01:01:00,000
+um proxy é uma aplicação que vai
+
+2020
+01:01:00,000 --> 01:01:02,000
+receber um tráfego de um determinado serviço
+
+2021
+01:01:02,000 --> 01:01:04,000
+e vai repassar
+
+2022
+01:01:04,000 --> 01:01:06,000
+essa informação, vai fazer algum tipo de tratamento
+
+2023
+01:01:06,000 --> 01:01:08,000
+seja de bloqueio
+
+2024
+01:01:08,000 --> 01:01:10,000
+qualquer tipo de tratamento
+
+2025
+01:01:10,000 --> 01:01:12,000
+e vai repassar para o destino
+
+2026
+01:01:12,000 --> 01:01:14,000
+tem proxy aqui da tp
+
+2027
+01:01:14,000 --> 01:01:16,000
+proxy
+
+2028
+01:01:16,000 --> 01:01:18,000
+sntp
+
+2029
+01:01:18,000 --> 01:01:20,000
+batch de proxy
+
+2030
+01:01:20,000 --> 01:01:22,000
+até proxy de torne
+
+2031
+01:01:22,000 --> 01:01:24,000
+é você interligar
+
+2032
+01:01:24,000 --> 01:01:26,000
+redes cada 100 segundos
+
+2033
+01:01:26,000 --> 01:01:28,000
+então tá, vpn
+
+2034
+01:01:28,000 --> 01:01:30,000
+você interliga redes privadas
+
+2035
+01:01:30,000 --> 01:01:32,000
+de modo que o tráfego
+
+2036
+01:01:32,000 --> 01:01:34,000
+que vai ser passado
+
+2037
+01:01:34,000 --> 01:01:36,000
+entre uma rede e outra
+
+2038
+01:01:36,000 --> 01:01:38,000
+vai ser criptografado
+
+2039
+01:01:38,000 --> 01:01:40,000
+então você pode ligar uma rede privada
+
+2040
+01:01:40,000 --> 01:01:42,000
+a outra rede privada
+
+2041
+01:01:42,000 --> 01:01:44,000
+e fazer com que essas
+
+2042
+01:01:44,000 --> 01:01:46,000
+redes se comuniquem
+
+2043
+01:01:46,000 --> 01:01:48,000
+com tráfego criptografado
+
+2044
+01:01:48,000 --> 01:01:50,000
+e isso seria uma rede vpn
+
+2045
+01:01:50,000 --> 01:01:52,000
+e isso sempre depende também
+
+2046
+01:01:52,000 --> 01:01:54,000
+para um usuário
+
+2047
+01:01:54,000 --> 01:01:56,000
+que seja a parte de chaves
+
+2048
+01:01:56,000 --> 01:01:58,000
+uma chave ficando servidor, outra para o usuário
+
+2049
+01:01:58,000 --> 01:02:00,000
+e aí o usuário
+
+2050
+01:02:00,000 --> 01:02:02,000
+conecta na sua rede
+
+2051
+01:02:02,000 --> 01:02:04,000
+e vai estar tratando tudo criptografado
+
+2052
+01:02:04,000 --> 01:02:06,000
+ele vai estar comunicando com a sua rede
+
+2053
+01:02:06,000 --> 01:02:08,000
+através de um canal segundo
+
+2054
+01:02:08,000 --> 01:02:10,000
+que vai estar criptografado
+
+2055
+01:02:10,000 --> 01:02:12,000
+na faculdade
+
+2056
+01:02:12,000 --> 01:02:14,000
+acho que eu nunca falei onde que é
+
+2057
+01:02:14,000 --> 01:02:16,000
+na igual, nem falar também
+
+2058
+01:02:16,000 --> 01:02:18,000
+falei que eu falei na episódio anterior
+
+2059
+01:02:18,000 --> 01:02:20,000
+e eu falei a faculdade errada
+
+2060
+01:02:20,000 --> 01:02:20,000
+
+
+2061
+01:02:20,000 --> 01:02:22,000
+falou a faculdade errada
+
+2062
+01:02:22,000 --> 01:02:24,000
+ou seja, a universo não é minha faculdade
+
+2063
+01:02:24,000 --> 01:02:26,000
+mas eu não vou falar também qual é
+
+2064
+01:02:26,000 --> 01:02:28,000
+mas tem como descobrir também
+
+2065
+01:02:28,000 --> 01:02:30,000
+por lá eles têm, se você
+
+2066
+01:02:30,000 --> 01:02:32,000
+editar um endereço que tiver a palavra
+
+2067
+01:02:32,000 --> 01:02:34,000
+blog por exemplo
+
+2068
+01:02:34,000 --> 01:02:36,000
+só a palavra blog, aí ele bloqueia
+
+2069
+01:02:36,000 --> 01:02:38,000
+se eu editar, por exemplo, o blog
+
+2070
+01:02:38,000 --> 01:02:40,000
+eu tenho um blog do blogspot
+
+2071
+01:02:40,000 --> 01:02:42,000
+a tributoci é um blog
+
+2072
+01:02:42,000 --> 01:02:44,000
+e eu consigo acessar
+
+2073
+01:02:44,000 --> 01:02:46,000
+os blogs que eu acesso do blogspot
+
+2074
+01:02:46,000 --> 01:02:48,000
+eu consigo acessar
+
+2075
+01:02:48,000 --> 01:02:50,000
+agora o nerdson por exemplo, que é nerdson.com.br
+
+2076
+01:02:50,000 --> 01:02:52,000
+blog, aí eu já não acesso
+
+2077
+01:02:52,000 --> 01:02:54,000
+porque tem a palavra blog, que seria isso?
+
+2078
+01:02:54,000 --> 01:02:56,000
+seria o filtro
+
+2079
+01:02:56,000 --> 01:02:58,000
+dessa palavra
+
+2080
+01:02:58,000 --> 01:03:00,000
+seja não RL ou no conteúdo
+
+2081
+01:03:00,000 --> 01:03:02,000
+da resposta
+
+2082
+01:03:02,000 --> 01:03:04,000
+a questão é que além do que não foi comentado
+
+2083
+01:03:04,000 --> 01:03:06,000
+é que o proxy pode fazer cache
+
+2084
+01:03:06,000 --> 01:03:08,000
+então você
+
+2085
+01:03:08,000 --> 01:03:10,000
+vai estar economizando o banda
+
+2086
+01:03:10,000 --> 01:03:12,000
+então que você já tenha armazenado
+
+2087
+01:03:12,000 --> 01:03:14,000
+localmente no seu servidor
+
+2088
+01:03:14,000 --> 01:03:16,000
+você já distribuir para os seus
+
+2089
+01:03:16,000 --> 01:03:18,000
+usuários e tudo
+
+2090
+01:03:18,000 --> 01:03:20,000
+então isso é feito
+
+2091
+01:03:20,000 --> 01:03:22,000
+tem como bypassar isso
+
+2092
+01:03:22,000 --> 01:03:24,000
+por exemplo
+
+2093
+01:03:24,000 --> 01:03:26,000
+usando um outro proxy
+
+2094
+01:03:26,000 --> 01:03:28,000
+se caso, dependendo de como
+
+2095
+01:03:28,000 --> 01:03:30,000
+cada configurou o servidor proxy dele
+
+2096
+01:03:30,000 --> 01:03:32,000
+e como está o firewall dele
+
+2097
+01:03:32,000 --> 01:03:34,000
+se você achar alguma porta que você consegue
+
+2098
+01:03:34,000 --> 01:03:36,000
+comunicar externamente
+
+2099
+01:03:36,000 --> 01:03:38,000
+você pode montar o servidor proxy e comunicar com ele
+
+2100
+01:03:38,000 --> 01:03:40,000
+essa é uma maneira de bypassar isso
+
+2101
+01:03:40,000 --> 01:03:42,000
+outra maneira de bypassar isso
+
+2102
+01:03:42,000 --> 01:03:44,000
+vai passar isso
+
+2103
+01:03:44,000 --> 01:03:46,000
+é com tonelamento de conexões
+
+2104
+01:03:46,000 --> 01:03:48,000
+com o meu pouco conhecimento que eu tenho de rede
+
+2105
+01:03:48,000 --> 01:03:50,000
+eu acho que isso não é uma boa e prática
+
+2106
+01:03:50,000 --> 01:03:52,000
+às vezes você tem um conteúdo interessante
+
+2107
+01:03:52,000 --> 01:03:54,000
+para ser acessado na faculdade
+
+2108
+01:03:54,000 --> 01:03:56,000
+e é bloqueado por causa que ele tenha
+
+2109
+01:03:56,000 --> 01:03:58,000
+tal palavra na RL
+
+2110
+01:03:58,000 --> 01:04:00,000
+por exemplo, esse site até é site pornô
+
+2111
+01:04:00,000 --> 01:04:02,000
+que eu consigo acessar tranquilamente lá
+
+2112
+01:04:02,000 --> 01:04:04,000
+por causa que não tem nenhuma palavra que
+
+2113
+01:04:04,000 --> 01:04:06,000
+não que eu fique acessando site pornô na faculdade
+
+2114
+01:04:06,000 --> 01:04:08,000
+tá bom, a gente vai acreditar
+
+2115
+01:04:08,000 --> 01:04:10,000
+porque eu sou um parafim científico
+
+2116
+01:04:10,000 --> 01:04:12,000
+é, foi só como exemplo, claro
+
+2117
+01:04:12,000 --> 01:04:14,000
+outro exemplo para ficar científico
+
+2118
+01:04:14,000 --> 01:04:16,000
+é, no caso que o shouter falou
+
+2119
+01:04:16,000 --> 01:04:18,000
+seria
+
+2120
+01:04:18,000 --> 01:04:20,000
+uma palavra que está na lista negrina
+
+2121
+01:04:20,000 --> 01:04:22,000
+caso você descubra
+
+2122
+01:04:22,000 --> 01:04:24,000
+que tem alguma palavra que está na lista branca
+
+2123
+01:04:24,000 --> 01:04:26,000
+aí vira um teste
+
+2124
+01:04:26,000 --> 01:04:28,000
+por exemplo, para usar o Google
+
+2125
+01:04:28,000 --> 01:04:30,000
+se eu tenho a palavra full
+
+2126
+01:04:30,000 --> 01:04:32,000
+que ela é liberada
+
+2127
+01:04:32,000 --> 01:04:34,000
+eu vou lá e digito a pesquisa que eu quero
+
+2128
+01:04:34,000 --> 01:04:36,000
+menos full, entendeu?
+
+2129
+01:04:36,000 --> 01:04:38,000
+ignora a palavra que é uma palavra liberada
+
+2130
+01:04:38,000 --> 01:04:40,000
+a pesquisa é normal
+
+2131
+01:04:40,000 --> 01:04:42,000
+e tiver uma palavra na lista negrina
+
+2132
+01:04:42,000 --> 01:04:44,000
+já é?
+
+2133
+01:04:44,000 --> 01:04:46,000
+vai dar precedência
+
+2134
+01:04:46,000 --> 01:04:48,000
+é, depende da precedência lá
+
+2135
+01:04:48,000 --> 01:04:50,000
+aí, por exemplo, eu consegui acessar
+
+2136
+01:04:50,000 --> 01:04:52,000
+várias coisas, tipo assim
+
+2137
+01:04:52,000 --> 01:04:54,000
+eu queria ver uma foto
+
+2138
+01:04:54,000 --> 01:04:56,000
+aí colocava
+
+2139
+01:04:56,000 --> 01:04:58,000
+interrogação
+
+2140
+01:04:58,000 --> 01:05:00,000
+full, igual
+
+2141
+01:05:00,000 --> 01:05:02,000
+a palavra liberada
+
+2142
+01:05:02,000 --> 01:05:04,000
+tudo assim
+
+2143
+01:05:04,000 --> 01:05:06,000
+é como se tivesse internet livre pra mim
+
+2144
+01:05:06,000 --> 01:05:08,000
+mas assim, existe uma prática
+
+2145
+01:05:08,000 --> 01:05:10,000
+melhor
+
+2146
+01:05:10,000 --> 01:05:12,000
+porque isso eu acho meio pouco, sei lá
+
+2147
+01:05:12,000 --> 01:05:14,000
+a minha noção de rede
+
+2148
+01:05:14,000 --> 01:05:16,000
+é pouca, mas eu acho que isso é meio pouco
+
+2149
+01:05:16,000 --> 01:05:18,000
+é, como você
+
+2150
+01:05:18,000 --> 01:05:20,000
+como vocês disseram, você pode ter
+
+2151
+01:05:20,000 --> 01:05:22,000
+um proxy que bloqueia tudo
+
+2152
+01:05:22,000 --> 01:05:24,000
+e você libera só o que você quer
+
+2153
+01:05:24,000 --> 01:05:26,000
+como você pode ter um proxy
+
+2154
+01:05:26,000 --> 01:05:28,000
+blacklist, né? então você pode ter uma lista negrina
+
+2155
+01:05:28,000 --> 01:05:30,000
+como você pode ter uma lista branca
+
+2156
+01:05:30,000 --> 01:05:32,000
+a questão é que no ambiente corporativo
+
+2157
+01:05:32,000 --> 01:05:34,000
+realmente já atrapalha a produtividade
+
+2158
+01:05:34,000 --> 01:05:36,000
+dos funcionários
+
+2159
+01:05:36,000 --> 01:05:38,000
+eu acho que a melhor da alternativa
+
+2160
+01:05:38,000 --> 01:05:40,000
+seria monitorar os acessos
+
+2161
+01:05:40,000 --> 01:05:42,000
+né?
+
+2162
+01:05:42,000 --> 01:05:44,000
+e cortando aos poucos
+
+2163
+01:05:44,000 --> 01:05:46,000
+não que isso seja a melhor alternativa
+
+2164
+01:05:46,000 --> 01:05:48,000
+a alternativa mais trabalhosa
+
+2165
+01:05:48,000 --> 01:05:50,000
+mas se você tem, isso depende muito
+
+2166
+01:05:50,000 --> 01:05:52,000
+da editoria da empresa, se a empresa tem
+
+2167
+01:05:52,000 --> 01:05:54,000
+esse espírito
+
+2168
+01:05:54,000 --> 01:05:56,000
+ela vai fazer isso, não é? ela vai bloquear tudo
+
+2169
+01:05:56,000 --> 01:05:58,000
+e vai liberando aos poucos
+
+2170
+01:05:58,000 --> 01:06:00,000
+é, eu sinceramente
+
+2171
+01:06:00,000 --> 01:06:02,000
+não tenho
+
+2172
+01:06:02,000 --> 01:06:04,000
+bastante incomodado, quando eu cadastrar alguma coisa
+
+2173
+01:06:04,000 --> 01:06:06,000
+não tem como
+
+2174
+01:06:06,000 --> 01:06:08,000
+por isso que, eu acho legal
+
+2175
+01:06:08,000 --> 01:06:10,000
+difundir as práticas de bypass
+
+2176
+01:06:10,000 --> 01:06:12,000
+eu falei isso porque o seguinte, as vezes
+
+2177
+01:06:12,000 --> 01:06:14,000
+é bloqueado por palavra
+
+2178
+01:06:14,000 --> 01:06:16,000
+eu acho que deveria fazer uma lista
+
+2179
+01:06:16,000 --> 01:06:18,000
+uma blacklist, em vez de ser
+
+2180
+01:06:18,000 --> 01:06:20,000
+dependendo do site, se o site vai para a lava blog
+
+2181
+01:06:20,000 --> 01:06:22,000
+ele já bloqueia, dependendo do site
+
+2182
+01:06:22,000 --> 01:06:24,000
+se o site vai para a palavra software, já bloqueia
+
+2183
+01:06:24,000 --> 01:06:26,000
+então, às vezes é ruim
+
+2184
+01:06:26,000 --> 01:06:28,000
+imagina, você entrar no próprio site da faculdade
+
+2185
+01:06:28,000 --> 01:06:30,000
+e ter uma palavra
+
+2186
+01:06:30,000 --> 01:06:32,000
+e detalhe, eles bloqueiam
+
+2187
+01:06:32,000 --> 01:06:34,000
+pelo que eu já percebi usando
+
+2188
+01:06:34,000 --> 01:06:36,000
+a internet lá, eles bloqueiam
+
+2189
+01:06:36,000 --> 01:06:38,000
+só a URL
+
+2190
+01:06:38,000 --> 01:06:40,000
+então, se tiver blog no conteúdo
+
+2191
+01:06:40,000 --> 01:06:42,000
+do site, não passe direto, só verificar
+
+2192
+01:06:42,000 --> 01:06:44,000
+o URL, aí eu acho que isso
+
+2193
+01:06:44,000 --> 01:06:46,000
+seria legal
+
+2194
+01:06:46,000 --> 01:06:48,000
+eles poderiam também
+
+2195
+01:06:48,000 --> 01:06:50,000
+bloquear o metapag
+
+2196
+01:06:50,000 --> 01:06:52,000
+no caso dos sites proibidos
+
+2197
+01:06:52,000 --> 01:06:54,000
+para a menor de 18, ele tem
+
+2198
+01:06:54,000 --> 01:06:56,000
+umas tags no cabeçalha HPVP
+
+2199
+01:06:56,000 --> 01:06:58,000
+que informa que aquele
+
+2200
+01:06:58,000 --> 01:07:00,000
+site é
+
+2201
+01:07:00,000 --> 01:07:02,000
+com aquele conteúdo
+
+2202
+01:07:02,000 --> 01:07:04,000
+seria outra maneira de bloqueio
+
+2203
+01:07:04,000 --> 01:07:06,000
+do próprio site
+
+2204
+01:07:06,000 --> 01:07:08,000
+a gente já falou sobre VPN
+
+2205
+01:07:08,000 --> 01:07:10,000
+agora seria interessante a gente falar
+
+2206
+01:07:10,000 --> 01:07:12,000
+sobre
+
+2207
+01:07:12,000 --> 01:07:14,000
+NH, IDS
+
+2208
+01:07:14,000 --> 01:07:16,000
+IDS
+
+2209
+01:07:16,000 --> 01:07:18,000
+assim, o que eu faço falar de IDS
+
+2210
+01:07:18,000 --> 01:07:20,000
+que é nos ferramentos de detecção de intruso
+
+2211
+01:07:20,000 --> 01:07:22,000
+intrusão?
+
+2212
+01:07:22,000 --> 01:07:24,000
+intrusão, intruso, cordão
+
+2213
+01:07:24,000 --> 01:07:26,000
+intrusão, mega intruso
+
+2214
+01:07:26,000 --> 01:07:28,000
+ex
+
+2215
+01:07:28,000 --> 01:07:30,000
+ela verifica
+
+2216
+01:07:30,000 --> 01:07:32,000
+são ferramentas que
+
+2217
+01:07:32,000 --> 01:07:34,000
+é no caso do IDS
+
+2218
+01:07:34,000 --> 01:07:36,000
+de acordo com
+
+2219
+01:07:36,000 --> 01:07:38,000
+o comportamento do
+
+2220
+01:07:38,000 --> 01:07:40,000
+intruso
+
+2221
+01:07:40,000 --> 01:07:42,000
+que assim
+
+2222
+01:07:42,000 --> 01:07:44,000
+detecta se aquele lá pode ser um ataque
+
+2223
+01:07:44,000 --> 01:07:46,000
+ou não, uma ferramenta
+
+2224
+01:07:46,000 --> 01:07:48,000
+inclusive, não é IDS
+
+2225
+01:07:48,000 --> 01:07:50,000
+mas está no mesmo
+
+2226
+01:07:50,000 --> 01:07:52,000
+no mesmo campo
+
+2227
+01:07:52,000 --> 01:07:54,000
+que ela consegue
+
+2228
+01:07:54,000 --> 01:07:56,000
+uma ferramenta que foi feita pelo
+
+2229
+01:07:56,000 --> 01:07:58,000
+cara da Digerat
+
+2230
+01:07:58,000 --> 01:08:00,000
+o nome do cara é Marcelo
+
+2231
+01:08:00,000 --> 01:08:02,000
+alguma coisa, vou procurar e colocar o link no post
+
+2232
+01:08:02,000 --> 01:08:04,000
+tem até uns vídeos
+
+2233
+01:08:04,000 --> 01:08:06,000
+Marcelo Fiorino
+
+2234
+01:08:06,000 --> 01:08:08,000
+que ela conseguia
+
+2235
+01:08:08,000 --> 01:08:10,000
+essa ferramenta
+
+2236
+01:08:10,000 --> 01:08:12,000
+ela conseguia
+
+2237
+01:08:12,000 --> 01:08:14,000
+num chat, por exemplo, IRC
+
+2238
+01:08:14,000 --> 01:08:16,000
+só usa muito o Mi
+
+2239
+01:08:16,000 --> 01:08:18,000
+ela conseguia conversar com pessoas
+
+2240
+01:08:18,000 --> 01:08:20,000
+a
+
+2241
+01:08:20,000 --> 01:08:22,000
+ferramenta sozinha, sabe, não é um
+
+2242
+01:08:22,000 --> 01:08:24,000
+mano, era um bot
+
+2243
+01:08:24,000 --> 01:08:26,000
+ele conversaria com pessoa
+
+2244
+01:08:26,000 --> 01:08:28,000
+e ela
+
+2245
+01:08:28,000 --> 01:08:30,000
+conseguia detectar perfis de pessoas
+
+2246
+01:08:30,000 --> 01:08:32,000
+que seriam invasores
+
+2247
+01:08:32,000 --> 01:08:34,000
+seria um cracker, entendeu
+
+2248
+01:08:34,000 --> 01:08:36,000
+e ela conversava sozinha, batia um papo
+
+2249
+01:08:36,000 --> 01:08:38,000
+com a pessoa e ela conseguia identificar
+
+2250
+01:08:38,000 --> 01:08:40,000
+se a pessoa seria um
+
+2251
+01:08:40,000 --> 01:08:42,000
+possível entre os de rede
+
+2252
+01:08:42,000 --> 01:08:44,000
+atacante. Aqui no Brasil tem
+
+2253
+01:08:44,000 --> 01:08:46,000
+projeto desse de robô conversar
+
+2254
+01:08:46,000 --> 01:08:48,000
+também, que há sete, não sei se
+
+2255
+01:08:48,000 --> 01:08:50,000
+você já vai falar, que há sete
+
+2256
+01:08:50,000 --> 01:08:52,000
+até outro podcast, a gente falar
+
+2257
+01:08:52,000 --> 01:08:54,000
+sobre a inteligência artificial
+
+2258
+01:08:54,000 --> 01:08:56,000
+a gente vai citar mais sobre isso
+
+2259
+01:08:56,000 --> 01:08:58,000
+mas continua aí com
+
+2260
+01:08:58,000 --> 01:09:00,000
+os IDS
+
+2261
+01:09:00,000 --> 01:09:02,000
+hoje o normal das ferraments open source, como os Nord
+
+2262
+01:09:02,000 --> 01:09:04,000
+ou Cicapa
+
+2263
+01:09:04,000 --> 01:09:06,000
+o que eles fazem é analisar o tráfilo
+
+2264
+01:09:06,000 --> 01:09:08,000
+de rede, um IDS
+
+2265
+01:09:08,000 --> 01:09:10,000
+e bloquear através de assinaturas
+
+2266
+01:09:10,000 --> 01:09:12,000
+como Sebastião disse
+
+2267
+01:09:12,000 --> 01:09:14,000
+a análise comportamental vai
+
+2268
+01:09:14,000 --> 01:09:16,000
+acho que é o futuro dos IDS e IPS
+
+2269
+01:09:16,000 --> 01:09:18,000
+mas hoje o que realmente
+
+2270
+01:09:18,000 --> 01:09:20,000
+fundido é
+
+2271
+01:09:20,000 --> 01:09:22,000
+o bloqueio, a detecção
+
+2272
+01:09:22,000 --> 01:09:24,000
+do ataque através de assinaturas
+
+2273
+01:09:24,000 --> 01:09:26,000
+então você tem expressões regulares
+
+2274
+01:09:26,000 --> 01:09:28,000
+que identificam o pacote malicioso
+
+2275
+01:09:28,000 --> 01:09:30,000
+e aí esse pacote
+
+2276
+01:09:30,000 --> 01:09:32,000
+ele é gerado alerta
+
+2277
+01:09:32,000 --> 01:09:34,000
+se for um IPS já bloqueio
+
+2278
+01:09:34,000 --> 01:09:36,000
+se for um IDS só gerado
+
+2279
+01:09:36,000 --> 01:09:38,000
+alerta e se for um IDS ativo
+
+2280
+01:09:38,000 --> 01:09:40,000
+você vai
+
+2281
+01:09:40,000 --> 01:09:42,000
+sofrer o ataque mas vai ser
+
+2282
+01:09:42,000 --> 01:09:44,000
+bloqueado a conexão também. Então você tem
+
+2283
+01:09:44,000 --> 01:09:46,000
+o network IDS, que por exemplo
+
+2284
+01:09:46,000 --> 01:09:48,000
+os Nord, mas tem também
+
+2285
+01:09:48,000 --> 01:09:50,000
+os host IDS, por exemplo Osec
+
+2286
+01:09:50,000 --> 01:09:52,000
+que ele faz checagem
+
+2287
+01:09:52,000 --> 01:09:54,000
+de logs, analisa logs
+
+2288
+01:09:54,000 --> 01:09:56,000
+integridade de arquivos
+
+2289
+01:09:56,000 --> 01:09:58,000
+é algo mais relacionado
+
+2290
+01:09:58,000 --> 01:10:00,000
+ao estão tradicional mesmo
+
+2291
+01:10:00,000 --> 01:10:02,000
+e ao serviço que estão rodando lá
+
+2292
+01:10:02,000 --> 01:10:04,000
+então ele analisa
+
+2293
+01:10:04,000 --> 01:10:06,000
+essas informações
+
+2294
+01:10:06,000 --> 01:10:08,000
+e bloqueia
+
+2295
+01:10:08,000 --> 01:10:10,000
+pode ser usado de maneira ativa também
+
+2296
+01:10:10,000 --> 01:10:12,000
+para bloquear o atacante
+
+2297
+01:10:12,000 --> 01:10:14,000
+esse host
+
+2298
+01:10:14,000 --> 01:10:16,000
+ele é, por exemplo, um host invulnerável
+
+2299
+01:10:16,000 --> 01:10:18,000
+ele é conhecido como
+
+2300
+01:10:18,000 --> 01:10:20,000
+Boticast
+
+2301
+01:10:20,000 --> 01:10:22,000
+Então, é isso aí pessoal
+
+2302
+01:10:22,000 --> 01:10:24,000
+o Boticast ficou longo
+
+2303
+01:10:24,000 --> 01:10:26,000
+pra caramba, como sempre
+
+2304
+01:10:26,000 --> 01:10:28,000
+vai outros Boticast ser parte desses
+
+2305
+01:10:28,000 --> 01:10:30,000
+ficaram bastante assuntos
+
+2306
+01:10:30,000 --> 01:10:32,000
+sem entrar a muitos detalhes
+
+2307
+01:10:32,000 --> 01:10:34,000
+mas assim, como a gente disse na leitura de mesa
+
+2308
+01:10:34,000 --> 01:10:36,000
+imagina que o
+
+2309
+01:10:36,000 --> 01:10:38,000
+Boticast era como se fosse uma palestra
+
+2310
+01:10:38,000 --> 01:10:40,000
+onde você vai simplesmente ouvir
+
+2311
+01:10:40,000 --> 01:10:42,000
+e um conteúdo de forma interativa
+
+2312
+01:10:42,000 --> 01:10:44,000
+e de forma diferente
+
+2313
+01:10:44,000 --> 01:10:46,000
+você fica numa palestra normal
+
+2314
+01:10:46,000 --> 01:10:48,000
+quando você fala de um assunto com uma palestra
+
+2315
+01:10:48,000 --> 01:10:50,000
+você fica durante 50 minutos
+
+2316
+01:10:50,000 --> 01:10:52,000
+então o Boticast de uma hora
+
+2317
+01:10:52,000 --> 01:10:54,000
+não estaria tão diferente de você assistir uma palestra
+
+2318
+01:10:54,000 --> 01:10:56,000
+você pode assistir
+
+2319
+01:10:56,000 --> 01:10:58,000
+de várias formas
+
+2320
+01:10:58,000 --> 01:11:00,000
+pode estar no carro dirigindo
+
+2321
+01:11:00,000 --> 01:11:02,000
+pode estar no trabalho
+
+2322
+01:11:02,000 --> 01:11:04,000
+às vezes se você não estiver lendo
+
+2323
+01:11:04,000 --> 01:11:06,000
+se estiver trabalhando fazendo
+
+2324
+01:11:06,000 --> 01:11:08,000
+alguma coisa que não exige a leitura
+
+2325
+01:11:08,000 --> 01:11:10,000
+então é fácil você prestar atenção no Boticast
+
+2326
+01:11:10,000 --> 01:11:12,000
+participação do
+
+2327
+01:11:12,000 --> 01:11:14,000
+Marcelo Fiori
+
+2328
+01:11:14,000 --> 01:11:16,000
+e no outro Boticast
+
+2329
+01:11:16,000 --> 01:11:18,000
+no mês que vem que a gente vai falar
+
+2330
+01:11:18,000 --> 01:11:20,000
+sobre o C-Project
+
+2331
+01:11:20,000 --> 01:11:22,000
+a gente vai ter a participação dele também
+
+2332
+01:11:22,000 --> 01:11:24,000
+disponibilizando esse espaço físico
+
+2333
+01:11:24,000 --> 01:11:26,000
+e espaço de tempo também
+
+2334
+01:11:26,000 --> 01:11:28,000
+tomou bastante tempo dele
+
+2335
+01:11:28,000 --> 01:11:30,000
+e agradecer por essa participação
+
+2336
+01:11:30,000 --> 01:11:32,000
+e contribuição física e intelectual
+
+2337
+01:11:32,000 --> 01:11:34,000
+vai dizer que ele tem todo nosso respeito tecnológico
+
+2338
+01:11:34,000 --> 01:11:36,000
+bem, que a força esteja com você
+
+2339
+01:11:36,000 --> 01:11:38,000
+eu que agradeço
+
+2340
+01:11:38,000 --> 01:11:40,000
+o fato de vocês terem me convidado
+
+2341
+01:11:40,000 --> 01:11:42,000
+é um prazer participar do Boticast
+
+2342
+01:11:42,000 --> 01:11:44,000
+desejo sucesso
+
+2343
+01:11:44,000 --> 01:11:46,000
+é algo inovador aqui em Goiás
+
+2344
+01:11:46,000 --> 01:11:48,000
+o que vocês estão fazendo
+
+2345
+01:11:48,000 --> 01:11:50,000
+então realmente tem tudo pra dar certo
+
+2346
+01:11:50,000 --> 01:11:52,000
+e tá dando certo
+
+2347
+01:11:52,000 --> 01:11:54,000
+e eu fico feliz, espero ter contribuído
+
+2348
+01:11:54,000 --> 01:11:56,000
+de alguma forma
+
+2349
+01:11:58,000 --> 01:12:00,000
+mas na camada lá
+
+2350
+01:12:00,000 --> 01:12:02,000
+eu acho que na camada aqui
+
+2351
+01:12:04,000 --> 01:12:06,000
+eu não sei nem a camada específica
+
+2352
+01:12:06,000 --> 01:12:08,000
+e
+
+2353
+01:12:08,000 --> 01:12:10,000
+e
+
+2354
+01:12:10,000 --> 01:12:12,000
+e aí
+
+2355
+01:12:14,000 --> 01:12:16,000
+nesse caso
+
+2356
+01:12:16,000 --> 01:12:18,000
+a gente já chegou
+
+2357
+01:12:18,000 --> 01:12:20,000
+no
+
+2358
+01:12:20,000 --> 01:12:22,000
+uma cela tá
+
+2359
+01:12:22,000 --> 01:12:24,000
+isso não é feito
+
+2360
+01:12:24,000 --> 01:12:26,000
+comunitariamente
+
+2361
+01:12:26,000 --> 01:12:28,000
+existe, já estou falando
+
+2362
+01:12:30,000 --> 01:12:32,000
+como
+
+2363
+01:12:32,000 --> 01:12:34,000
+o Brasil que diz
+
+2364
+01:12:34,000 --> 01:12:36,000
+que é que é fresco
+
+2365
+01:13:04,000 --> 01:13:06,000
+e
+
+2366
+01:13:08,000 --> 01:13:10,000
+e
+
+2367
+01:13:10,000 --> 01:13:12,000
+e
+
+2368
+01:13:12,000 --> 01:13:14,000
+e
+
+2369
+01:13:14,000 --> 01:13:16,000
+e
+
+2370
+01:13:16,000 --> 01:13:18,000
+e
+
+2371
+01:13:18,000 --> 01:13:20,000
+e
+
+2372
+01:13:20,000 --> 01:13:22,000
+e
+
+2373
+01:13:22,000 --> 01:13:24,000
+e
+
+2374
+01:13:24,000 --> 01:13:26,000
+e
+
+2375
+01:13:26,000 --> 01:13:28,000
+e
+
+2376
+01:13:28,000 --> 01:13:30,000
+e
+
+2377
+01:13:30,000 --> 01:13:32,000
+e
+
+2378
+01:13:32,000 --> 01:13:34,000
+e
+
+2379
+01:13:36,000 --> 01:13:38,000
+e
+
+2380
+01:13:38,000 --> 01:13:40,000
+e
+
+2381
+01:13:40,000 --> 01:13:42,000
+e
+
+2382
+01:13:42,000 --> 01:13:44,000
+e
+
+2383
+01:13:44,000 --> 01:13:46,000
+e
+
+2384
+01:13:46,000 --> 01:13:48,000
+e
+
+2385
+01:13:48,000 --> 01:13:50,000
+e
+
+2386
+01:13:50,000 --> 01:13:52,000
+e
+
+2387
+01:13:52,000 --> 01:13:54,000
+e
+
+2388
+01:13:54,000 --> 01:13:56,000
+e
+
+2389
+01:13:56,000 --> 01:13:58,000
+e
+
+2390
+01:13:58,000 --> 01:14:00,000
+e
+

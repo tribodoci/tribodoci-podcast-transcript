@@ -1,0 +1,4787 @@
+WEBVTT
+
+00:00.000 --> 00:06.120
+Mó mó mó, mó mó mó, mó mó n Cosooo
+
+00:08.660 --> 00:10.060
+bike�
+
+00:12.240 --> 00:16.880
+Mó mó mó, boso boso, boso, boso, boso, boso, boso
+
+00:20.720 --> 00:23.080
+ESSIM Ensign nap Joinningen
+
+00:24.380 --> 00:26.360
+OS R着 has a la vida
+
+00:30.080 --> 00:32.760
+APRETEIRA
+
+00:33.000 --> 00:34.780
+APRETEIRA
+
+00:38.280 --> 00:40.340
+opportunities
+
+00:53.520 --> 00:57.540
+CODE
+
+00:58.380 --> 01:00.440
+ME DELAÇÃO
+
+01:01.020 --> 01:04.140
+O Quanto você precisa de mim
+
+01:06.140 --> 01:08.820
+Episode 15, entrevista com Mozart e Couto
+
+01:08.820 --> 01:10.520
+Parte 2 de 2
+
+01:15.220 --> 01:19.020
+Saudações e ouvidos, vamos dar início à segunda parte da entrevista com Mozart e Couto
+
+01:19.020 --> 01:23.640
+Se você ainda não assistiu a a primeira parte, confira lá no site, na catinguaria e podcast
+
+01:23.640 --> 01:27.120
+e nessa introdução eu estou com 2 convidados, esses especiais aqui
+
+01:27.120 --> 01:31.120
+e eu que sou para a plancha, especiais como o Nibb
+
+01:31.120 --> 01:33.120
+Eu sou o Nibb Caís
+
+01:33.120 --> 01:36.120
+Você já precisa de que eu me estragulei, dá onde é esse?
+
+01:39.120 --> 01:43.120
+Então tá isso, poderia fazer uma pequena apresentação de quem é a nossa entrevista?
+
+01:43.120 --> 01:48.120
+Mozart e Couto é um inseridor e ilustrador que atua no mercado desde 1979
+
+01:48.120 --> 01:52.120
+com publicações em editoras no Brasil e exterior
+
+01:52.120 --> 01:56.120
+sendo também um dos grandes colaboradores de conteúdo sobre arte digital
+
+01:56.120 --> 02:03.120
+utilizando software livre em especial o Nibb, além de projetos como tradução no GPS, Nibb, Punch, Studio
+
+02:03.120 --> 02:05.120
+para o português do Brasil
+
+02:05.120 --> 02:07.120
+Acho que você não estuma
+
+02:11.120 --> 02:14.120
+Então no primeiro episódio a gente falou bastante do seu carreiro e tal
+
+02:14.120 --> 02:16.120
+como pessoa, informática
+
+02:16.120 --> 02:19.120
+e na segunda parte a gente já começa falando do mercado de trabalho no Nibb
+
+02:19.120 --> 02:21.120
+Vamos lá então para a entrevista?
+
+02:21.120 --> 02:23.120
+Ah, pode soltar não?
+
+02:23.120 --> 02:25.120
+Estou meio desanimado
+
+02:25.120 --> 02:27.120
+Vamos ver lá
+
+02:35.120 --> 02:38.120
+Ele foi perguntar se você já teve alguma dificuldade
+
+02:38.120 --> 02:42.120
+essa questão de relação com as gráficas, com as editoras
+
+02:42.120 --> 02:46.120
+sobre o trabalho em RGB, CMIC, coloração
+
+02:46.120 --> 02:49.120
+Não, ainda não aconteceu não
+
+02:49.120 --> 02:52.120
+Agora eu te falei, já tem esse esquema de
+
+02:52.120 --> 02:57.120
+ninguém nunca me exigiu o CMY, um poucas vezes
+
+02:57.120 --> 03:01.120
+e não deu problema de impressão para eu enviar em RGB
+
+03:01.120 --> 03:04.120
+e a pessoa, na hora que vai montar, converte
+
+03:04.120 --> 03:09.120
+aí nos programas propietários que eles usam, faz a conversão e não dá problema nenhum, não
+
+03:09.120 --> 03:10.120
+fica muito bom
+
+03:10.120 --> 03:12.120
+O cara do birou sempre se vira
+
+03:12.120 --> 03:16.120
+Lá tem aquele equipe que vai fazer a preparação da imagem, no meu caso
+
+03:16.120 --> 03:18.120
+mas assim, eu nunca peguei
+
+03:18.120 --> 03:22.120
+aquele caso que o cara vai, eu preciso de imprimir aqui em Offset
+
+03:22.120 --> 03:25.120
+um arquivo PDF fechado, uma coisa assim, entendeu?
+
+03:25.120 --> 03:29.120
+que aí eu vou ter que fazer a separação lá, isso eu nunca peguei
+
+03:29.120 --> 03:32.120
+até estou pesquisando para ver quem já fez
+
+03:32.120 --> 03:37.120
+tem umas notícias aí, de que dá para usar aquele CMY-K2
+
+03:37.120 --> 03:40.120
+vocês viram no meu blog Luciano Lorenzo
+
+03:40.120 --> 03:43.120
+que é o criador do símbolo do Curumin
+
+03:43.120 --> 03:47.120
+ele comentou isso, pois é, aí comentou isso
+
+03:47.120 --> 03:51.120
+então eu sei que a gente vai, a gente vai procurando saber
+
+03:51.120 --> 03:54.120
+e vamos para em prática depois para ver
+
+04:01.120 --> 04:03.120
+Eu tenho uma história interessante
+
+04:03.120 --> 04:10.120
+em meados de 1905, eu vi um tutorial sobre coloração utilizando o GIMP
+
+04:10.120 --> 04:13.120
+e eu lembro bem que era o Quarteto Fantástico, lembro desse tutorial?
+
+04:13.120 --> 04:17.120
+e a minha agradável surpresa é que o autor do artigo
+
+04:17.120 --> 04:22.120
+era alguém que eu já seguia muito tempo as dicas e tutoriais com revistinhas
+
+04:22.120 --> 04:24.120
+e era um moso acordo
+
+04:24.120 --> 04:27.120
+ali eu ainda estava aprendendo também as coisas
+
+04:27.120 --> 04:30.120
+eu também sempre procurei não complicar muito
+
+04:30.120 --> 04:33.120
+porque tem aquelas técnicas de vários leias
+
+04:33.120 --> 04:35.120
+que eu acho bom, determinado ponto
+
+04:35.120 --> 04:38.120
+mas para mim às vezes não dá muito certo
+
+04:38.120 --> 04:41.120
+que como eu te falei, eu trabalho muito rápido
+
+04:41.120 --> 04:46.120
+mais sobre o impacto emocional do que pensando as coisas tecnicamente
+
+04:46.120 --> 04:50.120
+então eu coloro leia que não é para a coloria, no lugar do outro
+
+04:50.120 --> 04:53.120
+aquilo acaba me confundindo, é muito chato, eu evito isso
+
+04:53.120 --> 04:57.120
+mas ali eu já fazia uma técnica que eu tentei mostrar
+
+04:57.120 --> 05:00.120
+as possibilidades de fazer seleção, que é uma coisa chata
+
+05:00.120 --> 05:03.120
+coisa mais enjoada que tem, seleção
+
+05:03.120 --> 05:06.120
+migrou aquele ditado para não usar borracha e só lápis
+
+05:06.120 --> 05:08.120
+para o computador também
+
+05:09.120 --> 05:11.120
+ainda bem que eu já mudei de emprego
+
+05:11.120 --> 05:15.120
+mas eu lembro que eu passei a parte da manhã inteira colorindo
+
+05:15.120 --> 05:19.120
+o negócio brincando com o companhia de ver a possibilidade
+
+05:19.120 --> 05:22.120
+eu lembro que tinha até uma guerreira que estava lá só os traços
+
+05:22.120 --> 05:24.120
+e eu fui pintar elas
+
+05:24.120 --> 05:26.120
+eu cabulei metade do meu trabalho
+
+05:26.120 --> 05:28.120
+e eu fazia esse negócio
+
+05:29.120 --> 05:31.120
+ainda mais usando mouse
+
+05:31.120 --> 05:33.120
+é, usando mouse
+
+05:33.120 --> 05:35.120
+de bolinha
+
+05:35.120 --> 05:37.120
+mas lá os computadores eram até bom
+
+05:37.120 --> 05:39.120
+nessa época eu programava em cima do AutoCard
+
+05:39.120 --> 05:42.120
+então as máquinas tinham que ser um pouco melhores
+
+05:42.120 --> 05:44.120
+e os mouse também eram um pouco melhores
+
+05:44.120 --> 05:46.120
+foi bem interessante o historial que eu vi lá
+
+05:46.120 --> 05:48.120
+para mim foi um marca interessante
+
+05:48.120 --> 05:50.120
+nessa parte de coloração digital
+
+05:50.120 --> 05:52.120
+é, legal
+
+05:52.120 --> 05:55.120
+eu vou tentando fazer os vídeos também
+
+05:55.120 --> 05:58.120
+eu tento fazer de uma forma para que a pessoa vá olhando
+
+05:58.120 --> 06:01.120
+ter pause e vai aprender
+
+06:01.120 --> 06:04.120
+agora mesmo estou preparando de arte final
+
+06:04.120 --> 06:06.120
+eu vou começar a fazer mais de desenho
+
+06:06.120 --> 06:09.120
+porque eu não sou pintor, colorista
+
+06:09.120 --> 06:11.120
+eu faço expo necessidade
+
+06:11.120 --> 06:13.120
+eu sou mesmo desenhista
+
+06:13.120 --> 06:15.120
+então eu estou fazendo uma série agora
+
+06:15.120 --> 06:17.120
+mostrando o desenho feito no lápis
+
+06:17.120 --> 06:19.120
+vídeo tutorial, né?
+
+06:19.120 --> 06:21.120
+vou fazer três tipos de arte final
+
+06:21.120 --> 06:22.120
+já fiz duas
+
+06:22.120 --> 06:25.120
+para mostrar como é que tudo usando aquela ferramenta
+
+06:25.120 --> 06:27.120
+tinta do gamepad
+
+06:27.120 --> 06:29.120
+para mostrar como ela é útil
+
+06:29.120 --> 06:31.120
+como o traço fica bonito para arte final
+
+06:31.120 --> 06:33.120
+estudo digitalmente
+
+06:33.120 --> 06:36.120
+ou técnico de desenho digital
+
+06:36.120 --> 06:39.120
+agora eu tenho feito muita coisa já direto, né?
+
+06:39.120 --> 06:41.120
+já desde o início do trabalho
+
+06:41.120 --> 06:43.120
+já faço o lápis
+
+06:43.120 --> 06:45.120
+em uma camada
+
+06:45.120 --> 06:47.120
+depois jogo a outra camada branca em cima
+
+06:47.120 --> 06:49.120
+diminuo a opacidade dela
+
+06:49.120 --> 06:51.120
+para enxergar o lápis embaixo bem fraco
+
+06:51.120 --> 06:53.120
+lápis digital, né?
+
+06:53.120 --> 06:56.120
+e aí eu venho com a outra camada e faço arte final
+
+06:56.120 --> 06:59.120
+depois eu apago aquele fundo
+
+06:59.120 --> 07:01.120
+e mesco a parte de baixo
+
+07:01.120 --> 07:03.120
+com a camada branca
+
+07:03.120 --> 07:05.120
+com o desenho já arte finalizado
+
+07:05.120 --> 07:08.120
+e é interessante que a gente pode desenhar bem grande, né?
+
+07:08.120 --> 07:10.120
+dá o zoom e desenha bem grande
+
+07:10.120 --> 07:12.120
+e vai mais rápido até
+
+07:12.120 --> 07:15.120
+o que é desagradável é a luz do monitor
+
+07:15.120 --> 07:17.120
+eu fico sonhando
+
+07:17.120 --> 07:19.120
+no dia que eles fizerem monitores
+
+07:19.120 --> 07:21.120
+que você não tenha essa luz assim, né?
+
+07:21.120 --> 07:25.120
+que seja tipo aqueles leitores de e-books, né?
+
+07:25.120 --> 07:27.120
+e aí?
+
+07:27.120 --> 07:29.120
+se tiver isso aí, acabou
+
+07:29.120 --> 07:31.120
+e sai mais da frente
+
+07:41.120 --> 07:44.120
+temos um tablet da Wakonde, viu?
+
+07:44.120 --> 07:46.120
+que desenha no próprio...
+
+07:46.120 --> 07:49.120
+quer dizer, o tablet é um computador por tudo, né?
+
+07:49.120 --> 07:51.120
+tem um novo também
+
+07:51.120 --> 07:53.120
+que você desenha no papel e ele grau
+
+07:53.120 --> 07:55.120
+tem, hoje já tem isso
+
+07:55.120 --> 07:57.120
+inclusive tem a Duopem
+
+07:57.120 --> 07:59.120
+que ela é muito parecida com essa
+
+07:59.120 --> 08:01.120
+que a Wakonde lançou agora
+
+08:01.120 --> 08:04.120
+você pode desenhar tanto na tela do notebook
+
+08:04.120 --> 08:06.120
+você desenha ela como uma tablet
+
+08:06.120 --> 08:08.120
+só que ela não tem pressão, né?
+
+08:08.120 --> 08:10.120
+pra fazer esboços, é... quebra um galho
+
+08:10.120 --> 08:12.120
+interessante, chama Duopem
+
+08:12.120 --> 08:14.120
+e ela é muito barata
+
+08:14.120 --> 08:16.120
+você encontra ela no Brasil
+
+08:16.120 --> 08:17.120
+era coreana
+
+08:17.120 --> 08:19.120
+eu acredito que quando eles melhorarem ela
+
+08:19.120 --> 08:21.120
+começar a ter pressão
+
+08:21.120 --> 08:23.120
+e que ela venha até começar a substituir
+
+08:23.120 --> 08:25.120
+as graficas tábicas comuns
+
+08:25.120 --> 08:28.120
+pra mim, esse negócio de desenhar na tela
+
+08:28.120 --> 08:30.120
+foi uma vantagem, sabe?
+
+08:30.120 --> 08:32.120
+porque o lápis não fica na frente do desenho, sabe?
+
+08:32.120 --> 08:35.120
+daí eu consigo estar sempre visualizando o desenho
+
+08:35.120 --> 08:37.120
+eu ainda não tive essa experiência de desenhar
+
+08:37.120 --> 08:40.120
+nessas mesas, tipo a sentir que não
+
+08:40.120 --> 08:42.120
+eu acho que deve ser muito confortável, né?
+
+08:42.120 --> 08:45.120
+mas eu já vi falar que é muito quente
+
+08:45.120 --> 08:48.120
+você tem que trabalhar com uma luva também
+
+08:48.120 --> 08:50.120
+porque a mão ali, né?
+
+08:50.120 --> 08:51.120
+aquela coisa, né?
+
+08:51.120 --> 08:53.120
+parece que fica suando
+
+08:53.120 --> 08:55.120
+então tem lá suas vantagens de desvantagem
+
+08:55.120 --> 08:57.120
+o que importa mais é pra mim...
+
+08:57.120 --> 08:59.120
+é, ali quando você desenha, quando ela te obedece
+
+08:59.120 --> 09:02.120
+e como aquele cursor te obedece, entendeu?
+
+09:02.120 --> 09:04.120
+ele tem que ser de um jeito
+
+09:04.120 --> 09:07.120
+que ele tem que te fazer esquecer de tudo
+
+09:07.120 --> 09:09.120
+que você tá segurando alguma coisa
+
+09:09.120 --> 09:12.120
+e comigo, assim, eu uso na posição do mouse
+
+09:12.120 --> 09:13.120
+a minha tablet, né?
+
+09:13.120 --> 09:15.120
+mas eu não olho pra minha mão, né?
+
+09:15.120 --> 09:17.120
+não vejo o que eu tô fazendo
+
+09:17.120 --> 09:19.120
+ali, cada tablet, dependendo
+
+09:19.120 --> 09:21.120
+de variações
+
+09:21.120 --> 09:23.120
+das linhas por polegadas
+
+09:23.120 --> 09:25.120
+do nível de pressão
+
+09:25.120 --> 09:27.120
+e da velocidade dos dados
+
+09:27.120 --> 09:29.120
+da caneta pra mesa, né?
+
+09:29.120 --> 09:31.120
+a junção dessas coisas, combinações delas
+
+09:31.120 --> 09:33.120
+varia muito trás
+
+09:33.120 --> 09:35.120
+eu já comprei várias tabras pra mim
+
+09:35.120 --> 09:37.120
+eu acho que eu já tive
+
+09:37.120 --> 09:39.120
+ao todo mais umas 12
+
+09:39.120 --> 09:41.120
+algumas delas eu devolvia
+
+09:41.120 --> 09:43.120
+da marca líder de mercado
+
+09:43.120 --> 09:45.120
+porque eu não gostei, que não me dava
+
+09:45.120 --> 09:47.120
+desenvoltura que eu precisava
+
+09:47.120 --> 09:49.120
+e eu encontrei em uma tablet
+
+09:49.120 --> 09:51.120
+baratíssima, ali eu faço
+
+09:51.120 --> 09:53.120
+o desenho e é o meu desenho
+
+09:53.120 --> 09:55.120
+as outras eu tenho, porque eu gosto
+
+09:55.120 --> 09:57.120
+mesmo se não existe
+
+09:57.120 --> 09:59.120
+o fotógrafo que uma câmera só não existe
+
+09:59.120 --> 10:01.120
+o músico com instrumento só não tem
+
+10:01.120 --> 10:03.120
+a gente é fascinado, a gente já comprou no monte, né?
+
+10:03.120 --> 10:05.120
+desculpa perguntar qual a marca que é
+
+10:05.120 --> 10:07.120
+mas só pra saber, talvez é igual
+
+10:07.120 --> 10:09.120
+a minha, né?
+
+10:09.120 --> 10:11.120
+a minha foi doação, eu...
+
+10:11.120 --> 10:13.120
+a minha foi comprada
+
+10:13.120 --> 10:15.120
+e na esquina também, talvez é a mesma
+
+10:15.120 --> 10:17.120
+agênios, é...
+
+10:17.120 --> 10:19.120
+agênios, é igual a minha
+
+10:19.120 --> 10:21.120
+nós bem seis por um, hein, tu é
+
+10:21.120 --> 10:23.120
+olha, e aqui tem um traço
+
+10:23.120 --> 10:25.120
+mais certo
+
+10:25.120 --> 10:27.120
+o cursor tá
+
+10:27.120 --> 10:29.120
+exatamente no ponto
+
+10:29.120 --> 10:31.120
+onde traça, velocidade do cursor
+
+10:31.120 --> 10:33.120
+na tela é perfeita
+
+10:33.120 --> 10:35.120
+não é muito rápido, não é muito lento
+
+10:35.120 --> 10:37.120
+porque tem tablets maiores
+
+10:37.120 --> 10:39.120
+que o cursor fica um pouco lento
+
+10:39.120 --> 10:41.120
+isso atrapalha muito e as pequenininhas
+
+10:41.120 --> 10:43.120
+são muito rápido, eu já notei que
+
+10:43.120 --> 10:45.120
+eu não entendo isso profundamente
+
+10:45.120 --> 10:47.120
+mas pesquisia alguma coisa e eu vi
+
+10:47.120 --> 10:49.120
+se ela tivesse essa passagem de dados
+
+10:49.120 --> 10:51.120
+abaixo de 200 rps
+
+10:51.120 --> 10:53.120
+ela não vai te dar uma precisão
+
+10:53.120 --> 10:55.120
+muito grande na hora de desenhar
+
+10:55.120 --> 10:57.120
+mas ela vai, vamos dizer assim, soltar
+
+10:57.120 --> 10:59.120
+mais tinta, entendeu?
+
+10:59.120 --> 11:01.120
+então ela fica sendo como se fosse
+
+11:01.120 --> 11:03.120
+um pincel pra pintar
+
+11:03.120 --> 11:05.120
+e as tablets que todo mundo compra
+
+11:05.120 --> 11:07.120
+que fala que a linda de mercado e adora
+
+11:07.120 --> 11:09.120
+elas são assim, elas não te dão
+
+11:09.120 --> 11:11.120
+um controle absoluto
+
+11:11.120 --> 11:13.120
+alguns modelos têm um modo de precisão
+
+11:13.120 --> 11:15.120
+mas pra você dar um detalhe
+
+11:15.120 --> 11:17.120
+em determinado ponto pequeno
+
+11:17.120 --> 11:19.120
+aquilo ali não abrange a tela toda
+
+11:19.120 --> 11:21.120
+então tem essas variações
+
+11:21.120 --> 11:23.120
+que é difícil a pessoa saber, mas quem pega
+
+11:23.120 --> 11:25.120
+a primeira vez, quase todas elas funcionam
+
+11:25.120 --> 11:27.120
+muito bem, os fabricantes
+
+11:27.120 --> 11:29.120
+acho que o principal eles já dominaram
+
+11:29.120 --> 11:31.120
+que eles estão competindo agora
+
+11:31.120 --> 11:33.120
+com as perfumarias, os botõezinhos
+
+11:33.120 --> 11:35.120
+as outras funções
+
+11:35.120 --> 11:37.120
+mas o principal ali
+
+11:37.120 --> 11:39.120
+são três fabricantes só que tem no mundo
+
+11:39.120 --> 11:41.120
+dois na China e o Japones
+
+11:41.120 --> 11:43.120
+e eles já dominaram o principal
+
+11:55.120 --> 11:57.120
+eu lembro que a dificuldade que eu tive
+
+11:57.120 --> 11:59.120
+quando eu fui usar uma tablet
+
+11:59.120 --> 12:01.120
+é porque o seguinte, com o mouse
+
+12:01.120 --> 12:03.120
+qualquer ponto é relativo né
+
+12:03.120 --> 12:05.120
+qualquer ponto que você tiver, se você andar com um lado
+
+12:05.120 --> 12:07.120
+e ele anda de onde está o curso lá na tela
+
+12:07.120 --> 12:09.120
+para onde você foi né
+
+12:09.120 --> 12:11.120
+o tablet, ele mapeia
+
+12:11.120 --> 12:13.120
+a tela inteira naquela área
+
+12:13.120 --> 12:15.120
+de desenho do tablet, então se você
+
+12:15.120 --> 12:17.120
+triscar no cantinho da tablet
+
+12:17.120 --> 12:19.120
+no seu cantinho esquerdo
+
+12:19.120 --> 12:21.120
+o mouse vai lá pro seu cantinho esquerdo
+
+12:21.120 --> 12:23.120
+se você clicar lá no cantinho direito
+
+12:23.120 --> 12:25.120
+ele vai lá pro seu cantinho direito
+
+12:25.120 --> 12:27.120
+e eu lembro que eu recebi a doação
+
+12:29.120 --> 12:31.120
+foi exatamente a Gênios que falou
+
+12:31.120 --> 12:33.120
+é mouse pen
+
+12:33.120 --> 12:35.120
+o drive dela é mouse pen
+
+12:35.120 --> 12:37.120
+o modelo dela escrito lá é diferente
+
+12:37.120 --> 12:39.120
+mas lá está mouse pen
+
+12:39.120 --> 12:41.120
+achei interessante porque exatamente isso
+
+12:41.120 --> 12:43.120
+eu estava achando ela até grande demais
+
+12:43.120 --> 12:45.120
+porque eu tenho um monitor
+
+12:45.120 --> 12:47.120
+de 22 polegadas
+
+12:47.120 --> 12:49.120
+e aí ele mapeia aquilo lá né
+
+12:49.120 --> 12:51.120
+e ela não tem um formato widescreen
+
+12:51.120 --> 12:53.120
+então é como se fica distorcido
+
+12:53.120 --> 12:55.120
+no Windows tem a opção de
+
+12:55.120 --> 12:57.120
+colocar assim, ele reduzia a área de desenho
+
+12:57.120 --> 12:59.120
+do tablet, para a área de desenho
+
+12:59.120 --> 13:01.120
+ficar widescreen também sabe
+
+13:01.120 --> 13:03.120
+é certinho, se você fizer uma bola
+
+13:03.120 --> 13:05.120
+aqui na tablet lá sai uma bola também
+
+13:05.120 --> 13:07.120
+mas a sua é a 8 por 6
+
+13:07.120 --> 13:09.120
+a 6 por 8 melhor não?
+
+13:09.120 --> 13:11.120
+acho que a 6 por 8
+
+13:11.120 --> 13:13.120
+e você usa no
+
+13:13.120 --> 13:15.120
+débio né, que você falou ou não né
+
+13:15.120 --> 13:17.120
+é, eu usava ela no
+
+13:17.120 --> 13:19.120
+junto
+
+13:19.120 --> 13:21.120
+não, porque pra mim não tem problema não
+
+13:21.120 --> 13:23.120
+o widescreen aqui da tudo
+
+13:23.120 --> 13:25.120
+funciona tudo direitinho
+
+13:25.120 --> 13:27.120
+mas entendeu qual o problema?
+
+13:27.120 --> 13:29.120
+se eu fizer uma bola o widescreen
+
+13:29.120 --> 13:31.120
+no tablet, certinho, se eu pegar uma
+
+13:31.120 --> 13:33.120
+moeda e circular ela
+
+13:33.120 --> 13:35.120
+lá na tela vai aparecer ela
+
+13:35.120 --> 13:37.120
+chatada, quer dizer
+
+13:37.120 --> 13:39.120
+é esticada entendeu
+
+13:39.120 --> 13:41.120
+é complicado você fazer alguma coisa
+
+13:41.120 --> 13:43.120
+na tablet, assim, seguindo
+
+13:43.120 --> 13:45.120
+uma orientação, vamos falar que você coloca
+
+13:45.120 --> 13:47.120
+um traço embaixo do
+
+13:47.120 --> 13:49.120
+plástico ali da tablet, desenho por cima
+
+13:49.120 --> 13:51.120
+aí já começa
+
+13:51.120 --> 13:53.120
+um monte de complicação
+
+13:53.120 --> 13:55.120
+eu lembro que no Windows, eu resolvi isso no Windows
+
+13:55.120 --> 13:57.120
+lá no drive
+
+13:57.120 --> 13:59.120
+o pacotezinho do drive, ele tem a opção de você
+
+13:59.120 --> 14:01.120
+reduzir a área de desenho
+
+14:01.120 --> 14:03.120
+da tablet pra ficar mapeada
+
+14:03.120 --> 14:05.120
+exatamente wide screen, sabe
+
+14:05.120 --> 14:07.120
+tem, isso tem essa variação
+
+14:07.120 --> 14:09.120
+eu nunca achei isso no Linux
+
+14:09.120 --> 14:11.120
+é, parece que eles ainda estão preocupados
+
+14:11.120 --> 14:13.120
+em fazer outras coisas nos drives
+
+14:13.120 --> 14:15.120
+não dá tanta opção
+
+14:15.120 --> 14:17.120
+já vi alguns drives
+
+14:17.120 --> 14:19.120
+alguns programis
+
+14:19.120 --> 14:21.120
+acho que não sei se vocês já viram do
+
+14:21.120 --> 14:23.120
+que nome apps, mas não argaram pra lá
+
+14:27.120 --> 14:29.120
+tchau
+
+14:51.120 --> 14:53.120
+tinha um drive pra itek
+
+14:53.120 --> 14:55.120
+que era muito bom com
+
+14:55.120 --> 14:57.120
+o Face Graph, mas ficou abandonado
+
+14:57.120 --> 14:59.120
+é uma pena
+
+14:59.120 --> 15:01.120
+a última versão do Ubuntu tem até
+
+15:01.120 --> 15:03.120
+uma parte lá só de OACON
+
+15:03.120 --> 15:05.120
+eu nunca me achei porque a minha agenda, eu não sei se funciona
+
+15:05.120 --> 15:07.120
+não funciona, agora tá
+
+15:07.120 --> 15:09.120
+o Ubuntu tá uma beleza
+
+15:09.120 --> 15:11.120
+o Mint também, no CD
+
+15:11.120 --> 15:13.120
+se você colocar essas tablets
+
+15:13.120 --> 15:15.120
+funciona, é só essas tipo
+
+15:15.120 --> 15:17.120
+IpTek e a C3Tek
+
+15:17.120 --> 15:19.120
+modelos gênios
+
+15:19.120 --> 15:21.120
+não parece que o Gepens
+
+15:21.120 --> 15:23.120
+7.12
+
+15:23.120 --> 15:25.120
+que elas são feitas com
+
+15:25.120 --> 15:27.120
+uma mesma companhia
+
+15:27.120 --> 15:29.120
+que é dispensável, que não tem jeito
+
+15:29.120 --> 15:31.120
+quer mexer com Gimp
+
+15:31.120 --> 15:33.120
+até com Inkscape mesmo
+
+15:33.120 --> 15:35.120
+fazer algum desenho, alguma coisa
+
+15:35.120 --> 15:37.120
+que dá pra fazer muita coisa legal
+
+15:37.120 --> 15:39.120
+e MyPaint então, tem jeito
+
+15:39.120 --> 15:41.120
+tem que ser tablet
+
+15:41.120 --> 15:43.120
+eu lembro que eu tive muito problema com Gimp
+
+15:43.120 --> 15:45.120
+pra calibrar lá, mas quando eu estalei o MyPaint
+
+15:45.120 --> 15:47.120
+funcionou tudo pressão, tudo tranquilo
+
+15:47.120 --> 15:49.120
+é, ele é o mais tranquilo
+
+15:49.120 --> 15:51.120
+de todos pra funcionar
+
+15:51.120 --> 15:53.120
+e não precisou fazer nada
+
+15:53.120 --> 15:55.120
+tem tablet até que tem
+
+15:55.120 --> 15:57.120
+além da pressão, ela tem a sensibilidade
+
+15:57.120 --> 15:59.120
+do ângulo que tá do papel
+
+15:59.120 --> 16:01.120
+isso é bom, mas
+
+16:01.120 --> 16:03.120
+às vezes não é
+
+16:03.120 --> 16:05.120
+depende muito do estilo que a pessoa trabalha
+
+16:05.120 --> 16:07.120
+às vezes até eu trabalho um pouco
+
+16:07.120 --> 16:09.120
+ela inclina o traço
+
+16:09.120 --> 16:11.120
+da inclinação
+
+16:11.120 --> 16:13.120
+você não tem muito controle
+
+16:13.120 --> 16:15.120
+pra uma pincelada bem solta
+
+16:15.120 --> 16:17.120
+talvez seja legal, alguma coisa mais experimental
+
+16:17.120 --> 16:19.120
+depende do caso
+
+16:19.120 --> 16:21.120
+que você vai usar sempre
+
+16:21.120 --> 16:23.120
+não sei, que seja o estilo da pessoa
+
+16:23.120 --> 16:25.120
+que pegou aquilo, ele gostou
+
+16:25.120 --> 16:27.120
+e explora né, que no geral
+
+16:27.120 --> 16:29.120
+não é uma coisa que faça tanta falta
+
+16:29.120 --> 16:31.120
+não, o que faz falta mesmo
+
+16:31.120 --> 16:33.120
+é a pressão e essa precisão
+
+16:33.120 --> 16:35.120
+acho que isso é importante
+
+16:35.120 --> 16:37.120
+e a borrifada da tinta
+
+16:37.120 --> 16:39.120
+tem que sair um fluxo legal
+
+16:39.120 --> 16:41.120
+sobre o seu Gimp
+
+16:41.120 --> 16:43.120
+se ele é muito customizado, se você baixa algum
+
+16:43.120 --> 16:45.120
+plugin ou aquele Gimp
+
+16:45.120 --> 16:47.120
+mesmo que você entra lá no site
+
+16:47.120 --> 16:49.120
+e baixos já começam a usar
+
+16:49.120 --> 16:51.120
+ou se você usa um
+
+16:51.120 --> 16:53.120
+é legal se perguntar isso
+
+16:53.120 --> 16:55.120
+o meu eu uso junto
+
+16:55.120 --> 16:57.120
+com o Gimp Painter
+
+16:57.120 --> 16:59.120
+e o Gimp Paint Studio
+
+16:59.120 --> 17:01.120
+eu acho indispensável
+
+17:01.120 --> 17:03.120
+o Gimp Paint Studio indispensável
+
+17:03.120 --> 17:05.120
+pra quem quer fazer um trabalho
+
+17:05.120 --> 17:07.120
+com vincéis
+
+17:07.120 --> 17:09.120
+um defeito de coisa artística
+
+17:09.120 --> 17:11.120
+bonito, tem que colocar o Gimp Paint Studio
+
+17:11.120 --> 17:13.120
+vocês conhecem né, que é o pacote
+
+17:13.120 --> 17:15.120
+de presets
+
+17:15.120 --> 17:17.120
+que já se desenvolveu
+
+17:17.120 --> 17:19.120
+que ele é um ilustrador espanhol
+
+17:19.120 --> 17:21.120
+e o Gimp Paint, que aquele japonês
+
+17:21.120 --> 17:23.120
+se desenvolveu também
+
+17:23.120 --> 17:25.120
+eu acho que é um forque né, do Gimp
+
+17:25.120 --> 17:27.120
+ele tem uns recursos
+
+17:27.120 --> 17:29.120
+de aprimoramento
+
+17:29.120 --> 17:31.120
+da pressão, da força
+
+17:31.120 --> 17:33.120
+da pressão, da mínima
+
+17:33.120 --> 17:35.120
+e a máxima, que ajuda demais
+
+17:35.120 --> 17:37.120
+também, muito bom
+
+17:37.120 --> 17:39.120
+e tem a ferramenta MixBrush
+
+17:39.120 --> 17:41.120
+a Gpen eu não uso muito não
+
+17:41.120 --> 17:43.120
+pra dar um efeito bem de pena
+
+17:43.120 --> 17:45.120
+mas eu não uso muito não
+
+17:45.120 --> 17:47.120
+o MixBrush eu gosto mais
+
+17:47.120 --> 17:49.120
+que dá aquele efeito de misturar
+
+17:49.120 --> 17:51.120
+o fundo do papel, seja o branco, qualquer cor
+
+17:51.120 --> 17:53.120
+com as cores que você tá usando
+
+17:53.120 --> 17:55.120
+e da melhora mais ainda ser feita
+
+17:55.120 --> 17:57.120
+se eu usar as cores do degradê
+
+17:57.120 --> 17:59.120
+é muito interessante
+
+17:59.120 --> 18:01.120
+então eu uso isso e coloquei lá
+
+18:01.120 --> 18:03.120
+vários filtros também
+
+18:03.120 --> 18:05.120
+aquele FX
+
+18:05.120 --> 18:07.120
+Foundry, não sei como é que chama
+
+18:07.120 --> 18:09.120
+mas quase não use né, esses filtros
+
+18:09.120 --> 18:11.120
+eu fico tentando, uma hora eu vou aprender
+
+18:11.120 --> 18:13.120
+e eu vou mexer, mas quase não uso
+
+18:13.120 --> 18:15.120
+4 horas configurando e usa
+
+18:15.120 --> 18:17.120
+15 minutos em jogo
+
+18:19.120 --> 18:21.120
+mas a sua ferramenta
+
+18:21.120 --> 18:23.120
+chodó mesmo é o Gimp
+
+18:23.120 --> 18:25.120
+você usa mais ela no diadio
+
+18:25.120 --> 18:27.120
+ou você usa outras
+
+18:27.120 --> 18:29.120
+assim, a mais
+
+18:29.120 --> 18:31.120
+um Escape, MyPaint
+
+18:31.120 --> 18:33.120
+os vetoriais
+
+18:33.120 --> 18:35.120
+eu não uso não, é muito raro
+
+18:35.120 --> 18:37.120
+eu uso mais é o Gimp mesmo
+
+18:37.120 --> 18:39.120
+MyPaint eu gosto dele
+
+18:39.120 --> 18:41.120
+ainda acho o Gimp mais fácil
+
+18:41.120 --> 18:43.120
+de eu acessar ferramentas
+
+18:43.120 --> 18:45.120
+e eu não sei, eu acho que
+
+18:45.120 --> 18:47.120
+ele flui melhor
+
+18:47.120 --> 18:49.120
+tirando a parte de configuração
+
+18:49.120 --> 18:51.120
+de pincelis que é muito complexa
+
+18:51.120 --> 18:53.120
+muito vasta
+
+18:53.120 --> 18:55.120
+ele ser muito fácil de pegar
+
+18:55.120 --> 18:57.120
+mas eu acho o Gimp melhor
+
+18:57.120 --> 18:59.120
+já tem esses recursos de edição
+
+18:59.120 --> 19:01.120
+eu uso muito aquela distorção interativa
+
+19:01.120 --> 19:03.120
+e eu tô ansioso
+
+19:03.120 --> 19:05.120
+pra que vem as novas versões
+
+19:05.120 --> 19:07.120
+eu acho, sempre pensei
+
+19:07.120 --> 19:09.120
+3.0 vai ficar
+
+19:09.120 --> 19:11.120
+uma coisa muito boa
+
+19:11.120 --> 19:13.120
+um problema muito forte
+
+19:13.120 --> 19:15.120
+tomaram aquele coctu no gênero
+
+19:15.120 --> 19:17.120
+só né
+
+19:33.120 --> 19:35.120
+eu não sei, eu já fiz
+
+19:35.120 --> 19:37.120
+os meus esquemas aqui
+
+19:37.120 --> 19:39.120
+que funcionam, é meio parecido com aquele padrão
+
+19:39.120 --> 19:41.120
+que eu costumei muito, mas funciona
+
+19:41.120 --> 19:43.120
+fica legal manter a janela sempre em cima
+
+19:43.120 --> 19:45.120
+ou então deixa ela naquele modo
+
+19:45.120 --> 19:47.120
+utilidade lá e ela fica ser visível
+
+19:47.120 --> 19:49.120
+as paletas futuantes que eu digo
+
+19:49.120 --> 19:51.120
+e a janela também fica lá embaixo delas
+
+19:51.120 --> 19:53.120
+paradinho, então é tranquilo
+
+19:53.120 --> 19:55.120
+qualquer coisa eu tab ali e as paletas desaparecem
+
+19:55.120 --> 19:57.120
+e o F11 trabalha na tela cheio
+
+19:57.120 --> 19:59.120
+que repõe isso também, mas é tranquilo
+
+19:59.120 --> 20:01.120
+primeiro é tranquilo
+
+20:01.120 --> 20:03.120
+hoje, qual que é a proporção do teu tempo de trabalho
+
+20:03.120 --> 20:05.120
+e com o GIMP?
+
+20:05.120 --> 20:07.120
+eu tô direto no linux e no GIMP
+
+20:07.120 --> 20:09.120
+eu tava, aquele negócio assim
+
+20:09.120 --> 20:11.120
+de ficava testando
+
+20:11.120 --> 20:13.120
+aí um dia eu falei, não, eu tenho que ficar
+
+20:13.120 --> 20:15.120
+pelo menos uma semana pra me ver
+
+20:15.120 --> 20:17.120
+pra testar como é que funciona os programas
+
+20:17.120 --> 20:19.120
+pra aprender
+
+20:19.120 --> 20:21.120
+e depois dessa semana eu não voltei mais
+
+20:21.120 --> 20:23.120
+não entendi, porque eu gostei muito
+
+20:23.120 --> 20:25.120
+é a coisa de ser customizável
+
+20:25.120 --> 20:27.120
+também, você poder mudar muito
+
+20:27.120 --> 20:29.120
+até cara, eu gosto
+
+20:29.120 --> 20:31.120
+de visual, eu gosto de ver uma coisa
+
+20:31.120 --> 20:33.120
+que tem um visual bonito ali na minha frente
+
+20:33.120 --> 20:35.120
+e daí tem muito tema
+
+20:35.120 --> 20:37.120
+né, pode mexer em borda de janela
+
+20:37.120 --> 20:39.120
+eu gosto muito disso, então
+
+20:39.120 --> 20:41.120
+aí fui começando a aprender, eu senti alguma falta
+
+20:41.120 --> 20:43.120
+de programas pra conversão
+
+20:43.120 --> 20:45.120
+de vídeo que eu não conhecia
+
+20:45.120 --> 20:47.120
+nossa, achei tanta coisa
+
+20:47.120 --> 20:49.120
+então, não tô sentindo mais falta de nada
+
+20:49.120 --> 20:51.120
+acho que isso é muito legal
+
+20:51.120 --> 20:53.120
+entrar nessa parte
+
+20:53.120 --> 20:55.120
+de proprietar o livre
+
+20:55.120 --> 20:57.120
+os seus trabalhos têm algum
+
+20:57.120 --> 20:59.120
+restrição sobre a licença
+
+20:59.120 --> 21:01.120
+quando você publica alguma coisa
+
+21:01.120 --> 21:03.120
+essas coisas que estão no problema
+
+21:03.120 --> 21:05.120
+com as instituições que você manda
+
+21:05.120 --> 21:07.120
+os trabalhos que eu faço
+
+21:07.120 --> 21:09.120
+profissionalmente, ainda é dentro
+
+21:09.120 --> 21:11.120
+desse padrão do mercado mesmo
+
+21:11.120 --> 21:13.120
+alguma coisa é direito autoral meu
+
+21:13.120 --> 21:15.120
+outras coisas são negociadas
+
+21:15.120 --> 21:17.120
+o direito
+
+21:17.120 --> 21:19.120
+sessão total, porque no brasil ainda tem
+
+21:19.120 --> 21:21.120
+muito isso, que é uma coisa assim que
+
+21:21.120 --> 21:23.120
+não tem lá fora praticamente
+
+21:23.120 --> 21:25.120
+é uma coisa, não era pra ter
+
+21:25.120 --> 21:27.120
+um artista tech cd
+
+21:27.120 --> 21:29.120
+direito total da obra dele por 70 anos
+
+21:29.120 --> 21:31.120
+ainda tem isso no brasil
+
+21:31.120 --> 21:33.120
+infelizmente
+
+21:33.120 --> 21:35.120
+apesar dos ilustradores
+
+21:35.120 --> 21:37.120
+pessoal se unir e foi feito aquele
+
+21:37.120 --> 21:39.120
+guia do ilustrador, pode se baixar
+
+21:39.120 --> 21:41.120
+grátis na internet, é muito bom
+
+21:41.120 --> 21:43.120
+todo mundo debateu muito isso
+
+21:43.120 --> 21:45.120
+tentou ver se mudava isso
+
+21:45.120 --> 21:47.120
+mas aos pouquinhos é que tá mudando
+
+21:47.120 --> 21:49.120
+ainda tem muita essa coisa
+
+21:49.120 --> 21:51.120
+o cara chegar com contrato
+
+21:51.120 --> 21:53.120
+te oferecendo pra você ceder o direito total
+
+21:53.120 --> 21:55.120
+e tem situação que a pessoa cede
+
+21:55.120 --> 21:57.120
+tem outras que não dá pra se negociar
+
+21:57.120 --> 21:59.120
+complicado ainda
+
+21:59.120 --> 22:01.120
+agora o que eu faço pra software livre
+
+22:01.120 --> 22:03.120
+geralmente eu deixo pra
+
+22:03.120 --> 22:05.120
+compartilhar né, a pessoa poder compartilhar
+
+22:05.120 --> 22:07.120
+só não dou permissão da venda
+
+22:07.120 --> 22:09.120
+eu acho que é até errado falar isso
+
+22:09.120 --> 22:11.120
+mas eu baixei umas reviscinhas
+
+22:11.120 --> 22:13.120
+sua pela internet, talvez foi até você
+
+22:13.120 --> 22:15.120
+que disponibilizou não?
+
+22:15.120 --> 22:17.120
+isso aí não tem jeito, tem que descobrir
+
+22:17.120 --> 22:19.120
+uma maneira legal que as pessoas
+
+22:19.120 --> 22:21.120
+possam baixar, que o artista ganha
+
+22:21.120 --> 22:23.120
+mesmo que um pouco, eu gostei muito
+
+22:23.120 --> 22:25.120
+com aquela ideia que o stalman deu
+
+22:25.120 --> 22:27.120
+uma vez eu coloquei no meu blog
+
+22:27.120 --> 22:29.120
+uma carta para Dilma
+
+22:29.120 --> 22:31.120
+que vocês leram isso né, ele propondo
+
+22:31.120 --> 22:33.120
+a divisão, eu achei muito legal
+
+22:33.120 --> 22:35.120
+uma coisa interessante
+
+22:35.120 --> 22:37.120
+então eu acho que pode seguir por aí
+
+22:37.120 --> 22:39.120
+eu acho que não dá pra controlar mais
+
+22:39.120 --> 22:41.120
+só lembrando aqui, eu completo
+
+22:41.120 --> 22:43.120
+todas as reviscinhas
+
+22:43.120 --> 22:45.120
+desculpe mas eu contribui
+
+22:45.120 --> 22:47.120
+pra pirataria
+
+22:47.120 --> 22:49.120
+ah não é isso aí
+
+22:49.120 --> 22:51.120
+não dá pra controlar
+
+22:51.120 --> 22:53.120
+as coisas, foi compensado
+
+22:53.120 --> 22:55.120
+eu to querendo fazer experiência
+
+22:55.120 --> 22:57.120
+de produzir alguma coisa
+
+22:57.120 --> 22:59.120
+e deixar ela na net e pedir pra
+
+22:59.120 --> 23:01.120
+só dar uma surda
+
+23:01.120 --> 23:03.120
+eu não lembro se tem link de paypal
+
+23:03.120 --> 23:05.120
+no teu blog tem não né
+
+23:05.120 --> 23:07.120
+não, tem que pô, paypal ainda não tem
+
+23:07.120 --> 23:09.120
+eu tenho um bag seguro
+
+23:09.120 --> 23:11.120
+o Richard Stalman, quando ele fez o manifest
+
+23:11.120 --> 23:13.120
+lá do software livre, ele falou
+
+23:13.120 --> 23:15.120
+como que seria a liberdade né, a liberdade
+
+23:15.120 --> 23:17.120
+de alterar, a liberdade de distribuir
+
+23:17.120 --> 23:19.120
+liberdade de usar pra qualquer fim
+
+23:19.120 --> 23:21.120
+tem dicas de vários modelos de negócio
+
+23:21.120 --> 23:23.120
+que poderia ser seguido em cima
+
+23:23.120 --> 23:25.120
+desse modelo de desenvolvimento
+
+23:25.120 --> 23:27.120
+no caso de software, agora o criativo ficou como de produção
+
+23:27.120 --> 23:29.120
+de arte né, tu viu uma palestra dele
+
+23:29.120 --> 23:31.120
+falando muito de hardware livre
+
+23:31.120 --> 23:33.120
+a ideia dele vai por aí
+
+23:33.120 --> 23:35.120
+e eu acho que vai acabar
+
+23:35.120 --> 23:37.120
+afetando toda a sociedade
+
+23:37.120 --> 23:39.120
+porque ele tá mexendo aí
+
+23:39.120 --> 23:41.120
+com o Centra nossa
+
+23:41.120 --> 23:43.120
+sociedade atual tecnológica
+
+23:43.120 --> 23:45.120
+tudo se faz hoje com software e hardware
+
+23:45.120 --> 23:47.120
+e quando você tenta mudar o padrão
+
+23:47.120 --> 23:49.120
+que tinha, dá uma outra opção
+
+23:49.120 --> 23:51.120
+totalmente nova igual a essa
+
+23:51.120 --> 23:53.120
+que tem gente que não consegue entender
+
+23:53.120 --> 23:55.120
+não é uma coisa complicada
+
+23:55.120 --> 23:57.120
+mas é tão diferente do que era
+
+23:57.120 --> 23:59.120
+como é que o cara teve essa ideia
+
+23:59.120 --> 24:01.120
+de fazer uma coisa
+
+24:01.120 --> 24:03.120
+que é legal, é resguardada judicialmente
+
+24:03.120 --> 24:05.120
+mas todo mundo pode usar
+
+24:05.120 --> 24:07.120
+e dá pra ganhar dinheiro também
+
+24:07.120 --> 24:09.120
+se não quiser também, não ganha dinheiro
+
+24:09.120 --> 24:11.120
+muito legal
+
+24:17.120 --> 24:19.120
+e uma irmã
+
+24:23.120 --> 24:25.120
+muito hermosa
+
+24:27.120 --> 24:29.120
+que se chama
+
+24:33.120 --> 24:35.120
+Liberta
+
+24:47.120 --> 24:49.120
+eu vi os trabalhos do cara
+
+24:49.120 --> 24:51.120
+que faz o GPS, o cara é muito bom
+
+24:51.120 --> 24:53.120
+os trabalhos da gente, viu?
+
+24:53.120 --> 24:55.120
+ele é um retratista
+
+24:55.120 --> 24:57.120
+também muito bom
+
+24:57.120 --> 24:59.120
+e ele pinta abstrato
+
+24:59.120 --> 25:01.120
+também muito bem
+
+25:01.120 --> 25:03.120
+mas a gente sente falta ainda
+
+25:03.120 --> 25:05.120
+que tá havendo uma certa articulação
+
+25:05.120 --> 25:07.120
+assim, dos artistas
+
+25:07.120 --> 25:09.120
+que usam esses programas
+
+25:09.120 --> 25:11.120
+a gente tá começando a se conhecer
+
+25:11.120 --> 25:13.120
+e a gente tá fazendo isso
+
+25:13.120 --> 25:15.120
+e a gente tá fazendo isso
+
+25:15.120 --> 25:17.120
+mas a gente tá começando a se conhecer
+
+25:17.120 --> 25:19.120
+e fazer mais contato
+
+25:19.120 --> 25:21.120
+e alguns programadores também
+
+25:21.120 --> 25:23.120
+aquele Peter
+
+25:23.120 --> 25:25.120
+acho que não sei se é Peter Sike
+
+25:25.120 --> 25:27.120
+ou Peter Sikking
+
+25:27.120 --> 25:29.120
+ele é uma pessoa que ajuda ele
+
+25:29.120 --> 25:31.120
+no trabalho que ele tá fazendo
+
+25:31.120 --> 25:33.120
+de redesign do GIMP
+
+25:33.120 --> 25:35.120
+eles começaram a entrevistar alguns
+
+25:35.120 --> 25:37.120
+artistas que usam o GIMP
+
+25:37.120 --> 25:39.120
+inclusive já me entrevistaram
+
+25:39.120 --> 25:41.120
+Minho, Ramon e o David
+
+25:41.120 --> 25:43.120
+Revoia, aquele francês daquela animação
+
+25:43.120 --> 25:45.120
+de fundação Blender, segunda
+
+25:45.120 --> 25:47.120
+e eles entrevistaram a gente
+
+25:47.120 --> 25:49.120
+como é que a gente trabalha
+
+25:49.120 --> 25:51.120
+todos os dados técnicos, como é que a gente usa o GIMP
+
+25:51.120 --> 25:53.120
+eu acho que vai começar a aparecer
+
+25:53.120 --> 25:55.120
+coisa nova aí
+
+25:55.120 --> 25:57.120
+eu vou fazer um contato também com outros artistas
+
+25:57.120 --> 25:59.120
+a gente vai trocando ideia
+
+25:59.120 --> 26:01.120
+e eu acho que muita coisa boa vai aparecer
+
+26:01.120 --> 26:03.120
+porque precisa disso, né?
+
+26:03.120 --> 26:05.120
+precisa gente que usa, usa bastante
+
+26:05.120 --> 26:07.120
+usa bem pra dar um retorno pro desenvolvedor
+
+26:07.120 --> 26:09.120
+e ter esse contato com o desenvolvedor
+
+26:09.120 --> 26:11.120
+também porque às vezes tem alguma coisa escondida
+
+26:11.120 --> 26:13.120
+que a gente não percebeu
+
+26:13.120 --> 26:15.120
+mudando de
+
+26:15.120 --> 26:17.120
+papacacete
+
+26:17.120 --> 26:19.120
+você já foi convidado pra
+
+26:19.120 --> 26:21.120
+participar de alguma animação
+
+26:21.120 --> 26:23.120
+pelo menos na arte conceitual
+
+26:23.120 --> 26:25.120
+não ainda não
+
+26:25.120 --> 26:27.120
+falar nisso, tu viu o pessoal lá do Hobbit
+
+26:27.120 --> 26:29.120
+os caras fizeram arte conceitual
+
+26:29.120 --> 26:31.120
+em 3D, cara?
+
+26:31.120 --> 26:33.120
+eu sou artista 2D mesmo, ainda não consegui
+
+26:33.120 --> 26:35.120
+me adaptar a 3D
+
+26:35.120 --> 26:37.120
+eu sempre vou querer estudar
+
+26:37.120 --> 26:39.120
+mas eu acho muito trabalhoso
+
+26:39.120 --> 26:41.120
+eu pensei seriamente em comprar a revista da Larissa
+
+26:41.120 --> 26:43.120
+Rickam, que ela vem com a 3D
+
+26:43.120 --> 26:45.120
+pra
+
+26:45.120 --> 26:47.120
+fazer umas coisas dessas
+
+26:47.120 --> 26:49.120
+eu gosto mais do 2D mesmo
+
+26:49.120 --> 26:51.120
+vamos ver, até quando nós vamos ter
+
+26:51.120 --> 26:53.120
+espaço
+
+26:53.120 --> 26:55.120
+espero que tenham tempo
+
+26:55.120 --> 26:57.120
+tem uma coisa que eu deixei passar
+
+26:57.120 --> 26:59.120
+é porque tem o Rodney Bukemi
+
+26:59.120 --> 27:01.120
+que é lá do MDM também
+
+27:01.120 --> 27:03.120
+que ele também é de Belo Horizonte
+
+27:03.120 --> 27:05.120
+tem, ele tem vários outros
+
+27:05.120 --> 27:07.120
+o Vilmar com o Rado
+
+27:07.120 --> 27:09.120
+também de Belo Horizonte
+
+27:09.120 --> 27:11.120
+tem o
+
+27:11.120 --> 27:13.120
+Ed Barrow, o Eduard
+
+27:13.120 --> 27:15.120
+ele não é de Belo Horizonte, mas eu acho que
+
+27:15.120 --> 27:17.120
+ele mora lá ainda, não sei
+
+27:17.120 --> 27:19.120
+que também todo mundo trabalha no mercado americano
+
+27:19.120 --> 27:21.120
+a saída do quadrenista
+
+27:21.120 --> 27:23.120
+brasileiro foi essa, né?
+
+27:23.120 --> 27:25.120
+para o mercado americano
+
+27:25.120 --> 27:27.120
+fazer o Offshore, que eu chamo, né?
+
+27:27.120 --> 27:29.120
+é, porque tem muito disso pra quem trabalha com um Rub
+
+27:29.120 --> 27:31.120
+aqui no Brasil, o mercado brasileiro
+
+27:31.120 --> 27:33.120
+é muito, quer dizer, tem crescido bastante
+
+27:33.120 --> 27:35.120
+mas a maioria da galera
+
+27:35.120 --> 27:37.120
+que trabalhava pra fora, né?
+
+27:37.120 --> 27:39.120
+aí tem sempre os olheiros
+
+27:39.120 --> 27:41.120
+é, mas é uma pena
+
+27:41.120 --> 27:43.120
+porque o Brasil é cheio de talentos
+
+27:43.120 --> 27:45.120
+eu acho que
+
+27:45.120 --> 27:47.120
+o governo podia investir muito mais
+
+27:47.120 --> 27:49.120
+muito em empresas, né?
+
+27:49.120 --> 27:51.120
+tinha que mudar esse mecanismo
+
+27:51.120 --> 27:53.120
+que a gente vive hoje aqui
+
+27:53.120 --> 27:55.120
+no mundo ocidental, viu?
+
+27:55.120 --> 27:57.120
+é igual você disse, né?
+
+27:57.120 --> 27:59.120
+na década de 70 ainda algumas coisas
+
+27:59.120 --> 28:01.120
+muitas coisas
+
+28:01.120 --> 28:03.120
+eu, assim, compartilhar uma história
+
+28:03.120 --> 28:05.120
+colocar uma trilha
+
+28:05.120 --> 28:07.120
+eu vou colocar uma musiquinha do Hulk depois
+
+28:07.120 --> 28:09.120
+mas
+
+28:09.120 --> 28:11.120
+é, porque assim, embora hoje
+
+28:11.120 --> 28:13.120
+eu trabalhe com o programador e essa seja
+
+28:13.120 --> 28:15.120
+a minha atividade principal
+
+28:15.120 --> 28:17.120
+em 2004 eu conheci pela horizonte
+
+28:17.120 --> 28:19.120
+e eu fui
+
+28:19.120 --> 28:21.120
+naquele, pera aí deixa eu passar a polícia aqui
+
+28:21.120 --> 28:23.120
+ah, eu perguntei, eu perguntei
+
+28:23.120 --> 28:25.120
+ah, eu perguntei, eu perguntei
+
+28:25.120 --> 28:27.120
+ah, eu perguntei, eu perguntei, eu perguntei
+
+28:27.120 --> 28:29.120
+e você toca com instrumento, herdou
+
+28:29.120 --> 28:31.120
+alguma coisa do pai, sobre instrumento
+
+28:31.120 --> 28:33.120
+é, eu fiquei violão
+
+28:33.120 --> 28:35.120
+aprendi com o meu pai durante um tempo
+
+28:35.120 --> 28:37.120
+mas depois deixei porque
+
+28:37.120 --> 28:39.120
+tinha que desenhar 8, 9 horas
+
+28:39.120 --> 28:41.120
+por dia e não dava pra treinar o violão
+
+28:41.120 --> 28:43.120
+o violão também tinha que
+
+28:43.120 --> 28:45.120
+treinar ao mesmo tempo
+
+28:45.120 --> 28:47.120
+mas eu gosto muito de música
+
+28:47.120 --> 28:49.120
+e sinto muita falta
+
+28:49.120 --> 28:51.120
+então, tio
+
+28:51.120 --> 28:53.120
+continuar com a minha história?
+
+28:53.120 --> 28:55.120
+começo do começo de novo
+
+28:55.120 --> 28:57.120
+então
+
+28:57.120 --> 28:59.120
+eu já falei com o programador
+
+28:59.120 --> 29:01.120
+em 2004 eu conheci
+
+29:01.120 --> 29:03.120
+Belo Horizonte, exatamente na Olimpíada do Conhecimento
+
+29:03.120 --> 29:05.120
+eu fui depois da trabalho
+
+29:05.120 --> 29:07.120
+eu conheci, eu fui na Olimpíada do Conhecimento
+
+29:07.120 --> 29:09.120
+e eu fui concorrer
+
+29:09.120 --> 29:11.120
+exatamente como design grato
+
+29:11.120 --> 29:13.120
+sabe isso aí, né?
+
+29:13.120 --> 29:15.120
+interessante
+
+29:15.120 --> 29:17.120
+arquivo confidencial, Sebastian Reus
+
+29:17.120 --> 29:19.120
+e aí a gente conheceu Ouro Preto
+
+29:19.120 --> 29:21.120
+e aí a galera parece que respira a arte
+
+29:21.120 --> 29:23.120
+o tempo inteiro, né?
+
+29:23.120 --> 29:25.120
+acho que tem uma influência
+
+29:25.120 --> 29:27.120
+e aí tem bastante profissional que trabalha com isso
+
+29:27.120 --> 29:29.120
+quadrinho
+
+29:29.120 --> 29:31.120
+ilustração, muito forte
+
+29:31.120 --> 29:33.120
+Belo Horizonte, tem um ou outro que tá fora
+
+29:33.120 --> 29:35.120
+em meu caso, por exemplo, que eu tô fora
+
+29:35.120 --> 29:37.120
+da capital, né?
+
+29:37.120 --> 29:39.120
+a maioria é de lá mesmo, né?
+
+29:39.120 --> 29:41.120
+tem bastante gente, sim
+
+29:41.120 --> 29:43.120
+eu lembro que a dinâmica que a gente fez lá
+
+29:43.120 --> 29:45.120
+porque teve algumas atividades lá
+
+29:45.120 --> 29:47.120
+a pessoa fazia umas dinâmicas e tal
+
+29:47.120 --> 29:49.120
+e tinha galera ensinando como fazer desenho
+
+29:49.120 --> 29:51.120
+eu nunca tinha visto aquela borracha
+
+29:51.120 --> 29:53.120
+que parece uma meleca
+
+29:53.120 --> 29:55.120
+aquela borracha
+
+29:55.120 --> 29:57.120
+né?
+
+29:57.120 --> 29:59.120
+é, vou lá
+
+29:59.120 --> 30:01.120
+isso, pois é, eu nunca tinha visto aquela borracha
+
+30:01.120 --> 30:03.120
+inclusive, será até
+
+30:03.120 --> 30:05.120
+uma coisa interessante, que me empolgou muito
+
+30:05.120 --> 30:07.120
+quando eu fui fazer o curso do Instituto Universal
+
+30:07.120 --> 30:09.120
+que ele tinha um material de idade
+
+30:09.120 --> 30:11.120
+pra vir um material de idade que tinha que pagar
+
+30:11.120 --> 30:13.120
+alguma coisa
+
+30:13.120 --> 30:15.120
+eu ainda tenho essa
+
+30:15.120 --> 30:17.120
+como é que se diz? que nem há uma penada
+
+30:17.120 --> 30:19.120
+que tá esperando, tem que fazer alguma coisa
+
+30:19.120 --> 30:21.120
+é, essa pendência pra gente resolver
+
+30:21.120 --> 30:23.120
+ainda vou fazer esse curso
+
+30:23.120 --> 30:25.120
+outro ponto interessante
+
+30:25.120 --> 30:27.120
+que hoje o meu filho
+
+30:27.120 --> 30:29.120
+eu tenho um moleque de 3 anos
+
+30:29.120 --> 30:31.120
+eu já falei isso 100 vezes por mês
+
+30:31.120 --> 30:33.120
+mas ele praticamente
+
+30:33.120 --> 30:35.120
+não que ele começou a desenhar
+
+30:35.120 --> 30:37.120
+no tablet, mas hoje ele faz muito
+
+30:37.120 --> 30:39.120
+a gente pega o
+
+30:39.120 --> 30:41.120
+desenho, eu coloco pra pintar no tablet
+
+30:41.120 --> 30:43.120
+então ele melhorou muito
+
+30:43.120 --> 30:45.120
+a distresa dele
+
+30:45.120 --> 30:47.120
+depois que ele começou a utilizar o tablet
+
+30:47.120 --> 30:49.120
+porque não precisa ficar gastando papel
+
+30:49.120 --> 30:51.120
+até até
+
+30:51.120 --> 30:53.120
+falando lá no
+
+30:53.120 --> 30:55.120
+pano mata no robô gigantes
+
+30:55.120 --> 30:57.120
+que tem essa função
+
+30:57.120 --> 30:59.120
+é, de responsabilidade
+
+30:59.120 --> 31:01.120
+responsabilidade
+
+31:01.120 --> 31:03.120
+responsabilidade ambiental
+
+31:03.120 --> 31:05.120
+porque ele pode ficar brincando
+
+31:05.120 --> 31:07.120
+lá o tempo todo e hoje
+
+31:07.120 --> 31:09.120
+ele desenha bem cara, ele desenha
+
+31:09.120 --> 31:11.120
+o meu moleque lá, ele fez um batman
+
+31:11.120 --> 31:13.120
+ele fez um homem-aranha lá que eu fiquei assustado assim
+
+31:13.120 --> 31:15.120
+eu acredito que essa geração aí
+
+31:15.120 --> 31:17.120
+se eles mexerem
+
+31:17.120 --> 31:19.120
+com as técnicas condicionais
+
+31:19.120 --> 31:21.120
+você só por curiosidade
+
+31:21.120 --> 31:23.120
+pode gostar, vão gostar, claro
+
+31:23.120 --> 31:25.120
+mas a coisa do digital
+
+31:25.120 --> 31:27.120
+não tem mais volta, né
+
+31:27.120 --> 31:29.120
+pra produção, é
+
+31:29.120 --> 31:31.120
+pra você produzir, consertar trabalhos
+
+31:31.120 --> 31:33.120
+porque você tem que alterar
+
+31:33.120 --> 31:35.120
+trabalho digital
+
+31:35.120 --> 31:37.120
+é muito menos complicado
+
+31:49.120 --> 31:51.120
+grande vantagem do mundo digital
+
+31:51.120 --> 31:53.120
+para o mundo real
+
+31:53.120 --> 31:55.120
+é que existe o controle
+
+31:55.120 --> 31:57.120
+eu só não sei o que vai dar
+
+31:57.120 --> 31:59.120
+a gente é disposto a tanta onda
+
+31:59.120 --> 32:01.120
+de me sei que vai lá
+
+32:01.120 --> 32:03.120
+pra lá, pra cá
+
+32:03.120 --> 32:05.120
+não sei o que vai dar
+
+32:05.120 --> 32:07.120
+achei até interessante
+
+32:07.120 --> 32:09.120
+que você falou lá no mdm
+
+32:09.120 --> 32:11.120
+que falou que as possibilidades
+
+32:11.120 --> 32:13.120
+são tão grandes
+
+32:13.120 --> 32:15.120
+que você acaba trabalhando mais
+
+32:15.120 --> 32:17.120
+que seria a ferramenta para fazer
+
+32:17.120 --> 32:19.120
+e você, ao invés de trabalhar menos
+
+32:19.120 --> 32:21.120
+você acaba trabalhando mais
+
+32:21.120 --> 32:23.120
+trabalha bem mais
+
+32:23.120 --> 32:25.120
+porque dá inúmeras
+
+32:25.120 --> 32:27.120
+possibilidades
+
+32:27.120 --> 32:29.120
+então você fica paralisado
+
+32:29.120 --> 32:31.120
+que você vê tanta coisa
+
+32:31.120 --> 32:33.120
+essa próxima versão do game
+
+32:33.120 --> 32:35.120
+as possibilidades de configuração
+
+32:35.120 --> 32:37.120
+de pincés
+
+32:37.120 --> 32:39.120
+vão ser tantas que difícil
+
+32:39.120 --> 32:41.120
+não dá, não tem como
+
+32:41.120 --> 32:43.120
+abarcar aqui
+
+32:43.120 --> 32:45.120
+é que naquele negócio
+
+32:45.120 --> 32:47.120
+que eu não faço na hora de usar
+
+32:47.120 --> 32:49.120
+é, na hora de usar
+
+32:49.120 --> 32:51.120
+eu fazia isso muito com
+
+32:51.120 --> 32:53.120
+eu já até contei a história
+
+32:53.120 --> 32:55.120
+mas na hora de desenvolver um software
+
+32:55.120 --> 32:57.120
+tem que fazer um framework
+
+32:57.120 --> 32:59.120
+que é tipo um correio de ferramentas
+
+32:59.120 --> 33:01.120
+que eu vou reutilizar várias vezes
+
+33:01.120 --> 33:03.120
+aí eu terminei de fazer o framework
+
+33:03.120 --> 33:05.120
+que eu já acabou o meu tesão
+
+33:05.120 --> 33:07.120
+agora que eu tinha que reutilizar
+
+33:07.120 --> 33:09.120
+o que eu fiz
+
+33:09.120 --> 33:11.120
+e vocês não mexem nenhum de vocês
+
+33:11.120 --> 33:13.120
+mexem com software gráfico
+
+33:13.120 --> 33:15.120
+para fazer alguma coisa
+
+33:15.120 --> 33:17.120
+para se vocês quiserem
+
+33:17.120 --> 33:19.120
+se vocês atuam nessa área também
+
+33:19.120 --> 33:21.120
+de implementar alguma coisa
+
+33:21.120 --> 33:23.120
+algum software livre gráfico
+
+33:23.120 --> 33:25.120
+se a gente contribuir em termo de código
+
+33:25.120 --> 33:27.120
+não
+
+33:27.120 --> 33:29.120
+a não ser o health mesh
+
+33:29.120 --> 33:31.120
+que está de história oculta dele
+
+33:31.120 --> 33:33.120
+tem várias histórias
+
+33:33.120 --> 33:35.120
+a minha realização
+
+33:35.120 --> 33:37.120
+no termo de programação
+
+33:37.120 --> 33:39.120
+de computação gráfica foi quando eu trabalhei
+
+33:39.120 --> 33:41.120
+com essa galera lá do AutoCAD que eu comentei
+
+33:41.120 --> 33:43.120
+e teve uma época em que a gente estava migrando
+
+33:43.120 --> 33:45.120
+do AutoCAD
+
+33:45.120 --> 33:47.120
+para uma ferramenta que a gente tinha que fazer tudo
+
+33:47.120 --> 33:49.120
+que o AutoCAD fazia
+
+33:49.120 --> 33:51.120
+trabalhava com georreferenciamento
+
+33:51.120 --> 33:53.120
+então não era muito artístico
+
+33:53.120 --> 33:55.120
+mas tinha a ver com computação gráfica
+
+33:55.120 --> 33:57.120
+eu já tentei contribuir
+
+33:57.120 --> 33:59.120
+para um projeto programando mesmo
+
+33:59.120 --> 34:01.120
+era para um projeto de desenvolvimento
+
+34:01.120 --> 34:03.120
+de fazer o ML
+
+34:03.120 --> 34:05.120
+que era em Java
+
+34:05.120 --> 34:07.120
+e eu sempre programei em Java
+
+34:07.120 --> 34:09.120
+e esse projeto eu tentei acompanhar
+
+34:09.120 --> 34:11.120
+na expectativa
+
+34:11.120 --> 34:13.120
+eu consegui fazer alguma coisa
+
+34:13.120 --> 34:15.120
+imagina que deve ser complicado
+
+34:15.120 --> 34:17.120
+tem vários critérios
+
+34:17.120 --> 34:19.120
+é porque não é bagunçado
+
+34:19.120 --> 34:21.120
+até a equipe de desenvolvimento
+
+34:21.120 --> 34:23.120
+aprovada é difícil
+
+34:23.120 --> 34:25.120
+o joeliz até comentou
+
+34:25.120 --> 34:27.120
+porque o pessoal falou que a software livre é aberto
+
+34:27.120 --> 34:29.120
+mas tem todo um critério
+
+34:29.120 --> 34:31.120
+para que se mantém a qualidade
+
+34:31.120 --> 34:33.120
+acho que software livre é bagunça
+
+34:35.120 --> 34:37.120
+você está pensando o que? que tranvesti é bagunça?
+
+34:37.120 --> 34:39.120
+você sabe que o software livre é bagunça?
+
+34:39.120 --> 34:41.120
+você acha que pode ser
+
+34:41.120 --> 34:43.120
+agora tem umas coisas assim
+
+34:43.120 --> 34:45.120
+que parece que podia
+
+34:45.120 --> 34:47.120
+sei lá, não é complicado
+
+34:47.120 --> 34:49.120
+igual um AutoSave para o GIMP
+
+34:49.120 --> 34:51.120
+uma vez eu tive que recorrer
+
+34:51.120 --> 34:53.120
+um conhecido meu
+
+34:53.120 --> 34:55.120
+que é desenvolvedor
+
+34:55.120 --> 34:57.120
+e o GIMP é um cara conhecido
+
+34:57.120 --> 34:59.120
+eu tinha falado que ele fez um rapidinho
+
+34:59.120 --> 35:01.120
+porque na época que eu usava o GIMP no Windows
+
+35:01.120 --> 35:03.120
+ele vivia dando problemas
+
+35:03.120 --> 35:05.120
+eu falei que eu desenhei muito de pressa
+
+35:05.120 --> 35:07.120
+desce dois comandos muito próximos
+
+35:07.120 --> 35:09.120
+dava um toque na tela
+
+35:09.120 --> 35:11.120
+e encostava lá num pincel para um trabalho
+
+35:11.120 --> 35:13.120
+e eu pedi o trabalho
+
+35:13.120 --> 35:15.120
+que eu sempre esqueço de salvar
+
+35:15.120 --> 35:17.120
+aí ele fez um AutoSave assim
+
+35:17.120 --> 35:19.120
+instantaneamente para mim
+
+35:19.120 --> 35:21.120
+eu fiquei usando um bom tempo até porque eu passei para o Linux
+
+35:21.120 --> 35:23.120
+e aí é tranquilo, não tem essas coisas
+
+35:23.120 --> 35:25.120
+e outra coisa também que eu vi ontem
+
+35:25.120 --> 35:27.120
+um script
+
+35:27.120 --> 35:29.120
+da janela única para o GIMP
+
+35:29.120 --> 35:31.120
+você tem até um ambificação
+
+35:31.120 --> 35:33.120
+eu acho que não sei se é forte
+
+35:33.120 --> 35:35.120
+GIMPBOX
+
+35:35.120 --> 35:37.120
+que é um script
+
+35:37.120 --> 35:39.120
+mas ele entrou
+
+35:39.120 --> 35:41.120
+e ele mudou minha configuração
+
+35:41.120 --> 35:43.120
+porque ele só funciona com aquele jeito
+
+35:43.120 --> 35:45.120
+onde as opções de ferramentas
+
+35:45.120 --> 35:47.120
+ficam do lado de esquerdo
+
+35:47.120 --> 35:49.120
+abaixo da caixa de ferramentas
+
+35:49.120 --> 35:51.120
+e eu não trabalho com as opções de ferramentas
+
+35:51.120 --> 35:53.120
+ali, trabalho com ela do lado direito
+
+35:53.120 --> 35:55.120
+junto com as outras paletas
+
+35:55.120 --> 35:57.120
+que eu montei ali
+
+35:57.120 --> 35:59.120
+e daí ele muda isso
+
+35:59.120 --> 36:01.120
+daí fica meio bagunçado quando você volta
+
+36:01.120 --> 36:03.120
+para o GIMP
+
+36:03.120 --> 36:05.120
+se abrir a caixa de lançar o programa de
+
+36:05.120 --> 36:07.120
+GIMPBOX ele entra com essa cara
+
+36:07.120 --> 36:09.120
+mas depois quando você volta
+
+36:09.120 --> 36:11.120
+para o GIMP normal
+
+36:11.120 --> 36:13.120
+já dá um probleminha
+
+36:13.120 --> 36:15.120
+então é uma coisinha que talvez tenha como
+
+36:15.120 --> 36:17.120
+você deve saber como é que é isso
+
+36:17.120 --> 36:19.120
+ele aceitar
+
+36:19.120 --> 36:21.120
+uma variação sem alterar
+
+36:21.120 --> 36:23.120
+muito
+
+36:23.120 --> 36:25.120
+mas ele faz a janela única e fica legal
+
+36:25.120 --> 36:27.120
+dos dois lados assim as paletas
+
+36:27.120 --> 36:29.120
+muito bacana embaixo
+
+36:29.120 --> 36:31.120
+das paletas que você abre
+
+36:31.120 --> 36:33.120
+é interessante
+
+36:33.120 --> 36:35.120
+é isso que é um lado do feedback
+
+36:35.120 --> 36:37.120
+de quem está usando
+
+36:37.120 --> 36:39.120
+tem muita coisa em Python
+
+36:39.120 --> 36:41.120
+a pessoa pode ficar assim até com receio
+
+36:41.120 --> 36:43.120
+de querer contribuir em alguma coisa
+
+36:43.120 --> 36:45.120
+mas vou ter que aprender mais mais
+
+36:45.120 --> 36:47.120
+vou ter que aprender mais
+
+36:47.120 --> 36:49.120
+mas o GIMP mesmo
+
+36:49.120 --> 36:51.120
+tem que funcionar muita coisa com Python
+
+36:59.120 --> 37:01.120
+GIMP
+
+37:01.120 --> 37:03.120
+GIMP
+
+37:03.120 --> 37:05.120
+GIMP
+
+37:05.120 --> 37:07.120
+GIMP
+
+37:07.120 --> 37:09.120
+GIMP
+
+37:09.120 --> 37:11.120
+GIMP
+
+37:11.120 --> 37:13.120
+GIMP
+
+37:13.120 --> 37:15.120
+é isso que é interessante falar
+
+37:15.120 --> 37:17.120
+acho que é toda a preocupação de grandes
+
+37:17.120 --> 37:19.120
+artistas igual você
+
+37:19.120 --> 37:21.120
+querendo pegar mesmo
+
+37:21.120 --> 37:23.120
+é
+
+37:23.120 --> 37:25.120
+igual o Cicero Moraes
+
+37:25.120 --> 37:27.120
+você conhece o Cicero Moraes?
+
+37:27.120 --> 37:29.120
+é, ele mexe com 3D
+
+37:29.120 --> 37:31.120
+e ele aprendeu
+
+37:31.120 --> 37:33.120
+o software também
+
+37:33.120 --> 37:35.120
+ele precisa de aprofundar mais
+
+37:35.120 --> 37:37.120
+em certas coisas, algo não é feito
+
+37:37.120 --> 37:39.120
+então ele precisou de aprender
+
+37:39.120 --> 37:41.120
+programação para mexer em alguma coisa específica
+
+37:41.120 --> 37:43.120
+que ele precisa
+
+37:43.120 --> 37:45.120
+ele já está no nível de customização tão grande
+
+37:45.120 --> 37:47.120
+é o Cicero da Coditas
+
+37:47.120 --> 37:49.120
+isso aí é muito legal
+
+37:49.120 --> 37:51.120
+pois é, como é que você vai conseguir isso
+
+37:51.120 --> 37:53.120
+com o proprietário
+
+37:53.120 --> 37:55.120
+é, esse script
+
+37:55.120 --> 37:57.120
+você colocar na mão de uma pessoa
+
+37:57.120 --> 37:59.120
+ela pode fazer uma adaptação
+
+37:59.120 --> 38:01.120
+um desenvolvedor que sabe mexer
+
+38:01.120 --> 38:03.120
+e o negócio voltar a funcionar é legal
+
+38:03.120 --> 38:05.120
+e quem está bem jogado
+
+38:05.120 --> 38:07.120
+Cicero em 2010, quase ninguém usou
+
+38:07.120 --> 38:09.120
+talvez
+
+38:09.120 --> 38:11.120
+tem essa coisa, precisa organizar
+
+38:11.120 --> 38:13.120
+precisa ter um grupo de gente que trabalha bem
+
+38:13.120 --> 38:15.120
+que eu igual falei
+
+38:15.120 --> 38:17.120
+e todos eles usarem pacotes de coisas
+
+38:17.120 --> 38:19.120
+divulgar aquilo
+
+38:19.120 --> 38:21.120
+eu acho que isso ajuda pra caramba
+
+38:21.120 --> 38:23.120
+o GPS por exemplo está aí
+
+38:23.120 --> 38:25.120
+falando a ser conhecido
+
+38:25.120 --> 38:27.120
+não é tanto como deveria
+
+38:27.120 --> 38:29.120
+mas já na Europa já está começando
+
+38:29.120 --> 38:31.120
+tem outras coisas
+
+38:31.120 --> 38:33.120
+tinha que juntar um grupo assim
+
+38:33.120 --> 38:35.120
+e para todo mundo ver como é que é que funcionam
+
+38:35.120 --> 38:37.120
+os caras fisitoriais
+
+38:37.120 --> 38:39.120
+aqui em Goiás a gente tem uma comunidade
+
+38:39.120 --> 38:41.120
+forte de fomento do software livre
+
+38:41.120 --> 38:43.120
+daí a gente sempre faz palestras
+
+38:43.120 --> 38:45.120
+participei agora do circuito Goiânido
+
+38:45.120 --> 38:47.120
+software livre e a gente foi no interior
+
+38:47.120 --> 38:49.120
+fazer vários cidades
+
+38:49.120 --> 38:51.120
+são dez etapas, a gente fez
+
+38:51.120 --> 38:53.120
+cidades, divulgando, fazendo palestras
+
+38:53.120 --> 38:55.120
+nas universidades e assim o pessoal vai
+
+38:55.120 --> 38:57.120
+conhecendo, quanto mais gente conhecer
+
+38:57.120 --> 38:59.120
+você acha que fica muito interessado
+
+38:59.120 --> 39:01.120
+tem uma galera que fica muito
+
+39:01.120 --> 39:03.120
+interessada, até a palestra
+
+39:03.120 --> 39:05.120
+que eu fiz com o alemão, a galera ficou
+
+39:05.120 --> 39:07.120
+bastante interessada também
+
+39:07.120 --> 39:09.120
+é até uma dica para a galera da organização
+
+39:09.120 --> 39:11.120
+do PSOL, a Niki vem trazer um boso
+
+39:11.120 --> 39:13.120
+é Goiânico, é o problema que eu sou ruim de
+
+39:13.120 --> 39:15.120
+viajar pra cara
+
+39:15.120 --> 39:17.120
+ou não
+
+39:17.120 --> 39:19.120
+às vezes me convido
+
+39:19.120 --> 39:21.120
+na Latina Oé, me convido
+
+39:21.120 --> 39:23.120
+eu sou ruim de viajar
+
+39:23.120 --> 39:25.120
+vou ver se o dia ainda vou
+
+39:25.120 --> 39:27.120
+ah é, lá na Latina Oé teve
+
+39:27.120 --> 39:29.120
+uma galeria de pessoas que usam
+
+39:29.120 --> 39:31.120
+que utilizam
+
+39:31.120 --> 39:33.120
+se fizeram espainéis
+
+39:33.120 --> 39:35.120
+ficou interessante, eu acho que vou
+
+39:35.120 --> 39:37.120
+receber uma alona daqui
+
+39:37.120 --> 39:39.120
+eu quero ver como é que vai ficar aquela impressão
+
+39:39.120 --> 39:41.120
+que eu fiquei curioso pra ver a impressão
+
+39:41.120 --> 39:43.120
+na alona né, perto, como é que é
+
+39:43.120 --> 39:45.120
+mas hoje como é que tá
+
+39:45.120 --> 39:47.120
+trabalhando muito
+
+39:47.120 --> 39:49.120
+eu fiz um
+
+39:49.120 --> 39:51.120
+esquema que eu tenho
+
+39:51.120 --> 39:53.120
+já tentei 30 anos de profissão
+
+39:53.120 --> 39:55.120
+então eu já não fico
+
+39:55.120 --> 39:57.120
+mais me estressando
+
+39:57.120 --> 39:59.120
+faço
+
+39:59.120 --> 40:01.120
+um negócio que dá um
+
+40:01.120 --> 40:03.120
+ritmo humano
+
+40:03.120 --> 40:05.120
+que hoje em dia todo mundo tá correndo demais
+
+40:05.120 --> 40:07.120
+acho que perder o ritmo, isso não é bom
+
+40:07.120 --> 40:09.120
+perder o ritmo, então eu tenho meus
+
+40:09.120 --> 40:11.120
+trabalhos, tenho uns clientes que eu fui
+
+40:11.120 --> 40:13.120
+conseguindo durante um decorrer
+
+40:13.120 --> 40:15.120
+do tempo
+
+40:15.120 --> 40:17.120
+eu fui utilizando software livre
+
+40:17.120 --> 40:19.120
+eles foram gostando, eles têm sem saber
+
+40:19.120 --> 40:21.120
+agora é que por causa do blog
+
+40:21.120 --> 40:23.120
+e porque eu acabei ficando usando
+
+40:23.120 --> 40:25.120
+direto mesmo, não teve jeito
+
+40:25.120 --> 40:27.120
+é que as pessoas vão sabendo mais
+
+40:27.120 --> 40:29.120
+inclusive o blog também
+
+40:29.120 --> 40:31.120
+é pra isso né, é pra divulgação
+
+40:31.120 --> 40:33.120
+dá um retorno
+
+40:33.120 --> 40:35.120
+pra aquilo que eu recebo né
+
+40:35.120 --> 40:37.120
+a intenção primeira foi essa
+
+40:37.120 --> 40:39.120
+é porque tem várias formas de monetizar isso
+
+40:39.120 --> 40:41.120
+não precisa ser diretamente com trabalho
+
+40:41.120 --> 40:43.120
+tem gente que ganha com a decência
+
+40:43.120 --> 40:45.120
+publicando né, tem as próprias doações
+
+40:45.120 --> 40:47.120
+no site, essas coisas, hoje que tem algum
+
+40:47.120 --> 40:49.120
+retorno disso que faz
+
+40:49.120 --> 40:51.120
+não, eu ainda não fiz um trabalho dirigido
+
+40:51.120 --> 40:53.120
+nesse sentido, aquilo ali
+
+40:53.120 --> 40:55.120
+a ideia que eu tive foi essa mesmo
+
+40:55.120 --> 40:57.120
+dá em retribuição aquilo que eu recebo
+
+40:57.120 --> 40:59.120
+pelo uso do gimp
+
+40:59.120 --> 41:01.120
+que eu ganho dinheiro com o gimp
+
+41:01.120 --> 41:03.120
+sobrevivo com o gimp, então eu quis
+
+41:03.120 --> 41:05.120
+passar uma coisa com os tutoriais
+
+41:05.120 --> 41:07.120
+mais nesse sentido ainda não pensei
+
+41:07.120 --> 41:09.120
+um esquema
+
+41:09.120 --> 41:11.120
+comercial pra usar no blog
+
+41:11.120 --> 41:13.120
+não, eu tenho um plano
+
+41:13.120 --> 41:15.120
+de vender reproduções
+
+41:15.120 --> 41:17.120
+de ilustrações, mas é
+
+41:17.120 --> 41:19.120
+o outro trabalho que eu tenho no dia a dia
+
+41:19.120 --> 41:21.120
+ele me absorve né, acabo
+
+41:21.120 --> 41:23.120
+esses outros projetos vão ficando todos encostados
+
+41:23.120 --> 41:25.120
+e vai indo, você deixa pra lá
+
+41:25.120 --> 41:27.120
+você tem que dar a prioridade mesmo
+
+41:27.120 --> 41:29.120
+o que você faz pra sobreviver
+
+41:29.120 --> 41:31.120
+tem aquele esquema de sketchbook
+
+41:31.120 --> 41:33.120
+não tem, porque o pessoal vem de sketchbook?
+
+41:33.120 --> 41:35.120
+é, tem, pode fazer um monte
+
+41:35.120 --> 41:37.120
+coisa né, tanta coisa né
+
+41:37.120 --> 41:39.120
+só parar, sentar, pensar e conseguir
+
+41:39.120 --> 41:41.120
+ter um tempo pra fazer
+
+41:41.120 --> 41:43.120
+possibilidade no falco
+
+41:43.120 --> 41:45.120
+tem que pensar direitinho
+
+41:45.120 --> 41:47.120
+colocar no papel e fazer
+
+41:47.120 --> 41:49.120
+às vezes eu penso começar com essa coisa
+
+41:49.120 --> 41:51.120
+da história em quadrim
+
+41:51.120 --> 41:53.120
+ou da história ilustrada
+
+41:53.120 --> 41:55.120
+tipo um quadrim
+
+41:55.120 --> 41:57.120
+e ver como é que dá pra veicular isso
+
+41:57.120 --> 41:59.120
+pelo blog, em alguma forma
+
+41:59.120 --> 42:01.120
+e da venda de reprodução dos meus trabalhos
+
+42:01.120 --> 42:03.120
+eu até também comendo
+
+42:03.120 --> 42:05.120
+se a pessoa quiser
+
+42:05.120 --> 42:07.120
+mas hoje tu chega a ensinar
+
+42:07.120 --> 42:09.120
+era um workshop?
+
+42:09.120 --> 42:11.120
+não, não, porque eu rindo mais
+
+42:11.120 --> 42:13.120
+eu sou aquela pessoa que mais
+
+42:13.120 --> 42:15.120
+ficasse sentada ali com atenção fixa
+
+42:15.120 --> 42:17.120
+no desenho, eu rindo mais
+
+42:17.120 --> 42:19.120
+eu acho que a coisa sai melhor assim
+
+42:19.120 --> 42:21.120
+é a primeira vez que você faz esses vídeos?
+
+42:21.120 --> 42:23.120
+é, no youtube
+
+42:23.120 --> 42:25.120
+eu botei o meu nome
+
+42:25.120 --> 42:27.120
+contrário, com o tumose
+
+42:27.120 --> 42:29.120
+não tem lá vários vídeos já
+
+42:29.120 --> 42:31.120
+então já tem um bom tempo que eu estou fazendo
+
+42:31.120 --> 42:33.120
+mas, infelizmente, não dá pra fazer mais
+
+42:33.120 --> 42:35.120
+passa uns espaços assim
+
+42:35.120 --> 42:37.120
+de tempo muito grande
+
+42:37.120 --> 42:39.120
+gostaria que fossem menores
+
+42:39.120 --> 42:41.120
+mas
+
+42:41.120 --> 42:43.120
+eu tenho feito bastante coisa
+
+42:43.120 --> 42:45.120
+ensinando o que eu aprendi
+
+42:45.120 --> 42:47.120
+mostrando como eu faço o meu jeito
+
+43:05.120 --> 43:07.120
+é o considerações finais?
+
+43:07.120 --> 43:09.120
+eu acho que
+
+43:09.120 --> 43:11.120
+é essa coisa de
+
+43:11.120 --> 43:13.120
+pedir
+
+43:13.120 --> 43:15.120
+pessoal pra usar
+
+43:15.120 --> 43:17.120
+usar, conhecer
+
+43:17.120 --> 43:19.120
+entender
+
+43:19.120 --> 43:21.120
+a ideia do software
+
+43:21.120 --> 43:23.120
+livre
+
+43:23.120 --> 43:25.120
+eu acho que é interessante
+
+43:25.120 --> 43:27.120
+entender
+
+43:27.120 --> 43:29.120
+a ideia do software
+
+43:29.120 --> 43:31.120
+livre
+
+43:31.120 --> 43:33.120
+eu acho que é interessante
+
+43:33.120 --> 43:35.120
+eu acho que é interessante
+
+43:35.120 --> 43:37.120
+conhecer isso
+
+43:37.120 --> 43:39.120
+eu tenho um problema com o teu nome
+
+43:39.120 --> 43:41.120
+porque eu tenho dois ídolos com o mesmo nome
+
+43:41.120 --> 43:43.120
+é o Mozart Couto
+
+43:43.120 --> 43:45.120
+e o Mozart Mela
+
+43:57.120 --> 43:59.120
+ele é guitarrista
+
+43:59.120 --> 44:01.120
+daí eu confundi
+
+44:01.120 --> 44:03.120
+eu estava procurando sobre Mozart Mela
+
+44:03.120 --> 44:05.120
+e achava sobre Mozart Couto
+
+44:05.120 --> 44:07.120
+quer dizer, eu queria achar sobre Mozart Couto
+
+44:07.120 --> 44:09.120
+e procurava sobre Mozart Mela
+
+44:09.120 --> 44:11.120
+mas, eu queria agradecer
+
+44:11.120 --> 44:13.120
+cara, eu estou de disponibilidade
+
+44:13.120 --> 44:15.120
+a gente enrolou pra caramba pra conseguir fazer
+
+44:15.120 --> 44:17.120
+tem problema não
+
+44:17.120 --> 44:19.120
+mas eu estou mega agradecido
+
+44:19.120 --> 44:21.120
+estou apogadão
+
+44:21.120 --> 44:23.120
+espero que tenha tido as informações boas
+
+44:23.120 --> 44:25.120
+nossa, valeu a pena demais
+
+44:25.120 --> 44:27.120
+qualquer coisa nós estamos aí
+
+44:27.120 --> 44:29.120
+tem mais alguma
+
+44:29.120 --> 44:31.120
+quem está começando
+
+44:31.120 --> 44:33.120
+quem está começando
+
+44:33.120 --> 44:35.120
+qual é a sua dica?
+
+44:35.120 --> 44:37.120
+no digital, no desenho mesmo
+
+44:37.120 --> 44:39.120
+acho que no geral
+
+44:39.120 --> 44:41.120
+seguindo seus passos
+
+44:41.120 --> 44:43.120
+o ideal seria fazer um curso
+
+44:43.120 --> 44:45.120
+uma coisa bem estruturada
+
+44:45.120 --> 44:47.120
+com bons professores
+
+44:47.120 --> 44:49.120
+mas, depois
+
+44:49.120 --> 44:51.120
+depende mesmo da pessoa
+
+44:51.120 --> 44:53.120
+muita disciplina
+
+44:53.120 --> 44:55.120
+muita prática
+
+44:55.120 --> 44:57.120
+estudar sempre
+
+44:57.120 --> 44:59.120
+ter recepção
+
+44:59.120 --> 45:01.120
+porque isso é muito importante
+
+45:01.120 --> 45:03.120
+mas, eu acho que você tem que ter uma coisa
+
+45:03.120 --> 45:05.120
+que é o tal do talento nato
+
+45:05.120 --> 45:07.120
+não é que quem não tenha isso
+
+45:07.120 --> 45:09.120
+não vá se dar bem não
+
+45:09.120 --> 45:11.120
+mas, o talento nato
+
+45:11.120 --> 45:13.120
+é que faz aquela pessoa desenvolver
+
+45:13.120 --> 45:15.120
+aquela arte assim
+
+45:15.120 --> 45:17.120
+que toca mesmo, que é uma coisa assim inexplicável
+
+45:17.120 --> 45:19.120
+o cara pode fazer até um rabisco
+
+45:19.120 --> 45:21.120
+que é diferente de todo mundo
+
+45:21.120 --> 45:23.120
+um rabisco que ele fez
+
+45:23.120 --> 45:25.120
+então, estudar muito, praticar muito
+
+45:25.120 --> 45:27.120
+hoje em dia, nossa, tem um campo
+
+45:27.120 --> 45:29.120
+tão aberto para fazer tanta coisa
+
+45:29.120 --> 45:31.120
+tem muita coisa para ser feita
+
+45:31.120 --> 45:33.120
+mas sem disciplina, sem prática
+
+45:33.120 --> 45:35.120
+sem estudo, é difícil
+
+45:35.120 --> 45:37.120
+isso é interessante porque
+
+45:37.120 --> 45:39.120
+você aprendeu alto de data
+
+45:39.120 --> 45:41.120
+mas mesmo assim, era assim
+
+45:41.120 --> 45:43.120
+em cima de livro
+
+45:43.120 --> 45:45.120
+e com disciplina de horário
+
+45:45.120 --> 45:47.120
+para estudar, para desenhar
+
+45:47.120 --> 45:49.120
+com aquela prática constante
+
+45:49.120 --> 45:51.120
+e sempre de tempos em tempos
+
+45:51.120 --> 45:53.120
+que ele começa a me incomodar
+
+45:53.120 --> 45:55.120
+eu vou mudar aquilo de alguma forma
+
+45:55.120 --> 45:57.120
+sempre tem
+
+45:57.120 --> 45:59.120
+essa visão crítica, a respeito
+
+45:59.120 --> 46:01.120
+do seu próprio trabalho
+
+46:01.120 --> 46:03.120
+nem esperar que os outros tenham
+
+46:03.120 --> 46:05.120
+a ideia que você tenha antes
+
+46:05.120 --> 46:07.120
+assim como o cara do GPS
+
+46:07.120 --> 46:09.120
+eu fazia retratos
+
+46:09.120 --> 46:11.120
+eu tinha um problema
+
+46:11.120 --> 46:13.120
+que tinha vezes que eu fazia retratos
+
+46:13.120 --> 46:15.120
+de alguma pessoa e até se eu perguntava
+
+46:15.120 --> 46:17.120
+quem era
+
+46:17.120 --> 46:19.120
+e já era um termômetro
+
+46:19.120 --> 46:21.120
+para ver que não estava muito bem
+
+46:21.120 --> 46:23.120
+não estava muito bem
+
+46:23.120 --> 46:25.120
+porque a galera pô, teve gente
+
+46:25.120 --> 46:27.120
+que ficou até grilado, assim, não
+
+46:27.120 --> 46:29.120
+escutei comigo, não
+
+46:29.120 --> 46:31.120
+sempre parece comigo não, mas é tu mesmo
+
+46:31.120 --> 46:33.120
+eu não, tinha visto o Nux
+
+46:33.120 --> 46:35.120
+H.K. Nux do Alemão?
+
+46:35.120 --> 46:37.120
+Tiringa, eu acho legal essa arte
+
+46:37.120 --> 46:39.120
+dessa desenvolvedor mesmo
+
+46:39.120 --> 46:41.120
+que eu tenho na edição
+
+46:41.120 --> 46:43.120
+é muito interessante
+
+46:43.120 --> 46:45.120
+se as suas figuras
+
+46:45.120 --> 46:47.120
+que as coisas me lembram
+
+46:47.120 --> 46:49.120
+mesmo essa coisa
+
+46:49.120 --> 46:51.120
+desenvolvedor, gente, que mexe
+
+46:51.120 --> 46:53.120
+com o Nets
+
+46:53.120 --> 46:55.120
+é muito legal, eu gosto muito
+
+46:55.120 --> 46:57.120
+eu também acho interessante pra caramba
+
+46:57.120 --> 46:59.120
+ele faz tudo com o Xcape
+
+46:59.120 --> 47:01.120
+é outro case de maneiras
+
+47:01.120 --> 47:03.120
+Música
+
+47:03.120 --> 47:05.120
+Música
+
+47:05.120 --> 47:07.120
+Música
+
+47:07.120 --> 47:09.120
+Mô, obrigadão cara
+
+47:09.120 --> 47:11.120
+desculpem
+
+47:11.120 --> 47:13.120
+desculpem qualquer coisa
+
+47:13.120 --> 47:15.120
+eu vou lá ver mais pot que essa
+
+47:15.120 --> 47:17.120
+não, beleza
+
+47:17.120 --> 47:19.120
+toda semana, como é que...
+
+47:19.120 --> 47:21.120
+era todo mês, né
+
+47:21.120 --> 47:23.120
+depois foi aumentando a cada dois meses
+
+47:23.120 --> 47:25.120
+tava quase que virando semestral
+
+47:25.120 --> 47:27.120
+então será que tem coisa nova?
+
+47:27.120 --> 47:29.120
+não, tem sim, é sexta-feira passada
+
+47:29.120 --> 47:31.120
+eu publiquei
+
+47:31.120 --> 47:33.120
+inclusive foi bem em cima porque
+
+47:33.120 --> 47:35.120
+eu fiz o anúncio do FGSL
+
+47:35.120 --> 47:37.120
+que é um evento que ia acontecer
+
+47:37.120 --> 47:39.120
+e eu fiz o anúncio do dia do evento
+
+47:39.120 --> 47:41.120
+o evento começava de noite
+
+47:41.120 --> 47:43.120
+eu publiquei
+
+47:43.120 --> 47:45.120
+eu consegui publicar o podcast
+
+47:45.120 --> 47:47.120
+eu achei meio dia
+
+47:47.120 --> 47:49.120
+não é fácil dar conta dessas coisas de internet
+
+47:49.120 --> 47:51.120
+porque assim a metodividade principal
+
+47:51.120 --> 47:53.120
+não é essa, né
+
+47:53.120 --> 47:55.120
+mas nem porque é um hobby
+
+47:55.120 --> 47:57.120
+é assim mesmo, meu blog
+
+47:57.120 --> 47:59.120
+não é mole não
+
+47:59.120 --> 48:01.120
+atualizar ele, manter ele
+
+48:01.120 --> 48:03.120
+é difícil
+
+48:03.120 --> 48:05.120
+tem alguma consideração final alemão?
+
+48:05.120 --> 48:07.120
+é uma honra, né
+
+48:07.120 --> 48:09.120
+entrevistar um ícone desse
+
+48:09.120 --> 48:11.120
+um íscone
+
+48:11.120 --> 48:13.120
+eu fico até, sei lá
+
+48:13.120 --> 48:15.120
+ainda adequado
+
+48:15.120 --> 48:17.120
+ainda apropriado
+
+48:17.120 --> 48:19.120
+então é isso, muito obrigado
+
+48:19.120 --> 48:21.120
+até a boa, gente
+
+48:21.120 --> 48:23.120
+qualquer coisa nós estamos aí
+
+48:23.120 --> 48:25.120
+abração pra vocês
+
+48:25.120 --> 48:27.120
+até mais
+
+48:43.120 --> 48:45.120
+e aí
+
+49:14.120 --> 49:17.120
+Então alegam ao Robo Parmei por produzir a casa e agradecimentos desse episódio
+
+49:17.120 --> 49:18.120
+Vamos!
+
+49:19.120 --> 49:21.120
+Muito original gente!
+
+49:21.120 --> 49:25.120
+Começando para quem mencionou a roba tribo do C.I. Notovieteira
+
+49:25.120 --> 49:28.120
+Agradecemos a roba Cezinha, Anderline Anjos
+
+49:28.120 --> 49:30.120
+A roba Marcos, Anderline Cunha
+
+49:30.120 --> 49:31.120
+A roba Otiago M
+
+49:31.120 --> 49:34.120
+A roba Emerson, Anderline Nerd
+
+49:34.120 --> 49:35.120
+A roba Pinheiro, Felipe
+
+49:35.120 --> 49:37.120
+A roba Ju Felix
+
+49:37.120 --> 49:39.120
+Ju com H, né?
+
+49:39.120 --> 49:42.120
+Ju, H, é Ju com H, né?
+
+49:43.120 --> 49:47.120
+É Ju, J, U, H, Anderline, Felix
+
+49:47.120 --> 49:49.120
+O Felix, F, L, X
+
+49:50.120 --> 49:55.120
+Vê levar a Dalemão agora, vamos agora para quem comentou no Poxi do episódio
+
+49:55.120 --> 49:59.120
+O Lucas comentou no título correria precoço
+
+49:59.120 --> 50:00.120
+O que que é isso?
+
+50:00.120 --> 50:05.120
+Esse aqui é um dos jovens que eu conheci lá em Santa Helena
+
+50:05.120 --> 50:06.120
+E isso?
+
+50:06.120 --> 50:08.120
+No circuito goiano de Softair Livre
+
+50:08.120 --> 50:12.120
+Basicamente, eu tenho que informar o Sr. Rafael Ct
+
+50:12.120 --> 50:15.120
+Que ele perdeu o título de correria precoço
+
+50:16.120 --> 50:18.120
+Esse é o título que eu inventei, sabe?
+
+50:18.120 --> 50:20.120
+Pessoal Juventude que tá aí vindo com tudo
+
+50:20.120 --> 50:22.120
+Coço umificado em correria precoço
+
+50:22.120 --> 50:26.120
+É porque ele já tá aí na correria e é o cara novo pra caramba, sabe?
+
+50:28.120 --> 50:30.120
+Belo título, belo título
+
+50:30.120 --> 50:33.120
+Então, o título correria precoço desse episódio
+
+50:33.120 --> 50:36.120
+Quer dizer, a gente não tinha falado ainda do Rafael, né?
+
+50:36.120 --> 50:39.120
+O primeiro título correria precoço vai pro Rafael Ct
+
+50:39.120 --> 50:42.120
+E agora, quem ganha, é o Lucas, lá de Santa Helena
+
+50:42.120 --> 50:43.120
+Um abraço, o Lucas, alias
+
+50:43.120 --> 50:45.120
+Começa a fazer um torneio aí, né?
+
+50:45.120 --> 50:47.120
+Até um troféu, um prêmio e tal
+
+50:47.120 --> 50:51.120
+Os podcasts geralmente dão o prêmio pra o primeiro comentário, né?
+
+50:51.120 --> 50:54.120
+E a gente aqui tem o título correria precoço
+
+50:54.120 --> 50:56.120
+Deixe seu comentário com idade
+
+50:56.120 --> 50:57.120
+E o que você faz, né?
+
+50:57.120 --> 50:59.120
+Nesse caso, o Lucas, ele programa IPHP
+
+50:59.120 --> 51:02.120
+Direto ele tá lá, tirando dúvidas comigo
+
+51:02.120 --> 51:04.120
+Assim, eu ajudo na medida do possível, né?
+
+51:04.120 --> 51:07.120
+Aí, Lucas, título correria precoço desse episódio
+
+51:07.120 --> 51:09.120
+Mas, Rafael, você foi o primeiro
+
+51:09.120 --> 51:11.120
+Então, você tem um lugar especial aí, né?
+
+51:11.120 --> 51:13.120
+No hall da fama dos correrias precoços
+
+51:13.120 --> 51:15.120
+Beijo, Rafael
+
+51:15.120 --> 51:17.120
+Até a próxima
+
+51:17.120 --> 51:18.120
+Um abraço ali na boca
+
+51:18.120 --> 51:20.120
+E o comentário dele no post foi
+
+51:20.120 --> 51:21.120
+Muito bom podcast
+
+51:21.120 --> 51:22.120
+Outro perfect
+
+51:22.120 --> 51:23.120
+Foi ele falar em inglês
+
+51:23.120 --> 51:25.120
+E o health...
+
+51:25.120 --> 51:27.120
+É o health...
+
+51:27.120 --> 51:29.120
+Health...
+
+51:30.120 --> 51:31.120
+O que é que é o health?
+
+51:31.120 --> 51:33.120
+A gente só...
+
+51:33.120 --> 51:35.120
+Tenho um pênchum
+
+51:35.120 --> 51:36.120
+Cara, muito bom
+
+51:36.120 --> 51:37.120
+Continui assim
+
+51:37.120 --> 51:39.120
+Valeu, cara, obrigado aí pela força
+
+51:39.120 --> 51:41.120
+E é verdade, ainda tenho um pênchum
+
+51:41.120 --> 51:43.120
+E tô rodando débil à squeeze
+
+51:43.120 --> 51:44.120
+Só como versão texto, né?
+
+51:44.120 --> 51:45.120
+Modo texto, não, cara
+
+51:45.120 --> 51:48.120
+Eu tô tendo todos os recursos pra eu dar uma placa em vídeo
+
+51:48.120 --> 51:49.120
+64 megas
+
+51:49.120 --> 51:50.120
+Nossa!
+
+51:50.120 --> 51:53.120
+Cara, e essa placa tem uma história interessante, cara
+
+51:53.120 --> 51:54.120
+Quanto pra nós?
+
+51:54.120 --> 51:57.120
+A minha mãe, ela ia fazer uma festa de aniversário pra mim, sabe?
+
+51:57.120 --> 52:00.120
+Isso em meados de 2003
+
+52:00.120 --> 52:02.120
+2002 ou 2003, eu não lembro
+
+52:02.120 --> 52:03.120
+E ela pediu pra eu escolher
+
+52:03.120 --> 52:05.120
+Ela fazia a festa de aniversário
+
+52:05.120 --> 52:07.120
+Eu comprava uma placa de vídeo
+
+52:07.120 --> 52:08.120
+Adivinha qual que eu escolhi
+
+52:08.120 --> 52:09.120
+Preciso nem a gente falar, né?
+
+52:09.120 --> 52:12.120
+Placa em vídeo, a vermelha da cor da minha placa, mano
+
+52:12.120 --> 52:14.120
+Antes eu tinha uma PC chips
+
+52:14.120 --> 52:16.120
+Aí a minha PC chips queimou
+
+52:16.120 --> 52:19.120
+Aí eu escolhi uma MSI só pra cada cor da placa
+
+52:19.120 --> 52:21.120
+Eu posso deixar de ter uma placa vermelha
+
+52:21.120 --> 52:22.120
+Pra pegar uma placa vermelha?
+
+52:22.120 --> 52:23.120
+Dica em vídeo
+
+52:23.120 --> 52:26.120
+Vocês tem que começar a fazer placa de vídeo rosa
+
+52:26.120 --> 52:27.120
+Então, pra mentar as vendas
+
+52:27.120 --> 52:29.120
+Nesse caso, a minha placa de vídeo
+
+52:29.120 --> 52:32.120
+Ela dá a manufaturada pela MSI também
+
+52:32.120 --> 52:34.120
+Então, eu tenho a placa mãe MSI
+
+52:34.120 --> 52:36.120
+E a placa de vídeo da NVIDIA
+
+52:36.120 --> 52:37.120
+Também da MSI
+
+52:37.120 --> 52:39.120
+E todas as vermelhas, que é o mais legal
+
+52:41.120 --> 52:42.120
+Tô te falando
+
+52:42.120 --> 52:45.120
+Daqui a uns dias a NVIDIA faz uma placa de vídeo rosa
+
+52:45.120 --> 52:47.120
+As mulheres vão comprar só por causa da cor, né?
+
+52:47.120 --> 52:49.120
+Vamos da continidade, né?
+
+52:49.120 --> 52:50.120
+Que a gente já perdeu o foco
+
+52:50.120 --> 52:51.120
+José Américo Globo
+
+52:51.120 --> 52:52.120
+Opa!
+
+52:52.120 --> 52:53.120
+Globo
+
+52:54.120 --> 52:58.120
+José Américo Globo comentou no nosso post do podcast
+
+52:58.120 --> 52:59.120
+É isso aí, Mozut
+
+52:59.120 --> 53:02.120
+Na luta para divulgar o soft lift nas artes gráficos
+
+53:02.120 --> 53:04.120
+Ótimo entrevista, ótimo papo
+
+53:04.120 --> 53:05.120
+Continue assim
+
+53:05.120 --> 53:06.120
+Valeu, Ida
+
+53:06.120 --> 53:08.120
+A Ellen é Fernanda, agradeceu
+
+53:08.120 --> 53:09.120
+Que a gente lembrou dela
+
+53:09.120 --> 53:10.120
+A Ellen do HTML
+
+53:10.120 --> 53:11.120
+Um abraço, Ellen
+
+53:11.120 --> 53:13.120
+Esse GTL, Ellen
+
+53:13.120 --> 53:15.120
+Essa pessoa, que não dá pra saber, né?
+
+53:15.120 --> 53:16.120
+Pelo pelo nome
+
+53:16.120 --> 53:18.120
+Você é homem ou mulher
+
+53:18.120 --> 53:22.120
+Fiz um comentário no episódio da programadora BR
+
+53:22.120 --> 53:24.120
+Conheci o site hoje, muito bom
+
+53:24.120 --> 53:26.120
+Vou começar a ouvir os mais antigos agora
+
+53:26.120 --> 53:27.120
+RS
+
+53:29.120 --> 53:30.120
+Pelo jeito...
+
+53:30.120 --> 53:31.120
+Eu falei o grande do Sul
+
+53:32.120 --> 53:34.120
+Sabe aquela piadinha?
+
+53:34.120 --> 53:35.120
+Não
+
+53:35.120 --> 53:38.120
+Tinha duas pessoas conversando no bate-papo
+
+53:38.120 --> 53:40.120
+Aí eu falei, de onde você é?
+
+53:40.120 --> 53:42.120
+Eu falei, sou de RS
+
+53:42.120 --> 53:43.120
+E você?
+
+53:43.120 --> 53:44.120
+Sou de kakaká
+
+53:47.120 --> 53:49.120
+Continuando aqui o comentário
+
+53:49.120 --> 53:51.120
+Pelo jeito não tem como sacrificar
+
+53:51.120 --> 53:53.120
+As madrugadas nessa profissão
+
+53:53.120 --> 53:56.120
+Legal saber que não estou sozinho
+
+53:56.120 --> 53:58.120
+Continue com o podcast
+
+53:58.120 --> 54:00.120
+Que está muito bom
+
+54:00.120 --> 54:03.120
+E, se possível, falando de programação
+
+54:03.120 --> 54:05.120
+Rises, parabéns
+
+54:05.120 --> 54:07.120
+Valeu aí
+
+54:07.120 --> 54:11.120
+E se você quiser mandar dicas de pauta
+
+54:11.120 --> 54:14.120
+Dicas de pessoas a serem entrevistadas
+
+54:14.120 --> 54:16.120
+Dicas de como ganhar dinheiro
+
+54:16.120 --> 54:18.120
+O Nucs agora está no Twitter
+
+54:18.120 --> 54:23.120
+Twitter.com.hknux
+
+54:23.120 --> 54:26.120
+Para quem não conhece o Nucs
+
+54:26.120 --> 54:29.120
+Eu sou o ator das tirinhas sobre tecnologia
+
+54:29.120 --> 54:31.120
+Acesse o site Nucs.org
+
+54:31.120 --> 54:32.120
+E seja feliz
+
+54:32.120 --> 54:34.120
+Deixa seu comentário lá também
+
+54:34.120 --> 54:36.120
+Compartilhe em busca do conhecimento
+
+54:36.120 --> 54:38.120
+E agora, queria falar de um projeto muito legal
+
+54:38.120 --> 54:41.120
+Que é um projeto do Arroba Eduardo Bayão
+
+54:41.120 --> 54:42.120
+Que é um player
+
+54:42.120 --> 54:45.120
+O projeto dele é um aplicativo para iPhone
+
+54:45.120 --> 54:47.120
+É o Megaboga Cache
+
+54:47.120 --> 54:49.120
+Eu estou sendo beta-test desse software
+
+54:49.120 --> 54:51.120
+Você está sendo um Megaboga Tester
+
+54:53.120 --> 54:54.120
+Olha que legal
+
+54:54.120 --> 54:56.120
+Pois é, e eu já coloquei a tribo do sei lá
+
+54:56.120 --> 54:59.120
+A página personalizada do tribo do sei ficou bem legal
+
+54:59.120 --> 55:01.120
+Tu viu lá, acho que eu mandei esse post no Twitter
+
+55:01.120 --> 55:03.120
+Depois vocês dão uma olhada lá
+
+55:03.120 --> 55:05.120
+Se você quiser também ser beta-test
+
+55:05.120 --> 55:07.120
+Por enquanto, ele está agarrando beta-test
+
+55:07.120 --> 55:09.120
+Para esse projeto
+
+55:09.120 --> 55:12.120
+E também ele convida aos podcasters
+
+55:12.120 --> 55:14.120
+Adicionar seus feeds
+
+55:14.120 --> 55:16.120
+E você também que se quiser ser beta-test
+
+55:16.120 --> 55:19.120
+Entre contato lá com o Arroba Eduardo Bayão
+
+55:19.120 --> 55:20.120
+Tudo junto
+
+55:20.120 --> 55:22.120
+Sem assento, é baial
+
+55:22.120 --> 55:25.120
+Mas tem que fazer para Android também
+
+55:25.120 --> 55:27.120
+Só para iPhone
+
+55:27.120 --> 55:29.120
+É um pouco muito restrito
+
+55:29.120 --> 55:30.120
+Cara, é uma boa dica
+
+55:30.120 --> 55:31.120
+Vamos esperar ele terminar, né
+
+55:31.120 --> 55:32.120
+Primeiro do iPhone
+
+55:32.120 --> 55:34.120
+Mas isso seria uma dica importante
+
+55:34.120 --> 55:37.120
+Porque são poucos players específicos
+
+55:37.120 --> 55:39.120
+Para tocar podcast
+
+55:39.120 --> 55:41.120
+Que tem essa gerencia de fias e essas coisas assim
+
+55:41.120 --> 55:43.120
+Então fica aí a dica também
+
+55:43.120 --> 55:44.120
+Como é que estão os planos
+
+55:44.120 --> 55:45.120
+Mas uma edição para Android
+
+55:45.120 --> 55:46.120
+Seria bem legal
+
+55:46.120 --> 55:47.120
+Falta no mercado
+
+55:47.120 --> 55:48.120
+Com certeza
+
+55:48.120 --> 55:49.120
+Eu queria mandar um abraço aí
+
+55:49.120 --> 55:50.120
+Para o Goiano Geek
+
+55:50.120 --> 55:52.120
+É o Tiago Eterno
+
+55:52.120 --> 55:54.120
+Do extinto site Goiano Geek
+
+55:54.120 --> 55:55.120
+Eu fiquei meio boladão
+
+55:55.120 --> 55:57.120
+Que eles acabaram com Goiano Geek
+
+55:57.120 --> 55:59.120
+Tu conheceu Goiano Geek
+
+55:59.120 --> 56:00.120
+Mas era bem interessante
+
+56:00.120 --> 56:01.120
+Eu fiquei...
+
+56:01.120 --> 56:02.120
+Eu até tentei ajudar
+
+56:02.120 --> 56:05.120
+Mas como era por causa de tempo e tal
+
+56:05.120 --> 56:06.120
+E aí não rolou não
+
+56:06.120 --> 56:07.120
+Mas Tiago Eterno
+
+56:07.120 --> 56:09.120
+Eu seria eternamente grande
+
+56:14.120 --> 56:16.120
+E fica convidado aí
+
+56:16.120 --> 56:18.120
+Se você quiser fazer postes
+
+56:18.120 --> 56:19.120
+Lá na tribo do CI
+
+56:19.120 --> 56:20.120
+Fica à vontade
+
+56:20.120 --> 56:22.120
+Cara, se quiser fazer review e tal
+
+56:22.120 --> 56:23.120
+Um abraço aliás
+
+56:23.120 --> 56:25.120
+Então não deixe de mandar seus feedbacks
+
+56:25.120 --> 56:27.120
+Comentando o arroba
+
+56:27.120 --> 56:29.120
+Tribo do CI no Twitter
+
+56:29.120 --> 56:31.120
+Ou curtindo nossas...
+
+56:31.120 --> 56:32.120
+A gente poderia falar
+
+56:32.120 --> 56:33.120
+Começam a falar também as pessoas
+
+56:33.120 --> 56:34.120
+Que curtiram, né
+
+56:34.120 --> 56:35.120
+No Facebook lá
+
+56:35.120 --> 56:37.120
+Teve o Enrique Woznik
+
+56:37.120 --> 56:39.120
+Enrique Woznik
+
+56:39.120 --> 56:40.120
+Cê é esse aqui?
+
+56:40.120 --> 56:41.120
+Tipo estivo Woznik?
+
+56:41.120 --> 56:43.120
+Foi Vinícius Reis
+
+56:43.120 --> 56:45.120
+Lloyd Maravirds
+
+56:45.120 --> 56:47.120
+Mas será Lloyd ou Lloyd Senna?
+
+56:47.120 --> 56:49.120
+Eu chamaria de Lloyd, né
+
+56:49.120 --> 56:51.120
+Lloyd Maravirds
+
+56:51.120 --> 56:54.120
+Daniel Buriê Holandine
+
+56:54.120 --> 56:56.120
+Felipe de Freitas
+
+56:56.120 --> 56:58.120
+O Emerson no Januário
+
+56:58.120 --> 57:01.120
+Esse cara é um grande esferas do
+
+57:01.120 --> 57:03.120
+XJS no Goiás
+
+57:03.120 --> 57:05.120
+Um abraço aí o Emerson
+
+57:05.120 --> 57:07.120
+A gente codificou muita coisa junto
+
+57:07.120 --> 57:08.120
+Ludmilla Silva
+
+57:08.120 --> 57:10.120
+Que pena que tá compromissada
+
+57:10.120 --> 57:13.120
+Valeu, um abraço a todo mundo
+
+57:13.120 --> 57:15.120
+Que curtiu a gente no Facebook
+
+57:15.120 --> 57:17.120
+Se você não curtiu, curta lá
+
+57:17.120 --> 57:19.120
+Nós falaremos de seu nome
+
+57:19.120 --> 57:21.120
+Isso é um grande...
+
+57:21.120 --> 57:23.120
+Grande coisa
+
+57:23.120 --> 57:26.120
+Então um abraço a todo mundo
+
+57:26.120 --> 57:29.120
+A todos os miguxos do Facebook
+
+57:29.120 --> 57:31.120
+Quer dizer, do Facebook
+
+57:31.120 --> 57:34.120
+Não se esqueça de mandar o seu feedback
+
+57:34.120 --> 57:37.120
+Para podcastarrobatribudosci.net
+
+57:37.120 --> 57:41.120
+Ou www.tribudosciarrobatremeio.com
+
+57:41.120 --> 57:43.120
+Ou então mencionando
+
+57:43.120 --> 57:45.120
+Arrobatribudosci no Twitter
+
+57:45.120 --> 57:48.120
+Ou se não curtindo a página do Facebook
+
+57:48.120 --> 57:50.120
+www.facebook.com.br
+
+57:50.120 --> 57:51.120
+www.tribudosci
+
+57:51.120 --> 57:52.120
+Ou porque não comentando
+
+57:52.120 --> 57:54.120
+No post do episódio
+
+57:54.120 --> 57:55.120
+Tudo tá valendo
+
+57:55.120 --> 57:57.120
+É isso aí pessoal, valeu e até o próximo episódio
+
+57:57.120 --> 57:59.120
+Falou
+
+57:59.120 --> 58:01.120
+Pode falar que eu não ligo
+
+58:01.120 --> 58:03.120
+Agora amigo
+
+58:03.120 --> 58:06.120
+Eu tô em outra
+
+58:06.120 --> 58:08.120
+José Américo Gogo
+
+58:08.120 --> 58:10.120
+Naquele monstro da Star Trek
+
+58:10.120 --> 58:12.120
+Star Trek?
+
+58:12.120 --> 58:14.120
+Como é que é o nome dele?
+
+58:14.120 --> 58:16.120
+O que?
+
+58:16.120 --> 58:18.120
+Aquele que o amigo do Spock
+
+58:18.120 --> 58:20.120
+Lá luta com ele
+
+58:20.120 --> 58:22.120
+Ah, né? O Chewbacca?
+
+58:22.120 --> 58:24.120
+Não
+
+58:24.120 --> 58:26.120
+Isso é Star Wars
+
+58:26.120 --> 58:28.120
+Esse nerd é tudo um fiasco
+
+58:28.120 --> 58:30.120
+O outro
+
+58:30.120 --> 58:33.120
+O outro do sorte livre
+
+58:33.120 --> 58:35.120
+José Américo
+
+58:53.120 --> 58:55.120
+Agora é a editar essa parada
+
+58:55.120 --> 58:57.120
+Eu acho que vai dar em duas partes porque tá bem comprido
+
+58:57.120 --> 58:59.120
+É
+
+58:59.120 --> 59:01.120
+Mineiro tem muita conversa
+
+59:01.120 --> 59:03.120
+Mineiro gosta de causa
+
+59:03.120 --> 59:05.120
+É de muito causa
+
+59:15.120 --> 59:17.120
+Eu só posso interagir
+
+59:21.120 --> 59:23.120
+Não, ele tinha uma atras
+
+59:23.120 --> 59:25.120
+Foi ele tudo
+
+59:25.120 --> 59:27.120
+Foi a minha morada, não?
+
+59:27.120 --> 59:29.120
+É o cliente
+
+59:29.120 --> 59:31.120
+Tá aqui
+
+59:31.120 --> 59:33.120
+Eu não salvei cara, até agora eu não salvei nada
+
+59:33.120 --> 59:35.120
+Nossa, você clica a pauzinho
+
+59:41.120 --> 59:43.120
+Vai até falar mais sobre o Gogo do Bacca no final
+
+59:51.120 --> 59:53.120
+Agora deu na minha hora de gravação
+
+59:53.120 --> 59:55.120
+Nossa
+
+59:55.120 --> 59:57.120
+Se nem ver, passando
+
+59:57.120 --> 59:59.120
+Eu não vou falar mais pra gente
+
+59:59.120 --> 01:00:01.120
+Eu decava você de lá cara
+
+01:00:01.120 --> 01:00:03.120
+É muita nostalgia
+
+01:00:03.120 --> 01:00:05.120
+Meu padrinho tinha um radinho que ficava a noite inteira
+
+01:00:05.120 --> 01:00:07.120
+Obrigado
+
+01:00:07.120 --> 01:00:09.120
+Rádio Nacional da Amazônia
+
+01:00:09.120 --> 01:00:11.120
+Um abraço a você
+
+01:00:11.120 --> 01:00:13.120
+A gente mandava cartinha pra ele
+
+01:00:13.120 --> 01:00:15.120
+Eles mandavam um calendário
+
+01:00:15.120 --> 01:00:17.120
+Com os locutores
+
+01:00:17.120 --> 01:00:19.120
+Então se você tem calendário
+
+01:00:19.120 --> 01:00:21.120
+Ou se você foi ouvinte da Rádio Nacional da Amazônia
+
+01:00:21.120 --> 01:00:23.120
+Não se esqueça de mandar seu feedback
+
+01:00:27.120 --> 01:00:29.120
+Que hoje eu passei
+
+01:00:29.120 --> 01:00:31.120
+Batom vermelho
+
+01:00:31.120 --> 01:00:33.120
+Eu venho te dar
+
+01:00:33.120 --> 01:00:35.120
+Alegria como dom
+
+01:00:35.120 --> 01:00:37.120
+Em cada canto eu vejo
+
+01:00:37.120 --> 01:00:39.120
+O lado bom
+
