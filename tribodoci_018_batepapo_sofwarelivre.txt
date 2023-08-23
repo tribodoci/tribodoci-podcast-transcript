@@ -1,0 +1,3156 @@
+Você está ouvindo a tribo do C.I. Podcast
+Episódio 18, bate papo, Softelive, um por amor, dois por dinheiro.
+Essa foi uma live transmitida pelo canal do alemão, dia de 29 de julho de 2023,
+lá falando sobre Softelive, mercado de trabalho com quem faz e utiliza Softelive no seu dia a dia.
+Um abraço e vamos para o episódio.
+Então é isso aí galera, mais uma live, mais uma né, a primeira.
+A gente vai falar sobre Softelive, um por amor, dois por dinheiro.
+Esse é o tema, a gente vai focar mais no profissional que utiliza, faz e a gente vai explicar o que é Softelive
+para quem não sabe o que é Softelive e a gente vai focar nesse assunto de como o Softelive impacta
+no profissional comum, no dia a dia, no relis mortal, no chão de fábrica, digamos assim.
+Só lembrando que a gente vai deixar esse episódio aqui gravado também,
+eu vou deixar o link na descrição aí, é editar no podcast tribo do C.I. ponto net.
+E muito obrigado aos convidados que aceitaram participar.
+Eu gostaria que vocês se apresentassem cada um, o que cada um faz e já contar uma historinha
+de como o Softelive impactou vocês, como vocês começaram.
+Depois a gente, se quiser, cada um explicar o que é o Softelive e cada um complementa um pouco também.
+Eu vou ficar por último, eu já falei demais.
+Pode começar pelo Cadunico, que ele está aqui do meu lado aqui na tela.
+Gente, antes de mais nada, boa tarde, sabadão, aqui no Rio está nublado, não sei na área de vocês.
+Bom, eu sou designer, trabalho há um bom tempo com o Softelive,
+vai para lá de 10 anos, já passou de 10 anos isso.
+Só uso o Softelive em todas as minhas produções.
+E sou o criador do evento chamado Guino Gráfico, eu vejo computação gráfico Softelive.
+Acontece todo ano, aqui no Rio de Janeiro, onde tem palestras e oficinas,
+dois dias totalmente de graça para o público.
+Além das quatro liberdades, eu entendo que o Softelive é uma forma de deixar horizontal
+a utilização de qualquer tipo de software, seja do que setor que você atui.
+Por que? Porque a maioria dos Softelives são gratuitos.
+A gratuidade não é um pré-requisito do Softelive, a liberdade está no código e não no preço.
+Mas a maioria são gratuitos, é muito difícil você ter um Softelive pago,
+mas mesmo pagando tem vantagem, senão você vai ter que a pouco ver a palestra.
+Isso já é um passo muito grande, porque você precisa de um softelive específico,
+existe softelive, você baixa, você testa, você instala, você passa a usar
+e aí você passa a ter essa ferramenta à sua disposição.
+É muito além das quatro liberdades, eu acredito que o Softelive
+ele é um facilitador para uma necessidade que você tem.
+Só antes de você continuar, eu quero explicar bem, basicamente,
+aquele famoso receita do bolo, o que é softelive para os leigos,
+senão você vai ficar falando e fazer o que esse cara está falando.
+O que é softelive? Softelive é quem quiser me corrigir ou complementar.
+É como se fosse um bolo, você tem a receita, você pode pegar essa receita, fazer o bolo
+e mesmo você saber na receita você pode comprar o bolo de alguém
+ou você pode pegar esse bolo que você criou e pode complementar e vender esse bolo também.
+Então a receita é de todo mundo, quando você tem o seu bolo, o bolo é seu,
+mas a receita é de todo mundo. Então a ideia do softelive é tipo isso, sabe?
+Você faz um produto em código, você é entre aspas dono, mas não é dono
+e cada um pode vender, distribuir, modificar, ganhar dinheiro
+que é isso que a gente vai discutir hoje.
+Eu gostaria, Kadunik, que você me falasse como você começou nesse mundo
+e como te impacta até hoje e o que você acha?
+De como impacta isso no sócio econômico, ao todo, ao geral também?
+Certo, eu sempre fui designer, desde que eu fiz escora técnica de comunicação
+desde o segundo grau eu procurei esse caminho.
+Em um dado momento eu estava trabalhando na prefeitura de Niteroia
+que eu era web designer da subsecretaria sem essa tecnologia
+e o Guinolinox estava começando a entrar no mercado.
+Aí tinha aquela história dos revistas com sedês e eu vi um Guinolinox
+na máquina de um colega meu da prefeitura, que era um sistema operacional
+longe do Windows, que foge um pouco no Windows e ele é diferente,
+ele é um pouco... parece ser legal.
+E isso despertou o primeiro momento.
+Anos depois eu acabei fazendo um curso do Senac de Guinolinox
+e ali eu vi que tinham muitas ferramentas gráficas
+e o primeiro deles foi o Inkscape, que é o meu software livre e favorito.
+Não é o Blender, as pessoas pensam que é o Blender, mas não é.
+E ali eu vi e falei, eu posso trabalhar com o software livre na minha área,
+editar imagens, fazer layouts com desenho vetorial, trabalhar com 3D,
+coisa, pois, por que não?
+O que eu fiz com a maioria das pessoas fazendo o início?
+Então eu tinha minhas ferramentas que eu estava habituado numa partição do HD
+e tinha as ferramentas que eu estava aprendendo na outra partição com Guinolinox.
+Você quis mexer por curiosidade ou porque você viu uma oportunidade de negócio ali?
+Eu vi uma forma de manter meu parque de software sempre atualizado
+e dar uma maior vida útil para o meu hardware.
+Eu trocava de hardware todo ano.
+Todo ano eu tinha que trocar de hardware, porque eu trabalhava muito com 3D.
+E hoje eu troco de 5 e 5 anos.
+De meia e meia década eu comprei uma máquina nova.
+Era esse nível de espaçamento.
+Demos econômicos, vamos põeem.
+Eu fui diretor de hardware do núcleo e produção digital do estado de Rio de Janeiro.
+As máquinas estavam encostadas com licenças obsoletas,
+quase sem poder fazer nada.
+Quando a gente migrou os laboratórios, você estava com máquinas atuando 100%,
+sem problema algum, e ainda tinha o parque totalmente atualizado.
+Você podia abrir versões mais novas dos arquivos e assim por diante.
+Então, econômicamente falando, vai além da gratuidade imediata da maioria de software livres.
+Você ganha uma soberania tecnológica porque o código é aberto.
+Você precisa de uma necessidade específica.
+Você vai lá ou paga alguém para fazer essa alteração.
+Ou você mesmo faz, certo?
+Se você tem uma empresa e está ouvindo a gente que tem um departamento de desenvolvimento,
+você pode personalizar os seus software livres da maneira que vocês quiserem, como vocês quiserem.
+Então, isso é muito mais que uma mera economia de um software gratuito.
+Você ganha uma autonomia tecnológica, você consegue adaptar.
+Você ganha uma segurança absurda porque todos os software livres são extremamente seguros.
+São códigos que são auditados diariamente, revisados diariamente, mesmo os lançados,
+e você ganha uma maior vida de hardware.
+Por quê?
+Porque software proprietário foi feito para o mercado, software livre foi feito para você.
+Então, a premissa de software livre é ser preciso, rápido e leve.
+Então, como eu falei, eu trocava de máquina todo ano.
+Hoje eu troco de máquina de 5 em 5 anos.
+Então, essas são as vantagens imediatas.
+Quando você instala, começa a utilizar software livre na sua vida profissional ou na sua empresa.
+Agora, eu vou contar a minha historinha, porque a gente é mais ou menos do mesmo ramo,
+e depois a gente vai para outro ramo.
+Enfim, a gente está tudo mesmo ramo, mas a gente está mais próximo.
+Então, eu também comecei com software livre, em meados de 2010, eu acho.
+E também foi pelo mesmo esquema.
+Antigamente, naquela época, era tudo corel, né?
+Tipo, você trabalhar, mandar arquivo para a gráfica, o monopólio era corel.
+Não adiantava.
+Você queria mandar um arquivo para a gráfica, você tinha que mandar um corel, e é isso.
+E naquela época, eu não tinha umas condições muito boas,
+e eu fiquei sabendo de links, de escape também, dessa alternativa.
+E foi o que me proporcionou a estudar os conceitos de design em casa,
+porque meu computador era uma bomba.
+O que fazia rodar era Linux e Escape.
+Corel, só do computador pensar e abrir o corel, ele já travava.
+Então, eu enxergo o software livre nessa questão dele ser...
+Além de ser grátis, não que todo o software livre seja grátis,
+mas esse em específico, ele era grátis.
+Então, me proporcionou essa oportunidade de aprender,
+porque os programas são um conceito parecido.
+Então, eu consegui chegar no serviço, no meu estágio, e aplicar o que aprendi em casa.
+Era só adaptar um pouquinho ali.
+Então, eu sou muito grato ao software livre por essa oportunidade, sabe?
+E como eu enxergo hoje?
+Hoje. Hoje mudou muito, né?
+Hoje tem muito serviço online, né?
+Hoje em dia também não tem esse monopólio de corel e tal, illustrator, enfim.
+Tirando a parte da produção visual, que ainda tem esse monopólio, principalmente After Effects, né?
+Se você quer mexer com motion design, motion graphics e tal,
+se você não abrir o After Effects, não adianta.
+Não merece o nome de motion design.
+É After Effects, pronto, entendeu?
+E, mas assim, outras áreas de animação, tipo 2D, já não tem esse monopólio,
+tanto assim, né? O Krita mesmo, que é um software livre, ele é bem famoso.
+Tem mais essa diversidade, né?
+Porque não precisa ficar ali, principalmente animação à mão, né? 2D.
+Não tem como, tipo, você passar o arquivo outra pessoa pra ficar alterando ali,
+uma pessoa desenho, afirmar, afirmar, enfim.
+Também tem o morro que compete com o Ubuntu, né?
+O OpenTunes, quer dizer, que é o software livre.
+OpenTunes que compete com o morro, o animate, o tumbum, enfim.
+O que eu quero dizer? Você pode ter essa oportunidade, sabe?
+Eu sou muito grato com essa oportunidade.
+E eu também, eu tô muito feliz, porque mudou muito essa...
+com esses serviços on-lines, mas a gente tem que se atentar também aos nossos dados, né?
+Esses serviços on-line aí ficou muito democrático, né?
+O ensino, o aprendizado, todo mundo tem um celular de auto geração na mão,
+tem um canva aí, o Figma, enfim, tudo on-line.
+Hoje em dia tá muito diferente essa democratização, né?
+Antigamente, eu fui grato ao software livre por isso.
+E como impacta isso hoje, no software livre, no meu dia a dia?
+Bom, é o conhecimento que eu peguei do software livre, eu aplico no meu workflow, né?
+Então, eu consigo fazer uma coisinha a mais ali, eu consigo mesclar o proprietário com o livre, né?
+Porque é uma gama de programas que eu sei mexer,
+então tem alguma funcionalidade que tem um e outro não tem,
+então vai... às vezes isso melhora o tempo de entrega do serviço,
+ou melhora o serviço em si, né?
+Então, eu sou grato ainda, e sem contar o recurso da máquina também, né?
+Porque, tipo, não é porque eu sei mexer After Effects,
+que eu vou mexer 100% do tempo em After Effects,
+que eu preciso mexer em 200 vídeos, 200 animação,
+e tem que abrir o Photoshop, N2K, GIMP e tal, tal.
+Então, pra ficar mexendo em que estados de arquivo eu meis tempo, haja a máquina, né?
+E tem a hora que o meu computador tem 40 dias de memória,
+mas tem a hora que eu não entro no After Effects, entendeu?
+Ele pede mais memória, você quer mais memória.
+Por isso que eu estou ensinando um envy aqui no canal,
+que é, tipo, eu falo que é o After Effects livre,
+tá longe de ser o After Effects livre, né?
+Mas é o mesmo conceito ali, e eu acredito nele, sabe?
+Porque ele não tinha um programa com conceito igual a After Effects,
+dentro do Linux, tirando o sinfigo, mas que era mais pra outro nicho.
+E isso também vai democratizar, sabe?
+A animação para as pessoas que não têm tanto recurso, assim.
+Enfim, uma máquina boa é muito cara, né? Enfim.
+E por isso que eu ensino aqui,
+eu acredito no programa igual o Inkscape,
+quando eu mexia no Inkscape no começo,
+ele, hoje em dia, em comparação ao primeiro Inkscape,
+hoje em dia o Inkscape tá fenomenal.
+Então, assim, quem acreditou no projeto e tal,
+vou dar um exemplo aqui de projeto livre,
+para quem é mais lego, é tipo Firefox, que é o navegador,
+todo mundo conhece, é um projeto livre.
+E agora, eu gostaria que o Health se apresentasse aí,
+que você faz, que você come,
+que você, como é que você prepara esse bigode lindo aí?
+Essa barba.
+É, então, eu sou desenvolvedor,
+tem desde 2003, então faz vinte aninhos aí,
+que eu tô nessa, nessa profissão, né?
+Faz modo bravo.
+Eu fiz, assim, já pulando pra,
+quando eu conheci o software livre, né,
+eu fiz o curso técnico de redes,
+o curso técnico de informática,
+que eu ia fazer em rede de comunicação.
+E na época era o Kurumi, que tava,
+na época saiu o Kurumi, né?
+É, mal tempo mesmo, hein?
+E eu tinha, tem uma conta, né?
+E eu lembro que na época tinha o Mini CD,
+eu tinha o meu uniforme do,
+de pro curso lá do Senai,
+eu cabia naquele CDzinho pequenininho,
+cabia no bolso do meu uniforme lá.
+E foi com ele com o Live CD,
+que eu consegui, que eu tive contato mais próximo
+com o software livre, né, de usar.
+Como desenvolvedor, eu comecei com
+programas MVB6, né?
+Então era uma stack bem microsoft,
+né?
+Na época era bem código fechado, né?
+Hoje com a Azure e as coisas tão bem diferentes, né?
+Com Satinadel, relação de microsoft,
+software livre, né?
+Até de entusiastra pra chegar a trabalhar
+com o software livre, né?
+Hoje eu fazendo um salto gigante,
+de quase vinte anos, né?
+Hoje eu tô num, assim,
+maior banco da,
+maior banco privado da,
+do inferio sul, né?
+E lá, assim, pelo menos na stack,
+né, eu trabalho na equipe de risco de mercado
+e pelo menos na stack lá,
+é tudo basicamente software livre, né?
+Até a stack microsoft,
+a gente usa a nossa cloud lá,
+hoje é AWS, né?
+Mas toda a stack até a parte de microsoft,
+né, que é dotnet,
+que também é o programa dotnet,
+e Python, né, basicamente e hoje
+é praticamente software livre, né?
+Então é, é bem presente, assim,
+no dia a dia, né?
+Até desde o, a gente usava lá,
+a gente usava GitLab, né?
+Até...
+Até há pouco tempo,
+a gente usava GitLab com a posição de código,
+então tem...
+Não é promoção paga, viu, YouTube?
+É não, mas paga nós, se quiser pagar nós,
+estão aí, hein?
+Tem, e ainda tem,
+tem coisas que a gente faz em GitHub,
+também, mas tem muito coisa
+que está lá ainda, está no GitLab, né?
+Então, assim, de todo,
+para desenvolvedor, né,
+todo o pipeline basicamente
+é software livre, né?
+Foi até para baratear, né, cloud,
+com governets e tal,
+tudo isso, software livre,
+assim, proporcionou
+a acessibilidade a tudo isso, né?
+Então hoje em dia, assim,
+desde aquela época que eu comecei até hoje,
+assim, o cenário mudou bastante, né?
+Que você é um por amor,
+dois por dinheiro,
+é dois por amor.
+É, então, é como eu falei, né?
+Eu era muito entusiasta, né?
+Mas hoje em dia é
+diferencial, né?
+Você trabalhar com...
+que até quando a gente teve essa migração
+de cloud, né, que
+a parte de containerização, né?
+Recentemente eu até tirei certificação, né?
+Tirei as...
+A gente trabalha com a AWS, mas eu tirei
+o container, né?
+Teve muito o meu background
+de sysadmin, assim,
+que ajudou bastante, né?
+E sysadmin de Linux, né?
+Minha primeira certificação eu tirei
+de mandriva Linux, né?
+Que nem existe mais.
+Eu tirei certificação em 2006, né?
+Ela valia por dois anos.
+Então eu tive ali de 2006 a 2008
+foi certificado a mandriva
+de administração de sistemas Linux, né?
+E para quem mexe com container
+de administração de sistemas
+é muito válido, né? Então...
+Hoje em dia não só entusiasta, mas
+também o DIDI do meu trabalho
+também, que envolve software livre, né?
+Então hoje eu posso dizer que eu ganho
+dinheiro também com software livre, né?
+Agora vamos fazer mais um jabá aí, né?
+Um... um Sheldon
+que está falando
+githlab. O Sheldon também é um
+exemplo, enfim, deixa ele falar, né?
+Aí, Sheldon.
+Palavra a toda a sua.
+É...
+O alemão falou aí
+meu nome é Sheldon.
+É...
+Trabalhei com
+o desenvolvimento de software
+desde...
+Há um tempo atrás, eu tenho um tempo aí.
+Desde que todo mundo falou
+como foi o envolvimento
+com software livre
+eu vou falar um pouco da mitória também.
+É...
+Eu acho que tem
+cinco anos, talvez
+vai lembrar da época da Lan House.
+Eu como um homem
+é...
+Eu e o alemão, a gente era parceiro de
+Lan House, né? A gente
+é para Lan House e
+entre um jogo de Counter Strike e outro
+aí é o Cavalili
+tentando aprender alguma coisa e a Web
+sempre foi algo que facilitou bastante.
+Então hoje eu sou programador Web
+é...
+e...
+programando, não tem jeito.
+Aprendeu um pouco sobre comparação e tal
+e nessa curiosidade
+Google, uma coisa aqui,
+fez outra coisa ali
+a gente descobriu
+não lembro exatamente como, mas a gente descobriu
+que tinha uma empresa aí chamada Canonical
+que estava enviando CD de graça
+para todo mundo
+e enviava CD e adesivo.
+Nossa mesmo, eu pedi altos
+eu tenho até hoje, você acredita?
+Eu vou pegar aqui, vou mostrar para a galera.
+Eu tenho em algum lugar também
+e a gente
+toda vez que lançava uma versão nova
+do Ubuntu, a gente ia lá e pegava
+eu lembro muito bem que teve uma versão
+importante, acho que era 6.06
+hoje está na 23, né?
+Então tem um tempo aí
+e essa versão
+foi uma versão muito legal
+assim, a gente
+passou horas de horas brincando e falando
+e mais
+e aí isso era na minha
+adolescência, no final da adolescência
+eu estava entrando na faculdade
+conseguir
+problema do governo aí chamado ProUni
+que
+a gente não gosta, eu gosto bastante
+porque eu fui beneficiário do ProUni
+e
+graças a isso consegui entrar na faculdade
+e na faculdade
+discurso a princípios
+engenharia da computação e depois
+me informei em sistemas de informação
+fiz uma transição no meio do curso
+e nesse momento
+foi onde algumas pessoas começaram
+a falar se você quiser
+trabalhar com
+programação
+esse negócio de software livre
+como assim?
+como que tem tantas pessoas
+que ganham dinheiro de software livre
+e
+como que as pessoas
+estão fazendo tudo por amor?
+então é um negócio meio
+hippie
+e aí foi a curiosidade que começou
+a me levar a
+eventos e tal, no Brasil na época
+a gente tinha um evento muito forte
+que é o Fli Sol
+festival latino americano de instalação de software livre
+é interessante, o nome instalação
+naquela época era muito forte
+esse negócio de instalação, hoje em dia
+instalação é muito fácil de fazer
+relativamente fácil, se você entende?
+um pouquinho, mas aquela época era bem mais difícil
+e também em Goiás
+eu cresci em Goiás
+a gente tinha um fórum Goiás
+também era um fórum muito grande
+a gente tinha
+palestrante do Brasil inteiro
+acho que todo mundo que tá nessa live palestrou
+alguma vez no fórum Goiás de software livre
+só te interrompendo
+só pra nostalgia
+eu tenho um bloco de notas ali também
+cheio de anotações
+de como instalar os lecors e configurar
+a internet
+eu não achei
+eu achei o CD
+tem uns que não funcionam mais
+tá muito arranhado
+o Ubuntu 8.10
+tem o Open Solaris também
+tem o Ubuntu
+mais um exemplo bastante
+eu vou falar mais a frente da empresa
+que patrocinava o Open Solaris
+então
+o Nelson falou do Curumin
+o meu primeiro computador que eu ganhei
+ele veio com o CD do Curumin
+mas na época
+eu era muito novo
+eu não consegui instalar
+e também não tinha suporte
+não conhecia as pessoas
+então eu passei a fase do Curumin
+não consegui ter essa fase
+mas aí veio o Ubuntu
+e aí comecei a mais
+comecei a aprender mais sobre as coisas
+descobrir através da comunidade
+que tinha esse Linux chamado Slackware
+que era um Linux case
+você quer aprender bastante
+quebrar a cabeça
+fazer tudo mais e fazer as coisas bem
+detalhistas
+vamos dizer assim
+então você ia falar
+e o Slackware eu participei da comunidade do Slackware
+estalei e usei
+por um tempo
+depois eu fui para a comunidade do Debian
+usei o Debian por muito tempo
+também
+hoje em dia eu como
+a minha
+meu Linux eu uso mais
+por diversão
+eu voltei para o Ubuntu
+que é uma
+distribuição um pouco mais
+amigável para se instalar
+e tudo mais
+mas eu confesso que eu estou um pouco
+enferrujado
+eu não sei quais são as distribuições
+novas e que também são tão
+amigáveis como o Ubuntu
+eu lembro que tinha o Fedora
+era uma versão, uma distribuição
+amigável para se instalar
+e tem alguns
+outros agora que eu não vou conseguir lembrar o nome
+mas
+então essa foi basicamente a minha
+história na época
+com o software livre, com a comunidade
+então a medida que eu encontrei
+me envolvendo a comunidade, a conversão com as pessoas
+eu
+comecei a entender como as pessoas ganhavam dinheiro
+com o software livre, em Goiás a gente tinha
+algumas empresas que ganhavam dinheiro com o software livre
+e claro
+hoje a gente tinha várias empresas
+multinacionais
+como o EdgeHead
+a própria GitLab
+que foi mencionada anteriormente
+e algumas outras e que agora de cabeça
+não vou conseguir lembrar mais nomes
+mas essa curiosidade
+me levou a montar uma palestra
+que foi a minha última palestra no Brasil
+em 2016
+que a palestra
+são 15 maneiras de ganhar dinheiro com o software livre
+inclusive de preparação
+para essa live de hoje, eu assisti ela novamente
+e eu descobri que alguém aí postou
+essa palestra
+no Youtube, eu não conheço a pessoa
+mas
+eu vou até colocar o link
+aqui no chat
+quem quiser assistir depois eu vou colocar aqui
+eu vou deixar na descrição também
+seu palestra estava em criativo e como?
+sei lá
+copyleft, era copyleft
+depois eu tenho que falar um pouco sobre isso
+mas essa é a minha história
+é mais ou menos isso
+nessa época eu estava
+a forma como ganhar dinheiro
+livre é toda a minha stack
+meu desenvolvimento era com o software livre
+eu usava
+linguagem de programação
+livre como PHP
+ou JavaScript
+se você desenvolveu o seu tendo
+você vai estar usando JavaScript
+na sua maioria
+e agora não lembra exatamente
+como é a questão de licença
+do JavaScript
+a linguagem de PHP era livre
+eu não estou lembrado
+mas
+estar na web
+é o meio que mais fácil você ver
+o software livre porque
+o código front-end
+inclusive foi a primeira vez
+que eu vi um código na minha vida
+foi você entrar na página no navegador
+fica com um botão direito e ver o código fonte
+então
+que você sentia um hacker
+igual nos filmes
+a linha cheia de código
+e era muito interessante para mim
+e naquela época eu estava
+já como eu tinha o objetivo
+de trabalhar
+então tem várias formas de ganhar dinheiro
+com o software livre, uma delas é trabalhando
+uma empresa e produz o software livre
+e eu tinha esse sonho
+mas
+com o tempo é meio difícil
+e
+no decorrer desse tempo
+eu fiz alguns processos
+e passei
+e hoje eu moro na Irlanda
+e trabalho
+como desenvolvedor web
+e eu trabalhei em uma empresa local
+depois fui trabalhar
+na Amazon Web Services
+e depois da Amazon
+eu fui sair
+e fui para uma outra empresa
+chamada HitLab
+hoje eu trabalho
+como desenvolvedor
+desenvolvendo software livre
+e a de Web ela tem um modelo
+chamado OpenCore
+e é basicamente você tem
+parte do seu software
+ele é livre
+e parte do seu software é proprietário
+e você vende uma licença
+e hoje é essa a principal forma
+que a GitHub ganha dinheiro
+então não 100% do meu código é livre
+mas boa parte dele é livre
+e tem que falar que a comunidade
+da GitHub é uma comunidade muito ativa
+então dá aquela sensação de contribuição
+para comunidade
+quando você vê alguém por exemplo
+escreve um código e você ajuda
+aquele código
+aquele tempo de código
+entrar na
+você ter meio riado
+entrar na IPA produção
+então acho que
+tem toda a trajetória bacana
+e o que
+tem que falar mais sobre
+legal
+só para depois vocês me lembrarem
+depois a gente discute dois pontos
+que é
+para os leigos
+como funciona
+o exemplo do Bolo
+mas outro exemplo é a Web
+porque o código
+YouTube
+o código dele é livre
+você pega o código dele
+e você consegue
+reproduzir o YouTube
+mas ao mesmo tempo
+ele tem a propriedade do serviço
+pode até pagar
+mas o código
+é livre
+e como isso é possível
+depois você poderia explicar isso
+para um leigo
+como a pessoa
+pode cobrar
+para uma coisa que é livre
+e pode ter
+e depois transformá-lo
+em proprietário
+porque tem certo que o código
+por dentro ali é livre
+mas a pessoa vai lá
+e fecha o código
+e não disponibiliza
+para o público
+eu gostaria que você me explicasse posteriormente
+que agora tem o Sampaio
+ainda para se apresentar
+deixa qual que é
+um parêntese aqui
+porque o código está disponível
+não significa que ele está livre
+então o código do YouTube
+você pode ver o código fonte
+mas se você copiar o código do YouTube
+você pode ser processado pelo YouTube
+então isso é uma pequena diferença
+da mesma forma
+o código da GitLab
+o código proprietário da GitLab
+hoje ele é aberto
+você pode todo o código que eu escrevo
+você pode lá e ver ele
+mas a parte que é proprietária
+tem algumas restrições ali
+mas não é livre
+tem algumas diferenças
+que não necessariamente você ter acesso ao código
+significa que o código é livre
+eu queria também pontuar
+uma outra coisa
+do momento em que uma licença permite
+que a vida útil
+desse código ele possa ser
+fechado ao longo do tempo
+ele
+não é caracterizado um software livre
+se não um software não pensou
+por exemplo
+acho que a licença MIT
+faz isso
+você pode um dado
+momento nascer o software livre
+você utilizar da maneira que você quiser
+e chegar numa certa maturidade
+daquela versão
+para adiante ele fecha o código
+e deixa de ver
+essa é uma licença open source
+não é uma licença livre
+certo
+qual a diferença de software livre
+software open source
+bem
+open source galera
+é código livre
+o código é aberto
+o código é aberto
+o open source
+ele tem um foco
+muito mais no mercado
+todos os dois movimentos
+tem a parte social
+mas o foco maior do open source
+é o mercado
+você produzir um software
+que o mercado
+tem interesse em consumir
+com as vantagens que o mercado precisa
+para consumir
+já o software livre
+ele não conta tanto número de máquinas
+se uma única pessoa no planeta
+está usando software livre é mais suficiente
+ele já fez o papel dele
+certo e o software livre
+ao contrário de certas licenças open source
+uma vez que ele nasce livre
+se você está licenciado pela GPL
+e no public license
+que é a licença da freesoft foundation
+ele jamais será fechado
+não tem um trajetória
+da vida desse código
+em que você chega não
+agora a gente vai fechar
+não pode, porque ela é viral
+é chamada de licença viral
+e tudo que vai desenvolvido
+em torno dele
+também tem que ser GPL
+um grande exemplo, Blender
+Blender e GPL
+todos os plugins para Blender
+no site da Blender foundation
+são GPL
+por causa que o Blender ele é GPL
+tem essa diferença também
+acho que a licença BSD
+também permite que você
+para quem é mais leigo
+licença GPL é como se fosse
+uma licença livre
+a licença livre
+é a licença livre
+ela foi a primeira licença livre
+que você criada
+acho que tem o BSD
+também que permite você fechar
+tem um problema
+tem a versão 2
+da GPL
+é uma licença tão restritiva
+como a versão 3
+tem uma polêmica
+dessa questão
+tem coisas como o LVVM
+que ele não tem uma licença
+tão restritiva
+é exatamente
+para você conseguir
+com facilidade
+infrigindo a licença
+de usar coisas não livres
+junto com o seu código livre
+e para caracterizar o código livre
+tem as 4 liberdades lá
+que são
+liberdade de usar
+para qualquer fim
+de redistribuir
+de modificar
+e
+por enquanto não tome
+de estudar, faltou estudar
+na realidade a ordem é essa
+você usa da maneira que você quiser
+você estuda como é que aquilo funciona
+você modifica da forma que você quiser
+e você distribui da forma que você quiser
+isso é a ordem
+mas
+tanto que
+o Linus Torvald brigou com o Rich Stalman
+foi por causa disso, da GPL 2
+para a GPL 3
+o Linus Torvald é o criador do Kernel Linux
+que a 3 ela é mais
+travada
+ele falou pô cara, caramba
+o que que você fez isso
+eu acho que tem outro
+complementando a
+eu falo aí
+uma pequena diferença
+que essa é a nuance mesmo
+da licença de ser
+software livre
+e a licença de ser copyleft
+que é um detalhe de coisas que se pesquisam
+eu não vou conseguir explicar com propriedade
+então a GPL além de ser software livre
+ela é copyleft
+a GitLab por exemplo usa a assistência
+do Meet
+mas o Meet ela tem várias licenças
+a que a GitLab usa é uma que chama XPatch
+que é uma licença que ela é software livre
+então
+você pode usar a GitLab
+inclusive vou até colocar na live
+que agora a licença da GitLab
+para quem quiser ler, está em inglês
+mas é bem pequenininha, pode colocar no Google Tradutor
+e aí você vai entender
+que você tem todas as liberdades
+das 4 liberdades
+estão escritas na licença
+e
+porém você pode usar a GitLab
+com a software não livre
+na prática é algo interessante
+por exemplo se você não pudesse
+seria difícil você usar a GitLab
+num servidor AWS por exemplo
+porque provavelmente
+daquela caixa preta
+vai ter algum software que não é livre
+então
+o lance de você estar usando a licença
+que é mais permissível
+é até para permitir
+a questão da praticidade de se usar
+o software
+que é a questão que o copyleft
+às vezes restringe um pouco mais
+é
+a questão de pragmatismo versus
+filosofia
+mas enfim, vou deixar o Sampaio falar aí
+depois a gente conversa mais
+eu acho que o Java teve uma discussão parecida com isso
+antes do OpenJDK
+o Java também
+às vezes você conseguia baixar o fonte
+você conseguia ver o fonte mas
+ele não tinha essas liberdades
+você não tinha o direito de
+ter até problema do Google
+para o Android
+para a port da JVM que roda no Android
+e foi por causa dessas questões
+de licença
+boa tarde para todo mundo
+a minha participação aqui é um pouco curta
+porque de todos aqui
+eu sou o que tem menos experiência
+com tudo o que vocês estão falando
+nada ponto
+eu estou aqui para fazer o papel do cara
+que faz as perguntas bestas porque
+eu realmente não tenho tanta ciência aqui
+eu tramo com fotografia
+pessoal do que você viu no Instagram
+já deve ter me visto lá no meu perfil
+e eu tenho pouquíssimo contato com toda essa área
+eu sou entusiasta de hardware
+mas quanto a questão
+de programação, computação
+isso daí eu já não tenho uma promoção
+sei o que que é o software livre
+que é o software proprietário mas também não tenho
+propriedade
+para poder falar tanto quanto vocês
+estou aqui mais pro ouvido que é tudo
+você como
+desculpa
+mas como um lego
+você
+o que você acha disso tudo
+o que é que se impacta na sua vida
+tanto faz tanto fez
+enfim
+cara, sendo sincero
+eu acho que para mim
+como muitas outras pessoas que o que fazem
+aderir ao software livre
+seria o quanto que você vai pagar por isso
+não tem ponto a correr
+porque por exemplo eu tenho que usar
+Lightroom, Photoshop
+e enfim
+licença não é algo tão barato
+eu acho que eles mudaram um pouquinho
+de uns tempos pra cá e tal mas
+para o preço do salário do brasileiro
+é muito complicado assim
+se ser um brasileiro médio você pagar um
+muito caro nesse tipo de
+programa
+próprio Windows mesmo se você for
+uma pessoa fora da curva aqui nesse país
+e você comprar a licença do Windows
+chega esse cara
+acho que eu faço para as pessoas
+a princípio que não tem ciência
+ou um lego como eu aderir um software livre
+é isso, questão de preço
+eu acho que é o ponto que mais vai contar
+para quem não é entusiasta nessa questão
+pelo menos
+e você hoje em dia utiliza programas craqueados
+mais serviços online
+ou você utilizar algum software livre
+olha
+tem que ser sincero aqui né
+enfim, tem uns craqueados aqui no computador
+software livre
+eu acabo usando um pouco na verdade
+apesar de ter feito esse mexendo todo
+mas é porque acaba aqui a minha base
+principal de trabalho vai ficar operando entre lá
+de um photoshop em fatores
+vamos resumir aqui
+e aí eu acabo aqui usando esses
+como eu falei hoje em dia eles têm aquela licença
+que você paga basicamente uma assinatura
+ou tudo virou o serviço de assinatura
+então facilita pra caramba
+então fica nisso
+alguns craqueados, alguns livres
+alguns que são originais
+certo
+eu vou dar um abraço aí para o pessoal que está acompanhando
+a gente já ouviu
+você viu aí o Leon falou
+já usei muito gist leve
+muito bom
+vou dar um abraço aí para Maria
+que é viajar
+acompanha a gente a ouvir
+uma das últimas
+edições
+do poro goiano software livre
+que eu participei da organização
+a gente transferiu
+a parte de código que a gente tinha
+o site
+tinha um aplicativo também
+a gente tinha transferido para o gitlab
+até dar uma
+minha primeira experiência com gitlab
+na época foi como usuário
+bem antes de eu trabalhar na empresa
+mas é interessante
+o que o seu pai falou porque
+principalmente
+quando você está
+num lugar
+onde a economia
+não é tão desenvolvida
+é muito comum você falar
+sobre prataria
+e as vezes eu converto com as pessoas
+aqui e as pessoas no sul
+entendem a prioridade
+que é você ter a atiar um software
+com o que no brasil isso é mais
+comum
+rola solto
+na Alemanha por exemplo você pode levar
+uma multa altíssima
+se você estiver usando torrent
+se você estiver usando um software
+de um conservador
+que é conhecido pelo governo
+como um conservador de software
+craqueado né
+então lá existe uma
+rigorosidade
+na aplicação da lei muito mais forte
+enquanto em outros países nem tanto
+então por isso no brasil as vezes
+a gente pensa muito na questão
+somente de ter acesso
+ao software
+mas a gente testa um pouco da questão legal
+eu por exemplo já trabalhei em empresa
+que usava software craqueado
+então assim
+isso é algo que
+às vezes sou meio
+como que uma empresa craquea solte
+é engraçado
+você falar que trabalhou
+em uma empresa
+na minha realidade eu não trabalhei
+em nenhuma empresa
+que não usa software craqueado
+hoje eu trabalhei em empresa grande
+aqui essa é a realidade do brasil
+ninguém paga
+ninguém paga essa licença
+e é isso
+e aí agora
+agora está tendo
+uma mudança né com
+a gente aqui
+a gente estava falando de quando a gente começou
+a mexer com software livre
+a internet não era tão rápida
+então existia muita questão
+da instalação
+então você tinha o software através de um dispositivo
+um CD
+ou algo tipo assim
+e hoje
+muito do software entrega
+entrega pela rede pela internet
+e por favor
+tem essa profissão
+eles falam de verticalização
+então você tem um acesso direto da fonte do software
+até o usuário final
+esse acesso ele não passa por
+terceiros como um CD
+ou um outro tipo de mídia
+e aí pela empresa tem esse controle direto
+então fica um pouco mais difícil
+craquear né
+então por exemplo provavelmente o sapai
+deve usar aí o pacote adobe
+ou pelo menos conhece
+e antigamente
+o adobe
+era super fácil de você
+batia ele e aí quando a adobe
+mudou
+o pacote para o
+feito e tal e uma coisa assim né
+eles conseguiram
+só comentar isso
+um comentário rápido sobre o que o xoto falou aí
+porque eu lembro que a primeira vez que eu baixei o kurumin
+de 100 megabytes
+e eu usava o download
+ser eleitor plus
+e eu deixei a noite inteira ele baixando
+lá para conseguir baixar
+o cd
+é isso aí
+o viu br
+está falando acho que as essências
+da adobe como core são caras
+são caras mesmo
+mas eu acho que
+eles estão pedindo o monopólio
+mas eles também estão
+fazendo um malabarismo
+para sair dessa vida de pirataria
+igual agora eu tenho
+o firefly lá na inteligência
+oficial da adobe
+você só consegue acessar
+se você tiver logado lá
+no photoshop original e tal
+e até a versão beta online
+mas para você usar
+aquela via generativa
+que você digita de opção
+faça um carro para mim e tal
+eu preciso ter a licença
+mas
+de corea
+de corea dural
+eu também já trabalhei
+no meu primeiro emprego
+que eu trabalhava como
+como web
+eu também diagramava um jornal
+de uma distribuição
+e eu acho que
+de corea dural eu acho que eu nunca vi ninguém
+usando uma licença
+uma corea dural licenciada
+mas
+eu acho que
+a concorrência
+está ficando boa
+está chegando nos programas bem legais
+o ing né
+que está engateando
+o calvary
+tem o
+o rive
+se ele me engano o nome
+que é tipo para animação web
+tem o affinite
+que você paga uma licença fulltime
+então tipo o povo está
+é
+aderindo muito a ele
+acho que essa concorrência
+também está sendo apesar de ser fechado
+né
+ele está tendo essa democratização
+e isso
+é
+enfim
+o que eu estava falando
+com o áudio estragado
+é porque
+essas
+evoluções que a gente vê
+você consegue traçar
+com
+as evoluções da economia como um todo
+então penso
+o alemão falou que hoje a máquina dele
+tem 40 giga de RAM
+você consegue imaginar usar
+ter 4 giga de 20 anos atrás
+é algo assim
+eu lembro que o meu primeiro computador
+acho que tinha 512
+então assim
+tem a tal da lei de mur né
+que a cada um ano e meio
+de 8 meses a capacidade
+de computação ela vai dobrar
+a quantidade de transições nos processadores né
+ah sim
+então de certa forma
+você vê isso acontecendo
+com o hardware
+o computador fica cada vez mais
+barato
+acho que agora meio que estabilizou
+não sei se vai ficar mais barato ainda né
+mas aí você consegue ver
+antigamente
+você tinha que ter igual
+você tinha que baixar a mídia
+ou você tinha que comprar um CD
+você tinha que ir numa revistaria
+para ter acesso a aquele software
+e era muito mais difícil
+e isso impacta
+todas as outras áreas né
+e
+só falando da pirataria primeiro
+então como você tinha
+essa transição um pouco mais
+que precisava de terceiros
+você conseguia
+atuar ali e fazer uma
+a pirataria ser um pouco mais fácil
+hoje com a internet mais rápida
+com
+você consegue ter acesso direto
+ao computador da pessoa então você tem
+antigamente você teria que baixar
+o pacote Adobe
+ou comprar o CD do pacote Adobe
+hoje você usa o Creative Cloud
+e é meio que automático
+você só usa aquele negócio
+ele vai atualizando sozinho e tudo mais
+e em contrapartida Adobe tem mais controle
+sobre o software
+um pouco mais difícil de você piratirar
+mas em compensação o software
+livre estão ficando também
+seguindo essa evolução porque
+pensa a 15, 20 anos
+anais você não tinha tanto acesso
+como você tem hoje a tantas ferramentas
+então os próprios desenvolvedores
+tinham uma capacidade
+de programação menor
+no sentido de acesso a informação
+então hoje qualquer pessoa
+eu já vi pessoas
+que têm zero conhecimento de programação
+contribuir com código
+porque você vai ali rapidinho
+você consegue acessar um tutorial
+tem alguma parte que você não entende
+hoje, a partir de 2023
+você pega aquele código
+joga num chat de IPT da vida
+e consegue entender
+então está cada vez ficando mais fácil
+e de certa forma impacta também na evolução
+do software livre
+apesar de que a IPT não é livre
+mas você pode usar de ferramentas não livres
+no seu dia a dia porque
+meio que o bíquito
+está disponível para você
+não seja livre
+mas é gratuito, você tem acesso
+sem custo financeiro
+e quem estudou software livre em inglês
+na palavra em inglês
+a palavra livre
+e a palavra gratuito
+é free, é a mesma palavra
+então você já deve ter ouvido falar do termo
+free as in fear
+not as in freedom
+ou seja, a tradução
+é livre como liberdade
+em si e não como gratuito
+a liberdade como cerveja
+é por isso que eu estou tomando uma cervejinha aqui agora
+em homenagem ao software livre
+é livre como cerveja
+não livre de maneira gratuita
+tem a inspeção do
+FLOS
+que também é usada como
+FLOS
+que é de free, livre
+é exatamente para
+ter essa diferença do fio e não de pago
+eu queria apontar algumas coisas aqui
+antes mais nada, falando do
+saudoso fórum
+do nosso amigo Wally
+criado pelo nosso amigo Wally
+Peter Smith, nosso dinamarquês maluco
+Wally, você está assistindo?
+eu te amo, cara
+a liberdade imediata é mais do que natural
+que o Sampaio falou
+que a liberdade imediata é gratuito
+você vai lá para a estala
+e passa a utilizar
+só que eu acho que ao longo
+tempo esse usuário
+que em um primeiro momento queria um photoshop gratuito
+e não pirata
+e acaba baixando o GIMP
+e começa a brincar com o GIMP
+ele vai vendo que é muito mais que isso
+porque o GIMP é 10 vezes mais
+leve que o photoshop
+voltando ao Inkscape
+porque a gente estava falando dessa última versão
+o Inkscape que saiu aí veio com
+10 quilos de recurso sem osso
+muita coisa
+inclusive exportação para pdf x1a
+que antigamente enjogava para os cribos
+para fazer isso
+você já tem os perfis
+de saída de impressão instalados na sua marca
+ele já fecha nesse formato
+para quem não entende pdf x1a
+é uma versão de pdf x1a
+que ela serve
+direto para gráficas
+então você envia esse arquivo
+o próprio sistema da gráfica
+já faz tudo automático
+você não precisa ter o operador
+no meio do caminho
+e tem gráficas
+que ao enviar nesse formato
+barateia
+o preço é mais barato
+o impacto é imediato
+e esse Inkscape
+veio com essa novidade
+e muitas outras
+e não pesa
+se você tentar abrir um CorelDrawl
+se você tentar abrir um Illustrator
+para
+trabalhar
+é mil vezes mais pesado
+então
+a segunda vantagem
+que eu acho que o usuário percebe
+é que
+você ganha performance
+de máquina
+então sua máquina
+anda mais tempo
+para vive mais tempo
+vocês terem um exemplo
+a gente precisava
+uma render farm
+porque
+era muita saída em vídeo
+e a gente precisava de uma render farm
+seria impossível a gente ficar
+com aquela coisa de produtora
+pequenininha
+larga a máquina renderizando
+e vai tomar um café
+para quem não sabe para renderizar
+gera imagem
+imagina isso para vídeo
+imagina isso para animação
+que é uma imagem uma do lado da outra
+demanda tempo
+e o que produtoras pequenas fazem
+eles largam a máquina renderizando
+quando o cara vai tomar um café
+ou o cara renderiza na hora do almoço
+ou no final dos pedentes ele renderiza
+reza para que tudo dê certo
+volta no dia seguinte no trabalho
+mas a demanda do NPD não podia ter esse ritmo
+o que nós fizemos
+para poder fazer
+a autonomia tecnológica
+e
+grande reaproveitamento
+de máquina
+o NPD estava atrelado
+a Secretaria de Educação de Niterói
+do Rio era em Niterói
+nós pegamos um monte de máquina
+do estoque da Secretaria
+de Educação
+e da Fundação de Educação de Niterói
+estavam paradas
+aqueles torre
+deitada
+da Positivo
+de 1900 e cardaçada
+nós pegamos 40
+máquinas daquelas
+botamos numa sala
+do NPD, tinha um ar condicionado forte
+fizemos um cluster
+de renderização
+só com débil
+sem interface gráfica
+e a gente pediu
+para o amigo meu de Shell
+fazer um script
+para ficar lendo sempre uma pasta
+toda vez que tinha arquivos novos nessa pasta
+ele já executava o renderizador
+por baixo
+gerando os vídeos
+então a gente só terminava de fazer o serviço
+salvava, jogava o arquivo para aquela pasta específica
+e aquele cluster
+ficava renderizando
+24 por 7
+direto
+direto
+cluster são várias máquinas
+que trabalham simultaneamente
+então você se ela manda
+renderizar uma imagem
+cada pedacinho dessa imagem
+vai para uma máquina dessa
+ela resolve só aquele pedacinho
+e joga o resultado
+e as outras vão jogando tudo junto
+certo?
+e nós fizemos isso
+a toque de caixa
+sem grandes
+dificuldades
+sem grandes preocupações
+com licenças
+com compras, com licitações
+catamos as máquinas que já eram licitadas
+e auditadas
+não é, patrimoniadas
+colocamos no outro lugar
+ela saiu daqui e veio para cá
+e o resto rolou
+fazendo a gente falando
+nesse papo aí
+esse tipo de autonomia que você ganha
+você como profissional
+e você como empresa
+você pode fazer uma doidera dessa e ela vai funcionar
+sem você
+a ferida fora da lei em momento nenhum
+acho que é isso que tem que ser pontuado
+o poder do software livre
+do open source também
+o open source permite essas coisas também
+é verdade, recurso de máquina
+agradece muito
+para te fazer, mas primeiro eu vou responder
+o Leone
+que ele perguntou aqui no chat
+ao ver de vocês quando por exemplo um software pago
+e um livre são utilizados para o mesmo fim
+porém o pago oferece
+recursos melhores ou inexistentes
+no software livre
+mas tu também não tem condições de criar licenças do pago
+como proceder nessa ocasião
+depende de n fatores
+de responder depois
+se vocês quiserem responder também
+igual a eu dei um exemplo do after effects
+depende do que você vai fazer
+e se você for trabalhar com motion
+fica complicado
+ou você dá seus pulos
+para conseguir a licença
+você quer trabalhar com aquilo?
+o mercado quer nem saber
+o monopólio é do after effects
+e você tem que correr atrás
+tem que pagar custos caríssimos
+tem que pagar licença mensal
+e é isso
+você quer trabalhar com isso?
+o que você está falando aqui
+é isso
+ainda bem que está melhorando isso
+acho que a concorrência está muito boa
+e eu espero que melhore
+mais ainda que já está
+bem acirrada essa concorrência
+acho que só complementando um pouco
+antes do
+falar
+também tem licenças que você consegue pagar
+por exemplo
+você paga só por um período
+você não precisa pagar o ano inteiro
+de tempo lá
+tem muitos casos de consultoria
+de consultoria
+muitas empresas
+acontecem isso muito
+a gente vai usar um software livre
+ou a gente vai pagar
+um lugar que a gente tem que culpar
+se der problema
+tinha muito disso também
+as consultorias
+querer optar por alguma coisa paga
+era uma evidência
+anecdótica nesse sentido
+uma consultoria que se já é responsável
+e elas utilizam o software livre
+dois casos
+uma era
+quando eu trabalhei na Universidade Federal de Tocantins
+na época tinha saído uma portaria
+de incentivo do uso
+de software livre
+isso foi em 2004
+19 nízes
+de incentivo de software livre
+e o exemplo que o Cadunico
+deu foi muito
+realidade lá também
+e a gente conseguiu reviver
+essas máquinas
+eu também tive que fazer um trabalho
+de
+fazer o pessoal conhecer
+então andava a treinamento
+pessoal de como usar o open
+o open office na época
+nem era o livre office
+e acabava que as pessoas acabavam
+sabendo usar mais
+as ferramentas do que
+o pacote office convencional
+que era da Microsoft
+e não só que trazia a solução
+mas também ensinava como usar
+o que você acha
+dessa pergunta
+do Leonem
+você tem um recurso
+melhor no software pago
+porém como proceder
+para você não recorrer
+a métodos não muito
+muitos
+antiéticos
+digamos assim
+porque existem alternativas
+o orde mesmo
+tem uma funcionalidade
+que você está falando do orde
+que é de integrar com
+objetos 3D
+que você faz a apresentação de 3D
+eu desconheço algum outro software
+que faz isso
+o DRAO faz
+o DRAO faz do livre office
+é isso que eu ia falar
+as pessoas estão acostumadas
+com o software proprietário
+que ele tenta se fechar nele mesmo
+aquele universo
+enfechado
+e aí ele fala para você
+você só é alguém
+se você estiver dentro dele
+se você sair dele, você não vale nada
+enquanto que o software livre
+não, você tem frentes
+então o software de desenho vetorial
+como um escape
+o time de desenvolvimento
+vai focar nisso
+porque
+é a atividade principal
+qualquer coisa
+que se ela chama e manipulação de imagem
+tem o GIMP
+tem o hall therapy
+tem o dark table
+para que eu vou ficar perdendo tempo
+reinventando a roda
+ou copiando e colando o código desse cara
+que eu posso fazer isso
+se eu posso perder muito menos tempo
+criando uma ponte entre os dois
+cadê live que eu agora com o Glaxonimator
+o cadê live agora se comunica
+direto com o Glaxonimator
+de animação 2D
+para que
+que eu vou criar um outro módulo
+de animação 2D dentro do cadê live
+se eu tenho um Glaxonimator
+não existe, então quando você
+está pensando nisso
+você está pensando naquela caixinha fechada
+eu tenho todas as soluções do mundo no meu quartinho
+agora pensa que agora você
+entrando no software livre, você está numa casa enorme
+que tem milhões de quartos
+o único trabalho que você tem é sair de um quarto e entrar no outro
+ou então
+uma porta entre uma parede e o outro
+é quarto conjunto, você só abre essa porta
+mexe no que você tem que mexer no outro quarto
+e volta para o seu quarto
+de novo
+ao After Effect
+poxa, hoje o compenso
+do Blender, o próprio Envy
+Glaxonimator
+tem o open rotoscope
+que antigamente era a máscara inteligente
+do After Effect
+rotoscopeia automática
+pois experimente essa porra é um pesadelo
+você vai lá para casa do cacete
+porque você não está filmando
+você tem que ficar os 10 minutos
+de 10 minutos não
+os 10 segundos de rotoscopeia
+arrastando aquele vértice
+teimoso que está indo para aquele lugar
+então não fala, oh meu Deus
+já tem o open rotoscope
+ele vai criar
+um quick
+quick time
+um alpha para você
+e você joga para dentro do software de edição
+de vídeo que você quiser
+já a máscara
+já pronta para você fazer a montagem
+então é você saber
+entender que é uma casa grande com vários quartos
+então você precisa de uma coisa
+você vai no quarto específico
+e depois volta
+se fosse alguns anos atrás
+até concordaria com essa fala
+o After Effect superável
+você pode dividir o After Effect
+em 10 softwares
+mas no final das contas você acaba fazendo a mesma coisa
+então se você faz a mesma coisa
+para que se render
+cliente quer
+trabalho final
+eu quero esse vídeo
+eu te paguei para fazer esse vídeo
+eu te paguei para fazer essa animação
+eu te paguei para fazer escartais
+eu paguei para você restaurar a foto
+da minha avó e colorir ele para mim
+ele não quer saber no que você fez
+quem tem esse papinho
+chumbrega principalmente na computação gráfica
+a software tal
+é produtora
+é o cara que você é mais uma engrenagem
+dentro de uma peça enorme
+é bom para quem está começando
+para pegar experiência
+mas em dois anos você já está de saco cheio
+porque você sempre faz daquele jeito
+porque é a filosofia daquela empresa
+e você não consegue expandir mais
+e isso só
+porque no fundo o cliente que é o arquivo
+pronto, ele que é o trabalho
+entregue
+como você fez? Você fez no papel de pão
+é bom
+eu acho legal
+essa parte também
+de desmanipulização
+da parte do cliente
+inclusive
+igual você está falando em cada um
+o termo bonito
+é Vendor Lock
+o cliente não quer saber
+o que você fez
+independente do que é o serviço
+então acho que isso está contribuindo
+muito para sair desse monopólio
+mas a responder
+na pergunta do Leon
+o que cada um quer dizer
+é
+que você tem que correr atrás
+eu acho que isso é um grande problema
+do brasileiro
+mas era esse ponto
+desculpa estar tomando a fala
+era esse ponto
+agora tem um outro lado
+você tem que sair da sua inércia e estudar pra caramba
+não é um Coraldral
+é um inkscape
+você tem que reaprender a ferramenta
+você tem que reaprender um monte de ferramentas
+e até isso
+hoje em dia está mais fácil
+você não precisa nem pagar
+para
+fazer um curso pra isso
+você entra numa plataforma
+como essa que a gente está falando no Youtube
+tem tutorial de ator
+está direito para todo tipo de software livre
+que você quiser, está lá
+inclusive
+problemas pontuais
+não é exclusivo do software livre
+sim sim sim sim
+por exemplo
+um exemplo da área de vídeo
+há muito tempo atrás
+tem aquela rixa do
+Adobe Premiere
+e o
+o outro da época que seu nome
+Final Cut
+isso
+isso são dois software pagos
+dependendo do trabalho
+se você precisar de um exigente
+de um ou de outro, você vai ter que ir lá
+e aprender a ferramenta nova
+trabalhar com tecnologia tem muito disso
+você tem que estar sempre se reinventando
+agora tem um novo
+que chama da 20 Resolve
+não tenho certeza
+parece que ele tem uma parte
+de licença livre também
+não sei ao certo
+e aí
+cada vez tem ferramenta nova
+eu também, as ferramentas que eu uso
+não são as ferramentas que eu usava 10 anos atrás
+porque eu gosto de pôr esse parêntese
+porque a gente fala assim
+mas se você pode fazer isso com software livre
+a pessoa fala assim
+mas que complicado, eu prefiro ficar aqui nesse
+software proprietário
+que já é o que eu estou acostumado
+mas essa sensação de zona de conforto
+é um pouco perigosa principalmente
+para quem trabalha com tecnologia
+porque com tecnologia você tem que estar sempre se reinventando
+sim
+e tem mais
+a morte lenta
+quando a Adobe refeiz
+a economia de todos os softwares
+deles foi de uma vez
+uma versão para outra mudou tudo
+os ícones mudou a posição
+mudou os menus
+as pessoas tiveram que sair do seu estado
+de inércita sempre a mesma ferramenta
+e reaprenderam engraçado
+aí a mesma paciência
+e dedicação não se tem
+com qualquer outro software
+como vocês mesmos estão falando
+porque que todo mundo tem que errar a cabeça
+dobe na área de computação grava
+por que? porque ela tem que marcar
+a tendência de
+agora essa IA como o alemão
+mesmo falou cara
+é tão passageiro quando surgiu
+as primeiras animações 3D
+inclusive a Disney
+mandou um monte de animador embora dizendo
+que o 3D matou a animação tradicional
+e a animação tradicional hoje
+está aí e o 3D não deixou
+desistir, é mais uma ferramenta
+as pessoas não é agora, é IA
+a mesma moda passageira
+se repetindo numa nova roupagem
+e a gente tem
+tinha um rapaz, agora esqueci o nome dele
+que muito famoso na comunidade
+software livre
+que tinha
+trabalhou com editor abril
+também fazia capa de revista
+editor abril
+com software livre
+então assim
+trabalhando em empresa
+em revistas nacionais
+o Elia Silveira
+para conhecer mais sobre
+Mozart e Couto, assisti o episódio do
+Tribo do C.I. com Mozart e Couto
+é genial, é genial
+o Elia Silveira também
+com aquela aparência dele, como viver sem
+Photoshop, ele foi meu aluno
+ele era Adobe main
+só faltava ter tatuado no braço
+o resto ele tinha
+ele conseguiu sair daí e nunca mais voltou
+que é a grande pergunta
+é que tipo de profissional você é
+a inércia ou quer sempre se reinventar
+o tempo todo? o mercado
+gosta mais da segunda opção
+certo? então é morrer
+estudando
+uma coisa é
+você se adaptar
+ao pipeline da empresa
+e outra coisa é escolha
+individual, você tá na empresa
+assim, sendo mais
+pragmático, se você tá
+na empresa
+é uma questão que a empresa tem que resolver
+eu achei engraçado
+o Sheldon falar que
+hoje em dia você não consegue imaginar uma máquina de 4g
+e a minha máquina pessoal tem 4g
+é porque
+é um Mac mini
+eu comprei logo aquela
+que não podia fazer a pegreja de Hanna
+e ela tá até hoje tá funcionando
+mas assim
+até complementando o que o pessoal já falou
+no questão do Leon
+se é uma questão
+que você tem que resolver rápido e não tem como
+resolver ou você procura
+um jeito de conseguir pra resolver
+ou você tem que reinventar
+o seu pipeline
+hoje em dia o blender
+tem muitas empresas que
+utilizam o blender como ferramenta principal
+e meio que isso
+também tá mudando
+exatamente como as pessoas estão criando desde
+o início, então já tem um pipeline
+todo formado utilizando o blender
+então essas outras ferramentas acabam sendo
+pra ela sair
+que esse ecossistema acaba se invertendo
+o jogo
+quais são as duas maiores
+indústrias de computação gráfica hoje
+que é cinema e games
+todas as duas fizeram parceria
+com a Linux Foundation
+e cada uma tem um centro de desenvolvimento
+de software livre e open source
+de ferramentas para as duas indústrias
+tem um motor de jogo da fundação
+de games que ele tá
+se transformando maior que o unit
+em contrapartido
+o blender é contemplado
+ele recebe grana das duas
+dos dois centros de pesquisa
+então
+por que isso
+mesmo duas indústrias
+bilhardárias
+viram que é mais vantajoso
+daqueles motivos que já expliquei
+investir nesse tipo de software
+e ter ferramentas que todo mundo
+pode usar
+para produzir jogos e filmes
+do que ficar nesse corre-corre
+de assinatura
+a netflix da computação gráfica
+então não querem isso
+não querem
+tem alguma coisa
+se eu falar o exemplo que talvez você vai lembrar com mais detalhe
+que é uma patente
+se eu não me engano que tá sendo
+agora eu esqueci que foi uma empresa
+que tem essa patente
+e basicamente toda a indústria de vídeo
+é prejudicada
+por essa patente
+e patente ela funciona a mesma coisa como
+a propriedade
+então a analogia se aplica
+se você tem um software
+adobe por exemplo
+se ela decidir pegar o pacote dela
+ir para uma direção que não é a direção
+que a indústria quer
+eles estão refém da adobe
+então faz todo sentido fazer esse investimento
+em software livre porque
+por algum motivo
+o software foi levado para algum lugar
+a gente pode fazer um fork
+fazer uma cópia daquele software
+um exemplo clássico
+voltando ao começo da live o alemão
+mostrou o cd da OpenSolares
+OpenSolares é um sistema
+baseado em Unix
+que era patrocinado
+desenvolvido pela
+uma empresa chamada Sun Microsystems
+e essa empresa foi comprada
+pela Oracle a muito tempo
+atrás e a Sun Microsystems
+era dona do Java por isso que hoje o Java
+é da Oracle
+e também do MySQL
+ou MySQL
+e aí a comunidade ficou muito brava
+eu não quero que o meu
+banco de dados seja da Oracle
+então se você já ouviu falar do banco de dados
+chamado MariaDB foi a comunidade
+reagindo
+a privatização do MySQL
+a beleza do software livre tem dessas
+você tem muito mais controle
+o exemplo
+que envolve muito é o codec AVE1
+o codec AVE1
+que agora
+acho que é esse exemplo
+porque o próprio Google tem
+problema com isso
+a placa de vídeo da Intel agora
+já vem com esse codec
+todas as placas novas
+parece o ponto gif
+o gif
+acho que o gif é
+propietário
+mas o gif é um formato
+de imagem
+é um ano de 80
+que não faz diferença
+já acabou aquela moda dos gifzinhos
+eu não sei pra estantementsas
+de geral o whatsapp
+fala isso Instagram
+Instagram tem
+mas isso é mais papiado do que
+realmente não faz diferença
+é até bom eles abriram o corte
+porque se não rapidinho já vai vir outro formato
+e a pessoa soa
+já tem
+enfim
+segredo
+de desenvolver do frontend
+e o site que está rodando gif
+muito provavelmente ele está rodando na verdade um vídeo
+um formato bem mais leve
+em loop
+porque é melhor que rodar o gif
+sequenz de imagem
+tem o pdf
+também o pdf é um
+formato privado
+salvo engano o propietário pela dobe
+e por isso o
+o LibreOffice tem o odf
+pdf open
+já o inkscape é o svg
+o gimp
+o xl
+eu não me lembro agora
+eu esqueci como é formado o gimp
+cada um tem o seu open documento
+format, o odf
+cada um tem seus odfs
+e o xf engraçado com svg
+é muito legal que ele inclusive prevê a animação
+então
+há muito tempo atrás o inkscape tinha um projeto que queria colocar
+uma timeline de animação
+no inkscape e não ia alterar
+em nada a saída
+de formato
+para salvar o svg porque ele já prevê isso
+ele prevê a alfa
+ele prevê a imagem, ele prevê vetor
+e prevê a animação
+é um format bem elegante
+gosto bastante
+hoje em dia é o padrão de animação
+svg
+é um dos formatos padrão de animação da webs
+o código também é
+aberto então
+a gente respondeu a sua pergunta
+eu resumindo
+os proprietários
+tinha esse monopólio
+e tem esse monopólio até hoje
+principalmente no Brasil
+eu acho que está tirando isso
+mas o que ganhava era por conta da propaganda
+que geralmente
+essas alternativas
+não tinha esse poder
+de fazer propaganda
+para fazer a massa
+só a gente tem isso aqui
+não é preguiçoso e tal
+mas como o Sheldon 0.8
+a própria indústria já está
+e o Cadunipo também
+a própria indústria já está tirando
+esse próprio monopólio deles mesmos
+por conta de
+proteger eles mesmos também
+muito
+o que a gente tem que pensar é que
+sem querer falar de política
+mas já falando
+a gente vive no sistema capitalista
+então o que manda é o dinheiro
+da indústria que foi aberta
+em 2004
+esse tipo de incentivo do governo
+são coisas que facilitam
+por exemplo eu trabalhei por muitos anos
+com Dilma fazendo portais
+para o governo
+porque existia uma portaria do governo
+que fazia com que
+o desenvolvimento de sites
+seria através de software livre
+o Dilma é um framework
+desenvolvido com PHP
+e é um software livre também
+e esses incentivos vão acabando
+é normal, é natural
+que se haja menos
+pessoas ou menos
+incentivo né
+para que o software se desenvolva
+e aí eu posso falar da própria GitLab também
+a GitLab é uma empresa privada
+é uma empresa de lucro com finos lucrativos
+mas
+o modelo de negócio, o crescimento
+e a popularização da GitLab só é possível
+porque existe
+pessoas trabalhando o tempo todo
+e também toda a parte de negócio
+muito bem trabalhada
+é uma empresa que teve
+investimentos, investidores ângulos
+desde o começo e tal
+hoje é uma empresa de capital
+aberto, a gente tem ações
+para quem quiser investir na GitLab
+é possível através da Bolsa de Valores
+e esse tipo de coisa
+é o que faz a coisa girar
+o título da live é um por amor
+dois por dinheiro
+é muito difícil rodar
+somente no amor
+eu não quero tirar o mérito de pessoas
+que realmente dedicaram
+muito amor, muito tempo
+muita generosidade
+para fazer com que software livres
+tenham sua propagação
+mas um incentivo financeiro
+é muito importante também
+achei engraçado o Chiro aqui falando
+do InHAR né
+alguém que pagou
+a licença do InHAR
+tem um vídeo muito legal
+do TechMundo
+sobre o InHAR
+o cara que desenvolveu o InHAR
+não se importava muito
+nunca fez muita trava
+para você não usar o InHAR
+tem algum software parecido
+tipo aquele Ripper
+você tem que pagar
+mas você pode usar ele
+o 7zip
+o 7zip é software livre
+e faz abrir zip, hardware
+e outros formatos compactas
+já a gente do Guinolinox
+não precisa
+botar um direito
+trair, botar um direito
+compactar acabou
+já está tudo pronto para ir mais chegado
+é porque essa questão
+de compactar
+e descompactar
+são testes de mestrado
+e doutorado de vários engenheiros
+e cientistas da computação
+que aí por ser um
+processo acadêmico
+acaba que naturalmente
+fica mais livre
+porém por não ter essa filosofia
+copy left
+da
+organização de software livre
+Free Software Foundation
+acaba que fica para quem quiser
+e aí você vê em pessoas
+como o InHAR e outros
+software que não são livres
+vão lá e se apropriam do algoritmo
+para poder implementar a sua versão
+não livre
+ele é gratuito, mas ele não é livre
+apesar de que os tipos de conversão
+você tem o InHAR, o RAR
+tem o zip, tem o tar
+que é o do
+Guinolinox
+e várias outras
+essas provavelmente cada uma delas
+tem a sua própria licença
+tem o seu próprio modelo de distribuição
+e você
+Sampaio
+você acha de estotar aí Sampaio?
+Tadinho de estotar
+eu estou por aqui
+eu só não fico na sala
+você acha de estudo?
+é legal né
+brincadeiras a parte
+é porque como eu comentei antes
+eu não tenho muito
+a acrescentar perdão por aqui
+e acaba que eu estou aqui
+ouvindo vocês
+estou sendo legal, então se for
+pra eu comentar alguma coisa, corri de um assistivo errado
+mas o InHAR sobrevive até hoje porque
+ele vende licença pra empresa
+eu acho que é isso, mas fora isso mano
+não tenho muito
+vocês estão dando um show aí, eu só estou aprendendo
+Sampaio, você gosta do Lightroom?
+cara, eu gosto
+passa uma raiva aqui, mas eu gosto
+então, você já ouviu falar do Darktable?
+já ouvi
+eu não sei
+eu nunca cheguei a usar não
+então, igualzinho o Lightroom, só que em vez de ser fundo
+cinza do Lightroom
+é fundo preto
+de repente você já... e ele é mil vezes mais leve
+que o Lightroom
+dá uma dica aí pra você
+e um detalhe, ele trabalha
+em conjunto com o GIMP
+que hoje é a última versão do GIMP
+você pode abrir imagens RAW
+direto dele
+eu ia perguntar isso, ele suporta todos os arquivos
+sim, sim, sim
+mas
+aquela beleza do software livre
+então, se existe um Darktable
+todo um time desenvolvido no Darktable
+pra que eu vou criar um módulo
+de altura RAW pra dentro
+o GIMP, o que ele faz?
+você tem o Darktable instalado na sua máquina
+e tem o GIMP
+você abre a imagem RAW no GIMP
+e o GIMP ativa o Darktable por trás
+e a imagem é jogada na tela
+do GIMP
+toda alteração que você fizer no GIMP
+é o Darktable com relação ao RAW
+é o Darktable trabalhando lá por trás
+e te dando imagens no final você gera
+pronto, entendeu?
+é muito melhor te ler como trabalhava com
+quem vai lembrando?
+sim, muito melhor
+eu fazia um tratamento
+de foto e aí eu abri no
+Photoshop também, você fazia
+tinha uma ferramentinha pra
+pegar a imagem, fazer o slice
+e aí ele ia pra outra ferramentinha e voltava
+acho que tem essa integração também
+do Photoshop, a ferramenta de vídeo
+lá, ou After Effects, alguma coisa assim
+que você consegue...
+tem o Premiere e o After Effects
+você vai pagar alguma coisa
+você faz um Photoshop e aí
+ele joga pra lá
+o CadenLive faz a mesma coisa com o Inkscape
+você vai fazer os banners
+a imagem e tal
+você quer fazer uma edição mais pesada
+ele abre o Inkscape pra você
+aí você trabalha no que você precisa gravar
+salva, fecha o Inkscape
+já tá atualizado lá dentro do CadenLive
+o bannerzinho
+que você fez, o OpenShot também
+OpenShot trabalha em conjunto
+com o Inkscape, então é isso
+pra você ficar conversando com outra
+essa que é a dinâmica
+e aí São Paio, você tem o Gimp e o Arctave
+pra brincar. Baixo da Arctave
+experimento e depois me conta como é que foi
+é verdade
+tem muito tutorial no YouTube, inclusive
+já quero medar aqui com
+o comentário do Viuber
+que falou, pela quantidade de tutoriais
+que vejo hoje de software livre
+já é um tipo de marketing muito bom
+que vejo para os nossos investidores usuários
+que eu tava falando de marketing
+e é realmente, é verdade
+inclusive eu faço marketing do Inkscape
+aqui no canal
+e é verdade, principalmente quando
+uma pessoa bem conceituada
+que fala sobre um software livre
+de certa forma é um marketing muito bom
+e está contribuindo
+pra sair desse monopólio das grandes corporações
+é isso, mas isso é um paio
+qualquer coisa, você me chama lá
+e a gente conversa sobre o Arctable
+e vai te converter
+não, assim, eu não tenho
+apego emocional
+nenhum ao programa do pacote da Dobe
+o que eu tenho é que, em parte, eu sou refém
+disso em alguns casos, então, por exemplo
+se eu tiver algum trabalho e quiser mandar pra uma gráfica
+eu já tive que falar, olha, você vai me mandar
+no formato tal da seguinte maneira
+e eu não posso mudar isso
+ou então você me manda e eu mesmo refaço
+aqui do jeito que eu quiser, mas
+do contrário, você vai mandar nesse formato
+você vai usar esse arquivo aqui
+esse programa aqui e você vai mandar
+assim, existe essa questão também
+eu, por exemplo, porque não trabalho
+pra alguma empresa específica
+eu sou refém em alguns casos
+desse tipo de coisa
+essa questão de gráfica, eu sempre ouvia
+essa parte, desde a época
+que eu não usava o software livre
+se você não tem um CorelDRAW
+eu não consigo imprimir coisa
+mas a produtora que usa Illustrator
+como é que eu faço?
+eu não sei, ele responde assim
+com as gráficas online
+que estão...
+com a evolução da gráfica digital em si
+hoje em dia
+a impressão offset tá chegando ao ponto
+de não precisar gerar fotolito
+já tem fotolito digital
+eu fiquei impressionado, vi uma demonstração disso
+fotolito digital
+o próprio cilindro, ele se adapta
+e começa a girar como se tivesse
+uma chapa de fotolito ali
+isso tá diminuindo bastante
+qual é o meu conselho, São Paio
+procure gráficas de grande porte
+por dois motivos específicos
+primeiro você não passa esse perrengue
+e segundo, com certeza
+o preço é mais barato, porque o cara compra
+papel e lote, ele compra tinta e lote
+ele compra sei lá o quem lote
+verniz e lote
+e ele consegue preços muito mais baratos
+que a gráfica de média e pequeno porte
+se você quiser até depois passo 3
+que eu trabalho direto
+eu só tenho que mandar o PDFX1 lá pra ele
+eles se viram lá
+eu acho que essa
+essa empresa que tá trabalhando
+e tal, ultrapassado
+porque isso não existe hoje mais não
+semana em PDF
+e em RGB se converte lá pra você
+e tal, claro que
+essa questão de cor aí
+já é, se der ruim lá na impressão
+é porque sem a culpa pessoa, mas enfim
+você pode
+hoje em dia
+ainda tem sim marcas
+gráficas que se só consegue
+desenhar a máscara pra colocar um verniz
+no coreodrome, a linguinha pelo menos
+ainda tem algumas que são assim
+então vamos lá, vamos lá, atual card
+que é uma e aprente
+pronto, vocês não precisam de mais gráficas
+nenhuma, não to ganhando um centavo
+pra fazer isso, mas são acho
+que o trabalho, elas fazem verniúdo
+localizado, inclusive
+tem materiais que essas gráficas
+não só em fazer
+meu cartão ele é feito de PVC
+é bem legal, ele faz um efeito
+bem legal por causa disso, tem toda uma textura
+e assim, é preço
+quase equiparada
+o cartão de gramatura alta, entendeu
+porque eles tem bastante saída, inclusive
+vocês vão ter tanto na atual card
+quanto na print, vocês vão ter
+acesso a materiais muito
+diferentes e produtos já
+prontos muito diferentes, que é só
+estampar lá o teu
+arquivo e tudo saída
+PDFX1A, pronto, acabou
+ele não quer saber o que que você
+está usando na outra ponte, então
+um Sampaio, de repente é uma solução
+pra você, o preço é muito
+equiparado assim, muito parecido
+com as gráficas de média
+pequeno, é às vezes, e tem
+dependendo da tiragem, isso é até
+mais barato, a atual card print
+são as duas que eu trabalho direto, camisa
+edimona, você pergunta, a camisa estampa
+coisa de imona também, PDFX1A
+eles vão lá fazer as telas
+fazem um silk digital
+e vai, são essas. E consegue trabalhar
+no Brasil inteiro também?
+No Brasil inteiro,
+todas as três ovas
+eles entregam via CDEX normal
+correio normal, ou eles têm
+lojinhas, no Brasil inteiro
+vai, você pega na lojinha, eu costumo
+fazer tudo e pedir pra entregar
+no centro, aí eu vou numa ida no centro
+com a mochila, bota tudo na mochila
+e a carta assim, na tensa com modidade
+Acho que o
+primeiro passo, eu sei que
+a gente falou aqui de 10, 15,
+20 anos atrás, mas independente
+da quantidade de tempo
+o primeiro passo é essa
+quebra de paradigma e você começar
+a entender que o
+software que você usa
+você pode procurar por
+alternativas e nem sempre
+ficar preso ao
+status cooné, tipo
+o que a indústria tá mandando
+você pode, eu por exemplo
+por várias vezes eu
+chegava na entrevista de emprego
+e aí eu falava, eu tenho a possibilidade
+de usar Linux aqui, porque eu
+prefiro não usar Windows, e aí por
+muitas vezes eu consegui essa
+regalia, vamos dizer né, e aí
+com os poucos
+hoje, por exemplo, a plataforma
+que eu uso pra escrever código, ela é open source
+na verdade, acho que eu sempre usei
+plataforma open source, a gente comecei
+com eclipse, finado eclipse, e depois
+fui pro net beans, e agora eu tô
+com o VS Code
+que é da Microsoft, mas é open source
+Microsoft, depois que o como
+o health falou no começo da live, e depois
+que trocou o CEO pro satanadela
+teve um incentivo maior pra open source
+e aí quando você começa a ter
+mais familiaridade com as alternativas
+e como é interessante porque
+isso até muda a forma de como
+você produz o seu trabalho né, a gente
+citou que vários tipos diferentes
+de trabalho criativo, e quando você
+trabalha com criação, acho que é importante
+você abrir sua mente, e aí
+quando você tá usando uma ferramenta, que não
+todo mundo usa, você é obrigado
+até a sua mente aberta, e pensar em
+alternativas, e isso vai te colocar
+de posicionar com um profissional
+diferenciado do mercado, é
+inevitável esse aí, e aí
+eu acho que as coisas vão acontecendo de maneira natural
+né, você começa a perceber alternativas
+você começa a ver
+o mercado de trabalho com uma forma
+diferente, talvez se você tiver um avê
+empreendedora, você consegue ver ali
+uma oportunidade de empreender na minha palestra
+que eu falei sobre as 15 maneiras de ganhar
+dinheiro com software livre, muitas delas
+é através do empreendimento né,
+você criar ali algum tipo de
+empreendimento, esse processo
+ele é muito um processo que
+envolve o seu próprio desenvolvimento
+pessoal, vamos dizer assim, e isso acaba
+impactando em você como profissional
+também. É, a quantidade de agências
+né, que fazem, desenvolvem em cima
+de Wordpress né? Exato, é
+tem uma empresa gigantesca, agora
+que se não dela, acho que chama WP
+Enginium, coisa assim, eles só
+desenvolvem com Wordpress, e eles não
+necessariamente desenvolvem
+para o Wordpress, mas eles vão lá
+numa empresa X, por exemplo, o meu
+site aqui, o meu sistema web, ele é
+feito em Wordpress, mas eu preciso
+desse plugin que faz assim, sensado
+eles vão lá e desenvolvem o plugin
+cobro por esse trabalho, e aí
+ganha dinheiro com software livre, é muito
+eu sei que sou meio coach assim,
+mas depende muito de você, assim,
+você enxergar formas
+de você inovar
+com alternativas que, não só as alternativas
+que eu não estou usando. Eu quero
+agradecer a ouvir o BR
+aí, que está aí, fazendo umas perguntas
+legais, interagindo aí na
+live, e elogiu a live, falou que a live
+é muito boa, e eu tenho uma pergunta pessoal
+para você, Xado, e você trabalha aí
+mais na parte do código, né? Você
+falou da parte criativa, como eu
+e o Cadunico aí, e também
+o Sampaio, da parte
+criativa, você tem uma noção de como
+funciona, esse mundo
+de como o software livre
+e tal, você já falou
+sobre as licenças com o pessoal
+ele não tem essa cultura igual do Brasil
+de piratear e tal, se na
+realidade você vê no dia a dia
+só por exemplo. Você fala
+os profissionais da área de
+piração? Isso. Conheço um pouco,
+mas quando se trata, por exemplo,
+de Estados Unidos, eu nunca morei
+nos Estados Unidos, pretendo não continuar assim
+mas
+o que eu conheço
+nos Estados Unidos de pessoas que trabalham lá
+é que é muito se vira aí
+então você que se vira, e se você
+se virar, então você pode usar a ferramenta
+que você quiser. Então eu conheço
+fotógrafos que vão usar
+o dark table, né, como foi falado aí
+estava tentando lembrar o nome, não consegui
+o DaVinci Resolve
+para vídeo, Gimp inkscape
+para
+gráfico e tudo mais. Então acaba que
+na parte de criação é meio que
+você que toma conta
+aqui na ilanda um pouquinho mais
+é um pouquinho menos você que
+se vira, então às vezes a empresa
+ela vai querer ter a sua ferramenta
+lípica na ilanda, a União Europeia
+ela é mais séria em relação
+a legalidade, né, tem um pouco
+de lei mais restitutiva nesse sentido
+então as empresas elas têm
+uma preocupação maior com pirataria, então elas vão
+estar, se você está trabalhando na empresa
+primeiro você não vai fazer hora extra igual
+Estados Unidos costuma fazer, né,
+você vai trabalhar as suas horas certas, a gente vai te
+pagar a hora certa, essa preocupação
+maior com a legalidade e aí você vai ter
+que usar o programa que eles licenciaram
+o que é um ponto pra você estar sempre
+estudando, porque às vezes você trabalha
+a vida inteira com esse programa X e aí
+você vai trabalhar na empresa Y e tem que usar
+o programa deles. E aí depende muito de empresa
+na questão de web design
+ou eu não sei como é que é o termo
+é tipo quando você
+design para aplicativos web, né
+no meu caso eu trabalho
+diretamente, como eu sou o desenvolvedor
+que está trabalhando diretamente com alguém que faz
+o design
+é o cheese web designer
+o cheese web designer
+exatamente
+e essas pessoas, no fim
+das contas, hoje não existe esse negócio
+antigamente tinha a questão do pixel
+perfect, né, o cara tinha o design
+no photoshop e você tinha que fazer
+o design exatamente como era
+aquilo. Hoje
+na comunidade de front-end
+existe ferramentas
+que eles chamam de... tem tipo
+os componentes já estão todos envolvidos
+o botão é aquele botão
+o formulario
+design system, né
+design system
+Figma você consegue importar
+seu design system, então tem essa
+você faz o botão e já dá o código
+né, isso que você quer dizer
+é só complementar aí a resposta do Shadow
+eu tenho um amigo que já
+trabalhou na ilanda também, né
+e ele trabalhava naquele estúdio onde faz
+um estúdio de gumball, né, aquele desenho lá
+e ele trabalhou lá como
+o administrador de sistema, né, então
+o pipeline deles lá tem bastante
+fermetas de software livre também, né
+tipo linux, quando os servidores
+no geral, né, aí é meio que unanimidade, né
+só pra finalizar
+o que eu tava falando, a questão
+do... então o UX UI designer
+ele acaba que
+como o design system já tá desenvolvido
+é meio que
+fazer um mosaic ali, né
+então você só não quebra a cabeça
+da verdade nem isso
+nem isso, eu só olho e
+o código já tá ali meio que
+pronto, então eu não
+sou uma pessoa de design porque eu não preciso aprender nada de
+design, o designer já tá pronto
+a pessoa que trabalha com o design, né, o UX UI designer
+ele também
+não vai ter precisar de uma ferramenta super pesada
+porque ele vai só fazer o quebra-cabeça
+de componentes
+então o que eu vejo, né, eu trabalhei
+aqui na ilanda em três empresas, né
+aqui lá a BAWS e a Smart Box
+que é uma outra empresa mais conhecida
+aqui na Europa, todas essas três empresas
+a ferramenta que você quiser usar
+é a ferramenta que você vai usar, né
+o que eu quero, no final é um
+screenshot, né, uma foto da tela
+e aí eu vou... eu nem vou olhar pra tela
+eu vou só olhar assim, ah, aqui vai um botão
+eu vou nos design system, pego o botão
+e escrevo o corte daquele botão
+e aí no fim do dia, por causa da responsabilidade
+eu não preciso fazer o pixel perfect
+eu posso
+saber que
+os componentes
+estão seguindo a arquitetura
+que o UX UI designer
+desenvolveu e tá seguindo
+a infraestrutura da informação corretinha
+então pronto, tá
+desenvolvido, então hoje tá muito mais fácil
+de você usar software livre
+nessa área, né
+muito obrigado pela resposta
+só pra apontuar aqui
+só pra apontuar aqui
+o software livre do Figma
+essa transversão é o Pempot
+teve uma treta
+que agora eu não consigo lembrar
+com o coração Figma
+então os usuários
+Figma, mais coisa
+tudo pularam pro Pempot
+então aí estavam falando de software
+livre online, né, na nuvem
+o Pempot ele é na nuvem, tá
+tá bem redondinho, é
+Pempot, eu vou botar aqui
+no chat então, não conhece
+eu já achei, já achou
+você não tá assistindo meus vídeos, não
+eu vou te excluir da live
+eu fiz
+um vídeo de Pempot
+eu fiz
+você fez, eu vi
+o vídeo
+é bonitinho, tá redondinho
+software livrezinho, jeitoso, sabe
+e o mais legal que você trabalha
+colaborativamente com ele, né
+ele tem a comunidade dele online
+e aí o cara criou uma coleção
+de botões
+de experimentos
+e você vai
+e adiciona no teu projeto
+e passa a usar
+é bem legal sim, é bem legal mesmo
+eu tô com alguns favoritos lá
+que eu uso
+muito bom mesmo
+é interessante, bem interessante mesmo
+e tem como fazer rodar
+no seu próprio servidor e tal, né
+um alternativo bem legal
+ele foi, o Figma
+foi adquirido pela dúvida, foi
+foi
+foi, mas aí
+a Dobe fez alguma coisa que agora eu não lembro
+eu juro que eu não lembro, tô ficando velho
+e aí o pessoal do Figma tá meio chateado
+é uma boa leva
+foi pro Pempot e o Pempot ganhou o corpo agora
+ele tava lá no cantinho
+esquecido, de repente aí tomou o corpo
+é o que eu tô sabendo agora
+que tem aquelas variáveis lá, né
+que você tem a nova funcionalidade do Figma
+só que é só
+assinante
+o Figma que tem essa funcionalidade
+que te obriga a usar
+a pagar assinatura
+então a Dobe tá dando esse checkmate
+aí pra você assinar os serviços deles
+eu acho que essa foi a treta
+acho que você já definiu Alemão
+você lembrou aí, eu acho que era e foi isso
+aí o pessoal correu pro Pempot
+é, tipo umas variáveis
+que se o nome é exato, deixa eu ver se eu lembro aqui
+é um exemplo interessante
+eu vi que o Pempot tem como você
+hospedar você mesmo
+dá até a opção do Docker
+e aí tem uma história interessante
+que o Docker tinha
+sua parte de open source
+e eu não lembro também qual que foi a treta
+mas hoje existe o Runcher Desktop
+que é uma versão software livre
+que faz a mesma coisa
+que é a confeinerização
+e esse é uma versão
+livre
+eu botei pessoal no chat aí
+do canal o link do Pempot
+Pempot.app
+beleza, explicando
+vocês explicaram por alto
+sobre essa
+questão
+essas entrelinhas né
+de quando o código é
+é livre, não é e tal
+assim, pra uma pessoa mais leiga
+entender um pouquinho melhor
+se vocês quiserem continuar esse assunto
+igual o Shadow deu exemplo
+de onde ele trabalha, que uma parte do código é
+você pode copiar, não pode
+enfim
+ou bem explicado já
+ou vocês querem?
+eu posso falar um pouco mais
+todas as
+licenses open source
+elas são software livre
+elas não são
+copyleft, mas podem
+elas estão todas software livre
+e a GitLab ela tem a sua parte
+software livre, a gente não usa
+o termo software livre porque
+a grosso modo a diferença de
+software livre e open source, o código
+é que o software livre, ele é
+focado na filosofia, na liberdade
+mais pura
+e o open source, cada um de eles falou
+no começo né, mas focado
+o open source, o código aberto
+é mais focado na comunidade
+e no mercado, na popularização
+do software, e existe um debate
+muito grande sobre isso
+inclusive um ponto histórico interessante
+que o código aberto
+ele veio da comunidade
+do Debian né, no meado ali da
+1990, então
+para o código
+para o software livre, ou seja
+código aberto, apesar do nome
+falar código aberto, não necessariamente
+você abrir o código
+significa que o software
+livre, você precisa ter liberdade
+as quatro liberdades né, e se for
+open source são dez
+guidelines, são dez
+guias
+para você seguir, para que o seu
+software seja aberto
+é um exemplo da githlab
+que na parte
+paga, a parte
+que não é livre, você tem direito
+de acessar o código, hoje todo
+código não livre da githlab
+ele é acessível
+você pode ler, você pode estudar
+você pode mexer na sua máquina dele
+só que você não pode distribuir
+para ninguém, você não pode usar de maneira
+comercial, e se você fazer isso
+se você distribuir a githlab
+a parte não livre, se você distribuir
+a githlab, você pode encorrer
+em uma multa, e no brasil
+isso é um pouco, por isso que eu trouxe
+o tema da pirataria no começo
+que no brasil isso é um pouco
+desconhecido que a gente é acostumado
+como o brasileiro é malando né, a gente é acostumado
+tipo se está disponível ali, eu vou só
+pegar e usar e é isso aí mesmo
+mas na prática não é bem assim, então
+o código está disponível, não significa que
+você tem todas as liberdades, e então
+a licença da githlab você pode
+inclusive contribuir para a parte
+que não é livre, aí você para para pensar
+só mas eu posso contribuir e então como
+que ele não é livre, é que é um momento
+que você contribuiu, você doou
+gratuitamente o seu tempo para a githlab
+aquele código ali
+a partir do momento que ele entrou para a
+parte não livre a githlab, ele é
+da githlab, da empresa githlab
+agora a parte que não é livre, a parte
+que é, desculpa, a parte que é livre
+a parte que é open source, você pode
+fazer o que você quiser, inclusive abrir
+uma empresa, se eu quiser hoje
+você dá lá o githlab e lá
+fazer o sheldonlab.com
+e
+esse sheldonlab agora eu vou concorrer com
+github, vou concorrer com githlab
+e você quiser hospedar o seu site aqui comigo
+seu código comigo, é o sheldonlab.com
+e aí por trás
+do sheldonlab.com eu estou usando
+githlab open source, eu posso fazer isso
+e é tão possível que hoje a China por exemplo
+tem uma empresa, se você editar
+githlab.cn
+não é essa empresa, não é a githlab
+é uma outra empresa que roda a githlab
+porque o githlab é um open source
+então eles pegaram o githlab e eles
+rodam o githlab, fazem negócios na China
+o motivo por que eles
+usam a marca da githlab
+se você editar githlab.cn
+você vai ver o site do githlab bem parecido
+com o site do githlab.com
+e o motivo que eles podem fazer isso
+é outra história, que é a questão da marca
+e não do software, que é a questão do
+trademark, então a githlab
+como empresa, ela
+fez uma parceria com essa outra empresa
+lá na China, e aí
+eles usam a mesma marca que a gente
+mas essa é a única parceria que eles têm
+o resto, todo o modelo de negócio, todas as
+coisas que eles fazem, é a liberdade deles
+porque a githlab é open source e aí eles podem
+fazer isso, se uma outra empresa
+fizesse isso e usasse o código
+que não é livre, a gente podia ir lá processar
+a empresa, então é mais ou menos, é uma questão
+mais legal do que na prática, na prática
+se o código estiver disponível você pode lá e fazer
+o que você quiser com ele, mas a questão legal
+é que se o código estiver aberto, mas a licença
+não te permitir, vou te dar um outro exemplo
+é prático, se você
+pega o seu código, você escreve um
+aplicativo bonitinho, colocou lá no githlab
+e aí por algum motivo você esqueceu de colocar
+licença, quem já mexeu com código e
+você cria um
+seu repositório ali, você tem a opção
+de escolher a sua licença, qual licença
+que o seu código vai usar, se o seu código
+utilizar uma licença, nenhuma
+tipo não existe o arquivo licença
+significa que o seu software
+não tem licença, e isso
+não é software livre
+porque você pode, se algum empresa usar
+o seu software, você pode processar essa empresa
+e então, por definição
+o seu software não é livre, são várias nuances
+assim, é um pouquinho difícil
+às vezes de entender porque são detalhes muito pequenos
+e geralmente na prática
+não significa nada, mas essa
+é a diferença entre o código estar disponível
+e o código ser livre, ou o código ser
+open source. Tanto é que quando você
+não especifica a licença lá no github
+você tem a licença padrão do github
+que é o que o Shadow Express
+ficou aí, esse foi um dos motivos
+essa questão de marca registrada
+foi um dos motivos que o Linux
+registrou a marca
+porque outra pessoa podia lá
+registrar e usar ela, e fez
+isso exatamente
+para não ter esse problema
+hoje tem a Mozilla
+por exemplo, tem o Firefox
+que é o navegador da Mozilla
+você pode, e tem
+várias versões aí do Firefox
+mas
+a marca, o logotipo do Firefox
+ele é da Mozilla
+da empresa que chama Mozilla, então
+você não pode pegar o Firefox hoje
+modificar ele e distribuir
+usando o logotipo da Mozilla
+tanto é que por exemplo
+no Debian, por muito, muito tempo
+Debian usava outro logotipo
+porque eles queriam ter a liberdade
+de modificar o Firefox
+isso exatamente
+no Chrome, no Google
+é o Chromium, né?
+exatamente, porque a logo do Chrome
+ela é a propriedade da Google
+então você não pode usar o Chrome
+apesar de todo o Chrome ter
+hoje em dia já não é mais assim
+porque a Google colocou muito software
+proprietário dentro do Chrome
+mas 90 e tantos por cento do Chrome
+ele é código aberto
+e se você quiser usar o Chrome 100%
+você usa o Chromium
+só que é o copy do Chrome
+só que é código aberto
+que já foi construído em cima do outro
+em indígena, que ele foi inscrito em cima do Webkit
+que era feito pela app
+mas que era já assuntado
+que inclusive a gente já entra
+em outra parada que é parecida
+que a gente já pode fazer até outra live depois
+que é sobre
+propriedade intelectual
+essas coisas, né?
+é um assunto interessante também
+eu acho que tá entrelado
+com esse assunto
+mas deixa pra outra live
+que a gente já tá pra 2 horas e meia
+só pra
+um outro exemplo
+nessa questão de licença
+a gente tem na questão de conteúdo
+tem a Licença Creative Commons
+que é uma licença conhecida por ser livre
+porém tem uma das versões delas
+que não é livre
+que é a versão non-commercial
+que basicamente fala que
+se você usar esse conteúdo
+e isso não é software livre
+se você tiver acesso ao código
+e esse código ou conteúdo
+é um conteúdo livre de acordo com
+as linhas de guia
+da open source foundation
+ou da free software foundation
+você tem que ter o direito de pegar esse software
+e comercializar, mesmo que ninguém compre
+porque ah, eu tenho a versão gratuita porque que eu vou pagar
+eu tenho que ter esse direito, eu tenho que ter essa liberdade
+então se algum software
+que você usa ele
+não te permitir você comercializar
+ele, esse software não é livre
+Pois é, muito legal essa explicação
+muito obrigado pela
+essa aula, essa palestra
+e eu acho que a gente
+pode encerrar, né
+já são duas horas de live
+eu quero agradecer demais vocês
+por ter participado
+agradecer demais quem ainda tá aí
+tem 5 pessoas e 5 sobreviventes
+só 2 que saiu
+então vai taxa muito pouca
+muito pouca mesmo
+acho que
+chegou no máximo de 8
+ou 10, são considerações finais
+quais são as considerações finais
+se você ganha a notinha da nota 10
+ou 8
+vocês querem
+comentar alguma coisa ou não
+use software livre
+use software livre é legal
+é um software
+que tem uma filosofia por trás
+é só apenas um programa
+de código
+ele tem toda uma filosofia
+que você pode aplicar no seu dia a dia
+e a premissa
+do software livre é ajudar o próximo
+então
+as nois militantes
+do movimento
+a gente tem uma necessidade
+compulsiva de ajudar
+pode perguntar para quem já entrou
+em contato comigo, alemão já entrou
+oi cadê tudo bem, primeira coisa que eu respondo
+como é que eu posso te ajudar
+é a resposta que eu dou
+então
+é bem legal
+e tem programas bem legais
+então é muito apena
+essa é minha consideração final
+use software livre
+sempre
+a minha consideração final
+é use software livre
+também
+e a sua máquina agradece
+os seus dados principalmente agradece
+que eu acho que pode ser
+inclusive eu citei
+muitos serviços online
+então a gente pode citar
+se é de graça na internet
+alguma coisa líquida
+enfim
+tirando o pimpote que a gente falou
+quando você não paga você é o produto
+quando você não paga você é o produto
+então
+a gente pode ter falso da live sobre isso
+sobre a propriedade intelectual também
+que está atralada
+a esse
+que é incrível
+é parecida a ideia
+inclusive está bem alta por conta
+dasias
+muito
+e aí está sendo acusada
+de roubar o estilo de
+artista e tal
+e tipo de polinizar de graça na internet
+tem os colab
+da vida que você pode rodar
+e nem precisa de uma máquina
+super foda para fazer
+inclusive eu já usei estevo de fuzion
+enfim
+enfim, fica para outra live
+já fica aí
+quem quiser participar já está convidado
+a gente chama de
+instalição na área
+só estou falando de ia
+Mozilla Foundation também está
+desenvolvendo uma ia
+só que é uma ia livre
+esse período inicial
+dasias proprietárias
+está com os dias espontados
+que notícia maravilhosa
+eu acho que
+a princípio
+a introdução no software livre
+eu acho que é muito bacana pela curiosidade
+sou uma pessoa muito curiosa
+e eu acho que a curiosidade é algo interessante
+para você
+conhecer e abrir sua mente
+para alternativas do que você está usando hoje
+você começa assim
+e depois você descobre que a comunidade
+é incrível
+eu falo da mesma coisa que o Cadu falou
+todas as comunidades que eu já participei
+de todos os projetos do software livre
+eu nunca tive uma experiência ruim
+e por fim, isso pode abrir
+portas para sua carreira profissional
+acho que tem esse
+lado e o lado filosófico
+o lado do seu desenvolvimento intelectual
+e o lado financeiro
+que é final de contas, tem que pagar as contas no final do mês
+eu quero agradecer a Maria
+falou que a live
+muito boa
+deu parabéns para o pessoal
+obrigado Maria
+depois entra lá
+no canal dela
+fala sobre as viagens na Europa
+os lugares chiques
+para você visitar
+bem legal
+inclusive a intro do canal dela foi o que eu fiz
+mais um motivo
+para você entrar lá
+infelizmente
+não foi feito em software livre
+mas
+enfim, quer dizer
+50% foi feito
+porque eu fiz os sketchs
+frame a frame
+os objetos
+foi feito de software livre
+só foi animado no After Effects
+que eu não lembro mais o motivo
+do por que eu animei no After Effects
+mas não tinha necessidade
+ah, lembrei
+é porque eu estava fazendo um curso que eu queria pegar um especificado
+e aí eu aproveitei
+essa intro
+e usei como provinha lá
+mas
+dava ser
+feito em software livre 100%
+e Sampaio tem alguma consideração final aí
+eu achei bem bacana
+pena que não podia agregar muita coisa
+muita coisa igual a nada mas tudo bem
+e legal mano
+e o que pelo menos eu gosto
+de ter essa noção de gente
+que trabalha bastante com esse tipo de coisa
+algumas coisas eu não consegui
+acompanhar um raciocínio
+achei bacana
+o projeto é bacana, a iniciativa é bacana
+e como eu falei
+software livre
+eu acho bem legal
+não uso alguns por certos motivos
+mas no geral eu gosto
+e aprovo
+e como alguém falou eu não vi quem foi na real
+quem tiver curiosidade
+e teste
+muito obrigado você
+pra participar também
+a sua disponibilidade aí
+a gente podia estar jogando um dot
+já perdemos
+já perdemos 100
+já perdemos 100
+já perdemos 10 logo
+agora quem está falando em grego é eu e você
+para eles
+e eu também me vejo
+que que é isso
+enfim, são os heróis lá do jogo
+e aí Sebastião
+você cadê
+eu quero ver seu rosto
+eu quero ver teu bigode
+mais uma vez
+de consideração final
+acho que dá pra dizer que
+tem muita alternativa aí
+tem muita coisa que a gente possa ver
+quem tiver curiosidade tem uma comunidade forte
+por trás que vai ajudar
+eu participava daquela Vivo Linux
+então tem muita gente que
+trocava bastante ideia
+que eu nunca vi
+pessoalmente
+exatamente pelo esse sentimento de comunidade
+é isso aí
+eu uso sua file livre também
+mais bonita desse youtube
+sou suspeita
+Maria que a viagem já falou
+ou Maria, eu queria dizer não
+mas eu sou suspeito também
+mas a sua intro foi um dos intros
+que eu fiz que mais achei legal
+de todo o meu portfódio
+foi registrado
+então beleza
+então é isso, vamos encerrar
+mais uma vez obrigado
+a gente já tem dois assuntos aí
+que eu falei
+eu chamo mais alguns especialistas
+também na área
+e mais uma vez, muito obrigado
+a todos, a quem tá assistindo
+quem assistiu, quem vai ouvir
+ou assistir posteriormente
+e um abração principalmente pro Sheldon
+que já tá madrugando
+tá com a mesma cerveja, já tem duas horas
+você tá me dando uma ver
+acabou, parece que pegar a outra
+então
+é isso, a primeira live
+não sei como é que enser, só dá tchau
+e é isso
+só dá tchau
+então tchau
+é hora de dar tchau
+importante
+é apertar o botão de encerrar a live
+que senão vai sair você
+no banheiro aí depois
+beleza
+então encerrando
+cinco, quatro, três, dois, um
+falou, galera
+até
+vamos ver, será que deu certo?
+vamos ver
+demora uns 30 segundos pra aparecer aqui
+vamos ver
+parece que tá ao vivo ainda
+sério?
+tá ao vivo ainda, tá ao vivo
+estamos ao vivo ainda
+vamos ver
+acho que é só
+só desligou a ligação
+mas não desligou
+isso ele saiu da
+saiu da sala, ferrou a gente
+não tem como encerrar por isso
+aqui ó, para a transição ao vivo
+peraí, vou tentar aqui
