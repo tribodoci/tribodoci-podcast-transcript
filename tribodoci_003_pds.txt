@@ -1,33 +1,33 @@
-Você está ouvindo a tribo do CRI Podcast.
-Tribus do CRI Episódio 3 para o dia 30 do CRI de 2010.
+Você está ouvindo a Tribo do C.I. Podcast.
+Tribo do CI Episódio 3 para o dia 30 do 6 de 2010.
 Ecosistema da produção de software.
-Eu sou o Sebastião Hellsum e minha chefe me chamou de arquiteto e eu acho que ela estava zoando comigo.
+Eu sou o Sebastião Relson e minha chefe me chamou de arquiteto e eu acho que ela estava zoando comigo.
 Meu nome é Sheldon Led e por favor não me prenda porque eu não pertenço a gangue dos quatro.
 Nesse podcast vamos falar da parte mais polêmica de um desenvolvimento de software, a engenharia de software.
 Então vamos para os e-mail.
 A gente recebeu o e-mail com algumas sugestões.
-Então o e-mail que a gente recebeu aqui, o primeiro foi do Joe Elias Jr., conhece o Joe Elias Jr.?
+Então o e-mail que a gente recebeu aqui, o primeiro foi do Joelias Jr., conhece o Joelias Jr.?
 E esse aqui é o cara lá do Fissol, né?
-Então o Joe Elias mandou um monte de dica maneiro para a gente aqui.
+Então o Joelias mandou um monte de dica maneiro para a gente aqui.
 Resumão, a gente podia encurtar mais um pouco, podcast, deixar mais um pouco mais direto.
 Sim, para consolo, escutem o papo até.
 Acho que isso é assunto até para o próximo episódio, vamos?
 É o formato da nova mídia, né, do podcast.
 É isso aí. A gente recebeu o outro e-mail também.
-O outro e-mail foi da Carla Larissa VB, ela falou que era VB?
+O outro e-mail foi da Carla Larissa VB, ela programa em VB?
 Quase.
 Vera Borges.
 Ela reclamou também basicamente a mesma coisa.
 A voz saia um pouco baixa.
 Às vezes as musiquinhas do fundo até atrapalham no entendimento.
-Então assim, a gente vai por um ícone de doação ali do pack seguro do lado do site.
-Aí vocês fazem uma doação que a gente, quando a gente conseguiu um dia, a gente comprou uma mesa e um microfone sempre profissional, que eu acho que vai melhorar a barçante.
-Já seguindo as dicas do pessoal, vamos bem direto, já vamos?
-Terminamos também.
+Então assim, a gente vai por um ícone de doação ali do PagSeguro do lado do site.
+Aí vocês fazem uma doação que a gente, quando a gente conseguiu um dia, a gente comprou uma mesa e um microfone semi-profissional, que eu acho que vai melhorar a bastante.
+Já seguindo as dicas do pessoal, vamos bem direto, já vamos
+terminando os e-mail.
 Eu queria só falar aqui uma coisa que a gente falou no episódio passado.
-Foi sobre a banda Note a Number, do Carlson.
-Que na verdade não é do Carlson, do Nerdson.com.
-Ele é do Carlson Galdino, que é xará, mas não é a mesma pessoa.
+Foi sobre a banda Not A Number do Karlison.
+Que na verdade não é do Karlison, do nerdson.com.
+Ele é do Cárlisson Galdino, que é xará, mas não é a mesma pessoa.
 A galera curtiu o negócio das paródias aí, a gente vai colocar meio que um ícone de sinócio, né?
 A gente não vai colocar mais o ícone do podcast.
 Vai colocar as paródias separadas de uma outra sessão do site.
