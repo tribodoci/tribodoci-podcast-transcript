@@ -1,48 +1,48 @@
 Você está ouvindo a tribo do C.I. Podcast
-Episódio 18, bate papo, Softelive, um por amor, dois por dinheiro.
+Episódio 18, bate papo, Software Livre, um por amor, dois por dinheiro.
 Essa foi uma live transmitida pelo canal do alemão, dia de 29 de julho de 2023,
-lá falando sobre Softelive, mercado de trabalho com quem faz e utiliza Softelive no seu dia a dia.
+lá falando sobre Software Livre, mercado de trabalho com quem faz e utiliza Software Livre no seu dia a dia.
 Um abraço e vamos para o episódio.
 Então é isso aí galera, mais uma live, mais uma né, a primeira.
-A gente vai falar sobre Softelive, um por amor, dois por dinheiro.
-Esse é o tema, a gente vai focar mais no profissional que utiliza, faz e a gente vai explicar o que é Softelive
-para quem não sabe o que é Softelive e a gente vai focar nesse assunto de como o Softelive impacta
+A gente vai falar sobre Software Livre, um por amor, dois por dinheiro.
+Esse é o tema, a gente vai focar mais no profissional que utiliza, faz e a gente vai explicar o que é Software Livre
+para quem não sabe o que é Software Livre e a gente vai focar nesse assunto de como o Software Livre impacta
 no profissional comum, no dia a dia, no relis mortal, no chão de fábrica, digamos assim.
 Só lembrando que a gente vai deixar esse episódio aqui gravado também,
 eu vou deixar o link na descrição aí, é editar no podcast tribo do C.I. ponto net.
 E muito obrigado aos convidados que aceitaram participar.
 Eu gostaria que vocês se apresentassem cada um, o que cada um faz e já contar uma historinha
-de como o Softelive impactou vocês, como vocês começaram.
-Depois a gente, se quiser, cada um explicar o que é o Softelive e cada um complementa um pouco também.
+de como o Software Livre impactou vocês, como vocês começaram.
+Depois a gente, se quiser, cada um explicar o que é o Software Livre e cada um complementa um pouco também.
 Eu vou ficar por último, eu já falei demais.
 Pode começar pelo Cadunico, que ele está aqui do meu lado aqui na tela.
 Gente, antes de mais nada, boa tarde, sabadão, aqui no Rio está nublado, não sei na área de vocês.
-Bom, eu sou designer, trabalho há um bom tempo com o Softelive,
+Bom, eu sou designer, trabalho há um bom tempo com o Software Livre,
 vai para lá de 10 anos, já passou de 10 anos isso.
-Só uso o Softelive em todas as minhas produções.
-E sou o criador do evento chamado Guino Gráfico, eu vejo computação gráfico Softelive.
+Só uso o Software Livre em todas as minhas produções.
+E sou o criador do evento chamado Guino Gráfico, eu vejo computação gráfico Software Livre.
 Acontece todo ano, aqui no Rio de Janeiro, onde tem palestras e oficinas,
 dois dias totalmente de graça para o público.
-Além das quatro liberdades, eu entendo que o Softelive é uma forma de deixar horizontal
+Além das quatro liberdades, eu entendo que o Software Livre é uma forma de deixar horizontal
 a utilização de qualquer tipo de software, seja do que setor que você atui.
-Por que? Porque a maioria dos Softelives são gratuitos.
-A gratuidade não é um pré-requisito do Softelive, a liberdade está no código e não no preço.
-Mas a maioria são gratuitos, é muito difícil você ter um Softelive pago,
+Por que? Porque a maioria dos Software Livres são gratuitos.
+A gratuidade não é um pré-requisito do Software Livre, a liberdade está no código e não no preço.
+Mas a maioria são gratuitos, é muito difícil você ter um Software Livre pago,
 mas mesmo pagando tem vantagem, senão você vai ter que a pouco ver a palestra.
-Isso já é um passo muito grande, porque você precisa de um softelive específico,
-existe softelive, você baixa, você testa, você instala, você passa a usar
+Isso já é um passo muito grande, porque você precisa de um Software Livre específico,
+existe Software Livre, você baixa, você testa, você instala, você passa a usar
 e aí você passa a ter essa ferramenta à sua disposição.
-É muito além das quatro liberdades, eu acredito que o Softelive
+É muito além das quatro liberdades, eu acredito que o Software Livre
 ele é um facilitador para uma necessidade que você tem.
 Só antes de você continuar, eu quero explicar bem, basicamente,
-aquele famoso receita do bolo, o que é softelive para os leigos,
+aquele famoso receita do bolo, o que é Software Livre para os leigos,
 senão você vai ficar falando e fazer o que esse cara está falando.
-O que é softelive? Softelive é quem quiser me corrigir ou complementar.
+O que é Software Livre? Software Livre é quem quiser me corrigir ou complementar.
 É como se fosse um bolo, você tem a receita, você pode pegar essa receita, fazer o bolo
 e mesmo você saber na receita você pode comprar o bolo de alguém
 ou você pode pegar esse bolo que você criou e pode complementar e vender esse bolo também.
 Então a receita é de todo mundo, quando você tem o seu bolo, o bolo é seu,
-mas a receita é de todo mundo. Então a ideia do softelive é tipo isso, sabe?
+mas a receita é de todo mundo. Então a ideia do Software Livre é tipo isso, sabe?
 Você faz um produto em código, você é entre aspas dono, mas não é dono
 e cada um pode vender, distribuir, modificar, ganhar dinheiro
 que é isso que a gente vai discutir hoje.
