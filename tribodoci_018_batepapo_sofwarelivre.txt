@@ -53,13 +53,13 @@ Certo, eu sempre fui designer, desde que eu fiz escora técnica de comunicação
 desde o segundo grau eu procurei esse caminho.
 Em um dado momento eu estava trabalhando na prefeitura de Niteroia
 que eu era web designer da subsecretaria sem essa tecnologia
-e o Guinolinox estava começando a entrar no mercado.
-Aí tinha aquela história dos revistas com sedês e eu vi um Guinolinox
+e o GNU/Linux estava começando a entrar no mercado.
+Aí tinha aquela história dos revistas com CDs e eu vi um GNU/Linux
 na máquina de um colega meu da prefeitura, que era um sistema operacional
 longe do Windows, que foge um pouco no Windows e ele é diferente,
 ele é um pouco... parece ser legal.
 E isso despertou o primeiro momento.
-Anos depois eu acabei fazendo um curso do Senac de Guinolinox
+Anos depois eu acabei fazendo um curso do Senac de GNU/Linux
 e ali eu vi que tinham muitas ferramentas gráficas
 e o primeiro deles foi o Inkscape, que é o meu software livre e favorito.
 Não é o Blender, as pessoas pensam que é o Blender, mas não é.
@@ -68,7 +68,7 @@ editar imagens, fazer layouts com desenho vetorial, trabalhar com 3D,
 coisa, pois, por que não?
 O que eu fiz com a maioria das pessoas fazendo o início?
 Então eu tinha minhas ferramentas que eu estava habituado numa partição do HD
-e tinha as ferramentas que eu estava aprendendo na outra partição com Guinolinox.
+e tinha as ferramentas que eu estava aprendendo na outra partição com GNU/Linux.
 Você quis mexer por curiosidade ou porque você viu uma oportunidade de negócio ali?
 Eu vi uma forma de manter meu parque de software sempre atualizado
 e dar uma maior vida útil para o meu hardware.
@@ -430,15 +430,15 @@ mais um exemplo bastante
 eu vou falar mais a frente da empresa
 que patrocinava o Open Solaris
 então
-o Nelson falou do Curumin
+o Nelson falou do Kurumin
 o meu primeiro computador que eu ganhei
-ele veio com o CD do Curumin
+ele veio com o CD do Kurumin
 mas na época
 eu era muito novo
 eu não consegui instalar
 e também não tinha suporte
 não conhecia as pessoas
-então eu passei a fase do Curumin
+então eu passei a fase do Kurumin
 não consegui ter essa fase
 mas aí veio o Ubuntu
 e aí comecei a mais
@@ -2037,7 +2037,7 @@ o 7zip
 o 7zip é software livre
 e faz abrir zip, hardware
 e outros formatos compactas
-já a gente do Guinolinox
+já a gente do GNU/Linux
 não precisa
 botar um direito
 trair, botar um direito
@@ -2070,7 +2070,7 @@ apesar de que os tipos de conversão
 você tem o InHAR, o RAR
 tem o zip, tem o tar
 que é o do
-Guinolinox
+GNU/Linux
 e várias outras
 essas provavelmente cada uma delas
 tem a sua própria licença
