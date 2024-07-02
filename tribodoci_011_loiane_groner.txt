@@ -1,7 +1,7 @@
 Você está ouvindo o Tribo do C.I. Podcast!
-Tribo do C.I. Podcast, episódio 11, entrevista com o Loiane Groner.
-Aqui é Sebastião Nelson e é a primeira vez que eu estou gravando sozinho.
-A ideia de fazer uma entrevista com o Loiane surgiu com o podcast com as meninas do grupo WMNT.
+Tribo do C.I. Podcast, episódio 11, entrevista com a Loiane Groner.
+Aqui é Sebastião Relson e é a primeira vez que eu estou gravando sozinho.
+A ideia de fazer uma entrevista com a Loiane surgiu com o podcast com as meninas do grupo /MNT.
 A gente queria colocar a entrevista junto com o podcast.
 No entanto, ficou um pouco grande. A gente achou melhor colocar em um episódio separado.
 Vamos lá para a entrevista?
@@ -11,10 +11,10 @@ Então, principalmente, eu tento até fazer por Skype, mas a gente tinha que ter
 Então ficou complicado. Eu acabei mandando as perguntas por e-mail e ela me respondeu no áudio.
 Aí a gente vai gravar as perguntas para vocês saberem que a gente perguntou, não é?
 Ah, entendi. Então vamos começar então.
-O Loiane fala para a gente da sua formação. Do que você está trabalhando atualmente? No que você já trabalhou?
-Olá, eu sou a Loiane. Sou baixa e ansiante da computação. Já trabalho na área de TI há mais ou menos cinco anos.
+O Loiane fala para a gente da sua formação. No que você está trabalhando atualmente? No que você já trabalhou?
+Olá, eu sou a Loiane. Sou bacharel em ciências da computação. Já trabalho na área de TI há mais ou menos cinco anos.
 Atualmente estou trabalhando em um projeto internacional no IBM com foco em desenvolvimento web na plataforma Java.
-E também trabalho com alguns frameworks JavaScript, como jQuery e XJS, além de liderar uma pequena equipe nesse projeto.
+E também trabalho com alguns frameworks JavaScript, como jQuery e ExtJS, além de liderar uma pequena equipe nesse projeto.
 Então, ainda conhecendo sobre você, a gente gostaria de saber quando veio o interesse sobre informática até chegar à decisão de cursar uma faculdade na área.
 Ah, bem, na verdade, eu sempre quis fazer curso de direito. Na metade do terceiro ano, eu decidi mudar de curso, mudar de uma nas para exatas,
 porque eu não odiava ficar decorando todos aqueles fatos históricos que caiam no vestibular.
@@ -26,7 +26,7 @@ Lógica de programação era uma coisa que nunca tinha... não sabia o que que e
 E aí quando comecei a faculdade, eu levei um baita-shock, porque os professores vieram com aquela ideia de algoritmos, né?
 Não sabia nada daquilo. Então eu tive um pouquinho de dificuldade no início, mas aí eu decidi estudar bastante.
 No final do primeiro semestre, eu estava continuado pela área. Foi assim que surgiu minha paixão por TI.
-Moiane, explica pra gente como é que você trabalha com o seu marketing pessoal.
+Loiane, explica pra gente como é que você trabalha com o seu marketing pessoal.
 Começou na faculdade, no seu blog, ou já veio lá do ensino médio. Fala um pouco como é que nasceu essa cultura em você.
 Sim, essa questão de marketing pessoal começou na faculdade mesmo.
 No primeiro semestre, eu tive uma disciplina chamada Sociologia, onde o professor sempre estava de assunto diferente em cada aula.
@@ -36,11 +36,11 @@ Mas acabou ajudando em outros aspectos da carreira.
 No final, acabou sendo muito útil. Em uma dessas aulas, o professor comentou sobre marketing pessoal.
 Falava sempre que a ideia é que você é um produto no mercado de trabalho, né?
 Afinal, você está oferecendo um serviço e você precisa trabalhar essa sua imagem para ter algum tipo de valorização, né?
-Para ter um poder de barganha. Como você vai oferecer uns serviços, você precisa mostrar as pessoas o que você sabe fazer.
+Para ter um poder de barganha. Como você vai oferecer um serviço, você precisa mostrar para as pessoas o que você sabe fazer.
 Então, você precisa construir um nome. Na faculdade, então, comecei a tentar seguir todas essas dicas do professor e fazer um nome.
-Tentar mostrar que eu conseguia trabalhar na hora de ter, que era bom que eu fazia.
+Tentar mostrar que eu conseguia trabalhar na área de T.I. , que era boa no que eu fazia.
 Então, surgiu a oportunidade de participar da maratona de programação.
-Foi a fase estadual no Espírito Sul. A nossa equipe ficou em primeiro lugar no estado e fomos qualificados para a fase final brasileira.
+Foi a fase estadual no Espírito Santol. A nossa equipe ficou em primeiro lugar no estado e fomos qualificados para a fase final brasileira.
 Na época, foi muito grande, porque a gente foi a primeira equipe do Espírito Sul para uma final brasileira maratona de programação.
 E aí, começaram as notícias em jornais até porque terem a questão também de marketing da faculdade.
 E aí, surgiu a oportunidade de ir fazendo matérias em jornais no decorrer da faculdade.
@@ -91,7 +91,7 @@ Simples, mortais.
 Minha rotina de trabalho, atualmente,
 eu vou para a empresa todos os dias,
 pego o fretado, na minha casa tem empresa,
-eu moro em Campinas, mais um de eu trabalho em Autolântia,
+eu moro em Campinas, mais um de eu trabalho em Hortolândia,
 mais ou menos 10 km de Campinas.
 Um pouquinho afastado.
 No meu projeto, não tem essa opção de fazer home office atualmente.
@@ -107,7 +107,7 @@ assim, aumentando o seu networking.
 O lado ruim a gente não pode fazer home office,
 quando eu preciso fazer fora esse no fim de semana,
 por exemplo, eu tenho que se deslocar de Campinas,
-atar até Autolântia para ficar uns 2, 3 horas.
+atar até Hortolândia para ficar uns 2, 3 horas.
 Mas facilitaria muito se pudesse ficar em casa para fazer essa hora extra.
 Além de outros com modidades,
 tem que você trabalhar em casa, como não ficar perdendo hora no trânsito,
@@ -163,7 +163,7 @@ Mas quando você precisa realmente praticar, falar ao vivo,
 você tem uma certa dificuldade para fazer isso.
 E hoje, tendo contato com o americano diariamente,
 consegui melhorar bastante pronúncia,
-aumentei o vocabularo,
+aumentei o vocabulário,
 existem certas palavras que você vê que eles usam sempre,
 então você consegue notar essas diferenças e acaba
 incluindo também na sua lista de palavras.
@@ -268,7 +268,7 @@ que estão usando.
 Outra coisa que eu gostaria também
 de ter mais tempo para estudar
 são alguns framework JavaScript,
-como existe o XJS e jQuery,
+como existe o ExtJS e jQuery,
 e recentemente foram lançadas
 versões desses frameworks para a plataforma mobile,
 como a Cent lançou Cent Attach,
@@ -306,7 +306,7 @@ também coisas não técnicas,
 livros não técnicos, e como meta,
 agora só estou lendo livros
 em inglês. Assim, eu posso
-aprender inglês, para aumentar meu vocabularo
+aprender inglês, para aumentar meu vocabulário
 e também me divertir ao mesmo tempo.
 Os três últimos livros que eu li
 é o primeiro livro da série do
