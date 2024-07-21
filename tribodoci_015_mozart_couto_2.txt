@@ -36,9 +36,9 @@ com essa questão de relação com as gráficas, com as editoras
 sobre o trabalho em RGB, CMYK, coloração
 Não, ainda não aconteceu não
 Agora eu te falei, já tem esse esquema de
-ninguém nunca me exigiu o CMYK, um poucas vezes
+ninguém nunca me exigiu o CMYK, poucas vezes
 e não deu problema de impressão para eu enviar em RGB
-e a pessoa, na hora que vai montar, converte
+e a pessoa, na hora que vai montar, converte né
 aí nos programas propietários que eles usam, faz a conversão e não dá problema nenhum, não
 fica muito bom
 O cara do bureau sempre que se vira
@@ -55,14 +55,15 @@ ele comentou isso, pois é, aí comentou isso
 então eu sei que a gente vai, a gente vai procurando saber
 e vamos para em prática depois para ver
 Eu tenho uma história interessante
-em meados de 1905, eu vi um tutorial sobre coloração utilizando o GIMP
+em meados de 1900 e 2005, eu vi um tutorial sobre coloração utilizando o GIMP
 e eu lembro bem que era o Quarteto Fantástico, lembro desse tutorial?
+Ahh ta
 e a minha agradável surpresa é que o autor do artigo
 era alguém que eu já seguia muito tempo as dicas e tutoriais com revistinhas
-e era um moso acordo
+e era o Mozart Couto, sabe
 ali eu ainda estava aprendendo também as coisas
 eu também sempre procurei não complicar muito
-porque tem aquelas técnicas de vários leias
+porque tem aquelas técnicas de vários layers
 que eu acho bom, determinado ponto
 mas para mim às vezes não dá muito certo
 que como eu te falei, eu trabalho muito rápido
@@ -84,8 +85,9 @@ e eu fazia esse negócio
 ainda mais usando mouse
 é, usando mouse
 de bolinha
+isso é terrível
 mas lá os computadores eram até bom
-nessa época eu programava em cima do AutoCard
+nessa época eu programava em cima do Auto CAD
 então as máquinas tinham que ser um pouco melhores
 e os mouse também eram um pouco melhores
 foi bem interessante o historial que eu vi lá
@@ -98,18 +100,18 @@ ter pause e vai aprender
 agora mesmo estou preparando de arte final
 eu vou começar a fazer mais de desenho
 porque eu não sou pintor, colorista
-eu faço expo necessidade
-eu sou mesmo desenhista
+eu faço isso por necessidade
+eu sou mesmo é desenhista
 então eu estou fazendo uma série agora
 mostrando o desenho feito no lápis
 vídeo tutorial, né?
 vou fazer três tipos de arte final
 já fiz duas
 para mostrar como é que tudo usando aquela ferramenta
-tinta do gamepad
+tinta do Gimp
 para mostrar como ela é útil
 como o traço fica bonito para arte final
-estudo digitalmente
+isso tudo digitalmente
 ou técnico de desenho digital
 agora eu tenho feito muita coisa já direto, né?
 já desde o início do trabalho
@@ -121,7 +123,7 @@ para enxergar o lápis embaixo bem fraco
 lápis digital, né?
 e aí eu venho com a outra camada e faço arte final
 depois eu apago aquele fundo
-e mesco a parte de baixo
+e mesclo a parte de baixo
 com a camada branca
 com o desenho já arte finalizado
 e é interessante que a gente pode desenhar bem grande, né?
@@ -133,22 +135,24 @@ no dia que eles fizerem monitores
 que você não tenha essa luz assim, né?
 que seja tipo aqueles leitores de e-books, né?
 e aí?
-se tiver isso aí, acabou
-e sai mais da frente
-temos um tablet da Wakonde, viu?
+e ink paper né
+nossa, se tiver isso aí, acabou
+não sai mais da frente
+temos um tablet da wacom, viu?
 que desenha no próprio...
 quer dizer, o tablet é um computador por tudo, né?
 tem um novo também
+a cintiq né?
 que você desenha no papel e ele grau
 tem, hoje já tem isso
-inclusive tem a Duopem
+inclusive tem a Duo pen
 que ela é muito parecida com essa
-que a Wakonde lançou agora
+que a wacom lançou agora
 você pode desenhar tanto na tela do notebook
 você desenha ela como uma tablet
 só que ela não tem pressão, né?
 pra fazer esboços, é... quebra um galho
-interessante, chama Duopem
+interessante, chama Duo pen
 e ela é muito barata
 você encontra ela no Brasil
 era coreana
@@ -161,7 +165,7 @@ foi uma vantagem, sabe?
 porque o lápis não fica na frente do desenho, sabe?
 daí eu consigo estar sempre visualizando o desenho
 eu ainda não tive essa experiência de desenhar
-nessas mesas, tipo a sentir que não
+nessas mesas, tipo a cintiq não
 eu acho que deve ser muito confortável, né?
 mas eu já vi falar que é muito quente
 você tem que trabalhar com uma luva também
@@ -177,7 +181,7 @@ que ele tem que te fazer esquecer de tudo
 que você tá segurando alguma coisa
 e comigo, assim, eu uso na posição do mouse
 a minha tablet, né?
-mas eu não olho pra minha mão, né?
+mas eu não olho pra minha mão, nada
 não vejo o que eu tô fazendo
 ali, cada tablet, dependendo
 de variações
@@ -186,8 +190,8 @@ do nível de pressão
 e da velocidade dos dados
 da caneta pra mesa, né?
 a junção dessas coisas, combinações delas
-varia muito trás
-eu já comprei várias tabras pra mim
+varia muito o traço
+eu já comprei várias tablets pra mim
 eu acho que eu já tive
 ao todo mais umas 12
 algumas delas eu devolvia
@@ -208,8 +212,8 @@ a minha, né?
 a minha foi doação, eu...
 a minha foi comprada
 e na esquina também, talvez é a mesma
-agênios, é...
-agênios, é igual a minha
+genius, é...
+genius, é igual a minha
 nós bem seis por um, hein, tu é
 olha, e aqui tem um traço
 mais certo
@@ -223,7 +227,7 @@ que o cursor fica um pouco lento
 isso atrapalha muito e as pequenininhas
 são muito rápido, eu já notei que
 eu não entendo isso profundamente
-mas pesquisia alguma coisa e eu vi
+mas pesquisei alguma coisa e eu vi
 se ela tivesse essa passagem de dados
 abaixo de 200 rps
 ela não vai te dar uma precisão
@@ -233,7 +237,7 @@ mais tinta, entendeu?
 então ela fica sendo como se fosse
 um pincel pra pintar
 e as tablets que todo mundo compra
-que fala que a linda de mercado e adora
+que fala que a lider de mercado e adora
 elas são assim, elas não te dão
 um controle absoluto
 alguns modelos têm um modo de precisão
@@ -268,7 +272,7 @@ o mouse vai lá pro seu cantinho esquerdo
 se você clicar lá no cantinho direito
 ele vai lá pro seu cantinho direito
 e eu lembro que eu recebi a doação
-foi exatamente a Gênios que falou
+foi exatamente a Genius que falou
 é mouse pen
 o drive dela é mouse pen
 o modelo dela escrito lá é diferente
@@ -290,8 +294,8 @@ mas a sua é a 8 por 6
 a 6 por 8 melhor não?
 acho que a 6 por 8
 e você usa no
-débio né, que você falou ou não né
-é, eu usava ela no
+Debian né, que você falou ou não né
+é, eu usava ela no Ubuntu
 junto
 não, porque pra mim não tem problema não
 o widescreen aqui da tudo
@@ -311,7 +315,7 @@ plástico ali da tablet, desenho por cima
 aí já começa
 um monte de complicação
 eu lembro que no Windows, eu resolvi isso no Windows
-lá no drive
+lá no driver
 o pacotezinho do drive, ele tem a opção de você
 reduzir a área de desenho
 da tablet pra ficar mapeada
@@ -319,19 +323,18 @@ exatamente wide screen, sabe
 tem, isso tem essa variação
 eu nunca achei isso no Linux
 é, parece que eles ainda estão preocupados
-em fazer outras coisas nos drives
+em fazer outras coisas nos drivers
 não dá tanta opção
-já vi alguns drives
-alguns programis
+já vi alguns drivers
+alguns programinhas
 acho que não sei se vocês já viram do
-que nome apps, mas não argaram pra lá
-tchau
-tinha um drive pra itek
+que Gnome apps, mas não largaram pra lá
+tinha um driver pra itek
 que era muito bom com
-o Face Graph, mas ficou abandonado
+interface gráfica, mas ficou abandonado
 é uma pena
 a última versão do Ubuntu tem até
-uma parte lá só de OACON
+uma parte lá só de wacom
 eu nunca me achei porque a minha agenda, eu não sei se funciona
 não funciona, agora tá
 o Ubuntu tá uma beleza
@@ -384,7 +387,7 @@ sobre o seu Gimp
 se ele é muito customizado, se você baixa algum
 plugin ou aquele Gimp
 mesmo que você entra lá no site
-e baixos já começam a usar
+e baixa e já começam a usar
 ou se você usa um
 é legal se perguntar isso
 o meu eu uso junto
@@ -393,16 +396,16 @@ e o Gimp Paint Studio
 eu acho indispensável
 o Gimp Paint Studio indispensável
 pra quem quer fazer um trabalho
-com vincéis
+com pincéis
 um defeito de coisa artística
 bonito, tem que colocar o Gimp Paint Studio
 vocês conhecem né, que é o pacote
-de presets
-que já se desenvolveu
+de presets 
+que o Ramón Miranda desenvolveu
 que ele é um ilustrador espanhol
 e o Gimp Paint, que aquele japonês
 se desenvolveu também
-eu acho que é um forque né, do Gimp
+eu acho que é um fork , do Gimp
 ele tem uns recursos
 de aprimoramento
 da pressão, da força
@@ -428,11 +431,10 @@ mas quase não use né, esses filtros
 eu fico tentando, uma hora eu vou aprender
 e eu vou mexer, mas quase não uso
 4 horas configurando e usa
-15 minutos em jogo
+15 minutos em enjoa
 mas a sua ferramenta
 chodó mesmo é o Gimp
-você usa mais ela no diadio
-ou você usa outras
+você usa mais ela no dia a dia ou você usa outras
 assim, a mais
 um Escape, MyPaint
 os vetoriais
@@ -456,21 +458,20 @@ eu acho, sempre pensei
 3.0 vai ficar
 uma coisa muito boa
 um problema muito forte
-tomaram aquele coctu no gênero
-só né
+tomaram que eles coloquem tudo em uma janela só né
 eu não sei, eu já fiz
 os meus esquemas aqui
-que funcionam, é meio parecido com aquele padrão
+que funcionam, é meio parecido com aquele padrão Photoshop
 que eu costumei muito, mas funciona
 fica legal manter a janela sempre em cima
 ou então deixa ela naquele modo
-utilidade lá e ela fica ser visível
+utilidade lá e ela fica sempre visível
 as paletas futuantes que eu digo
 e a janela também fica lá embaixo delas
 paradinho, então é tranquilo
 qualquer coisa eu tab ali e as paletas desaparecem
 e o F11 trabalha na tela cheio
-que repõe isso também, mas é tranquilo
+que é bom isso também, mas é tranquilo
 primeiro é tranquilo
 hoje, qual que é a proporção do teu tempo de trabalho
 e com o GIMP?
@@ -498,7 +499,7 @@ nossa, achei tanta coisa
 então, não tô sentindo mais falta de nada
 acho que isso é muito legal
 entrar nessa parte
-de proprietar o livre
+de proprietário o livre
 os seus trabalhos têm algum
 restrição sobre a licença
 quando você publica alguma coisa
